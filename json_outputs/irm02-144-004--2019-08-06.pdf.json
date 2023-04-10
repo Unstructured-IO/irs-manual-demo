@@ -1,0 +1,1091 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a5da8d9baa92659151ac93cf3dd872a6",
+    "text": "The Component Capacity Management Process is applicable to all ACIO (Associate Chief Information Officer) areas with responsibility for Capacity management.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "1747b85533514d3bedc06a5fd5ab6b04",
+    "text": "Component Demand Management Cross Functional Flow Diagram",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "b1c70f6af7b5c47b0d534503ad9deca8",
+    "text": "Component Capacity Management 2.144.4",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ef51e648dfc814b76990088c13114222",
+    "text": "page (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6ee3cb90f48bdf3c09c3d7f78fefaade",
+    "text": ") Overview - This IRM is directed to organizations that will build, monitor, maintain, tune and upgrade components that support the businesses and and mission. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3dc9ec07f302e6142bf025c71b89ec81",
+    "text": ") Purpose - This to provide guidance to support the mission by efficiently taining the component infrastructure. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a76ce4765050bf229598cd44737ff351",
+    "text": ") Audience - This process is directed to all organizations that have to monitor and maintain the component environments. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "295debd33633be03ba7d5b8cb44b8b35",
+    "text": ") Policy Owner - The ACIO of Enterprise Services (ES). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0904fee7bee3102273387c3a079d8260",
+    "text": ") Program Owner -Will be the Director of Solutions Engineering (SE) located within the ES ACIO organization (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "45fb73b67ea54d9a901f09c2cd6d95c4",
+    "text": ") Primary Stakeholders - Will be organizations that have responsibility to maintain the IRS capacity infrastructure. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9b0323a6281b2208fb6599bd91e32bbe",
+    "text": ") Program Goal - To deliver and maintain the most cost effective and efficient capacity infrastructure( i.e., hardware, software, applications and operating systems, etc.) to the business stakeholders to help ensure their support of IRS mission is met. . (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8e010ead8ecb8bf100bca8ab8f567b5d",
+    "text": ") A process is deﬁned as “A set of related activities that accomplish a common goal”. The process deﬁnition laid out in this document further breaks down these Activities into Tasks, each of which have a complete set of attributes deﬁned such as data and tool speciﬁcations and the role(s) responsible for executing the tasks. The document also includes process goal and metrics, role deﬁnitions, policies and other process related attributes. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "49e9a11d6ca83176d08f9d2b38c1576f",
+    "text": ") The Component Capacity Management process translates business needs plans into requirements for service and IT infrastructure, ensuring that the future business requirements for IT services are quantiﬁed, designed, and implemented in a timely fashion. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "cd555df7b6793008e6fd670a1c7d958b",
+    "text": ") The process goal describes a speciﬁc purpose or achievement toward which the efforts of the process are directed. Each process has a speciﬁc focus when combined with the other processes, forms a comprehensive framework for delivering and managing services. [State the goal of your process] • To deliver and maintain the most cost effective and efficient capacity infrastructure( i.e., hardware, software, applications and operating systems, etc.) to the business stakeholders to help ensure their of the IRS mission is met (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "481a042111e4fb0f1fbf5d232c60a3e2",
+    "text": ") Process objectives describe material outcomes that are produced or by the process. The following is a list of objectives for this process: [List the objectives of your process].",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e66bb3006efe98fe5f5712c16bdaeea3",
+    "text": "Audience - This process is directed to all organizations that have responsibility to monitor and maintain the component environments.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1ec5c2a6ac7e2c9e8d5468638d7f671a",
+    "text": "To deliver and maintain the most cost effective and efficient capacity infrastructure( i.e., hardware, software, applications and operating systems, etc.) to the business stakeholders to help ensure their support of the IRS mission is met",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "b84930c75a819f002ff922fa887da4d1",
+    "text": ") Each process deﬁnes at least one role. Each role is assigned to perform speciﬁc tasks within the process. The responsibilities of a role are conﬁned to the speciﬁc process. They do not imply any functional standing within the hierarchy of an organization. For example, the process manager role does not imply the role is associated with or fulﬁlled by someone with functional man- agement responsibilities within the organization. Within a speciﬁc process, there can be more than one individual associated with a speciﬁc role. Addition- ally, a single individual can assume more than one role within the process",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "fb3e3986617710c9f7fe7ac9c4588ed2",
+    "text": "Name Description Capacity Manager • Ensures process procedures are followed • Represents interests of Capacity Man- agement at meetings and functions • Receives and acquires Higher Authority support as needed • Veriﬁes and adjusts parameters used in the planning process • Adds and reviews system life cycle per- formance design criteria and production acceptance tests • Recommends resource re-allocations • Ensures that the Capacity Plan is current and that it tracks business growth and trends Capacity Analyst • Produces Capacity Plan with a forecast far enough ahead to take account of changes in IT capacity that comply with business plans and IT plans • Documents the need for Hardware, Software, and Component upgrades or additional equipment, based on SLRs, cost constraints, reliability and availability • Produce regular management reports including current usage of Components, expected trends and forecasts • Responsible for Capacity Management documentation",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4a29c3c3d09b52c959f186331ff32e6a",
+    "text": "Higher Authority • Approve resources to meet capacity re- quirements • Review and recommend capacity im- provement recommendations • Review summary performance informa- tion describing capacity • Act as the ﬁnal point of escalation for capacity issues Operational Manager • Provide ongoing maintenance of Con- ﬁguration Items (CI) which affects their operation and institute measures to keep them operating at peak performance • Assist in describing the service chains associated with service provisioning • Participate in discussions of capacity • Meeting Operational Level Objectives and explaining variances from targets. Business Stakeholders • Negotiate capacity targets and sign-off on targets in Operational and/or Service Level Agreements • Review capacity performance against target and participate in preparation and recommendation of any remedial actions • Participate in preparation and review of Capacity Plan • Provide information on capacity Service Manager • Ensures that services are operational • Reviews Capacity Plans",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "66f4b53728771a9c8bf41921df873028",
+    "text": "2.144.4.1.4 (08-06-2019) Program Management and Review",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f16611aa06442938fe94bee536d75f8d",
+    "text": "Policies outline a set of plans or courses of action that are intended to inﬂuence and determine decisions or actions of a process. Policies provide an element of governance over the process that provides alignment to business",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "73cb522f71a960931eed5d53b3b075bf",
+    "text": "The Component Capacity Management process will have a single Process Owner and a separate Process Manager responsible for implementation and ensuring adherence to the process. The process will be reviewed regularly to ensure that it continues to support the business require",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b939eee2db3aab1a70c4fb5375a87cac",
+    "text": "ments of the enterprise. The process will be designed and developed based on ROI to the business. Process metrics will be focused on providing relevant information as opposed to merely presenting raw data.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "6a724b0c01b1ab5f3f0832caf167a042",
+    "text": "2.144 Capacity Statement: Roles and responsibilities for the process must be clearly deﬁned and appropriately staffed with people having the required skills and training. The mission, goals, scope and importance of the process must be clearly and regularly communi- cated by upper management to the staff and business customers of IT. All IT staff (direct and indirect users of the process) shall be trained at the appropriate level to enable them to support the process. Rationale: It is imperative that people working in, supporting or interacting with the process in any manner understand what they are supposed to do. Without that understanding Component Capacity Management process will not be successful. Process: Statement: Modiﬁcations to the Component Capacity Man- agement process must be approved by the Process Owner. The design of the process must include appropriate interfaces with other processes to facilitate data sharing, escalation and workﬂow. The process must be capable of providing data to support real-time requirements as well as historical/trending data for overall process improvement initiatives. The process must be fully documented, published and acces- sible to the various stakeholders of the process. The process will be reviewed on a periodic basis in order to ensure it continues to support organi- zational goals and objectives (continuous improvement). The process must include Inputs, Outputs, Controls, Metrics, Activities, Tasks, Roles and Responsibilities, Tool and Data re- quirements along with documented process ﬂows. The process will be kept straight forward, rational, and easy to understand. Rationale: The process must meet operational and business requirements. Technology and Tools:",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e135a8c5a15ad1dee604705ec59656f3",
+    "text": "Statement: Roles and responsibilities for the process must be clearly deﬁned and appropriately staffed with people having the required skills and training. The mission, goals, scope and importance of the process must be clearly and regularly communi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "49999988b9f7418133a32256790b98a0",
+    "text": "cated by upper management to the staff and business customers of IT. All IT staff (direct and indirect users of the process) shall be trained at the appropriate level to enable them to support the process. Rationale: It is imperative that people working in, supporting or interacting with the process in any manner understand what they are supposed to do. Without that understanding Component Capacity Management process will not be successful. Process: Statement: Modiﬁcations to the Component Capacity Man",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8febd855837ec754a407e312aade2dba",
+    "text": "agement process must be approved by the Process Owner. The design of the process must include appropriate interfaces with other processes to facilitate data sharing, escalation and workﬂow. The process must be capable of providing data to support real",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "2302396b0bbba11e12e2cf0339708630",
+    "text": "time requirements as well as historical/trending data for overall process improvement initiatives. The process must be fully documented, published and acces",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "35af662b16e7a1ea813822895997d5af",
+    "text": "sible to the various stakeholders of the process. The process will be reviewed on a periodic basis in order to ensure it continues to support organi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ef9a1d93a8bb022342bf3f9df022f94a",
+    "text": "zational goals and objectives (continuous improvement). The process must include Inputs, Outputs, Controls, Metrics, Activities, Tasks, Roles and Responsibilities, Tool and Data re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "c5e099ad1804220722bb1192a43cc2ef",
+    "text": "quirements along with documented process ﬂows. The process will be kept straight forward, rational, and easy to understand. Rationale: The process must meet operational and business requirements. Technology and Tools:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "45691be9f0249bf80a0537f0fcc40f62",
+    "text": "Modiﬁcations to the Component Capacity Man",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8febd855837ec754a407e312aade2dba",
+    "text": "agement process must be approved by the Process Owner. The design of the process must include appropriate interfaces with other processes to facilitate data sharing, escalation and workﬂow. The process must be capable of providing data to support real",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "2302396b0bbba11e12e2cf0339708630",
+    "text": "time requirements as well as historical/trending data for overall process improvement initiatives. The process must be fully documented, published and acces",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "35af662b16e7a1ea813822895997d5af",
+    "text": "sible to the various stakeholders of the process. The process will be reviewed on a periodic basis in order to ensure it continues to support organi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ef9a1d93a8bb022342bf3f9df022f94a",
+    "text": "zational goals and objectives (continuous improvement). The process must include Inputs, Outputs, Controls, Metrics, Activities, Tasks, Roles and Responsibilities, Tool and Data re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "64143f5de2b7e36903fc69ecf611e6c4",
+    "text": "quirements along with documented process ﬂows. The process will be kept straight forward, rational, and easy to understand.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "bc018105dfc3ef68399cb766c6db0fd0",
+    "text": "Capacity Management 2.144.4",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "85ecb3ab00de29d0effa663b90c0bd56",
+    "text": "page 5 Statement: All tools selected must conform to the enterprise architectural standards and direction. Existing in-house tools and technology will be used wherever possible, new tools will only be enter- tained if they satisfy a business need that cannot be met by current in-house tools. The selection of supporting tools must be process driven and based on the requirements of the business. Selected tools must provide ease of deployment, customizing and use. Automated workﬂow, notiﬁ- cation and escalation will be deployed wherever possible to minimize delays, ensure consistency, reduce manual intervention and ensure appropri- ate parties are made aware of issues requiring their attention. The tools used by this process are the following: • EOPS will have many variety of tools to use in determining what they need to accomplish the task. Rationale: Technology and tools should be used to augment the process capabilities, not become an end themselves.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e88ece46f9a96d30a80b70a621cc1c65",
+    "text": "All tools selected must conform to the enterprise architectural standards and direction. Existing in",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "cae300f79640b228453b85a12512ef88",
+    "text": "house tools and technology will be used wherever possible, new tools will only be enter",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d6883ea5001cc53e8878de168dcbc536",
+    "text": "tained if they satisfy a business need that cannot be met by current in",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4c8de5908f5a40d7b48b29c038ec5ba9",
+    "text": "house tools. The selection of supporting tools must be process driven and based on the requirements of the business. Selected tools must provide ease of deployment, customizing and use. Automated workﬂow, notiﬁ",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3ec3909bd9c7ae563628fcf1fb11b7bd",
+    "text": "cation and escalation will be deployed wherever possible to minimize delays, ensure consistency, reduce manual intervention and ensure appropri",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "978286c5f84ae28aae01a08f25749df6",
+    "text": "ate parties are made aware of issues requiring their attention.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7a0ffbc1545565bf84b3f1be95ab06df",
+    "text": "The tools used by this process are the following:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "2e4982070a06855af5a5749784eaf86d",
+    "text": "EOPS will have many variety of tools to use in determining what they need to accomplish the task.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "6fac328eb19e2c3ce3b7e916717cfdc7",
+    "text": "Name Description Management Business Capacity Management is a required activity mandated by the IRS CTO Business Capacity Management process is limited to all ACIO areas with responsibility for Capacity Management Metric Business Capacity Process Monitors will continuously verify to what degree the Business Capacity Management Process is being used.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "87df267ae81b4394bb5d5a517e8ea6a6",
+    "text": ") Metrics are used for the quantitative and periodic assessment of a process. They should be associated with targets that are set based on speciﬁc objectives. Metrics provide information related to the goals and objectives process and are used to take corrective action when desired results are not being achieved and can be used to drive continual improvement of process effectiveness and efficiency. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "be584e1a8791b3187ac636da3a3c3d21",
+    "text": ") Management will regularly set targets for process performance, gather able data related to different functions of the [Component Capacity Management] process, and review that data in order to make informed decisions and take appropriate corrective action, if necessary. All Measure- ments will have a deﬁned data dictionary, map to the organizational goals, and be documented in a Process Measurement Plan. The Process surement Plan template is available in the IT PAL. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "12b2c518d962056209a5416bfeafbc27",
+    "text": ") The tailoring guidelines identify the allowable variations of the IT standard process as needed for adjustments (adding, deleting, modifying) Guidelines relative to speciﬁc operational or functional needs of another organization. Process tailoring is about roles and procedures, not the standard process major activities deﬁned in this process. All tailoring request, with supporting rationale, must be submitted in writing to and approved by the [Component Capacity Management process owner. [Enter tailoring guideline instructions]. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "1c5561597e0d34534feabbb5c66fad8f",
+    "text": ") Terms/Deﬁnitions/Acronyms (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "a64dd07d1b8b96278422edba3db06a57",
+    "text": ") Terms and Deﬁnitions [Enter terms and deﬁnitions identiﬁed in this document. See example Term Deﬁnition Business A strategic capacity management process done Capacity Man- when decisions to expand or contract the infra-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "c99fd101e0fc84a25141e1be0580fcfa",
+    "text": "The tailoring guidelines identify the allowable variations of the IT standard process as needed for adjustments (adding, deleting, modifying) relative to speciﬁc operational or functional needs of another organization. Process tailoring is about roles and procedures, not the standard process or major activities deﬁned in this process. All tailoring request, with supporting rationale, must be submitted in writing to and approved by the [Component Capacity Management process owner.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "f0ebc6d22fc236b8f8b728cebf779014",
+    "text": "2.144.4.1.6 (08-06-2019)Terms/Deﬁnitions/Acronyms",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "7bc81ab88a2e1d87f24ec7116c8f00a1",
+    "text": "[Enter terms and deﬁnitions identiﬁed in this document. See example below].",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "f7a1f47eb7d0d0d8211ffd0a68938ef9",
+    "text": "Business A strategic capacity management process done Capacity Man",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "30c71de9fa9742c4940d637980d7146a",
+    "text": "when decisions to expand or contract the infra",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "a45e7811d14aaa12eb365feb3386d260",
+    "text": "agement structure are made due to expected changes in demand by the business (addition of new applica",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "63c5a0525dfbfa0e99413c40e9ac6cba",
+    "text": "tions, new infrastructure, etc.).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "6bb2469ee8020ff7c5559ee9aedab9bc",
+    "text": "page 7 RACI The RACI model is based on the principle that people act in one of four ways when executing a task. It accounts for the fact that more than one role may be active in performing a speciﬁc task while clearly deﬁning speciﬁc responsibilities for that role. While many roles may be involved in a task only one is Accountable for the results. The actions are: R Responsible for the action (may do the task) A Accountable for the action (including approval) C Required to be Consulted on the action I Required to be Informed of the action If a task does not have an Accountable role indicated then the Responsible role is assumed to be ac- countable for the task. Service Level A service-level agreement is part of a service Agreement contract where the level of service is formally deﬁned. In practice, the contracted delivery time (of the service) or performance. Service level A set of practices for IT service management management (ITSM) that focus on aligning it services with the needs of the business Service Level Re- A statement from a customer to a service quirements provider describing their service expectations. It includes the requirements of the customer from the service provider",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "cb397907693b6ba1d9186099cbc9f4ad",
+    "text": "RACI The RACI model is based on the principle that people act in one of four ways when executing a task. It accounts for the fact that more than one role may be active in performing a speciﬁc task while clearly deﬁning speciﬁc responsibilities for that role. While many roles may be involved in a task only one is Accountable for the results. The actions are: R Responsible for the action (may do the task) A Accountable for the action (including approval) C Required to be Consulted on the action I Required to be Informed of the action If a task does not have an Accountable role indicated then the Responsible role is assumed to be ac",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8eeb9065d80bd4cbe0c889004b095ab8",
+    "text": "countable for the task. Service Level A service",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "025b7e9d65680d4a441553b5803dba5c",
+    "text": "level agreement is part of a service Agreement contract where the level of service is formally deﬁned. In practice, the contracted delivery time (of the service) or performance. Service level A set of practices for IT service management management (ITSM) that focus on aligning it services with the needs of the business Service Level Re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "afef29ca40fa8a9586c48d12d9e115d5",
+    "text": "A statement from a customer to a service quirements provider describing their service expectations. It includes the requirements of the customer from the service provider",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "c95a12a4c98d70fd9020b5feb99966a8",
+    "text": "The RACI model is based on the principle that people act in one of four ways when executing a task. It accounts for the fact that more than one role may be active in performing a speciﬁc task while clearly deﬁning speciﬁc responsibilities for that role. While many roles may be involved in a task only one is Accountable for the results. The actions are: R Responsible for the action (may do the task) A Accountable for the action (including approval) C Required to be Consulted on the action I Required to be Informed of the action If a task does not have an Accountable role indicated then the Responsible role is assumed to be ac",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "fef82377c5842996e6266b0a4c9d8b61",
+    "text": "countable for the task.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "a6c30afdcdd4a8337ff98624adbea39a",
+    "text": "[Identify and list the acronyms and deﬁnitions identiﬁed in this document. See example below].",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "bbcca4d14918518423e96f4ee0678d39",
+    "text": "ITSM Information Technology Service Management PAL Process Asset Library PBA Patterns of Business Activity PD Process Description PMI Project Management Institute RACI Responsible, Accountable, Consulted and Informed ROI Return on Investment SLA Service Level Agreement SLM Service Level Management SLR Service Level Requirements",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "b726d632c8e0f02816bbb124771285dd",
+    "text": "Process training involves training all stakeholders about key processes that are crucial for an organization to deliver business objectives. Training provides clarity to employees on a set of procedures that needs to be carried out as part of the process and the best possible way to do them. List below the training resources available for this process:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "555f565ed16322866ed5b500a3a426d8",
+    "text": "pvliclit ydpdauily ivian Q. 1 7T 7. TService LevelManagementAvailabilityManagementDemandManagementIT ServiceContinuityManagementLegendFollow one or more of the indicated pathsasdetermined by the analysis performed in Step 2A AMaintenanceMonitoringMaintenanceAnalysisStep 1Incident andProblemManagementServiceStep2CapacityManagementElash indicates default pathStep 3Maintenance TuningStep 4ComponentUpgradeStep 5:Component DemandManagement\\Monitor event\\‘[ Monitor event|ConfigurationManagementConfigurationManagementConfigurationManagement]Information onlyinterfaceConnect toprocess step orexternal Process0S:CTO:ES:SE-DIAG_CCM_PD-V0.5-12162013BusinessCapacityManagementServiceCapacityManagementIIiIIiIiiIIii{ monitor event !iiIIIiIIIiIIMonitor eventMaintain CapacityManagementDatabaseCapacityManagementInformationSystem0S:CTO:ES:SEDecember 16, 2013[",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "943c110ead7a8c2ccc9a2b85ed04e46a",
+    "text": "LegendInformation onlyinterfaceConnect toprocess step orexternal Process",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "0791bb475e529b775719af63bc37cf3a",
+    "text": "0S:CTO:ES:SE-DIAG_CCM_PD-V0.5-12162013",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "cccd834d803dbbebad740d448f1db53e",
+    "text": "Figure 2.144.4-1",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d4f0038dffa345cf0bb2470e72b6a7c0",
+    "text": ") Process inputs are used as triggers to initiate the process and to produce the desired outputs. Users, stakeholders or other processes provide inputs. The following is a list of inputs for this process:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "5b41f8998330b3b5da71045a637acc42",
+    "text": "[Complete process input table. See examples below].",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "1ca13b7a748afdffb5c72da424339e0d",
+    "text": "page Performance Infor- Current and historical Capacity Management mation performance and utili- Information System zation information for (CMIS) IT services and IT infrastructure compo- nents. Conﬁguration Man- Conﬁguration data on Conﬁguration Man- agement System the components, agement System (CMIS) Information services and relation- (CMIS) ships. Workload / Opera- Information about job IT Operations team tional Information schedules, opera- tional tasks, and services dependen- cies. Patterns of Business An analysis of the Demand Management Activity (PBA) workload showing how this varies according to demand.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "60e709e3d58b13f7ca425f17bb8abb39",
+    "text": "Each process produces tangible outputs. These outputs can take the form of products or data and can be delivered to a user or stakeholder or they can be used as inputs to other processes. Outputs are measurable in terms of quantity and quality.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "ff627b7c0631e1b808e609f22c769215",
+    "text": "[Complete process output table. See example below].",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "8ec0b571ca3c2ae5f410c06b6ca18c8f",
+    "text": "Name Description Recipient Components Perfor- Reports on the per- • Capacity Manager mance, Information formance of • Business Stake- and Reports Components using holders data in the CMIS. • OperationalManager Workload Analysis Reports providing • Capacity Manager and Reports information about • Operational workloads that can Manager be used for modeling, • Business Stake- application sizing, holders and capacity planning. Ad Hoc Capacity and Performance and Uti- • Capacity Manager Performance Reports lization reports • Operational generated on an as Manager needed basis, • Business Stake- typically in response holders to capacity issues.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "59ba7702740d9c17c84b4d2ad4b67a02",
+    "text": "Forecasts and Pre- Reports used to plan • Capacity Manager dictive Reports capacity changes and • Operational operatively identify Manager potential capacity • Business issues. Stakeholders",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "b19d8a417024eeed94a3f4d52196e90d",
+    "text": ") An activity is a major unit of work to be completed in achieving the objectives of the process. A process consists of a sequence of related activities that transforms inputs into outputs and performed by the roles deﬁned in the process. Activities are measurable in terms of efficiency and effectiveness. Identify the activities in the process and provide a brief description. The activi- ties must correspond with the high-level process ﬂow diagram above.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "5b7961d693794f75f84181e7f2675134",
+    "text": "ID Name Description CCap Monitoring The purpose of this process step is 1.0 to ensure the optimum use of the hardware and software components, that all agreed service levels can be achieved, and that business volumes are as expected CCap Maintenance and The purpose of this process step is 2.0 Analysis to determine the necessary changes to the conﬁguration needed to implement the recommendations using the conﬁguration management process, as needed CCap Maintenance and The purpose of this process step is 3.0 Tuning to determine the necessary changes to the conﬁguration needed to implement the recommendations using the conﬁguration management process, as needed. CCap Component Upgrades The purpose of this process step is 4.0 to introduce to the live operation services, any changes that have been identiﬁed by the monitoring and analysis activities. The imple- mentation of any changes arising from these activities must be under- taken through a strict, formal Change Management process.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "7266bcc89468e01c51d107f88d80d521",
+    "text": "The purpose of this process step is to introduce to the live operation services, any changes that have been identiﬁed by the monitoring and analysis activities. The imple",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "047c338a304884d2bfa26cdec25b0779",
+    "text": "mentation of any changes arising from these activities must be under",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a1c1334f0d1ec4972772b874a4858f08",
+    "text": "taken through a strict, formal Change Management process.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "0065d1cd6131f40e25ebd4c80ed18102",
+    "text": "Component Capacity Management 2.144.4 page CCap Component Demand The purpose of this process step is 5.0 Management to inﬂuence the demand for compo- nents and their use. A good Capacity forecast for components will anticipate and plan for peak demand. Demand Management is achieved by assigning resources according to priorities. CCap Maintain the Capacity The purpose of this process step is 6.0 Management Informa- to ensure capacity management and tion System performance information is easily available to stakeholders through a central repository or database. The database is used to collect much of the data input listed throughout this Component Capacity Management process description.. 2.144.4.2.5 (1) Procedure (08-06-2019)Procedure 2.144.4.2.5.1 (1) The tasks and roles for each activity are the following for this process are the (08-06-2019) following: There can only be 1 Role that is Responsible for a Task. CCap 1.0 Monitoring ID Task Name and Role RACI Duties Description CCap 1.1 Monitor individual • Capacity • R Determined by local Capacity areas hardware compo- Analyst nents CCap 1.2 Monitor individual • Capacity • R Determined by local Capacity areas software compo- Analyst nents CCap 1.3 Collect data for the • Capacity • R Determined by local Capacity areas components on Analyst which monitoring is installed and activated CCap 1.4 Record the data • Capacity • R Determined by local Capacity areas and post to the Analyst CMIS",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "5c38bd7bdb0bb4207b1639f8c20f069e",
+    "text": "CCap Component Demand The purpose of this process step is 5.0 Management to inﬂuence the demand for compo- nents and their use. A good Capacity forecast for components will anticipate and plan for peak demand. Demand Management is achieved by assigning resources according to priorities. CCap Maintain the Capacity The purpose of this process step is 6.0 Management Informa- to ensure capacity management and tion System performance information is easily available to stakeholders through a central repository or database. The database is used to collect much of the data input listed throughout this Component Capacity Management process description..",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "4166f5df7d9912c5453e19ba8d1823a7",
+    "text": "to ensure capacity management performance information is easily available to stakeholders through a central repository or database. The database is used to collect much of the data input listed throughout this Component Capacity Management process description..",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "0057e637c243ad37b7fbb525a5e07c65",
+    "text": "The tasks and roles for each activity are the following for this process are the following: There can only be 1 Role that is Responsible for a Task.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "56f6f6494103ef580bb60ec828f49e6e",
+    "text": "ID Task Name and Role RACI Duties Description CCap 1.1 Monitor individual • Capacity • R Determined by local Capacity areas hardware compo- Analyst nents CCap 1.2 Monitor individual • Capacity • R Determined by local Capacity areas software compo- Analyst nents CCap 1.3 Collect data for the • Capacity • R Determined by local Capacity areas components on Analyst which monitoring is installed and activated CCap 1.4 Record the data • Capacity • R Determined by local Capacity areas and post to the Analyst CMIS",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "8c8a98cfe85cb926d7493d007002a2b6",
+    "text": "Figure 2.144.4-2 2.144.4.2.5.2 (1) (08-06-2019)CCap2.0MaintenanceandAnalysis ID Task Name and Role RACI Duties Description CCap 2.1 Review the recom- • Capacity • R Determined by mendations and Manager • C local Capacity instruct their imple- • Operations areas mentation Manager CCap 2.2 Develop any • Capacity • R Determined by needed instruc- Analyst • A local Capacity tions for operations • Capacity areas Manger CCap 2.3 Determine adjust- • Capacity • R Determined by ments needed to Analysts local Capacity the components areas conﬁguration CCap 2.4 Assign work items • Capacity • R Determined by Manger local Capacity areas CCap 2.5 Adjust the compo- • Operations • R Determined by nents following the Manger local Capacity CM Process areas CCap 2.6 Verify the adjust- • Capacity • R Determined by ments Manager • C local Capacity • Operations areas Manager 2.144.4.2.5.1.1 Internal Revenue Manual Cat. No. 62038U 62038002",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "f8a2ce3c29985baecc3387a7475887eb",
+    "text": "CCapM 1.0:Maintenance MonitoringCapacity ManagerCCanti StenHainean Capachy.Mansgomen:DatcoaseCCapM 1tWonitor individualhardware comporentsMonitor individual softwarecompenentsCCaph1 13Collect data for the components on‘which montorng Is installed andactivaledCCaph 14Record and sampled collected data hasbeen posted to the Capacity ManagementInformation System (CHMIS)OS:CTOESSE:PMSeptember 30, 2015",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "63c925e713602f763c96b224df9df0c7",
+    "text": "OS:CTO.ES:SEPM-PRI.CCapM-FLOW_DIAG-V0.109302015",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "33af9e88b153626e769e6f6a1fa971f6",
+    "text": "page 15 CCap 2.7 Notify monitoring • Capacity • R Determined by function of Manger local Capacity changes areas CCap 2.8 Document actions • Capacity • R Determined by taken and store in Manger local Capacity the CMIS areas",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "b748f2be178edc2278cc9c516ff357d2",
+    "text": "CCapM 2.0:Maintenance AnalysisCapacity ManagerecgmentstyMinagement CCapM 21 CCapM23 e“Demand CCaph22Hanzgemert Review the Determine adjustments. Maietain CapactyT recommendations and [~ Dollop any needed =1 \" iceded o the Vete instuct hei srctons componentsi implementation ! configuratione oCCapM 2 CCapM 26 CCapM 27 CCapM 28Assign work fems Verify the ™| Notity monitoring *1 Document actions takeno adjustments. function of changes and store in the CMIS¥Follow oneormarecfthendicated paths asdetermined by theanalysis performes.Gotwccapm3ainenance Tesirg[coapms 1‘Camponent DemandHanagementOperationalManagerCCapM 25Adjust the componentsfollowing the CM ProcessOSCTOESSEPMSeptember 30, 2015",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "0e6fb98966ed443d82e175cf70754071",
+    "text": "(05:CTOES:SE:PM PR2.CCapM FLOW_DIAG-Y0.1.09302015",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "a7b4f1e451c89d1b11383e3155261105",
+    "text": "ID Task Name and Role RACI Duties Description CCap 3.1 Review the recom- • Capacity • R Determined by mendations and Manager • C local Capacity instruct their imple- • Capacity • C areas mentation Analyst • OperationsManager CCap 3.2 Develop any • Capacity • R Determined by needed instruc- Manager • C local Capacity tions for operations • Capacity areas Analyst CCap 3.3 Determine adjust- • Capacity • R Determined by ments needed to Manager • C local Capacity the components • Capacity areas conﬁguration Analyst CCap 3.4 Assign work items • Capacity • R Determined by Manger local Capacity areas CCap 3.5 Adjust the compo- • Operations • R Determined by nents following the Manager local Capacity CM Process areas CCap 3.6 Verify the adjust- • Capacity • R Determined by ments Manager • C local Capacity • Capacity areas Analyst CCap 3.7 Notify monitoring • Capacity • R Determined by function of Manger local Capacity changes areas CCap 3.8 Document actions • Capacity • R Determined by taken and store in Manger local Capacity the CMIS areas",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "9a49715668dd9e55884af4e25e800d6e",
+    "text": "Capacity Management 2.144.4 page Figure 2.144.4-6 (1) ID Task Name and Role RACI Duties Description CCap 4.1 Review the recom- • Capacity • R Determined by mendations and Manager • C local Capacity instruct their imple- • Capacity • C areas mentation Analyst • OperationsManager CCap 4.2 Develop any • Capacity • R Determined by needed instruc- Manager • C local Capacity tions for operations • Capacity areas Analyst CCap 4.3 Determine adjust- • Capacity • R Determined by ments needed to Manager • C local Capacity the components • Capacity areas conﬁguration Analyst CCap 4.4 Assign work items • Capacity • R Determined by Manger local Capacity areas",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "000045ea2cc8f13a9400895f8a1214d6",
+    "text": "CCapM 3.0:Maintenance TuningCoAnh 2l CCapM 32 CCapM 33o5 Review the Develo o! p any needed Determine adjustmentsEd remmme\"dar”s and instructions for needed to the components= nstruct their operations configuration Congurston< implementation Managament= T> i= |= |8 Yy iCCapM 36 CCapM37 CCapM38 CCap Step G8 CCaphad CCapM 36 CCapM3.7 CCaph 38Assian work ftems Verify the ™ Notify monitoring Document actions taken fibeado adjustments function of changes and store in the CMIS Detabase'y\\\\\\ Wonitor EvenﬂCCapM 3.5Adjust the componentsfollowing the CM ProcessOS:CTOESISE:PMSeptember 30, 2015OperationalManagerPM-PR3-CCapM-FLOW DIAG V0.1-09302015",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "2b646807b692ce6cc9d360269c19372d",
+    "text": "OS:CTO:ES:SE:PM-PR3-CCapM-FLOW _DIAG-V0.1-09302015",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "52af816347481c9fde6ee2eac2b6773d",
+    "text": "ID Task Name and Role RACI Duties Description CCap 4.1 Review the recom- • Capacity • R Determined by mendations and Manager • C local Capacity instruct their imple- • Capacity • C areas mentation Analyst • OperationsManager CCap 4.2 Develop any • Capacity • R Determined by needed instruc- Manager • C local Capacity tions for operations • Capacity areas Analyst CCap 4.3 Determine adjust- • Capacity • R Determined by ments needed to Manager • C local Capacity the components • Capacity areas conﬁguration Analyst CCap 4.4 Assign work items • Capacity • R Determined by Manger local Capacity areas",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "b5aaca568d126d9d6c38faa5f1b9b292",
+    "text": "CCap 4.5 Adjust the compo- • Operations • R Determined by nents following the Manager local Capacity CM Process areas CCap 4.6 Upgrade the com- • Operations • R Determined by ponents following Manager • C local Capacity the CM Process • Capacity areas Manager CCap 4.7 Verify the success • Capacity • R Determined by of the upgrade Manger • C local Capacity • Capacity • C areas Analysts • OperationsManager CCap 4.8 Notify monitoring • Capacity • R Determined by function of Manger local Capacity changes areas CCap 4.9 Document actions • Capacity • R Determined by taken and store in Manger local Capacity the CMIS areas",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "2a963583b69afbcd4ebf3e5638d5a832",
+    "text": "CCapM 4.0:Component UpgradeCapacity ManagerCCapM 4.t CCapM4.2 CCapM 4.3 CCapM 44 CCapM 45Review the Develop any needed | # Determine upgrade needed| | Plan the upgrade Assign workrecommendations and instructions for 1o the components 1o the Séms\"instruct their implementation operations configuration components !CCapM 4.6 CCapM 4.7 CCapM 48 CCapM 4 TUpgrade the > Veriy the »{ Notify monitoring > Document actions Mainiain Capaciycomponents following success of the function of taken and store in Vanzgementthe CM Process upgrade changes the CMIS aravaseA2> Configuration— - Management OS:CTO:ES:SEPMMonitor Event ~September 30, 2015",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "f11fec1630292929602d3968d874d71a",
+    "text": "OS:CTO:ES:SE:PM-PRA-CCapM-FLOW_DIAG-V0.1-09302015",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "bc018105dfc3ef68399cb766c6db0fd0",
+    "text": "Capacity Management 2.144.4",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "9dd49c200a61b576c69d27f8d85d1002",
+    "text": "(1) ID Task Name and Role RACI Duties Description CCap 5.1 Review the recom- • Capacity • R Determined by mendations and Manger • C local Capacity instruct their imple- • Capacity • C areas mentation Analysts • OperationsManager CCap 5.2 Adjust the opera- • Capacity • C Determined by tional scheduling Manger • C local Capacity of workloads • Capacity • R areas Analysts • OperationsManager CCap 5.3 Allocate compo- • Capacity • C Determined by nents according to Manger • C local Capacity recommendations • Capacity • R areas following the CM Analysts Process • OperationsManager CCap 5.4 Verify the success • Capacity • R Determined by of the change Manger • C local Capacity • Capacity • C areas Analysts • OperationsManager CCap 5.5 Notify monitoring • Capacity • R Determined by function of Manger local Capacity changes areas CCap 5.6 Document actions • Capacity • R Determined by taken and store in Manger local Capacity the CMIS areas",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "226cb826e41f528b2343d220ab9b2f6c",
+    "text": "CCapM 5.0:Component Demand ManagementCapacity ManagerCCapM 5.1 CCapM 5.2 CCapM 5.3Review the Adjust the Allocate componentsrecommendations operational according toand instruct their scheduling of recommendationsimplementation workloads following the CM ProcessCCapM 5.4 CCapM 5.5 CCapM 5.6Verify the ——» Notify monitoring —— | Document actionssuccess of the function of taken and store inchange changes the CMISP A J— Pid ConfigurationMonitor Event ~ ManagementCCapM Step 6Maintain CapacityManagementDatabase0S:CTO:ES:SE:PMSeptember 30, 2015",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "ab9b46fdc05bd51f081d8739e26e66ef",
+    "text": "08:CTO:ES:SE:PM-PR5-CCapM-FLOW_DIAG-V0.1-09302015",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "d2636a50280b039c2120f2e8dd45ebff",
+    "text": "ID Task Name and Role RACI Duties Description CCap 6.1 Perform • Capacity • R Determined by Administrative/ Manager • C local Capacity Maintenance • Capacity areas actions, as Analyst required CCap 6.2 Facilitate data • Capacity • R Determined by entry and retrieval Manager • C local Capacity • Capacity areas Analyst CCap 6.3 Maintain data that • Capacity • R Determined by has been entered Manager • C local Capacity into the system • Capacity areas Analyst",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "38ce38910fcbd918154551d68a921c73",
+    "text": "page 21 CCap 6.4 Support other • Capacity • R Determined by systems that need Manager • C local Capacity the data • Capacity areas Analyst CCap 6.5 Ensure reports are • Capacity • R Determined by available to stake- Manager • C local Capacity holders and easily • Capacity areas attainable Analyst",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "dbfd143408bc5810ac1b8d8ee995cd09",
+    "text": "CCapM 6.0:Maintain Capacity Management Information SystemCapacity ManagerCCapM 6.1Perform Administrative/|————Maintenance actions,as requiredCapacilyHanagementInfarmationSystem- Ensure reports areavailable to stakeholdersand easily attainableCCapM CCaph 6.4CCaph6.2 | = o | s CapociyManagement\" f———» Maintain datathat | Support otherFacilitate data Service Capacity.entry and roteal has been entered systems that [« —— ] | ekinto the system need the dataCCaph 65OS:CTOESSEPMSeptember 30, 2015",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "7c5a52ebe5d55fd2ccdfd1554303736a",
+    "text": "PM-PR6-CCapM-FLOW_DIAG-V0.1-09302015",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "b5874ea557687c33c9b12cd0758dfebf",
+    "text": "Figure 2.144.4-12",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-144-004--2019-08-06.pdf",
+      "page_number": 25
+    }
+  }
+]

@@ -1,0 +1,2837 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "0cdb72e64068dbb72d5b474da8886970",
+    "text": "IRM 2.4.11 has been revised to include Program, Scope and Objectives.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "583a4c171a5e5c681c1e2d43314abe19",
+    "text": "IRM 2.4.11, dated January 1, 2009, is superseded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1e04ac4271e26a0d03a06b174aeb7b1f",
+    "text": "LMSB, SB/SE, TE/GE, W&I.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "a8a0005d6fe51202d712781cf1f0db71",
+    "text": "NMFTM[slashb] — REQUEST-SCREEN NMFTM[slashb] OUTPUT SCREEN NMFTM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "3a255f58bc289f943a42c11c91841fe7",
+    "text": "INPUT SCREEN NMFTM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "b4c59c025995fe1f96def08f03ec8b3e",
+    "text": "OUTPUT SCREEN NMFTM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "3a255f58bc289f943a42c11c91841fe7",
+    "text": "INPUT SCREEN NMFTM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "069b51ec3d72ea62b4bdfe964513b321",
+    "text": "OUTPUT SCREEN",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6d7a3ee1e1e3c956be65d621d1bf147d",
+    "text": ") Overview: This IRM section provides an overview of the NMFTM Command Code. and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ae58457b46fe570011fee28a81a191d9",
+    "text": ") Purpose: This IRM contains procedural steps for use of the NMFTM Command Command code NMFTM establishes Automated Non-Master File (ANMF) tax delinquent account (TDA) data on the Taxpayer Information File (TIF) data base. These are accounts that either: Have become Taxpayer quent Accounts (TDA), or are activated",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8417f7c2e985354dee2737f510820098",
+    "text": "’d tax modules. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a0cd886f5dbbfb1a5c816c0766415711",
+    "text": ") Audience: These procedures apply to IRS employees who are responsible the processing of NMFTM records. These employees are located in the following areas: Large & Medium-Sized Business, Small Business/Self- Employed, Tax-Exempt & Government Entity’s, and Wage & Investment. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "40ad248b3da336bd3a740350cf68585f",
+    "text": ") Policy Owner: The Chief Information Officer (CIO) is responsible for ing all aspects of our systems that operate the nation’s tax infrastructure. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2f93bb40c69c8c246a71bce035e2ab39",
+    "text": ") Program Owner: MITS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5e3047ee61b926fdbcf574ccacf4a59d",
+    "text": ") Primary Stakeholders: Large & Medium-Sized Business, Small Employed, Tax-Exempt & Government Entity’s, and Wage & Investment. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3100a1450de9eb80d75f3be81284f6ff",
+    "text": ") Program Goals: This IRM provides the fundamental knowledge and proce- dural guidance for employees who work with NMFTM cases. By following processes and procedures provided by this IRM, employees will process NMFTM cases in a manner that follows IRS policy and procedures while promoting the best interests of the Government. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "047ff95b84834daa53193dee70b3bcbd",
+    "text": ") CC-NMFTM blank deﬁner: • Required initial input • Checks the account status on TIF for the input TIN, MFT Code, and Period • Generates CC-NMFTM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e94bf0b2ce213fd5ad96cfebe1123340",
+    "text": "input screen as a valid response; when account is not present on IDRS, or dummy entity is present on IDRS • Generates CC-NMFTM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9630e6c1d13b46ddf8f954322f92e92b",
+    "text": "input screen as a valid response, when the entity is present; but the tax module is not present, or dummy tax module is present (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "dff172c2a1c813c026cb4f39275484da",
+    "text": ") CC-NMFTM deﬁner ‘",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "85e40ae7bab427f20cf0943852b0c6a9",
+    "text": "’: • Generated by CC-NMFTM with blank deﬁner • Displayed when the input TIN is not present on TIF, or when a entity is present • Provides input ﬁelds for the taxpayer’s address, and Business Division Codes, and Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0bac609dbb64727b0e26edbc09a9099b",
+    "text": "CLC • Automatically computes the Collection Location Code (CLC), using taxpayer’s zip code. (Note:The computed CLC will be overlaid if a form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3d63452b0bddd1c7be097a7d2ecc8bf7",
+    "text": "CLC is present on the input screen.) • Computes the collection Controlling Service Center Code from the lection Location Code. • Builds the full entity on the TIF data base • Generates CC-NMFTM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "320b62fc7856078c87376490b6f71fc4",
+    "text": "input screen as a valid response (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d2fbf4f58370a7330e785c54060c3c7f",
+    "text": ") CC-NMFTM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f1bcf4a0a9d8506de2b5430048540c3a",
+    "text": "deﬁner ‘",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a33d73ba02175c057a41e1f5d4b81cce",
+    "text": "’:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f6acf366aac205b6dd20cf7eaf62f1fd",
+    "text": "Primary Stakeholders: Large & Medium-Sized Business, Small Business/Self- Employed, Tax-Exempt & Government Entity’s, and Wage & Investment.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a074df8e3da8c0318f2abbb6d39cb0eb",
+    "text": "(01-01-2005) Input Deﬁners/Screen Sequences",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ed87b144078c72a2bfcd498ff0c54a04",
+    "text": "Required initial input Checks the account status on TIF for the input TIN, MFT Code, and Period Generates CC-NMFTM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b959d8d48e46b3a17fa43503f35e42eb",
+    "text": "input screen as a valid response; when account is not present on IDRS, or dummy entity is present on IDRS Generates CC-NMFTM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "53cd44afd7c62040e53f1b863d81e369",
+    "text": "input screen as a valid response, when the entity is present; but the tax module is not present, or dummy tax module is present",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "61fea43ad24fca06b4bb6d2cda55a34d",
+    "text": "(2) CC-NMFTM deﬁner ‘1’:",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "398e982d7ac59e8986e9304eda3b3d5e",
+    "text": "Generated by CC-NMFTM with blank deﬁner Displayed when the input TIN is not present on TIF, or when a dummy entity is present Provides input ﬁelds for the taxpayer’s address, and Business Division Codes, and Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "036989dbd7fc411ee68b015dc0a3fd78",
+    "text": "CLC Automatically computes the Collection Location Code (CLC), using the taxpayer’s zip code. (Note:The computed CLC will be overlaid if a valid form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "98689bc4bf9ee36bf65adffb23b520a9",
+    "text": "CLC is present on the input screen.) Computes the collection Controlling Service Center Code from the Col- lection Location Code. Builds the full entity on the TIF data base Generates CC-NMFTM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5e8eec505b53fbc5708e1b94b9b4fed7",
+    "text": "input screen as a valid response",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6af4f20497c18413d9cb9596e72cb435",
+    "text": "IDRS Terminal • Generated by CC-NMFTM with blank deﬁner, or CC-NMFTM when the full entity has been established on TIF • Displayed when the tax module is not present on TIF for the input and Tax Period, or a dummy tax module is present on TIF • Provides input ﬁelds for notice dates, the tax module transactions, dates, and amounts • Builds the full tax module on the TIF data base • Generates ‘REQUEST COMPLETE’ output screen as a valid (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ef1113a83be53f506c891c5407d3b883",
+    "text": ") CC-NMFTM ESTABLISHMENTS: • Must be input by CSC or PSC. • Stores the Home SC Code (the SC doing the input) as the ANMF- SC-CD in the Basic Entity Record. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "aa451782da5deca4396d8b404838bc31",
+    "text": ") Notice History date(s) • Input using CC-NMFTM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a0e3e4751adc0cbff9db35c0e69a6c5e",
+    "text": "• Must be present for the First notice • See CC-NMFTM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ffcfcb4e3cf4c23b4539cffb85659874",
+    "text": "input screen, Element",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a6f1f415f027b73ec938b1b839f75902",
+    "text": ", for valid notice types Note: In the Notice History record, TIF–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "b7c8ef6c6faf9cf3ba4b41dff81fbedb",
+    "text": ", the Notice Type is shown as the Notice Type: First Notice is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d3307a8242adae3b03841df90a2b6ee8",
+    "text": ", Second Notice is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e6b04dc6cb3db1ca9059421b45bf4e45",
+    "text": ", Third Notice is Fourth Notice is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1f4786f2499745f0973b609a816b3086",
+    "text": ") Collection Statute Expiration Date (CSED): • Is computed by CC-NMFTM from the input",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4de2e190208239e2d37ada8dd40b4777",
+    "text": "C Date • Re-computed by Weekend Analysis based on the tax module ments, and TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c7301655bdde2ef4ee2e322022991c48",
+    "text": "extension dates (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a25271aaf9dbb942f0687c8a8ef8755e",
+    "text": ") Abstract Number(s): • Are NOT input for MFT Codes that have only one abstract number • Must be input for an MFT Code with multiple Abstract Numbers • See CC-NMFTM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ffcfcb4e3cf4c23b4539cffb85659874",
+    "text": "input screen, Element",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "313f6458d46d6f3966efa483500efca0",
+    "text": ", for the MFT Codes require Abstract ﬁelds, and the respective abstract numbers (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a8d3956515fb840c83d4760a91a18151",
+    "text": ") Abstract amount(s): a. Tax return abstract amounts must balance with the Total Tax Amount, or the total of the input TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "dbd18a7e4cd2a7ad9c200b870d2aa3cd",
+    "text": "Amounts (if no Total Tax Amount is present) [See CC-NMFTM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ffcfcb4e3cf4c23b4539cffb85659874",
+    "text": "input screen, Element",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "085d60a2554dae55fcc4375601cba871",
+    "text": "] b. Audit or DP Adjustment Abstract Amounts are required to with the Audit or DP Adjustment Transaction Amount [See input screen, Element",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d0b64b31436955d823bd4730b17166e2",
+    "text": "] Note: Abstract Numbers with zero dollar amounts are valid. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "2febb474961dfc1d9be3d27a890e69c3",
+    "text": ") All input screen transactions:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "120d11fb2a7b171c9d67d90cfeebd4e3",
+    "text": "Generated by CC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "89916e2e9594e3189a7d328affe93f03",
+    "text": "NMFTM with blank deﬁner, or CC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "199bd3076b795a7777ed29fc6527ff01",
+    "text": "NMFTM deﬁner when the full entity has been established on TIF Displayed when the tax module is not present on TIF for the input and Tax Period, or a dummy tax module is present on TIF Provides input ﬁelds for notice dates, the tax module transactions, dates, and amounts Builds the full tax module on the TIF data base Generates ‘REQUEST COMPLETE’ output screen as a valid response",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "eee31c0df5cd04b696ed55a5d9d5e4eb",
+    "text": "a. Tax return abstract amounts must balance with the Total Tax Liability Amount, or the total of the input TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5986ee2e1a433acb58fdcf7f2f1993a8",
+    "text": "Amounts (if no Total Tax Liability Amount is present) [See CC-NMFTM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ffcfcb4e3cf4c23b4539cffb85659874",
+    "text": "input screen, Element",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "66be14a2bdaa6dd7194ebc00b87b8182",
+    "text": "] b. Audit or DP Adjustment Abstract Amounts are required to balance with the Audit or DP Adjustment Transaction Amount [See CC-NMFTM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ffcfcb4e3cf4c23b4539cffb85659874",
+    "text": "input screen, Element",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "cfae0d4248f7142f7b17f826cd7a5192",
+    "text": "]",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5d7d3f47531e201bff1f17453c5608dd",
+    "text": "Note: Abstract Numbers with zero dollar amounts are",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3d4e01f06093df6baf00369f90399168",
+    "text": "Are posted on TIF in the order in which they are entered on the formatted input screen (left to right, top to bottom of the screen)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "205e5184a9293c7a5c7be4b8384ca12d",
+    "text": "• Are not consistency checked for the sequence of transaction data not checks to ensure that a reversal transaction follows the reversed transaction, or that an audit assessment follows a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "be80091ef11487a7b0ebaea756c778bb",
+    "text": ", etc.) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3245111751e9d06031eeadc6de215197",
+    "text": ") Standard Transactions • Are transactions other than Audit/DP Adjustment, or DAR • See CC-NMFTM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f00404c207a4a04b889c03d2a147cb2a",
+    "text": "input screen for values (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "5e000a52fd61f8e99e61b9be7add3417",
+    "text": ") The Module Balance Amount must equal the algebraic total of the input Transaction Amounts. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "982ff31971c6790d6a887b272508ea28",
+    "text": ") The Total Tax Liability must be input to generate Transaction Code",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "c93e5efc5053aa9a5765fe5062c7109c",
+    "text": "zero dollar amount (.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "4020b32db3d196eee0dc2492a0669a67",
+    "text": ") is valid.) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "0122b413b52be3d8693612d49d922193",
+    "text": ") Tax Modules are established in Status",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "31d62ffe9f83e5934847f850dc99f0cc",
+    "text": "(TDA). (Both the MF Status record, and the SC Status History record) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b711d26a40a32fac2c5ce13bc4d81ce1",
+    "text": ") CC-NMFTM is a prerequisite for CC-NMFST. (To accommodate tax that contain more transactions, than can be input with CC-NMFTM.) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2844dc30b888fd433d0346fff26947b3",
+    "text": ") CC-NMFTM can not build cross-reference data. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "21e39fe237ccb4bfa0f779eac097a5b5",
+    "text": ") CC-NMFTM can not consistency check credit transfers between two or modules. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "95102779c76612473156ba4e456c0f17",
+    "text": ") ‘COMMAND CODE DEFINER INVALID’ — Command code deﬁner is not blank,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3d30020b1863441a64e786bdc72745e9",
+    "text": ", or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "de9261b3b4ea0badd13bceb7df088f96",
+    "text": ") ’ACCESS DENIED —INPUT SERVICE CENTER MUST BE CSC OR PSC —Input of NMFTM is restricted to the ANMF Service Centers, which are & PSC. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "5dbb3c9669c9a5d1e9ffb4a5df2c4712",
+    "text": ") ’ACCESS DENIED — CC IS RESTRICTED TO SBSE COMPLIANCE CMODE is being used to access a Service Center that is not SBSE. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "5c44a2ffde3e68ebd88135339a3c1524",
+    "text": ") ‘REQUEST DENIED - IMPROPER INITIALIZATION’ — CC-NMFTM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "07df0ff41036f609081540f0e732ab8c",
+    "text": "was preceded with a valid CC-NMFTM blank deﬁner request; or CC-NMFTM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "7f93fd1a5f4f2d3c53aa063c07fefd11",
+    "text": "not preceded with a valid CC-NMFTM blank deﬁner request or a valid CC- NMFTM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "af96f0609360cd1b537d376c0a131998",
+    "text": "request. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "73a014cf4bc89a3a2e49490809f1b028",
+    "text": ") ‘ID CHANGED - REINITIALIZE’ — The CC-NMFTM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "c06fd0d1b6e4fe9f907171f2d2b9603c",
+    "text": "or CC-NMFTM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f821bc559c4530bcd2a083d2aec6fca9",
+    "text": "has a TIN, MFT Code, or tax period which differs from the preceding valid input. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3c684e21e3485c860f672bf7f2c7756d",
+    "text": ") ‘TIN INVALID’ — The taxpayer identiﬁcation number is not in the proper EIN SSN edited format, or does not contain valid numeric values. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "9f5588c6c30893de20ef73caa7d3ac82",
+    "text": ") ‘INVALID FILE SOURCE FOR NMF’ — The input ﬁle source is not valid for NMF (other than ‘N’). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3be4b03d544569e69768a33f519d11f7",
+    "text": ") ‘MFT INVALID’ — The MFT Code is not valid for NMF processing per tine VALMFT (COMMON). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "35a328fd66fb04b916574e1c296c6f47",
+    "text": ") ‘MFT INCONSISTENT W/FILE SOURCE OR TIN’ — The MFT code and tax period are not consistent per subroutine VALMFT(COMMON).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "045e965ad67441167614040aac45cd6c",
+    "text": "2.4.11.4 (01-01-2005) Error Messages",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "9c49156cee1186696d732a9b8e8907d3",
+    "text": "CHANGED - REINITIALIZE’ — The CC-NMFTM1 or CC-NMFTM2 request a TIN, MFT Code, or tax period which differs from the preceding valid",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "80d3bd5ffa400e1c3f9d953bc153b0f3",
+    "text": "INVALID’ — The taxpayer identiﬁcation number is not in the proper EIN or edited format, or does not contain valid numeric values.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d1773816fc1dd5d9d75e75e4dbda3d46",
+    "text": "‘MFT INCONSISTENT W/FILE SOURCE OR TIN’ — The MFT code and tax period are not consistent per subroutine VALMFT(COMMON).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "285362648f98a1fe2373e27ffac12625",
+    "text": "or greater, the DLN must be valid for Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "767370aa850bae7b6c4cebff5ca664c6",
+    "text": "QDT. For all other modules the tax period must be zeroes. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "9ff7ee43ffa54e72f1982b004e3c71a2",
+    "text": ") ‘TAX PERIOD INVALID’ — The tax period is not valid per subroutine (COMMON) or is equal to zeroes. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8195d5624404018f46587f71dd762cbe",
+    "text": ") ‘TRANS AMTS OUT-OF-BAL WITH MODULE BAL’ — The running total input Transaction Amounts does not match the input (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "28939e02a26b2b086fdf61fcfe189922",
+    "text": ") ‘ABST AND TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "5a858c89d0fc1ed102d580ecb24cbda7",
+    "text": "TOTALS DO NOT BALANCE’ — The running total input Abstract-Amounts does not match the running total of the TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "2b8857e363d538f175d0fe24313e8bbe",
+    "text": "Transaction-Amounts. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f0d3478c12a526db3f1dfe7d760dda76",
+    "text": ") ‘REQUEST DENIED-MEMO ENTITY PRESENT’ — A memo entity exists this TIN. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "b66dfcda8fd2ea56d19ec9e76aaa5302",
+    "text": ") ’INPUT SBSE-CLC IS NOT VALID’ - the numeric value is not within the CLC range (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3c44625c9abbc9b87d3c0793a04340a2",
+    "text": ") ‘REQUEST DENIED-MEMO MODULE PRESENT’ — A memo tax exists for the TIN, MFT-Code, and Tax-Period. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "bdfd12e2eddd4603db3f0a5c13235e75",
+    "text": ") ‘MEMO-CODE OR MOD-MEMO-CODE ERROR ON TTF’ — The TIF Memo-Code or the TIF tax-module Mod-Memo-Code contains a value not consistent with the TIF Glossary values. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "2a54777aa7b70c3d370265be8cf32e71",
+    "text": ") ‘TAXMOD ALREADY PRESENT’ — A tax module exists on TIF for the MFT-Code, and Tax-Period, which is not a dummy module. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8d38d19e6ed94102b64b80c237df780a",
+    "text": ") ‘ENTITY BUILT ON TIF AFTER",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "fbb0673fb74b4e3d77fd59fe4b92a296",
+    "text": "ST CC INPUT’ — CC-NMFTM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "910ddb006c28d284c24afe1dcdb6ff0e",
+    "text": "found entity present on TIF, which was not present when deﬁner was input. CC-NMFTM-with-blank-deﬁner must be re-input to re- initialize the speciﬁc MFT-Code and Tax-Period. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "72c7b4c2d8d3c077fd0e8f312e8d8dbe",
+    "text": ") ‘CORRECT INVALID DATA’ — Input data ﬁeld(s) indicated by an are invalid or ﬁelds may be inconsistent. Correct invalid or inconsistent and re-enter.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d8c92d76814fc9a8bf69c586cf672285",
+    "text": "‘TRANS AMTS OUT-OF-BAL WITH MODULE BAL’ — The running total of the input Transaction Amounts does not match the input Module-Balance-Amount.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "70de36d8e8a425484c6b6357bc257be1",
+    "text": "‘TAXMOD ALREADY PRESENT’ — A tax module exists on TIF for the TIN, MFT-Code, and Tax-Period, which is not a dummy module.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "30852c89d009e440bd0353f49905240d",
+    "text": "Fields that may be inconsistent: a. Primary-Name-Line and Name-Control b. State and Zip-Code c. State and Foreign-Country d. Zip-Code and Foreign-Country e. Abstract-Number and MFT-Code f. Tax-Liability-Amount and Abstract-Amounts g. Tax-Liability-Amount and Remittance-Amount h. Tax-Liability-Amount and Return-Interest-Amount i. Tax-Liability-Amount and Failure-To-Pay-Penalty-Amount j. Tax-Liability-Amount and Failure-To-File-Penalty-Amount k. Transaction-Code and MFT-Code l. Audit/DP- Adjustment-Transaction-Amount and Abstract- Amounts m. DAR-Transaction-Code is not consistent with the input Closing-Code, Deﬁner-Code, or Action-Code. Dates that may be inconsistent: a. Return-Date greater than the Input-23C-Date b. Input-23C-Date greater than the Current-23C-Date c. Standard-Transaction-Date greater than the Current-23C-Date d. Audit/DP-Adjustment-Date greater than the Input-23C-Date e. DAR-Transaction-Date greater than the Current-Date f. DAR-Extension-Date prior to the Current-Date",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1801c60d4431dee11da13e347d204da4",
+    "text": "a. Return-Date greater than the Input-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7fa60cdd2cc789350a1221fc8e9df6ab",
+    "text": "C-Date b. Input-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "f431876eb691a09edcdcfb75e0352691",
+    "text": "C-Date greater than the Current-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3557453428bc7a0873116fa35a58dea9",
+    "text": "C-Date c. Standard-Transaction-Date greater than the Current-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "eca1e3d3696c49fc2ee7863ba6053db7",
+    "text": "C-Date d. Audit/DP-Adjustment-Date greater than the Input-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "eef1b64ccfd544866dcd94ac2c3476a5",
+    "text": "C-Date e. DAR-Transaction-Date greater than the Current-Date f. DAR-Extension-Date prior to the Current-Date",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a9d62ed83bc8ade3038bfeac3e5255e9",
+    "text": ") ‘INFO NOTE: DUMMY ENTITY PRESENT’ — To advise that a dummy entity is present on TIF for the TIN. The terminal user can continue to establish a full entity, or terminate the input and check the account. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a39d7567cdf9ca3e901de13fd85110df",
+    "text": ") ‘INFO NOTE: DUMMY MODULE PRESENT’ — To advise that a dummy tax module is present on TIF for the TIN, MFT-Code, and Tax-Period. The terminal user can continue to establish a full tax module, or terminate the input and check the account. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "24c69ab3ae455e1b643d1a6c59ef81e5",
+    "text": ") ‘REQUEST COMPLETE’ — Successful input of the CC-NMFTM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a7caa1dabe29d55892fa4db09925f0b8",
+    "text": "tax module",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "33c1e29902d678cbcff13d561dbfd825",
+    "text": "This Page Intentionally Left Blank",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "67cb37b4cbd5373c580092fbc16b852f",
+    "text": "CC NMFTM initial request to obtain the appropriate input screen format.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "a77e5704b0cd36fb28a9efd7f1167c07",
+    "text": "0 | 1 | 2 | 3 | 4 | 5 | 6 | 7]1234567890123456789612345678901234567896123 4567890123456789012345678901234567890W®EANUT R WN P",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "4ce9c324b9b51f1bca8d19aa40bcc892",
+    "text": "Exhibit 2.4.11-1 (Cont. 1) (01-01-2005) NMFTM[slashb] — REQUEST-SCREEN",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "1cbffe042cc079c63875a3f00a43da18",
+    "text": "Enter true tax period except for:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "aa3e8f2b8d1642c8f9f3a8b70db476ed",
+    "text": "Exhibit 2.4.11-1 (Cont. 2) NMFTM[slashb] — REQUEST-SCREEN",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "0615eb77b67dce6c4bb4ff60039d62fa",
+    "text": "2.4.11-1 (Cont. 3) (01-01-2005) — REQUEST-SCREEN MFT Tax Form 41 5110.32 (OLD 2521) 5110.35 (OLD 2552) 5110.60 (OLD 2523) 5110.39 (OLD 2527) 5110.35 (OLD 4077) 42 4735 43 Doc Stamps 44 990PF 45 720 46 5734 47 7201V 48 4638 49 3780, 3780A 50 4720 53 706, 706A, B, NA, QDT 54 709 55 949, 949A 56 990BL 57 6069 58 MISC 59 CSO (Child Support Obligation) 65 5600.1, 1585 (5600.6) 66 4720A 67 990 68 990AR 69 8697 70 PREP Penalty, 5811 71 CT–1 72 CT–2 74 5500, 5500–C, 5500–K, 5500–R 76 5300 77 706GS(T)",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "e8b385d59d2fba73f83ec70acd9b110c",
+    "text": "Exhibit 2.4.11-1 (Cont. 3) (01-01-2005) NMFTM[slashb] — REQUEST-SCREEN",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "f0f0b83b8815d3f52cb71bde2fe25992",
+    "text": "— REQUEST-SCREEN MFT Tax Form 28. 41 5110.32 (OLD 2521) 5110.35 (OLD 2552) 5110.60 (OLD 2523) 5110.39 (OLD 2527) 5110.35 (OLD 4077) 29. 42 4735 30. 43 Doc Stamps 31. 44 990PF 32. 45 720 33. 46 5734 34. 47 7201V 35. 48 4638 36. 49 3780, 3780A 37. 50 4720 38. 53 706, 706A, B, NA, QDT 39. 54 709 40. 55 949, 949A 41. 56 990BL 42. 57 6069 43. 58 MISC 44. 59 CSO (Child Support Obligation) 45. 65 5600.1, 1585 (5600.6) 46. 66 4720A 47. 67 990 48. 68 990AR 49. 69 8697 50. 70 PREP Penalty, 5811 51. 71 CT–1 52. 72 CT–2 53. 74 5500, 5500–C, 5500–K, 5500–R 54. 76 5300 55. 77 706GS(T)",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "714c15b342ce153091e3916d6bdaf5c6",
+    "text": "Exhibit 2.4.11-1 (Cont. 4) (01-01-2005) NMFTM[slashb] — REQUEST-SCREEN",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "a400f0100e8026c4dc0fda126f124b7c",
+    "text": "MFT assigned to 100% penalty cases will vary with the type of tax involved, MFT 17 for 941, MFT 45 for 720, and MFT 71 for CT–1, even though the carries an SSN and the assessment is against an individual.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3edefea160d7adfca3f8ac9f8d67a4fc",
+    "text": "Exhibit 2.4.11-2 (01-01-2005) NMFTM[slashb] OUTPUT SCREEN",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "17bd300b7f1bbfb7abc44ea6a9435eb0",
+    "text": "Displayed when the full entity does not exist on TIF.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "40045921aa6ec0876ef082a4e2f554dd",
+    "text": "o | 1 | 2 | 3 | 4 | 5 | & | 712345678901254567890123456789012345678901234567890123456789012345678501234567890NMETMlv—-————————— v MET>nn< TX-PRD>n----n< NM-CTRL> <PRIMARY —NAME> <CONTINUATTON-OF-PRIMARY -NAME> <SORT-NAME> <CARE-OF-NAME:> <STREET> <CITY> <STATE> <41P-CODE> - - <FORETIGN CCUNTRY> <COLLECTTON-LOC-CD> <BOD-CODE> <BOD-CLIENT-CODE> <",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "9f33e101e5f8a8b77dcf81e5a230f005",
+    "text": "123456789012345678901234567890123456789012345678201234567890123456785901234567890",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "353d9a1e6ae7e95f8dc01e0426384d8e",
+    "text": "Exhibit 2.4.11-2 (Cont. 1) NMFTM[slashb] OUTPUT SCREEN",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "973ba5cf5455b99890a6f823878fcb5d",
+    "text": "OUTPUT SCREEN Item Line Pos Description 1 1 1–5 COMMAND CODE - ’NMFTM’ 2 1 6 COMMAND CODE DEFINER - ’1’ 3 1 7–16/17 TIN (edited) — EIN or TIN 4 1 17/18 FILE SOURCE - ’N’ 5 1 21–24 Literal (info. only) 6 1 25–26 MFT CODE 7 1 27, 30–36 Literals (info. only) 8 1 37–42 TAX PERIOD 9 1 43, 46–53 Literals (info. only) 10 1 54–57 NAME CONTROL input ﬁeld 11 1 58 Literal (info. only) 12 3 18–30 Literal (info. only) 13 3 31–65 PRIMARY NAME LINE input ﬁeld 14 3 66 Literal (info. only) 15 4 2–30 Literal (info. only) 16 4 31–65 PRIMARY NAME LINE 17 4 66 Literal (info. only) 18 5 21–30 Literal (info. only) 19 5 31–65 SORT NAME LINE input ﬁeld 20 5 66 Literal (info. only) 21 6 18–30 Literal (info. only) 22 6 31–65 CARE OF NAME LINE input ﬁeld 23 6 66 Literal (info. only) 24 7 24–30 Literal (info. only) 25 7 31–65 MAILING STREET ADDRESS input 26 7 66 Literal (info. only) 27 8 26–30 Literal (info. only) 28 8 31–52 MAILING CITY input ﬁeld 29 8 53 Literal (info. only) 30 9 25–30 Literal (info. only) 31 9 31-32 MAILING STATE CODE input ﬁeld",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "1e120c627e8538b9c51dd079823303bd",
+    "text": "Exhibit 2.4.11-2 (Cont. 2) (01-01-2005) NMFTM[slashb] OUTPUT SCREEN",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "bccca156fff90fd4975824a054e223d6",
+    "text": "Item Line Pos Description 32 9 33 Literal (info. only) 33 10 22–30, 36, 41 Literals (info. only) 34 10 31–35, 37–40 MAILING ZIP CODE input ﬁeld 35 10 45 Literal (info. only) 36 11 15–30 Literal (info. only) 37 11 31–52 FOREIGN COUNTRY input ﬁeld 38 11 53 Literal (info. only) 39 16 24–30 Literal (info. only) 40 16 31–32 BOD-CODE 41 16 33 Literal (info. only) 42 17 15–30 Literal (info. only) 43 17 31–33 BOD-CLIENT-CD 44 17 34 Literal (info. only) 45 18 12-30 Literal (info. only) 46 18 31-32 Form 5147 SBSE CLC 47 18 33-78 Literal (info. only) 48 19 10–54 INFO. MESSAGE — displayed if dummy present on TIF 49 20 10–54 INFO. MESSAGE — displayed if dummy present on TIF",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "0c8da84fc450c63c77bbd4779c875153",
+    "text": "L - 1 o 1 1 = 1 = 1 it L123456789012345678901234567890123405678901234567890123456789012345678901234567890I = NSO IO WD WO @ O W[EESHNNN)RNNMETMlv——=====——— v MET>nn<  TE-PRD>n----n<  NM-CTRL>v--v<PRIMARY —NAME> v———————————————————CONTINUATION-OF-PRIMARY -NAME>v-——SORT -NAME>v—CARE-OF-NAME>v——STREET>v ——CITY>v ——STATE>vv<ZIP-CODE>nnnnn-nnnn-nnn<FOREIGN COUNTRY>v ———————————————————— v<BOD-CODE>vv<BOD-CLIENT-CODE>vvv<FORM-5147-SBSE-CLC>vv<ENTER CONLY IF REQUIRED BY COLLECTION ACTIVITY12345678901234567890123456789012345678 901234567890123456789012345678901234567890[ S S Ie e sGo U WD PO18(So[EESHNNN)RN",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "d8d53c3a61d361a58a3e0f4746c8d7a4",
+    "text": "12345678901234567890123456789012345678 901234567890123456789012345678901234567890| 9] | 1 | 2 | 3 | 4 | 5 | © | 7 |",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "13eeffff2a8fce87b726d398d26de0e7",
+    "text": "Exhibit 2.4.11-3 (Cont. 1) (01-01-2005) NMFTM1 INPUT SCREEN",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "91726bd4c0d6c390ae185efa6a9ad1a2",
+    "text": "For EIN accounts:",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "a67467813d5f3a2e00332bb34d8e613c",
+    "text": "Exhibit 2.4.11-3 (Cont. 2) NMFTM1 INPUT SCREEN",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "f678835b93e02e17a370ad38913459e1",
+    "text": "Description and Validity",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "74e363b0e0e945d7899b9a58340861ac",
+    "text": "Values for SSN accounts: Valid characters are alpha (A–Z), right hand bracket (]), hyphen (-), ampersand (&), and blank. First position must be alpha (A–Z). Name line may contain ﬁrst name, surname, and possibly a suffix. A right-hand bracket (]) must always precede the surname and must be present, but no more than two right-hand brackets (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "70ddb42e95ea63a1dd7822b95e36e309",
+    "text": ") may be present. A right-hand bracket must be preceded by and followed by at least one character other than a blank or right-hand bracket (]). Any char- acters following two or more sequential blanks are invalid. Values for EIN accounts: Valid characters are alpha (A–Z),",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "da6c135ffa13db2aef614c2efc90bea3",
+    "text": "sequential blanks are invalid. Values for EIN accounts: Valid characters are alpha numeric (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "5d11f9ee4adc598352587f39cf95e40c",
+    "text": "), right-hand bracket (]), hyphen (-), ampersand (&), and blank. First position must be alpha (A–Z) or numeric (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "aa0f6f268fe4eea7375cf5950bfca541",
+    "text": "). A right-hand bracket (]) may be present, but no more than two right-hand brackets (]) may be present. A right-hand bracket must be preceded by and followed by at least one character other than a blank or right-hand bracket (]). Any characters following two or more sequential blanks are invalid. Literal — (info. only) Literal — (info. only)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "46f459ea66c7df8d7898d078a8243592",
+    "text": "Exhibit 2.4.11-3 (Cont. 3) (01-01-2005) NMFTM1 INPUT SCREEN",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "f678835b93e02e17a370ad38913459e1",
+    "text": "Description and Validity",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "7b4f4117c1c8c48fdf708a6bb725c2cb",
+    "text": "PRIMARY NAME LINE CONTINUED — May or may not be input, as required. Maximum length is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "ee4328c8b84b0e3e6f7b0151788473f4",
+    "text": "characters. Valid characters are alpha (A–Z), numeric (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "0f1bb124a072dee4dcc59877f03049ab",
+    "text": "), hyphen(-), ampersand (&), and blank. Any characters following two or more sequential blanks are invalid. First position must be alpha (A–Z) or numeric (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "e3ecfaf1d0560f30dc6fe26fca9d816a",
+    "text": "). The protected screen literal ’]’ which precedes this input ﬁeld, repre- sents a leading blank position and is required when the name line is stored on TIF. Literal — (info. only) Literal — (info. only)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "768d030764b146750bbd2742526d8e8b",
+    "text": "SORT NAME LINE — May or may not be input, as required. Maximum length is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "7bacd23f9b9c81565ad6f533c51a8f22",
+    "text": "charac- ters. Valid characters are alpha (A–Z), numeric (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "6f16653737ac7bd67badea44b97e8b74",
+    "text": "), hyphen (-), ampersand (&), and blank. Any characters following two or more sequential blanks are invalid. First position must be alpha (A–Z) or numeric (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "381f425e41c01f05276057c63bbe3542",
+    "text": "). Literal — (info. only) Literal — (info. only) CARE OF NAME LINE — May or may not be input, as required. Maximum length is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "7bacd23f9b9c81565ad6f533c51a8f22",
+    "text": "charac- ters. Valid characters are alpha (A–Z), numeric (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "6f16653737ac7bd67badea44b97e8b74",
+    "text": "), hyphen (-), ampersand (&), and blank. Any characters following two or more sequential blanks are invalid. First position must be alpha (A–Z) or numeric (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "47371c852120b32a5e2c5e950ddaaa5a",
+    "text": "). The protected screen literal ’%’ and blank character which precedes the ﬁeld, are required when this name line is stored on TIF.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "99262808313897a23848b69ae7f97c93",
+    "text": "Exhibit 2.4.11-3 (Cont. 4) NMFTM1 INPUT SCREEN",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "9b8db51177f25ef16cc460784b02c282",
+    "text": "MAILING STREET ADDRESS Must be entered. If the taxpayer does not have a street address, enter ’Local’. Maximum length is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "ee4328c8b84b0e3e6f7b0151788473f4",
+    "text": "characters. Valid characters are alpha (A–Z), numeric (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "d20c49ee1d2401ddb7788c44496130df",
+    "text": "), hyphen (-), slash (/), percent (%), and blank. Any characters following two or more sequential blanks are invalid.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "159d2835dc20e874b189ada7287653b7",
+    "text": "Literal — (info. only) Literal — (info. only) MAILING CITY — Must be entered. Valid characters are alpha (A–Z) and blank. First position can not be blank, and ﬁeld must contain three valid characters. For FPO and APO addresses the city must be ’FPO’ or ’APO’. Any characters following two or more sequential blanks are invalid. Literal — (info. only) Literal — (info. only) MAILING STATE CODE — Must be entered (except foreign addresses). Must be a valid two character state abbreviation. For foreign address, can be blank, or entered as a period and blank. For FPO and APO addresses the abbreviation must be ’AA’, ’AE’, or ’AP’.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "50317da950fdc16a5756a725fcff0899",
+    "text": "Exhibit 2.4.11-3 (Cont. 5) (01-01-2005) NMFTM1 INPUT SCREEN",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "f678835b93e02e17a370ad38913459e1",
+    "text": "Description and Validity",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "bb3c3730501d65c94de15174ce795ae5",
+    "text": "Exhibit 2.4.11-3 (Cont. 6) NMFTM1 INPUT SCREEN",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "2e0e960ab3204127b1dce399c9984c81",
+    "text": "Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "fa43433bbe0a2289ea4e5470771911c7",
+    "text": "-SBSE-CLC - May or may not be present. This ﬁeld is required only when Collection advises (generally per Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "810fb124a5bc7300bfa5747484bbc645",
+    "text": "), that the account has been transferred to an SBSE SC not related to the taxpayers’s address. (Note: This input value will override the CC-NMFTM computed CLC.) Literal — (info. only) Information Message — will be present only if a dummy entity is present on TIF. If CC-NMFTM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "76421516d930773f320982d5d9721655",
+    "text": "is entered, a full entity will be established. Information Message — will be present only if a dummy tax module is present on TIF. If CC-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "6a0b11818361d71b286330a5e1d4375a",
+    "text": "Also, output for NMFTM with blank deﬁner, when full entity is present on TIF.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "6c193d23081bf6f3ce02f132540ac030",
+    "text": "123456789012345678901234567R9012345A7RANTIRARATRANI A2RARETOGNI NS AEEmannT A Ar ronmn",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "6fd348e3703d1f42e60eb3abc344d1af",
+    "text": "Exhibit 2.4.11-4 (Cont. 1) NMFTM1 OUTPUT SCREEN",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "c8b3153aae9817e6a5fba099b3413c82",
+    "text": "NMFTM1 OUTPUT SCREEN Item Line Pos Description 1 1 1–5 COMMAND-CD - ’NMFTM’ 2 1 6 CC DEFINER - ’2’ 3 1 7–16/17 TIN 4 1 17/18 FILE SOURCE 5 1 21–24 Literal (for info.) 6 1 25–26 MFT CODE 7 1 27, 30–36 Literals (for info.) 8 1 37–42 TAX PERIOD 9 1 43, 46–53 Literals (for info.) 10 1 54–57 NAME CONTROL 11 1 58 Literal (for info.) 12 2 1–15 Literal (for info.) 13 2 19–23, Literals (for info.) 34–38,49–53, 64–68 14 2 24–31, NOTICE DATE — input literal 39–46,54–61, 69–76 21 3 1–22 Literal (for info.) 22 3 24–30 Literal (for info.) 23 3 31–38 23C-DATE — input literal 24 3 41–50 Literal (for info.) 25 3 51–58 RETURN DATE — input literal 26 3 62–65 Literal (for info.) 27 3 66–79 DLN for Return — input literal 28 4 5–8 Literal (for info.) 29 4 9–11 SECURED RETURN CODE — 30 4 18–27 Literal (for info.) 31 4 28–44 TOTAL TAX LIABILITY AMOUNT 32 4 51–65 Literal (for info.) 33 4 66–79 REMITTANCE AMOUNT — input 34 5 5–8 Literal (for info.)",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "48d1e3331680f951f358a2a002e70e77",
+    "text": "Exhibit 2.4.11-4 (Cont. 2) (01-01-2005) NMFTM1 OUTPUT SCREEN",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "5ea4611accdf23c671e47f85d592e5e2",
+    "text": "OUTPUT SCREEN Item Line Pos Description 35 5 9–22 RETURN INTEREST AMOUNT — input literal 36 5 24–27 Literal (for info.) 37 5 28–41 RETURN FTP AMOUNT — input literal 38 5 43–46 Literal (for info.) 39 5 47–60 RETURN FTF AMOUNT — input literal 40 6 5–7, 24–26, ABSTRACT NUMBER — input literal 43–45, 62–64 41 6 8, 27, 46, 65 Literals (for info.) 42 6 9–22, 28–41, ABSTRACT AMOUNT — input literal 47–50, 66–79 43 7 1–14 Literal (for info.) 44 7 41–43 TRANS CODE for Standard Transaction — input literal 8–16 1–3, 41–43 45 7 45–52 TRANS DATE for Standard Transaction — input literal 8–16 5–12 46 7 54–67 TRANS AMOUNT for Standard Transaction — input 8–16 14–27, 54–67 literal 47 17 1–28 Literal (for info.) 48 17 50–53 Literal (for info.) 49 17 54–67 DLN for Audit/DP Transaction — input literal 50 18 1–3 TRANS CODE for Audit/DP Transaction — input literal 51 18 5–12 TRANS DATE for Audit/DP Transaction-input literal 52 18 14–27 TRANS AMOUNT for Audit/DP Transaction — input literal 53 18 30–32, 50–52 ABSTRACT NUMBER for Audit/DP Transaction — literal 54 18 33, 53 Literal (for info.) 55 18 34–47, 54–67 ABSTRACT AMOUNT for Audit/DP Transaction — input literal 56 19 1–18 Literal (for info.) 57 19 41–43 TRANS CODE for DAR Transactions — input literal 20–22 1–3, 41–43 58 19 45–52 TRANS DATE for DAR Transactions — input literal 20–22 5–12, 45–52",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "7aba138060a240d3c41e6b1eddd4c622",
+    "text": "TRANS CODE for Standard Transaction — input literal",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "c61d445cc307b697b879ae5e0cae3fe3",
+    "text": "TRANS DATE for Standard Transaction — input literal",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "32cc2bbcfd7b3fe4a3e1c1969715116c",
+    "text": "TRANS DATE for DAR Transactions — input literal",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "fcef56c80e9340364e577922a90424d0",
+    "text": "2.4.11-4 (Cont. 3) OUTPUT SCREEN",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "ba0c762ac590bcdafef2625b9ff93ff3",
+    "text": "Exhibit 2.4.11-4 (Cont. 3) NMFTM1 OUTPUT SCREEN",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "00dc4046e30eb11fed2512e246ea6275",
+    "text": "| 0 | 1 ] 2 ] 3 | 4 ] 5 | 6123456789012345678901234567890123456789012345678901234567890123456789012345678907|N'MFTMZV —————————— Vv__MFT>nn< TX-PRD>n----n< NM-CTRL>V--v<TICE DATE, 6335=v-———— Vv 3967=ymmmm— v 4839>>RETURN INFORMATTON:WU WKKKhatatdhialaldATATA'dhialatdpatatdpatatdhfatatdhialaldhfala’dV- v V- ——v>>AUDIT/DP-ADJ-TRANSACTIONS :KRR KRR RSEEE<VTV W",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "2d7ea4e3dcd10b5e126f22515b321007",
+    "text": "L=12345678901234567890123456789012345678901234567890123456789012345678901234567890T ~ 0 = T ~ T =~ 0 \" T = T = 0 =",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "93d529d0711cb3328a4dfdeee06544bb",
+    "text": "Exhibit 2.4.11-5 (Cont. 1) NMFTM2 INPUT SCREEN",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "992afaeb7aafe3ab7c9582e5d9413a5f",
+    "text": "2.4.11-5 (Cont. 1) (01-01-2005) INPUT SCREEN Item Line Pos Description and Validity 1 1 1–5 COMMAND-CODE - ’NMFTM’ — Generated 2 1 6 COMMAND CODE DEFINER - ’2’ — 3 1 7–16/17 TIN — Generated 4 1 17/18 FILE SOURCE - ’N’ — Generated 5 1 21–24 Literal (for info.) 6 1 25–26 MFT CODE — Generated 7 1 27, 30–36 Literals (for info.) 8 1 37–42 TAX PERIOD —Generated 9 1 43, 46–53 Literals (for info.) 10 1 54–57 NAME CONTROL — Generated 11 1 58 Literal (for info.) 12 2 1–15 Literal (for info.) 13 2 19–23, Literals (for info.) 34–38,49–53, 64–68 14 2 NOTICE DATE — Overlay ’MMDDYYYY’ literal date of the notice issuance. The ﬁrst notice be input. Up to four notices may be present. 24–31 1st notice date (at literal 6335, posts as 501) 39–46 2nd notice date (at literal 3967, posts as 502) 54–61 3rd notice date (at literal 4839, posts as 501) 69–76 4th notice date (at literal 4840, posts as 502) 15 3 1–22 Literal (for info.) 16 3 24–30 Literal (for info.) 17 3 31–38 23C-DATE — overlay ’MMDDYYYY’. Can not quent to current 23C-DATE. 18 3 41–50 Literal (for info.) 19 3 51–58 RETURN DATE — if present, overlay Must be same or prior to 23C-DATE. 20 3 62–65 Literal (for info.) 21 3 66–79 DLN for Return — overlay ’+++++++++++’. digit numeric DLN: First two digits — valid District Office Code or Center Code",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "43dfdaef7aabb730dbd653b6af85ea22",
+    "text": "DATE — Overlay ’MMDDYYYY’ literal with the of the notice issuance. The ﬁrst notice date must input. Up to four notices may be present.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "57cdb67e19ce9c184e7d7bea5b7b17cb",
+    "text": "RETURN DATE — if present, overlay Must be same or prior to 23C-DATE.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "b946e32f90b8f7a147cf739a9a78f637",
+    "text": "DLN for Return — overlay ’+++++++++++’. Enter 14 digit numeric DLN:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "72cf4ce1e8bee3af4a457535b833ea7c",
+    "text": "First two digits — valid District Office Code or Service Center Code",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "b2c9bd59790c2cab9fd91bc04a8c147b",
+    "text": "2.4.11-5 (Cont. 2) (01-01-2005) INPUT SCREEN Item Line Pos 22 4 5–8 23 4 9–11 24 4 18–27 25 4 28–44 26 4 51–65 27 4 66–79 28 5 5–8 29 5 9–22 30 5 24–27 31 5 28–41 32 5 43–46",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "2a73dce3c698b3964c19631d0143df02",
+    "text": "Exhibit 2.4.11-5 (Cont. 2) (01-01-2005) NMFTM2 INPUT SCREEN",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "f678835b93e02e17a370ad38913459e1",
+    "text": "Description and Validity",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "999a8afe868a98fecb7f62ad4de141c4",
+    "text": "SECURED RETURN CODE — if present, overlay ’+++’ with three digit number. Valid range is 101 to 848.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "a562e455a2af9165dc72437bf9123281",
+    "text": "TOTAL TAX LIABILITY AMOUNT — if present, overlay currency signs ($) with the amount, beginning in the left most position. Format range is .00 through 99,999,999,999.99.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "80ee7e0d9ab88c998b5b8f4814ac1a9a",
+    "text": "Literal (for info.)",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "9b569bcca5e936e78862b1da36aa1d2b",
+    "text": "REMITTANCE AMOUNT — if present, overlay currency signs ($) with the amount, beginning in the left most position. Format range is .00 through 999,999,999.99. Must be blank if the Total Tax Liability Amount is blank. This ﬁeld can be entered as a TC 610 though if the Total Liability Amount is blank.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "80ee7e0d9ab88c998b5b8f4814ac1a9a",
+    "text": "Literal (for info.)",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "cfc143f85d341717fab9d5dd334ae501",
+    "text": "most position. Format range is .00 through 999,999,999.99. Must be blank if the Total Tax Liability Amount is blank. This ﬁeld can be entered as a TC 340 through if the Total Liability Amount is blank.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "f678835b93e02e17a370ad38913459e1",
+    "text": "Description and Validity",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "5fca79f1c0140e56374d29b15a3a1587",
+    "text": "RETURN FTF AMOUNT — if present, overlay currency signs ($) with the amount, beginning in the left most position. Format range is .",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "9c6725dc269a48ce4b5bc78b580ccab2",
+    "text": "through",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "48dfd5b923d5534b294d38386693d91a",
+    "text": "Must be blank if the Total Tax Liability Amount is blank. This ﬁeld can be entered as a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "d7f277a347b3d996ed40b70aba0968ca",
+    "text": "through if the Total Liability Amount is blank. ABSTRACT NUMBER — if present, overlay ’AB#’ Iiteral with the three digit numeric Abstract Number. First Abstract Number must be listed on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "2fa2d4b50a019bdb75a5fdd4a831dc0d",
+    "text": ", pos",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "9217fc9c7092f748b9fd72234d301eb0",
+    "text": ", second line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "2fa2d4b50a019bdb75a5fdd4a831dc0d",
+    "text": ", pos",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "be5c9806a5d5bd2e6bc0458ff1fb06ea",
+    "text": ", etc. Each Abstract Number must have an Abstract Amount entered. There is a con-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "e88d8c25d6738971b56c08dcede1e435",
+    "text": "ABSTRACT NUMBER — if present, overlay ’AB#’ Iiteral with the three digit numeric Abstract Number. First Abstract Number must be listed on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "2fa2d4b50a019bdb75a5fdd4a831dc0d",
+    "text": ", pos",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "9217fc9c7092f748b9fd72234d301eb0",
+    "text": ", second line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "2fa2d4b50a019bdb75a5fdd4a831dc0d",
+    "text": ", pos",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "334e6cf64a863459898a77131459465a",
+    "text": ", etc. Each Abstract Number must have an Abstract Amount entered. There is a con- sistency check between MFT-CD and ABST-NUM.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "5851b0c26024f82f6559dc3515a77c31",
+    "text": "Exhibit 2.4.11-5 (Cont. 4) (01-01-2005) NMFTM2 INPUT SCREEN",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "723ba6c28cdc64aceda77b55c8b28d08",
+    "text": "MFT CDs AND ASSOCIATED NMF ABST-NUM’s MFT ABSTRACT MFT ABSTRACT NUM NUM 20 004, 188, 189 65 070–137 29 160, 162, 66 150–154, 213, 171, 233 214 40 087, 088, 093 69 210–212 41 070–072 70 173–181 42 155–157 74 165–167 45 009–069, 76 159, 161, 163, 073–076, 164, 200–206, 088, 089, 209 098, 101 46 022, 024, 026 89 199, 221 50 150–154, 90 102, 103, 213, 214 105–117,119–122 56 185, 186 119–122 94 075–083, 085, 086, 089–092, 094–101, 125, 137 6 8, 27, 46, 65 Literals (for info.) 6 9–22, 28–41, ABSTRACT AMOUNT — must be present for an input 47–50, 66–79 abstract number, overlay currency signs ($) with the amount, beginning in the left most position. Format range is .00 through 999,999,999.99. 7 1–14 Literal (for info.) 7 41–43 TRANS CODE (TC) for Standard Transaction — if 8–16 1–3, 41–43",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "3b3d58175363876dfaf7518e825c0625",
+    "text": "MFT ABSTRACT MFT ABSTRACT NUM NUM 20 004, 188, 189 65 070–137 29 160, 162, 66 150–154, 171, 233 214 40 087, 088, 093 69 210–212 41 070–072 70 173–181 42 155–157 74 165–167 45 009–069, 76 159, 161, 073–076, 164, 088, 089, 209 098, 101 46 022, 024, 026 89 199, 221 50 150–154, 90 102, 103, 213, 214 105–117,119–122 56 185, 186 119–122 94 075–083, 086, 094–101, 137 Literals (for info.)",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "5d4ca5702de3b0bc9c150c3d0ebbab61",
+    "text": "ABSTRACT AMOUNT — must be present for an abstract number, overlay currency signs ($) with the amount, beginning in the left most position. Format range is .",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "9c6725dc269a48ce4b5bc78b580ccab2",
+    "text": "through",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "5cc7ffbb66109b44536c170dbcc2e4a0",
+    "text": "Literal (for info.) TRANS CODE (TC) for Standard Transaction — if present,overlay’TC#’ with numeric transaction code. Transactions should be input in date sequence.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "70a4ab2f614deaa0875a2935b49a0098",
+    "text": "Exhibit 2.4.11-5 (Cont. 5) (01-01-2005) NMFTM2 INPUT SCREEN",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "b4f0f00036e0cbe1f22f588941cb8e0f",
+    "text": "VALID STANDARD TRANSACTION CODE: Debit Transactions: 160 240 310 402 612 671 692 732 771 170 270 320 535 641 672 695 742 772 180* 280 340 607 642 681 702 762 802 200** 290 350 609 651 682 712 765 820 234 300 360 611 652 691 731 767 830 Credit Transactions: 161 241 311 400 610 690 730 730 842 171 271 321 430 640 694 740 740 851 181* 281 341 534 650 700 760 822 852 201** 291 351 606 670 710 764 832 862 235 301 361 608 680 716 766 841",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "41ee3dfbf260c388fe13e45188614fd6",
+    "text": "VALID STANDARD TRANSACTION CODE:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "317304980eea1ecae2ce2c55e3e82025",
+    "text": "32 2.4 IDRS Terminal 2.4.11-5 (Cont. 6) (01-01-2005) INPUT SCREEN 39 7 45–52, 5–12 TRANS DATE for Standard Transaction — must be 8–16 present for an input TC. Overlay ’MMDDYYYY’. 40 7 54–67, TRANS AMOUNT for Standard Transaction — must be 8–16 14–27, 54–67 present for an input TC. Overlay $’s with the amount beginning in the left most position. Format range is .00 through 999,999,999.00. 41 17 1–28 Literal (for info.) 42 17 50–53 Literal (for info.) 43 17 54–67 DLN for Audit/DP Transaction — must be present for an input TC. Overlay +’s with fourteen digit numeric DLN. See Element 27. 44 18 1–3 TRANS CODE (TC) for Audit/DP Transaction — if present, overlay ’TC#’ with numeric transaction code. VALID AUDIT/DP ADJUSTMENT TRANSACTION CODESValidcodes for DP Adjustment: 290, 291 Valid codes for Audit Adjustment: 300, 301 45 18 5–12 TRANS DATE for Audit/DP Transaction — must be present for an input TC. Overlay ’MMDDYYYY’ with transaction date. Date can not be subsequent to 23C- DATE. 46 18 14–27 TRANS AMOUNT for Audit/DP Transaction — must be present for an input TC. Overlay $’s with the amount beginning in the left most position. Format range is .00 through 999,999,999.00. 47 18 30–32, 50–52 ABSTRACT NUMBER for Audit/DP Transaction — if present, overlay ’AB#’ literal with the three digit numeric Abstract Number. Each Abstract Number must have an Abstract Amount entered. There is a consistency check between MFT-CD and ABST-NUM . See element 40 for MFT-CDs and related Abstract Numbers. 48 18 33, 53 Literal (for info.) 49 18 34–47, 54–67 ABSTRACT AMOUNT for Audit/DP Transaction — must be present for an input Abstract Number. Overlay currency signs ($) with the amount, beginning in the left most position. Format range is .00 through 999,999,999.99. If amount(s) are present, they must total to the Audit or DP Adjustment Transaction amount (Element 52). 50 19 1–18 Literal (for info.)",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "2514ea054b172cc1040ba7f75ad61cec",
+    "text": "Exhibit 2.4.11-5 (Cont. 6) (01-01-2005) NMFTM2 INPUT SCREEN",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "510eff01eeb355e470e9fa628fabbf64",
+    "text": "DLN for Audit/DP Transaction — must be present for input TC. Overlay +’s with fourteen digit numeric DLN. See Element 27.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "b672d347dda52a59c4fc70ecff5eac7e",
+    "text": "TRANS CODE (TC) for Audit/DP Transaction — if present, overlay ’TC#’ with numeric transaction code.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "06fe8714247810f4498791ffe8146c77",
+    "text": "TRANS DATE for Audit/DP Transaction — must be present for an input TC. Overlay ’MMDDYYYY’ with transaction date. Date can not be subsequent to 23C- DATE.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "871788c239e53bd851c3b0f84873e814",
+    "text": "TRANS AMOUNT for Audit/DP Transaction — must be present for an input TC. Overlay $’s with the amount beginning in the left most position. Format range is .00 through 999,999,999.00.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "e39d4315446dba6cc51bc7cdb0945be4",
+    "text": "ABSTRACT NUMBER for Audit/DP Transaction — if present, overlay ’AB#’ literal with the three digit numeric Abstract Number. Each Abstract Number must have an Abstract Amount entered. There is a consistency check between MFT-CD and ABST-NUM . See element 40 for MFT-CDs and related Abstract Numbers.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "c47876dc0a09b36a94a1944047a4f98c",
+    "text": "ABSTRACT AMOUNT for Audit/DP Transaction — must be present for an input Abstract Number. Overlay currency signs ($) with the amount, beginning in the left most position. Format range is .",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "9c6725dc269a48ce4b5bc78b580ccab2",
+    "text": "through",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "fdf3b5c45a3ac70c409e2c3787976baa",
+    "text": "If amount(s) are present, they must total to the Audit or DP Adjustment Transaction amount (Element",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "c4b2896a2081395e282313d6683f07c8",
+    "text": ").",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "2c44e812d1cc7747dcd3c8c177eac198",
+    "text": "2.4.11-5 (Cont. 7) (01-01-2005) INPUT SCREEN 19 41–43 TRANS CODE (TC) for DAR Transactions — If 20–22 1–3, 41–43 overlay’TC#’with numeric transaction code. Use the seven, if more than seven, or the transaction(s) would change the statute to the latest date. DAR TRANSACTION CODES: 468 472 483 521 528 550 575 469 480 500 522 530 560 780 470 481 502 524 531 570 781 471 482 520 525 532 572 782",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "960fc592f9a1ffc6ac74e82fcf1cda2c",
+    "text": "Exhibit 2.4.11-5 (Cont. 7) (01-01-2005) NMFTM2 INPUT SCREEN",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "a1506fbbbd59308f4f1fbf42b236fef7",
+    "text": "CODE (TC) for DAR Transactions — If",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "c36547b5688c9a1fe3cacaa4aa8fce5d",
+    "text": "numeric transaction code. Use the latest seven, if more than seven, or the transaction(s) that would change the statute to the latest date.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "18f196f704a4a7f76dde458f3b99320b",
+    "text": "NOTE: *TC 971 can be established with only 2 digit Action Codes. All TC 971s with 3 digit Action Codes must be established with CC-FRM77, as subsequent transactions. (This is due to screen limitations.)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "832cc5a85e327f5bdfb67b9c76049146",
+    "text": "Exhibit 2.4.11-5 (Cont. 8) (01-01-2005) NMFTM2 INPUT SCREEN",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "a7d278d2a6700331a7ae57248c7f53a1",
+    "text": "TRANS DATE for DAR Transactions — must be for an input TC. Overlay ’MMDDYYYY’. Can not be sequent to the current date. DLN for DAR Transactions — must be present for an input TC. Overlay +’s with fourteen digit numeric DLN. See Element",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "ae16c2e386734a79cc4a211a1b99f20e",
+    "text": "CLOSING CODE or DEFINER CODE for DAR tions — if present, overlay ’CD’ with numeric Closing Code or Deﬁner Code. Valid Closing Codes for TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "7ab9b687c68caf12b4598066779b4958",
+    "text": "are:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "2d21f8ad985ff31969356890ae1e7f28",
+    "text": "*Valid Closing Codes for TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "7ab9b687c68caf12b4598066779b4958",
+    "text": "are:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "2d21f8ad985ff31969356890ae1e7f28",
+    "text": "*Valid Closing Codes for TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "7ab9b687c68caf12b4598066779b4958",
+    "text": "are:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "2d21f8ad985ff31969356890ae1e7f28",
+    "text": "*Valid Closing Codes for TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "7ab9b687c68caf12b4598066779b4958",
+    "text": "are:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "bf5f43dd9dc51db86d7048171b7ec0bf",
+    "text": "Valid Closing Codes for TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "7ab9b687c68caf12b4598066779b4958",
+    "text": "are:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "be243c5e2bad7a2a3010252ffdc9bb36",
+    "text": "**Valid Deﬁner Codes for TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "7ab9b687c68caf12b4598066779b4958",
+    "text": "are:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "8b0514c660763cd3e46894dd958edc37",
+    "text": "***Valid Action Codes for TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "7ab9b687c68caf12b4598066779b4958",
+    "text": "are:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "993c91355b37640ebc5320263fba5cb4",
+    "text": "***Valid Action Codes for TC 971 are: 43, 63, 66–69",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "52c88b32a05c751afd2da802424cae56",
+    "text": "***Action Codes must be present for TC 971. Action Codes are limited to 2 digits. (See note for item #57)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "9b7aaf8330dd3d58a38126ba683e8e73",
+    "text": "MODULE BALANCE AMOUNT — must be present. Overlay the $’s with the amount beginning in the leftmost position. Format and range is .",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "9c6725dc269a48ce4b5bc78b580ccab2",
+    "text": "through",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "398f83da91485ffba7360c65dd2fc76c",
+    "text": "The Module Balance Amount must be equal to the algebraic sum of the Tax Liability Amount, Remittance Amount, Return Interest Amount, Return Failure to Pay Penalty Amount, Return Failure File Penalty Amount, Standard Transaction Amount(s), and Audit or DP Adjustment Transaction Amount.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "fd24c8a61f06bd2feb67bd63be2afa20",
+    "text": "MODULE BALANCE AMOUNT — must be present. Overlay the $’s with the amount beginning in the leftmost position. Format and range is .01 through 99,999,999,999.99. The Module Balance Amount must be equal to the algebraic sum of the Tax Liability Amount, Remittance Amount, Return Interest Amount, Return Failure to Pay Penalty Amount, Return Failure File Penalty Amount, Standard Transaction Amount(s), and Audit or DP Adjustment Transaction Amount.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "63177226bcce4e5000bafc10c040094d",
+    "text": "| 0 | 1 | 2 | 3 | 4 ] 5 | 6 | 7 |123456789012345678901234567890123456789012345678901234567890123456789012345678901 NMFTM v- —-v__MFT>nn< TX-PRD>n----n<_ NM-CTRL>V--v< 12 >>NOTICE DATES: 6335=y-——--— 23 >>RETURN INFORMATION: 23C-DT= 34 SRC=vvv TQTAL-TAX=v-— 45 INT=v-— —-v_FTP=y- 56 VVV=V=--— —zV VVVsy--— 67 >>STANDARD TRANSACTIONS: 78 vvv 89 vvv 910 vvv 1011 wv 1112 vvy 1213 wvy 1314 vvv 1415 vvv 1516 wvv vo— 4 1617 >>AUDIT/DP-ADJ-TRANSACTIONS: 17i|I||!T|0|1|1'1|iI=oREQUEST COMPLETED 2445678901234567890",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "05a93f6133bfb0334a002d2d6f8e0057",
+    "text": "REQUEST COMPLETED 2412345678901234567890123456789012345678901234567890123456789012345678901234567890| 0 | 1 | 2 ] 3 | 4 | 5 | 6 | 7 1",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-011--2020-04-28.pdf",
+      "page_number": 39
+    }
+  }
+]

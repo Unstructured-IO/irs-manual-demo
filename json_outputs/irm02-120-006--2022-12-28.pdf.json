@@ -1,0 +1,1073 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "ea2669ab7d9d2261f8137cb524fe05c1",
+    "text": "This transmits a new IRM 2.120.6 Solution Engineering - Engineering Planning Process Description (PD) and Procedure.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "3647fe632d02db8c3256555236cf242c",
+    "text": "Making changes to all diagrams to be IRM 508 Compliant.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "65dbafc6066fec225cab58408f7bcb30",
+    "text": "IRM 2.120.6 dated March 8, 2022 is superseded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "4dc94bd4a21706e321bde5208535d0ac",
+    "text": "The Engineering Planning Process is applicable to all Information Technology (IT) organizations, contractors, and other stakeholders having responsibility for Engineering Planning.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "392531c41b85d67d10e63c8244bc5065",
+    "text": "Scope and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "abd1e199e8a3c526764b5af7f75ffa88",
+    "text": ") Overview - This IRM describes the formal process for implementing the re- quirements of the Engineering Planning Process. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ee4ef922d8904013d0d691d95ceb4978",
+    "text": ") Purpose - The IRM outlines what Engineering related work needs to be included in the Engineering Plan. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "731e65b1a3bdec802aedcc9400ff308a",
+    "text": ") Audience - The Engineering Planning Process is applicable to all Information Technology (IT) organizations, contractors, and other stakeholders having sponsibility for Engineering Planning. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ff1e53e46c3f62dc8c32bd2ba11701",
+    "text": ") Policy Owner - The Associate Chief Information Officer (ACIO) is responsible for overseeing all aspects of our systems that operate the nation’s tax infra- structure. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "31e3cf22c241c11e5db491edfbb2f5d4",
+    "text": ") Program Owner - Solution Engineering Division (SE), which is under Informa- tion Technology (IT), Enterprise Services (ES). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b845ce2f7e2cd7243e3a0cb605dcee86",
+    "text": ") Primary Stakeholders - Information Technology Projects are the primary holders for the Engineering Planning Process. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6d3ae7e674edf5d3abe1dd3293d4609a",
+    "text": ") Program Goals - The Program goals of the Engineering Planning Process to have all Engineering related work documented in the Engineering Plan during the project initiation phase. . (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3f1b811522a72099f6793b0d9cd2843d",
+    "text": ") A process is deﬁned as “A set of related activities that accomplish a common goal”. The process deﬁnition laid out in this document further breaks down these Activities into Tasks, each of which have a complete set of attributes deﬁned such as data and tool speciﬁcations and the role(s) responsible for executing the tasks. The document also includes process goal and objectives, metrics, role deﬁnitions, policies and other process related attributes. Description (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "880e733802ed3b9da2093d913d7f8c9b",
+    "text": ") The Engineering Planning Process outlines what Engineering related work needs to be included in the Engineering Plan. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "946c8e10dac0bc4efd67a5cf4218f995",
+    "text": ") The process goal describes a speciﬁc purpose or achievement toward which the efforts of the process are directed. Each process has a speciﬁc focus when combined with the other processes, forms a comprehensive framework for delivering and managing services. The goal of the Engineering Planning Process is to have all Engineering related work documented in the Engineering Plan during the project initiation phase. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d74d0f5943df44dde46baf818311f300",
+    "text": ") Process objectives describe material outcomes that are produced or achieved by the process. The following is a list of objectives for this process: • Relevant Engineering Processes are documented in the Project’s neering Plan (EP) • Negotiated collateral engineering work is in the Project’s Engineering Plan • Resource needs are established (SLA)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "530ce7b8f919f5e597062ad22ddee45e",
+    "text": "G (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "be7b62b9754c3895d5ea3de99b16a8b4",
+    "text": "Overview - This IRM describes the formal process for implementing the re- quirements of the Engineering Planning Process.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "56031663384e82e4a18230673c54f2f2",
+    "text": "Process objectives describe material outcomes that are produced or achieved by the process. The following is a list of objectives for this process:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d3989f2c42c4cfe8c1ec59ea73f61fa7",
+    "text": "Relevant Engineering Processes are documented in the Project’s Engi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8ece0d184428804f33257f766564686e",
+    "text": "neering Plan (EP) Negotiated collateral engineering work is in the Project’s Engineering Plan Resource needs are established (SLA)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "208f1e4fd234f12f825f7f3f35aae234",
+    "text": "All proposed changes to this document must be submitted in writing, with sup- porting rationale, to the SE division.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "fdc893e6a2d75805553550309525904d",
+    "text": "porting rationale, to the SE division. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6a026320796a2bf1a7c9cbed1ee2db30",
+    "text": ") Each process deﬁnes at least one role. Each role is assigned to perform speciﬁc tasks within the process. The responsibilities of a role are conﬁned to the speciﬁc process. They do not imply any functional standing within the hierarchy of an organization. For example, the process manager role does not imply the role is associated with or fulﬁlled by someone with functional man- agement responsibilities within the organization. Within a speciﬁc process, there can be more than one individual associated with a speciﬁc role. Addition- ally, a single individual can assume more than one role within the process although typically not at the same time.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "bc314c7cc641f2144df2f2506b882fc1",
+    "text": "Name Description Engineer Responsible for: • Assists with identifying which Engineering Processes are needed in the Preliminary Engineer- ing Plan • Consults with Project Lead as needed for all steps in the Engineering Planning Process. Project Lead The Project Lead is responsible for following all steps in the En- gineering Planning Process. • Negotiates with the Engineer assigned to help establish the Service Level Agreement and review time-lines. Project Office The Project Office will provide the Project’s Tailoring Plan.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "239ba55b6fe1940b40fcfc0e643dda1c",
+    "text": ") Policies outline a set of plans or courses of action that are intended to inﬂuence and determine decisions or actions of a process. Policies provide an element of governance over the process that provides alignment to business vision, mission and goals.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7d2ef64da4432c56fd715226429a5815",
+    "text": "Roles and responsibilities for the process must be clearly deﬁned and appropriately staffed with people having the required skills and training. The mission, goals, scope and importance of the process must be clearly and regularly communi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "946738c65c5e04cd80a14754192982d6",
+    "text": "cated by upper management to the staff and business customers of IT. All IT staff (direct and indirect users of the process) shall be trained at the appropriate level to enable them to support the process.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3f7c49c0bd1dd2532392a414abab8948",
+    "text": "It is imperative that people working in, supporting or interacting with the process in any manner understand what they are supposed to do. Without that understanding Engineer",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "75fb2c802af00b5e0b57053f9b19b708",
+    "text": "ing Planning will not be successful.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b0a077c7e194c9f208ecd13886cc288b",
+    "text": "Modiﬁcations to the Engineering Planning process must be approved by the Process Owner. The design of the process must include appropriate interfaces with other processes to facilitate data sharing, escalation and workﬂow. The process must be capable of providing data to support real",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "1cdca87f01b4de33eeb22734b21be89c",
+    "text": "time requirements as well as historical/trending data for overall process improvement initiatives. The process must be fully documented, published and accessible to the various stakeholders of the process. The process will be reviewed on a periodic basis in order to ensure it continues to support organizational goals and objectives (continuous im",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "2b3da9898e58a0bc71fbc2f9f81cc0a3",
+    "text": "provement). The process must include Inputs, Outputs, Controls, Metrics, Activities, Tasks, Roles and Responsibilities, Tool and Data re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "72518ae17db266bf8627046b1292a582",
+    "text": "quirements along with documented process ﬂows. The process will be kept straight forward, rational, and easy to understand. The process must meet operational",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e88ece46f9a96d30a80b70a621cc1c65",
+    "text": "All tools selected must conform to the enterprise architectural standards and direction. Existing in",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "4067568b54da67da0a5145b5883db566",
+    "text": "house tools and technology will be used wherever possible, new tools will only be entertained if they satisfy a business need that cannot be met by current in",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "88b290416302c880918932dadd67d9e4",
+    "text": "house tools. The selection of supporting tools must be process driven and based on the require",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "1df859700012d90787b4b0cc404dc08a",
+    "text": "ments of the business. Selected tools must provide ease of deployment, customization and use. Automated workﬂow, notiﬁcation and escalation will be deployed wherever possible to minimize delays, ensure consistency, reduce manual intervention and ensure appropriate parties are made aware of issues requiring their attention.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3a149d2aeddf12c4021fd4f188abc891",
+    "text": "Rationale: Technology and tools should be used to augment the process capabilities, not become an end themselves. Engineering Planning Process 2.120.6 page 5",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "f8f2bf79dfa2a0f4b5d898943b55e62a",
+    "text": "Process controls represent the policies and guiding principles on how the process will operate. Controls provide direction over the operation of processes and deﬁne constraints or boundaries within which the process must operate.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d0a4cdcd4d0354183fa6c1fe924a9bbe",
+    "text": "Name Description Solution Engineering Policy (Directive) The project will include in its Engineering Plan either by inclusion or reference, planning materials specifying how the following will be accomplished: • Annual Review • Execution of Engineering Process • Obtaining needed resources to perform Engineering Process • Control of work products required by the Management Process • Engagement of stakeholders affected by the Data Management Process • Monitoring and Controlling of the Management Process • Collection of Management Process measures • Review of Management Process status with high level of manage- ment • Recency of approval signature • Establishment of the Management Process within the project’s deﬁned processes • Submission of lesson learned and process improvement suggestions from the execution of Management Process Scope All projects following the ELC will be used to select, design, and implement solutions to requirements and associated activities in accordance with this policy.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "789e81ee98757e76cbc2a76a32572d55",
+    "text": "Name Description Engineering (Directive) The project will include in its Engineering Plan either by inclusion or reference, planning materials specifying how the following will be accomplished:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "9ae0f9659f6f0fa395c7b8aa26c934e9",
+    "text": "Annual Review",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "ee5e3bc5e8c381c5333fcefd1017e01f",
+    "text": "Execution of Engineering Process",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "99638db40ac640220bba1ecd4d4b6ddd",
+    "text": "Obtaining needed resources to perform Engineering Process",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "f8c5e3768f720eb48fbc7a14b1686840",
+    "text": "Control of work products required by the Management Process",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3f1be536c5b1ea691c2465caa912417d",
+    "text": "Engagement of stakeholders affected by the Data Management Process",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "5fe9678596d961c745ace50e4c7cd183",
+    "text": "Monitoring and Controlling of the Management Process",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "9a125eed4cffcabc85a19ecb43c3de31",
+    "text": "Collection of Management Process measures",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "01af463b817d95a8e12c3dfff29045f4",
+    "text": "Review of Management Process status with high level of manage",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b46058c848516763d0e8d7c17929d796",
+    "text": "ment",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1506c79a72a10a2eb9491f7d3a2a7de9",
+    "text": "Recency of approval signature",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "56932ffeba51ca08c20fb4fa1c74590e",
+    "text": "Establishment of the Management Process within the project’s deﬁned processes",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "5cda9eac7f3a8a66658f086634ac7379",
+    "text": "Submission of lesson learned and process improvement suggestions from the execution of Management Process All projects following the ELC will be used to select, design, and implement solutions to requirements and associated activities in",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "6baad44ba7dc65c654509e61512546d6",
+    "text": ") Metrics are used for the quantitative and periodic assessment of a process. They should be associated with targets that are set based on speciﬁc business objectives. Metrics provide information related to the goals and objectives of process and are used to take corrective action when desired results are not being achieved and can be used to drive continual improvement of process effectiveness and efficiency. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "6a30dd7278118e3b9e90f7896c265d3e",
+    "text": ") Management will regularly set targets for process performance, gather quantiﬁ- able data related to different functions of the Engineering Planning process, and review that data in order to make informed decisions and take appropriate corrective action, if necessary. All Measurements will have a deﬁned data dic- tionary, map to the organizational strategic goals, and be documented in a Process Measurement Plan. The Process Measurement Plan template is available in the IT PAL. Guidelines (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0b61ba368a6b8aa47c73334ee1672509",
+    "text": ") The tailoring guidelines identify the allowable variations of the IT organization’s standard process as needed for adjustments (adding, deleting, modifying) relative to speciﬁc operational or functional needs of another organization. Process tailoring is about roles and procedures, not the standard process or major activities deﬁned in this process. All tailoring requests, with supporting rationale, must be submitted in writing the Chief, Solution Engineering Process Maturity, and approved by the Engi- neering Planning Process owner. Assurance (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0e0f747610cc767abf79c8353fbfc8b7",
+    "text": ") The Engineering Planning Process may be part of a Quality Assurance review at the discretion of the Process Owner. Terms/Deﬁnitions/Acronyms (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "1fc9a7a16abc5b08e3c65a0a054afee5",
+    "text": ") Terms/Deﬁnitions/Acronyms and Deﬁnitions (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "31bf0359d5374656b37ed8d9ef659e82",
+    "text": ") Terms and Deﬁnitions",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "fe595045739e556d2c7d4cc70273f940",
+    "text": "Solution Engineering",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "fb0a5244f23bae14fd523b3d4504dee1",
+    "text": "R : Responsible for the action (may do the task) A :Accountable for the action (including approval) C :Required to be Consulted on the action I : Required to be Informed of the action If a task does not have an Accountable role indicated then the Responsible role is assumed to be accountable for the task.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3ade4481f49c326769145360ae0e7ed2",
+    "text": "A Uniﬁed Work Request is a documented formal request from any organization requiring IT services for changes to current or planned systems, corporate hardware or system testing, etc. Used for registering demand for IT products and services including hardware and software for an organizational level business need. NOTE: Impact Cost Analysis Summary (ICAS) Requests or Impact Cost Analysis Detail (ICAD) Requests are children of the parent work request.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "9eb045e46e7fc43e4a09df4dc7a310f2",
+    "text": "Information Technology Process Asset Library",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "29b3cf12d4c68f94491afca6cb829f19",
+    "text": ") Engineering Planning Data Information Document (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "cc821212153a0da383a7f271ea4b038b",
+    "text": ") Process training involves training all stakeholders about key processes that are crucial for an organization to deliver business objectives. Training provides clarity to employees on a set of procedures that needs to be carried out as part of the process and the best possible way to do them. Below is the training resource available for this process: • Engineering Planning Process Training (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "84b210497835e38ee6d592e347a43b32",
+    "text": ") A process workﬂow consists of Activities and Tasks, Inputs and Outputs, Roles, and Flow Diagrams. It describes the tasks, procedural steps, organizations or people involved, required input and output information, and tools needed for each step of the process. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "911e9af0ce863921cf2757cf20ff5afd",
+    "text": "Figure 2.120.6-1",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "4635788237eebb4c0ef8d4380eab6c09",
+    "text": "Process inputs are used as triggers to initiate the process and to produce the desired outputs. Users, stakeholders or other processes provide inputs. The following is a list of inputs for this process:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "24007f5fcd41e3d19f4c93fe379b1b46",
+    "text": "Name Description Recipient Preliminary Engineer- ing Plan Going through the Engineering Planning Process supplies all areas needed to ﬁll out the Engineering Plan Data Item De- scription (DID) and this includes the Service Level Agreement (SLA). Engineering ELC DocumentationProcess",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "8e5e04bdda5edee0c90630547b2e9f17",
+    "text": "An activity is a major unit of work to be completed in achieving the objectives of the process. A process consists of a sequence of related activities that transforms inputs into outputs and performed by the roles deﬁned in the process. Activities are measurable in terms of efficiency and effectiveness. Identify the activities in the process and provide a brief description. The activi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "d1fced1bc371d4057db4bbdd39d739c5",
+    "text": "ties must correspond with the high",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "dfa6a167b6705f3bd84542580a72faff",
+    "text": "level process ﬂow diagram above.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "a766af46b459996ae7e354f798e00942",
+    "text": "ID Name Description EP1.0 Determine which Engineering Processes need to be in the plan Determine which Engineering Processes need to be in the plan • Send a request for an Engineer to help with engineering planning • Obtain initial agreement with Engineer for a Service Level Agreement (SLA) • Agree based on the SLA which engineering processes belong in the EP EP2.0 Negotiate collateral engineer- ing work Negotiate collateral engineer- ing work (e.g. Training, metrics, QA reviews) • Determine Human Resource resource needs for the project • Determine Stakeholder Involvement • Determine Engineering Training needs • Determine metrics to be collected EP 3.0 Establish Engineering resource needs (SLA) Establish Engineering resource needs • Establish SLA between the Project and SE • Specify Needed Project Engineering Environ- ments • Collect Engineering Plan details",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "e13fc6285d59582f9e46d1fc6f4a3b9c",
+    "text": "(1) This step is to determine which Engineering Process need to be in the EP.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "ea00a06364d67b86b2bd49f84b8316b3",
+    "text": "Engineering Processes need to be in the plan ID Task Name and De- scription Role RACI Duties EP 1.1 Send a request for an Engineer to help with engineering planning Project Lead, Engineer R C Send a request for an engineer to help with Engineering Planning • Create a Uniﬁed Work Request for engaging Solution Engineer- ing Services. • Send a request to the Solution Engineering Front Door e-mail box with the UWR number re- questing an Engineering Contact for Engineering Planning for the project to the following e-mail address: it.engineering.custom- er.support@irs.gov.The requestor will be assigned an engineer to help with engineering planning. EP 1.2 Obtain initial agreement with Engineer for Service Level Agreement (SLA) Project Lead, Engineer R C Obtain initial agreement with Engineer for a Service Level Agreement (SLA) • Decide if the project needs full service from SE or if the project requires review only service. • If review only go to task 1.3. • For full service go to task 3.1 Note: Full Service means SE will become fully engaged in the work and will be responsible for all engineering deliverable and artifacts.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "ba7ec761dff2f619778cd5785d699013",
+    "text": "Obtain initial agreement with Engineer for a Service Level Agreement (SLA) • Decide if the project needs full service from SE or if the project requires review only service. • If review only go to task",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "301f43e34f47c1555c6f671e2c2d0dd0",
+    "text": "• For full service go to task",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "80733a48e751a6f9d3ad0889d62aa282",
+    "text": "Note: Full Service means SE will become fully engaged in the work and will be responsible for all engineering deliverable and artifacts.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "846e48e5a5ab65241945f7b865dc6bcb",
+    "text": "EP 1.3 Agree based on the SLA which engineering processes belong in the Engineering Plan Project Lead, Engineer R C Agree based on the SLA which engi- neering processes belong in the EP. • Project Lead negotiates labor costs and funding with Engineer assigned. • Document which engineering processes are needed for the project with the assigned engineer • Use the Process tailoring guide- lines contained in the Solution Engineering process descriptions contained in the Integrated Process Management (IPM) Process Asset Library and in the IRM’s Engineering, and Data Engineering chapters. Engineering Planning Process 2.120.6 page 13",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "55d832515129954b8306f1baaf3b5999",
+    "text": "Note: *RACI is a responsibility matrix that describes the participation by various roles in completing the tasks or deliverable for a project or business process. RACI is derived from the four key responsibilities typically used:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "4b28b40cb3d8c81096707a0e34c4c6a9",
+    "text": "R esponsible – The person that is assigned to do the work. A ccountable – The person that makes the ﬁnal decision and has ultimate ownership. C onsulted – The person that must be consulted before a decision or action is taken. I nformed – The person that must be informed that a decision or action has been taken.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "9a6054302b75676b3ea4942ddeb3afc6",
+    "text": "EP 1.0: Determine which Engineering Processes need to be in the plan",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "28ca933b3b08ed3ed14113f6a1681ba4",
+    "text": "S g Procamses; s o b in the phasit",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "07d02f0080846eb9c0a4953d5b7634c0",
+    "text": "(1) This step is to negotiate collateral engineering work with the Project Lead.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "0447af821873e0c9ec642cfb81d552ba",
+    "text": "ID Task Name and Description Role RACI Duties EP 2.1 Determine human resource needs Project Lead, Engineer R C Determine Human Resource resource needs for the project • List the required human resource needs EP 2.2 Determine Stakeholder In- volvement Project Lead, Engineer R C Determine Stakeholder Involvement • List stakeholders that will be involved in each Engineering Process/Artifact. • List the stakeholders involve- ment activities for each Engineering Process/Artifact • The Engineering Process/ Artifacts include: • Solution Design Process: Simpliﬁed Design Speciﬁ- cation Report (SDSR) • Interface Design: Interface Control Document (ICD) • Hardware Analysis and Design/System Conﬁgu- ration Validation Process: Government Equipment List (GEL) • Data Management • Naming Data Elements EP 2.3 Determine Engineering Training needs Project Lead, Engineer R C Determine Engineering Training needs • List the Engineering Processes that will be used for the project and document if any training courses are needed. Note: Refer to section 2.120.6.1.8 for more information",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "b19c82641b6b1b8baf8cde6231c5c82f",
+    "text": "EP 2.4 Determine metrics to be collected Project Lead, Engineer R C Determine metrics to be collected • Identify the metrics the project needs to collect • Capture those metrics during the execution of project • Deliver the metrics to Process Maturity (PM) for storage in the appropriate Measurement Repository. Engineering Planning Process 2.120.6 page 15",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "55d832515129954b8306f1baaf3b5999",
+    "text": "Note: *RACI is a responsibility matrix that describes the participation by various roles in completing the tasks or deliverable for a project or business process. RACI is derived from the four key responsibilities typically used:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "4b28b40cb3d8c81096707a0e34c4c6a9",
+    "text": "R esponsible – The person that is assigned to do the work. A ccountable – The person that makes the ﬁnal decision and has ultimate ownership. C onsulted – The person that must be consulted before a decision or action is taken. I nformed – The person that must be informed that a decision or action has been taken.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "9cbbc628eca39d1fc15031ec1b4f8ad0",
+    "text": "Engineering Plan Process 2.0 Negotiate collateral engineering work",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "d5f9fd03b802400a300f012ebbfa94b9",
+    "text": "| Englneering Plan Process 2.0 Negotiate collateral engineering work",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "90b7c9654e86d0ea288649e2fc20a552",
+    "text": "This step is to establish Engineering Resource Needs for the Project.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "cf7fe265687240b4efd6c4e39f5a32f1",
+    "text": "Specify needed Project Engineering Environments",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "07437cd651bed86ed83d954361d8e85f",
+    "text": "Environments",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "46ce42a1fd514a8bea5573174ce79b82",
+    "text": "List which environments the project will need to accom",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "22d8554c8fd7d55fa9312961e2e7ccb2",
+    "text": "plish the project work (e.g. development environment, integration environment, test environment, production envi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "b1067f157dbe8683d72e510ee3102efa",
+    "text": "ronment, disaster recovery environment, and other envi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "f80a4b035730fd30f3ebf74a2e3b5da7",
+    "text": "ronments (as required)).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "d19bd599652c0711bcf6c29bd19d61e0",
+    "text": "EP 3.3 Collect Engineering Plan details Project Lead, Engineer RC Collect Engineering Plan details for the Engineering Plan • Collect all details related to each Engineering Planning Process step. These details make up the Preliminary Engi- neering Plan. • Prepare to use the Prelimi- nary Engineering Plan as an input into the Engineering ELC documentation Process. Engineering Planning Process 2.120.6 page 17",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "55d832515129954b8306f1baaf3b5999",
+    "text": "Note: *RACI is a responsibility matrix that describes the participation by various roles in completing the tasks or deliverable for a project or business process. RACI is derived from the four key responsibilities typically used:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "4b28b40cb3d8c81096707a0e34c4c6a9",
+    "text": "R esponsible – The person that is assigned to do the work. A ccountable – The person that makes the ﬁnal decision and has ultimate ownership. C onsulted – The person that must be consulted before a decision or action is taken. I nformed – The person that must be informed that a decision or action has been taken.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "9e4e853439432726521927f50211491e",
+    "text": "ICD numbers are for 2 interfaces; additional resources are necessary for more interfaces",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "9cb07dd2d922e81bd085d0570c0e94e1",
+    "text": "Total SE Days (** 1 Day = 8 person hours) 247 125 SE Support Time Estimates for Medium Complexity Projects Artifact ELC MS Full Engage-ment (Development&Review)(SEDays)** Review Only (SE Days)** SolutionConcept (All Analysis) 0 11 1 BSR (All Analysis) 2 12 8 EP (Initial) 1 12 8 EP (Updates) 2, 3, 4a 6 (x 3 MS Exits) 6 (x 3) SDSR 3, 4a 32 (x 2 MS Exits) 15 (x 2) GEL 4a 30 20 ICD 3, 4a 17 (x 2 MS Exits) 15 (x 2) ICD numbers are for 2 interfaces; additional resources are necessary 2.120 Solution Engineering",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "1496a2d3d1e85e5649adedf37535dfc5",
+    "text": "Exits) ICD numbers are for 2 interfaces; additional resources are necessary for more interfaces Total SE Days (** 1 Day = 8 person hours) 181 115 SE Support Time Estimates for Low Complexity Projects Artifact ELC MS Full Engage-ment (Development&Review)(SEDays)** Review Only (SE Days)** SolutionConcept (All Analysis) 0 7 1 BSR (All Analysis) 2 8 6 EP (Initial) 1 8 6",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "9e4e853439432726521927f50211491e",
+    "text": "ICD numbers are for 2 interfaces; additional resources are necessary for more interfaces",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "bda8f350592bdd1c1629ac64aa4f5169",
+    "text": "EP (Updates) 2, 3, 4a 4 (x 3 MS Exits) 4 (x 3) SDSR 3, 4a 23 (x 2 MS Exits) 12 (x 2) GEL 4a 20 14 ICD 3, 4a 12.5 (x 2 MS Exits) 10 (x 2) ICD numbers are for 2 interfaces; additional resources are necessary for more interfaces Total SE Days (** 1 Day = 8 person hours) 126 83 2.120.6.2.5.3.1(12-28-2022) Cross-Functional Flow (1) Engineering Planning Process 2.120.6 page 19",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "9e4e853439432726521927f50211491e",
+    "text": "ICD numbers are for 2 interfaces; additional resources are necessary for more interfaces",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "ff325025b7ef3860d7a65413efa50ea0",
+    "text": "Total SE Days (** 1 Day = 8 person hours) 126 83",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "216c1c5fc72ca0a605478f218cfa79e3",
+    "text": "€0 3.0 stablsh Enginecring rsource necds . SLA)",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "94bd695b9dca695d8141d85fb470bcd2",
+    "text": "£P 3.0 Establish Engineering resource needs fi.e. SLA}",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-006--2022-12-28.pdf",
+      "page_number": 23
+    }
+  }
+]

@@ -1,0 +1,1091 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "da8a45b42392fc33080980553c39915d",
+    "text": "This transmits revises IRM 2.120.8 Solution Engineering - Interface Design Process Description (PD) and Procedure dated March 8, 2022 due to 508 compliance mandated requirement.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "5b3f195862c98287eb42f31218aa3bc8",
+    "text": "Make all diagrams being 508 compliant.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "ae9ce2e1e023fab45eb8909209229140",
+    "text": "IRM 2.120.8 Interface Design Process dated March 8, 2022 is superceded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1e9cf34b93f8591959c0b596cd7ace3c",
+    "text": "This process description is applicable to all Information Technology (IT) organizations, contractors, and other stakeholders having responsibility for developing IT systems.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "392531c41b85d67d10e63c8244bc5065",
+    "text": "Scope and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "067b5925b93f6a0b00c9726fdb3e2baf",
+    "text": ") Overview -This IRM describes the formal process for implementing the require- ments of the Interface Design process. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "dd2f445d0e17233af7b2764de2fd2945",
+    "text": ") Purpose -This IRM contains procedural steps for System Designers to suc- cessfully select and design interfaces to requirements. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9692fd9c33c03e661adbe296511bdb64",
+    "text": ") Audience - These procedures apply to IRS Information Technology (IT) employees and contractors who are responsible for selecting and designing computer system. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "50aa8fff85e6126ea48ae86ee005eebc",
+    "text": ") Policy Owner - Associate Chief Information Officer (ACIO), Enterprise Services, is responsible for overseeing all aspects of our systems that operate the nation’s tax infrastructure. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "807382b19965ffc678326c4c4bb56de3",
+    "text": ") Program Owner - Solution Engineering division (SE), which is under Informa- tion Technology, Enterprise Services (ES). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "7d7d71771006f3a1d4772013c39de476",
+    "text": ") Primary Stakeholders - Application Development (AD), Cybersecurity, Enter- prise Operations (Eops), Solution Engineering (SE), Enterprise Architecture (EA), User and Network Services (UNS) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "7b44679e708cc3747f38500399b01480",
+    "text": ") Program Goals - This IRM provides the fundamental knowledge and proce- dural guidance for those who design and implement computer systems. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3f1b811522a72099f6793b0d9cd2843d",
+    "text": ") A process is deﬁned as “A set of related activities that accomplish a common goal”. The process deﬁnition laid out in this document further breaks down these Activities into Tasks, each of which have a complete set of attributes deﬁned such as data and tool speciﬁcations and the role(s) responsible for executing the tasks. The document also includes process goal and objectives, metrics, role deﬁnitions, policies and other process related attributes. Description (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "08599537d8f8d11dee2828e125ac2abe",
+    "text": ") This Interface Design process description describes what happens within the Interface Design process and provides an operational deﬁnition of the major components of the process. This description speciﬁes, in a complete, precise, and veriﬁable manner, the requirements, design, and behavior characteristics of the Interface Design process. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4f03519460f752f798902bc03d3c5a90",
+    "text": ") The process goal describes a speciﬁc purpose or achievement toward which the efforts of the process are directed. Each process has a speciﬁc focus when combined with the other processes, forms a comprehensive framework for delivering and managing services. • Interface is selected from alternative designs • Interface designs are developed (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e003ab9ebc87e2913a2f79fe07b39bc6",
+    "text": ") Process objectives describe material outcomes that are produced or achieved by the process. The following is a list of objectives for this process: • Interface Control Document (ICD) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8384716392f82d69bd1a3eddfd254be8",
+    "text": ") All proposed changes to this document must be submitted in writing, with porting rationale, to the Solution Engineering division. Design Process",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3660315a9af3df255d8f19ab077e4797",
+    "text": "page",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1b80b83e3b8c1d315f2f502284d183ef",
+    "text": "C (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ea29577fa116db44c4afc641da959cba",
+    "text": "Overview -This IRM describes the formal process for implementing the require- ments of the Interface Design process.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4101f792b49c0175e6bb4c5a2e2d3c76",
+    "text": "Program Goals - This IRM provides the fundamental knowledge and proce- dural guidance for those who design and implement computer systems.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "57ce595f9527b036841c3971ce8a62c8",
+    "text": "Process objectives describe material outcomes that are produced or achieved the process. The following is a list of objectives for this process:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "dc79f36e859c87e51922a9a4093f03cb",
+    "text": "All proposed changes to this document must be submitted in writing, with sup- porting rationale, to the Solution Engineering division.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6a026320796a2bf1a7c9cbed1ee2db30",
+    "text": ") Each process deﬁnes at least one role. Each role is assigned to perform speciﬁc tasks within the process. The responsibilities of a role are conﬁned to the speciﬁc process. They do not imply any functional standing within the hierarchy of an organization. For example, the process manager role does not imply the role is associated with or fulﬁlled by someone with functional man- agement responsibilities within the organization. Within a speciﬁc process, there can be more than one individual associated with a speciﬁc role. Addition- ally, a single individual can assume more than one role within the process although typically not at the same time.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "186d97901e88cf67debfecd9306ce2ed",
+    "text": "Name Description Designers • Deﬁne interface criteria • Identiﬁcation of component interfaces both internal and external • Ensuring all interface standards are followed • Ensuring interface requirements are allocated to components and sub- components levels • Developing all required technical interface details at solution level for ICD • Evaluate the interface alternative designs against criteria Stakeholders • These are the speciﬁc people or groups who have a stake, or an interest, in the outcome of the project",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "239ba55b6fe1940b40fcfc0e643dda1c",
+    "text": ") Policies outline a set of plans or courses of action that are intended to inﬂuence and determine decisions or actions of a process. Policies provide an element of governance over the process that provides alignment to business vision, mission and goals.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "69f4b52072365091c972d26ea6db02c3",
+    "text": "2.120.8.1.4(01-12-2023) Program Management and Review",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4b5d77e0a64522adc1db1c2ff2bad226",
+    "text": "Process Manage- ment Statement: The Interface Design process will have a single Process Owner and a separate Process Manager, responsible for implementation and ensuring adherence to the process. The process will be reviewed regularly to ensure that it continues to support the business requirements of the enterprise. The process will be designed and developed based on ROI to the business. Process metrics will be focused on providing relevant information as opposed to merely pre- senting raw data. People :",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e5be8922203784225435ec070e5f4435",
+    "text": "Process Manage",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "2729cb9087169d9fe72f01bd87d3ac49",
+    "text": "ment Statement: The Interface Design process will have a single Process Owner and a separate Process Manager, responsible for implementation and ensuring adherence to the process. The process will be reviewed regularly to ensure that it continues to support the business requirements of the enterprise. The process will be designed and developed based on ROI to the business. Process metrics will be focused on providing relevant information as opposed to merely pre",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e5fdf43b19b006a2b5f06b3d41ed5d0b",
+    "text": "senting raw data.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4388a4d448c9310bfd709e8494a2403b",
+    "text": "Modiﬁcations to the Interface Design process must be approved by the Process Owner. The design of the process must include appropriate interfaces with other processes to facilitate data sharing, escalation and workﬂow. The process must be capable of providing data to support real",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "eadae5c56a046a8ac41f6129d94010aa",
+    "text": "time requirements as well as historical/ trending data for overall process improvement initiatives. The process must be fully docu",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "6478ad7ab8eb81cb55bc87a97052b06a",
+    "text": "mented, published and accessible to the various stakeholders of the process. The process will be reviewed on a periodic basis in order to ensure it continues to support organizational goals and objectives (continuous improvement). The process must include Inputs, Outputs, Controls, Metrics, Activities, Tasks, Roles and Responsi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "16a19e06085d282844f8a424bdbe0b4b",
+    "text": "bilities, Tool and Data requirements along with documented process ﬂows. The process will be kept straight forward, rational, and easy to un",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "78e3d63100a51592a48dfdcb01632c81",
+    "text": "derstand. The process must meet operational and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "468f3e9ca6cdbe4c3eebe085a7743beb",
+    "text": "Technology and Tools: Statement: All tools selected must conform to the Enter- prise Architectural Standards and direction. Existing in-house tools and technology will be used wherever possible, new tools will only be entertained if they satisfy a business need that cannot be met by current in-house tools. The selection of supporting tools must be process driven and based on the requirements of the business. Selected tools must provide ease of deployment, customizing and use. Automated workﬂow, notiﬁcation and escalation will be deployed wherever possible to minimize delays, ensure consistency, reduce manual intervention and ensure appropriate parties are made aware of issues requiring their attention. . Rationale: Technology and tools should be used to augment the process capabilities, not become an end themselves.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "9812516a442fe57ae930f483294ece8c",
+    "text": ") Activities involved in ensuring a process is predictable, stable, and consistently operating at the target level of performance. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e990909ee02e24434a6daeb513891746",
+    "text": ") Process controls represent the policies and guiding principles on how the process will operate. Controls provide direction over the operation of processes and deﬁne constraints or boundaries within which the process must operate.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "c3032ada4ac74fec9ee26a938eab018b",
+    "text": "Activities involved in ensuring a process is predictable, stable, and consistently operating at the target level of performance.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "25c40d48d19321645fbc4525d3d9429d",
+    "text": "All projects will follow the Interface Design process which will be used to perform interface designs to requirements and as",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8f410a1aa54a5edec009998c04b35d7b",
+    "text": "sociated activities in accordance with this policy.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b1c4fde1be5584bc08b7dec57c5fd0c2",
+    "text": ") Metrics are used for the quantitative and periodic assessment of a process. They should be associated with targets that are set based on speciﬁc business objectives. Metrics provide information related to the goals and objectives of a process and are used to take corrective action when desired results are not being achieved and can be used to drive continual improvement of process effectiveness and efficiency. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "5c072a39306bd2d43208f759eadca80b",
+    "text": ") Management will regularly set targets for process performance, gather quantiﬁ- able data related to different functions of the Interface Design process, and review that data in order to make informed decisions and take appropriate cor- rective action, if necessary. All Measurements will have a deﬁned data dictionary, map to the organizational strategic goals, and be documented in a Process Measurement Plan. The Process Measurement Plan template is available in the IT PAL.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "ca9a61e6373354b110c53d2581fc3ba3",
+    "text": "Management will regularly set targets for process performance, gather quantiﬁ- able data related to different functions of the Interface Design process, and review that data in order to make informed decisions and take appropriate cor- rective action, if necessary. All Measurements will have a deﬁned data dictionary, map to the organizational strategic goals, and be documented in a Process Measurement Plan. The Process Measurement Plan template is available in the IT PAL.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "bed2c65f0606e5e360627a089c204d4c",
+    "text": "Guidelines (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0d23fd83a74168b19db96689e3ecc1ab",
+    "text": ") The tailoring guidelines identify the allowable variations of the IT organization’s standard process as needed for adjustments (adding, deleting, modifying) relative to speciﬁc operational or functional needs of another organization. Process tailoring is about roles and procedures, not the standard process or major activities deﬁned in this process. All tailoring request, with supporting rationale, must be submitted in writing to and approved by the Interface design Process owner. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0f7d88971c20cf2878b524a14cc0ab52",
+    "text": ") Step",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "24f27333dca272fc1510a2ebc6ddbbcb",
+    "text": ": “Deﬁne Interface Criteria” may be tailored out when a project is a maintenance project whose design is dictated by the existing system or the design of the system is fully constrained by the Enterprise Architecture. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0f7d88971c20cf2878b524a14cc0ab52",
+    "text": ") Step",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "733dc98ea6ccf92d4f14fa15e0b4c623",
+    "text": ": “Identify the Systems or Components” being Interfaced may be tailored out when a project is a maintenance project whose design is dictated by the existing system or the design of the system is fully constrained by the Enter- prise Architecture. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0f7d88971c20cf2878b524a14cc0ab52",
+    "text": ") Step",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "612a3246d547c40116b4c423c34727f4",
+    "text": ": “Development Alternative Interface Designs and Selection Criteria & Select Interface Design” may be tailored out when a project is a maintenance project whose design is dictated by the existing system or the design of the system is fully constrained by the Enterprise Architecture. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0f7d88971c20cf2878b524a14cc0ab52",
+    "text": ") Step",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "8d44e4d863fbe4b30028373467621fc2",
+    "text": ": “Review, Revise, and Concur with Interfaces Design” may be tailored out when a project is a maintenance project whose design is dictated by the existing system or the design of the system is fully constrained by the Enter- prise Architecture. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0f7d88971c20cf2878b524a14cc0ab52",
+    "text": ") Step",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "1cbc9ba7efa92092d9f351ead161841b",
+    "text": ": “Collect Technical Details” may be tailored when the project is a main- tenance project whose design is dictated by the existing system, no signiﬁcant change is made to the systems logical design, and approved equivalent docu- mentation exists. Updates to the equivalent documentation may be substituted and the activities modiﬁed as needed to support the updating of the documen- tation. The list of approved equivalent documentation is available on the IPM PAL. If the work product Documented Interfaces, Evaluations, and Rationale tailored out, references to existing requirements and traceability matrixes must be substituted. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "16e2d356c4105d2f6d16e3786d2368fe",
+    "text": ") The Interface Design process may be part of a Quality Assurance review at discretion of the Process Owner. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "87fda692d4dc7b60762581e207ebf24a",
+    "text": ") Terms/Deﬁnitions/Acronyms",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "686ccb8c8de8728f117e9b7ae0205a8e",
+    "text": "The RACI model is based on the principle that people act in one of four ways when executing a task. It accounts for the fact that more than one role may be active in performing a speciﬁc task while clearly deﬁning speciﬁc responsi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "e58b9d1214ecb37e0311f51c48e8160a",
+    "text": "bilities for that role. While many roles may be involved in a task only one is Accountable for the results. “The actions are: R Re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "485903c17b0dd7481f049d2383c142f0",
+    "text": "sponsible for the action (may do the task) A Accountable for the action (including approval) C Required to be Consulted on the action I Required to be Informed of the action If a task does not have an Accountable role indicated then the Responsible role is assumed to be account",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "4c07a728e9939e6e0fd244981b2a155b",
+    "text": "able for the task.”",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "5556323e63d0385898dea1aa8f717fb5",
+    "text": "Acronyms Deﬁnition COTS Commercial Off The Shelf ELC Enterprise Life Cycle ES Enterprise Services ICD Interface Control Document IPM Integrated Process Management IRM Internal Revenue Manual",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "940db0b8d01eeec4af2d6a0986ce0e0e",
+    "text": "IRS Internal Revenue Service ID Interface Design IT Information Technology PAL Process Asset Library PD Process Description PMI Project Management Institute QA Quality Assurance RACI Responsible, Accountable, Consulted and Informed SDSR Simpliﬁed Design Speciﬁcation Report SE Solution Engineering SEPM Solution Engineering Process Maturity",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "b726d632c8e0f02816bbb124771285dd",
+    "text": "Process training involves training all stakeholders about key processes that are crucial for an organization to deliver business objectives. Training provides clarity to employees on a set of procedures that needs to be carried out as part of the process and the best possible way to do them. List below the training resources available for this process:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "e0caa31e17c9a362de24f41b26751d4a",
+    "text": "Figure 2.120.8-1",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "4635788237eebb4c0ef8d4380eab6c09",
+    "text": "Process inputs are used as triggers to initiate the process and to produce the desired outputs. Users, stakeholders or other processes provide inputs. The following is a list of inputs for this process:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "e13ce04f5a964d72c02bf31cf0f1e131",
+    "text": "Name Description Supplier Approved System Re- quirements System requirements are used in determin- ing what the solution to be implemented is required to do. BSR (Business System Report), VSA (Vision, Scope, and Architecture) for Agile Allocated Customer Requirements Allocated require- ments are used to give context to the system requirements. BSR, VSA Operation Concept Concept of operation is used to give context to the system and allocated customer require- ments Solution Concept, BSR, VSA Functional Architec- ture Functional architec- ture is used to give context to the system requirements BSR, VSA Design Speciﬁcation SDSR is used to give context for the interface design to the system and allocated customer requirements SDSR Design Constraints Constraints are used to limit design and implementation alter- natives Solution Engineering Software Engineering Practice Group",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "60838ab6c6166fca2669f0edaa226d2a",
+    "text": "Each process produces tangible outputs. These outputs can take the form of products or data and can be delivered to a user or stakeholder, or, they can be used as inputs to other processes. Outputs are measurable in terms of quantity and quality.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "5f5132b2afed943697590c99d75d56fc",
+    "text": "Name Description Recipient TechnicalDetails Technical Detail will document the follow- ings: • Alternative interface screening criteria • Alternative interfaces • Selection criteria for ﬁnal selection • Documented design solutions, evalu- ations, and rationale for selected interface design EngineeringELCDocu-mentationProcess",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "5f134465ffc8029b2c87eef613b79ded",
+    "text": ") An activity is a major unit of work to be completed in achieving the objectives of the process. A process consists of a sequence of related activities that transforms inputs into outputs and performed by the roles deﬁned in the process. Identify the activities in the process and provide a brief description. The activities must correspond with the high-level process ﬂow diagram above.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "18ab9cd7354af84e88f08ef3a6b289b7",
+    "text": "ID Name Description ID 1.0 Deﬁne Interface Criteria To deﬁne screening criteria to select set of alternative interfaces for consideration • Identify screening criteria elements • Develop screening criteria to select a set of alterna- tive interfaces for consideration ID 2.0 Identify the Systems or ComponentsbeingInterfaced To identify the components or sub-components being interfaced. • Identify the components being interfaced • Identify the sub- components interfaced ID 3.0 Develop Alterna- tive Interface Designs and SelectionCriteria& Select Interface Design To develop, evaluate and select solution. • Develop alternative inter- faces • Evaluate each alternative interfaces • Select the best alternative interface ID 4.0 Review, Revise, and Concur with InterfacesDesign To review the interface that is being designed. • Review the interface that is being designed • Revise the interface ac- cordingly if necessary",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "ac44654f8c562add09973ddce7834ea1",
+    "text": "ID 5.0 CollectTechnical Details To collect all technical details: • Collect the selected interface design • Collect the rationale for the interface selection • Collect internal and external interface informa- tion • Send ICD technical data to “Data Management” process • Check whether all inter- faces are being designed • If yes, go to “Engi- neering ELC Documentation”process • If no, design the inter- faces for the next level of design com- ponents by going to the process, SD Step 6.0 “Design the Solution Components” 2.120.8.2.5(01-12-2023) Procedure (1) A procedure provides the step by step instructions, or tasks, in how to perform each activity in the process and usually applies to a single role that will be re- sponsible in performing the task. (1) This step is to deﬁne interface criteria that meet interface requirements page 12 2.120 Solution Engineering",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "cd3f5d723b577138fcd3910d1cc95e40",
+    "text": ") A procedure provides the step by step instructions, or tasks, in how to perform each activity in the process and usually applies to a single role that will be re- sponsible in performing the task.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "74a52a64ae3df993e6db7c952f31ae45",
+    "text": "This step is to deﬁne interface criteria that meet interface requirements",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "e7c4d53ec3e58074a4509b43c0c8cea5",
+    "text": "ID Task Name and Description Role RACI* Duties ID 1.1 Identify screening criteria elements Screening criteria are used to narrow down the list of alterna- tives to those consistent with interface requirements Designers RA • Consider following criteria: • Scope • Constraints (Design, Cost, Risk) • Alternative solution impact on current IT operations • Alternative solution impact on End Users",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "0d8f7613d00e68305666a8650574b5c6",
+    "text": "ID 1.2 Develop screening criteria to select a set of alternative in- terfaces for consideration This task is to develop screening criteria to narrow down the list of interface alter- natives Designers RA • Develop screening criteria consistent with the interface requirements Interface Design Process 2.120.8 page 13",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "55d832515129954b8306f1baaf3b5999",
+    "text": "Note: *RACI is a responsibility matrix that describes the participation by various roles in completing the tasks or deliverable for a project or business process. RACI is derived from the four key responsibilities typically used:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "4b28b40cb3d8c81096707a0e34c4c6a9",
+    "text": "R esponsible – The person that is assigned to do the work. A ccountable – The person that makes the ﬁnal decision and has ultimate ownership. C onsulted – The person that must be consulted before a decision or action is taken. I nformed – The person that must be informed that a decision or action has been taken.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "9ca15db472a201ec143f422b6890dd29",
+    "text": "ID Task Name and Description Role RACI* Duties ID 2.1 Identify the components being interfaced Identify the components or sub- components being interfaced Designers RA • Identify the components or sub-components being interfaced",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "55d832515129954b8306f1baaf3b5999",
+    "text": "Note: *RACI is a responsibility matrix that describes the participation by various roles in completing the tasks or deliverable for a project or business process. RACI is derived from the four key responsibilities typically used:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "4b28b40cb3d8c81096707a0e34c4c6a9",
+    "text": "R esponsible – The person that is assigned to do the work. A ccountable – The person that makes the ﬁnal decision and has ultimate ownership. C onsulted – The person that must be consulted before a decision or action is taken. I nformed – The person that must be informed that a decision or action has been taken.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "d8e2a5ae1b884c652f9af1a932b7cf4a",
+    "text": "NSRSi ]",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "a280ca240069fd96d8206cc765c412e2",
+    "text": "Imataos Do Prooedem - 0.2 denfy e Spsiems cr Composeets bong reaced",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "0a020c6a5f73490681d9f4cce859234c",
+    "text": "ID Task Name and Description Role RACI* Duties ID 3.1 Develop alternative interfaces Develop alternative interfaces to be considered Designers RA • Consider design con- straints • Examine existing inter- faces • Develop interface design alternatives (3 alternatives for consideration are preferred) • Reuse and design con- straints may limit design options • Ensure all alternatives meet interface require- ments ID 3.2 Evaluate each alternative in- terfaces Evaluate each interface alterna- tive against the selection criteria Designers RA • Evaluate each interface alternative against the es- tablished selection criteria • Score using criteria and associated weights ID 3.3 Select the best alternative interface Select the best alternative interface that satisfy the estab- lished selection criteria Designers RA • Select the best alternative interface that satisfy the established selection criteria • Document results",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "55d832515129954b8306f1baaf3b5999",
+    "text": "Note: *RACI is a responsibility matrix that describes the participation by various roles in completing the tasks or deliverable for a project or business process. RACI is derived from the four key responsibilities typically used:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "4b28b40cb3d8c81096707a0e34c4c6a9",
+    "text": "R esponsible – The person that is assigned to do the work. A ccountable – The person that makes the ﬁnal decision and has ultimate ownership. C onsulted – The person that must be consulted before a decision or action is taken. I nformed – The person that must be informed that a decision or action has been taken.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "fe451ac5b422ce31ed4f1a7bf73ffd7f",
+    "text": "ieliave ooy FiRess <. 1V.0 Page 17",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "f9c3e4666abbc35fa46b647f92f22a04",
+    "text": "(1) This step is to ensure that components and design patterns are reused when appropriate and ensures that reuse of components and design patterns conform to organization and project policy",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "2bf3c3b05b5f32f66702683d30a856d9",
+    "text": "ID Task Name and Description Role RACI* Duties ID 4.1 Review the interface that is being designed Review the designed interface for meeting required interface requirements and correctness Stakeholders RAI • Review to validate interface requirements are being met. • Review the correctness for technical details",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "f7c9d26a71e829f729348fd1a9f6ff72",
+    "text": "ID 4.2 Revise the interface accord- ingly if necessary Update the interface if revision is necessary Designers RA • Revise the interface ac- cordingly if necessary page 18 2.120 Solution Engineering",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "edca1bf4ab0110b378e006e0bc2a6178",
+    "text": "Update the interface if revision is necessary Note: *RACI is a responsibility matrix that describes the participation by various roles in completing the tasks or deliverable for a project or business process. RACI is derived from the four key responsibilities typically used: • R esponsible – The person that is assigned to do the work. • A ccountable – The person that makes the ﬁnal decision and has ultimate ownership. • C onsulted – The person that must be consulted before a decision or action is taken. • I nformed – The person that must be informed that a decision or action has been taken. 2.120.8.2.5.4.1(01-12-2023) Cross-Functional Flow Diagram (1)",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "55d832515129954b8306f1baaf3b5999",
+    "text": "Note: *RACI is a responsibility matrix that describes the participation by various roles in completing the tasks or deliverable for a project or business process. RACI is derived from the four key responsibilities typically used:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "4b28b40cb3d8c81096707a0e34c4c6a9",
+    "text": "R esponsible – The person that is assigned to do the work. A ccountable – The person that makes the ﬁnal decision and has ultimate ownership. C onsulted – The person that must be consulted before a decision or action is taken. I nformed – The person that must be informed that a decision or action has been taken.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "b981477c804da7d380bc2bd6ca93d909",
+    "text": "(1) To collect all documentation into a single package and to determine the level of detail to be retained.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "7a1d91f9ac9d6db794b5f466c5457bd3",
+    "text": "ID Task Name and Description Role RACI* Duties ID 5.1 Collect Technical Details Collect all technical details Designers RA • Evaluation reports of selected new technologies • Evaluation reports of selected COTS products • Solution component selection decisions and rationale • Documented relationships between requirements and selected solution compo- nents • Documented solutions, evaluations, and rationale • Solution architecture • Solution component designs • Criteria for design and solution component reuse • Make-or-buy analyses • Guidelines for choosing COTS solution compo- nents • Send ICD technical data to “Data Management” process ID 5.2 Check for “Last iteration” Check for last iteration design components are being designed Designers RA • Check for the last iteration design components are being designed • If yes, go to “Engi- neering ELC Documentation”process • If no, design the next level of design com- ponents by going to SD Step 6.0 “Design the Solution Components”",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "55d832515129954b8306f1baaf3b5999",
+    "text": "Note: *RACI is a responsibility matrix that describes the participation by various roles in completing the tasks or deliverable for a project or business process. RACI is derived from the four key responsibilities typically used:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "dcb7c264b9c95d6e7e5161e20219929b",
+    "text": "R esponsible – The person that is assigned to do the work.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "20fdd909289970a3b8b833c77617c3d4",
+    "text": "A ccountable – The person that makes the ﬁnal decision and has ultimate ownership. C onsulted – The person that must be consulted before a decision or action is taken. I nformed – The person that must be informed that a decision or action has been taken.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "9ff2b74221a482cf2c2a765fe29b8f01",
+    "text": "g = -",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-008--2023-01-12.pdf",
+      "page_number": 24
+    }
+  }
+]

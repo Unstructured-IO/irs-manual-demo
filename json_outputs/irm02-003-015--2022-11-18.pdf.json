@@ -1,0 +1,4304 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "4abc8f255814235fef038e26dd6cf6f1",
+    "text": "This transmits revised IRM 2.3.15, IDRS Terminal Responses, Command Code ENMOD.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "6ad6ab7edf28d9ba6c913863fafe76ac",
+    "text": "Exhibit 2.3.15-4, IMF Entity Data, WR-437265 -- Display the new ﬁeld “FATCA-8938-IND” from the TIF 02 (SSN-IND-GROUP) and display on the IMF-ENT-IND-LINES screen. Exhibit 2.3.15-4",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "8e154f46dd302c341e6ec3d6f1f3dc16",
+    "text": "Exhibit 2.3.15-10, BMF Entity Data, WR-436110 -- Display the new ﬁeld “CSP-IND” from the TIF 02 (EIN-IND-GROUP) and display on the BMF-ENT-IND-LINES screen. Exhibit 2.3.15-10",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "d3dc0e43d972bad4b84ffc61653346b0",
+    "text": "Update of Internal Controls in 2.3.15.1 section of the IRM",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "bd2c2275e725b1bfcb61b6cc42ec50e3",
+    "text": "IRM 2.3.15, dated December 17, 2021, is superseded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "0ec02df0f8a4cad7b4eab6c346ab50ec",
+    "text": "All IRS business units",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "8d51ef12031425b02789a98c7e873080",
+    "text": "Exhibits 2.3.15-1 2.3.15-2 2.3.15-3 2.3.15-4 2.3.15-5 2.3.15-6 2.3.15-7 2.3.15-8 2.3.15-9 2.3.15-10 2.3.15-11 2.3.15-12 2.3.15-13 2.3.15-14 2.3.15-15 2.3.15-16 2.3.15-17 2.3.15-18 2.3.15-19 2.3.15-20 2.3.15-21",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "a6ba0dcf39760f42b10dedb4bc6e9611",
+    "text": "Pending Tins ENMOD Entity Control Base Data ENMOD Entity History Item ENMOD Entity Notice Data ENMOD Entity CPEO History Data ENMOD Entity Responsible Parties",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 4
+    }
+  },
+  {
+    "element_id": "e92465ec06d58f9d50a72c1504e9dfdc",
+    "text": "There may also be a variance in display for each type of entity modules. These displays are:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b4722cf855617df4b5f840663dbcfec5",
+    "text": "This IRM and the contained subsections provide the user the necessary infor- mation on how to use Command Code ENMOD.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32556e4a75d2075cdfaa879f656a81b5",
+    "text": "Command CODE ENMOD was developed to allow users to do research on the IDRS (Integrated Data Retrieval System) for Entity data.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5b483130afb7a8a5b6821af9bf502120",
+    "text": "Command Code ENMOD is managed by Work Requests which are submitted for changes and also by tickets which are submitted by users for corrections.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b976662806681920cdcecb073ed095b3",
+    "text": "BMF Business Masterﬁle TIF Taxpayer Information File TC Transactions Code CC Command Code Modules (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5e04d2cc7095b8a7db9d6eafa8f8edcc",
+    "text": ") The different types of Entity Modules are as follows: a. Full Entity Module—This is an account for which at least one tax module is present on the TIF, or has been newly established within the last",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "0a026530739162b2cacd73fb57a9a52c",
+    "text": "months. b. ERAS ENTITY MODULE—(BMF, EPMF) This is a newly assigned EIN account which has not yet posted to the Master File. The record is comprised of Name and Address information, additional ﬁelds listed under Abbreviated Entities and data unique to ERAS, (Input Cycle ERAS Notice Indicator, Return Code, Tax Period, Wages Paid Date and Business Operational Date). c. Memo Entity Module (IMF/IRAF/BMF/EPMF)—There are two types of memo accounts. Memo entities are retained on IDRS for eleven weeks. They are the Resequence account which results from a completed merge. A “RS” TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a16f2a5b322eea4027a6675c9d984713",
+    "text": "will be displayed as a result of this action. Also message “MEMO ENTITY” will be displayed on the screen. The Deleted account results from the deletion of the account from the master ﬁle as result of TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8b64dca84b26eb1e9f05657ba0ab1bad",
+    "text": "A “ DI” TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "65360eeef6a6bc1ded7f60e2794cd0c7",
+    "text": "will be present for this type of acct. d. Dummy Entity Module—A dummy entity module may be present as the result of CC ACTON, CC ENREQ, or other activity. The message “ DUMMY ENTITY” will be displayed on the screen. e. Partial Entity Module—A partial entity is one for which Name and Address data is not present on IDRS. The message “NO CURRENT NAME LINE/ ADDR” with account will be displayed on the screen. for ENMOD (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f6400dba5242eb3d40bd3a9005b92477",
+    "text": ") After the initial inquiry, subsequent inquiries, by Command Codes (TXMOD and ACTON), for the same taxpayer do not require re-entry of the TIN. For example: CC ENMOD input after CC TXMOD requires only Command and Entry Code to obtain response. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5a987e274fb3c86e5db1ee7bfca0df4a",
+    "text": ") The response to Command Code ENMOD is divided into six sections. These sections will appear in this order. If one section is not applicable for the account, the subsequent sections will be present immediately following the ﬁlled Section.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1e83976ae01fd3d00a22f5cc4bd8bc20",
+    "text": "a. Full Entity Module—This is an account for which at least one tax module is present on the TIF, or has been newly established within the last",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "0a026530739162b2cacd73fb57a9a52c",
+    "text": "months. b. ERAS ENTITY MODULE—(BMF, EPMF) This is a newly assigned EIN account which has not yet posted to the Master File. The record is comprised of Name and Address information, additional ﬁelds listed under Abbreviated Entities and data unique to ERAS, (Input Cycle ERAS Notice Indicator, Return Code, Tax Period, Wages Paid Date and Business Operational Date). c. Memo Entity Module (IMF/IRAF/BMF/EPMF)—There are two types of memo accounts. Memo entities are retained on IDRS for eleven weeks. They are the Resequence account which results from a completed merge. A “RS” TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e529f9f68de30627d19301e4b33e1407",
+    "text": "will be displayed as a result of this action. Also the message “MEMO ENTITY” will be displayed on the screen. The Deleted account results from the deletion of the account from the master ﬁle as a result of TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8b64dca84b26eb1e9f05657ba0ab1bad",
+    "text": "A “ DI” TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "945772b020a3f6ca4c0c575e6aa08a6c",
+    "text": "will be present for this type of acct. d. Dummy Entity Module—A dummy entity module may be present as the result of CC ACTON, CC ENREQ, or other activity. The message “ DUMMY ENTITY” will be displayed on the screen. e. Partial Entity Module—A partial entity is one for which Name and Address data is not present on IDRS. The message “NO CURRENT NAME LINE/ ADDR” with account will be displayed on the screen.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "dfca5da56b8cdb627309e2aa5a45e17b",
+    "text": "Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "fe25fcacf758a4da2300a496409daf0c",
+    "text": "—ESTABLISHED ENTITY DATA SECTION: This will be present for all cases on IDRS. If the data element for speciﬁc information is not present, blanks will appear. Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b3d4ea32c06c26ec17f8aa6511b029d3",
+    "text": "—PRIOR YEAR NAME LINES: IMF, IRAF, & BMF SSN only—Name line data, for other than the current tax period, will be displayed with the applicable Filing Status Code and Spouse’s SSN. Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "1084b657537ccc6711614236344b8a2a",
+    "text": "—POSTED ENTITY TRANSACTION SECTION. Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "4e0507099658ee7ee0c099e0abbe80f0",
+    "text": "—PENDING ENTITY TRANSACTION SECTION: This section will be present only if the account has a pending entity transaction. Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f3690979c65789c1488081da7b24d073",
+    "text": "—ENTITY NOTICE SECTION: This section will be present only if the Taxpayer has been subject to entity notices. Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "811bd13938b9fabb1c2b5be4951c9c2f",
+    "text": "—CONTROL AND HISTORY DATA SECTION: If applicable will be shown as the ﬁnal Section. Format will be the same as CC TXMOD Control and History Data Section.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "9b92f3d9a0833cb0dea279bccabde207",
+    "text": "a. Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d50492f99e8d58958da6d076f8d1125d",
+    "text": "—ESTABLISHED ENTITY DATA SECTION: This will be present for all cases on IDRS. If the data element for speciﬁc information is not present, blanks will appear. b. Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f751cf3666366529a0a6e058fba707d5",
+    "text": "—PRIOR YEAR NAME LINES: IMF, IRAF, & BMF SSN only—Name line data, for other than the current tax period, will be displayed with the applicable Filing Status Code and Spouse’s SSN. c. Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "56e25171a5fdba0b217f149c494869f1",
+    "text": "—POSTED ENTITY TRANSACTION SECTION. d. Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ed5a0a8e6f5d6a70e897d1423952bf9e",
+    "text": "—PENDING ENTITY TRANSACTION SECTION: This section will be present only if the account has a pending entity transaction. e. Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "231ab9aadf1c478cfb90f325fb330dfb",
+    "text": "—ENTITY NOTICE SECTION: This section will be present only if the Taxpayer has been subject to entity notices. f. Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "466af55795e72e986778a55285957aae",
+    "text": "—CONTROL AND HISTORY DATA SECTION: If applicable will be shown as the ﬁnal Section. Format will be the same as CC TXMOD Control and History Data Section. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2bec8d7e43116783d5d01ccab800f585",
+    "text": ") INVALID TIN AND FS—TIN/File Source does not meet standard validity checks. Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "5ac35c27445a345411be59bb50f3d306",
+    "text": "IF NOT AVAILABLE—File indicated is not available (x-B, I or Z). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "dbb89429ad0601b57c003e566ff3c145",
+    "text": ") SYSTEM ERROR ON ACCESS/UPDATE-NNNNNN—Irrecoverable error when attempting to ﬁnd account on the ﬁle NNNNNN is error code. Notify RPA. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d749a25dc8297f7c2c98db08712f8290",
+    "text": ") NO DATA-REVERSE VALIDITY FOUND—No data is available for the validity requested but data is present for the opposite validity. Re-input ENMOD with the opposite validity of the original inquiry. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "df51c6133c4d1e580f63bf850c0e7bb3",
+    "text": ") SYSTEM ERROR-REENTER-NNNNNN—Temporary error condition exists. NNNNNN is error code. Re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f8e89f42f6ac13150288e4d39bed511a",
+    "text": ") NO DATA FOUND ON TIF* —The requested data is not present on the TIF database.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2bec8d7e43116783d5d01ccab800f585",
+    "text": ") INVALID TIN AND FS—TIN/File Source does not meet standard validity checks. Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "5ac35c27445a345411be59bb50f3d306",
+    "text": "IF NOT AVAILABLE—File indicated is not available (x-B, I or Z). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "dbb89429ad0601b57c003e566ff3c145",
+    "text": ") SYSTEM ERROR ON ACCESS/UPDATE-NNNNNN—Irrecoverable error when attempting to ﬁnd account on the ﬁle NNNNNN is error code. Notify RPA. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d749a25dc8297f7c2c98db08712f8290",
+    "text": ") NO DATA-REVERSE VALIDITY FOUND—No data is available for the validity requested but data is present for the opposite validity. Re-input ENMOD with the opposite validity of the original inquiry. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "df51c6133c4d1e580f63bf850c0e7bb3",
+    "text": ") SYSTEM ERROR-REENTER-NNNNNN—Temporary error condition exists. NNNNNN is error code. Re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f8e89f42f6ac13150288e4d39bed511a",
+    "text": ") NO DATA FOUND ON TIF* —The requested data is not present on the TIF database.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "4e27cde8b4dd58e6b4f139f03b0c8fcb",
+    "text": "(03-10-2016) Terminal Response (Error Messages) from CC ENMOD",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "1122fd59a0747f180beb9f0c5b213ebc",
+    "text": "SYSTEM ERROR ON ACCESS/UPDATE-NNNNNN—Irrecoverable error when attempting to ﬁnd account on the ﬁle NNNNNN is error code. Notify RPA.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "33c1e29902d678cbcff13d561dbfd825",
+    "text": "This Page Intentionally Left Blank",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "7c44f9db41262e7379ccbc3bc04f04d0",
+    "text": "Input Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "cc6c681de9ae9e573f61564d09997fb7",
+    "text": "Record Element Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "72cd10d18359ad46f2f2ad8cabc5642d",
+    "text": "Item Line Description",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "0217a07d40de4d8d71c63a05b7394069",
+    "text": "COMMAND CODE—ENMOD",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "fdff5d0108425c674877e07d2bd84a60",
+    "text": "COMMAND CODE DEFINER—blank or “A”. If “A” is entered and ENMOD detects that there is “NO DATA AVAILABLE” on the Taxpayer Information File, ENMOD will default automatically to the AMDIS Command code, which will search for the same account number on the AIMS ﬁle. This saves the operator from entering the two command codes separately, in this instance only.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b7f4b74dd34cb3f13fb5bbc24b8dff02",
+    "text": "TIN AND FILE SOURCE—Must meet standard validity checks.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7ab2347461ca24b713f40fe9dc69af9d",
+    "text": "Screen Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "fd166226497004e84592177f875a12b0",
+    "text": "Exhibit 2.3.15-2 (Cont. 1) (03-10-2016) ENMOD—IMF Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "09d64d9cf5e4806d32ff098036e9a141",
+    "text": "Exhibit 2.3.15-2 (Cont. 1) (03-10-2016) ENMOD—IMF Display Line Item Description 1 1 COMMAND CODE—ENMOD 2 COMMAND CODE DEFINER— blank or “A”. 3 TIN and FILE SOURCE—TIN is nnn-nn-nnnn. File Source is *—invalid, or blank—valid. 4 BOD-CD (BUSINESS OPERATIONAL DIVISION) NN 5 BOD-CLIENT-CD NN 6 NAME CONTROL or CHECK DIGITS. 7 REVERSE VALIDITY INDICATOR—blank or *. If asterisk is present, it indicates account is also present under the opposite validity. 8 DAILY-PROCESSING-INDICATOR— “DAILY” will be displayed when account qualiﬁes for daily processing. 9 PDT/KITA/HSTG CODE—“*PDT” will be displayed for tax accounts identiﬁed as Potentially Dangerous Taxpayer when the PDT-IND = 1 and “*CAU” will be displayed for tax accounts identiﬁed as Potentially Dangerous Taxpayer when the PDT-IND = 2, “KITA” will be displayed for tax accounts identiﬁed as belonging to individuals killed in Terrorist Action, “ HSTG” will be displayed for tax accounts identiﬁed as belonging to individuals taken Hostage in some form of Terrorist Action. 2 1–2 CROSS REFERENCE SSN AND VALIDITY—*=Invalid, blank= Valid. 3 CAF INDICATOR— If the present value is “C”, indicating an authorized rep- resentative for at least one tax period. For further information input Command Code CFINQ. 4 If present ENMOD will display the following Literals, PL = PRIOR NAME LINES; PT = POSTED TRANSACTIONS; PN = PENDING TRANSACTION CH = CONTROL HISTORY LINES; AH = ACTION HISTORY LINES; NH = NOTICE HISTORY LINES. 5 LATEST-TC-148-CD - contains the latest TC 148 code posted at the Master File. 6 SCRAMBLED SSN INDICATOR— BLANK—No scrambled SSN 01 = Scrambled SSN Indicator 04 = Mixed Entity 09 = Used to turn off all values of the indicator 10 = No 239C Questionnaire Indicator",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "4e548ebfede013e33ff42e9fab1b6cb9",
+    "text": "REVERSE VALIDITY INDICATOR—blank or *. If asterisk is present, it indicates account is also present under the opposite validity.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "fe9e80a8e930bb28bfeda0f9635bbdf6",
+    "text": "DAILY-PROCESSING-INDICATOR— “DAILY” will be displayed when account qualiﬁes for daily processing.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "45201422eecc0bdb0ef2a04fd181b360",
+    "text": "PDT/KITA/HSTG CODE—“*PDT” will be displayed for tax accounts identiﬁed as Potentially Dangerous Taxpayer when the PDT-IND = 1 and “*CAU” will be displayed for tax accounts identiﬁed as Potentially Dangerous Taxpayer when the PDT-IND = 2, “KITA” will be displayed for tax accounts identiﬁed as belonging to individuals killed in Terrorist Action, “ HSTG” will be displayed for tax accounts identiﬁed as belonging to individuals taken",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "b3f54c1e5ace10a795bec86d25db6865",
+    "text": "LATEST-TC-148-CD - contains the latest TC 148 code posted at the Master",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "0c36883346ae1eb4094d7d13bf7f9492",
+    "text": "LATEST-TC-148-CD - contains the latest TC 148 code posted at the Master File.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "b7a2c1d5e74086bd8b15c57cb5fd1d4b",
+    "text": "Exhibit 2.3.15-2 (Cont. 2) (03-10-2016) ENMOD—IMF Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "b44b85cdb2908a9cb16f5db5ca6aabb0",
+    "text": "PREDICTIVE-UPDT-CYC - cycle that the latest value for the PREDICTIVE-CD was posted to the TIF.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "3c5b20e48cab87534c561e1369ffb8ea",
+    "text": "Reverse Validity On TIF - Displayed if opposite SSN validity account is present on TIF. For IMF, BMF or IRAF SSN accounts only.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "9d8afe618ea855d3a70f9f4201f8d280",
+    "text": "MOP/UN—Participant in a Military Operation or United Nations Peacekeep- ing Force Indicator.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "686cf7cf614938f5842809d3b37db689",
+    "text": "1 = Invalid SSN Freeze has been released by TC 290 or 300 or Scrambled SSN Indicator of “2”. This release is effective during the current calendar year only.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "7f515337bf9dd3faf542100f57edb4bd",
+    "text": "2 = Invalid SSN Freeze has been released by TC 150 Document Code 72 or 73 posting to this Temporary SSN. This release is effective during the current calendar year only.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "3b1cfc0dddf621fb0e6dbb0447f0f396",
+    "text": "4 = Account on the invalid segment and the Invalid SSN Freeze has been released by a transaction (other than TC 100, 90X, 92X, or 99X) which has posted to the account and the transaction name control matches the name control for this account on a ﬁle of update records received from SSA, which have not yet updated the DM-1 ﬁle. The DM-1 ﬁle is updated on a quarterly basis.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "235f237c0dcc9710d31988f3b31f8fed",
+    "text": "= Account on invalid segment and TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "434a871ae7107ec8ed692796ba8df400",
+    "text": "= Combination of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "6201111b83a0cb5b0922cb37cc442b9a",
+    "text": "and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "dcf98bae0c5fd493f607ccba6e0d7162",
+    "text": "above A = Combination of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "6201111b83a0cb5b0922cb37cc442b9a",
+    "text": "and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "46f59e4da1aa83e8cbcdb75851b71364",
+    "text": "C = Combination of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "6201111b83a0cb5b0922cb37cc442b9a",
+    "text": "and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "3538116bff3a7efa7d795c86388e2e03",
+    "text": "D = Combination of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "6201111b83a0cb5b0922cb37cc442b9a",
+    "text": "and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "96abf46f09b87748ac5e6983795a4436",
+    "text": "above.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "c622468930f1aaccef470ad154dc93ff",
+    "text": "Exhibit 2.3.15-2 (Cont. 3) (03-10-2016) ENMOD—IMF Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "9d5747e10b07196c045ea6c19ca8c482",
+    "text": "FISCAL YEAR MONTH—Taken from the most current First Name Line on the Master File entity.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "fbce07371002897d4a88bcfcb701e7b2",
+    "text": "PRIMARY TELEPHONE NUMBER. Usually the Home Telephone. Format (nnn) nnn-nnnn.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "7bb52aacdc2bac5f97ccdb57d146084d",
+    "text": "BLANK—no criminal investigation freeze",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "22a82c6c509ad7a87792e587239ba944",
+    "text": "Z—indicates a posted or pending unreversed TC 914 or TC 916 is present in a tax module. Input CC SUMRY and CC TXMOD for further information. Indicates account is under investigation by the Criminal Investigation Division;",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3a66662a921ccfb41909bd4ec238cad1",
+    "text": "Z—indicates a Refund Scheme Freeze (TC 918).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "7de1119cf8dfd8f5fbe9c8fc199d0725",
+    "text": "ZIP CODE—Numeric or blank",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "700355c85cdd4680ab9d1d891bc668ae",
+    "text": "Exhibit 2.3.15-2 (Cont. 4) (03-10-2016) ENMOD—IMF Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "7ab2347461ca24b713f40fe9dc69af9d",
+    "text": "Screen Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "53bed2580c929083e452a3f7c00356fa",
+    "text": "oo T e [ 1 ek L sis TR745 4TER0T23 3678012045 678001 23456 30017 5454850123451 850123434 780 1234367830s2L paion . WL vee 23 |et wass s |Ll envimmrrmne s |g I[zl hI Eaasreaoizsis7ar012315478001 AR ETAYE1 PELA7ASEN T3LBET000 25 5 e 1235850e e 2T 20 | a1ae L aras L stss | ev-ep L rioeo |",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "8955632e197aa6368a18bef648083804",
+    "text": "Line Item Description 1 2–12 PRIOR YEAR NAME LINE. 2 2–12 YEAR OF NAME LINE. 3 2–12 FILING STATUS CODE Values are 0–9. 4 2–12 CROSS REFERENCE SSN and VALIDITY DIGIT (blank or *). 5 2–12 CIVIL PENALTY NAME LINE. If present, both it and the preceding literal “CVPN” will be displayed.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "7ab2347461ca24b713f40fe9dc69af9d",
+    "text": "Screen Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a4d01dc1b284dc20ec854bac1e1638c5",
+    "text": "Exhibit 2.3.15-4 (Cont. 1) (01-02-2023) IMF Entity Data",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "54ba64ebfce18e9ca8415d609392c27f",
+    "text": "Exhibit 2.3.15-4 (Cont. 2) (01-02-2023) IMF Entity Data",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "296de25c14a3404cdcb12479dbb9d057",
+    "text": "Description BFS-CD RESOURCES and WORKLOAD MANAGEMENT SYSTEMS blank = No TDA or TDI account is in the queue 1 = TDA account is in the queue 2 = TDI account is in the queue 3 = Both TDA and TDI account is in the queue “Queue” means not yet assigned to be worked, as account has not yet met or exceeded a yield cutoff score for that district. TDA YIELD SCORE MINISTER SE TAX EXEMPT CODE—if present. 0 - No FORMS 4029 or 4361 1 - Form 4361 Approved 2 - Form 4361 denied 4 - Form 4029 approved 8 - Form 4029 denied JUSTIFICATION CODE blank = Non signiﬁcant 1 = IRS valid name ctrl 2 = Reversal of IRS valid SMALL BUSINESS AREA OFFICE VODV (Victim of Domestic Violence) Indicator 0 – not signiﬁcant 1 – unreversed entity TC-971 AC 198 is present on the account. TDI CODE. Will show the presence or absence of a TDI on this account. 0 = Not TDI activity 1 = Open TDI 2 = Closed TDI 4 = First TDI Notice 5 = Second TDI Notice 6 = Third TDI Notice 7 = Fourth TDI Notice 8 = Closed TDI Notice Internal Revenue Manual Cat. No. 28128X (11-18-2022)",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "b75ddb27220289f9c0f7e5b755c0ddf6",
+    "text": "Line Item Description 4 BFS-CD 5 RESOURCES and WORKLOAD MANAGEMENT SYSTEMS blank = No TDA or TDI account is in the queue 1 = TDA account is in the queue 2 = TDI account is in the queue 3 = Both TDA and TDI account is in the queue “Queue” means not yet assigned to be worked, as account has not yet met or exceeded a yield cutoff score for that district. 5 TDA YIELD SCORE 6 1 MINISTER SE TAX EXEMPT CODE—if present. 0 - No FORMS 4029 or 4361 1 - Form 4361 Approved 2 - Form 4361 denied 4 - Form 4029 approved 8 - Form 4029 denied 2 JUSTIFICATION CODE blank = Non signiﬁcant 1 = IRS valid name ctrl 2 = Reversal of IRS valid 3 SMALL BUSINESS AREA OFFICE 4 VODV (Victim of Domestic Violence) Indicator 0 – not signiﬁcant 1 – unreversed entity TC-971 AC 198 is present on the account. 5 TDI CODE. Will show the presence or absence of a TDI on this account. 0 = Not TDI activity 1 = Open TDI 2 = Closed TDI 4 = First TDI Notice 5 = Second TDI Notice 6 = Third TDI Notice 7 = Fourth TDI Notice 8 = Closed TDI Notice",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "7b43df06700f2ed9dccd7e0a7a0b8cf6",
+    "text": "“Queue” means not yet assigned to be worked, as account has not yet met or exceeded a yield cutoff score for that district.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "c36579126d18231a7cb56fc7468e3002",
+    "text": "Exhibit 2.3.15-4 (Cont. 3) (01-02-2023) IMF Entity Data",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "6f3af1ecff38d3bd8ef24fda4377a254",
+    "text": "blank = No examination of a taxpayer’s module is on this account;",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "5bd226ccccc90d73d39f2c782ff5d4bf",
+    "text": "= Examination data is present on one or more modules;",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "209540fa85b8489dc672981ed3a169e6",
+    "text": "Non-blank indicates that taxpayer participates in a tax shelter.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "d5b39c38ef11a729a0e4f7fca7508d18",
+    "text": "TC 130 INDICATOR—Transaction Code 130 Freeze Indicator—Service Center which currently controls the TC 130 freeze.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "9a563faaa5d142860416b4a1b7fa5260",
+    "text": "NN = TC 130 present.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "6d07fac322392f30cf089e368953942a",
+    "text": "AIMS RETENTION AGREEMENT DATE (YYMMDD) (literals will not displayed, if not present)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "8a3d67e944edfa91778b2ddf9bcec0a9",
+    "text": "LEVY SOURCE PRESENT. Input command code LEVYS to see Levy source. See IRM 2.4.31",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "d203754f2af5f1fb6dec7abd008fcf05",
+    "text": "Exhibit 2.3.15-4 (Cont. 4) (01-02-2023) IMF Entity Data",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "8d980a53416181417c8191d1a44fda7a",
+    "text": "Exhibit 2.3.15-4 (Cont. 5) (01-02-2023) IMF Entity Data",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "a0493d2c449776f3f7c47400c6a5285f",
+    "text": "Line Item Description 3 FIRST TIME HOMEBUYER CREDIT DECEASED CODE 16 1 FIRST YEAR SMALL EMPLOYERER HEALTH INSURANCE CREDIT IS TAKEN 2 SECOND YEAR SMALL EMPLOYERER HEALTH INSURANCE CREDIT IS TAKEN 3 PDC-AUTH-ID(CASE-ID-NUM) - The unique PDC authentication ID that will be included on PDC notices, and used by the taxpayer for authentication when calling the PDC agency. 17 1 AOTC-RECERT-CD 2 AOTC-TAX-PRD 3 AOTC-RECERT-ELIGIBLE-TAX-PRD 18 1 ACTC-RECERT-CD 2 ACTC-TAX-PRD 3 ACTC-RECERT-ELIGIBLE-TAX-PRD 19 1 PRIM-LEP-CD 2 PRIM-AMP-CD 3 FATCA-8938-IND - If the Indicator = 1 then it indicates that Form 8938 data",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "9a4e05d37dcaca8523616087e4e60c50",
+    "text": "PDC-AUTH-ID(CASE-ID-NUM) - The unique PDC authentication ID that will be included on PDC notices, and used by the taxpayer for authentication when calling the PDC agency.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "98cff4659c393955c79d008eeb66c761",
+    "text": "FATCA-8938-IND - If the Indicator = 1 then it indicates that Form 8938 data is present on primary or secondary account.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "7ab2347461ca24b713f40fe9dc69af9d",
+    "text": "Screen Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "42540c1aa93f67ddde42edf4ebd1835a",
+    "text": "P A TS PV e T TSP S Y ST ee e il —lS iEvinss VALIDITY o 12 DIVLD SN REF-CD  1SFNE-SRTRCT-CAC- a1 99112Ti o BT CELL Taoue-tos e |otz HONE FELE 0w [599) 9955995 EXT>1234  CRIN-TWST-TREEKEST |I pro0s oMMk reLRNUR (009) 90 9000 BXEzads e |RIS 5T G [NTR MRS, 777 wAITE SaUD kR nova-cag-cxe195012 |Y SATE 15 CINDES DEACH oz ss031177248 |ren |g co i e mRneRraGs0 | aceacerol |LLL1¥-OF-LATEST-RET>1990 FILING-CONDC3>2 RUE C1-10011 *+15-p-coo e+ 300-100> |LPILE-OCATION-CO1 13 CYCLE-TOSTIUSS8116 GIC | COLL-ASGNT22220202 S-S |e et EEL X DISCARoMCY Mot RMMERS TOn yLAL0-ScOR202E2% |TITTIN-se - sxeer-cos s TST-Ehos - a3 WAGEI» TDIs IDI-VIRLD-SooksSsisses |TIRTATNGCO0 L TaK-SIRLTR-TN75] REPERT>3 TC1TT-305 4 BLLCSS SeA-NO-1Eviss Eo-Tiest |L01A S-S0, RETENTION-AGRNT OT501011952 LY TRCE PRISVI TuSAL CATA pagse |TBifrre s txes, TERHTER R RS T SIS EE T S ESTFE ES FETN TS T—",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "51f97577db70b54b967844783f59e102",
+    "text": "Screen Display—Name and Address Data:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "3ecb294b033661850db9cba2a842dd9a",
+    "text": "N 5 M S N S 5 N 1121 AL -G SCEN-o> 315 Inevense wnizorey o sz womion Torowe_gmnc-cre-mvs_2_|e e S Ryo H 715 s 1 Aom-cH-Cre>_2,ol cre/snareazes T Tl g 01Ll",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "44cd437aec105015701aa8ac1c1e813b",
+    "text": "Exhibit 2.3.15-6 (Cont. 1) (01-01-2011) ENMOD—IRAF Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "4e548ebfede013e33ff42e9fab1b6cb9",
+    "text": "REVERSE VALIDITY INDICATOR—blank or *. If asterisk is present, it indicates account is also present under the opposite validity.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "8b2e5a2cf0335efa66309dcb2fd3a387",
+    "text": "PDT/KITA/HSTG CODE—“*PDT*” will be displayed for tax accounts identiﬁed as Potentially Dangerous Taxpayer, “KITA” will be displayed for tax accounts identiﬁed as belonging to individuals killed in Terrorist Action, “ HSTG” will be displayed for tax accounts identiﬁed as belonging to individuals taken Hostage in some form of Terrorist Action.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "29195ae9d95242230420d474c4c80dff",
+    "text": "CAF INDICATOR—If the present value is “C”, indicating an authorized repre- sentative for at least one tax period. For further information input Command Code CFINQ.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "b97a6158ce4db2bc7b243d2ddeebeaf4",
+    "text": "present ENMOD will display the PL = PRIOR NAME LINES; PT = POSTED TRANSACTIONS; PN = PENDING TRANSACTIONS; CH = CONTROL HISTORY LINES; AH = ACTION HISTORY LINES; NH = NOTICE HISTORY LINES.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "7e07d82c9e7f7dd3536bcef0c0a0ba0d",
+    "text": "= Closed SSN Not Valid for Federal Tax Purposes (historical setting",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "e0ed0f729d018585b2e232ad081e3f21",
+    "text": "Exhibit 2.3.15-6 (Cont. 2) (01-01-2011) ENMOD—IRAF Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "bc5c80d287b4fee549171d8378d97c40",
+    "text": "UNDELIVERABLE AS ADDRESSED INDICATOR",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "44967210c80bd246af269b7ca7abdcff",
+    "text": "Exhibit 2.3.15-6 (Cont. 3) (01-01-2011) ENMOD—IRAF Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "6007019c5f4641ae5b31266c43983464",
+    "text": "Line Item Description",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "8a58b3bf382feda0ded1ec81245acdc0",
+    "text": "— indicates that an address did not pass FINALIST validations",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "7cf71ed0b726fe4870068d4904b53b7a",
+    "text": "UNDELIVERED INDICATOR",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "d44010ea2990553501a2d2320c10aaa8",
+    "text": "— indicates that mail was returned to IRS as undeliverable",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "2cf955600c250560d62e2fcc99a0242e",
+    "text": "Exhibit 2.3.15-7 (01-01-2001) Screen Display—IRAF Cross Reference Name Lines (follows Name & Address Data)",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "11d1102aa26ab0332981661af5fe92cc",
+    "text": "Output Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "50a81e39e8b57f85daf657c53ae244ed",
+    "text": "i i e [ 3w | oo [ suse | s [ nm |173454700 123457890 23436 7901 2245670501756 785017 54567850123454 7800123434785s Te 1 weLive v 23 |e lju |il hL 7234378001235 TA0 1 P34 7090123 5 TR0 17505 TES0 1234567850 12343478901 2345478901e e | aie L atae | oenks | sise | ees | ot |",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "318fb017198356b108f05c61da267b12",
+    "text": "Line Item Description 1 2–12 CROSS REFERENCE NAME LINE (IMF). 2 2–12 YEAR OF NAME LINE. 3 2–12 NAME LINE SPOUSE CODE. 4 2–12 CROSS REFERENCE SSN and VALIDITY DIGIT (blank or *).",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "7ab2347461ca24b713f40fe9dc69af9d",
+    "text": "Screen Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "de8015752199a31599df93fbd0a22325",
+    "text": "N B N S Y B N P O 7 113T T4 RT3 T T T 56 U7 ST 7 O[[ —— T —14 i i BT 2 | DreAstER-cind CoLisaaNE sS T15 Ionc riunca A1o 1zRnprsca o151",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "6f3af1ecff38d3bd8ef24fda4377a254",
+    "text": "blank = No examination of a taxpayer’s module is on this account;",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "0e136fc4d9d929ed08cb21f83fce91ed",
+    "text": "= Both TDA and TDI account is in the queue",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "eb4a81923417069c741a789470e5fa7f",
+    "text": "Exhibit 2.3.15-8 (Cont. 2) (01-01-2010) IRAF Entity Data",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "61136c1194ade5d03e1ae29bc5b28399",
+    "text": "Entity Data Line Item Description “Queue” means not yet assigned to be worked, as account has not met exceeded a yield cutoff score for that district. 5 1 MILITARY COMBAT TYPE CD VALUES: 00—N/A 01—DESERT STORM 02—BOSNIA 2 RESOURCES WORKLOAD MANAGEMENT SYSTEM 3 TDA YIELD SCORE 6 1 EARNED INCOME CREDIT RECERTIFICATION TAX PERIOD 2 INSTALLMENT AGREEMENT DEFAULT NUMBER 3 FRIVOLOUS FILER IND 4 TDI CODE. Will show the presence or absence of a TDI on this account. 0 = No TDI Activity 1 = Open TDI 2 = Closed TDI 4 = First TDI Notice 5 = Second TDI Notice 6 = Third TDI Notice 7 = Fourth TDI Notice 8 = Closed TDI Notice 9 = TIN Change—Suspense T = Transferred out Service X = TDI Issuance Action Pending Y= Merge (Resequence) Account 5 TDI YIELD SCORE. 7 1 PRIM-FTHBCR-AMT 2 PRIM-FTHBCR-TOT-RECAP-AMT 8 1 PRIM-FTHBCR-FSC-CD 2 PRIM-FTHBCR-YR 9 1 SPOUSE-FTHBCR-AMT",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "ded82c1293b18f81ed59a0a35f694e70",
+    "text": "TDI CODE. Will show the presence or absence of a TDI on this account.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "12705c2ad0efc5c8bba0c6cb29a957b1",
+    "text": "Line Item Description 2 SPOUSE-FTHBCR-TOT-RECAP-AMT 10 1 SPOUSE-FTHBCR-FSC-CD 2 SPOUSE-FTHBCR-YR 11 1 SPOUSE-FTHBCR-SSN 2 SPOUSE-FTHBCR-TIN-TYPE 3 FTHBCR-DECEASED-CD 12 1 LEVY SOURCE PRESENT. Input command code LEVYS (IRM 2.4.31) to see Levy source.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "d04d484037a85a4e38732dcaafe161ae",
+    "text": "Screen Display—Name and Address Data",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "72b2328a4f282fe1a5849d6845933cb4",
+    "text": "T 13 | Tiis | 7ize | 3i3e | ias | siss | ias | el 1BT TN LT A T AT P CETIP N EIDPETES STERY12 | ancs-conp-cos_. e ] Y[EREI — T 3 r-cond owe-N>3 CRINIWT-BRSE L-WEa-CiO_T |15 1T e 2 e o4 firirei, B6 | 0T rcour - ompea-tmi w2 B T1 SRTARY-SR T Bs | coun-or-Fab ;315| e T |101 Cashcr s T |111 ForEzcr-sTRes i H1121 _smaere-oa voRgn-crv 111> T omcug-cres_2_|1131 crv/ 5235 On- PoRc TR S s T1131 e o smecrr- o158 Location-oryera/iEI1zlT =0 cuaews o 2aveao0e wizs sI",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "56a49cb17f7399fd612ab8af943321ff",
+    "text": "JE STl P LAl P LA E L P S E P U D BT UL E Pl UL EIO PR CLETO 5 3 T - B",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "33ea339374adef3c90bb9cf2963a8099",
+    "text": "Exhibit 2.3.15-9 (Cont. 1) (01-01-2017) ENMOD—BMF Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "83ffc29495ddebc806c9bd5f472632e9",
+    "text": "Exhibit 2.3.15-9 (Cont. 1) (01-01-2017) ENMOD—BMF Display Line Item Description 1 1 COMMAND CODE-ENMOD 2 COMMAND CODE DEFINER—blank or “A”. 3 TIN and FILE SOURCE—TIN is either nn-nnnnnnn or nnn-nn-nnnn. File source is blank, W, or V. 4 BOD-CD (BUSINESS OPERATIONAL DIVISION) NN. 5 BOD-CLIENT-CD NNN 6 NAME CONTROL or CHECK DIGITS. 7 POTENTIALLY DANGEROUS TAXPAYER INDICATOR. Will have value “*PDT*” if indicator on entity is signiﬁcant. 2 1 LARGE COMPLEX CORPORATION CODE 2 CAF INDICATOR—If present value is C, indicating an authorized tive for at least one tax period. For further information input Command CFINQ. 3 If present ENMOD will display the following Literals, PL = PRIOR NAME LINES; PT = POSTED TRANSACTIONS; PN = PENDING TRANSACTIONS; CH = CONTROL HISTORY LINES; AH = ACTION HISTORY LINES; NH = NOTICE HISTORY LINES. 4 148 HOLD—Derived from the Master File. Same as values that are on Tax Delinquent Investigations. 5 PREDICTIVE CODE 6 PREDICTIVE CYCLE 3 1 PARENT EIN -- EIN of Parent in parent-subsidiary relationship between ernment entities 4 1 XREF SSN LITERAL 2 CROSS REFERENCE VALIDITY IND and FILING STATUS ORIGIN VALUE (“Blank” or “J” or “*” or “#”) 3 IF THE XREF-SSN-VALIDITY-IND = 0 AND FILING-STATUS-ORIGIN-CODE = 0 OR 1 THEN THE VALUE = A SPACE IF THE XREF-SSN-VALIDITY-IND = 0 AND FILING-STATUS-ORIGIN-CODE = 2 THEN THE VALUE = “J” IF THE XREF-SSN-VALIDITY-IND = 1 AND FILING-STATUS-ORIGIN-CODE = 0 OR 1 THEN THE VALUE = “*” IF THE XREF-SSN-VALIDITY-IND = 1 AND FILING-STATUS-ORIGIN-CODE = 2 THEN THE VALUE = “#”",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "b6e4bdb6fc3d23856273e86c5a7759b7",
+    "text": "POTENTIALLY DANGEROUS TAXPAYER INDICATOR. Will have value “*PDT*” if indicator on entity is signiﬁcant.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "05b7e6f6f356c0d25b69e4afa650a6fc",
+    "text": "CAF INDICATOR—If present value is C, indicating an authorized representa- tive for at least one tax period. For further information input Command Code CFINQ.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "c8d9ff15275d1cbfa6a3a40dde90988d",
+    "text": "148 HOLD—Derived from the Master File. Same as values that are printed on Tax Delinquent Investigations.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "077d37ff65125cb74cb2a186ebd9745d",
+    "text": "PARENT EIN -- EIN of Parent in parent-subsidiary relationship between ernment entities",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "867e9125e0f09e3878edd95bd63438d5",
+    "text": "CROSS REFERENCE VALIDITY IND and FILING STATUS ORIGIN CODE VALUE (“Blank” or “J” or “*” or “#”)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "e6627a3eb91c002bbba30c9db817cac9",
+    "text": "IF THE XREF-SSN-VALIDITY-IND = 1 AND FILING-STATUS-ORIGIN-CODE = 2 THEN THE VALUE = “#”",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "b60432eeaaa7440c73ff88e36388ccf4",
+    "text": "2.3.15-9 (Cont. 2) (01-01-2017) Display Item Description 4 MF CODE (B, P, N or O (ERAS only)) 5 PAYER MASTER FILE INDICATOR 6 7 LAST MASTER FILE EXTRACT CYCLE ENTITY 1 FISCAL YEAR MONTH—MM or blank 2 PRIOR FISCAL YEAR MONTH—MM or blank. 3 PRIMARY TELEPHONE NUMBER. Usually the Home Telephone. Format is (nnn)nnn-nnnn. 4 PRIMARY TELEPHONE NUMBER EXTENSION 5 INTERNATIONAL TELEPHONE NUMBER 1 TC–07X/TC–09X INDICATOR—When signiﬁcant, indicates that taxpayer has made an election. The taxpayer has been granted Church Exemption from Social Security Status or Small Business Election Status. The TC07X and TC09X transactions have the effective Date of the election. 2 OTHER(SECONDARY) TELEPHONE NUMBER 3 SECONDARY TELEPHONE NUMBER EXTENSION 4 TELEPHONE NUMBER (CELL) 1 PRIMARY NAME LINE 2 NAME LINE YEAR/TAX PERIOD—YYMM (applies to MFT 51 SSN accounts.) YY = The tax year for which this name line applies. MM = The quarter ﬁled (03, 06, 09, 12). 1 CONTINUATION OF PRIMARY NAME LINE (may not be present) 2 See Exhibit 2.3.15-9. 1 SORT NAME LINE (may not be present) 1 CARE OF NAME LINE (may not be present) 1 FOREIGN ADDRESS LINE (may not be present) 1 MAILING STREET ADDRESS or FOREIGN COUNTRY LINE 2 LAST ADDRESS CHANGE CYCLE 28128X (11-18-2022) Internal Revenue Manual Exhibit 2.3.15-9",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "a10641af9363f2c14a46421e81adf071",
+    "text": "Exhibit 2.3.15-9 (Cont. 2) (01-01-2017) ENMOD—BMF Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "1625ba65560fad261e656bb76f70f6ea",
+    "text": "TC–07X/TC–09X INDICATOR—When signiﬁcant, indicates that taxpayer has made an election. The taxpayer has been granted Church Exemption from Social Security Status or Small Business Election Status. The TC07X and TC09X transactions have the effective Date of the election.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "3cf3cfd6badb7bea789f07a77b110e76",
+    "text": "NAME LINE YEAR/TAX PERIOD—YYMM (applies to MFT 51 SSN accounts.)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "af6ce2ecaba8266c9edf6167422800dd",
+    "text": "YY = The tax year for which this name line applies.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "ad43e90987a08805a2d5bfc0f1279ccc",
+    "text": "BMF EIN Example—",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "d155b0740eee824fc23ea95753b1ed26",
+    "text": "5T s e 1 3ias | e | s | sies | vie |TER5 7630123426 7070 24541013 456705017 345850125 7850123456 7891234367830s IL eeiorvawee . ke vee_23s it = |s Ijry o 1jrag Srion - Lne A 1g Tang-coe LY Tls |e I| Iizseserasoiasisareses TECS T8R0T SA TR TR0 4 T85012545678901",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "e14b177802460accaa728aeafe31c199",
+    "text": "Exhibit 2.3.15-9 (Cont. 4) (01-01-2017) ENMOD—BMF Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "0b4e27d584891408b851e50736d9252d",
+    "text": "Line Item Description 1 2–12 BMF SSN TAX PERIOD NAME LINE. 2 2–12 TAX PERIOD YEAR. 3 2–12 TAX PERIOD MONTH. 4 2–12 CROSS REFERENCE SSN. 5 2–12 NAME LINE CONSENT INDICATOR. 6 2–12 BMF PRIOR NAME LINE. 7 2–12 PRIOR NAME CONTROL. 8 2–12 TRANSACTION CODE. 9 2–12 DLN DISPLAY. 10 2–12 TRANSACTION CYCLE. 11 2–12 TRANSACTION DATE.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "7ab2347461ca24b713f40fe9dc69af9d",
+    "text": "Screen Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "51c005cca8b5e2e7a2f06d3f4203edca",
+    "text": "-0 P37 CB» 3 GC MICS-CDs5 PRINGRY-10Cs_§ ACS-ACCTS |e sy G2 Oie  CoLLUCE Loce s CEAOT_L cosoart |o err SR o siouc A TR CoEL Asovre o o,TP TNDu1  DISASTER-cDva M TN/ ITTR 3 WELLE.CouRAT-TuPE- D1 4[Tomm 5351 533500803 $573.FILER. e o33 BOBEA-THDLA 5D Ton 5 F950- 2058}7541 TS0 YEARs 2 QTR-PTDEST.N3 pR-SOLE-TROP BT GomiesErtkriel v 0 e e Sl s i Wi R Y",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "4b52d6ba60695b4f2873ff6accb6e82f",
+    "text": "Exhibit 2.3.15-10 (Cont. 1) (01-02-2023) BMF ENTITY DATA",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "426ee921096d0c68c7eb558569d02ffe",
+    "text": "BMF ENTITY DATA Line Item Description/Position Form Values VALUE MEANINGS 2 1 RAF-FILING-IND 941, 940, 945 RETURNS 0–7 0 — No Authoriza- tion on File 2 940-EFTPS-IND 0, 1 1 — Authorization on File 3 941-EFTPS-IND 0, 1 9 — Authorization has been deleted 4 943-EFTPS-IND 0, 1 5 945-EFTPS-IND 0, 1 6 CT-1-EFTPS-IND 0, 1 7 720-EFTPS-IND 0, 1 8 1042-EFTPS-IND 0, 1 9 CORP-EFTPS-IND 0, 1 (CORP= 1041, 1042, 1120, 990/C/T/PF) 0, 1 2 FORM 637 INDICATOR 3 COORDINATED EXAMINATION PROGRAM CODE— Service Center or District Office Location Codes Where Case is Assigned. 4 TC 530 INDICATOR—Currently Not Collectible 5 AICS-CD blank = No AICS activity in account 1 = AICS activity on entity portion of account 2 = AICS activity on one or more tax modules 6 PRIMARY LOCATION CODE. Format is District and Area Offices. 7 AUTO COLLECT CODE—Range of values: blank = No tax module in account present on ACS; 1 = A tax module in account is in TDA status and on ACS; 2 = A tax module in account is in TDI status and on ACS; 3 = A tax module in account is in TDA status and is in TDI status and on ACS. 3 1 CROSS REFERENCE SSN. Literal will only be edited if ﬁeld is signiﬁcant. Cat. No. 28128X (11-18-2022) Internal Revenue Manual Exhibit 2.3.15-10",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "a1a341aa605ac707aa894e0283697201",
+    "text": "blank = No AICS activity in account",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "0ae334575d8de8888accf1c88c13f5f9",
+    "text": "FTD FIDUC LAST RETURN AMOUNT CODE— If signiﬁ- cant, indicates that the taxpayer is subject to ongoing FTD FIDUC monitoring. Also indicates amount of latest for 941 total tax liability.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "0608fa115bec9765e4b1f030d9e05806",
+    "text": "Values may be; 1 = exceeds 25,000",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "cb1f3628e6d01e93814cd8ff331eec0e",
+    "text": "ENTITY ESTABLISHMENT DATE—Will be the date the entity establishment transaction was input. May be taxpay- er’s ﬁrst date wages paid (prior to ERAS inputs). In MMYY format.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "c83b1d908ad00598377899642b083a1b",
+    "text": "RESOURCES and WORKLOAD MANAGEMENT SYSTEM",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "1fb36f26f0ef8eedb8dca41df0b95a59",
+    "text": "RESOURCES and WORKLOAD MANAGEMENT SYSTEM blank = No TDA or TDI account is in the queue",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "7b9570d8c4a28391c9f16686ed14ddfc",
+    "text": "= TDA account is in the queue",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "893bda19d0f7ff29d2e255c31442875f",
+    "text": "= TDI account is in the queue",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "a4e3a23e6893cc7079099632caf92bda",
+    "text": "= Both TDA and TDI accounts in the queue “ Queue” means not yet assigned to be worked, as account has not met or exceeded a yield cutoff score for that district. TDA YIELD SCORE EMPLOYMENT CODE—Identiﬁes employers who are other than normal business employees. Blank—Normal F—Federal Employer S—Foreign Subsidiary",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "c1500851e117ff49431cf5fe1b77ba96",
+    "text": "blank = No TDA or TDI account is in the queue",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "7b9570d8c4a28391c9f16686ed14ddfc",
+    "text": "= TDA account is in the queue",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "893bda19d0f7ff29d2e255c31442875f",
+    "text": "= TDI account is in the queue",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "2d360512e58b74ee0b93f05b47e867e5",
+    "text": "= Both TDA and TDI accounts in the queue “ Queue” means not yet assigned to be worked, as account has not met or exceeded a yield cutoff score for that district.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "c1500851e117ff49431cf5fe1b77ba96",
+    "text": "blank = No TDA or TDI account is in the queue",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "910ea7a0fd8bc60160f0d92e7a2d2eff",
+    "text": "EMPLOYMENT CODE—Identiﬁes employers who are other than normal business employees.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "ead39757117cca9fa0c3a756bd220bce",
+    "text": "Exhibit 2.3.15-10 (Cont. 3) (01-02-2023) BMF ENTITY DATA",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "74f1a21d9581f94aef80201f78fb0758",
+    "text": "ﬁrst position—is an alpha character",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "382e7fabafb8b750959ea9d2570d9635",
+    "text": "second position—is a numeric character",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "28d54a7712f23f256d3833a95be9daa7",
+    "text": "third and fourth positions—are alpha or numeric characters",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "6f3af1ecff38d3bd8ef24fda4377a254",
+    "text": "blank = No examination of a taxpayer’s module is on this account;",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "2db1847aa7b8a0db476ab6db9f3eaf3a",
+    "text": "3 = Examination data is present on this large case-related temporary TIN for 1 or more tax modules;",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "08db5573642e9afe5d9b44c3b500bb6d",
+    "text": "= Examination data is present on one or more tax modules for this temporary TIN which is not a large case- related.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "be0587c0aeda19b019dcc013a68cbe92",
+    "text": "5 = Examination data is present on one or more tax modules for this temporary TIN which is not a large case- related.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "0f02b05e17608a29e6262b4ee51c3788",
+    "text": "Exhibit 2.3.15-10 (Cont. 5) (01-02-2023) BMF ENTITY DATA",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "12856a88eac5764b2388ef0e0badcbe2",
+    "text": "Line Item Description 2 ALE-CD - values 0, 1, 2 0 - not an ALE account - No NOT display. 1 - The account is an ALE. 2 - The account was an ALE in the past. 3 BFS-CD 4 EDYR 5 TC 130 INDICATOR—Transaction Code 130 Freeze Indicator— Service Center which currently controls the TC 130 freeze. Blank—No TC 130 present. NN—TC 130 present. AA—State Code 6 BANKRUPTCY/LITIGATION LOCATION CODE 7 ERO INDICATOR 8 1 ID-THEFT-IND 2 DISASTER VICTIM CD 3 XREF-TIN/ITIN 4 MILITARY COMBAT TYPE CD. VALUES: 00—N/A 01—DESERT STORM 02—BOSNIA 9 1 TERMINATED INSTALLMENT AGREEMENT 2 527-POL-ORG-CD 3 8872 FILER TYPE CD 4 COBRA IND 5 PDC-ID-CD displayed as PDC-ID 6 LATEST F990 EO ORG CODE—Value of the Org Code from the latest posted Form 990-T 10 1 F944-BYPASS-IND when signiﬁcant identiﬁes that this taxpayer is eligible to ﬁle F944 but has chosen to remain a F941 ﬁler. 2 FEDERAL CONTRACTOR INDICATOR 3 LLC CD (values blank , m or s) 4 AC-630-TXPD-DT",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "30581b15b0cb4c87d3f65420b68ac256",
+    "text": "Line Item Description 2 ALE-CD - values 0, 1, 2 0 - not an ALE account - No NOT display. 1 - The account is an ALE. 2 - The account was an ALE in the past. 5 F944-CACHE-INDS: POS YEAR Value blank, 1 or 9 1 (Current Year - 8) ----- A blank will display as a * So if current year is 2015 then the year = 2007 2 (Current Year - 7) ----- A blank will display as a * 3 (Current Year - 6) ----- A blank will display as a * 4 (Current Year - 5) ----- A blank will display as a * 5 (Current Year - 4) ----- A blank will display as a * 6 (Current Year - 3) ----- A blank will display as a * 7 (Current Year - 2) ----- A blank will display as a * 8 (Current Year - 1) ----- A blank will display as a * 9 (Current Year) ----- A blank will display as a * 10 (Current year + 1) ----- A blank will display as a * 6 BMF REPEATER —TDI-F990-REPEATER-CD 0—not or no longer a repeater 1—F990 return ﬁled and two immediately prior F990 modules are delinquent (Status 02) 2—F990PF return ﬁled and two immediately prior F990PF modules are delinquent (Status 02) 11 1 FTD SUPPRESS INDICATOR 1 = FTD’s are suppressed blank = FTD’s are not suppressed 2 ERAS DELETE CODE CATEGORY— E = Eligible for deletion by ESIGND or ESIGNT. N = Not eligible for deletion by ESIGND. T = Torn up. Will be deleted in daily processing .(ESIGNT) D = Marked for deletion. Will be deleted in weekend processing (ESIGND)",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "2e1303541a3f8d09066f3b4a504cfcc3",
+    "text": "Exhibit 2.3.15-10 (Cont. 7) (01-02-2023) BMF ENTITY DATA Line Item Description 2 ALE-CD - values 0, 1, 2 0 - not an ALE account - No NOT display. 1 - The account is an ALE. 2 - The account was an ALE in the past. 3 INPUT CYCLE—Cycle the entity was established with Command Code ESIGN. 4 ERAS NOTICE CODE—This indicates the type of notice sent to the taxpayer. If not present, CP575 or CP578, “EIN Assigned on SS-4” was sent. See IRM 2.4.8, Command Codes ESIGN and BSIGN, for ERAS NOTICE INFORMATION CODES. 5 RETURN CODE/TAX PERIOD as described below. RETURN CODE—Identiﬁes the return or document which caused the EIN to be issued. See IRM 2.4.8, Command Codes ESIGN and BSIGN, for RETURN I.D. CODES. TAX PERIOD—This ﬁeld indicates the tax period of the return which caused the EIN to be assigned. 6 Country Code 12 1 45R-YEAR1—This date indicates when the taxpayer ﬁrst used the small employer health insurance credit. 2 45R-YEAR2—This date indicates the second year the taxpayer used the small employer health insurance credit. 3 PDC-AUTH-ID(CASE-ID-NUM) - The unique PDC authentication ID that will be included on PDC notices, and used by the taxpayer for authentication when calling the PDC agency. 4 WAGES PAID DATE—This date indicates when the taxpayer began paying wages and his liability for Form 941, Form 944, Form 940 or Form 943 began. 5 BUSINESS OPERATIONAL DATE—This date indicates when the taxpayer began business operation. For BMF it indicates the beginning of liability for Form 1120, Form 1065, Form 1041, Form 720, Form CT-1, Form 2290, Form 11, Form 11C, and Form 730. 13 1 DATE WAGES LAST PAID-mmddyyyy. 2 DATE BUSINESS CLOSED-mmddyyyy 14 1 754-REVOCATION-IND 2 754-REVOCATION-YEAR Cat. No. 28128X (11-18-2022) Internal Revenue Manual Exhibit 2.3.15-10 Any line marked with a #",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "83c67fdb1782e475213b8f652cefd479",
+    "text": "Exhibit 2.3.15-10 (Cont. 7) (01-02-2023) BMF ENTITY DATA",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "53f8c2aa937d9d98b37679bf75328edf",
+    "text": "RETURN CODE/TAX PERIOD as described below.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "5799cf13bf47d4be368deedb2e93c789",
+    "text": "TAX PERIOD—This ﬁeld indicates the tax period of the return which caused the EIN to be assigned.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "f82b286ed83ae82b7e4700557b84f21e",
+    "text": "45R-YEAR1—This date indicates when the taxpayer ﬁrst used the small employer health insurance credit.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "82624698675c2722b66904a1fa2c0af5",
+    "text": "45R-YEAR2—This date indicates the second year the taxpayer used the small employer health insurance credit.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "9a4e05d37dcaca8523616087e4e60c50",
+    "text": "PDC-AUTH-ID(CASE-ID-NUM) - The unique PDC authentication ID that will be included on PDC notices, and used by the taxpayer for authentication when calling the PDC agency.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "dc89cfd5b8961f11d58283795f5091c0",
+    "text": "WAGES PAID DATE—This date indicates when the taxpayer began paying wages and his liability for Form 941, Form 944, Form 940 or Form 943 began.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "8e73bc99d3a2d342fe201e7400820bb5",
+    "text": "taxpayer began business operation. For BMF it indicates the beginning of liability for Form 1120, Form 1065, Form 1041, Form 720, Form CT-1, Form 2290, Form 11, Form 11C, and Form 730.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "28b361725b37a71d690d082f44728f34",
+    "text": "Line Item Description 2 ALE-CD - values 0, 1, 2 0 - not an ALE account - No NOT display. 1 - The account is an ALE. 2 - The account was an ALE in the past. 3 QUARTER-FTP-ESTATE-IND 4 PRIOR-SOLE-PROPRIETOR-SSN 5 CSP-IND - indicates entity has a CSP Agreement or other type of closing agreement in existence set by TC 971 AC 734 to the tax module via FRM77. 15 1 PRIOR-SOLE-PROPRIETOR-CYCLE 2 PRIOR-PRINCIPLE-OFF-SSN 3 PRIOR-PRINCIPLE-OFF-CYCLE 16 1 TEFRA PARTNERSHIP—Taxpayer elected to be covered under the Tefra partnership rules. 2 LEVY SOURCE INDICATOR—Value of “1” means that at least one levy source is available. Input command code LEVYS (see IRM 2.4.31) 3 INSTALLMENT AGREEMENT INDICATOR—Value of 1 means that there is an installment agreement. Input command code IADIS (see IRM 2.4.30) 4 AGGREGATED DEPOSIT AMOUNT. 17 1 & 2 FILING REQUIREMENTS— If ﬁling requirements are set, they will appear in this format: Form number of the ﬁling requirement (e.g.[slashb] [slashb]941–) followed by the ﬁling requirement value. It is possible to have more than one line of ﬁling requirements displayed. 18 1 INACTIVE ACCOUNT LITERAL-INACTIVE ACCOUNT will appear when an account in inactive. This is the “ FROM” side of an account number change.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 46
+    }
+  },
+  {
+    "element_id": "559a2962188338becb5e5d6a17a42568",
+    "text": "TEFRA PARTNERSHIP—Taxpayer elected to be covered under the Tefra partnership rules.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 46
+    }
+  },
+  {
+    "element_id": "3f50a7563b5323d2fa6f102ce7710819",
+    "text": "LEVY SOURCE INDICATOR—Value of “1” means that at least one levy source is available. Input command code LEVYS (see IRM 2.4.31)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 46
+    }
+  },
+  {
+    "element_id": "5c1588c59575acc351b2cc11cabe62fb",
+    "text": "INSTALLMENT AGREEMENT INDICATOR—Value of 1 means that there is an installment agreement. Input command code IADIS (see IRM 2.4.30)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 46
+    }
+  },
+  {
+    "element_id": "04c35cab903d47c674070a2652fd9e0c",
+    "text": "FILING REQUIREMENTS— If ﬁling requirements are set, they will appear in this format: Form number of the ﬁling requirement (e.g.[slashb] [slashb]941–) followed by the ﬁling requirement value. It is possible to have more than one line of ﬁling requirements displayed.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 46
+    }
+  },
+  {
+    "element_id": "fbaedd43748765957a4526b090132c56",
+    "text": "BMF EIN Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 46
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "a7683a7449a84af014ea96ce8643c682",
+    "text": "Screen Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "9246629603f99c3636d3827db5714e6c",
+    "text": "N B 5 5 10 B B B 1IIi121 L P |e Lor-we-pmmcr-cre-mrs_2_|14 lemo s som-rzis .~z exr_s mmrm oy |i o BeE G 5 |I SRR 1 |171 cont-or-pane T |o1 S s T |It CasE 08 SRS T |ol PoRR TG SERRETS \" |1111 _smaszn-on vona-crv- 110> T ||12/ cry/ sty 2 5-0n soR S1Rs T ros 1 |[ T |14 oo ey smay e 1 |I |T",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "a64eacf8beb307a678a6c4d163cb83e9",
+    "text": "173056701251 56 7830123156 T6001 23456 1850173457050 173456783012 145 € Ta501 234567830 |TS L IITS | ogigs a1y T 4145 | 5155 T 6168 T ovien ot",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "9fe4f8148c0a8d2ebfad426b1740dc42",
+    "text": "Exhibit 2.3.15-11 (Cont. 1) (01-01-2011) ENMOD—EPMF Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "54391d2ab862093731c25a8546e617ba",
+    "text": "Exhibit 2.3.15-11 (Cont. 2) (01-01-2011) ENMOD—EPMF Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 50
+    }
+  },
+  {
+    "element_id": "6007019c5f4641ae5b31266c43983464",
+    "text": "Line Item Description",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 50
+    }
+  },
+  {
+    "element_id": "d44010ea2990553501a2d2320c10aaa8",
+    "text": "— indicates that mail was returned to IRS as undeliverable",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 50
+    }
+  },
+  {
+    "element_id": "a79cd02d147e2d4b0ca941bc2e2f80a1",
+    "text": "LOCATION STREET ADDRESS LINE (may or may not be present)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 50
+    }
+  },
+  {
+    "element_id": "7021668bdfeb6b53e90429f73261fe92",
+    "text": "LOCATION/CITY/STATE/ZIP-CODE LINE (may not be present)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 50
+    }
+  },
+  {
+    "element_id": "6a12e7971a266bd2d32b087630efe75e",
+    "text": "Output Display—EPMF Entity Data",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 50
+    }
+  },
+  {
+    "element_id": "8ade36479eafec3c7b312136e14c5659",
+    "text": "‘Outpat Display ~ EPMF Entity Data",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 50
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 50
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 50
+    }
+  },
+  {
+    "element_id": "0f050804b271f992a669032af294e271",
+    "text": "Exhibit 2.3.15-11 (Cont. 3) (01-01-2011) ENMOD—EPMF Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "d5e377b762727be90b67e84f27c23669",
+    "text": "Blank = No examination of taxpayer’s module is on this account;",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "2f6f01d1cc75d81e6c51ddca1a9a7fe0",
+    "text": "1 = Examination data is present on one or more modules;",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "9acde29b7b0760d5ff0e93cadac7fea1",
+    "text": "5 = Examination data is present on one or more tax modules for this temporary TIN which is not large case-related.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "c83b1d908ad00598377899642b083a1b",
+    "text": "RESOURCES and WORKLOAD MANAGEMENT SYSTEM",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "1ff231d6909ebee15255172cdd601ed2",
+    "text": "Blank = No TDA or TDI account is in the queue",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "4142c001175e075c4c4893c883e43523",
+    "text": "Exhibit 2.3.15-11 (Cont. 4) (01-01-2011) ENMOD—EPMF Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "1969b80fe957718e5c9b6d49d1927cf9",
+    "text": "D = Marked for deletion. Will be deleted in weekend processing (ESIGND)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "403582d5f86daae781f2c4cc455d43ee",
+    "text": "Exhibit 2.3.15-11 (Cont. 5) (01-01-2011) ENMOD—EPMF Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "6007019c5f4641ae5b31266c43983464",
+    "text": "Line Item Description",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "12aa06842c68870383f787c7817e8959",
+    "text": "INPUT CYCLE—Cycle the entity was established with Command Code ESIGN.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "8da8ebc03c2c16f404e9ce385160cdd5",
+    "text": "ERAS NOTICE CODE—This indicates the type of notice sent to the taxpayer. If not present, CP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "f8b65d0e292560eb63573ad7385d5ea1",
+    "text": "or CP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "aac0e79c180d550a861105f6d3b894cc",
+    "text": ", “EIN Assigned on SS—",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "c505a594d494bbc608b345bb82f161d0",
+    "text": "” was sent. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "70c9cff40b50c6a1e85c975201ecfe51",
+    "text": ", Command Codes ESIGN and BSIGN, for ERAS NOTICE INFORMATION CODES",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "3b97d824a67235d340966b303bad4cd9",
+    "text": "RETURN CODE/TAX PERIOD as described below RETURN CODE—Identiﬁes the return or document which caused the EIN to be issued. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "3def8cfa9f253ff99dc13eddcc249023",
+    "text": ", Command Codes ESIGN and BSIGN, for RETURN I.D. CODES. TAX PERIOD—This ﬁeld indicates the tax period of the return which caused the EIN to be assigned.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "83e5a586bdfda32ddb60dbf60a4f819d",
+    "text": "WAGES PAID DATE—This date indicates when the taxpayer began paying wages and his liability for Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "6698cc4ebc88b4e24d14cd4e6df05d5a",
+    "text": ", Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "6698cc4ebc88b4e24d14cd4e6df05d5a",
+    "text": ", Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "096aaca538523430f74146834be8360a",
+    "text": "or Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "d3924be8dcbeff3402c9dbebfc5919a0",
+    "text": "began.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "08b728a0a2cc72fbdc2b8c9a0126d527",
+    "text": "BUSINESS OPERATIONAL DATE—This date indicates when the taxpayer began business operation. For BMF it indicates the beginning of liability for Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "6698cc4ebc88b4e24d14cd4e6df05d5a",
+    "text": ", Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "6698cc4ebc88b4e24d14cd4e6df05d5a",
+    "text": ", Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "6698cc4ebc88b4e24d14cd4e6df05d5a",
+    "text": ", Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "785b2a19938ab2541f855895af0bffed",
+    "text": ", Form CT-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "6698cc4ebc88b4e24d14cd4e6df05d5a",
+    "text": ", Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "6698cc4ebc88b4e24d14cd4e6df05d5a",
+    "text": ", Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "6698cc4ebc88b4e24d14cd4e6df05d5a",
+    "text": ", Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "0558e3c425f17d877a8aa92408576cb1",
+    "text": "C, and Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "f8cbc3845f05644169f83e0d2b4ff089",
+    "text": "INACTIVE ACCOUNT LITERAL—This will only appear when an account is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "5799cf13bf47d4be368deedb2e93c789",
+    "text": "TAX PERIOD—This ﬁeld indicates the tax period of the return which caused the EIN to be assigned.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "58c9723723bbf1b1967d601b523d9e7a",
+    "text": "WAGES PAID DATE—This date indicates when the taxpayer began paying wages and his liability for Form 941, Form 942, Form 940 or Form 943 began.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "08b728a0a2cc72fbdc2b8c9a0126d527",
+    "text": "BUSINESS OPERATIONAL DATE—This date indicates when the taxpayer began business operation. For BMF it indicates the beginning of liability for Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "6698cc4ebc88b4e24d14cd4e6df05d5a",
+    "text": ", Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "6698cc4ebc88b4e24d14cd4e6df05d5a",
+    "text": ", Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "6698cc4ebc88b4e24d14cd4e6df05d5a",
+    "text": ", Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "785b2a19938ab2541f855895af0bffed",
+    "text": ", Form CT-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "6698cc4ebc88b4e24d14cd4e6df05d5a",
+    "text": ", Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "6698cc4ebc88b4e24d14cd4e6df05d5a",
+    "text": ", Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "6698cc4ebc88b4e24d14cd4e6df05d5a",
+    "text": ", Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "0558e3c425f17d877a8aa92408576cb1",
+    "text": "C, and Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "ad6a5fc1c6e8ee78ffc4fd93252f8a6f",
+    "text": "INACTIVE ACCOUNT LITERAL—This will only appear when an account is inactive. This is the “ FROM” side of an account number change.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "d04d484037a85a4e38732dcaafe161ae",
+    "text": "Screen Display—Name and Address Data",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 54
+    }
+  },
+  {
+    "element_id": "7217651754b043ed594514fcc3ac5cfb",
+    "text": "‘Serven Display: ENMOD — NMF Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 54
+    }
+  },
+  {
+    "element_id": "394a65317e92527892dd2ff48836f343",
+    "text": "L1 15 | 119 | 21-28 | 31-35 | 4145 | 51-59 | 61-69 | Ti-80 |I FE £ E 0 P TE S P TS FE e T LS TS FE ST L VEI B EE P E(i T[E PL-o-i-ca-AsE I5 we-con. LT-ur-mmRCT-Cre-BNT_2 |[IRE, ous-TELEMO, a3 it ¢15 OTHERTELE M B cni 5I PRINARY BT TR 2i cont-oF-zam-As SoRr-tusI Cxni-Or-E>11 FomsreN-stRETs110 _stRerr-on.roRG-CRu- 2172112 1CT/STA/ 112-0R-FORGH-CTRY>1331 LotATION- STREET AODRS18] moeaTIon-cry/sma/zTE\"124(o o-| TS eS0T a0 T eSO S a0 LSS TN 23S T LS AU 2 S a0I = Y= N = LS T 1 = S T S )3 TL6 o comsens s 1ime/aoos it acComrs |1",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 54
+    }
+  },
+  {
+    "element_id": "a09e1bbffbd22722519ca9cd85fdbf95",
+    "text": "—_ e e sE P P P A P T ST e P E A Ve B EEIG PET LLo(i[E PL-o-i-ca-AsE5 we-con. LT-r-mTRCT-Cr -T21é lev, ous-TELEMO, a3 it ¢I — OTHERTELE M B cni 5I PRINARY BT 1 TR 2i cont-oF-zam-A T o FRz>2s SoRr-tus 1 NI Cxni-Or-E> 511 ForEIGN-STRESTS T110 _stRerr-on.roRG-CRu- 2172 T112 1CT/STA/ 112-0R-FORGH-CTRY> T T1131 sovarion-srerr-oons \"18] moeaTIon-cry/sma/zTE 1(o o=s Lo cunsmr save v /oo wim aSFom:IT VT L T S I T T AL S ST Tl EID T EIVFRTFTY  ELTETFALELY",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 54
+    }
+  },
+  {
+    "element_id": "7fb0492105fc22446223d8986f9fd1cd",
+    "text": "735 50123458 a0 123458 1RG0 12 VA€ TR0 23158 TR0 2 3458 1A (2 458 B30 7 458 T80",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 54
+    }
+  },
+  {
+    "element_id": "224f13bb9d89af9c651c093f498b4579",
+    "text": "Exhibit 2.3.15-12 (Cont. 1) (01-01-2008) ENMOD—NMF Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 55
+    }
+  },
+  {
+    "element_id": "05be26623f3c57b8239f3d2cc74d5f79",
+    "text": "LOCATION STREET ADDRESS LINE (may not be present)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 55
+    }
+  },
+  {
+    "element_id": "a7683a7449a84af014ea96ce8643c682",
+    "text": "Screen Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 57
+    }
+  },
+  {
+    "element_id": "a7683a7449a84af014ea96ce8643c682",
+    "text": "Screen Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 57
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 57
+    }
+  },
+  {
+    "element_id": "cc6c681de9ae9e573f61564d09997fb7",
+    "text": "Record Element Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 57
+    }
+  },
+  {
+    "element_id": "61ac0db45f751c477aaa60b111a88ae2",
+    "text": "Line Item Description 2 1 ESTABLISHMENT MONTH AND YEAR - Format is MMYYYY 2 990PF-IND 3 AICS-CDValidValue 1 or 2 4 PRIMARY LOCATION CODE. 5 AUTO COLLECT CODE Valid Value 1, 2, or 3 3 1 AIMS CODE 2 IRS EMPLOYEE CODE 3 COLLECTION LOCATION CODE 4 SMALL BUSINESS AREA OFFICE 4 1 EIC RECERTIFICATION INDICATOR 2 EIC TAX PERIOD 3 DISASTER VICTIM CODE 4 TDA/TDI CASE ASSIGNMENT EMPLOYEE 5 1 MILITARY COMBAT TYPE CD 00-N/A01-DESERT STORM 02-BOSNIA 2 EARNED INCOME CREDIT RECERTIFICATION ELIGIBLE TAX PERIOD 3 INSTALLMENT AGREEMENT DEFAULT NUMBER 4 TDI CODE",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 58
+    }
+  },
+  {
+    "element_id": "61ac0db45f751c477aaa60b111a88ae2",
+    "text": "Line Item Description 2 1 ESTABLISHMENT MONTH AND YEAR - Format is MMYYYY 2 990PF-IND 3 AICS-CDValidValue 1 or 2 4 PRIMARY LOCATION CODE. 5 AUTO COLLECT CODE Valid Value 1, 2, or 3 3 1 AIMS CODE 2 IRS EMPLOYEE CODE 3 COLLECTION LOCATION CODE 4 SMALL BUSINESS AREA OFFICE 4 1 EIC RECERTIFICATION INDICATOR 2 EIC TAX PERIOD 3 DISASTER VICTIM CODE 4 TDA/TDI CASE ASSIGNMENT EMPLOYEE 5 1 MILITARY COMBAT TYPE CD 00-N/A01-DESERT STORM 02-BOSNIA 2 EARNED INCOME CREDIT RECERTIFICATION ELIGIBLE TAX PERIOD 3 INSTALLMENT AGREEMENT DEFAULT NUMBER 4 TDI CODE",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 58
+    }
+  },
+  {
+    "element_id": "cd46787963089ebc6ff9de37aded842b",
+    "text": "Exhibit 2.3.15-14 (05-16-2015) ENMOD—EIN Assignment (ERAS) Display",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 59
+    }
+  },
+  {
+    "element_id": "a7683a7449a84af014ea96ce8643c682",
+    "text": "Screen Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 59
+    }
+  },
+  {
+    "element_id": "1d656d91041d35552b270c4898658978",
+    "text": "e o 5 . L Bit TR |805 0001 Che (024 Wh-HAL 1o w351 e |& e P e 18 5 S |izhe BTy oz o Ay FisoomTT R 1002L[ cgo SUroad BAAS-Do25 THPCYC>_Z6__ Mre-cova] RET-GRR_28W o 0Delenae o 31 -y 1|||||B | E— ||||||el",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 59
+    }
+  },
+  {
+    "element_id": "1e80ec1cbbfe7524d418db617b0709c4",
+    "text": "G VS T 6T S L T 1",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 59
+    }
+  },
+  {
+    "element_id": "5b5bd93822a75bbba89ed38675ddb80a",
+    "text": "blank=FTD’s are not suppressed",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 60
+    }
+  },
+  {
+    "element_id": "63cb8fde1aae515eb1a119a626a2174d",
+    "text": "Exhibit 2.3.15-14 (Cont. 2) (05-16-2015) ENMOD—EIN Assignment (ERAS) Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "adae6fc79c46e0c993a1f71d424af7e3",
+    "text": "Description ERAS DELETE CODE CATEGORY— E=Eligible for deletion by ESIGND or ESIGNT. N=Not eligible for deletion by ESIGND. T=Torn up. Will be deleted in daily processing. (ESIGNT) D=Marked for deletion. Will be deleted in weekend processing (ESINGD) INPUT CYCLE—Cycle the entity was established with Command Code ESIGN. ERAS NOTICE CODE—This indicates the type of notice sent to the taxpayer. If not present, CP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "f8b65d0e292560eb63573ad7385d5ea1",
+    "text": "or CP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "61576a273c80aa1ecc690ff0e438de8d",
+    "text": ", “EIN Assigned on SS-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "923c91ca6318b6319f8c1b807240a1dd",
+    "text": "” was sent.Se",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "e11066131581f19cd6717950c6483495",
+    "text": "RM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "2bcbf74d3d8827b49bad87a3dff330ba",
+    "text": ", Command Codes ESIGN and BSIGN, for ERAS NOTICE INFORMATION CODES. RETURN CODE/TAX PERIOD as described below RETURN CODE—Identiﬁes the return or document which caused the EIN to be issued. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "6f526d35db1f566a1319288ec8275912",
+    "text": ", Command Codes ESIGN and BSIGN, for RETURN I.D. CODES. TAX PERIOD—This ﬁeld indicates the tax period of the return which caused the EIN to be assigned. WAGES PAID DATE—This date indicates when the taxpayer began paying wages and his liability for Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "6698cc4ebc88b4e24d14cd4e6df05d5a",
+    "text": ", Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "6698cc4ebc88b4e24d14cd4e6df05d5a",
+    "text": ", Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "096aaca538523430f74146834be8360a",
+    "text": "or Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "3b97d824a67235d340966b303bad4cd9",
+    "text": "RETURN CODE/TAX PERIOD as described below RETURN CODE—Identiﬁes the return or document which caused the EIN to be issued. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "f554eec449742b7ee504eff4f590cdf9",
+    "text": ", Command Codes ESIGN and BSIGN, for RETURN I.D. CODES.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "5799cf13bf47d4be368deedb2e93c789",
+    "text": "TAX PERIOD—This ﬁeld indicates the tax period of the return which caused the EIN to be assigned.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "58c9723723bbf1b1967d601b523d9e7a",
+    "text": "WAGES PAID DATE—This date indicates when the taxpayer began paying wages and his liability for Form 941, Form 942, Form 940 or Form 943 began.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "fa366f602837be5efb610a434eaa7a16",
+    "text": "BUSINESS OPERATIONAL DATE—This date indicates when the taxpayer began business operation. For BMF it indicates the beginning of liability for Form 1120, Form 1065, Form 1041, Form 720, Form CT-1, Form 2290, Form 11, Form 11C, and Form 730.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "67dce9c3ce5c76ead3549d8a8e33de78",
+    "text": "FILING REQUIREMENTS—If ﬁling requirements are set, they will appear in this format: Form number of the ﬁling requirement (e.g. [slashb] [slashb]941–) followed by the ﬁling requirement value. It possible to have more than one line of ﬁling requirements displayed.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "04975e00044e3660a4486bbadd8e2eec",
+    "text": "Exhibit 2.3.15-15 (01-01-2017) ENMOD—BMF Exempt Organization Display",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 62
+    }
+  },
+  {
+    "element_id": "6eb34e05df8797d4c0cff5f0a2f556e7",
+    "text": "Screen Display— BMF EO DATA",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 62
+    }
+  },
+  {
+    "element_id": "08404cb72f512f1794fafc89f47af792",
+    "text": "I SV R T Y N - M M PTSRS T4 OO S A4 A7 A A7 56 R0 T71456 T T S TGo T12 z0-stams 1 2 Rt 3 cwsss_s |1517 R e v T st |1 el sy weT e 4 |151 ERonoosmss o aEb so-sosrITALY) I161 CRGVIIRFIONTATD___ 1 EGTSTRRFION TATE, 'i !L2al |I",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 62
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 62
+    }
+  },
+  {
+    "element_id": "dd7dd86d846b3f89f0a891c70c68ef8b",
+    "text": "Exhibit 2.3.15-15 (Cont. 1) (01-01-2017) ENMOD—BMF Exempt Organization Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "0299e42d3631e68ddcdd241cfd09db21",
+    "text": "Line Item Description 2 1 EXEMPT ORGANIZATION STATUS CODE 2 EXEMPT ORGANIZATION YEAR AND MONTH 3 RULING YEAR AND MONTH 4 CLASSIFICATION CODES 3 1 AFFILIATION CODES 2 INCOME CODE 3 FOUNDATION CODE 4 GROUP EXEMPTION NUMBER 4 1 ORGANIZATION TYPE 2 ASSET CODE 3 SUBSECTION CODE 4 EO FILE FOLDER NUMBER 5 1 PRIOR EXEMPT ORGANIZATION STATUS CODE 2 ADVANCE RULING EXPIRATION DATE 3 EO HOSPITAL CODE 00 = default non-hospital. 01 = 501(c)(3) hospital subject to 501(r) regulations. 02 = Foundation code 12 non-hospital. 6 1 ORGANIZATION-DATE --- The date of the 501 (c) (4) organization was formally organized. 2 REGISTRATION-DATE --- The registration date of the 501 (c)(4) organization.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "adb587562d39a3cb9eeb9ad816674c66",
+    "text": "ADVANCE RULING EXPIRATION DATE",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "d472632310e108d1c3199475e13f6f2d",
+    "text": "Exhibit 2.3.15-16 (01-01-2001) ENMOD—NO NAME/ADDRESS LINES Display",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 64
+    }
+  },
+  {
+    "element_id": "7c06e38e6ef289bd24c54cf38e34367f",
+    "text": "Output Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 64
+    }
+  },
+  {
+    "element_id": "cc6c681de9ae9e573f61564d09997fb7",
+    "text": "Record Element Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 64
+    }
+  },
+  {
+    "element_id": "f47b2b73d6c8106091bc5ac578f47bfb",
+    "text": "(as above and only if current name lines or address)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 64
+    }
+  },
+  {
+    "element_id": "168a0ffffae23223c7c35c6e06887a3f",
+    "text": "Exhibit 2.3.15-17 (01-01-2001) ENMOD—RESEQUENCE OR MEMO OR DUMMY LINE Display",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 65
+    }
+  },
+  {
+    "element_id": "7c06e38e6ef289bd24c54cf38e34367f",
+    "text": "Output Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 65
+    }
+  },
+  {
+    "element_id": "7c06e38e6ef289bd24c54cf38e34367f",
+    "text": "Output Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 65
+    }
+  },
+  {
+    "element_id": "39090a0b214fb182434efea09ea61b2b",
+    "text": "||5 hceon nssio-ro-. cras_2ol e|rogstarermy 2)2 o sssiamTo 3[ o|sogsimream )|2 oy iy sssiamnoo__3I E3| —|2 ey accominsrsrory one|s12 123455 78501234567850133456 7850123456 7830223455 7830123456 783012345678 30123456 7850 |",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 65
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 65
+    }
+  },
+  {
+    "element_id": "cc6c681de9ae9e573f61564d09997fb7",
+    "text": "Record Element Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 65
+    }
+  },
+  {
+    "element_id": "c639f1d236429ba5ef10344afe9978fb",
+    "text": "Line Item Description 1 2 2 2 TRANSACTION CYCLE—YYYYWW DAY OF WEEK IND (DD =01-08) 3 2 TDA/TDI CASE ASSIGNMENT NUMBER—In some instances, this ﬁeld will be present on the account. If so, then both the literal and last ASSIGNMENT NUMBER are displayed. If not, neither the literal nor the NUMBER will appear…29 POSSIBILITY 1 has data derived from TC 026 (IMF, BMF, IRAF, or EPMF). POSSIBILITY 2 has a TC 020 (IMF, BMF, IRAF, or EPMF); POSSIBILITY 3 (IMF, BMF, IRAF, or EPMF): Probably present due to CC ACTON or ENREQ. POSSIBILITY 4 (IMF, BMF, IRAF, OR EPMF): Probably present due to CC LETON. Master File Data will not be extracted for this account unless sub-",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 65
+    }
+  },
+  {
+    "element_id": "544e214b44cf12414f8ca1729481a695",
+    "text": "Probably present due to CC LETON. Master File Data will not be extracted for this account unless sub- sequent transactions are input.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 65
+    }
+  },
+  {
+    "element_id": "28643d4a85213937716e1fff5b1dddd1",
+    "text": "Exhibit 2.3.15-18 (01-01-2016) ENMOD—Entity Posted Transaction Display",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "4715e9417b9aaf4624438d5b452b17f6",
+    "text": "Display—Standard Data; Variable TC 58X, TC 130, TC006, TC91X, TC500, TC971, TC972",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "3b26a5427458edd20c9ec7f0954847ad",
+    "text": "Lines",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "d4d0b5f95529d1a4d50418e5dda986a9",
+    "text": "ﬁelds above refer to Standard Data. Lines",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "ebb6f59d1e6b13184189e9f2b7a78623",
+    "text": "ﬁeld above refers to TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "782a2cc9cc441dce0bf76313317b4403",
+    "text": "transactions only. Lines",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "951dcee3a7a4f3aac67ec76a2ce4469c",
+    "text": "&",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "f1f1313ccdcf9c079a68d65b65ec1b6b",
+    "text": "ﬁelds above refer to TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "27d1e77d5a7413c50057b12f7f60dcf6",
+    "text": "X transactions only. Lines",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "951dcee3a7a4f3aac67ec76a2ce4469c",
+    "text": "&",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "a7a7a4b004664ad67b7171e3b3145703",
+    "text": "ﬁelds above apply to TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "853bccfa590945a686371c0a1bc5b42c",
+    "text": "only. Lines",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "951dcee3a7a4f3aac67ec76a2ce4469c",
+    "text": "&",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "54bda1b6a6daae410a54d185174dd355",
+    "text": "ﬁelds refer to Debtor Master File transactions (certain type of TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "625d321ca36be8c318015f067b2bf626",
+    "text": "& TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "a79464851f16d1245f7ce82eb39fba58",
+    "text": "transac- tions). Line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "ebb6f59d1e6b13184189e9f2b7a78623",
+    "text": "ﬁeld above refers to TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "510c7cf888da00e3ab6758be0ab2fe1b",
+    "text": "X only. Line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "6479ba66dc43965921f9baf12ad41e10",
+    "text": "ﬁeld refers to TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "6201111b83a0cb5b0922cb37cc442b9a",
+    "text": "and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "3b26a5427458edd20c9ec7f0954847ad",
+    "text": "Lines",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "951dcee3a7a4f3aac67ec76a2ce4469c",
+    "text": "&",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "c99a1dcb015dbaef198a48e72013fe3e",
+    "text": "refer to TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "c79af55f4169baae799c65157bc041fd",
+    "text": "transactions only.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "6ee6005c9c7cadd7538a0bc98603f3b8",
+    "text": "Lines 15, 16 & 17 refer to TC 971 transactions only.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "56615b631526630bb366665bdb76631d",
+    "text": "Screen Display—Variable IMF, BMF",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "ebcddcd207f3ea12460c2e5b7da53b41",
+    "text": "Exhibit 2.3.15-18 (Cont. 1) (01-01-2016) ENMOD—Entity Posted Transaction Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 67
+    }
+  },
+  {
+    "element_id": "79d47f9f47f7e61ef8dcefc3a2ab9e87",
+    "text": "T5 [ 109 | 2128 I 3w 1 0@ | S0 | sk | Isa2TTit T2l |i e |I |i Ricars, T T A800010 cOBLL_ ii e in I",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 67
+    }
+  },
+  {
+    "element_id": "0e88ee25ec67aef49d489b5ae664703f",
+    "text": "18301234565 3 S T |",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 67
+    }
+  },
+  {
+    "element_id": "04745cd2573fd2a70f09b51e6771a351",
+    "text": "Screen Display — Variable BMF",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 67
+    }
+  },
+  {
+    "element_id": "1ec3789b2757dc3163292b166b31f0e7",
+    "text": "eitsB eit T R,FFFTCTS TP EYLTAT TS PET TR ITs PEYY TS YT T EYETSTFTFPRYTTETETFFEL TSI =",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 67
+    }
+  },
+  {
+    "element_id": "cc40bde83b348c9716d445d62739948f",
+    "text": "1234587850133436",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 67
+    }
+  },
+  {
+    "element_id": "bfed5cf6569ef7b7ed43c515e95bc405",
+    "text": "Record Element Description for the above screens",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 67
+    }
+  },
+  {
+    "element_id": "769b327b574dec2662abe2cfbc960b95",
+    "text": "Exhibit 2.3.15-18 (Cont. 2) (01-01-2016) ENMOD—Entity Posted Transaction Display",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 68
+    }
+  },
+  {
+    "element_id": "b483c1ed02896b4296c88d22e7523094",
+    "text": "RECAPTURE YEAR—will not be set after 1982.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 68
+    }
+  },
+  {
+    "element_id": "bcba1ebaa6db6c0fa56d4ae1b33b795b",
+    "text": "Exhibit 2.3.15-18 (Cont. 3) (01-01-2016) ENMOD—Entity Posted Transaction Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 69
+    }
+  },
+  {
+    "element_id": "de13fc2d82705cbd3caf942d12c192cf",
+    "text": "FISCAL YEAR MONTH—Displayed with TC 05X or TC 09X. In MM format.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 69
+    }
+  },
+  {
+    "element_id": "bc6fb84a3afec654f4ed9c5910afd1e4",
+    "text": "FOREIGN COUNTRY CODE—Displayed with TC 06X, if signiﬁcant.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 69
+    }
+  },
+  {
+    "element_id": "ab1d7f95985b55ce701d5b1a6c5085e7",
+    "text": "Exhibit 2.3.15-18 (Cont. 4) (01-01-2016) ENMOD—Entity Posted Transaction Display Item Description 41 SFSC INDICATOR—Displayed with TC 06X, if signiﬁcant. 42 45R-YEAR1 - Displayed if signiﬁcant. 43 45R-YEAR2 - Displayed if signiﬁcant. 44 ESTABLISMENT-YR-MONTH - Format YYYYMM VARIABLE DATA—IRAF 16 CROSS REFERENCE TIN VARIABLE DATA—EPMF 16 CROSS REFERENCE TIN 30 “FROM” PLAN NUMBER 31 “TO” PLAN NUMBER VARIABLE DATA—TC 130 13 SERVICE CENTER CODE—Indicates which service center input TC 130 16 CROSS REFERENCE TIN 32 CLOSING CODE 33 BMF NAME CONTROL 34 AGENCY CODES VARIABLE DATA—BMF 35 AGENCY REFUND AMOUNT 36 AGENCY CODE 37 SUB-AGENCY CODE 38 YEAR OF ORIGINAL OFFSET—displayed with posted TC 131 VARIABLE DATA—TC 006 39 NO MERGE REASON CODE—displayed with posted TC 006 VARIABLE DATA—TC 91X 40 AGENT ID NUMBER—displayed with posted TC 91X. VARIABLE DATA—TC 500,971,972 41 CLOSING CODE—deﬁnes the speciﬁc combat area as well as the entry and departure date. Values are 52, 53, 54, 55. VARIABLE DATA—TC 500, 971, 972 42 TC 971 CODE",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 70
+    }
+  },
+  {
+    "element_id": "aaf2794fb4c680c2c12b9c5a3bf613bf",
+    "text": "NO MERGE REASON CODE—displayed with posted TC 006",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 70
+    }
+  },
+  {
+    "element_id": "15630b2569ea1ea79b2dd1f1ac826e85",
+    "text": "Exhibit 2.3.15-18 (Cont. 5) (01-01-2016) ENMOD—Entity Posted Transaction Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 71
+    }
+  },
+  {
+    "element_id": "e887b824d41a8acc03e96f5fe2ae8a75",
+    "text": "BOD-CD—BUSINESS OPERATION DIVISION (IRS DIVISION THAT HAS PRIMARY RE- SPONSIBILITY FOR A TAXPAYER ACCOUNT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 71
+    }
+  },
+  {
+    "element_id": "a0a4dd37eb7288b8d5d33d443e9fc92d",
+    "text": "BOD CLIENT CODE—IN CONJUNCTION WITH BOD-CD (IDENTIFIES THE ACCOUNT AS A MEMBER OF A PARTICULAR CLIENT SEGMENT OR SUBGROUP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 71
+    }
+  },
+  {
+    "element_id": "546312cb8aacc117f9f975122bf09a37",
+    "text": "FEMA-NUM—FEDERAL EMERGENCY MANAGEMENT AGENCY NUMBER ASSIGNED FOR A FEDERALLY DESIGNATED DISASTER.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 71
+    }
+  },
+  {
+    "element_id": "9bc8648e6f9325bce06fd8b9c4b86fd2",
+    "text": "SECONDARY DATE—END DATE OF THE FEMA DECLARED DISASTER",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 71
+    }
+  },
+  {
+    "element_id": "d5ef0f0e059ae5fdbee9ef56db7748a1",
+    "text": "TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 71
+    }
+  },
+  {
+    "element_id": "09485376c08205f4737a5a598e4aff7c",
+    "text": "MISCELLANEOUS (for Action Codes",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 71
+    }
+  },
+  {
+    "element_id": "4aa9bfd2f175a94ad5a7cb321e1aea97",
+    "text": ", and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 71
+    }
+  },
+  {
+    "element_id": "05b27083c6e77a4f2d15d00bfcbb52ec",
+    "text": "will display a money amount with a seven digit miscellaneous ﬁeld)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 71
+    }
+  },
+  {
+    "element_id": "63f951142504821e451ea316c4c2c90a",
+    "text": "TC 971 MISCELLANEOUS (for Action Codes 542, and 543 will display a money amount with a seven digit miscellaneous ﬁeld)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 71
+    }
+  },
+  {
+    "element_id": "eb6c5f49c6720e5ff3fdae99eefb71da",
+    "text": "Exhibit 2.3.15-19 (01-01-2001) ENMOD—Entity Short Pending Transaction Display",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 72
+    }
+  },
+  {
+    "element_id": "fbda8364673de1d782340e0c35a8fd37",
+    "text": "Screen Display—Standard Data; TC 902, 130, 904",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 72
+    }
+  },
+  {
+    "element_id": "a4775f4d3de6ce10943d1a560c16d808",
+    "text": "ENMOD-Entity Short Pending Traneaction DisplayT erien pieplavea.) Standard Data, TC 902, 130, 904, S",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 72
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 72
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 72
+    }
+  },
+  {
+    "element_id": "67f08f7fa14a2133537d60aaeabfcf1e",
+    "text": "Screen Display—Variable IMF, BMF, IRAF, EPMF, Rejects",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 72
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 72
+    }
+  },
+  {
+    "element_id": "32b128405b61d66c803001333c566fd7",
+    "text": "1.5 | a-1s | 21-3s | ai3s | a1-as | siss | el 72z it pE M. 25 PLN-YRISIZE . PIN-PRC.Z)ot ‘=FF-DT- PP WEW-PLN-NOH-_I1  ADNIN-INPUT-IND-32",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 72
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 72
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 72
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 72
+    }
+  },
+  {
+    "element_id": "ad65d8bf88566b1b13a4efacc49850ef",
+    "text": "Exhibit 2.3.15-19 (Cont. 1) (01-01-2001) ENMOD—Entity Short Pending Transaction Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 73
+    }
+  },
+  {
+    "element_id": "1e743ff529e614989456aa4baf0f2fdc",
+    "text": "REVERSE VALIDITY INDICATOR—blank or *. If asterisk is present, indicate the account is also present under the opposite validity.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 73
+    }
+  },
+  {
+    "element_id": "f4107e5d8b0d45d69395ab5234ab7b96",
+    "text": "STANDARD DATA TRANSACTION STATUS CODE DN— Any deleted pending transaction (not I, J, or L) TP— Accelerated S.C. Subsequent Payment RJ— Rejected transaction. EP— Pending transaction awaiting Quality Review. PN— Pending transaction. RS— Resequence transaction. Unnn— Unpostable. (nnn is unpostable code) CU— Corrected unpostable. NU— Nulliﬁed unpostable. Valid SSN DI— IDRS transaction only. Will not post to the Master File. DU— Deleted unpostable. EIN. DP— Deleted entity transaction. DQ— Quality Review reject. DC— Transactions deleted by Deleted Unpostable (re-controlled). Dnnn— An unpostable transaction which will not be re-input. (nnn is the un- postable code) DR— Aged Reject Transaction. A transaction which is no longer on the Reject Master, but which is retained on the TIF for research. DW— Transaction deleted via optional weekend age routines. TRANSACTION CODE Name Control Indicator",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 73
+    }
+  },
+  {
+    "element_id": "39375ecc39f0055ba98ad0f6c95618d0",
+    "text": "Any deleted pending transaction (not I, J, or L)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 73
+    }
+  },
+  {
+    "element_id": "72775f5ab899d25240ab6941910df884",
+    "text": "Transactions deleted by Deleted Unpostable (re-controlled).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 73
+    }
+  },
+  {
+    "element_id": "1e549e536ffc2535ae70a821a83337ba",
+    "text": "Aged Reject Transaction. A transaction which is no longer on the Reject Master, but which is retained on the TIF for research.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 73
+    }
+  },
+  {
+    "element_id": "6c7f9873fe7ffea556d9d473a5961e85",
+    "text": "Transaction deleted via optional weekend age routines.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 73
+    }
+  },
+  {
+    "element_id": "c0bdd04042e0151caf5ff66fe5bdb047",
+    "text": "Exhibit 2.3.15-19 (Cont. 2) (01-01-2001) ENMOD—Entity Short Pending Transaction Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 74
+    }
+  },
+  {
+    "element_id": "e1537f83389355a01f51f7ed62c7b8e6",
+    "text": "LOCATION on the Master File (generated from TC 904 only)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 74
+    }
+  },
+  {
+    "element_id": "a1ee89bde545c645d04af37ccd54fc66",
+    "text": "Account/Module is not on the Master File.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 74
+    }
+  },
+  {
+    "element_id": "3fd5b7c8000d11b6bd5b44121662cdeb",
+    "text": "Account was moved to the Retention Register.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 74
+    }
+  },
+  {
+    "element_id": "013ce268b2791abf99c5d159197431ee",
+    "text": "(on the next line after the DLN but only for rejected transactions)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 74
+    }
+  },
+  {
+    "element_id": "41c622cfa3ed4ee25a2a78f52063d575",
+    "text": "Transaction is open on the ERS Suspense Files",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 74
+    }
+  },
+  {
+    "element_id": "ba2d6fd3740e1741cdf4ad6b1dc5ceee",
+    "text": "Exhibit 2.3.15-19 (Cont. 3) (01-01-2001) ENMOD—Entity Short Pending Transaction Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 75
+    }
+  },
+  {
+    "element_id": "b2a85915203bcb89504ed08c0f9b2e9b",
+    "text": "2XX = Additional information is required on a Suspense Record. These records are in Unworkable Suspense Inventory.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 75
+    }
+  },
+  {
+    "element_id": "523054435bc44b6a0bb93022a838582e",
+    "text": "3XX = The Suspense Period has expired on a Suspense Record. These record has been activated to the Workable Suspense ﬁle automatically, without the input of Command Code ACTVT.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 75
+    }
+  },
+  {
+    "element_id": "589968e08dec8bc5a62d3714e788ab02",
+    "text": "4XX = All information to resolve the record is available or some information has been received and additional action is to be taken. These records either came directly to the Workable ﬁle or were activated with ACTVT.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 75
+    }
+  },
+  {
+    "element_id": "7eeb54d21ea33bc8b9c846c793885d2f",
+    "text": "Exhibit 2.3.15-20 (01-01-2015) ENMOD Long Entity Pending Transactions",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 76
+    }
+  },
+  {
+    "element_id": "b09f051f8a4439378c031a10efd91af7",
+    "text": "Standard Data for Long Pending Transactions",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 76
+    }
+  },
+  {
+    "element_id": "c6defa4e5705cb8deab4a12ea279c689",
+    "text": "¢ [ - -STST N1214 P ————aed J or .",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 76
+    }
+  },
+  {
+    "element_id": "2fc2c4dc455c5077cfe5a8be9936d84e",
+    "text": "FreTsI",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 76
+    }
+  },
+  {
+    "element_id": "a65f90be62a3ca03b81901a777aebaad",
+    "text": "Standard Data For Name Address Group Screen",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 76
+    }
+  },
+  {
+    "element_id": "2d0aebae1704974afd67c11d5ff18387",
+    "text": "T ] T e e Ti £ IO 2 0TS 454 ST 4 1H TE2 oE3 Dme_ st 5H e3 |cEiunmice sureesiaEn13 CTY/STAJLTP OB PORGH- CTRYi LOtTION STaR Aoti it",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 76
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 76
+    }
+  },
+  {
+    "element_id": "6891b526de944dd0933f7d2aba3df8e4",
+    "text": "Record Element Descriptions for above screens:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 76
+    }
+  },
+  {
+    "element_id": "6fadab7e535cadd8226cb95cd3483de6",
+    "text": "Exhibit 2.3.15-20 (Cont. 1) (01-01-2015) ENMOD Long Entity Pending Transactions",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 77
+    }
+  },
+  {
+    "element_id": "4a06afe49ee43adec07063fc0abbfc57",
+    "text": "STANDARD DATA for all Entity Pending Transactions: Line Item Description 2 1 TRANSACTION STATUS CODE. For values, see the Entity Short Pending Transaction See Exhibit 2.3.15-18. 2 TRANSACTION CODE. 3 NAME CONTROL INDICATOR. M = Name Control Does Not Match 4 TRANSACTION DATE—MMDDYYYY Format 5 REFERENCE MFT— 6 7 DOCUMENT LOCATOR NUMBER. Format is nnnnn-nnn-nnnnn-n. ENTITY NAME and/or ADDRESS CHANGE DATA (varies according to TRANSACTION CODE): 3 8 45R-YEAR1 9 45R-YEAR2 4 1 NAME LINE YEAR. Format is YYYY, 2 TYPE OF ELECTION CODE - VALUES 1 AND 2, IF SIGNIFICANT 3 FORM OF ENTITY CODE VALID VALUES 1 THROUGH 6 IF SIGNIFICANT 5 1 NEW NAME CONTROL. 6 1 CP NOTICE SUPPRESSION INDICATOR 7 1 PRIMARY NAME LINE 8 1 CONTINUATION OF PRIMARY NAME LINE (may not be present) 9 1 SORT NAME LINE (not possible with IMF and IRAF) 10 1 CARE OF NAME LINE (may not be present) 11 1 FOREIGN ADDRESS LINE (may not be present) 12 1 MAILING STREET ADDRESS or FOREIGN COUNTRY LINE 13 2 MAILING CITY STATE ADDRESS or FOREIGN COUNTRY LINE 3 & 4 MAILING ZIP-CODE (nnnnnnnnn) 5 FOREIGN COUNTRY CODE 14 1 LOCATION STREET ADDRESS LINE (not possible with IMF and IRAF) 15 1 LOCATION/CITY/STATE/ZIP-CODE LINE (not possible with IMF and IRAF)",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 77
+    }
+  },
+  {
+    "element_id": "48a43a6cbbadbbd975c9b99bd1b90333",
+    "text": "Exhibit 2.3.15-20 (Cont. 2) (01-01-2015) ENMOD Long Entity Pending Transactions",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 78
+    }
+  },
+  {
+    "element_id": "001a1f603784078e0e4287f27a05e5a1",
+    "text": "Line Item Description 3 1 NAME-LINE-YEAR 2 TOE 3 FOE 4 DWLP 5 DBC 4 1 NEW-NAME-CONTROL 6 1 PRIMARY-NAME 7 1 CONT-OF-PRIM-NM 8 1 SORT-NAME 9 1 CARE-OF-NAME 10 1 FOREIGN-STREET 11 1 STREET-OR- FORGN-CTY-ZIP 12 1 CTY/ST/ZIP-OR-FORGN-CTRY 2 Mailing ZIP 3 MAILING ZIP(ExPanded) 4 MAILING-ZIP-DELVRY-PT-CK-DGT-ADDR 5 FOREIGN-COUNTRY-CD 13 1 LOCATION-STREET-ADDR 14 1 LOCATION-CTY/STA/ZIP",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 78
+    }
+  },
+  {
+    "element_id": "b024ba0591f7151016e917045382c6ac",
+    "text": "Exhibit 2.3.15-21 (01-01-2001) Pending Filing Requirements",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 79
+    }
+  },
+  {
+    "element_id": "11d1102aa26ab0332981661af5fe92cc",
+    "text": "Output Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 79
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 79
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 79
+    }
+  },
+  {
+    "element_id": "72cd10d18359ad46f2f2ad8cabc5642d",
+    "text": "Item Line Description",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 79
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 79
+    }
+  },
+  {
+    "element_id": "d3bde5236cd1f3a812e4906234a5ba5f",
+    "text": "FILING REQUIREMENT FORM NUMBER.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 79
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 79
+    }
+  },
+  {
+    "element_id": "3e00039709c9f134c0d9a46995bd71d6",
+    "text": "FILING REQUIREMENT. Always two positions, zero-ﬁlled to the left, if necessary.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 79
+    }
+  },
+  {
+    "element_id": "59bdfca77c62f1023deeab118ab79adb",
+    "text": "portion of the display takes from zero to four lines. If there are no signiﬁcant ﬁling re- quirements, the literal FR will NOT be displayed.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 79
+    }
+  },
+  {
+    "element_id": "7c06e38e6ef289bd24c54cf38e34367f",
+    "text": "Output Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 80
+    }
+  },
+  {
+    "element_id": "5d6a4b18a633a5ea1a44f10bf63ecec0",
+    "text": "o= e pevcos_2B NyeEteP",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 80
+    }
+  },
+  {
+    "element_id": "1970b9b91b61ceb0fa86fdd85c6d2623",
+    "text": "pre T e",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 80
+    }
+  },
+  {
+    "element_id": "45577928e1d582a88f5dde64dce5d691",
+    "text": "Exhibit 2.3.15-22 (Cont. 1) (01-01-2016) Miscellaneous Data",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 81
+    }
+  },
+  {
+    "element_id": "51e5262dbb5b4b26fc891fa2c2aadff3",
+    "text": "Item Line Description 1 4–12 MFT. Format is nn. 2 4–12 NAME LINE PERIOD. Format is YYYYMM. 3 4-12 ALE-CD -- Values 0,1,2 --- display only 1 and 2 4 4–12 DATE OF DEATH. (BMF SSN only). 5 6 RAILROAD RETIREMENT BOARD 6 4–12 RAF-INDICATORS 7 4–12 EMPLOYMENT CODE. 8 4–12 COORDINATED EXAMINATION PROGRAM CODE—Service Center or District Office Location Codes Where Case is Assigned. 9 4–12 LARGE COMPLEX CORPORATION CODE 4 F944-CACHE-INDS: POS YEAR Value blank, 1 or 9 1 (Current Year - 8) ---- A blank will display as a * 2 (Current Year - 7) ---- A blank will display as a * 3 (Current Year - 6) ---- A blank will display as a * 4 (Current Year - 5) ---- A blank will display as a * 5 (Current Year - 4) ---- A blank will display as a * 6 (Current Year - 3) ---- A blank will display as a * 7 (Current Year - 2) ---- A blank will display as a * 8 (Current Year - 1) ---- A blank will display as a * 9 (Current Year ) ---- A blank will display as a * 10 (Current Year + 1) ---- A blank will display as a *",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 81
+    }
+  },
+  {
+    "element_id": "210f2e4424cff1ae7e2cae64f4ed970e",
+    "text": "If any of these items are present, they will immediately follow the Filing Requirements Display present) and will precede the Entity Name and/or Address Change Data.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 81
+    }
+  },
+  {
+    "element_id": "0b02d2e82801fdb840e9e0523fe286d5",
+    "text": "w2i sB R eS e 12 sesisTeaTion.oaTEs_1aR B 55 75 T Y 3 Y £ P2 MY",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 82
+    }
+  },
+  {
+    "element_id": "5138f73ded2a0bd135a3e98bb6d8a270",
+    "text": "[Lasseenlapane st ase oo s ot 2 seestl so B S vTESTC LIPET T LTe e",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 82
+    }
+  },
+  {
+    "element_id": "93b32007958a1632c45b7311c1ad6131",
+    "text": "Exhibit 2.3.15-23 (Cont. 1) (01-01-2017) Pending Tins",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 83
+    }
+  },
+  {
+    "element_id": "cc6c681de9ae9e573f61564d09997fb7",
+    "text": "Record Element Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 83
+    }
+  },
+  {
+    "element_id": "425389ba4bc13079af853c118c989f5d",
+    "text": "Item Line Description 1 4–12 NEW TIN 2 4–12 ESTABLISHMENT-YR-MONTH. Format YYYYMM 3 4–12 SPOUSE SSN. Format is nnn-nn-nnnn (IMF only). 4 4–12 PRIMARY LOCATION CODE. Format is DDAA. 5 4–12 MAIL FILING REQUIREMENT CODE. Format nn (IMF & IRAF only.) 6 4–12 TRANSFER SOURCE CD 7 4–12 FISCAL YEAR MONTH. Format is MM (IMF & IRAF only). 8 4–12 SCRAMBLED SSN INDICATOR. IMF only. Values: SSN is not scrambled. 1= Scrambled SSN Indicator (two taxpayers are using the same number.) 2= SSN veriﬁed – not scrambled. Released Invalid SSN Freeze. 9 4–12 EFFECTIVE DATE. Format is MMDDYYYY (BMF only). 10 4–12 NEW GROUP EXEMPTION NUMBER. Format is nnnn (BMF EO only). 11 4–12 OLD GROUP EXEMPTION NUMBER. Format is nnnn (BMF EO only). 12 11 FILING STATUS CODE. Note: Items 1 through 11 will be displayed depending upon their presence and signiﬁcance in a particular transaction. 13 12 ORGANIZATION-DATE - The date of the 501 (c) (4) organiza- tion was formally organized. 14 12 REGISTRATION-DATE - The registration date of the 501 (c)(4) organization.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 83
+    }
+  },
+  {
+    "element_id": "bcdfc1d867b115b4a7a9510f483cc3fc",
+    "text": "SCRAMBLED SSN INDICATOR. IMF only.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 83
+    }
+  },
+  {
+    "element_id": "7d2c0ecb46af9cd290a1ae7197c823a9",
+    "text": "Scrambled SSN Indicator (two taxpayers are using the same number.)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 83
+    }
+  },
+  {
+    "element_id": "237d6a0182b20abaf502b5c14dc05a22",
+    "text": "SSN veriﬁed – not scrambled. Released Invalid SSN Freeze.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 83
+    }
+  },
+  {
+    "element_id": "9416245f1f94880bdfc3cab05ec58ffe",
+    "text": "Note: Items 1 through 11 will be displayed depending upon their presence and signiﬁcance in a particular transaction.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 83
+    }
+  },
+  {
+    "element_id": "6c19dfcca48354496869724eff81ac09",
+    "text": "If any of these are present, they will immediately follow the Miscellaneous Data Display (if present) and will precede the Entity Name and/or Address Change Data.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 83
+    }
+  },
+  {
+    "element_id": "d51c97f692647dc4f4bee780d5cc5748",
+    "text": "Exhibit 2.3.15-24 (01-01-2001) ENMOD Entity Control Base Data",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 84
+    }
+  },
+  {
+    "element_id": "7c06e38e6ef289bd24c54cf38e34367f",
+    "text": "Output Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 84
+    }
+  },
+  {
+    "element_id": "9a4f74d2817a695724036115d9847201",
+    "text": "Exhibit 2.3.15-24 (Cont. 1) (01-01-2001) ENMOD Entity Control Base Data",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 85
+    }
+  },
+  {
+    "element_id": "e6f0414a96074a2ae3c9cbcef7b34ba7",
+    "text": "Item Line Description 1 2–12 CONTROL BASE SEQUENCE NUMBER. Sequence is 01–99. 2 2–12 CASE STATUS CODE. Values 1–3, F, G. 3 2–12 ACTION DATE: MMDDYY. 4 2–12 ACTION EMPLOYEE NUMBER. Terminal Operator’s Employee Number. 5 2–12 ACTIVITY CODE. Contains at least two numeric positions. May contain the Adjustment Control Number. 6 2–12 CONTROL BASE SOURCE CODE. Tells which program originated this Entity History Item. F = CC ENREQ, EOREQ G = ACTON 1 = Daily TIF Update 3 = Weekend TDI Analysis 4 = Weekend TIF Analysis 5 = Post Weekend TIF Update and Analysis U = Special Utility Run Y = CC DOALL 7 3–12 IRS RECEIVED DATE. MMDDYYYY 8 3–12 ASSIGNMENT NUMBER. Employee Number to whom assigned. 9 3–12 CONTROL CATEGORY. 10 3–12 FOLLOW UP COUNT.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 85
+    }
+  },
+  {
+    "element_id": "7c06e38e6ef289bd24c54cf38e34367f",
+    "text": "Output Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 86
+    }
+  },
+  {
+    "element_id": "c172aa8a991a5b971e2ba1e634c2bb7e",
+    "text": "e 1 eie | 7w |ST TI||| iI TEL5 TS 7115678301457 1L A TR0 73 TR 23434 TR0 S A A s a0lT e | vie | oie | 3ide | eius | suse | siwes | rie |",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 86
+    }
+  },
+  {
+    "element_id": "cc6c681de9ae9e573f61564d09997fb7",
+    "text": "Record Element Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 86
+    }
+  },
+  {
+    "element_id": "b49c1092327ae8aa9fd59bb83836df1d",
+    "text": "Exhibit 2.3.15-25 (Cont. 1) (01-01-2001) ENMOD Entity History Item",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 87
+    }
+  },
+  {
+    "element_id": "5f17d659c1fe81cd5eb806f3acf32ec2",
+    "text": "Item Line Description 1 2–12 ACTION DATE—MMDDYYYY 2 2–12 ACTION EMPLOYEE NUMBER. Terminal Operator’s Employee number. Note: For Assignment Source Code Z, see IRM 2.4.9, Command Codes ENREQ, INCHG, IRCHG, BNCHG and BRCHG. 3 2–12 ACTIVITY CODE. Contains at least two numeric positions. may contain Adjustment Control Number. 4 2–12 ACTION HISTORY SOURCE CODE. Tells which program originated this Entity History Item. C = STAUP D = TDIAD G = ACTON H = LEVYE, R, D I = TELED, A, C 3 = TDI Analysis N = NMFTM R = CC MFREQ/RECON Real-time TIF Update T = TDINQ U = Special Utility Run V = VPMSG Y = DOALL 5 = Post Weekend TIF Update and Analysis 8 = ICS Z = CEX 04 (CORRESPONDEX) 5 2–12 CORRESPONDENCE CODE. blank = No signiﬁcance C = The Form Letter Number next to the literal LETER (in the activity code) was computer-generated by the ACTION EMPLOYEE. See IRM 2.4.9, Command Codes ENREQ, INCHG, IRCHG, BNCHG and BRCHG. D= Duplicate letter sent to a second address. X= Computer generated correspondex letter was sent to the ex-spouse.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 87
+    }
+  },
+  {
+    "element_id": "4eb6faa4c89c5722ff3b2980f9d2c85a",
+    "text": "ACTIVITY CODE. Contains at least two numeric positions. may contain the Adjustment Control Number.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 87
+    }
+  },
+  {
+    "element_id": "b936b270d035240f2703b53cc29e59f5",
+    "text": "Duplicate letter sent to a second address.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 87
+    }
+  },
+  {
+    "element_id": "7c06e38e6ef289bd24c54cf38e34367f",
+    "text": "Output Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 88
+    }
+  },
+  {
+    "element_id": "cc6c681de9ae9e573f61564d09997fb7",
+    "text": "Record Element Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 88
+    }
+  },
+  {
+    "element_id": "7c06e38e6ef289bd24c54cf38e34367f",
+    "text": "Output Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 89
+    }
+  },
+  {
+    "element_id": "9a988d5a20122051cc5ef524cb9d3b08",
+    "text": "-l Llleds L2l Ldl=dd L dl=d ee T B e e e P e e vi12 SIAT STAIUS  RELATION RELATION RELATION OPDATE51 mo mreas o e T EeroM Db oer o[EREEY 3 1 H ]",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 89
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 89
+    }
+  },
+  {
+    "element_id": "cc6c681de9ae9e573f61564d09997fb7",
+    "text": "Record Element Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 89
+    }
+  },
+  {
+    "element_id": "f7be1b7f16bc00f2081b02fe415b84cb",
+    "text": "Item Line Description 1 4 CPEO Indicator - Indicates whether an Entity is a Certiﬁed Professional Employer or- ganization 2 4 CPEO Effective Date - date on which a PEO was certiﬁed 3 4 CPEO Status Code - Indicates the status of the CPEO Values Meanings C Certiﬁed S Suspended R Revoked W Withdrawn blank 4 4 CPEO STATUS Date - effective date on the current CPEO status 5 4 CPEO Relationship EIN - is the EIN of the CPEO if a relationship exists. Else, the ﬁeld will be blank 6 4 CPEO Relationship Effective Date - the date on which the entity’s relationship with the CPEO was established 7 4 CPEO Relationship End Date - the end date of the CPEO relationship. Else, the ﬁeld will be blank 8 4 CPEO Update Cycle - the cycle that the ENT-CPEO-Hist-REC occurrence was updated",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 89
+    }
+  },
+  {
+    "element_id": "74ccce9f4d839af2caaab9ddef7eff47",
+    "text": "Exhibit 2.3.15-28 (01-03-2022) ENMOD Entity Responsible Parties Data",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 90
+    }
+  },
+  {
+    "element_id": "7c06e38e6ef289bd24c54cf38e34367f",
+    "text": "Output Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 90
+    }
+  },
+  {
+    "element_id": "ae39ab5272d5928e730ae0806853d743",
+    "text": "T=T5] [R—— |13| oestcmrion oesiomrion Resmiown  RELATwwe  smarisue oo |i ] P T Tom o bes |o2 A s d ]Ja1] 1e T T T T T TRe e T",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 90
+    }
+  },
+  {
+    "element_id": "236daa3121bed29907b95f2acb24bdfd",
+    "text": "Record Element Description Item L:ine Description 1 5 Designation-CD Values: PR - President VP - Vice President SE - Secretary TR - Treasurer PA - Partner GP- General Partner ME - Member MM - Managing Member BE - Beneﬁciary GR - Grantor OW - Owner OR - Other Authorized Representative DE- Designed Employee -- Effective 7/1/2023 DO - Designated Owner -- Effective 7/1/2023 2 5 DESIGNATION-EFFECTIVE-DATE 3 5 RELATIONSHIP-TIN (IN SSN FORMAT) 4 5 RELATIONSHIP-EFFECTIVE-DATE 5 5 RELATIONSHIP-END-DATE Exhibit 2.3.15-28 Internal Revenue Manual Cat. No. 28128X (11-18-2022)",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 90
+    }
+  },
+  {
+    "element_id": "cc6c681de9ae9e573f61564d09997fb7",
+    "text": "Record Element Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 90
+    }
+  },
+  {
+    "element_id": "2a70b034e1a7a23f1f7ef005ad4ac253",
+    "text": "Exhibit 2.3.15-28 (Cont. 1) (01-03-2022) ENMOD Entity Responsible Parties Data",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-015--2022-11-18.pdf",
+      "page_number": 91
+    }
+  }
+]

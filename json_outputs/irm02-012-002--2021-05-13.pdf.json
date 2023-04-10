@@ -1,0 +1,5447 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a06ed29174356676a0850115074ed2ad",
+    "text": "This is the help guide to all SACS Security Command Codes.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "706a255f13313985d503491d70b42d51",
+    "text": "MATERIAL CHANGES",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "f1e5f4fcf7f801b076fa44b6c90e21ed",
+    "text": "This IRM 2.12.2 transmits the help guide for all the SACS Security Command Codes that are available and used by Security Officers. It contains information of the formats, their variables and",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "d0aa1f967c97e0f957c08c16b397978b",
+    "text": ") This IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "5749b2adfaa117725ec726b898973c61",
+    "text": "transmits the help guide for all the SACS Security Command Codes that are available and used by Security Officers. It contains information of the formats, their variables and their description. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "2569265954ca0d56d80eb2a5ade7f725",
+    "text": ") Following addition of ADDEM, ADMAF and ADTRM in phase I, added all remaining command and their formats to this IRM as phase II. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a143edda0c593530f34ffdac3361de82",
+    "text": ") Update formats for command codes ALLOW, MRUPD, SFINQ, UNLEM and UPEMP to reﬂect support of SEID, in addition to SSN for some formats of the command code requests. Also, some display and format errors from previous version.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "ea481290bc0a1329f03bc5b379a7045b",
+    "text": "Update formats for command codes ALLOW, MRUPD, SFINQ, UNLEM and UPEMP to reﬂect support of SEID, in addition to SSN for some formats of the command code requests. Also, correct some display and format errors from previous version.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "590605862d88f500b88e802fb61686a4",
+    "text": "EFFECT ON OTHER DOCUMENTS",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "19b7e48b37158e4e88f2485c681237cf",
+    "text": "IDRS Security Officers.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "d0f17cb96b559c878c7124cd7da395ff",
+    "text": "4: Display limited information for an employee when using the Social Security Number",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 4
+    }
+  },
+  {
+    "element_id": "8c1ab4533b6c5b478efb247e9c9b134d",
+    "text": "8: Multi-Access employees can have their Command Code Proﬁle set to NULL at their",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "83cdb0e20c041d7d472fd1c71efe000c",
+    "text": "UPUNT - Update the Unit Command Code Proﬁle (see also ADUNT)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2f343666aaa88c44430b12e6ab8a2959",
+    "text": "Format",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "7bd8e35896e953e65212be55b59e9cc5",
+    "text": ": Update the Command Codes in a Unit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2f343666aaa88c44430b12e6ab8a2959",
+    "text": "Format",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "6db269d189ee63d4fb7b31fcbcd9ea99",
+    "text": ": Turn workload management on or off for a Unit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2f343666aaa88c44430b12e6ab8a2959",
+    "text": "Format",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "96af55d5de332e0ff3922162f0f1dfbc",
+    "text": ": Allow or disallow rerouting also known as Universal Access for a Unit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2f343666aaa88c44430b12e6ab8a2959",
+    "text": "Format",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "c1c4af8e48178b496c4fea14de07d16e",
+    "text": ": Enable or disable TRDB dual SINON for a Unit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2766c5d590b86add03f8fd2d78eaeb86",
+    "text": "Appendix A: Operator Type Codes and units (for ADDEM)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "805b8f67f7ffc769df77cce7f45ba1bd",
+    "text": "Security Command Codes Help Guide 2.12.2 page 1",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7b9a379dc723794b182179db8e9234d2",
+    "text": "Purpose: These sections provides information of the formats, variables and related description of SACS Security command codes.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a481fab5982a923b48c59eada748d45b",
+    "text": "Program Goals: Provide information of the formats, variables and related scription of SACS Security command codes.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "5931a688ad2d0fc09befeee9ee42d600",
+    "text": "Program Controls: The help guide is updated whenever there are new updates to the existing command code formats or when new command",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4500788bb2a7d37054f809c7bfe3d0c8",
+    "text": "pppppp is Operator Type (see Exhibit 2.12.2-1 for restric- tions).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "ea831c6d72d2fe4abbb34d6f9814265b",
+    "text": "llllll is last name (min of 2 characters - max of 20). Can not use hyphens, spaces, apostrophes, or suffixes (Jr., Sr. III,",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "8816164eab59b91974367d797dabd3be",
+    "text": "fff is ﬁrst name (min of 1 character - max of 15)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "7808608ff87567f594f0e937fe557692",
+    "text": "T is Telephone Number Indicator Literal {optional}.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "4c851eeeb8521667356cfc9660e65e70",
+    "text": "nnn-nnn-nnnn is telephone number digit (area code and dashes mandatory).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9fed47f9158f37ecf7288dc7a98a8700",
+    "text": "xNNNNN is literal x + 1-5 digit extension",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "8e735fd91ea52324ba905a893cc63082",
+    "text": "MGR is manager literal {optional}.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "e4a70ec1135fc4dd5d68ce2b396d0644",
+    "text": "i is Investigation Indicator: I (Investigation initiated), C (In- vestigation Completed); E (Enter on Duty).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "45c84b3841482cbaaf9d0a42a26c5f02",
+    "text": "ccode is Command Code to be added",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3a5440d13c1e9372462a9173b9f60cf8",
+    "text": "Note: The Telephone Number is optional.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "ab450ec5c91ef3d72a5e8d94d5bbfbbd",
+    "text": "Note: Operator Type is only valid for Console users.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "fe7452ddd306a821e2d69fc0bc74e778",
+    "text": "Add new or returning IDRS users or Console users to a different unit",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "1e511e6c9573ed26ff8efa31af2ad3b5",
+    "text": "T nnn-nnn-nnnn [xNNNNN]",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "7a009a3243deea7eb6df0033346ca365",
+    "text": "Security Command Codes Help Guide 2.12.2 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "728b7f8294677ed0e4baf4c3eb22f8ce",
+    "text": "i mm/dd/yyyy",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "ac393110f9564a4134a287691576e76c",
+    "text": "sss-ss-ssss is Social Security Number.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d9d51332700b595c9c6a436d9d116251",
+    "text": "pppppp is the Operator Type (see Exhibit 2.12.2-1 for re- strictions).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "9381824c9079dabd43153f96d0f76bd6",
+    "text": "lllll is last name (min of 2 characters - max of 20). Can not use hyphens, spaces, apostrophes, or suffixes (Jr., Sr. III,",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "cbdd7ad7d839f47cc653a34901133e45",
+    "text": "fff is ﬁrst name (min of 1 character - max of 15).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "4f2f5e1af539321b7cdbe6e8e02c0804",
+    "text": "aaaaa is SEID digit (the SEID is 5 alpha-numeric charac- ters, no vowels).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7808608ff87567f594f0e937fe557692",
+    "text": "T is Telephone Number Indicator Literal {optional}.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "4c851eeeb8521667356cfc9660e65e70",
+    "text": "nnn-nnn-nnnn is telephone number digit (area code and dashes mandatory).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "522f1b4f8cc12f29268d02b4dc016da4",
+    "text": "xNNNNN is literal x + 1-5 digit extension {optional}.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8e735fd91ea52324ba905a893cc63082",
+    "text": "MGR is manager literal {optional}.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "a233961caa38b7af069efdc5e08688be",
+    "text": "i is Investigation Indicator: I (Investigation initiated), C vestigation Completed); E (Enter on Duty).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d8563e4cdc54657a92bba5a37c4d5b5b",
+    "text": "mm/dd/yyyy is ″Investigation date″ or ″Enter-On-Duty date″.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "ab450ec5c91ef3d72a5e8d94d5bbfbbd",
+    "text": "Note: Operator Type is only valid for Console users.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "02cc020f791cdbd49b1e6761ee415774",
+    "text": "Where:",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8c557e22748ab3fc09f98f65979d65d3",
+    "text": "d is deﬁner P (Production), N (Production but NULL at home), T (Training), I (IMF only), B (BMF only), or blank.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "ac393110f9564a4134a287691576e76c",
+    "text": "sss-ss-ssss is Social Security Number.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "31a30cefd0bf2e923a7171cbc942f6aa",
+    "text": "uuuuu is Unit Number.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "87ea171412be019630186a100d242e0a",
+    "text": "nnnnn is Sequence Number.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "87133f57ab5252524c97dbd788c09b7a",
+    "text": "ttt is Employee Type (SAT, PRG (Programmer), or TRB (TRDB user)) {optional}.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "d9d51332700b595c9c6a436d9d116251",
+    "text": "pppppp is the Operator Type (see Exhibit 2.12.2-1 for re- strictions).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "02e68cd6f65838df9f24eb47a87d1992",
+    "text": "llllll is last name (min of 2 characters - max of 20).Can not use hyphens, spaces, apostrophes, or suffixes (Jr., Sr. III,",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "7808608ff87567f594f0e937fe557692",
+    "text": "T is Telephone Number Indicator Literal {optional}.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "4c851eeeb8521667356cfc9660e65e70",
+    "text": "nnn-nnn-nnnn is telephone number digit (area code and dashes mandatory).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "522f1b4f8cc12f29268d02b4dc016da4",
+    "text": "xNNNNN is literal x + 1-5 digit extension {optional}.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8e735fd91ea52324ba905a893cc63082",
+    "text": "MGR is manager literal {optional}.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "a233961caa38b7af069efdc5e08688be",
+    "text": "i is Investigation Indicator: I (Investigation initiated), C vestigation Completed); E (Enter on Duty).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "d8563e4cdc54657a92bba5a37c4d5b5b",
+    "text": "mm/dd/yyyy is ″Investigation date″ or ″Enter-On-Duty date″.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "ad0a009e237526a226440087eed17033",
+    "text": "ccode is Command Code to be added {optional}.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "795a59135c296d39aa8b42695534b258",
+    "text": "Security Command Codes Help Guide 2.12.2 page 5",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "b02cee78f26544f0be4ab905bc8367c1",
+    "text": "Note: Format 3 is used for the rare occasion when you want to assign a speciﬁc 10 digit Employee Number to an IDRS user or Console user. If you specify the entire 10 digit number, the system will give that number to the user (if it is available).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3a5440d13c1e9372462a9173b9f60cf8",
+    "text": "Note: The Telephone Number is optional.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "c0471dbb7bc6394dd551717cb1ae7a13",
+    "text": "Operator Type is only valid for Console users.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "598a7397846c95d8f7e5bf4b10bb3ed6",
+    "text": ") ADMAF can create the MPAF for a new Unit. The MPAF determines Command Codes can be given optionally to users within the Unit. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "e7868298bae029269cb596aa9e811ec7",
+    "text": ") ADMAF can delete the MPAF for a Unit. File (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "66d40f49ca75bbef91ccd4abecb850a8",
+    "text": ") ADMAF with a deﬁner of ’Z’ creates up to ten (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "f00870117e81a813f07d2a3d5bb413e6",
+    "text": ") new Units, copies the Command Code bitmaps and characteristics of the existing Unit to the Units, moves all active employees from the existing Unit to the ﬁrst new thus allowing the employees to keep their Production Command Code then deletes the existing Unit. If the ﬁrst unit is in a different campus the same Computing Center), the restrictions and bypasses for the in the old campus are copied over to the new campus. The Revenue and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "61e3b5c7ded0778b47e7f48c5e2fbbd2",
+    "text": "Receipt Book User restrictions and bypasses are deleted for the employees at the old campus. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "5532ec93966227e54a0ccbebaadb877d",
+    "text": ") ADMAF with a deﬁner of ’U’ creates up to ten (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "de85812eb3cfb29ed3b9c93cf1fc8898",
+    "text": ") new Units, and Command Code bitmaps and characteristics of an existing Unit to the Units. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "0f27d92c229905911aafd6f4a148000c",
+    "text": ") Create MPAF for a new unit MPAF Format: ADMAF uuuuu ccode ccode ccode ccode ccode ccode Where: uuuuu is Unit Number",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "6db292d4202f33fc77a4177e1daf46e2",
+    "text": "ADMAF can create the MPAF for a new Unit. The MPAF determines what Command Codes can be given optionally to users within the Unit.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "f5fb05dde4f5edbe9bf17391f8177129",
+    "text": "A screen of Command Codes can be entered with the ADMAF command. If it is necessary for there to be more Command Codes in the MPAF, you can use UPMAF to add as many as desired. If the Unit number starts with 98 or 99, then the command codes must be Console command codes.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "e267668b890eda4125906c04a13f4e6c",
+    "text": "Create new units by copying command code bitmaps and characteristics existing unit",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "c1910f66e2a583905ef37733aa684f12",
+    "text": "ADMAFduuuuu nnnnn nnnnn nnnnn nnnnn",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "ccc92cfa3ec681d59f65163bf3fa76e9",
+    "text": "nnnnn is New Unit Number (from 1 to 10 unit numbers delimited by a space).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "c117179b0c10e86650d22d486991ff57",
+    "text": "Note: The old Unit MUST exist. The new Unit MUST NOT exist. The new Units will have the same MPAF, UCCP, REROUTE and TRDB as the old Unit. With a deﬁner of ’Z’, all active employees will automatically be moved to the new Unit and will keep their Production Command Code Proﬁles (see Note",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "380872c2c63179a063c165882f2854c0",
+    "text": "), and the old Unit will be deleted.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "a637d28cb2e679e0fd9bc3d9c332128d",
+    "text": "Note: All users must be signed off at the time of",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "7a009a3243deea7eb6df0033346ca365",
+    "text": "Security Command Codes Help Guide 2.12.2 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "90c011968787735a7f0eb44286841fc9",
+    "text": "Note: Format 1 authorizes a terminal’s access to the SACS network. The time On/ Off ﬁelds are expressed in military time (0001 - 2400). A TMADD entry must be entered on the TPF machine to establish network conﬁguration.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "2f501ef8b95fd279b80fae25d2f260b2",
+    "text": "Note: Format 2 authorizes multiple terminal’s access to the SACS network.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "72442d2e4e4370b4305b52ec07d93cd8",
+    "text": "Note: If one or more of the TSIDs cannot be processed, the screen response will display each TSID followed by an error type in parenthesis. Here is the key for the ﬁve error types:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "96d36b4ebe909ddbc0323bf0ca7e7cc6",
+    "text": "ADDING OR DELETING OWN TERMINAL NOT ALLOWED",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3a2b29c6307c4adc7aa3668ff0eb7c91",
+    "text": "INVALID TSID - NOT IN SDI",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "34fca9e7f9ef6526b345fd5548711a0e",
+    "text": "THE TERMINAL ID IS ALREADY IN THE AUTHORIZATION FILE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "6934474840443535403fe7cd70b8ad4c",
+    "text": "UNABLE TO PROCESS - MAX TERMINALS LIMIT EXCEEDED",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "513cf36e77dad50a9fe01ada72130076",
+    "text": "THE TERMINAL ID IS CURRENTLY IN THE TERMINAL FILE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "a2b6100b2979c9656f4565b9debcc909",
+    "text": "Note: Format 3 deletes a terminal from the security",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "e8e308ea67db932724d23e93f71b265c",
+    "text": "YES will Set all employees in the unit to have access limited to those tax accounts entered on their positive accounts list.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d8d2affb795b922e2ab779f5cf5109cc",
+    "text": "NO is to Setup employees not limited access to tax accounts on their positive accounts list.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "1de35596a5e907596c5cb2aa354c7217",
+    "text": "ccode is Command Code",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "b51b4fc305899a086e974b257c70bde3",
+    "text": "Note: If the optional YES/NO parameter is not used when adding a Unit, the Unit will default to ’no’. Later, the Unit can be reset to ’yes’ with UPUNT (with deﬁner W).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "7a009a3243deea7eb6df0033346ca365",
+    "text": "Security Command Codes Help Guide 2.12.2 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "55df2790cbe05a6f8d7a0baf57334312",
+    "text": "R is Deﬁner to change a Unit’s access to another Center’s IDRS database. uuuuu is the Unit Number. YES/NO is a Required Parameter. YES for This Unit may access another Campus’ IDRS database. NO is for This Unit may NOT access another Campus’",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "b5cdae14ff0335dcf8afb4f860a66d89",
+    "text": "Note: Format 3 authorizes Universal Access. If Format 3 is not used when adding a Unit, the Unit will default to ’yes’. Later, the Unit can be reset to ’no’ with UPUNT (with deﬁner R).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "c1d2d0a80d5d47d3052477dc96921b4b",
+    "text": "Authorize USR to input command code at additional OI. Remove USR ability to input command code at additional OI. View USR permissions to input command codes at additional OIs. View permissions to input command codes at additional OIs for all",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "68f5581b84daf755206cb092ac002edc",
+    "text": "Authorize USR to input command code at additional OI",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "2d573e9e06177a1cd2b78be93ed833e2",
+    "text": "is USR social security number.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "55342ffbf68aeb623dfd0ae2a46f6af8",
+    "text": ") Format",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "5fd642db758aaa516756a5177b7cde86",
+    "text": "a: Remove command codes permission for USR for a set of (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "3a436a1c15cb23eabb7376a7d088e987",
+    "text": ") campuses. Format",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "bf71a09b5ce53f15826c4d561d90f15f",
+    "text": ": Remove USR (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "55342ffbf68aeb623dfd0ae2a46f6af8",
+    "text": ") Format",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "98fbccf3a165fbe2618765b5f4a91d26",
+    "text": "b: Remove command codes permission for USR for all campuses. ability to input command code at additional OI (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "55342ffbf68aeb623dfd0ae2a46f6af8",
+    "text": ") Format",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "5262acc28638eae7df8902ba620fbfbb",
+    "text": "c: Remove permission for USR for all campuses and all command codes.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "fe4f5b263abc687289ad06dd12cd626c",
+    "text": "ALLOWDSSS-SS-SSSS NNNNNNNNNN DELETE OFFICE",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "7ed7968b7c03aac08c27ae95b27c3fa8",
+    "text": "ALLOWDSSS",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "0e6fac6a3ad129a64c2b9d6eaf6680e4",
+    "text": "SS",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "8f524f0c01b178955965ebfe9c87bbb4",
+    "text": "SSSS NNNNNNNNNN DELETE ALL COMMAND CODES AND ALL OFFICE IDS OR ALLOWDaaaaa NNNNNNNNNN DELETE ALL COMMAND CODES AND ALL OFFICE IDS",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "fbe82d3b062c038d9a8ecaa346045fc8",
+    "text": "Security Command Codes Help Guide 2.12.2 page 11",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "41f336141b33fbd57d74974f434f11aa",
+    "text": "DELETE OFFICE IDS is ﬁxed identiﬁer to delete all OIs. DELETE ALL COMMAND CODES AND ALL OFFICE IDS is ﬁxed identiﬁer to delete all OIs and all command codes.",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "f9120a76367cad690ab5651c23b0e1b3",
+    "text": "View USR permissions to input command codes at additional",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "c6645fffd9d78f3fa5a5b1acfc40dfb0",
+    "text": "ALLOWVSSS",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "0e6fac6a3ad129a64c2b9d6eaf6680e4",
+    "text": "SS",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "08e3001e99aa2d6eb815a19717dad555",
+    "text": "SSSS VIEW OR ALLOWVSSS",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "0e6fac6a3ad129a64c2b9d6eaf6680e4",
+    "text": "SS",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "89e3cd579341c3dd8c3f47d640c7930f",
+    "text": "SSSS NNNNNNNNNN OR ALLOWVaaaaa VIEW OR",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "179ef1cfa39ee3f48de622b4d40ca724",
+    "text": "ALLOWVaaaaa NNNNNNNNNN VIEW",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "699b3852fdbd6ed0fab15e8e7202c36c",
+    "text": "VIEW is optional parameter for display request.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "fa5e3c0e3cd4bf5b7b7087a8730479d2",
+    "text": "Note: Format 1 displays a list of the ﬁrst 2 characters of possible TSID(s) at the Campus with Campus ID, Campus number, or Office Identiﬁer ’sc’.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "c142c11aa48de3e25f7126a4f11b00d1",
+    "text": "xx is a valid ﬁrst-2-character TSID combination for the given SC.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "d52882ddd7f46b6cd5d4ff6294741fd8",
+    "text": "Note: See DISCC for a list of the SC IDs/numbers and Office IDs.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "7a009a3243deea7eb6df0033346ca365",
+    "text": "Security Command Codes Help Guide 2.12.2 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "df4c0eefb811231eb0067d8cfac0599a",
+    "text": "d is Deﬁner A (user role Revenue Agent), M (user role Manual Refund. Authorizer), R (user role 809 Receipt Book User), or U (user role Remittance Perfection",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "4a706d649184194044dfb38044ebfd65",
+    "text": "nn is Number of days the bypass is effective (01 to",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "22a9b6c74bc3162352f82007ed9a66d3",
+    "text": "mm/dd/yyyy is Calendar date the bypass will be removed (Note: the bypass is the morning of this date).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "76fb575bee3896091d7333beda63f030",
+    "text": "ACTIVATE is Literal for activate bypass option.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "5af9012d411657b50979efee9a6471b3",
+    "text": "Note: Bypasses can only be added if the user role is restricted for the speciﬁed campus.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "1efa4c146a10a46586eb5bc4d664d8f2",
+    "text": "Note: If Format 1a is used, the date of input counts as the ﬁrst day.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "467100a3e5ec43a4820a3f4ea9b21fbe",
+    "text": "Note: If Format 1b is used, the calendar date input cannot be later than 14 days from today.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "d75ed6e68c1ee739adb15c095d994e5f",
+    "text": "Note: Bypasses remain active if an employee changes units within the same campus during the effective period.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "1e2a7ee2614a3c24ff29480ef0636698",
+    "text": "Note: An employee can have up to 5 bypasses at a time per campus (equal to the maximum allowable number of restrictions).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "beed04c1f4be751604888b59164dd2f9",
+    "text": "Note: If the employee is signed on when Format 1 is input, he/she must sign off then sign on again before the changes take effect.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "b4950d59d7b562b87a54eeeaf42891df",
+    "text": "d is Deﬁner A (user role Revenue Agent), M (user role Manual Refund Authorizer), R (user role 809 Receipt Book User), or U (user role Remittance Perfection",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "ef38017d672a33c2e2f98805278e9862",
+    "text": "Note: If Format 2 is not input, the bypass will be removed automatically by on the scheduled removal date.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "48361afd8f8b0c165bfcff028fc25f47",
+    "text": "Note: If the employee is signed on when Format 2 is input, he/she must sign off then sign on again before the changes take effect.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "16a4f866b2d701f49a97716588f1b019",
+    "text": "Display all employees in a campus Designated User Listing (DUL) with a speciﬁc restriction bypass",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "1445d04a093fc1ae2929effe3459a2f9",
+    "text": "(05-13-2021) Format 3: Display all employees in a campus Designated User Listing (DUL) with a speciﬁc restriction bypass",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "7817d377800a4c43b577001b7927aa6c",
+    "text": "d is Deﬁner A (user role Revenue Agent), M (user role Manual Refund Authorizer), R (user role 809 Receipt Book User), or U (user role Remittance Perfection Technicians).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "4d561935dc6d1318398208928451df30",
+    "text": "Security Command Codes Help Guide 2.12.2 page 15",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "d6541ad90b5c73a253a487969a2c6238",
+    "text": "EMPLOYEE is Literal for view Prohibited Command Code Table (PCC).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "6c737dfe0e485a0a8d99e8a52e6e350d",
+    "text": "uuuuu is 5 digit unit number .",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "8b936985c6d73f929bb63735c628fa68",
+    "text": "TO is Literal included with a preceding and following unit number, for limiting the display to only members in the range of units.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "5bf8d12e06bbc78dcbad203062174eba",
+    "text": "VIEW is Literal for display.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "b6953235c18be1c22f57d1fbd8c3ed2f",
+    "text": "Note: For both formats, the list displayed will be in alphabetical order by employee name.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "45c6e297e69d0ef1ba67a6cce49be216",
+    "text": "Note: For Format 3b, the range of units only apply to the input Office Identiﬁer.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "75c9cbfeb59376677938af189a31ca91",
+    "text": ") CMODE allows authorized users to switch from their Home Location to an thorized Foreign Location. At the same time, it changes their terminal association to the corresponding location and their default IDRS Command Code routing to that location. The routing of CFOL commands is not affected. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "fa8f9da812b3e7164f0831caee1b76ef",
+    "text": ") CMODE is also used to change back to the Home Location or to a different Foreign Location. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "49ae21a8161da3c126377e7dd4086f65",
+    "text": ") Employees cannot execute security Command Codes from a Foreign except for CMODE, SFDIS, SINOF and STATS. If an employee signs off (SINOF) from a terminal while using their foreign number, their employee status and terminal status will be reset to the Home Location. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "20f648becae8a0a0bacdabc2c96b9df7",
+    "text": ") Change Mode to a Different Service Center Format: CMODEaaa Where: aaa = acronym of the destination location code --",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "46e0c8a5703589ebad77e3c4af874908",
+    "text": "(05-13-2021) CMODE - Change to a Different Service Center",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "e2ef29ac2af9114b22a85f81bf785366",
+    "text": "Note: Employees cannot change mode to a Campus or Field Office until they have been given access to that location (see UPEMP with identiﬁer ‘S’ ).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "f51442938b7feb9116bb3d1129ed5b3b",
+    "text": "sc is Campus ID, Campus number, or Office Identiﬁer **",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "e53b2c1e5342828588402bd58e11c31f",
+    "text": "Note: This entry displays a list of all the terminals that have not been used in the last 6 months.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "9ba7e4bd739a67e5794a0634be299549",
+    "text": "Note: The terminal PID is in nnn/nnn format. The number to the left of the slash is the PID’s decimal number; to the right of the slash is the same PID’s hexa- decimal number.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "df015b822333675583e539af84de860c",
+    "text": "Note: ** See DISCC for a list of the Campus IDs/numbers and Office IDs.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "63701f6f42a80480aca69e37df41deb4",
+    "text": "DISCC displays the attribute settings of Command Codes on the Security Command Code Table (CCT) in SACS. It is a Command Code which IDRS users with the same functionality as the SACS Operator Command CCDIS.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "e6a0421cb922af0cf115138886a56a80",
+    "text": "Display the Command Code attributes of a speciﬁc command code.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "35c34e40566a3af98ac587b540017e62",
+    "text": "Displays a listing of all the command codes and their attributes in SACS Command Code Table.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "47d7074e09a151f2562520f42be13a0b",
+    "text": "Displays a listing of all the Command Codes and their attributes are processed on the speciﬁed host processor.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "20ab3db40f638636a59c99246ea81983",
+    "text": "Displays a listing of those Command Codes which match ALL of the speciﬁed attributes.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "b7ffbc4bc7d0bd79620a44a4e83ae04c",
+    "text": "Displays a listing of enabled or disabled Command Codes at the speciﬁed Campus. Display the Command Code attributes of a speciﬁc Command Code",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "4cbe9b07843a39693f7e527b61bbd20a",
+    "text": "DISCC displays the attribute settings of Command Codes on the Security Command Code Table (CCT) in SACS. It is a Command Code which provides IDRS users with the same functionality as the SACS Operator Command CCDIS.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "da8c618dc15cf77fa39764d10e733d16",
+    "text": "2.12.2.12 (05-13-2021) DISCC - Display Command Codes and their Attributes",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "e6a0421cb922af0cf115138886a56a80",
+    "text": "Display the Command Code attributes of a speciﬁc command code.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "7a9bea525368fabfd8bb8b3230e3b025",
+    "text": "Displays a listing of all the command codes and their attributes in the SACS Command Code Table.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "7bf0d6beb09b0e3c2a84761454effe70",
+    "text": "Displays a listing of all the Command Codes and their attributes which are processed on the speciﬁed host processor.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "20ab3db40f638636a59c99246ea81983",
+    "text": "Displays a listing of those Command Codes which match ALL of the speciﬁed attributes.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "ab9c712cad1af4dc99e1e799eed54906",
+    "text": "Displays a listing of enabled or disabled Command Codes at the speciﬁed Campus.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "20b95e15a1a84fbe4b75a4e66153225c",
+    "text": "nnn is Command Code number found in the SACS Command Code Table.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "7a009a3243deea7eb6df0033346ca365",
+    "text": "Security Command Codes Help Guide 2.12.2 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "87233c95f1ec3abb42b57ae34d6a7a76",
+    "text": "Note: Format 1a displays the Command Code attributes of a speciﬁc Code. The input format is alpha Command Code.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "e3b03cf9abd5660c1744e517ddaf41f6",
+    "text": "Note: Format 1b displays the Command Code attributes of a speciﬁc Command Code. The input format is Command Code number. Leading zeroes are not required for the command code number.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "00500c52a173790549547cb58eedd6b3",
+    "text": "Format 2b displays a numeric-order listing of all the Command Codes and their attributes in the SACS Command Code Table.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "e47259df882c62ab0413654cbbc2d546",
+    "text": "Display listing of all the Command Codes and their attributes which are processed on the speciﬁed host processor",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "e2f9b667a448440dcff16000de628508",
+    "text": "host is speciﬁed host type of the Command",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "e2f9b667a448440dcff16000de628508",
+    "text": "host is speciﬁed host type of the Command",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "1a032c932fafa19989e5e678b5537655",
+    "text": "OGH1 - UNISYS for Ogden",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "aa5d38890aec6d3c7603202f57fd67d3",
+    "text": "Format 3a displays an alpha-order listing of all the Command Codes and their attributes which are processed on the speciﬁed host processor.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "70a5af2fa7df5e92f4ec1884a9d6f6d1",
+    "text": "Note: Format 3b displays a numeric-order listing of all the Command Codes and their attributes which are processed on the speciﬁed host processor.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "201c06cf0349c834703c26485951c28a",
+    "text": "Note: See Appendix 2 for a list of valid host types. ******** REMOVE *********",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "c2d64ec27e6d8531264b12acc01ce8f4",
+    "text": "Security Command Codes Help Guide 2.12.2 page 19",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "917174adc135e8ad256679ebbfa9dd34",
+    "text": "DISCC ALPHA arg1 arg2 arg3....argx",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "441c8341d23fa0f0a2fab4fdf10efa91",
+    "text": "DISCC NUMERIC arg1 arg2 arg3....argx",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "91ba1ab7b1269a36bec85083ad38742f",
+    "text": "arg1....argx are speciﬁed attributes of Command",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "d0a312b248785b48ae0bb69d2d64b3cf",
+    "text": "PDSY - Displayable at PDSN - Displayable at Campus No; (Display Campus Yes; (Display ONLY at NCC Yes) ONLY at NCC No) SVCY - Displayable at SVCN - Displayable at Campus Yes Campus No SENY - Sensitive Yes SENN - Sensitive No SECY - Security Officer SECN - Security Officer Only Yes Only No SUNY - Sunday Available SUNN - Sunday Available Yes No SGNY - SINON Required SGNY - SINON Required Yes Yes TNGY - Training Database TNGN - Training Database Yes No PRIY - Primary PRIN - Primary Commmand Yes Commmand No PROY - Proﬁle Required PRON - Proﬁle Required Yes No XTTY - Time Exempted XTTN - Time Exempted No Yes PPGY - Preserve Pages PPGN - Preserve Pages Yes No MFEY - Multi Function MFEN - Multi Function Equip Yes Equip No USRY - Unit Security Rep USRN - Unit Security Rep Yes No RRTY - Reroutable Yes RRTN - Reroutable No TINY - TIN standard TINN - TIN standard position Yes position No",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "ff88a1da01aebc47b870764e83fe1b0c",
+    "text": "PDSY - Displayable at PDSN - Displayable at Campus No; (Display Campus Yes; (Display ONLY at NCC Yes) ONLY at NCC No) XDLY - Exempt from XDLN - Exempt from Deletion Yes Deletion No TIF1 - TIF Command TIFN - TIF Command Code, Group 1 No TIF2 - TIF Command Code, Group 2 TIF3 - TIF Command Code, Group 3 TIF4 - TIF Command Code, Group 4",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "c7b60a3b8c979d7277f8e8476bc33e37",
+    "text": "Note: Format 4a displays an alpha-order listing of those Command Codes which match ALL of the speciﬁed attributes. Format 4b produces the same list in numeric order.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "8e313adc9c7bce7e6350f545370be5c2",
+    "text": "Note: Attributes which are omitted are ignored, allowing Command Codes with both yes and no settings for that attribute to be on the list.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "aa40f0806da68994a7b8ef9fe0beeb77",
+    "text": "Note: If conﬂicting attributes are entered, such as both SENY and SENN, an error message is returned to the user.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "e6a99a75a194f70660d56aeaf75e0cee",
+    "text": "stat is the literal ″ENBL″ for enabled Command Codes OR ″DSBL″ for disabled Command Codes.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "7b6ac6d43404f4befed72f6b58686000",
+    "text": "sc is Campus ID, Campus number, or Office Identiﬁer (OID).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "cf2cc887965f57bd37e40ca721a7fb71",
+    "text": "Valid Campus IDs / SC numbers / OIDs are:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "31359c7682f01fecfeca2e47cf1b163c",
+    "text": "Security Command Codes Help Guide 2.12.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "ea4ad92c7861a245866e22d849bcc1f4",
+    "text": "Note: The Campus can be speciﬁed by its ID, by its number, or by its Office Identi- ﬁer (OID).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "d0493824f3da6fa0991c6a927c7fe81f",
+    "text": "For example, DISCC ALPHA ENBL PH and DISCC ALPHA ENBL 28 DISCC ALPHA ENBL 05 will produce the same results.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "8b2419b6e9b71548c10e7699216456af",
+    "text": ") DISGR can display a list of all the Command Code Group names. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "e3507ec94acdb370c2c74e89f5fb770c",
+    "text": ") DISGR can display a list of all Command Codes within a speciﬁc Command Code Group.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "1666b23c97516b170aa133429dddb333",
+    "text": ") DISNC displays network conﬁguration information on SACS terminals, data lines, and sites. DISNC is an IDRS user Command Code which provides the same functionality as the SACS Operator Command NCDIS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "f0ccacb370df7462b1622c625e4a55a0",
+    "text": ") Users may display information about single network resources using the Terminal Security ID, or the Terminal PID, or the Location ID of a terminal or site. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "4260afbbafb999ce4fad945bbfb558ac",
+    "text": ") Users may also display multiple resources by Resource type (line, site or terminal), or by Connection type. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "403459c887db019c00e2886b9d2741fa",
+    "text": ") Display information about single network resources",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "f454bf2a25fa576ec95008fd89ca9093",
+    "text": "Users may display information about single network resources using the Terminal Security ID, or the Terminal PID, or the Location ID of a terminal",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "3e0a1d559413971d0fe59872ba376486",
+    "text": "iiii(iiii) is Location ID. (4-6 characters for Sites; 8 characters for Terminals).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "bffab5c5638b153e4fb4aa490ddf2f13",
+    "text": "Note: Format 1a displays the conﬁguration of the site or device of the TSID.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "68dad280aa2ef8ecf9deb24db7ca4fcb",
+    "text": "Note: Format 1b display the conﬁguration of the site or device of the queried PID.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "4de240d1be3051c265a2f799b6404d72",
+    "text": "Note: Format 1c displays the conﬁguration of the site or the terminal at the queried location.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "2c6be784b72152e5d79201b801af443f",
+    "text": "Note: Format 1c displays the conﬁguration of the site or the terminal at the queried",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "31359c7682f01fecfeca2e47cf1b163c",
+    "text": "Security Command Codes Help Guide 2.12.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d88ea05215ad626185bd1f4cab7735d0",
+    "text": "sc is Campus ID, Campus Number of Office ID parameter (must begin with {Optional}.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "afbdae34444f766ef4d22f939cf775c5",
+    "text": "Employees who return to duty before the locked period ends must be unlocked by security personnel with the UPEMP Command Code.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "7a009a3243deea7eb6df0033346ca365",
+    "text": "Security Command Codes Help Guide 2.12.2 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "486cdfe7f12de6d76b7c699ff0a78dc2",
+    "text": "mm/dd/yyyy is date with leading zeroes (not more than 45 days hence)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "9d286b4a69415313b8d4692af25ee68c",
+    "text": "ccode is command code(s) to be added to the PCC.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "97851c64898b1f22d219fcac7747afb9",
+    "text": "Note: 1 to 10 command codes may be input on line 2 of Format 1.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "4161d5609edfb2e8c99c4587554be967",
+    "text": "Delete command codes to/from the Prohibited Command Code Table (PCC)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "17f3177224a35b7195904513f87a300b",
+    "text": "ccode ccode ccode ccode",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "d1fe2c43b8fc75fc011848235057d475",
+    "text": "ccode is command code(s) to be deleted from the PCC.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "89b2fb29eb0ff08685c04aff6a27f973",
+    "text": "Note: 1 to 10 command codes may be input on line 2 of Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "7bee2e8d4bf2aaeeb06f0501058c376e",
+    "text": "Note: Changes to the PCC will show up in employees’ command code proﬁles on the next day, and only for those employees with restrictions and/or bypasses of the relevant user type.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "e41a67d6a1cfa0bd7ea8cb0cadeec64a",
+    "text": ") MRINQ can display employee history information, using a Social Security Number key, an Employee Number key, or a Standard Employee Identiﬁer (SEID) key. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "745b418670efba19000651defdc201c9",
+    "text": ") MRINQ can display limited information for an employee when using the Social Security Number key (just the SEID, phone number, and investigation date). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "19bc0cbe7f5a6664626c48a586b6d592",
+    "text": ") MRINQ can display the next available Employee Number. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "17b949e91b6709cc9d75fe02883cf798",
+    "text": ") MRINQ can display a list of all Employee Numbers for a given Office Identiﬁer and Sequence Number. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "3f1bd3397102e0e42ad66a1a4b56021c",
+    "text": ") Display employee history information using a Social Security Number key",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "91da5b7d1d30a8fdf6e7befd39954bc9",
+    "text": "MRINQ can display employee history information, using a Social Security Number key, an Employee Number key, or a Standard Employee Identiﬁer",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "8ba76e530a8825a302296cc04836257c",
+    "text": "MRINQ can display limited information for an employee when using the Social Security Number key (just the SEID, phone number, and investigation date).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "b9edb6a01ee7b6553fb5c525267d8c90",
+    "text": "Display employee history information using a Social Security Number key",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "ab5367c0e4858323a982c5a701944b96",
+    "text": "Security Command Codes Help Guide 2.12.2 page 27",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "8ea1256613e3dfff2216bd9b97922922",
+    "text": "MRINQXsss-ss-ssss",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "01ab03538543a40165066939c98088aa",
+    "text": "Format 1:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "a7361337f28777dcfc62856434883568",
+    "text": "X is deﬁner for Social Security Number key.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "c341478a2885614c85268278918eaf7f",
+    "text": "sss-ss-ssss is the Social Security Number.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "c89b3b23e98fa6669b7739c3acdae2e0",
+    "text": "Display employee history information using an Employee Number key",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "b5b2d2b48300c11a257c3533d5436658",
+    "text": "2.12.2.20.2 (05-13-2021)Format2:Displayemployeehistoryinformationusing an Employee Number",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "930000f72db144fe95b0f2c0d11f6b6c",
+    "text": "Format 2:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "97ca713355820221ca4eb5e5c63b3925",
+    "text": "Display limited information for an employee when using the Social Security Number key",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "9b30401522a7b5dd33c2b977e6149356",
+    "text": "is the Social Security Number.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "d125facf6673e4460cc9f15b720f3955",
+    "text": "Note: Format 4 displays the employee’s name, last employee number, telephone number, and investigation date only.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "a0d863207c59922c759a9e47289bb767",
+    "text": "(05-13-2021)Format5:Display the next available Employee Number",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "f11ef513a8d2abe1f0568578cf7cf703",
+    "text": "N is deﬁner for next available Employee Number.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "f447437bee0e110e13f9dfb55e9ca1f3",
+    "text": "Display a list of all Employee Numbers for a given Office Identiﬁer and Sequence Number",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "6630740b25f3d41a8456f129161d7dcb",
+    "text": "Security Command Codes Help Guide 2.12.2 page 29",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "dc59656d6072edcead442829ee49e9ae",
+    "text": "MRINQLoi000nnnnn",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "163a93872188855934699dc1368057fa",
+    "text": "nnnnn is the Employee Sequence Number.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "e1a9fb0ee58136f452e23a895e995214",
+    "text": "Note: Format 6 displays a list of all Employee Numbers for a given input Office Identiﬁer and Sequence Number. Also included in the display will be the Social Security Number, Employee Name, and dates when the Employee Number was used.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "f2068e53791de09469b598d3affb4d3b",
+    "text": ") MRUPD can update a user’s Social Security Number, their Investigation and date, or their Assignment or Origin dates. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "8ec29c029adbed3d27dbd8ba0749226d",
+    "text": ") MRUPD can display and update and delete workload management. (See also Workload Management Examples below.) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "177bac6106afd1ac506e4b9b1c57502e",
+    "text": ") Update a user’s Social Security Number",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "cda3b9d92b4e32995399448b0ea2e109",
+    "text": "MRUPD can update a user’s Social Security Number, their Investigation status and date, or their Assignment or Origin dates.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "6f8447ec535f9f80405ca0c79906a736",
+    "text": "U is deﬁner for update.",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "ab8aed76361dddf362111a98fc56fef4",
+    "text": "nnn-nn-nnnn is new Social Security Number.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "a88d69a13138a698e23f0f2a6c6ba7ca",
+    "text": "Note: Format 1 changes a user’s Social Security Number. SSNs can be only if there is no previous MRINQ history.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "cb212d5cf00afc13c0fd355df9609aec",
+    "text": "Update a user’s Investigation status and date",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "2399fd83772ff939525648e8c6ffbe68",
+    "text": "mm/dd/yyyy is the new date.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "785be92fe28c8658a61cac30d1630193",
+    "text": "Note: Format 2 changes the status and dates of the background investigation required for all IDRS users (Except MCC).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "a5c5ce32a941486fee4d0308888cb9ca",
+    "text": "(05-13-2021)Format3:Update a user’s Assignment or Origin dates",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "2399fd83772ff939525648e8c6ffbe68",
+    "text": "mm/dd/yyyy is the new date.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "61a20f27ed22f52f1bb4c77140115211",
+    "text": "Security Command Codes Help Guide 2.12.2 page 31",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "02cc020f791cdbd49b1e6761ee415774",
+    "text": "Where:",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "edc1167801c367ad74307c362bdd5ae0",
+    "text": "T is Negative SSN entry Type; valid Types: S ->",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "9e117343247ca8b011625275cb025ecc",
+    "text": "R is Range of SSN entry; valid Ranges: S -> 0-4.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "c5442313890f3505019358266e498dbe",
+    "text": "nnn-nn-nnnn is Negative SSN to be assigned to employee.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "d96a0ef5d4a40472903a4a0a7c00f299",
+    "text": "add/update seen by the command above is for information only. It is not part of",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "02cc020f791cdbd49b1e6761ee415774",
+    "text": "Where:",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "c5442313890f3505019358266e498dbe",
+    "text": "nnn-nn-nnnn is Negative SSN to be assigned to employee.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "b8492057416feab52c6cadcc8f661f4b",
+    "text": "Note: delete see by the command above s for information. It is not part of the entry.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "24e510f957988d6e28bf7db2c909d36f",
+    "text": "Note: Format 4a displays an employee’s assigned Negative SSN ﬁle.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "5b36906b4019089937f39ddebb6e9099",
+    "text": "Note: Format 4b adds or updates a Negative SSN entry on an Negative SSN ﬁle.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "2294cf0057fe20a217d5c5d08220d7cf",
+    "text": "Note: Format 4b and Format 4c can be combined to do both adds / deletes / updates in a single transaction. Order of entries is not relevant, the only striction is that each entry is input on a single line.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "4a455fd7d37064eb0e704e1e012c9574",
+    "text": "Example MRUPDWsss-ss-ssss (mixed mode format)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "7a009a3243deea7eb6df0033346ca365",
+    "text": "Security Command Codes Help Guide 2.12.2 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "f7dce32673c8e5b99986f494a68d1faa",
+    "text": "Example MRUPDWaaaaa (mixed mode format)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "77e4d0fde507894293698b13b144db85",
+    "text": "(05-13-2021)PIDTM-Display PID Usage",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "486fc33d4647c02ec49d6559588d9e5c",
+    "text": "Note: Format 1 displays a list of the available PID(s) for use at the Campus ID ’sc’.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "4e7e51b48b198c8cfa817667024624e6",
+    "text": "(05-13-2021)Format2:Display PIDS in use at a given campus",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "c31d00e1ba824d95cb69124436c6e92c",
+    "text": "Note: Format 2 displays a list of PID(s) being used by the requested Campus ’sc’.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "7a009a3243deea7eb6df0033346ca365",
+    "text": "Security Command Codes Help Guide 2.12.2 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "4516b8b1bd1bc1bcb59575dedf851557",
+    "text": "PWACTPROVIDE THE LAST NAME OF A CHILDHOOD FRIEND:0 ! ANYEAR (YYYY):pg=1 Row= 2 Col= 47",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "e2b03327e61760e728ca109a0dcb1698",
+    "text": "(UPROVIDE THE LAST NAME OF A CHILDHOOD FRIEND:PROVIDE A SIGNIFICANT DATE OTHER THAN YOUR BIRTHDAY(MMDDYYYY):OUR FAVORITE COLOR:SIGNIFICANT YEAR (YYYY):",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "895e4c5f8d5b4521f470699e235c6a3d",
+    "text": "Instructions - IDRS Password Management Activation",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "ca6af78cef9fddb5f41f3588f282b089",
+    "text": "While signed onto IDRS, enter the command code “PWACT” and transmit key. Note: Command code PWACT is available to all IDRS does not need to be in your IDRS proﬁle. Answer",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "34368d45841230d2ad09616f7883bf4b",
+    "text": "Questions and remember the answers for future use:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "986793eb2d38291ecde40166eae37edc",
+    "text": "Provide the last name of a childhood friend Note: all alpha, between",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "64a33cfb75e1ccd9da523e882e815cc8",
+    "text": "characters in length.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "6feb5ed64a03ecfd8801ee8e152ccba0",
+    "text": "Provide a signiﬁcant date – other than your birthday Note: all numeric, use MMDDYYYY format, date range from",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "8ca3126faaf9b04159f73ee89b1acc2c",
+    "text": "Provide a favorite color Note: all alpha, between",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "64a33cfb75e1ccd9da523e882e815cc8",
+    "text": "characters in length.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "5a5fee70dd529651e1ff49dfe8863445",
+    "text": "Provide a signiﬁcant year Note: all numeric, use YYYY format, year range from",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "fdf237604cce2ba3f1a63e2ecf57a0ec",
+    "text": "Note: all numeric, use YYYY format, year range from 1800-2999.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "c7d61285fb6a45056760c48c1252d326",
+    "text": "Security and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "7e6ab853892c6123c36988dea0712425",
+    "text": ") • REQUEST COMPLETED - Password Management has been fully implemented. • Any other response - Transaction failed at least one edit check. Try again. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "8d3080c1659c66880430e792edc8a575",
+    "text": "Additional information also is available by entering PWACT HELP while signed onto IDRS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "35b4e7fe21a78950a38f0a6b98fa007d",
+    "text": "After you have responded to the four inquiries, select the transmit key. not send this screen with your responses to a printer. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "5e170cce2dfba9fc2955c63820513c20",
+    "text": "If you have properly responded to the four inquiries, you will receive a REQUEST COMPLETED message at the bottom of your screen. This message indicates that your Password Management Capability has been cessfully activated. We recommend that you perform a SFDISP <transmit> transaction to check your PSWD MGT status. If you have successfully activated this capability, your status will be identiﬁed as ACTIVE. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "086b00419f0bf9e5b0c7d384b187544a",
+    "text": "You can change your inquiry responses at any time you are signed-on to IDRS by repeating the steps above. If you change a response, you must respond to all four inquiries again or you will de-activate your capability. will never show your previous responses but you can re-enter a previous response. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "5f767002668e3aee55c541d7368a9e7a",
+    "text": "If you do not receive the REQUEST COMPLETED message, you must follow all the above steps and respond to four inquiries. If you continue to have problems, contact your IDRS Unit Security Representative (USR). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "90a861d51ca043a5e3908e742a21ba99",
+    "text": ") IDRS Password Management capability that will enable IDRS users who forgotten their IDRS password to get a new temporary IDRS password without having to submit an Online",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "4101bdf451e24ec36d6fcc03d41820ca",
+    "text": "request. To use this capability, you must activate the IDRS Password Management capability (PWACT) while signed onto IDRS. After the capability has been activated, if you have forgotten your IDRS password you can use this feature to create a new temporary IDRS password which will then let you create a new user Note: PWMGT will not allow IDRS access to a user who has other access im-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "6648683fa8e0509f35a7dcb5ffa24e40",
+    "text": "REQUEST COMPLETED",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "bd774c56d8f0e415be93824862129b14",
+    "text": "Password Management has been fully implemented. Any other response",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "d358834cb5f9e27df031bb6994a03dda",
+    "text": "Transaction failed at least one edit check. Try again.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "45c710da590cc04810f7ac3c814da51d",
+    "text": "3. After you have responded to the four inquiries, select the transmit key. Do not send this screen with your responses to a printer.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "c783d12f4dbb5fd6d53cafba3fe06914",
+    "text": "IDRS Password Management capability that will enable IDRS users who have forgotten their IDRS password to get a new temporary IDRS password without having to submit an Online",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "d8e223a69cce7f52f25fe32deca2cff6",
+    "text": "request. To use this capability, you must activate the IDRS Password Management capability (PWACT) while signed onto IDRS. After the capability has been activated, if you have forgotten your IDRS password you can use this feature to create a new temporary IDRS password which will then let you create a new user password.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "885d11add8e010f5b07ccaf952210b92",
+    "text": "Note: PWMGT will not allow IDRS access to a user who has other access im- pediments, i.e. locked workstation, locked proﬁle, deleted proﬁle.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "f573d13286b8f43269035772ed0df9da",
+    "text": "An erroneous ’signiﬁcant year’ is entered in the PWMGT space of the SINON template. Non",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "58d42215e6b3b6059e0f2255f79496d9",
+    "text": "numeric entered in ’signiﬁcant year’ in the PWMGT space of the SINON template.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "ab792171aac0dcad931ec306386b0ab1",
+    "text": "REPTS authorizes user access to the SACS security reports application IORS via SACS. Users must login to IORS using their SACS login information (SEID, Last Name, First Initial, password). SACS provides user authentication, making sure the user is proﬁled with REPTS and has an active user account in SACS before allowing them access to IORS. SACS also provides the preliminary",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "7a009a3243deea7eb6df0033346ca365",
+    "text": "Security Command Codes Help Guide 2.12.2 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "510b743f7f4e6bf2eef54f72cc15fab3",
+    "text": "security checks to ensure the user access request is issued from an autho- rized IORS server/terminal. An Audit Trail Record will be produced for all IORS login inputs made using REPTS.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "1f80b7f86accf1045b263f5fe52aa2e9",
+    "text": "login inputs made using REPTS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "ff74a43abc25111332ee7938ae6232aa",
+    "text": ") Command code RMODE authorizes an employee to use the command contained in their Training Proﬁle in a Research Mode. Employees should contact their USR for instructions on modifying their Training Proﬁle. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "670db7b01e29a85596085798ddc41197",
+    "text": ") The Research Mode differs from Production Mode in that production ﬁles accessed but not updated. It differs from Training Mode in that the training are not accessed. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "ea8fd145da0446557798fbd4bda472f3",
+    "text": ") The Research Mode is to be used only by: a. IDRS User Support staff for researching production problems that can resolved only by accessing production data. b. Application Development staff for addressing issues that can be only by accessing production data. Application Development staff use shall be in compliance with IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "7c452d062e7de07a7b61692bdc1e217a",
+    "text": "Sensitive But Unclassiﬁed Data Policy. Application development staff shall meet all IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "36c4e88408a59af5ec9abaae4794f4bf",
+    "text": "quirements (including SBU Data Use approval) before RMODE will be granted. c. Treasury Inspector General for Tax Administration (TIGTA) Strategic forcement Division staff. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "2022347977366f7e0c25113fc1a78df8",
+    "text": ") In order to use the research capability, a user shall have command code RMODE in their Production Proﬁle, and input command code S",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "cdbc22a390e4a739091c24fd2dfd83a4",
+    "text": "ON with a Production/Training Indicator of R. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "550f872b3c542462f7b4a1fd967e003b",
+    "text": ") An Audit Trail Record will be produced for all inputs made in the Research Mode. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "1265c0f7b3aaf928248f84cd7ada469f",
+    "text": ") All Research Mode security violations will be included in IDRS security (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "6eb11aaa7302e47f6c5ebbc9425e1618",
+    "text": ") ROUTE displays the name, code, number, and Office Identiﬁer (OID) used identify each Campus’ IDRS database. It also displays the current status of route to that database. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "a34cc703e830e12e16ea17bfcd50b4f9",
+    "text": ") Format: ROUTE Note: No deﬁner is required. This command may be issued from a terminal is not signed on. Note: Martinsburg is used for SAT/PDS Test systems only.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "029a50054f5fea9e2afadda419977e82",
+    "text": "IDRS User Support staff for researching production problems that can be resolved only by accessing production data. Application Development staff for addressing issues that can be resolved only by accessing production data. Application Development staff use shall be in compliance with IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "533b18108c5ed15c9fadb384571a8ba1",
+    "text": "Sensitive But Unclassiﬁed (SBU) Data Policy. Application development staff shall meet all IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "ba3a34c4f8dc95eed46d7bd58506782c",
+    "text": "re- quirements (including SBU Data Use approval) before RMODE access will be granted. Treasury Inspector General for Tax Administration (TIGTA) Strategic En- forcement Division staff.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "2c97d5228a7105bebf6a31eb87ff76c1",
+    "text": "Note: No deﬁner is required. This command may be issued from a terminal which is not signed on.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "57c695e91594b25afd9cbabd1c45c1a3",
+    "text": "Note: Martinsburg is used for SAT/PDS Test systems only.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "0373d0d60a9b2edad277de7ef055dfa1",
+    "text": ") RSTRK (meaning restrict) prevents an IDRS user with a certain role type from having speciﬁed command codes in their proﬁle. Restrictions added under an Office Identiﬁer can not be removed by security personnel in another Officer Identiﬁer. Restrictions added on a campus in the same computing center will update to the employee proﬁle on the active campus. Restrictions added on a campus on the opposite computing center from the employee’s active IDRS",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "9535e15f99f88c93f7de67287bfe0e17",
+    "text": "(1) RSTRK (meaning restrict) prevents an IDRS user with a certain role type from having speciﬁed command codes in their proﬁle. Restrictions added under an Office Identiﬁer can not be removed by security personnel in another Officer Identiﬁer. Restrictions added on a campus in the same computing center will update to the employee proﬁle on the active campus. Restrictions added on a campus on the opposite computing center from the employee’s active IDRS",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "8a1c174aeeffdc04e3d1e971c9253ddd",
+    "text": "account, will need to be manually updated by security personnel. RSTRK can be added to the employee data base for an employee SSN who has no active",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 46
+    }
+  },
+  {
+    "element_id": "86b3c11a2e509db0c65d8de984c79745",
+    "text": "be added to the employee data base for an employee SSN who has no IDRS account. RSTRK can add and delete restrictions against a employee’s proﬁle for a campus. RSTRK can display the Command Codes that are restricted for a user role. RSTRK can display all employees in a campus Designated User Listing with a speciﬁc restriction. RSTRK can display all employees (any or no restriction) in a campus DUL. RSTRK can display the restriction and bypass history for a speciﬁc RSTRK can change an employee name in the DUL Add restrictions against a employee’s proﬁle for a given campus",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 46
+    }
+  },
+  {
+    "element_id": "7817d377800a4c43b577001b7927aa6c",
+    "text": "d is Deﬁner A (user role Revenue Agent), M (user role Manual Refund Authorizer), R (user role 809 Receipt Book User), or U (user role Remittance Perfection Technicians).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 46
+    }
+  },
+  {
+    "element_id": "b28acf4873726ec100dfe2a6391b66da",
+    "text": "Add is Literal for add restriction action.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 46
+    }
+  },
+  {
+    "element_id": "892a7f58de2a5efd32ca091880bd3faa",
+    "text": "Note: One must input an employee to the correct campus DUL to restrict an em- ployee’s Command Code proﬁle. An employee with IDRS access whose unit is in Philadelphia will not be restricted if he/she is has been added to the Brookhaven DUL.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 46
+    }
+  },
+  {
+    "element_id": "4a8765582e615f50298b8a2010b6f01c",
+    "text": "Note: Restrictions remain active if an employee changes units within the same campus.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 46
+    }
+  },
+  {
+    "element_id": "e0aae6a2561fa275e31fe60684f17600",
+    "text": "Note: An employee can have up to 5 restrictions at a time per campus.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 46
+    }
+  },
+  {
+    "element_id": "31359c7682f01fecfeca2e47cf1b163c",
+    "text": "Security Command Codes Help Guide 2.12.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "09f73a4ab1f048c5e541aad024940d72",
+    "text": "If the employee is signed on when Format 1 is input, he/she must sign off then sign on again before the changes take effect.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "58fa8d8a8156a3eb52c9e61c28c2452a",
+    "text": "Delete restrictions against a employee’s proﬁle for a given campus",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "2cd0eaaf604745a46740a525e057498d",
+    "text": "DELETE is Literal for add restriction action.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "fb8a6748405f10a3c5eb8421466bdbc5",
+    "text": "Note: If Format 2 has not been input, an employee who is deleted from IDRS will still remain on the DUL. So if the employee is later readded to IDRS (in the same campus), the restrictions will again be in effect.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "48361afd8f8b0c165bfcff028fc25f47",
+    "text": "Note: If the employee is signed on when Format 2 is input, he/she must sign off then sign on again before the changes take effect.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "7817d377800a4c43b577001b7927aa6c",
+    "text": "d is Deﬁner A (user role Revenue Agent), M (user role Manual Refund Authorizer), R (user role 809 Receipt Book User), or U (user role Remittance Perfection Technicians).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "a2a4d4a8d6e41397fbfaee42ed50204d",
+    "text": "HISTORY is Literal for display history for the PCC",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "0e53690b82ef8d2b75505cd6e24beaf8",
+    "text": "The VIEW HISTORY option shows all active and inactive Command Codes in the PCC.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "fa2435c42cdca3d7a610109316c798f6",
+    "text": "columns of data will be presented: the Command Code the date the Command Code was last added to the PCC, the date the Command Code was last removed from the PCC (if applicable), and the Command Code status (ACTIVE or INACTIVE).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "1446264f88b5bbdf2a797ef487787aa1",
+    "text": "is Deﬁner A (user role Revenue Agent), M (user role Manual Refund Authorizer), R role 809 Receipt Book User), or U (user role Remittance Perfection Technicians).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "9d8aaf3a2bb9f7ef70956f4ff6116d6a",
+    "text": "TO is Literal included with a preceding and following unit number, for limiting the to only members in the range of units.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "b6953235c18be1c22f57d1fbd8c3ed2f",
+    "text": "Note: For both formats, the list displayed will be in alphabetical order by employee name.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "341b55aac461c2e39cf0d16e90dbe174",
+    "text": "Note: For Format 4a, if the NOT ACTIVE literal is omitted, the display will show both employees with and without active IDRS accounts.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "31359c7682f01fecfeca2e47cf1b163c",
+    "text": "Security Command Codes Help Guide 2.12.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "1e9162d16404c0bd968cdac7e42e8c9d",
+    "text": "Note: For both formats, if more than one optional item is input, they must be input in the order shown.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "002ac8d275792a7815b4b26885150a50",
+    "text": "Note: For Format 4b, the range of units only apply to the input Office Identiﬁer.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "5d3dcdbe3c67b6e5e84ae15afd190db6",
+    "text": "(05-13-2021)Format5:Display all employees (any or no restriction) in a DUL",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "ddf58cf25a8c32b3b8a379969fa943cd",
+    "text": "Format 5a:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "43781b57de2932ad4d57a743826344be",
+    "text": "RSTRKX EMPLOYEE oi uuuuu TO uuuuu [SSN] [SEID] [SSN SEID] VIEW [DELETED]",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "8b936985c6d73f929bb63735c628fa68",
+    "text": "TO is Literal included with a preceding and following unit number, for limiting the display to only members in the range of units.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "425d3a4615a03e5255b22c75c0c4f8d4",
+    "text": "For both formats, the list displayed will be in alphabetical order by name.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "6f5134cb208931724e0203e44489a3fb",
+    "text": "Note: For Format 5a, if the NOT ACTIVE literal is omitted, the display will show both employees with and without active IDRS accounts.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "1e9162d16404c0bd968cdac7e42e8c9d",
+    "text": "Note: For both formats, if more than one optional item is input, they must be input in the order shown.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "f291ac4050162cb62460179590d8a185",
+    "text": "Note: For Format 5b, the range of units only apply to the input Office",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "dc456a76b3267d46d3605c4f04b4618d",
+    "text": "Note: If the office identiﬁer is omitted, the display will show all restriction and bypass history items existing for the 5 campuses within the user’s Center.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 50
+    }
+  },
+  {
+    "element_id": "be907c3946fad4b2837daf47b74c4966",
+    "text": "Note: Format 6 will also show the employee’s name, as shown in the DUL, as well as his/her employee number (if the employee has an active IDRS account).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 50
+    }
+  },
+  {
+    "element_id": "a2caa5d2bd0555a18639f21594cdab49",
+    "text": "(05-13-2021)Format7:Change an employee name in the DUL",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 50
+    }
+  },
+  {
+    "element_id": "879ee2f19b7b53c6b469b8af125ad118",
+    "text": "fff is First name (min of 1 character, max of 15).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 50
+    }
+  },
+  {
+    "element_id": "df96c668a0caf3fd5ac42140e420cf5e",
+    "text": "Note: The name will only be changed in the Designated User List (DUL) of input user’s home campus.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 50
+    }
+  },
+  {
+    "element_id": "31359c7682f01fecfeca2e47cf1b163c",
+    "text": "Security Command Codes Help Guide 2.12.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "83922079aa2e12b9ad9f28948930bbdb",
+    "text": "SECOP unlocks a terminal that has received a security lock as a result of three consecutive security violations.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "b0f4b691f4b26b1a4131b2081a2de049",
+    "text": "Note: The Terminal ID (TSID) consists of four alpha/numeric characters.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "6adb058edbc85eba9c16a84336c5155a",
+    "text": "the number of days users in a Unit have until their passwords automatically expire. The range must be in increments of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "156de5b786ad81a180bbde8d9aa82f20",
+    "text": "days. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "219d0bf04a736ecd90b644c1fa547bb7",
+    "text": ") The default for a Unit is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "9c30daf13b5182a473bb0c81d9a850ea",
+    "text": "days. Security Officers may set the range lower than the default or reset it higher, but may never exceed",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "b7d5e33b8a8e23523c1cf49eca403613",
+    "text": "days. Unit Security Representatives may set the range lower or reset it higher, but never higher than the Security Officer’s setting.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "dbd7e4ade303d54efb2645f67dd18b15",
+    "text": "nn is 30 or 60 or 90 or 120 (must be one of these four exactly as shown).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "4104749250d01d69de60ce29cc978e33",
+    "text": "Note: If a Unit Security Rep. enters deﬁner ’S’, an error will be returned.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "d148b2b9fbe46ab705229c6dbf07378b",
+    "text": ") SFDIS allows users to display their own Proﬁles. The response to this command will include the user’s current (signed on) proﬁle, the Info-connect ID, the user’s active restriction/bypasses, password management activation status and availability, individual Command Code proﬁle and authorized Foreign Locations for CMODE. User must be signed on in ″T″ mode to view his/her training proﬁle.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "cc9a41bca3808f4e8987f459979d7ae9",
+    "text": "(05-13-2021) SFDIS - Display User Proﬁle",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "f1dc493fec0f5208ae196bb0205897de",
+    "text": "Where: d is deﬁner, either P or T will display the user’s current (signed on) proﬁle, the three options being Production, Training, or Research.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "ad276d68bd21c38a1a4b91fb39d63647",
+    "text": "Note: SFDIS displays the user’s Command Code Proﬁle for either Training or Pro- duction. Command Codes followed by a dollar sign ($) are exempt from automatic deletion for non-use.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "07b9a42041d26e636d692a7fecfbbd72",
+    "text": "Note: If deﬁner ’P’ is selected, the display will also include the File Access Restric- tion (″IMF only″, ″BMF only″, or ″IMF and BMF″). There is no File Access Restriction for training.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "3e3cfef4bd59e28a7fa6195e69125840",
+    "text": "tion (″IMF only″, ″BMF only″, or ″IMF and BMF″). There is no File Access Restriction for training. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "1cd8ec68a809da6dbf7fec098599f07b",
+    "text": ") SFINQ can display employee information such as name, Employee SEID, user type, locked or unlocked status, active/inactive restrictions and bypasses, authorized foreign access, NULL status and password status. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "ede4c266d3cbc49ba92120a02438c597",
+    "text": ") SFINQ can display the employee’s Production or Training Command Code Proﬁles. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "99d3411dc6a05a1f74da885685621756",
+    "text": ") SFINQ can display all employees in a Unit in Employee Number order or order, show their SEID, Operator Type, whether signed on or off, the TSID the terminal if signed on, and their locked or unlocked status. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "b5665d24cf5412524b261380363d60f3",
+    "text": ") SFINQ can display all Command Codes allowed in a Unit plus the Unit’s Universal Access (reroute) status. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "fcfb84d71c2cbdf9f4b3a78d45fb11d3",
+    "text": ") SFINQ can display for one or more Units a list of all employees’ names, Employee Numbers, NULL Status, and authorized Foreign Locations Office Identiﬁers (OIDs). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "ff40f366a6a794e6f87e03457e993b6b",
+    "text": ") SFINQ can display, by terminal TSID, the employee number for any user signed on, or the allowed Time On/Off for that terminal. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "8f2c917d91364cb6508e7ffa6da36b26",
+    "text": ") SFINQ can display a list of the last usage dates for all Command Codes in particular Unit, plus indicate which Command Codes have been turned off non-use. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "e9a320da6cf1d7a6e88bac4fde64eefd",
+    "text": ") SFINQ can display authorized Multiple Access (CMODE) locations. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "662aced0a68220255295d18a22ba2fcc",
+    "text": ") Finally, this SFINQ displays Command Codes turned off for a Unit. This has six different options: (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "fd55ddc2dd749a7ef80b9df63b476068",
+    "text": ") Display LAST",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "5b16ae802cbfb08b2b38683d6a01fb19",
+    "text": "days for BOTH System and Security Officer turn-offs. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "fd55ddc2dd749a7ef80b9df63b476068",
+    "text": ") Display LAST",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "f3d735b97ccc29b61bbcfdbe5a682716",
+    "text": "days for EITHER System or Security Officer turn-offs. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "6f7dcc0f17ed4c8d8d96be222dcbbaa4",
+    "text": ") Display ALL dates for BOTH System and Security Officer turn-offs. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "186dafe5a891c1e7b638a363162020d9",
+    "text": ") Display ALL dates for EITHER System or Security Officer turn-offs. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "9f8356fe161bb51b37a16a5c490d3ba4",
+    "text": ") Display SPECIFIED NUMBER of days for BOTH System and Security turn-offs. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "968ba92dd5c82746581f499bc5c656df",
+    "text": ") Display SPECIFIED NUMBER of days for EITHER System or Security turn-offs. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "fe87ee34b46a87a1b47371626906546d",
+    "text": ") Display Password Management Status for a unit - SFINQW.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "28c8754edd66f8f2ecbdd57b16f1c327",
+    "text": "SFINQ can display a list of the last usage dates for all Command Codes in a particular Unit, plus indicate which Command Codes have been turned off for",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "7a009a3243deea7eb6df0033346ca365",
+    "text": "Security Command Codes Help Guide 2.12.2 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "8170dca2de775e5ced7893692db2d2e7",
+    "text": "Display employee information such as name, Employee Number, SEID, user type, locked or unlocked status, active/inactive restrictions and bypasses, au- thorized foreign access, NULL status and password management status",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "c453029b87a7adbb76172e6d432322e5",
+    "text": "Note: Format",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "c879fe04c10492e48bcc0906df9e9c2c",
+    "text": "displays employee name, Number, SEID, user type (SAT or PRG and/or *TRDB*), File Access Restriction (″IMF only″, ″BMF only″, or ″IMF and BMF″) the proﬁle status (locked or unlocked), date of last logon, password management status, a list of Office Identiﬁers (OIDs) that deter- mines authorized Foreign access, NULL status, and active inactive and bypasses.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "0d7e7273d3f3aeaec07e09eafa97df28",
+    "text": "(05-13-2021)Format2:Display the employee’s or Training Command Code Proﬁles",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "24d1c0e4572720ab615cc8d352e653ed",
+    "text": "Note: Format 3 displays all employees in a Unit (or optionally just the locked employees in a Unit) either by name (Alphabetically) or Employee (Numerically).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 54
+    }
+  },
+  {
+    "element_id": "2cb7324b579b4a3f3607269a37814c83",
+    "text": "uuuuu is the Unit Number.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 54
+    }
+  },
+  {
+    "element_id": "c453029b87a7adbb76172e6d432322e5",
+    "text": "Note: Format",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 54
+    }
+  },
+  {
+    "element_id": "1e242dfff85defaea93513f4e694188a",
+    "text": "displays the Command Codes in the MPAF or the UCCP. It will also show the Unit’s reroute setting (REROUTE = YES/NO) and the ’lock’ status (LOCKED=YES/NO) With deﬁner ’M’, Command Codes followed by an asterisk (*) are not present in the UCCP. With either deﬁner ’M’ or ’U’, Command Codes followed by a dollar-sign ($) are exempt from automatic deletion for non-use.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 54
+    }
+  },
+  {
+    "element_id": "0776d468c71d76096b8bb77e9fcbc498",
+    "text": "d is deﬁner E for displaying a single Unit information.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 54
+    }
+  },
+  {
+    "element_id": "7a009a3243deea7eb6df0033346ca365",
+    "text": "Security Command Codes Help Guide 2.12.2 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 55
+    }
+  },
+  {
+    "element_id": "8766a9365e3913e9aa871f241c0c3cac",
+    "text": "Format 5b:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 55
+    }
+  },
+  {
+    "element_id": "0b3fc82f35dfd637ec3198e4ce38a50c",
+    "text": "SFINQduuuuu uuuuu uuuuu ... uuuuu",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 55
+    }
+  },
+  {
+    "element_id": "ba296aacae9216f3933dda4bd389e014",
+    "text": "uuuuu is the Unit Number (max of 10 units).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 55
+    }
+  },
+  {
+    "element_id": "1bc43a891ee1d95dfe266995fff7cc00",
+    "text": "Format 5a displays an alphabetical list of all employees in the Unit, plus NULL Status and Foreign Location permissions.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 55
+    }
+  },
+  {
+    "element_id": "60b17599f19dbf835846136dbf9890c2",
+    "text": "Note: Format 5b displays the same information as Format 5a, but for up to ten Units.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 55
+    }
+  },
+  {
+    "element_id": "5dee6d0398d92775b16779a04012fed5",
+    "text": "Display, by terminal TSID, the employee number for any user signed on, or the allowed Time On/Off for that terminal",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 55
+    }
+  },
+  {
+    "element_id": "8adb181e51f3507d61454bdd0b5a64b2",
+    "text": "d is deﬁner S (Signed on) or blank (Time On/Off). tttt is Terminal Security ID (TSID).",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 55
+    }
+  },
+  {
+    "element_id": "6885bd30a1e9febd8c0986b58ad347d6",
+    "text": "Note: Format 6 displays the Employee Number of the user currently signed on for the speciﬁed terminal when the ’S’ deﬁner is used. It displays the authorized Time On/Off for a terminal when the deﬁner ﬁeld is left blank.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 55
+    }
+  },
+  {
+    "element_id": "309c52af043231bd83a37ca7da78e6e8",
+    "text": "Display a list of the last usage dates for all Command Codes in a particular Unit, plus indicate which Command Codes have been turned off for non-use",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 55
+    }
+  },
+  {
+    "element_id": "bb05244957e8063f72b45cf1531f848e",
+    "text": "SFINQduuuuu (Last usage date of Command Codes in a Particular Unit)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 55
+    }
+  },
+  {
+    "element_id": "574f9a82f88b243b48b80c78d466c7e0",
+    "text": "d is deﬁner C (MPAF Aged-Delete-Record Command Code use date).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 55
+    }
+  },
+  {
+    "element_id": "2cb7324b579b4a3f3607269a37814c83",
+    "text": "uuuuu is the Unit Number.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 55
+    }
+  },
+  {
+    "element_id": "4383d02b5e9b39d0ce3fca7f0f3615a8",
+    "text": "Note: Format 7 displays the last usage date of Command Codes in a particular Unit. Display is of Command Codes active in the Unit’s MPAF.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 56
+    }
+  },
+  {
+    "element_id": "9bcf50f6cc95dc90eaa0cd588d3cbcc9",
+    "text": "Note: In the display, an asterisk (*) denotes the Command Code has been turned off in Employee Proﬁles due to 90 days of non-use. A pound sign (#) denotes the Command Code has been turned off in the Unit due to 360 days of non-use.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 56
+    }
+  },
+  {
+    "element_id": "2cb7324b579b4a3f3607269a37814c83",
+    "text": "uuuuu is the Unit Number.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 56
+    }
+  },
+  {
+    "element_id": "c453029b87a7adbb76172e6d432322e5",
+    "text": "Note: Format",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 56
+    }
+  },
+  {
+    "element_id": "2d01ed16ac301714b031997dcbbb7acc",
+    "text": "a displays the Command Codes turned off for a particular Unit during the previous",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 56
+    }
+  },
+  {
+    "element_id": "ffa0f5bf3ad992eec433a86457011ffc",
+    "text": "days (the default if time is not speciﬁed). This is a request for display of both System (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 56
+    }
+  },
+  {
+    "element_id": "ea5848655c6fd073905fc1e469f5139b",
+    "text": "days and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 56
+    }
+  },
+  {
+    "element_id": "82dfa4afad2e097a032a327240885fa9",
+    "text": "days non-use) and Security Officer Command Code turn-offs (the default if type SYS or SEC not speciﬁed).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 56
+    }
+  },
+  {
+    "element_id": "8f2d795b9e947ccf7dc40d0477f617b1",
+    "text": "Note: Format 8b displays the Command Codes turned off for a particular Unit during the previous 30 days (the default if time is not speciﬁed). This is a request for display of only System (90 days and 360 days non-use) or only Security Officer Command Code turn-offs.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 56
+    }
+  },
+  {
+    "element_id": "358d1502952b107f672d777bdba06a4c",
+    "text": "Security Command Codes Help Guide 2.12.2 page 49",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 57
+    }
+  },
+  {
+    "element_id": "3a20d862e4add1da0e0edd61e53e8037",
+    "text": "SFINQduuuuu*",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 57
+    }
+  },
+  {
+    "element_id": "c453029b87a7adbb76172e6d432322e5",
+    "text": "Note: Format",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 57
+    }
+  },
+  {
+    "element_id": "373b2f7dff209050c15701f2a9289bcb",
+    "text": "c displays the Command Codes turned off for a particular Unit re- gardless of date of turn off. (List all Dates Turnoff(s) option.) This is a request for display of both System (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 57
+    }
+  },
+  {
+    "element_id": "ea5848655c6fd073905fc1e469f5139b",
+    "text": "days and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 57
+    }
+  },
+  {
+    "element_id": "e9bfef236dd893b7b1a3bb8b6add1e52",
+    "text": "days non-use) and Security Officer Command Code turn-offs (the default if type SYS or SEC is not speciﬁed).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 57
+    }
+  },
+  {
+    "element_id": "e6974761c75d98e0cb2728c792814231",
+    "text": "* is for ″display all dates″ option.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 57
+    }
+  },
+  {
+    "element_id": "4297d12e3e04fb88fe77db3a4a625ee4",
+    "text": "Note: Format 8d displays the Command Codes turned off for a particular Unit re- gardless of date of turn off. (List all Dates Turnoff(s) option.) This is a request for display of only System (90 days and 360 days non-use) or only Security Officer Command Code turn-offs.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 57
+    }
+  },
+  {
+    "element_id": "17be4739cc72bea2a5d9d0fae7fe04b4",
+    "text": "SFINQduuuuunnn (Speciﬁed Time Period Option)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 57
+    }
+  },
+  {
+    "element_id": "02cc020f791cdbd49b1e6761ee415774",
+    "text": "Where:",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 57
+    }
+  },
+  {
+    "element_id": "eee04ee7e3c655afe44a10520c239b2e",
+    "text": "nnn is number of days previous to today’s date.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 57
+    }
+  },
+  {
+    "element_id": "e3529039a975a8e643043780e8c60cd7",
+    "text": "Format 8e displays the Command Codes turned off for a particular Unit during the time period speciﬁed by the user. This is a request for display of both System (90 days and 360 days non-use) and Security Officer Code turn-offs (the default if type SYS or SEC is not speciﬁed).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 57
+    }
+  },
+  {
+    "element_id": "eee04ee7e3c655afe44a10520c239b2e",
+    "text": "nnn is number of days previous to today’s date.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 58
+    }
+  },
+  {
+    "element_id": "5d7f62a2f19476c61162c42a19e019b7",
+    "text": "(05-13-2021)Format9:DisplayPasswordManagementStatusforaunit",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 58
+    }
+  },
+  {
+    "element_id": "dd66362b6975d7ad0e0519e354ad0943",
+    "text": "d is deﬁner W (Shows the Password Management activity status).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 58
+    }
+  },
+  {
+    "element_id": "6329f00f83e0595443e841d435ff6ed4",
+    "text": "Note: Format 9 displays the Password Management status for the unit in alphabeti- cal order.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 58
+    }
+  },
+  {
+    "element_id": "cbac0c33d3848e8e26677f65febb1fc7",
+    "text": "SINON is used to access the IDRS system. SINON is used to retrieve the template or to actually sign on using the CASL macro.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 58
+    }
+  },
+  {
+    "element_id": "31359c7682f01fecfeca2e47cf1b163c",
+    "text": "Security Command Codes Help Guide 2.12.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 59
+    }
+  },
+  {
+    "element_id": "af22582cf0aa37d4e99fb45f10bd37fc",
+    "text": "Note: TRDB users who have dual-SINON capability will receive additional warnings when they sign on to their second terminal. TRDB users must sign off of both terminals individually.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 59
+    }
+  },
+  {
+    "element_id": "c38db1dca8e6c865ae431a1da4c48930",
+    "text": "Note: TRDB users who try to sign on a third terminal without signing off of one of the other two terminals, will automatically be signed off of every terminal and have their Employee Proﬁle locked.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 59
+    }
+  },
+  {
+    "element_id": "578b60084f64c44358d8e67555fab1be",
+    "text": "Note: TRDB users may change their password from either session.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 59
+    }
+  },
+  {
+    "element_id": "6da7dcf187db404ca43ece148cf87159",
+    "text": "Note: If the Multi-Access NULL Status of the user’s Home Location is ’ON’ and the user has only one authorized Foreign Location then the user mode will auto- matically change to the Foreign Location. Refer to Command Codes UPEMP with deﬁner S and CMODE for related information.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 59
+    }
+  },
+  {
+    "element_id": "8677f7ab8959149425335bfc14b03354",
+    "text": "(1) Press F1 Key to bring up the macro. (2) 2: SINON with macro Figure 2.12.2-3 (3) Possible SINON errors: (4) • Both password and signiﬁcant year entered. • Wrong signiﬁcant year. • Non numeric entered instead of a signiﬁcant year. (1) SOMSG updates the message that appears when a user signs on to IDRS. It also can be displayed with the STATS Command Code. - SINON Maintenance Format: SOMSG text line 1",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 60
+    }
+  },
+  {
+    "element_id": "7a3b33532a8ebe14c053b01475fc4a0f",
+    "text": "Security Command Codes Help Guide 2.12.2 page 53",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "8f96aefcc50258e1719cf332d6c18dcc",
+    "text": "Note: Any number of lines, from 1 to 14 may be entered.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "510d37fb56291515b39cbf55637c6947",
+    "text": "Note: The SINON message for a SACS test system should always contain the phrase ″Test System″.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "789b387f93e5e6b05f00406a76f44ad6",
+    "text": ") STATS displays general information relative to the session such as TSID, number, Inf",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "6a719cc84ef6fd563bddf2673eb24546",
+    "text": "onnect ID, date, time, and whether IDRS is up. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "2369bf996d1f73d66ed8a9238a8b7cc0",
+    "text": ") Format: STATS (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "c3c3fae902cb63dc72fbb65686a91f43",
+    "text": "(1) STATS displays general information relative to the session such as TSID, PID number, InfoConnect ID, date, time, and whether IDRS is up.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "4918f73f40e093a29f46df6f903a8d55",
+    "text": "Note: STATS does not require being signed on.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "78240efed99ebd912abe112d73998e4a",
+    "text": "(05-13-2021) SWTCH - Update the Campus Domain Indicator",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "b355e3284852c9d703e5e78663ff1f96",
+    "text": "Note: Format 1 queries status setting of the campus domain indicator.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "16372b45f44b9dc7909a16d04672fb36",
+    "text": "Note: Format 2 sets the campus domain global status ON and OFF.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 62
+    }
+  },
+  {
+    "element_id": "57317cfd72f707edb286c45cb1ff62eb",
+    "text": "UNLEM unlocks an employee who has been locked by the system after a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 62
+    }
+  },
+  {
+    "element_id": "05347811774b034fca427a318c3c2979",
+    "text": "- day period of inactivity. This allows Terminal Security Administrator (TSAs) to unlock system-locked employees without needing to have UPEMP in their proﬁles.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 62
+    }
+  },
+  {
+    "element_id": "f98da602dd0fc1fb6e06a09a011b88f9",
+    "text": "nnnnnnnnnn is the Employee Number.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 62
+    }
+  },
+  {
+    "element_id": "af88eb18883c4b9bc1296d1fac117009",
+    "text": "2.12.2.39 (1) Add or Delete Restriction. (05-13-2021) (2) Display Restriction Record. UPCON - Add, Delete OR Display Restriction Record",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 62
+    }
+  },
+  {
+    "element_id": "ecb8326090ceb5056add33523d0a1469",
+    "text": "P is R (Add a restriction), X (Delete a restriction).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 62
+    }
+  },
+  {
+    "element_id": "7a009a3243deea7eb6df0033346ca365",
+    "text": "Security Command Codes Help Guide 2.12.2 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "a2c6ae4d490d2e9248012f502081bfb2",
+    "text": "PARM is Parameter of command code restriction.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "45659e36042acb98dd10f98dad8960a0",
+    "text": ") UPEMP can change an employee (user) name, their Unit Number, their Programmer type (in Test only), their TRDB status, their Standard Identiﬁer (SEID), or their telephone number. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "874b0b3b90ca57825f96d85a8f7dca1e",
+    "text": ") UPEMP can add / delete Command Code(s) to / from the user’s Proﬁle. option also displays and changes their IMF - BMF status. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "5ef3ccf965514125eaf366cb5a2f09d4",
+    "text": ") UPEMP can lock or unlock a user’s Proﬁle (unlocks system lock, security or self lock) or delete a user. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "04e4ba8a3405a3b5cf594177bb7cd904",
+    "text": ") UPEMP can delete an authorized Foreign Location. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "259d697446c5fc84df1b45e90850b8fb",
+    "text": ") UPEMP can perform workload maintenence functions. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "779d5fcdc6f938f9c718dc2e656a9d9a",
+    "text": ") UPEMP can delete an employee’s proﬁle. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "a7b091a38a0470d62eb409d9c810f444",
+    "text": ") Employees’ access to multiple databases is controlled by using UPEMP to Foreign (secondary) Locations. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "e9a8b96e9c5974d0c98b6d4bb98bd6f7",
+    "text": ") Multi-Access employees can have their Command Code Proﬁle set to their Home Campus. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "f37fdba533df42c668fb4a607819cf44",
+    "text": ") Change an employee (user) name, their Unit Number, their SAT or mer type (in Test only), their TRDB status, their Standard Employee (SEID), or their telephone number",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "b6ee96131465048125b8e1e685271937",
+    "text": "(05-13-2021) UPEMP - Update Employee",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "cf7f1d3675ff5e488e8f1603b4eb3e75",
+    "text": "ffff is the ﬁrst name (min of 1 character and max of 15).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 64
+    }
+  },
+  {
+    "element_id": "e1787cbd27667f5527a1bdf68228e0d3",
+    "text": "Note: Format 1a changes the user’s name. Use of UPEMPC is restricted Security Officers in units 930 and 931.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 64
+    }
+  },
+  {
+    "element_id": "2cb7324b579b4a3f3607269a37814c83",
+    "text": "uuuuu is the Unit Number.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 64
+    }
+  },
+  {
+    "element_id": "0fea7e96f64b7199229f87c704dcd5cd",
+    "text": "Note: Format 1b changes the employee’s Unit Number. The Command Codes in the UCCP of the new Unit are inserted into the user’s Proﬁle as designated by the deﬁner. (If left blank, no Command Codes will be in the user’s Proﬁle.)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 64
+    }
+  },
+  {
+    "element_id": "47fbb96001b3f0367d3083dfa4d2d9b8",
+    "text": "Security Command Codes Help Guide 2.12.2 page 57",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 65
+    }
+  },
+  {
+    "element_id": "c341478a2885614c85268278918eaf7f",
+    "text": "sss-ss-ssss is the Social Security Number.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 65
+    }
+  },
+  {
+    "element_id": "7d33a76c1ff282fad0120bc1e2e53e5b",
+    "text": "Note: Format 1c changes a user’s access type.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 65
+    }
+  },
+  {
+    "element_id": "eebac45864531ed83e8c61b035aa1f8c",
+    "text": "Note: Access types SAT and PRG are restricted to the SACS Test systems.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 65
+    }
+  },
+  {
+    "element_id": "3e81227bb449d60cba2e29c0269c3cc9",
+    "text": "Before you can set an employee’s access type to TRB, you must ﬁrst their Unit to TRDB=YES. (UPUNT with deﬁner ’T’.)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 65
+    }
+  },
+  {
+    "element_id": "c3dbc21dcdb74986e05d3594e56538a8",
+    "text": "Note: When employees are moved to non-TRDB units, their access type is auto- matically set to TRX.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 65
+    }
+  },
+  {
+    "element_id": "c341478a2885614c85268278918eaf7f",
+    "text": "sss-ss-ssss is the Social Security Number.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 65
+    }
+  },
+  {
+    "element_id": "feb3d168a71ed11449e3b2f9d7e8333a",
+    "text": "ttt-ttt-tttt is telephone number (must include area code and dashes).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "8e735fd91ea52324ba905a893cc63082",
+    "text": "MGR is manager literal {optional}.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "549b5999bc69d66ec02d46ea42e36520",
+    "text": "Note: Format 1e changes the telephone number for the owner of the input Social Security Number.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "3338e3eb2e1a29af3fe79b990d3d522b",
+    "text": "Add / delete Command Code(s) to / from the user’s Proﬁle. This option displays and changes their IMF - BMF status",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "a7d0c89a65eef418d4b5054c06d82757",
+    "text": "1 is to add command code.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "b6f591423c531849e80f1d3c2be80b09",
+    "text": "Note: Format 2a adds or deletes Command Code(s) from the user’s Training or Production Proﬁle.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "31359c7682f01fecfeca2e47cf1b163c",
+    "text": "Security Command Codes Help Guide 2.12.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 67
+    }
+  },
+  {
+    "element_id": "cdc3d25d2785886f174f7202357a2797",
+    "text": "Note: Format 2a changes the user’s File Access Restriction between IMF only (I), BMF only (B), or unrestricted (P) while adding/deleting Command Codes.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 67
+    }
+  },
+  {
+    "element_id": "d0b772e65bd941534389c2cec02e72b0",
+    "text": "Note: Format 2b changes the user’s File Access Restriction between IMF only (I), BMF only (B), or unrestricted (P) with no changes to Command Codes.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 67
+    }
+  },
+  {
+    "element_id": "574ff4cde19306057570154887772d54",
+    "text": "(1) Lock or unlock a user’s Proﬁle (unlocks system lock, security lock, or self lock) or delete a user",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 67
+    }
+  },
+  {
+    "element_id": "8e8e06a145120982247f9fce24d96764",
+    "text": "Note: Format 3 locks or unlocks a user’s Proﬁle. The lock feature sets the ″security lock″. The unlock feature cancels all lock types (system lock, security lock, or self lock). The delete feature removes a user from the system.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 67
+    }
+  },
+  {
+    "element_id": "2760edd6141f54e167e7c154a4a64a3a",
+    "text": "(05-13-2021)Format4:Delete an authorized Foreign Location",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 67
+    }
+  },
+  {
+    "element_id": "0c1538bd7c561e340b273273e3175318",
+    "text": "Note: Format 4 removes an authorized Foreign Location.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 68
+    }
+  },
+  {
+    "element_id": "9e63f60a06336b31288118348f9976d8",
+    "text": "2.12.2.40.5 (05-13-2021)Format5:Performworkloadmaintenencefunctions",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 68
+    }
+  },
+  {
+    "element_id": "ef45abed0d7e8db103676d367b5e428c",
+    "text": "W is Deﬁner W (Workload Maintenance).",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 68
+    }
+  },
+  {
+    "element_id": "094fd1fa78b0ebd0d69dd2b00e976fa1",
+    "text": "n indicates which slot number to be used for the Positive SSN. This number can be one or two digits between 1 - 15 followed by a slash(/); ex. 1/ or 01/ or 15/ not 015/.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 68
+    }
+  },
+  {
+    "element_id": "0383c82f120da34b22b8303199a1b005",
+    "text": "Note: Format 5a displays the Positive Workload Maintenance List for the employee whose SSN is listed.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 68
+    }
+  },
+  {
+    "element_id": "7a009a3243deea7eb6df0033346ca365",
+    "text": "Security Command Codes Help Guide 2.12.2 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 69
+    }
+  },
+  {
+    "element_id": "4af072c5cf5ebfc5d7cbad66b45f7b7e",
+    "text": "delete). To add or change, type the slot number and a slash followed by the SSN to be added or changed. To delete, type the slot number and a slash. Any slot number not listed will remain unchanged.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 69
+    }
+  },
+  {
+    "element_id": "ac7e9988d8112dfb555923917877b4a9",
+    "text": "2.12.2.40.6 (05-13-2021)Format6:Delete an employee’s proﬁle",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 69
+    }
+  },
+  {
+    "element_id": "07a32d998a0575487f803eaf13eeffa7",
+    "text": "UPEMP sss-ss-ssss nnnnnnnnnn",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 69
+    }
+  },
+  {
+    "element_id": "c24708dd0c8ec853ec0629060a09574a",
+    "text": "Format 6:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 69
+    }
+  },
+  {
+    "element_id": "0018df05ec59cd8b6801eb895fda48aa",
+    "text": "Format 6 removes an employee proﬁle. User can not be deleted if in active (signed on) IDRS session. .",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 69
+    }
+  },
+  {
+    "element_id": "5aee4f76dfe1b385bdf4b6edf82986e3",
+    "text": "oi is Office ID of the desired location (1 to 15 may be",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 69
+    }
+  },
+  {
+    "element_id": "2f343666aaa88c44430b12e6ab8a2959",
+    "text": "Format",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 70
+    }
+  },
+  {
+    "element_id": "ef9a9e129aec55204e3e7e2c7c412b6b",
+    "text": "authorizes access to Foreign Locations for the owner of the input Social Security Number. Up to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 70
+    }
+  },
+  {
+    "element_id": "d6bbc888a04c7acbb4b35e989444c192",
+    "text": "Foreign Locations can be added. The Office Identiﬁer (OID) entered must not be the same as the SSN owner’s Home Location OID, and no duplicate Foreign Location OIDs can be installed.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 70
+    }
+  },
+  {
+    "element_id": "48eebfcf9f5cd3819db358f97bbbbed3",
+    "text": "If the employee is signed on during this transaction, the employee will imme",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 70
+    }
+  },
+  {
+    "element_id": "ab7d867a25a43e66f3c35e7a08676f39",
+    "text": "diately be able to determine the authorization via the SFDIS command. However, the employee will not be able to change mode (CMODE) until the next SINON. The employee should be advised to SINOF and then SINON if this activity is required immediately.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 70
+    }
+  },
+  {
+    "element_id": "c453029b87a7adbb76172e6d432322e5",
+    "text": "Note: Format",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 70
+    }
+  },
+  {
+    "element_id": "4173cac0f8750004090a948c552c6f85",
+    "text": "changes the NULL Status of the employee’s Home Command Code Proﬁle to ON or OFF. ON prevents employees from using their Command Codes at their Home Location, so that they may only access Foreign Locations. An employee with a NULL Proﬁle can still use SINON, SINOF, STATS, and CMODE at their Home Location. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 70
+    }
+  },
+  {
+    "element_id": "689d72195fb19f9dba1695d4cb06a76d",
+    "text": ") UPHST displays or changes the list of Command Codes in a host proﬁle. This feature controls the cross-routing of Command Codes from host to host. A may only forward Command Codes which are on its authorized list. There is an additional feature that allows the updating of all ten IDRS hosts with the inputting of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 70
+    }
+  },
+  {
+    "element_id": "2c38e6500bc25124d655bb28323020ce",
+    "text": "transaction.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 70
+    }
+  },
+  {
+    "element_id": "31359c7682f01fecfeca2e47cf1b163c",
+    "text": "Security Command Codes Help Guide 2.12.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 71
+    }
+  },
+  {
+    "element_id": "36fdc38529adb6d0026da38cd3e9cc7e",
+    "text": "(1) Display the current list of Command Codes authorized for a given host",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 71
+    }
+  },
+  {
+    "element_id": "332bc9124fd6ce7ec9ab3031f054fe10",
+    "text": "(1) Add or delete up to a full screen of Command Codes from the host proﬁle",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 71
+    }
+  },
+  {
+    "element_id": "82a9eac441202a0aa433f0e372b8ced3",
+    "text": "(05-13-2021)Format2:Add or delete up to a full screen of Command Codes from the host proﬁle",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 71
+    }
+  },
+  {
+    "element_id": "3472bdf56df3e9d76bd8b6d61e5235ab",
+    "text": "Note: Format 2 adds or deletes up to a full screen of Command Codes from the host proﬁle. If a host needs more than a screen full of Command Codes, a subsequent UPHST entry is used.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 71
+    }
+  },
+  {
+    "element_id": "807b90a774a7997da316fc1e6299f904",
+    "text": "Note: Hosts have Production proﬁles only; there are no Training proﬁles for hosts.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 71
+    }
+  },
+  {
+    "element_id": "3be990258ad5d92723e0e210ccd18c17",
+    "text": "Update all ten IDRS hosts with the inputting of 1 transaction",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 72
+    }
+  },
+  {
+    "element_id": "7a009a3243deea7eb6df0033346ca365",
+    "text": "Security Command Codes Help Guide 2.12.2 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 73
+    }
+  },
+  {
+    "element_id": "5dec98e136003014460582abd7008841",
+    "text": "1 is to add a Command Code.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 73
+    }
+  },
+  {
+    "element_id": "a77a20d2721ab18830d742e6c79605e6",
+    "text": "Note: If Command Code(s) are deleted from the MPAF, the Command Code(s) will immediately be removed from the associated UCCP. The Command Code(s) will be removed from all of the user’s Proﬁles in the Unit at the end of day",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 73
+    }
+  },
+  {
+    "element_id": "930000f72db144fe95b0f2c0d11f6b6c",
+    "text": "Format 2:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 73
+    }
+  },
+  {
+    "element_id": "a1a678d0e476112e0cd7be5afad12946",
+    "text": "UPMAFLuuuuu x uuuuu x uuuuu x uuuuu x uuuuu x",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 73
+    }
+  },
+  {
+    "element_id": "6a1d0ee95febf94f64c9e1a04d34a6c2",
+    "text": "uuuuu is the Unit Number (up to 5 units).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 73
+    }
+  },
+  {
+    "element_id": "bd8d739b5eea394c5bff2e6aab6b78a3",
+    "text": "x is L for lock or U for Unlock.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 73
+    }
+  },
+  {
+    "element_id": "a347def9d686ec01ad7c1cca904097c3",
+    "text": "Note: This format allows for the locking and unlocking of up to 5 units. The purpose of locking a unit is that no employees can be added to the unit, moved in or from the unit. Employees may be deleted from a locked unit. The SFINQM and SFINQU screens now include information on the current lock status. The literal LOCKED =YES or LOCKED = NO appears on the second line. The default is ″No″.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 73
+    }
+  },
+  {
+    "element_id": "35292b8a450ebaab0d36a1470e7c7447",
+    "text": "This format allows for the locking and unlocking of up to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 73
+    }
+  },
+  {
+    "element_id": "b6b92df1d810d8ed7a037328208e5b4d",
+    "text": "units. The purpose of locking a unit is that no employees can be added to the unit, moved in or from the unit. Employees may be deleted from a locked unit. The SFINQM and SFINQU screens now include information on the current lock status. The literal LOCKED =YES or LOCKED = NO appears on the second line. The default is ″No″.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 73
+    }
+  },
+  {
+    "element_id": "f9b12f98ea14ff0d5392f465d4c54d3a",
+    "text": "Note: The following error: UNITS WITH # ARE INVALID OR IN ERROR - UNITS WERE PROCESSED will result for these conditions.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 73
+    }
+  },
+  {
+    "element_id": "ea1bb88b3dd85152793a55d96e5b630f",
+    "text": "2.12.2.43 (05-13-2021) UPTRM - Update a Terminal",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 73
+    }
+  },
+  {
+    "element_id": "b0046da46e6940ea5d1bfae82123e259",
+    "text": "UPTRM changes the permanent or temporary Time On/Off parameters for terminal.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 73
+    }
+  },
+  {
+    "element_id": "5a8aab055bb4d60ba3a1974748cf77e4",
+    "text": "Note: Temporary changes can only be made to the Time Off parameter. (The temporary Time Off expires at 2400 Midnight). The asterisk must follow the Time Off for temporary entries.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 73
+    }
+  },
+  {
+    "element_id": "5dec98e136003014460582abd7008841",
+    "text": "1 is to add a Command Code.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 74
+    }
+  },
+  {
+    "element_id": "270d4e75fac008eaa15bd61f78b001be",
+    "text": "Note: When adding Command Code(s) to the UCCP, the MPAF is updated with the Command Code(s) immediately. The added Command Codes will be added to all of the user’s Proﬁles for that Unit at the end of day during record main- tenance.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 74
+    }
+  },
+  {
+    "element_id": "544f4b166de4577519f347cbfa78023b",
+    "text": "= employees not limited to tax accounts on their Accounts List.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 74
+    }
+  },
+  {
+    "element_id": "ed6acf47957c917394d9a7975583f6f1",
+    "text": "Note: Format 2 turns on/off Workload Management for a Unit.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 74
+    }
+  },
+  {
+    "element_id": "7a009a3243deea7eb6df0033346ca365",
+    "text": "Security Command Codes Help Guide 2.12.2 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 75
+    }
+  },
+  {
+    "element_id": "b11d175d74aec99028bab5b12e203e50",
+    "text": "Note: The workload parameter may be set to ″Yes″ or to ″No″ at any time without regard to its current setting. If, for example, it is set to ″YES″ for a Unit which is already ″YES″, the entry will be accepted with no error reported.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 75
+    }
+  },
+  {
+    "element_id": "3e18de1af534a94b78853c82e3d78b64",
+    "text": "Allow or disallow rerouting also known as Universal Access for a",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 75
+    }
+  },
+  {
+    "element_id": "aebb4f4f449a7eac4733f3b928bbddb2",
+    "text": "R is deﬁner to change a Unit’s re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 75
+    }
+  },
+  {
+    "element_id": "a2b49833fadf56a92d5cdbf74f9245b0",
+    "text": "routing privileges or access to another Campus’ IDRS database. uuuuu is the Unit Number. [YES/NO] is required parameter. YES = this Unit may access another Campus’ IDRS database. NO = this Unit may NOT access another Service",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 75
+    }
+  },
+  {
+    "element_id": "5f5034e07e7f4a5f8ba1dce75ea52ec1",
+    "text": "NO = this Unit may NOT access another Service IDRS database.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 75
+    }
+  },
+  {
+    "element_id": "28ee6f171f956e5eedd7d80ffccdcaf0",
+    "text": "Note: Format 3 turns on/off Universal Access for a Unit.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 75
+    }
+  },
+  {
+    "element_id": "e9a4baad01954e84c3b1806a47900e6a",
+    "text": "2.12.2.44.4 (05-13-2021)Format4:Enable or disable TRDB dual SINON for a Unit",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 75
+    }
+  },
+  {
+    "element_id": "eeacf49b075097712ffa7cc2e5e6d91b",
+    "text": "Note: Employees are not automatically enabled for dual SINON when this parameter is set to YES, but the Unit must be enabled ﬁrst before UPEMP will allow this access to be given to individual employees in the Unit.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 75
+    }
+  },
+  {
+    "element_id": "33c1e29902d678cbcff13d561dbfd825",
+    "text": "This Page Intentionally Left Blank",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 76
+    }
+  },
+  {
+    "element_id": "32eaf9c66d0b754a63c977028b8531eb",
+    "text": "Security Command Codes Help Guide 2.12.2 page 69",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 77
+    }
+  },
+  {
+    "element_id": "945e5f13960ab82b6e7920f97aa0ea94",
+    "text": "Exhibit 2.12.2-1 (05-13-2021) Appendix A: Operator Type Codes and units (for ADDEM)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 77
+    }
+  },
+  {
+    "element_id": "17f415fb30ba2ca53a77b0312713e9ad",
+    "text": "Each Operator Type Code is only valid for the corresponding listed designated units associated to location code/Office Identiﬁer (OI) of 98 and 99 ONLY.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 77
+    }
+  },
+  {
+    "element_id": "a6a6416ebd270ac49bed810813b461ff",
+    "text": "Note: 5 digit Unit number is made up of 2 digit location code/Office Identiﬁer and 3 digit Organization number.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 77
+    }
+  },
+  {
+    "element_id": "c62d2120ed2e3a6f041917cfd7382b89",
+    "text": "Note: nn below can be 98 or 99 only.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 77
+    }
+  },
+  {
+    "element_id": "db6fd94892563178612bf3a05bbb878a",
+    "text": "Operator Type Code Unit Operator Type Description IRSOPR nn940 COMPUTER OPERATOR IRSCOM nn941 COMMUNICATIONS IRSCSA nn942 COMPUTER SYSTEMS IRSAPL nn944 APPLICATIONS IRSSYS nn945 SYSTEMS IRSAUD nn946 AUDITOR IRSFTP nn947 FTP OPERATOR IRSOCC nn948 OCC OPERATOR IRSAUT nn949 AUT OPERATOR",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-012-002--2021-05-13.pdf",
+      "page_number": 77
+    }
+  }
+]

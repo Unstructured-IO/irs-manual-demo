@@ -1,0 +1,2567 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "b2529b415fe4ab614d1f45ea7581c19f",
+    "text": "Minor editorial changes have been made throughout this IRM. Also, website addresses and references were reviewed and updated as necessary.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a1b40e038bdc5b977a8b1949ee8bcf21",
+    "text": "This material supersedes IRM 4.10.16, dated January 02,",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "412b115881591f2ca2198b54ce85e7eb",
+    "text": "Employees in the Small Business and Self-Employed (SB/SE), Large Business and International (LB&I), and Governmental Entities (TE/GE), and Wage and Investment (W&I) operating divisions who of income tax returns (Forms 1040, 1120, 1120S, and 1065).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "9018bbf6714bf2dbaefc499f0b43c7d6",
+    "text": "Lou Ann Kelleher",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "384fbb6a4547b843bed5f1cba09e8281",
+    "text": "Examination Operational Automation Database (EOAD) 4.10.16 page 1",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f2c16cd8fde26020ca07d5b12ed7380d",
+    "text": "Operational Automation Database (EOAD)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "01ad5930c042a26e0c0d066bdad4a16f",
+    "text": ") EOAD provides data that tracks examination results by issue. This used to enhance the ability to identify specific areas of non-compliance Operational on examination results and track the effectiveness of the examination cation process. EOAD is used to track examination results for National Research Project (NRP) examinations and analyzed by the countability Office (GAO) and Treasury Inspector General for Tax Administration (TIGTA) as part of their audits of IRS examination addition, EOAD data is used to fulfill disclosure of examination results agreements with state and local taxation agencies. Therefore, it is that data inputs are accurate. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "13aef1355ef31d169ffe96f40f8c0f8a",
+    "text": ") Data is captured by Small Business/Self-Employed (SB/SE), Large International (LB&I), and Wage & Investment (W&I) examiners for tions of all Forms",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b4817ab6c9b4e6c1fc794f044b26c8fd",
+    "text": "S, and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "af6170b33c847ef5c0610f79e49a3141",
+    "text": "using Report Software (RGS) and Issue Management System (IMS) software. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "daee62cf8117f7e9784022933b88751b",
+    "text": ") The focus of this IRM is on data entries in RGS and IMS that are EOAD but generally do not affect tax computations. It is very important examiners take great care in properly entering EOAD data since there subsequent review process to correct EOAD errors. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "335c9f8f9bbd3d59a1ff36f2d19ab1f3",
+    "text": ") Capture of EOAD data is mandatory for all examinations of Individual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "989ce61996d130432e56c5596573decc",
+    "text": "), Corporate (Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a11d98053986e748d84d82c8bb08a90e",
+    "text": "), S Corporation (Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "47fd13872069789d9fa5a9d92266a959",
+    "text": "S), and for (Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "de17c3635bb47a2b4d4a98195a8fbb33",
+    "text": ") returns. EOAD (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a4a031ceb331a9b857e0b22252c27e5c",
+    "text": ") EOAD data must be entered for all examined issues, both adjusted adjusted items, as well as all classified issues including those that are changed or subsequently declassified. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1162351dc62ead737c3ec520e8b6cab0",
+    "text": ") EOAD data is captured by RGS from examiners’ inputs on the screens in RGS: Data (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "bdc66a5600269c6a6732113fbba50c36",
+    "text": ") Create Case screen (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e3489920780c68858844e53ae2af3ad6",
+    "text": ") Case Information screen (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "342faf86e3d37ac373ed8f76efe653eb",
+    "text": ") Contacts screen (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "00d25597f0202642c58cdb83ad6d9327",
+    "text": ") Issue screen (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "97bb514ccca47de3ec3ce9532cfa9838",
+    "text": ") Tax Computation (IMF) and Create Report (BMF) screens (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "02ccbdce09e0957f99cc631744f41f33",
+    "text": ") Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a0ec1ff22b659610fcf5e590b34f6716",
+    "text": "(cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "aac8c28feff42f6f70b7e75d9c89f29a",
+    "text": ") Compliance Evaluation screen (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5f8e4f054ba0294fc4a6eb6e480d552e",
+    "text": ") Create Case screen - the following data is captured: (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ac19cc6db01ff8075538e65edb4b513a",
+    "text": ") Taxpayer identification number (TIN) Case (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "023269ac91089aa4635cf0f3f1f3de2e",
+    "text": ") Secondary social security number (SSSN) and (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d532f72fb7a84749d200d2d3c80ee0e3",
+    "text": ") Form type (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "011746f4f0288d1ae822d40cb0f2545f",
+    "text": ") Master file tax (MFT) code (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e303ec78ee0ac79d8f21529a6ec34698",
+    "text": ") Tax period (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d120280d527c6b35c37cab4c8b88b3ba",
+    "text": ") Source code (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f17915f3b87a2f5cb27aacde92aee267",
+    "text": ") Activity code (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e996d97ede64fb72af00c5ae1b5223c1",
+    "text": ") Project code (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c073107eee5f12dea1c18fd027e916dd",
+    "text": ") Tracking code (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a0ac1b59c8dc92d09e708f0b51948067",
+    "text": ") Post of duty (POD) code (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8eaf753f3adb20bf9703c971bbb1400f",
+    "text": ") Audit Information Management System (AIMS) assignee codes (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "bf5d956f5f7d0c4e9cb9fa2390c715cd",
+    "text": ") Case Information screen - the following data is captured: (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d6a0e5d9b16c137a778f2bcc9e06d4ea",
+    "text": "EOAD data is captured by RGS from examiners’ inputs on the following screens in RGS:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4ad65ba2b33fd1e53c660b644c85ad09",
+    "text": "Information screen - the following data is captured:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d9b246b5bc88265cb7bd62e00696bd3c",
+    "text": "Examination of (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e76705c002631aa790ad5b8bd76c73d4",
+    "text": ") Name (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e54dd42de0e7ab0f2837296c02726f92",
+    "text": ") Address (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8fb4bc0e86674bb631d9e4e0b74bce8b",
+    "text": ") Filing state code (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "db536d2ef73683146bc38e2fbcfbfa48",
+    "text": ") Filing zip code Based on the examiner’s inputs in: (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d95d9ad0baccb122dbb2922290dff41a",
+    "text": ") Return due date (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e94f599b22399928c61614d7f7f1f8f7",
+    "text": ") Extended due date (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "fb78739eade987c18775535811443518",
+    "text": ") Received date (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "52cab379bc97b8aefab95a73e243a381",
+    "text": ") Substitute for return checkbox RGS will generate a delinquency indicator for EOAD to indicate: (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "adc7ecdde3b4249c2cf43b7fa767252a",
+    "text": ") The return was filed timely (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c39e3c577a1d37f48471e980bfc8f7b0",
+    "text": ") A valid extension was filed (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "891600254869cfe12ab1880ec102da85",
+    "text": ") The return was delinquent (filed late) (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a7eaea4daaacf74fe0ed7596b855813e",
+    "text": ") A return was not filed (i.e. substitute for return cases) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8319fd50450924a68aa42f562c24bbd6",
+    "text": ") Contacts screen - captures identification and contact information for the preparer and representative(s). The proper completion of this information allows the ability to identify and address egregious return preparers. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "0735d953d021b9b676bc0e618b3896d9",
+    "text": ") The examiner creates issues in RGS using the drop down “Actions” menu to select the option that best describes the issue. The menu options are: (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "bfbca5c85bcc2032663e0554a376686f",
+    "text": ") New Issue – This is an issue that has been identified by the examiner has determined that it warrants additional inspection. New Issues are not Classified Issues nor are they directly related to a Classified Issue. (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5f797f64f1dcde8f8a4c73897278616e",
+    "text": ") New Classified Issue – This is an issue that has been identified through the issue classification process and appears on a Classification Check Sheet. All Classified Issues must be added and commented upon even if they are subsequently declassified. If a Classified Issue is declassified, check the declassified box on the issue adjustment screen. Add an ment record with the issue categorized as though it was examined. Enter the issue amount from the return in both the Per Return and Per Exam fields and select a Declassified Issue Reason Code. (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "397a598be3f6d200136efb23a40de602",
+    "text": ") New Issue Resulting From Classified Issue – This is an issue that can be directly traced back to a classified issue. For example, a classified balance sheet item could lead to one or more profit and loss items. These subsequent Profit and Loss issues would be identified as New Issue Resulting From Classified Issue. (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f5bc9afa5b2bd86f25be97adbca99a34",
+    "text": ") New Mandatory Issue – There are as many as eleven mandatory issues for business cases that are auto-generated when the case file is created RGS. Mandatory Issues, such as for changes to income or cost of sales, should never be used to report adjustments. Note: Issues from different lines on a tax return must be created separately using the appropriate issue code and should not be combined.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "02d083896487edc3e1919c177e7e79f0",
+    "text": "screen - captures identification and contact information for the return and representative(s). The proper completion of this information the ability to identify and address egregious return preparers.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1ba9b2ecd3fd56b5008cb44053680b57",
+    "text": "allows the ability to identify and address egregious return preparers. The examiner creates issues in RGS using the drop down “Actions” menu to select the option that best describes the issue. The menu options are: (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "df23060eb6021bf3b614bc802aa940a5",
+    "text": ") New Issue – This is an issue that has been identified by the examiner who has determined that it warrants additional inspection. New Issues are not Classified Issues nor are they directly related to a Classified Issue. (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "764b4785876cebf811963959bd8bb8e4",
+    "text": ") New Classified Issue – This is an issue that has been identified through the issue classification process and appears on a Classification Check Sheet. All Classified Issues must be added and commented upon even if they are subsequently declassified. If a Classified Issue is declassified, check the declassified box on the issue adjustment screen. Add an adjust- ment record with the issue categorized as though it was examined. Enter the issue amount from the return in both the Per Return and Per Exam fields and select a Declassified Issue Reason Code. (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "397a598be3f6d200136efb23a40de602",
+    "text": ") New Issue Resulting From Classified Issue – This is an issue that can be directly traced back to a classified issue. For example, a classified balance sheet item could lead to one or more profit and loss items. These subsequent Profit and Loss issues would be identified as New Issue Resulting From Classified Issue. (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "689b69769fb4af1582d3c47c26e1ad37",
+    "text": ") New Mandatory Issue – There are as many as eleven mandatory issues for business cases that are auto-generated when the case file is created in RGS. Mandatory Issues, such as for changes to income or cost of sales, should never be used to report adjustments.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "dda3ad11a691a914caca5c234218774f",
+    "text": "The examiner creates issues in RGS using the drop down “Actions” menu to select the option that best describes the issue. The menu options are:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4bb9c806a0f2c208e52dc42ab4b42240",
+    "text": "Once an issue is added, the examiner uses a pull down menu in the IMF Code field to identify the issue. See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4cc3612d5ee257018062d5d06c573d5b",
+    "text": "for a complete list of Issue Codes. The initial drop down menu selections are:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "040e7ccbd9eb0d7df570cf934eb64cdf",
+    "text": "(2) Once an issue is added, the examiner uses a pull down menu in the IMF Code field to identify the issue. See Exhibit 4.10.16-1 for a complete list of IMF Issue Codes. The initial drop down menu selections are:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "030331078b6bc39409b25126fad9e24a",
+    "text": "Automation Database (EOAD)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "de8d4c2ebbb961563c3bcf009d958bff",
+    "text": "page (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "922638f3135f183443299ad3b1c6f8cf",
+    "text": ") Premium Tax Credit and Health Care (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2605d92f73600048ea4789f70e40e5c6",
+    "text": ") Schedule A (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "36739116a3559a62c4c4bcf7387eff10",
+    "text": ") Schedule C (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "7887f218ff92a94de1ccfcf9ea0e39b4",
+    "text": ") Schedule D (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a8605203a731e86e6ccc254cf919099a",
+    "text": ") Schedule E (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "150b39094c9b2e73046c682c86165b71",
+    "text": ") Schedule F (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "02ccbdce09e0957f99cc631744f41f33",
+    "text": ") Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a0ec1ff22b659610fcf5e590b34f6716",
+    "text": "(cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "075c4b2c7022a2a492fc4042bdece5b0",
+    "text": ") Generic Income, Expense and Tax Credits (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "c0d0c818a88fa87b3af0e2ee0055f3a3",
+    "text": "- Statutory Adjustment (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2aa96ba9fbb7bca05b344528dee4ab3b",
+    "text": "- Impact of D",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f3ec01abfaadce8ae8813d00497f2dbe",
+    "text": "inimus Issues (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "1a3cb18ca58fbe1901900cbd91b08c33",
+    "text": ") Campus/Service Center (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f6afe1e8a06d30f26b02a2d8884040e7",
+    "text": "NRP - Q Table (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "e6be060a76d010be8bd837d77c012b59",
+    "text": "- Change/No Change (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "918de23a19ba354ed8b31ca31839bb83",
+    "text": ") Miscellaneous Issues (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d9ed3f82c150d419828f936342310241",
+    "text": ") BMF issues are identified using the drop down menus in the SAIN, Standard Audit Index Number, field. See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "c70869aa4b5e18a4460e30cecf0aed26",
+    "text": ", and Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "51a5658a0726d1c99d471a4503afbf3a",
+    "text": ", re- spectively, for complete lists of sub-chapter S and partnership SAIN Codes. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "8d680d4a69ea450daf7a1709b6754371",
+    "text": ", LB&I Guide for Quality Examinations, for a complete list of Corporate SAIN codes. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "04f9ac5d91f5e282b8190b2180e665f3",
+    "text": ") Once issues are identified, the Issue Adjustment screen is accessed using “Add” function box. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "149ac3eb86dc81efa2d5f99b377f85bb",
+    "text": ") To promote accuracy and reduce time spent, EOAD fields should be concurrently with the examination of issues to the greatest extent possible. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "819de4034cda9f881efd2973be257bbb",
+    "text": ") The following fields are captured by EOAD on the Issue Adjustment screen: a. Categorization - this selection determines how RGS will calculate the resulting from the adjustment. A “RGS Issue Reference Guide” is for download at the RGS website http://mysbse.web.irs.gov/examination/ rgs/resources/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "94f9dfa7919535a699e3736a5290fbd1",
+    "text": "aspx. This guide provides detailed instructions to examiners on how to properly categorize an adjustment based upon the IMF Issue Code selection to ensure RGS performs a proper tax calcula- tion and that accurate EOAD data is captured. b. Per return, Per exam amounts. c. Reason Code – a two-digit code that identifies the reason for the adjust- ment, why the issue was no changed, or declassified. The examiner should follow the drop down menus in RGS to select the code that best describes the reason the issue was or was not adjusted. See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b7781b13512dce3ad9707a9ecf5b7256",
+    "text": "(MM-DD-YYYY) Note: Adjustments to Earned Income Credit issues or originating from Flow Through Entities require the selection of specific Reason Codes. Reason Codes for adjustments from Flow Through Entities are further divided to identify the case as either NRP or Non NRP. For all other issues, select the code that best fits the reason the issue was or was not adjusted. d. Uniform Issue List (UIL) Code - SB/SE examiners are not required to complete this field. e. Rental Type Code – This field is completed for Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "226f249f3f56a9d27ceb947e6b8a0003",
+    "text": "- Schedule E Rental Issues only in RGS. The drop down menu for this field is only activated on issues with Schedule E - Rental IMF Issue Codes. Select code that best describes the rental from the categories Residential, Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2bf80a3ebdc1b9a25b48bd83ee3f61d0",
+    "text": "Operational Automation Database (EOAD) 4.10.16 page 3",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d66561aadaf1910798f9087170a69129",
+    "text": "4.10.16.1.2.3 (03-23-2016) Issue Adjustment Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "6751cf93b0a90bb45f97132ec7644bd6",
+    "text": "To promote accuracy and reduce time spent, EOAD fields should be concurrently with the examination of issues to the greatest extent possible.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d33160f6eca79f55d2c23735d3b5cdb3",
+    "text": "following fields are captured by EOAD on the Issue Adjustment screen:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2fb902735190e4fd2b2f48b3871a8010",
+    "text": "Adjustments to Earned Income Credit issues or originating from Flow Through Entities require the selection of specific Reason Codes. Reason Codes for adjustments from Flow Through Entities are further divided to identify the case as either NRP or Non NRP. For all other issues, select code that best fits the reason the issue was or was not adjusted.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "7d2b0d93c81dac315753dc85d818bf2f",
+    "text": "code that best fits the reason the issue was or was not adjusted. d. Uniform Issue List (UIL) Code - SB/SE examiners are not required to complete this field. e. Rental Type Code – This field is completed for Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2700ee054e77c0e69cd937b18343d393",
+    "text": "- Schedule E Rental Issues only in RGS. The drop down menu for this field is only activated on issues with Schedule E - Rental IMF Issue Codes. Select the code that best describes the rental from the categories Residential,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "44006534a2e8f0c6bb7cb76a3d9ace14",
+    "text": "Vacation, or Commercial Rental. See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "70d20295166a434e56d00014bf88e79a",
+    "text": "for a complete list of Rental Type Codes. f. PBA/NAICS Code Per Return (Issue) – For all Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "042403a72f080824ed13cf6af0feb89e",
+    "text": "Schedule C F and all Forms",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "4aa9bfd2f175a94ad5a7cb321e1aea97",
+    "text": ", and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8e895fb68ee3e8e4288b3ddc8b1d53c2",
+    "text": "S issues, this field should be completed to reflect the code as reported by the taxpayer. The North American Industry Classification System (NAICS) will be used for returns for tax periods after",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "9c2041003d574633940508773412c4d6",
+    "text": "The Primary Business Activity (PBA) Codes will be used for tax periods prior to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "225d24aca867bf7e81a926dab2f69140",
+    "text": "The four-digit PBA Code should be expanded to six digits by placing two zeroes (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "267e7e1204bc01c1f648b7d3288567e0",
+    "text": ") before the code. g. PBA/NAICS Code Per Exam (Issue) – For all Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ad737d44746d99326da6ed0f604cc560",
+    "text": "Schedule C or F and all Forms",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "4aa9bfd2f175a94ad5a7cb321e1aea97",
+    "text": ", and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "6ef004597983693a450e8c1d8de7b266",
+    "text": "S issues, enter the NAICS code from the series of pull down menus that best identifies the type of business for the issue being examined. NAICS codes will be used for returns for tax periods after",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f9b7ceb313a9accfedae31167fddd928",
+    "text": "PBA codes will be used for tax periods prior to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "980ac5e4032d56a6358d70cbba8669d7",
+    "text": "The four-digit PBA code should be expanded to six digits by placing two zeroes (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "95ef4722543fffb8f05cc56a14d58d73",
+    "text": ") before the code. Code “",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "04e1e7635c1cfbc08ddd69895cb4857e",
+    "text": "” should be selected for issues involving Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "558690aaef2b515ef7bed64a557ac532",
+    "text": "Schedule E income subject to self-employment tax.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "0ead0ca68814752445404276c3fe6762",
+    "text": "Note: If the examiner is fully disallowing the schedule or return, such as in an",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "7b1ee72cc268f5ba9cf60f2c22fb5ea5",
+    "text": "adjustment, they should choose “D” to remove the NAICS code. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "b7ddc903d331ff2c00a8150a5a6f0467",
+    "text": ") Before the Compliance Evaluation Screen can be completed certain RGS actions must be taken. The tax computation must be completed using and all required fields in the RGS Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "b90930afa98ebce02f0193da3a42b127",
+    "text": "must be completed. Then the Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "c0ce5316516ae8e518c6d3e9f418e982",
+    "text": "must be validated. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "2b12a88a77c49908e10fabd5ad490520",
+    "text": ") PBA/NAICS Code Per Return – This code reflects the principal business the taxpayer and can be found on the return. In the case of Forms",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "78c5445b865cde1b1aa49c758c43f5b6",
+    "text": "multiple Schedules C or F, it is the code for the schedule with largest gross receipts per the return. North American Industry Classification System codes will be used for returns for tax periods after",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8dd8808e489e044ba066b6614bedf5af",
+    "text": "Primary Activity (PBA) codes will be used for tax periods prior to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "083bb92595e6ff6c6c0f4c1a33ce75b9",
+    "text": "The PBA code should be expanded to six digits by placing two zeroes (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "1ea4a31de5b75ef17bf9cd7ce3e770be",
+    "text": ") the code. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "a4eb6827438b11b4d9f4e9df61781864",
+    "text": ") PBA/NAICS Code Per Exam – This is the corrected code, based on the aminer’s determination for the principal business of the taxpayer. In the Forms",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e00cad8d92b0164937c8d6a94f148fb9",
+    "text": "with multiple Schedules C or F, it is the code for the schedule largest gross receipts after completion of the examination. RGS provides a series of pull down menus to assist the examiner in selecting the correct NAICS codes will be used for returns for tax periods after",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "175eeeefe85273d41838f062b068a52d",
+    "text": "PBA will be used for tax periods prior to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e618777eebcf94be980f064332ab4171",
+    "text": "The four-digit PBA code should expanded to six digits by placing two zeroes (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "b3c6329987295272b20d54974f5b60eb",
+    "text": ") before the code. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f2067b8297389d586944e58410c94ee3",
+    "text": ") Primary Occupation Code (Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "2fd24217671e1fe5045d4e90fcd9c787",
+    "text": "only) – This is a three-digit code identifies the occupation of the taxpayer with the largest source of wage income for the year being examined. This code should be selected based the taxpayer’s largest source of wage income per exam regardless of the largest source is from the primary or secondary taxpayer. This field will completed where the taxpayer is both a wage earner and self-employed. If wages are earned, no code is entered. RGS provides a series of pull down menus to assist the examiner in selecting the correct code.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "1359454694e45e9f43e9900bed578e6f",
+    "text": "Note: If the examiner is fully disallowing the schedule or return, such as in an 183 adjustment, they should choose “D” to remove the NAICS code.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "320c8f43208dcb7bafb102bbea68d26a",
+    "text": "Before the Compliance Evaluation Screen can be completed certain RGS actions must be taken. The tax computation must be completed using RGS and all required fields in the RGS Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "b90930afa98ebce02f0193da3a42b127",
+    "text": "must be completed. Then the Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ce10ebc1b196c8c37005daead301792d",
+    "text": "must be validated.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f14dcda22b5d3cffd9e342fcd85f9643",
+    "text": "(01-02-2013) Completion of RGS Tax Computation and Form 5344",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f2c16cd8fde26020ca07d5b12ed7380d",
+    "text": "Operational Automation Database (EOAD)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8990ab9fb382c398536691b630503ae9",
+    "text": ") Amount Paid at Closing – This is the total amount paid for the applicable period at the time the examination was concluded or before the case is closed from the group. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d7c3d7440158b3e8af30114261797673",
+    "text": ") Study Type – This field will be left blank currently. It is a three-digit field will be used to track cases for special surveys or research studies (not the same as current project codes). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "371be0bc3a311fe876981a480946518c",
+    "text": ") Upon completion of all fields, the Compliance Evaluation screen must be validated, saved, and printed. The printed copy must be placed in the case folder on top of the case file. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b7f78e513461c02ba09c2064ff185bb2",
+    "text": ") SB/SE and LB&I, International Individual Compliance (IIC) examiners will forward all closed cases by Local Area Network (LAN) unless that EOAD Data is unavailable. The EOAD data is included in the electronic case file by the forwarding process. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "c7a345f87a8e15c29c8f93cc999a4c69",
+    "text": ") Forms",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b4817ab6c9b4e6c1fc794f044b26c8fd",
+    "text": "S, and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1926880b9460d41150d85d6f0178ce8a",
+    "text": "examinations which could not be completed using LAN-RGS must be notated as such on the Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "07bc39a339276b16168c4be6cea74a4e",
+    "text": ", Special Handling Notice for Examination Case Processing. Any cases not filling the requirements of IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "91247c819eb42cdbf16cdf09fdfc3edd",
+    "text": ", EOAD Data Capture Procedures, be returned to the originating examination group. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1e322086c8de12ceae23a01c4aee983e",
+    "text": ") In",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "42f960916e9615e18d3154b8f4eed0ed",
+    "text": ", LB&I fully implemented IMS and required its use on all cases by LB&I. As of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "681892c7c313508281de76107d6b2ce9",
+    "text": ", the IMS system captures the EOAD data in a Data format that can be shared with state and local taxation agencies. a case is on IMS, the examiner no longer needs to copy cases to external media such as compact disks. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "f01c986b0724d4dc98a5b06b741564cf",
+    "text": ") EOAD data is automatically extracted by IMS at case closure based upon examiners’ inputs on various IMS screens. Instructions detailing the proper input of data in IMS can be found in the IMS Client program. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "95fe66052f3de4b0ea86dfcdaf1bdb79",
+    "text": ") For cases completed using IMS, EOAD data is included in the electronic file by the forwarding process. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "fd8f170d58a4977ffa455f59a7d54823",
+    "text": ") If a disclosure is made to an agency whose code is manual or not with AIMS, or if the disclosure is of Non-Master File (NMF) information, the EOAD reporting will be done manually by preparing Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b7f0eb4d2265592c022dbe823d81f911",
+    "text": "-B, Multiple Disclosure. Additional information regarding disclosure reporting (CCP) can be found at IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "961514250a4da10314622654bc75b64f",
+    "text": ", Recordkeeping and Accounting for sures. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "c52a7ec4af794589c38384263b86af3f",
+    "text": ") State agency codes can be found in IRM Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b3221284d5ad25af35ae57faccae68de",
+    "text": ", State Agency Codes. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "9b52e8bbb755eb742e6e26dd08339e0d",
+    "text": ") Instructions for Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3fe919484dcff800d0e1f27d353c6198",
+    "text": "-B, preparation can be found at IRM Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "51ecd93e166b4fcb27c25535d3c10a60",
+    "text": ", Multiple Record of Disclosure.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "c8c4f10ec6d89fdcddcb850347a3809b",
+    "text": "Operational Automation Database (EOAD) 4.10.16 page 5",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7621ffc7d4b92f4f2f45afc112c8f20e",
+    "text": "(03-23-2016) Forwarding EOAD Manually - Centralized Case Processing Responsibility",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "33c1e29902d678cbcff13d561dbfd825",
+    "text": "This Page Intentionally Left Blank",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "ea562b2fffa594a72db587cd8a5cf273",
+    "text": "Operational Automation Database (EOAD) 4.10.16 page 7",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7eea5d5b3a2cadc07f0123c9c8b5e4d4",
+    "text": "Code Issue Form 41007 Wages, Salaries and Tips, etc. 1040 41008 Taxable Interest 1040 41009a Ordinary Dividends 1040 41009b Qualified Dividends 1040 41010 State Refunds, Credits, or Offsets 1040 41011 Alimony Income 1040 41014 Other Gains or Losses From Form 4797 1040 41015 IRA Distributions 1040 41016 Pensions and Annuities 1040 41019 Unemployment Compensation 1040 41020 Social Security Benefits 1040 41021 Other Income 1040 41021a Form 2555 Income 1040 41021b NOL Carryback 1040 41021c NOL Carryforward 1040 41021d MSA Taxable Payments 1040 41021e MED+MSA Taxable Payments 1040 41021f LTC Taxable Payments 1040 41021g Form 4563 Income 1040 41021h Income Excluded from Puerto Rico 1040 41021i HSA Taxable Distributions 1040 41021j HSA Qualified Distributions 1040 41021k Gambling Winnings 1040 4C101 Sch C1 - Gross Receipts or Sales SCH C1 4C101a Sch C1 - Gross Receipts/Sales Merch/3rd Party SCH C1 4C101b Sch C1 - Other Gross Receipts or Sales SCH C1 4C101c Sch C1 - Income Reported on Form W-2 SCH C1 4C101z Sch C-EZ - Gross Receipts SCH C-EZ 4C102 Sch C1 - Returns and Allowances and Oth. Adj. SCH C1 4C106 Sch C1 - Other Income SCH C1",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "220645133734340f7b4351aa24720004",
+    "text": "Code Issue Form 4C201 Sch C2 - Gross Receipts or Sales SCH C2 4C201a Sch C2 - Gross Receipts/Sales Merch/3rd Party SCH C2 4C201b Sch C2 - Other Gross Receipts or Sales SCH C2 4C201c Sch C2 - Income Reported on Form W-2 SCH C2 4C202 Sch C2 - Returns and Allowances and Oth. Adj. SCH C2 4C206 Sch C2 - Other Income SCH C2 4C301 Sch C3 - Gross Receipts or Sales SCH C3 4C301a Sch C3 - Gross Receipts/Sales Merch/3rd Party SCH C3 4C301b Sch C3 - Other Gross Receipts or Sales SCH C3 4C301c Sch C3 - Income Reported on Form W-2 SCH C3 4C302 Sch C3 - Returns and Allowances and Oth. Adj. SCH C3 4C306 Sch C3 - Other Income SCH C3 4CGL Schedule C Net Gain/Loss 1040 4D001 Sch D - Short-Term Gain/Loss SCH D 4D004 Sch D - ST Gain/Loss - Forms 6252/4684/6781/8824 SCH D 4D005 ST Gain/Loss-Prtnrship/S-Corp/Estate/Trust - Sch K1 SCH D 4D006 Sch D - Short-Term Capital Loss Carryover SCH D 4D008 Sch D - Long-Term Gain/Loss SCH D 4D011 Sch D - LT Gain/Loss-4797/2439/6252/4684/6781/8824 SCH D 4D012 LT Gain/Loss-Prtnrship/S-Corp/Estate/Trust - Sch K1 SCH D 4D013 Capital Gain or Loss Where Sch D Not Required 1040 4D013d Capital Gain Distribution SCH D 4D014 Sch D - Long-Term Capital Loss Carryover SCH D 4E103 Sch E1 - Rents Received SCH E1 4E103a Sch E1 - Merchant Card/3rd Party Payments Received SCH E1 4E103b Sch E1 - Other Payments Received SCH E1 4E104 Sch E1 - Royalties Received SCH E1 4E123 Sch E1 - Real Estate Loss After Passive Limitation SCH E1 4E131 Sch E - Inc/Loss-Prtnrship/S Corps-Passive/Non-Passive SCH E1 4E136 Sch E - Inc/Loss-Estates/Trusts-Passive/Non-Passive SCH E1 4E138 Sch E - REMIC Income or Loss SCH E1",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "3c99f23facbd8a55d0b8c9184c8336e2",
+    "text": "Operational Automation Database (EOAD) 4.10.16 page 9",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "c58579271c7517102aae144014cdc71f",
+    "text": "Exhibit 4.10.16-1 (Cont. 2) (03-23-2016) IMF Issue Codes",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "b251c5fa303d2c74ef90649b2deb1ef4",
+    "text": "Code Issue Form 4E139 Sch E - Net Farm Rental Income or Loss SCH E1 4E203 Sch E2 - Rents Received SCH E2 4E203a Sch E2 - Merchant Card/3rd Party Payments Received SCH E2 4E203b Sch E2 - Other Payments Received SCH E2 4E204 Sch E2 - Royalties Received SCH E2 4E223 Sch E2 - Real Estate Loss After Passive Limitation SCH E2 4E303 Sch E3 - Rents Received SCH E3 4E303a Sch E3 - Merchant Card/3rd Party Payments Received SCH E3 4E303b Sch E3 - Other Payments Received SCH E3 4E304 Sch E3 - Royalties Received SCH E3 4E323 Sch E3 - Real Estate Loss After Passive Limitation SCH E3 4F101 Sch F1 - Sales-Livestock/Oth. Items Purch for Resale SCH F1 4F101a Sch F1 - Specified Sales-Livestock/Other Resale SCH F1 4F101b Sch F1 - Other Sales-Livestock/Other Resale SCH F1 4F102a Sch F1 - Specified Sales of Raised Products SCH F1 4F102b Sch F1 - Other Sales of Raised Products SCH F1 4F104 Sch F1 - Sales-Raised Livestock/Produce/Grains/Etc SCH F1 4F105 Sch F1 - Cooperative Distributions SCH F1 4F106 Sch F1 - Agricultural Program Payments SCH F1 4F107a Sch F1-Commodity Credit Corporation Loans Reported SCH F1 4F107b Sch F1-Commodity Credit Corporation Loans Forfeited SCH F1 4F108 Sch F1 - Crop Insurance and Disaster Payments SCH F1 4F108a Sch F1 - Spec. Custom Hire (Machine Work) Income SCH F1 4F108b Sch F1 - Other Custom Hire Income SCH F1 4F109 Sch F1 - Custom Hire (Machine Work) Income SCH F1 4F109a Sch F1 - Other Specified Income SCH F1 4F110 Sch F1 - Other Income SCH F1 4F201 Sch F2 - Sales-Livestock/Oth. Items Purch for Resale SCH F2 4F201a Sch F2 - Specified Sales-Livestock/Other Resale SCH F2 4F201b Sch F2 - Other Sales-Livestock/Other Resale SCH F2 4F202a Sch F2 - Specified Sales of Raised Products SCH F2",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "16cce2b64940e0e66b4257fec422ab67",
+    "text": "Code Issue Form 4F202b Sch F2 - Other Sales of Raised Products SCH F2 4F204 Sch F2 - Sales-Raised Livestock/Produce/Grains/Etc SCH F2 4F205 Sch F2 - Cooperative Distributions SCH F2 4F206 Sch F2 - Agricultural Program Payments SCH F2 4F207a Sch F2 - Commodity Credit Corporation Loans Reported SCH F2 4F207b Sch F2 - Commodity Credit Corporation Loans Forfeited SCH F2 4F208 Sch F2 - Crop Insurance and Disaster Payments SCH F2 4F208a Sch F2 - Spec. Custom Hire (Machine Work) Income SCH F2 4F208b Sch F2 - Other Custom Hire Income SCH F2 4F209 Sch F2 - Custom Hire (Machine Work) Income SCH F2 4F209a Sch F2 - Other Specified Income SCH F2 4F210 Sch F2 - Other Income SCH F2 4FGL Schedule F Net Gain/Loss 1040 4NRP Q Table 4TH01 Other Write in Income 4Z101a Sch C-EZ-Gross Receipts/Sales Merch/3rd Party SCH C-EZ 4Z101b Sch C-EZ-Other Gross Receipts or Sales SCH C-EZ 4Z101c Sch C-EZ-Income Reported on Form W-2 SCH C-EZ 51006a Exemptions-Self/Spouse 1040 51006c Dependent Children-Live with Taxpayer 1040 51006d Dependent Children-Do Not Live with Taxpayer 1040 51006e Dependent-Parents 1040 51006f Dependent-Other 1040 51006g Dependent-Other Displaced Individual 1040 51023 IRA Deduction 1040 51024 Student Loan Interest Deduction 1040 51025 Archer MSA Deduction 1040 51026 Moving Expenses 1040 51027 Deductible Part of SE Tax 1040 51028 Self-Employed Health Insurance 1040 51029 Self-Employed SEP, Simple, and Qualified Plans 1040",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "0e9da2562dd391c8ddc7f080712f123c",
+    "text": "Operational Automation Database (EOAD) 4.10.16 page 11",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "1e3235d412fa84cf111dde34939dd7ea",
+    "text": "Exhibit 4.10.16-1 (Cont. 4) (03-23-2016) IMF Issue Codes",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "00455fdec6494d10cf9789381526834e",
+    "text": "Code Issue Form 51030 Penalty on Early Withdrawal of Savings 1040 51031 Alimony Paid 1040 51032 Educator Expenses 1040 51033 Tuition and Fees Deduction 1040 51035 Domestic Production Activities Deduction (F8903) 1040 51036 Standard Deduction 1040 51037 Other Adjustments Affecting AGI 1040 51037a ″WBF″ for the Deduction for Whistleblower Fees 1040 51037b Jury Duty Fees 1040 51037c Foreign Income Housing Deduction 1040 51037d Personal Property Rental Expenses 1040 51037e Reforestation Amortization 1040 51037f Repayment of Supplement Unemployment Benefits 1040 51037g Contributions to Section 501(c) Plans 1040 51037h Contributions to Section 403(b) Plans 1040 51037i Deduction for Clean-fuel Vehicles 1040 51037j Unlawful Discrimination Claim Fees 1040 51038 Certain Business Expenses from F2106(EZ ) 1040 51039 Health Saving Account (F8889) 1040 52101 Vehicle Expense 2106 52102 Parking/Tolls/Transportation - Not Away From Home 2106 52103 Travel Expense - Away From Home Overnight 2106 52104 Other Business Expenses 2106 52105 Meals and Entertainment 2106 52107 Expense Reimbursement – Not Reported 2106 5A001 Medical and Dental SCH A 5A005a State and Local Income Taxes SCH A 5A005b State and Local General Sales Taxes SCH A 5A006 Real Estate Taxes SCH A 5A007 Personal Property Taxes SCH A 5A008 Other Taxes SCH A",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "0ec48471830d3851e716da01b97eae4f",
+    "text": "Code Issue Form 5A009 Qualified Motor Vehicle Taxes SCH A 5A010 Home mortgage Interest and points From Form 1098 SCH A 5A011 Home mortgage Interest Not From Form 1098 SCH A 5A012 Points Not From Form 1098 SCH A 5A013 Investment Interest SCH A 5A014 Qualified Mortgage Insurance Premiums SCH A 5A015 Cash Contributions SCH A 5A016 Non-Cash Contributions SCH A 5A017 Contributions Carryover SCH A 5A019 Casualty and Theft Loss SCH A 5A020 Other Unreimbursed Employee Expenses SCH A 5A021 Tax Preparation Fees SCH A 5A022 Other Expenses Subject to 2% AGI Limitation SCH A 5A027 Other Miscellaneous Deductions SCH A 5A028 Gambling Losses SCH A 5C104 Sch C1 - Cost of Goods Sold SCH C1 5C108 Sch C1 - Advertising SCH C1 5C109 Sch C1 - Bad Debts From Sales or Services SCH C1 5C110 Sch C1 - Car and Truck Expenses SCH C1 5C111 Sch C1 - Commissions and Fees SCH C1 5C112 Sch C1 - Depletion SCH C1 5C113 Sch C1 - Depreciation and Sec. 179 Expense SCH C1 5C114 Sch C1 - Employee Benefits Programs SCH C1 5C115 Sch C1 - Insurance (Other Than Health) SCH C1 5C116a Sch C1 - Interest - Mortgage SCH C1 5C116b Sch C1 - Interest - Other SCH C1 5C117 Sch C1 - Legal and Professional Services SCH C1 5C118 Sch C1 - Office Expenses SCH C1 5C119 Sch C1 - Pension and Profit-Sharing Plans SCH C1 5C120a Sch C1 - Rent/Lease - Vehicles/Machinery/Equip. SCH C1 5C120b Sch C1 - Rent/Lease - Other Business Property SCH C1",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "e68bd47d593f768d77ff79defb04f805",
+    "text": "Operational Automation Database (EOAD) 4.10.16 page 13",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "37da73e0aff5ed9ca289307546149338",
+    "text": "Exhibit 4.10.16-1 (Cont. 6) (03-23-2016) IMF Issue Codes",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "fe6a2036f435c2dd03a0cac1c7510d7f",
+    "text": "Code Issue Form 5C121 Sch C1 - Repairs and Maintenance SCH C1 5C122 Sch C1 - Supplies SCH C1 5C123 Sch C1 - Taxes and Licenses SCH C1 5C124a Sch C1 - Travel SCH C1 5C124b Sch C1 - Meals and Entertainment SCH C1 5C124c Sch C-EZ-Optnl Non-Deductible Meals/Entertainment SCH C-EZ 5C124z Sch C-EZ-Optional Meals & Entertainment SCH C-EZ 5C125 Sch C1 - Utilities SCH C1 5C126 Sch C1 - Wages SCH C1 5C127 Sch C1 - Other Expenses SCH C1 5C130 Sch C1 - Expenses for Business Use of Home SCH C1 5C135 Sch C1 - Beginning Inventory SCH C1 5C136 Sch C1 - CGS - Purchases SCH C1 5C137 Sch C1 - CGS - Cost of Labor SCH C1 5C138 Sch C1 - CGS - Materials and Supplies SCH C1 5C139 Sch C1 - CGS - Other Costs SCH C1 5C141 Sch C1 - Ending Inventory SCH C1 5C150 Sch C-EZ - Total Expenses – Lines 2a/2b not used SCH C-EZ 5C150z Sch C-EZ - Optional Other Expenses SCH C-EZ 5C160 Sch C1 - Contract labor SCH C1 5C204 Sch C2 - Cost of Goods Sold SCH C2 5C208 Sch C2 - Advertising SCH C2 5C209 Sch C2 - Bad Debts From Sales or Services SCH C2 5C210 Sch C2 - Car and Truck Expenses SCH C2 5C211 Sch C2 - Commissions and Fees SCH C2 5C212 Sch C2 - Depletion SCH C2 5C213 Sch C2 - Depreciation and Sec. 179 Expense SCH C2 5C214 Sch C2 - Employee Benefits Programs SCH C2 5C215 Sch C2 - Insurance (Other Than Health) SCH C2 5C216a Sch C2 - Interest - Mortgage SCH C2 5C216b Sch C2 - Interest - Other SCH C2",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "39a51c49d3242bbe1c23a7b617a76092",
+    "text": "Code Issue Form 5C217 Sch C2 - Legal and Professional Services SCH C2 5C218 Sch C2 - Office Expenses SCH C2 5C219 Sch C2 - Pension and Profit-Sharing Plans SCH C2 5C220a Sch C2 - Rent/Lease - Vehicles/Machinery/Equip. SCH C2 5C220b Sch C2 - Rent/Lease - Other Business Property SCH C2 5C221 Sch C2 - Repairs and Maintenance SCH C2 5C222 Sch C2 - Supplies SCH C2 5C223 Sch C2 - Taxes and Licenses SCH C2 5C224a Sch C2 - Travel SCH C2 5C224b Sch C2 - Meals and Entertainment SCH C2 5C225 Sch C2 - Utilities SCH C2 5C226 Sch C2 - Wages SCH C2 5C227 Sch C2 - Other Expenses SCH C2 5C230 Sch C2 - Expenses for Business Use of Home SCH C2 5C235 Sch C2 - Beginning Inventory SCH C2 5C236 Sch C2 - CGS - Purchases SCH C2 5C237 Sch C2 - CGS - Cost of Labor SCH C2 5C238 Sch C2 - CGS - Materials and Supplies SCH C2 5C239 Sch C2 - CGS - Other Costs SCH C2 5C241 Sch C2 - Ending Inventory SCH C2 5C260 Sch C2 - Contract labor SCH C2 5C304 Sch C3 - Cost of Goods Sold SCH C3 5C308 Sch C3 - Advertising SCH C3 5C309 Sch C3 - Bad Debts From Sales or Services SCH C3 5C310 Sch C3 - Car and Truck Expenses SCH C3 5C311 Sch C3 - Commissions and Fees SCH C3 5C312 Sch C3 - Depletion SCH C3 5C313 Sch C3 - Depreciation and Sec. 179 Expense SCH C3 5C314 Sch C3 - Employee Benefits Programs SCH C3 5C315 Sch C3 - Insurance (Other Than Health) SCH C3 5C316a Sch C3 - Interest - Mortgage SCH C3",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "d6bdc6587eb0085238f8b6bf81a547ae",
+    "text": "Operational Automation Database (EOAD) 4.10.16 page 15",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "93bdb025d52b80e205b95e8b5bc08946",
+    "text": "Exhibit 4.10.16-1 (Cont. 8) (03-23-2016) IMF Issue Codes",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "11d454939a2f7a953a93633baedc9cd3",
+    "text": "Code Issue Form 5C316b Sch C3 - Interest - Other SCH C3 5C317 Sch C3 - Legal and Professional Services SCH C3 5C318 Sch C3 - Office Expenses SCH C3 5C319 Sch C3 - Pension and Profit-Sharing Plans SCH C3 5C320a Sch C3 - Rent/Lease - Vehicles/Machinery/Equip. SCH C3 5C320b Sch C3 - Rent/Lease - Other Business Property SCH C3 5C321 Sch C3 - Repairs and Maintenance SCH C3 5C322 Sch C3 - Supplies SCH C3 5C323 Sch C3 - Taxes and Licenses SCH C3 5C324a Sch C3 - Travel SCH C3 5C324b Sch C3 - Meals and Entertainment SCH C3 5C325 Sch C3 - Utilities SCH C3 5C326 Sch C3 - Wages SCH C3 5C327 Sch C3 - Other Expenses SCH C3 5C330 Sch C3 - Expenses for Business Use of Home SCH C3 5C335 Sch C3 - Beginning Inventory SCH C3 5C336 Sch C3 - CGS - Purchases SCH C3 5C337 Sch C3 - CGS - Cost of Labor SCH C3 5C338 Sch C3 - CGS - Materials and Supplies SCH C3 5C339 Sch C3 - CGS - Other Costs SCH C3 5C341 Sch C3 - Ending Inventory SCH C3 5C360 Sch C3 - Contract labor SCH C3 5E105 Sch E1 - Advertising SCH E1 5E106 Sch E1 - Auto and Travel SCH E1 5E107 Sch E1 - Cleaning and Maintenance SCH E1 5E108 Sch E1 - Commissions SCH E1 5E109 Sch E1 - Insurance SCH E1 5E110 Sch E1 - Legal and Other Professional Fees SCH E1 5E111 Sch E1 - Management Fees SCH E1 5E112 Sch E1 - Mortgage Interest SCH E1 5E113 Sch E1 - Other Interest SCH E1",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "41cea2d175e326ccac3883949102f38d",
+    "text": "Code Issue Form 5E114 Sch E1 - Repairs SCH E1 5E115 Sch E1 - Supplies SCH E1 5E116 Sch E1 - Taxes SCH E1 5E117 Sch E1 - Utilities SCH E1 5E118 Sch E1 - Other Expenses SCH E1 5E120 Sch E1 - Depreciation Expense or Depletion SCH E1 5E121 Sch E1 - Royalty Expenses SCH E1 5E205 Sch E2 - Advertising SCH E2 5E206 Sch E2 - Auto and Travel SCH E2 5E207 Sch E2 - Cleaning and Maintenance SCH E2 5E208 Sch E2 - Commissions SCH E2 5E209 Sch E2 - Insurance SCH E2 5E210 Sch E2 - Legal and Other Professional Fees SCH E2 5E211 Sch E2 - Management Fees SCH E2 5E212 Sch E2 - Mortgage Interest SCH E2 5E213 Sch E2 - Other Interest SCH E2 5E214 Sch E2 - Repairs SCH E2 5E215 Sch E2 - Supplies SCH E2 5E216 Sch E2 - Taxes SCH E2 5E217 Sch E2 - Utilities SCH E2 5E218 Sch E2 - Other Expenses SCH E2 5E220 Sch E2 - Depreciation Expense or Depletion SCH E2 5E221 Sch E2 - Royalty Expenses SCH E2 5E305 Sch E3 - Advertising SCH E3 5E306 Sch E3 - Auto and Travel SCH E3 5E307 Sch E3 - Cleaning and Maintenance SCH E3 5E308 Sch E3 - Commissions SCH E3 5E309 Sch E3 - Insurance SCH E3 5E310 Sch E3 - Legal and Other Professional Fees SCH E3 5E311 Sch E3 - Management Fees SCH E3 5E312 Sch E3 - Mortgage Interest SCH E3",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "4fa8e55b768e3c62e302f6dfa89600e8",
+    "text": "Operational Automation Database (EOAD) 4.10.16 page 17",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "478946d986cac7e6d0600acd007bb076",
+    "text": "Exhibit 4.10.16-1 (Cont. 10) (03-23-2016) IMF Issue Codes",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "9bfe622ca7dde84509fc5563f7e4aaaf",
+    "text": "Issue Codes Code Issue Form 5E313 Sch E3 - Other Interest SCH E3 5E314 Sch E3 - Repairs SCH E3 5E315 Sch E3 - Supplies SCH E3 5E316 Sch E3 - Taxes SCH E3 5E317 Sch E3 - Utilities SCH E3 5E318 Sch E3 - Other Expenses SCH E3 5E320 Sch E3 - Depreciation Expense or Depletion SCH E3 5E321 Sch E3 - Royalty Expenses SCH E3 5F101d Sch F1 - Cost/Other Basis of Livestock/Other SCH F1 5F102 Sch F1 - Cost/Oth. Basis of Livestock&Oth. Items-Ln1 SCH F1 5F112 Sch F1 - Car and Truck Expenses SCH F1 5F113 Sch F1 - Chemicals SCH F1 5F114 Sch F1 - Conservation Expenses SCH F1 5F115 Sch F1 - Custom Hire (Machine Work) SCH F1 5F116 Sch F1 - Depreciation and Section 179 Expense SCH F1 5F117 Sch F1 - Employee Benefit Programs SCH F1 5F118 Sch F1 - Feed Purchases SCH F1 5F119 Sch F1 - Fertilizer and Lime SCH F1 5F120 Sch F1 - Freight and Trucking SCH F1 5F121 Sch F1 - Gasoline, Fuel, and Oil SCH F1 5F122 Sch F1 - Insurance (Other Than Health) SCH F1 5F123a Sch F1 - Interest - Mortgage SCH F1 5F123b Sch F1 - Interest - Other SCH F1 5F124 Sch F1 - Labor Hired SCH F1 5F125 Sch F1 - Pension and Profit-Sharing Plans SCH F1 5F126a Sch F1 - Rent/Lease - Vehicles/Machinery/Equipment SCH F1 5F126b Sch F1 - Rent or Lease - Other SCH F1 5F127 Sch F1 - Repairs and Maintenance SCH F1 5F128 Sch F1 - Seeds and Plants Purchased SCH F1 5F129 Sch F1 - Storage and Warehousing SCH F1 5F130 Sch F1 - Supplies Purchased SCH F1",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "fef9b458e8189723b4daa8b5534aa01d",
+    "text": "Code Issue Form 5F131 Sch F1 - Taxes SCH F1 5F132 Sch F1 - Utilities SCH F1 5F133 Sch F1 - Veterinary, Breeding and Medicine SCH F1 5F134 Sch F1 - Other Expenses SCH F1 5F146 Sch F1 - Beginning Inventory SCH F1 5F149 Sch F1 - Ending Inventory SCH F1 5F201d Sch F2 - Cost/Other Basis of Livestock/Other SCH F2 5F202 Sch F2 - Cost/Oth. Basis of Livestock&Oth. Items-Ln1 SCH F2 5F212 Sch F2 - Car and Truck Expenses SCH F2 5F213 Sch F2 - Chemicals SCH F2 5F214 Sch F2 - Conservation Expenses SCH F2 5F215 Sch F2 - Custom Hire (Machine Work) SCH F2 5F216 Sch F2 - Depreciation and Section 179 Expense SCH F2 5F217 Sch F2 - Employee Benefit Programs SCH F2 5F218 Sch F2 - Feed Purchases SCH F2 5F219 Sch F2 - Fertilizer and Lime SCH F2 5F220 Sch F2 - Freight and Trucking SCH F2 5F221 Sch F2 - Gasoline, Fuel, and Oil SCH F2 5F222 Sch F2 - Insurance (Other Than Health) SCH F2 5F223a Sch F2 - Interest - Mortgage SCH F2 5F223b Sch F2 - Interest - Other SCH F2 5F224 Sch F2 - Labor Hired SCH F2 5F225 Sch F2 - Pension and Profit-Sharing Plans SCH F2 5F226a Sch F2 - Rent/Lease - Vehicles/Machinery/Equipment SCH F2 5F226b Sch F2 - Rent or Lease - Other SCH F2 5F227 Sch F2 - Repairs and Maintenance SCH F2 5F228 Sch F2 - Seeds and Plants Purchased SCH F2 5F229 Sch F2 - Storage and Warehousing SCH F2 5F230 Sch F2 - Supplies Purchased SCH F2 5F231 Sch F2 - Taxes SCH F2 5F232 Sch F2 - Utilities SCH F2",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "5f3d20c447861a2071901cbd0a395e71",
+    "text": "Operational Automation Database (EOAD) 4.10.16 page 19",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "95ebe8de30769ed891dca078cb3ee2c5",
+    "text": "Exhibit 4.10.16-1 (Cont. 12) (03-23-2016) IMF Issue Codes",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "5dcaadad08e94904915d3d766f43c1df",
+    "text": "Code Issue Form 5F233 Sch F2 - Veterinary, Breeding and Medicine SCH F2 5F234 Sch F2 - Other Expenses SCH F2 5F246 Sch F2 - Beginning Inventory SCH F2 5F249 Sch F2 - Ending Inventory SCH F2 5TH01 Other Deduction/Expense 61001 Filing Status 1040 61040a Tax from Form 8814 1040 61040b Tax from Form 4972 1040 61040c Other Write-ins to Tax 1040 61041 Alternative Minimum Tax 1040 61042 Additional Taxes 1040 61043 Foreign Tax Credit 1040 61044 Child or Dependent Care Credit 1040 61045 Elderly or Disabled Credit 1040 61046 Education Credit - Issue Name must be a SSN 1040 61047 Rate Reduction Credit 1040 61048 Child Tax Credit 1040 61049 Adoption Credit From Form 8839 1040 61050 Other Credits Not From Forms 3800, 8396, 8801, 8859 1040 61050a Other Credits From Form 3800 1040 61050b Other Credits From Form 8801 1040 61050c Other Credits From Form 8396 1040 61050d Other Credits From Form 8859 1040 61050e Section 45R Credit for Health Care 1040 61051 Retirement Savings Contribution Credit 1040 61052 Residential Energy Credit From Form 5695 1040 61053 Self-Employment Tax 1040 61054 SS and Medicare Tax on Tip Income From Form 4137 1040 61055 Tax on Qualified Plans 1040 61056 Advance Earned Income Credit payments 1040 61057 Household Employment Taxes 1040",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "3858541c6f0296af19e05b7765ed25a6",
+    "text": "Code Issue Form 61058 Uncollected SS & Medicare Tax on Wages (F8919) 1040 61059 W-2/1099 Federal Income Tax Withholding 1040 61060 Est. Tax Pymts/Pr Yr Overassessment - not posted 1040 61061 Earned Income Tax Credit 1040 61061b NonTaxable Combat Pay Election 1040 61062 Excess Social Security and RRTA Tax Withheld 1040 61063 Additional Child Tax Credit 1040 61064 Amt Paid w/Extension to File - not posted to TP’s Acct 1040 61065 Frozen Refund 1040 61065a Form 2439 1040 61065b Form 4136 1040 61065c Form 8885 1040 61065d Form 8801, Refundable Credit 1040 61065e Other Write-ins to Refundable Credits 1040 61066 Other Taxes 1040 61066a FTHBC Recapture 1040 61066b Taxes from Form 8959 1040 61066c Taxes from Form 8960 1040 61067 Making Work Pay/Govt Retiree Credit 1040 61068 Refundable American Opportunity Credit 1040 61069 First-time Homebuyer Credit From Form 5405 1040 61070 Recovery Rebate Credit 1040 61071 Federal Telephone Excise Tax Credit 1040 61072 Refundable Adoption Credit 1040 62001 Health Care - Shared Responsibility Payment 1040 62002 Premium Tax Credit (PTC) 1040 62003 Excess Advance PTC (APTC) Repayment 1040 62401 Accuracy Related Penalty - 6662 1040 62402 Fraud Penalty - 6663 1040 62403 Delinquency Penalty - 6651 1040 62404 Estimated Tax Penalty - 6654 1040",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "f58dd63ece43e64b49a3ca63692fbfa8",
+    "text": "Operational Automation Database (EOAD) 4.10.16 page 21",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "940d0f90d959936d40408521d04ce1db",
+    "text": "Exhibit 4.10.16-1 (Cont. 14) (03-23-2016) IMF Issue Codes",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "22712ab4a212241df473e8164fca2095",
+    "text": "Code Issue Form 62405 Promoter Penalties 1040 62406 Erroneous Claim for Refund or Credit Penalty - 6676 1040 62410 Other Penalties (includes FBAR) 1040 699999 Impact of DeMinimus Issues 6TH01 Other Tax/Credit 76150 User Specified #1 (Issue name and 4318 description required) 76200 User Specified #2 (Issue name and 4318 description required) 76250 User Specified #3 (Issue name and 4318 description required) 76300 User Specified #4 (Issue name and 4318 description required) 76350 User Specified #5 (Issue name and 4318 description required) 76400 User Specified #6 (Issue name and 4318 description required) 76450 User Specified #7 (Issue name and 4318 description required) 7C10X Sch C1 - IRC 183 SCH C1 7C1F Sch C1 - Accounting Method SCH C1 7C20X Sch C2 - IRC 183 SCH C2 7C2F Sch C2 - Accounting Method SCH C2 7C30X Sch C3 - IRC 183 SCH C3 7C3F Sch C3 - Accounting Method SCH C3 7E10X Sch E1 - IRC 183 SCH E1 7E20X Sch E2 - IRC 183 SCH E2 7E30X Sch E3 - IRC 183 SCH E3 7F10X Sch F1 - IRC 183 SCH F1 7F1C Sch F1 - Accounting Method SCH F1 7F20X Sch F2 - IRC 183 SCH F2 7F2C Sch F2 - Accounting Method SCH F2 99999 Change/No Change 999999 Statutory Adjustment",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "e155ee3cdc70c7ae8371b7c056f1f03d",
+    "text": "4.10.16-2 (03-23-2016) Chapter S SAIN Codes Code Issue Form 000 Issue does not exist 001 Precontact Analysis 002 Pre - Exam Conference 003 Preliminary Examination Time 004 Preparing Examination Plan 005 Coordination 006 Travel Time 007 Report Preparation 008 Examination Critique 009 Meetings 010 Review Protest / Prepare Rebuttal 010-01 Fast Track 011 Penalty Consideration 012 Form 5699 (Information Document Request Log) 013 Issue Control Sheet - Form 5701 (Notice of Proposed Adjustments) 014 Referrals to Specialists 015 Financial Interest 016 Correspondence 017 POA / Form 8821 (Tax Information Authorization) 018 Statute of Limitations 020 Prior Revenue Agent Report 021 Prior Appeals Report 022 Joint Committee Reports 024 Risk Analysis 030 Administrative Lead Sheet 031 LB&I Quality Measurement System Check Sheet 032 LB&I Joint Audit Planning Process Tool 033 Pre-audit Interview History Lead Sheet 034 Examiner’s RRA 98 Compliance Guide 035 Team Manager Check sheet",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "3d6e67661e2698997ad07cd3ba3a33c7",
+    "text": "Operational Automation Database (EOAD) 4.10.16 page 23",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "618ab3785b3a3c2b39c368ddf26b90d8",
+    "text": "Exhibit 4.10.16-2 (Cont. 1) (03-23-2016) Sub Chapter S SAIN Codes",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "abd05a0fa9e4df1637fad024aceb6dda",
+    "text": "Code Issue Form 060 Claims 061 Self-Audit Adjustments (Affirmative Adjustments) 080 Planning File 100 Balance sheet (no balance sheet attached) SCH L 101 Cash SCH L 102 Trade notes & accounts receivable SCH L 102-01 Allowance for bad debts SCH L 103 Inventories SCH L 104 U.S. government obligations SCH L 105 Tax-exempt securities SCH L 106 Other current assets SCH L 107 Loans to shareholders SCH L 107-01 Loans to persons related to shareholders SCH L 108 Mortgage & real estate loans SCH L 109 Other investments SCH L 110 Buildings & other depreciable assets SCH L 110-01 Accumulated depreciation SCH L 111 Depletable assets SCH L 111-01 Accumulated depletion SCH L 112 Land (net of any amortization) SCH L 113 Intangible assets SCH L 113-01 Accumulated amortization SCH L 114 Other assets SCH L 216 Accounts payable SCH L 217 Mortgages, notes, bonds payable in less than 1 year SCH L 218 Other current liabilities SCH L 218-01 Related party accruals SCH L 219 Loans from shareholders SCH L 219-01 Loans from persons related to shareholders SCH L 220 Mortgages, notes, bonds payable in 1 year or more SCH L 221 Other liabilities SCH L",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "4af6c8e9257b14c35c44d9a0697d04f0",
+    "text": "Exhibit 4.10.16-2 (Cont. 2) (03-23-2016) Sub Chapter S SAIN Codes",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "1a0f3cd9d5207f013693143de6c005c1",
+    "text": "Chapter S SAIN Codes Code Issue Form 322 Capital stock SCH L 323 Additional paid-in capital SCH L 325 Retained earnings SCH L 325-01 Reconciliation of Retained Earnings SCH L 326 Cost of treasury stock SCH L 327 Adjustment to shareholders’ equity SCH L 401 Gross receipts or sales 1120S 401-01 Sales to related entities 1120S 401-02 Merchant card and third party payments 1120S 402 Returns and allowances 1120S 409 Net gain (loss) from Form 4797, Part II 1120S 410 Other income (loss) 1120S 410-01 Partnership income (loss) (Tiered Entity) 1120S 410-02 Cancellation of Debt Income 1120S 502 Cost of goods sold (No Sch. A or F1125-A detail) SCH A 502-01 Inventory (Beginning) SCH A 502-02 Purchases SCH A 502-03 Cost of labor SCH A 502-04 Additional IRC § 263A costs SCH A 502-05 Other costs SCH A 502-10 Inventory (Ending) 1120S 512 Compensation of officers 1120S 513 Salaries & wages 1120S 514 Repairs & maintenance 1120S 515 Bad debts 1120S 516 Rents 1120S 517 Taxes & licenses 1120S 518 Interest 1120S 519 Charitable contributions SCH K 520 Depreciation 1120S 521 Depreciation (other than page 1 Form 1120S) 1120S",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "5ff49eeb3540fcf7bc55937259d7dc5b",
+    "text": "Operational Automation Database (EOAD) 4.10.16 page 25",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "154c10a82cfc1d349b42d109b56e4ed9",
+    "text": "Exhibit 4.10.16-2 (Cont. 3) Sub Chapter S SAIN Codes",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "fd0e45b203ef2f3aaee7e9f9487ac9c0",
+    "text": "Code Issue Form 522 Depletion 1120S 523 Advertising 1120S 524 Pension, profit sharing plans, etc. plans 1120S 525 Employee benefit programs 1120S 526 Other deductions (no schedule attached) 1120S 526-01 Administrative fees 1120S 526-02 Amortization 1120S 526-03 Automobile expense 1120S 526-04 Bonus expense 1120S 526-05 Consulting fees 1120S 526-06 Contract labor 1120S 526-07 Commissions 1120S 526-08 Computer expense 1120S 526-09 Dues & subscriptions 1120S 526-10 Education expenses 1120S 526-11 Equipment rental 1120S 526-12 Fringe benefits 1120S 526-13 Fuel expense 1120S 526-14 Gifts & awards expenses 1120S 526-15 Insurance expenses 1120S 526-16 Janitorial services 1120S 526-17 Leasing expense 1120S 526-18 Legal & professional fees 1120S 526-19 License & permit expenses 1120S 526-20 Maintenance & cleaning 1120S 526-21 Management & director fees 1120S 526-22 Meals & entertainment 1120S 526-23 Meeting, seminars & conventions 1120S 526-24 Miscellaneous expenses 1120S 526-25 Other expenses 1120S 526-26 Outside services 1120S No. 37578T (03-23-2016) Internal Revenue Manual Exhibit",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "65cc80ab6495df4eb2e2b7c96a8bc95a",
+    "text": "Exhibit 4.10.16-2 (Cont. 4) (03-23-2016) Sub Chapter S SAIN Codes",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "328b1bd125114558c80e33caa1a0d15e",
+    "text": "Code Issue Form 526-27 Postage & courier expense 1120S 526-28 Proposal or bidding expense 1120S 526-29 Public relations expense 1120S 526-30 Publication expense 1120S 526-31 Recruiting & training 1120S 526-32 Research & development 1120S 526-33 Royalty expense 1120S 526-34 Security expense 1120S 526-35 Shipping, freight & handling 1120S 526-36 Supplies - office 1120S 526-37 Supplies - tools & factory 1120S 526-38 Telephone expense 1120S 526-39 Travel expense 1120S 526-40 Utility expense 1120S 527 Domestic Production Activities SCH K 528 Schedule M-1 (Book vs. Tax) 1120S 528-01 Schedule M-2 (AAA Analysis) 1120S 528-02 Schedule. M-2 (Other Adjustments Account Analysis) 1120S 528-03 SH Undistributed PTI 1120S 604-10 IRC § 45R credit for health care SCH K 610-04 Lookback Interest 1120S 622-01 Excess net passive income tax 1120S 622-02 Tax from Schedule D (Built-In Gains) 1120S 622-03 Additional taxes - LIFO reserve recapture tax 1120S 623-01 Payments 1120S 623-02 Tax deposits 1120S 623-06 Fuel tax credit 1120S 623-07 Telephone Excise Tax credit 1120S 624-01 Accuracy Related Penalty - IRC § 6662 624-02 Fraud Penalty - IRC § 6663 624-03 Delinquency Penalty - IRC § 6699",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "04eab95a4bfc46e3539ee0a486ca554c",
+    "text": "Operational Automation Database (EOAD) 4.10.16 page 27",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "91387b4d3b8143373f60683f397ab9b9",
+    "text": "Exhibit 4.10.16-2 (Cont. 5) Sub Chapter S SAIN Codes",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "a0a47272770262fdead0edc1049658a8",
+    "text": "Chapter S SAIN Codes Code Issue Form 624-04 Estimated Tax Penalty - IRC § 6655 624-05 Promoter Penalties 624-10 Other penalties (includes FBAR) 701 Minutes & other records 703 Acquisitions, mergers & reorganizations 703-01 Schedule M-2 706 IRC § 482 potential 707 Method of accounting 708 Initial return 709 Final return 710 Related party transactions 713 Mandatory compliance checks 713-01 Related returns 713-02 Prior & subsequent returns 713-03 Minimum inventory checks 713-04 Minimum income probe 713-05 Other filing checks 723 Changes in ownership 724 TEFRA 725 Character of income (separately stated items) 726 Potentially abusive schemes 726-01 Form 8275 disclosure statement 726-02 Form 8886 reportable transaction 726-03 Transaction lacks economic substance 727 Termination or Invalid S Election 728 Reconcile Schedule K-1 to Schedule K 729 Losses and deduction claimed in excess of stock and debt basis 730 Passive activity losses and material participation 731 IRC § 465 - At risk limitation 732 Corporate level limits 743 IRC § 183 - hobby loss",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "1bed8b7cb12c6c801d7f68dbf6b42de3",
+    "text": "Exhibit 4.10.16-2 (Cont. 6) Sub Chapter S SAIN Codes",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "4122fd77d1340c2bfa5f5671df3cf01d",
+    "text": "Chapter S SAIN Codes Code Issue Form 801 Statistical sampling procedures 802–01 Computer audit specialist (CAS) 802–02 Employment tax examiner 802–03 International examiner 802–04 Engineer 802–05 Exempt organization examiner 802–06 Excise tax examiner 802–07 Financial products examiner 802–08 Economist 802–09 Actuary 802–10 Employee Plans 802–11 Appraisers 802–12 Exam Tech/Audit Aides 802–13 Contracting Officer’s Technical Representative (COTR) 802–14 Tax Computation Specialist 803–01 Life insurance examiner 803–02 Property & Casualty insurance examiner 804 Other Classified Issue #1 805 Other Classified Issue #2 806 Other Classified Issue #3 807 Other Classified Issue #4 808 Other Classified Issue #5 809 Other Classified Issue #6 901-01 Ordinary income (loss) from trade or business SCH K 902 Net income (loss) from rental real estate SCH K 903 Other Gross Rental Income SCH K 903-01 Expenses from other rental activities SCH K 904-01 Interest income SCH K 904-02 Dividend income SCH K 904-03 Qualified dividend income SCH K 904-04 Royalty income SCH K",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "87e12ab114c6ab8e8a31154d47826747",
+    "text": "Operational Automation Database (EOAD) 4.10.16 page 29",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "822aa0a22860d3442ed0074597646f8e",
+    "text": "Exhibit 4.10.16-2 (Cont. 7) Sub Chapter S SAIN Codes",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "6b0eb6ad63fa415521dac10a2660e6dd",
+    "text": "Code Issue Form 904-05 Net short-term capital gain (loss) SCH K 904-06 Net STCG / loss (>5-3-03) ’03 only SCH K 904-07 Net long-term capital gain (loss) SCH K 904-08 Net LTCG / loss (28%) SCH K 904-09 Net LTCG / loss (5 Year) SCH K 904-10 Net LTCG / loss (>5-3-03) ’03 only SCH K 904-11 Other portfolio income (loss) SCH K 904-12 Unrecaptured IRC § 1250 gain SCH K 905 Net IRC § 1231 gain (loss) from Form 4797 SCH K 905-01 Net IRC § 1231 gain (loss) (>5-3-03) ’03 only SCH K 906 Other income (loss) SCH K 908 IRC § 179 expense deduction SCH K 909 Deductions related to portfolio income SCH K 910 Other deductions SCH K 911 Interest expense on investment debts SCH K 911-01 Investment income (portfolio income) SCH K 911-02 Investment expenses (portfolio income) SCH K 912-01 Credit for alcohol used as a fuel SCH K 912-02 Low income housing credit IRC § 42(j)(5) SCH K 912-03 Low income housing credit - other SCH K 912-06 Qualified rehab expense - rental activity SCH K 912-07 Credits - rental real estate activities SCH K 912-08 Credits - other rental activities SCH K 913 Other credits and credit recapture SCH K 914-01 AMT - Depreciation adjustment SCH K 914-02 AMT - Adjusted gain (loss) SCH K 914-03 AMT - Depletion (other than oil and gas) SCH K 914-05 AMT - Gross inc. - oil/ gas/ geothermal properties SCH K 914-06 AMT - Deductions - oil/ gas/ geothermal properties SCH K 914-07 AMT - Other adjustments / tax preference items SCH K 915 Name of foreign country or U.S. possession SCH K",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "e9715de0da2fa3c1ee6265727b409565",
+    "text": "Exhibit 4.10.16-2 (Cont. 8) (03-23-2016) Sub Chapter S SAIN Codes",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "8ae119090badb2dac4240345c31347d8",
+    "text": "Code Issue Form 915-01 Gross income from all sources SCH K 915-02 Gross income sourced at SH level SCH K 915-03 Foreign gross income - passive SCH K 915-04 Foreign gross income - general SCH K 915-05 Foreign gross income - other SCH K 915-06 Allocable deductions SH - interest SCH K 915-07 Allocable deductions SH - other SCH K 915-08 Allocable deductions corp - passive SCH K 915-09 Allocable deductions corp - general SCH K 915-10 Allocable deductions corp - other SCH K 915-11 Total foreign taxes paid SCH K 915-12 Reduction in taxes available for credit SCH K 915-13 Total foreign taxes accrued SCH K 916-01 IRC § 59(e)(2) expenditures SCH K 916-02 Type of expenditures SCH K 917 Tax-exempt interest income SCH K 918 Other tax-exempt income SCK K 919 Non-deductible expenses SCK K 920 Distributions SCH K 920-01 Non-cash distributions SCH K 920-02 Disproportionate distributions SCH K 920-03 Repayments of Loans from Shareholders SCH K 920-04 Distributions of Earnings & Profits SCH K 920-05 Distribution in Excess of Basis SCH K 920-06 Distribution of Property or Bargain Sale SCH K 921 Other items & amounts to be reported separately SCH K 922 Total dividend distributions from E & P SCH K 923 Investment income SCH K 924 Investment expenses SCH K 76150 User Specified #1 (Issue name and 4318 description required) 76200 User Specified #2 (Issue name and 4318 description required)",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "2c2caadcfda555c66f588e04507f5d15",
+    "text": "Operational Automation Database (EOAD) 4.10.16 page 31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "bde86d38f06834abdaea8f850ccd44b3",
+    "text": "Exhibit 4.10.16-2 (Cont. 9) (03-23-2016) Sub Chapter S SAIN Codes",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "d0bb8dafe8c2dd6892934b9a618c543e",
+    "text": "Code Issue Form 76250 User Specified #3 (Issue name and 4318 description required) 76300 User Specified #4 (Issue name and 4318 description required) 76350 User Specified #5 (Issue name and 4318 description required) 76400 User Specified #6 (Issue name and 4318 description required) 76450 User Specified #7 (Issue name and 4318 description required)",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "e351fefb86a7a8ce2048c676235fbece",
+    "text": "4.10.16-3 (03-23-2016) SAIN Codes Code Issue Form 000 Issue does not exist 001 Precontact Analysis 002 Pre - Exam Conference 003 Preliminary Examination Time 004 Preparing Examination Plan 005 Coordination 006 Travel Time 007 Report Preparation 008 Examination Critique 009 Meetings 010 Review Protest / Prepare Rebuttal 010-01 Fast Track 011 Penalty Consideration 012 Form 5699 (Information Document Request Log) 013 Issue Control Sheet - Form 5701 (Notice of Proposed Adjustments) 014 Referrals to Specialists 015 Financial Interest 016 Correspondence 017 POA / Form 8821(Tax Information Authorization) 018 Statute of Limitations 020 Prior Revenue Agent Report 021 Prior Appeals Report 022 Joint Committee Reports 024 Risk Analysis 030 Administrative Lead Sheet 031 LB&I Quality Measurement System Check Sheet 032 LB&I Joint Audit Planning Process Tool 033 Pre-audit Interview History Lead Sheet 034 Examiner’s RRA 98 Compliance Guide 035 Team Manager Check sheet",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "abdf609eb3633d2e342b9a5d744bbecb",
+    "text": "Operational Automation Database (EOAD) 4.10.16 page 33",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "16a84e208f5484b3053a330028252a68",
+    "text": "Exhibit 4.10.16-3 (Cont. 1) (03-23-2016) Partnership SAIN Codes",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "9f906cdc0ad7d880576cf0890501dc1d",
+    "text": "Code Issue Form 060 Claims 061 Self-Audit Adjustments (Affirmative Adjustments) 080 Planning File 100 Balance sheet SCH L 101 Cash SCH L 102 Trade notes & accounts receivable SCH L 102-01 Allowance for bad debts SCH L 103 Inventories SCH L 104 U.S. government obligations SCH L 105 Tax-exempt securities SCH L 106 Other current assets SCH L 107 Loans to partners SCH L 107-01 Loans to persons related to partners SCH L 108 Mortgage & real estate loans SCH L 109 Other investments SCH L 110 Buildings & other depreciable assets SCH L 110-01 Accumulated depreciation SCH L 111 Depletable assets SCH L 111-01 Accumulated depletion SCH L 112 Land (net of any amortization) SCH L 113 Intangible assets SCH L 113-01 Accumulated amortization SCH L 114 Other assets SCH L 216 Accounts payable SCH L 217 Mortgages, notes, bonds payable in less than 1 year SCH L 218 Other current liabilities SCH L 218-01 Related party accruals SCH L 219-01 All nonrecourse loans SCH L 220 Mortgages, notes, bonds payable in 1 year or more SCH L 220-01 Loans from partners SCH L 220-02 Loans from persons related to partners SCH L",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "8277eadf0711c26c908d072a0eb42a16",
+    "text": "Exhibit 4.10.16-3 (Cont. 2) (03-23-2016) Partnership SAIN Codes",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "99421a027d4d8e370c690c12517a47bc",
+    "text": "Code Issue Form 221 Other liabilities SCH L 321 Partners’ capital accounts SCH L 321-01 Final Schedule K-1 with Unresolved Negative Capital Account SCH L 321-02 Analysis of partner’s capital account (Sch M-2) SCH L 401 Gross receipts or sales 1065 401-01 Sales to related entities 1065 401-02 Merchant card and third party payments 1065 402 Returns and allowances 1065 403 Ordinary income (loss) from partnerships, etc. 1065 403-01 Net farm profit (loss) 1065 409 Net gain (loss) from Form 4797, Part II 1065 410 Other income (loss) 1065 410-01 Partnership income (loss) (Tiered Entity) 1065 410-02 Cancellation of Debt Income 1065 502 Cost of goods sold (No Sch. A or F1125-A Detail) 1065 502-01 Inventory (beginning) SCH A 502-02 Purchases SCH A 502-03 Cost of labor SCH A 502-04 Additional IRC § 263A costs SCH A 502-05 Other costs SCH A 502-10 Inventory (ending) SCH A 510 Guaranteed payments to partners 1065 510-01 Capital versus ordinary expense 1065 510-02 Character of payment to retiring partner 1065 513 Salaries & wages 1065 514 Repairs & maintenance 1065 515 Bad debts 1065 516 Rent 1065 517 Taxes & licenses 1065 518 Interest 1065 519 Charitable contributions SCH K",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "601f17df48ba199c27eedae60f4e3ab5",
+    "text": "Operational Automation Database (EOAD) 4.10.16 page 35",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "dd0cc778e8112b50616de27df4e9673e",
+    "text": "Exhibit 4.10.16-3 (Cont. 3) (03-23-2016) Partnership SAIN Codes",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "fd57c343e62f041a94c4826bd688554b",
+    "text": "Code Issue Form 520 Depreciation 1065 521 Depreciation (other than page 1 Form 1065) 1065 522 Depletion 1065 523 Advertising 1065 524 Retirement plans, etc. 1065 525 Employee benefit programs 1065 526 Other deductions (no schedule attached) 1065 526-01 Administrative fees 1065 526-02 Amortization 1065 526-03 Auto & truck expenses 1065 526-04 Bonus expense 1065 526-05 Consulting fees 1065 526-06 Contract labor 1065 526-07 Commissions 1065 526-08 Computer expense 1065 526-09 Dues & subscriptions 1065 526-10 Education expenses 1065 526-11 Equipment rental 1065 526-12 Fringe benefits 1065 526-13 Fuel expense 1065 526-14 Gifts & awards expenses 1065 526-15 Insurance expenses 1065 526-16 Janitorial services 1065 526-17 Leasing expense 1065 526-18 Legal & professional fees 1065 526-19 License & permit expenses 1065 526-20 Maintenance & cleaning 1065 526-21 Management & director fees 1065 526-22 Meals & entertainment 1065 526-23 Meeting, seminars & conventions 1065 526-24 Miscellaneous expenses 1065",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "b275f8e2d33bf89b8c936a444c5dd267",
+    "text": "Exhibit 4.10.16-3 (Cont. 4) (03-23-2016) Partnership SAIN Codes",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "9da0666fdd2f1726d038b2cb7ecb8013",
+    "text": "Code Issue Form 526-25 Other expenses 1065 526-26 Outside services 1065 526-27 Postage & courier expense 1065 526-28 Proposal or bidding expense 1065 526-29 Public relations expense 1065 526-30 Publication expense 1065 526-31 Recruiting & training 1065 526-32 Research & development 1065 526-33 Royalty expense 1065 526-34 Security expense 1065 526-35 Shipping, freight & handling 1065 526-36 Supplies - office 1065 526-37 Supplies - tools & factory 1065 526-38 Telephone expense 1065 526-39 Travel expense 1065 526-40 Utility expense 1065 527 Domestic Production Activities SCH K 528 Schedule M-1 SCH M-1 604 Credits 604-10 IRC § 45R credit for health care SCH K 610-04 Lookback Interest 623-07 Telephone Excise Tax credit 1065 624-01 Accuracy Related Penalty - IRC § 6662 624-02 Fraud Penalty - IRC § 6663 624-03 Delinquency Penalty - IRC § 6698 624-04 Estimated Tax Penalty 624-05 Promoter Penalties 624-10 Other Penalties (includes FBAR) 701 Partnership agreement & other records 703 Acquisitions, mergers & reorganizations 703-01 Schedule M-2 SCH M-2 4.10.16-3 Internal Revenue Manual Cat. No. 37578T",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "bd0f22a78343c4a7b7a4ee6fb2689350",
+    "text": "Operational Automation Database (EOAD) 4.10.16 page 37",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "308e9391906a5e3409ab4c1c1e582bc7",
+    "text": "Exhibit 4.10.16-3 (Cont. 5) Partnership SAIN Codes",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "54fa8ca19ed3138dd6a53c30fb409d27",
+    "text": "Code Issue Form 706 IRC § 482 potential 707 Method of accounting 1065 708 Initial return - IRC 195, 246, 1060 1065 709 Final return - distributions 710 Related party transactions 713 Mandatory compliance checks 713-01 Related returns 713-02 Prior & subsequent returns 713-03 Minimum inventory checks 713-04 Minimum income probe 713-05 Other filing checks 723 Changes in ownership 724 TEFRA 725 Character of income (separately stated items) 726 Potentially abusive schemes 726-01 Form 8275 Disclosure Statement 726-02 Form 8886 Reportable Transaction Disclosure Statement 726-03 Transaction lacks economic substance 728 Reconcile Schedule K-1 to Schedule K 729 IRC § 704(d) - losses and or deductions claimed in excess of basis 730 IRC § 469 - passive activity losses and material participation 731 IRC § 465 - At risk limitation 735 IRC § 707 - disguised sales 736 IRC § 704(c) & IRC § 737 737 IRC § 754 - election 737-01 IRC § 743(b) - basis adjustment 737-02 IRC § 734(b) - basis adjustment 738 IRC § 708 - partnership terminations 739 IRC § 704(b) - special allocations 739-01 Use of tax neutral partners (i.e. tax exempt or foreign) 740 Family partnership inconsistent with IRC § 704(e) No. 37578T (03-23-2016) Internal Revenue Manual Exhibit",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "9d03513d0759ec582cf81ff0b613ea21",
+    "text": "SAIN Codes Code Issue Form 741 IRC § 752 - partner’s share of liabilities 741-01 Nonrecourse 741-02 Qualified nonrecourse 741-03 Recourse / Other 742 IRC § 741 - sale of partnership interest / Form 8308 742-01 IRC § 751 Ordinary income recapture 742-02 IRC § 755 - Allocation basis 743 IRC § 183 - hobby loss 801 Statistical sampling procedures 802–01 Computer audit specialist (CAS) 802–02 Employment tax examiner 802–03 International examiner 802–04 Engineer 802–05 Exempt organization examiner 802–06 Excise tax examiner 802–07 Financial products examiner 802–08 Economist 802–09 Actuary 802–10 Employee Plans 802–11 Appraisers 802–12 Exam Tech/Audit Aides 802–13 Contracting Officer’s Technical Representative (COTR) 802–14 Tax Computation Specialist 803–01 Life insurance examiner 803–02 Property & Casualty insurance examiner 804 Other Classified Issue #1 805 Other Classified Issue #2 806 Other Classified Issue #3 807 Other Classified Issue #4 808 Other Classified Issue #5 809 Other Classified Issue #6",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "5d4f4a31781827e979d24bd2dce4a924",
+    "text": "Operational Automation Database (EOAD) 4.10.16 page 39",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "6354fc4183e016f4b0e1a9ed2b059058",
+    "text": "Exhibit 4.10.16-3 (Cont. 7) (03-23-2016) Partnership SAIN Codes",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "d9b2560a6e4518e86c64ea3d91796767",
+    "text": "Code Issue Form 901-01 Ordinary income (loss) from trade or business SCH K 902 Net income (loss) from rental real estate SCH K 903 Other Gross Rental Income SCH K 903-01 Expenses from other rental activities SCH K 904-01 Portfolio income (loss) from interest income SCH K 904-02 Portfolio income (loss) from ordinary dividends SCH K 904-03 Portfolio income (loss) from qualified dividends SCH K 904-04 Portfolio income (loss) from royalty income SCH K 904-05 Net short-term capital gain (loss) SCH K 904-06 Net STCG / loss (>5-3-03) ’03 only SCH K 904-07 Net long-term capital gain (loss) SCH K 904-08 Net LTCG / loss (28%) SCH K 904-09 Net LTCG / loss (5 Year) SCH K 904-10 Net LTCG / loss (>5-3-03) ’03 only SCH K 904-11 Other portfolio income (loss) SCH K 904-12 Unrecaptured § 1250 Gain SCH K 905 Net IRC § 1231 gain (loss) from Form 4797 SCH K 905-01 Net IRC § 1231 gain (loss) (>5-3-03) ’03 only SCH K 906 Other income (loss) SCH K 906-01 Cancellation of Indebtedness (COD) - IRC § 61(a)(12) SCH K 908 IRC § 179 expense deduction SCH K 909 Deductions related to portfolio income SCH K 910 Other deductions SCH K 911 Interest expense on investment debts SCH K 911-01 Investment income included in portfolio income SCH K 911-02 Invest. Exp.-deductions related to portfolio inc. SCH K 912-01 Credit for income tax withheld SCH K 912-02 Low income housing credit IRC § 42(j)(5) SCH K 912-03 Low income housing credit - other SCH K 912-06 Qual. rehab. expend.-rental real estate activities SCH K 912-07 Credits related to rental real estate activities SCH K",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "4327e0e8bc7209b0ba43260b62fe9b8a",
+    "text": "Code Issue Form 912-08 Credits related to other rental activities SCH K 913 Other credits and credit recapture SCH K 914-01 AMT - Depreciation adjustment SCH K 914-02 AMT - Adjusted gain (loss) SCH K 914-03 AMT - Depletion (other than oil and gas) SCH K 914-05 AMT - Gross inc. - oil/ gas/ geothermal properties SCH K 914-06 AMT - Deductions - oil/ gas/ geothermal properties SCH K 914-07 AMT - Other adjustments / tax preference items SCH K 915 Name or foreign country or U.S. possession SCH K 915-01 Gross income from all sources SCH K 915-011 Net earnings (loss) from self-employment SCH K 915-02 Gross income sourced at partner level SCH K 915-021 Gross farming or fishing income SCH K 915-03 Foreign gross income - passive SCH K 915-031 Gross nonfarm income SCH K 915-04 Foreign gross income - listed categories SCH K 915-05 Foreign gross income - general limitation SCH K 915-06 Allocable deductions partner - interest SCH K 915-07 Allocable deductions partner - other SCH K 915-08 Allocable deductions partnership - passive SCH K 915-09 Allocable deductions partnership - listed SCH K 915-10 Allocable deductions partnership - general SCH K 915-11 Total foreign taxes paid SCH K 915-12 Reduction in taxes available for credit SCH K 915-13 Total foreign taxes accrued 916-01 IRC § 59(e)(2) expenditures SCH K 916-02 Type of expenditures SCH K 917 Tax-exempt interest income SCH K 918 Other tax-exempt income SCH K 919 Nondeductible expenses SCH K 920 Distributions SCH K",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "632908aa4582f6041b75cc5f95bbd5cd",
+    "text": "Operational Automation Database (EOAD) 4.10.16 page 41",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "6dde63c4f339f6a5c69f3a2c1f58dbbc",
+    "text": "Exhibit 4.10.16-3 (Cont. 9) (03-23-2016) Partnership SAIN Codes",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "ecdcf02fbd7a5cf2c23f19c276d3dea2",
+    "text": "4.10.16-4 (01-02-2013) Codes Categorization Code Description Example/Definition Issue Changed - 02 Taxpayer unaware of tax laws Taxpayer may lack formal education No Issue Penalty or record keeping requirements or have a language barrier that Asserted prevents understanding require- ments. 03 Disregarded record keeping Taxpayer understood law and re- rules quirements but taxpayer’s poor record keeping contributed to the errors and inability to substantiate amounts claimed on the return. 05 Action or advice of Return The error resulted from action or Preparer - No Penalty asserted advice of paid preparer. The nature or amount of adjustment was not sufficient to warrant a penalty. 06 Inadvertent understatement or Taxpayer understood the law but in- overstatement of income or advertently misstated items on the deductions return. 14 Taxpayer entered item on the Self-explanatory. wrong form, schedule, or line 17 Intentional disregard of tax Taxpayer made intentional decision laws - No penalty asserted to understate income or overstate deductions, credits, or prepayments. However, the nature or amount of the adjustment was not sufficient to warrant a penalty. 18 Relied on advice of IRS Staff Taxpayer indicates the error was or Publications based upon advice from IRS personnel or information in IRS pub- lications. 20 Taxpayer relied on tax prepara- The error resulted from taxpayer’s tion software improper data entry in software program. 21 Used ’gray area’ in the law or Taxpayer/return preparer took regulations position on issue on interpretation of law.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 46
+    }
+  },
+  {
+    "element_id": "28d5f40afb2eb7764657af13dad5a450",
+    "text": "Operational Automation Database (EOAD) 4.10.16 page 43",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "24d01bbfe93afb23b4bbe147ddb9bf89",
+    "text": "Exhibit 4.10.16-4 (Cont. 1) Reason Codes",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "2982957033642fe75e35f47fa83f8bea",
+    "text": "Codes Categorization Code Description Example/Definition Issue Changed - 07 Intentional misstatement of Self-explanatory. Issue Penalty income, deductions, credits, or Asserted prepayments 10 Income/expenses entered on For example, moving deductions wrong form to reduce tax or from Schedule A to Schedule C to increase credits avoid SE tax. 19 Action or advice of Return The error resulted from action or Preparer - Penalty asserted advice of paid preparer and was suf- ficiently blatant to warrant a penalty. 32 Fraud The taxpayer omitted income or overstated deductions, credits, or prepayments with the intent to evade taxes. 33 Abusive Schemes The taxpayer asserts standard frivolous filer arguments or has used other abusive schemes. Issue Changed - 60 No earned income Self-explanatory. Earned Income 61 Filing status changed to Self-explanatory. Credit Issue married filing separate status 62 Requirement for filing Form Self-explanatory. 2555 met or Form 2555 filed 63 Non-resident alien Self-explanatory. 64 Investment income exceeds Self-explanatory. maximum 65 Taxpayer/spouse is qualifying Self-explanatory. child of another 66 Primary/secondary does not Self-explanatory. have a valid SSN for employ- ment 67 ’Relationship test’ for child Self-explanatory. claimed on Schedule EIC not met 68 ’Residency test’ for child Self-explanatory. claimed on Schedule EIC not met 69 ’Age test’ for child claimed on Self-explanatory. Schedule EIC not met",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "c2d4f78806a5db0e8b5f4de2e146bd9a",
+    "text": "Categorization Code Description Example/Definition 70 EITC qualifying child does not Self-explanatory. have a valid SSN for employ- ment 71 Taxpayer/spouse is eligible to Self-explanatory. be claimed as dependent by another 72 Main home outside United Self-explanatory. States for 6 months or more 73 Increase to earned income or Self-explanatory. AGI or modified AGI (beginning Tax Year 2001) 74 Decrease to earned income or Self-explanatory. AGI or modified AGI (beginning Tax Year 2001) 75 Taxpayer denied, tie-breaker Self-explanatory. rule 76 Change in qualifying children - Self-explanatory. Increase 77 IRS processing error Self-explanatory. Adjustments from 04 Adjustment to 1040 due to Adjustment was made to limit the Flow Through basis limitation on 1120S - shareholder’s loss due to insufficient Entities - NRP NRP basis in the S corporation. 08 Adjustment to 1040 due to at- Adjustment was made to limit the risk limitation on 1120S - NRP shareholder’s loss due to the amount at risk in the S corporation. 09 Adjustment to 1040 due to Adjustment was made to limit the passive activity limitation on shareholder’s loss from the S corpo- 1120S - NRP ration due to passive activity rules. 12 Adjustment to 1040 due to Adjustment was made to limit the basis limitation on 1065 - NRP partner’s loss due to insufficient basis in the partnership. 13 Adjustment to 1040 due to at- Adjustment was made to limit the risk limitation on 1065 - NRP partner’s loss due to the amount at risk in the partnership. 15 Adjustment to 1040 due to Adjustment was made to limit the passive activity limitation on partner’s loss from the partnership 1065 - NRP due to passive activity rules. 16 Adjustment to 1040 due to Adjustment was made to limit the passive activity limitation on owner/beneficiary’s loss from the trust - NRP trust due to passive activity rules.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "91729cd32ef2663901cf3e06aa5a5961",
+    "text": "Operational Automation Database (EOAD) 4.10.16 page 45",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "c307ce3d4d8dffc7bd1d38e2e0765cbf",
+    "text": "Exhibit 4.10.16-4 (Cont. 3) (01-02-2013) Reason Codes",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "162cce0fca570fbe436e19b3ca92c5ec",
+    "text": "Categorization Code Description Example/Definition Adjustments from 24 Due to change in S corp Adjustments resulting from the audit Flow Through income/(loss) item of the S corporation that affected the Entities - Non NRP shareholder’s share of ordinary income/(loss) and/or separately stated items. 25 Due to change in trust/estate Adjustments resulting from the audit income/(loss) item of the trust/estate that affected the owner/beneficiary’s share of ordinary income/(loss) and/or separately stated items. 26 Due to change in partnership Adjustments resulting from the audit income/(loss) item of the partnership that affected the partner’s share of ordinary income/ (loss) and/or separately stated items. 34 Adjustment to 1040 due to Adjustment was made to limit the basis limitation on 1120S shareholder’s loss due to insufficient basis in the S corporation. 35 Adjustment to 1040 due to at- Adjustment was made to limit the risk limitation on 1120S shareholder’s loss due to the amount at risk in the S corporation. 36 Adjustment to 1040 due to Adjustment was made to limit the passive activity limitation on shareholder’s loss from the S corpo- 1120S ration due to passive activity rules. 37 Adjustment to 1040 due to Adjustment was made to limit the basis limitation on 1065 partner’s loss due to insufficient basis in the partnership. 38 Adjustment to 1040 due to at- Adjustment was made to limit the risk limitation on 1065 partner’s loss due to the amount at risk in the partnership. 39 Adjustment to 1040 due to Adjustment was made to limit the passive activity limitation on partner’s loss from the partnership 1065 due to passive activity rules. 40 Adjustment to 1040 due to Adjustment was made to limit the passive activity limitation on owner/beneficiary’s loss from the trust trust due to passive activity rules. 92 Non - TEFRA Non-TEFRA issue. 93 TEFRA - Settlement Partner signed a Form 870-P, PT, L, Agreement or LT agreeing to the partnership ad- justments binding the partners to their share of the adjustments.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 50
+    }
+  },
+  {
+    "element_id": "d095fb3c2acbcf7d007e63e728b153f2",
+    "text": "Operational Automation Database (EOAD) 4.10.16 page 47",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "1bd6f163aa4339d41573219dc992b7d6",
+    "text": "Exhibit 4.10.16-4 (Cont. 5) Reason Codes",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "14f349a827de0aee6198b31ba16995b5",
+    "text": "Codes Categorization Code Description Example/Definition Other 11 No Show / No Response / Un- Used for adjustments where the deliverable Mail taxpayer did not keep any appoint- ments or respond to contact attempts or where mail to the taxpayer was returned undelivered. 22 Statutory Adjustment Automatic adjustments due to changes to income/other limits. This code is automatically generated by the report writing software. 23 Change due to adjustment in Self-explanatory. Do not use for ad- another year, financial and tax justments resulting from flow-through accounting differences, or entities. entity types - not intentional 43 Audit reconsideration Adjustment based upon reconsidera- tion of previous examination or IRS action. This includes Substitute For Return (SFR) assessment being corrected based upon the receipt of a filed return from the taxpayer. 44 Computation or ’per return’ An adjustment necessary to correct Service Center error a computational error on the return or incorrect transcription during return processing.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "b6f455f54f6c92304bd03f9decf0c1b4",
+    "text": "Adjustment based upon reconsidera",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "399a78d4d36cc0fa737f877421a35e16",
+    "text": "tion of previous examination or IRS action. This includes Substitute For Return (SFR) assessment being corrected based upon the receipt of a filed return from the taxpayer. An adjustment necessary to correct a computational error on the return or incorrect transcription during return processing.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "311092f214420e999a235e0eafac4bdb",
+    "text": "Operational Automation Database (EOAD) 4.10.16 page 49",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "b56edfdf74dc33b52cd75c658b8cf555",
+    "text": "Category Code Description Residential 11 Single family house 12 Apartment or townhouse 13 Duplex house 14 Small apartment building - less than 5 apartments 15 Medium apartment building - 5 to 9 apartments 16 Large apartment building - more than 10 apartments Vacation 21 Single family house 22 Apartment or townhouse 23 Duplex house 24 Small apartment building - less than 5 apartments 25 Medium apartment building - 5 to 9 apartments 26 Large apartment building - more than 10 apartments Commercial 31 Single store 32 2 to 4 stores 33 More than 4 stores 34 Warehouse 35 Factory 36 Office Space 40 Other commercial",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-010-016--2016-03-23.pdf",
+      "page_number": 53
+    }
+  }
+]

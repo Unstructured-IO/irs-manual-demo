@@ -1,0 +1,3737 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "c6995ec30c1e2ebb44c866ac529a152a",
+    "text": "Chief Information Officer",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "74394078d66c75c3e48df41d15df1fd3",
+    "text": "Codes NAMES, NAMEE, NAMEI, NAMEB, FINDS, TPIIP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "33dd4535fbcb569a499e24b374ac0041",
+    "text": ") This section provides speciﬁc instructions for research on the IDRS to name and address data using the NSF command codes. and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "44c8a79e880d24663889daec92890c0d",
+    "text": ") Purpose:This transmits revised IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3afb10ab4b18d92b51a1fca207886147",
+    "text": ", IDRS Terminal Responses, Command Codes NAMES, NAMEE, NAMEI, NAMEB, FINDS, FINDE, and TPIIP. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d13ba147f04d02bbfa780e2b9bfb8cc7",
+    "text": ") Audience: all IRS business units. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "cec53aa7626dd72a794bed2c21f28bb4",
+    "text": ") Program Owner: Corporate Data. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "74a4897aa84d5451ddf56ed8c0322563",
+    "text": ") Primary Stakeholders: Wage & Investment (W&I), Large and Mid-Size Business Division (LMSB), Small Business Self-Employed (SBSE), Advocate Service (TAS) and Tax Exempt/Government Entities (TEGE). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b560877d8f97dc0458d8603ae532f8e9",
+    "text": ") Program Goals: This system allows IDRS users to query a national ﬁles of name and address data for research purposes. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1a2e6b86201c97e53f5357f80a86b122",
+    "text": ") The Name Search Facility (NSF) allows IDRS users to query national ﬁles name and address data at the Enterprise Computing Center-Martinsburg (ECC-MTB) and/or the Enterprise Computing Center-Memphis (ECC-MEM). They may use a taxpayer name (and address) to locate an SSN/IRSN/ITIN an EIN, or they may use an SSN/IRSN/ITIN or an EIN to locate a taxpayer and TPIIP name (and address). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "57ccd435094c8246d43819d310b48e9f",
+    "text": ") The NSF contains the full taxpayer name as it was ﬁled on a return. It maintains multiple addresses for each taxpayer name. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "fac5d35cee34fcdbb6b2163f3d21264e",
+    "text": ") The NSF is kept current with real-time updates and with daily and weekly batch updates. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "81126ee6d861382a453b9206efe29e0f",
+    "text": ") Command Codes (CCs) NAMES/NAMEE, NAMEI/NAMEB, FINDS/FINDE, TPIIP are the primary methods of accessing the NSF. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2b45589ca262e411335c35dbe83479a6",
+    "text": ") CCs NAMES and NAMEI use the name (and optional address) to search the SSN/IRSN/ITIN(s). CC NAMES optionally includes the date of birth the SSN/TIN in the search. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8eb4a3edf2adb7a16059bdd20616890f",
+    "text": ") CCs NAMES and NAMEI search for both primary and secondary ﬁler TPIIP (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d08dfc23bf4e27b6db4979b2760c6473",
+    "text": ") CC TPIIP uses the last four digits of the primary or secondary SSN, the ﬁrst ten characters of the last name (or less, if there are less than ten the last name), the date of birth (DOB) without the year (mm/dd only), the three or ﬁve-digit ZIP Code (for domestic searches only), and the ﬁrst six acters of the street address or P.O. Box number, to search for the matching name(s) and address(es). The last three ﬁelds are optional input, if not available. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "aa37b54f8b1f4aa68e8f5686dc1ba90b",
+    "text": ") CCs NAMES, NAMEI, FINDS, and TPIIP obtain ﬁlers’ dates of birth from NAP/DM-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4beae32b8af09387b7f2f000d3b6b072",
+    "text": "ﬁles or the NSF_TMPSSN_DOB DB",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6b53f887a3bde7b3f7a40180e3a55066",
+    "text": "table, if available. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "78a647fb26fadd82fb7a3a223fe8a87a",
+    "text": ") CC FINDS uses the primary or secondary SSN/IRSN/ITIN to search for the matching name(s) and address(es).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "23636dacc7025ea647c1486bc2cd39d2",
+    "text": "Command Codes NAMES, NAMEE, NAMEI, NAMEB, FINDS, FINDE, and TPIIP 2.3.60 page 1",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "460609d8415e4145927556c62e9927bf",
+    "text": "This section provides speciﬁc instructions for research on the IDRS to query name and address data using the NSF command codes.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "cd077774b688c1145499aea087c52bcd",
+    "text": "Purpose:This transmits revised IRM 2.3.60, IDRS Terminal Responses, Command Codes NAMES, NAMEE, NAMEI, NAMEB, FINDS, FINDE,",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e6a8f35a7f617d19fa491998e31a6b93",
+    "text": "CCs NAMES and NAMEI search for both primary and secondary ﬁler names.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "574377134c4e514c616abb8c7218cf58",
+    "text": "CCs NAMES, NAMEI, FINDS, and TPIIP obtain ﬁlers’ dates of birth from the NAP/DM-1 ﬁles or the NSF_TMPSSN_DOB DB2 table, if available.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2a8489c04a433fc8bdc58f4f78230e1e",
+    "text": "IDRS Terminal (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "065fba6b9907721dea4819af4e6e760a",
+    "text": ") CC TPIIP uses the primary or secondary SSN to search for the matching name(s) and address(es). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3cc8433122641fa503568dc7f29c72db",
+    "text": ") CCs NAMEE and NAMEB use the name (and optional address) to search for the EIN(s). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "04676d4dc2c2fd1d9f34c972f3059313",
+    "text": ") CCs NAMEE and NAMEB search for both primary and “doing-business-as” names. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6bbf7fe50df0f470dc2c9f08793ca109",
+    "text": ") CC FINDE uses the EIN to search for the matching name(s) and address(es). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "04cb8b6ac2f4a8190c7f7e745c73f367",
+    "text": ") CCs NAMES/NAMEE present a formatted input screen. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "17fd8f323156c429b7b853c58ed2b195",
+    "text": ") The “Name” ﬁeld is required for a NAMES/NAMEE search. The correct format for CC NAMES is either the last name alone, or the last name, a comma, and the ﬁrst initial or ﬁrst name. Both parts of a hyphenated name should be The correct format for CC NAMEE is the business name with no commas. best results with a NAMEE (EIN) “person name” search, users should either move the person’s last name to the ﬁrst position, or enter a right bracket before the last name, and another right bracket before the suffix(es), if any, the formatted input screen. If there are no suffixes, the second right bracket is not needed. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "0c4575d0b034d87e587a292f0fc80ee8",
+    "text": ") A full or a partial street address may be entered in the “Address” ﬁeld, beginning on the left. The full address, if entered, must exactly match the address that is on the NSF data base. A partial address, if entered, must exactly match the ﬁrst six characters of the address that is on the NSF data base. Optionally, for CC NAMEE only, the actual number of a street address P.O. Box (without the literal) may be entered in the “Address” ﬁeld. The address or partial address, if known, is used to limit the search results. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "82ae1aa6029cc81393346169e20a11be",
+    "text": ") The full city name or the Major City Code (MCC) may be entered in the “City” ﬁeld. (Refer to Document",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "43acecb39b0dc50372072463212ef25f",
+    "text": ", State and Address Abbreviations, Major City Codes (MCCs), ZIP Codes and Countries for Major City Codes.) The city or MCC is not used in the search if the ZIP Code is also entered. The city name or MCC is used for domestic (USA) searches, but is not used in foreign (non-USA) searches. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "dd1073678b74b5a6048ed465d3f83fba",
+    "text": ") A valid two-digit state code may be entered in the “State” ﬁeld. The default (if no state code, ZIP Code, or country is entered) is a national (USA) search. Two asterisks (**) entered in this ﬁeld can still be used to request a “national ” search, but are no longer needed. The state code is not used in the search if ZIP Code or a country is also entered. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e56bee052d70fc7869b35f0509e6c7ce",
+    "text": ") A full (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "177cf84b293550e0c0cfe451f4f5a769",
+    "text": "-digit) ZIP Code or a partial (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "eb634cee6eabaa84dd51e216d6a3fe6e",
+    "text": "-digit) ZIP Code (ZIP Sectional Center) may be entered in the “ZIP” ﬁeld. If the ZIP Code is entered, it must be valid (not all zeros). The most efficient search is done when the name and ZIP are entered. The city name (or MCC) and state code are not used in the search if the ZIP Code is also entered. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5f4ca1e4a279888a820755f7285d4237",
+    "text": ") The taxpayer’s date of birth may be entered in the CC NAMES “DOB” ﬁeld, to only obtain name (and address) matches which also match on the date of birth. A blank or two asterisks (**) entered in this ﬁeld, instead of the date of birth, will cause all available dates of birth to be displayed with the name (and address) matches on the results screen. Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5c62e091b8c0565f1bafad0dad593427",
+    "text": "P",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "db2a120d1f181d8894e7a14f3bb61d23",
+    "text": "(01-01-2013) Command Codes NAMES/NAMEE Input Format",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "df094d11df613ac2cb6abde10868741b",
+    "text": "NAMES, NAMEE, NAMEI, NAMEB, FINDS,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ef51e648dfc814b76990088c13114222",
+    "text": "page (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "5c2bb7934f11a474bb9f518239ae46e8",
+    "text": ") The entire foreign country name or a Country Code (Refer to Document must be entered in the “Country” ﬁeld for an international (non-USA) search only. A phonetic match is done for the country name. Two asterisks (**) in the “Country” ﬁeld are used to request a complete “foreign” (non-USA) search. This ﬁeld must be left blank for a “domestic” (USA) search. The country name has priority over the state code and the ZIP Code. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "0fd5dcdfa6f29aa0b42ba7715b8f002d",
+    "text": ") Blanks in the “State”, “ZIP”, and “Country” ﬁelds will cause the default (USA) search to be done. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "bd43d7224732d6067a6b5dab41434c3e",
+    "text": ") The “exact match” (non-phonetic) search option for CCs NAMES and may be selected by entering anything other than blank or “N” in the ﬁeld labeled “ EXACT MATCH ON NAME INPUT”. For CC NAMES, a search for “ SMITH,J” ﬁnds “JAMES SMITH” as well as “ J. SMITH”, but will not ﬁnd “J. Smythe”. The “exact match” search also matches on the middle name. A search for “GARCIA,MARIA DELORES” ﬁnds “MARIA DELORES GARCIA” this name is on the NSF data base), but does not ﬁnd “MARIA LUISA GARCIA”. For CC NAMEE, the word or phrase that is entered in the “Name” ﬁeld must be identical to or contained within the taxpayer name. A search for “REFRIGERATOR REPAIR” ﬁnds company names such as “AJAX REFRIG- ERATOR REPAIR COMPANY”. Hyphenated names can also be used in NAMES and NAMEE “exact match” searches. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2b23b31a0b2b1b0443c49187dcb5e43a",
+    "text": ") The taxpayer’s SSN/TIN may be entered in the CC NAMES “TIN” ﬁeld, to obtain name (and address) matches which also match on the TIN. The program will complete an ″evaluate″ process of potential matches when up two digits do not match, and display the potential matches. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "6113fe2322a9a95f2b20af33969a6ae6",
+    "text": ") The user may request a hardcopy listing, using CCs NAMES/NAMEE with a deﬁner of “X”. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "9b153d98a4e720dbfef06db4f541df90",
+    "text": ") See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "840c5f56d7f1441c8bcec4422d41f33b",
+    "text": ", Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "c70869aa4b5e18a4460e30cecf0aed26",
+    "text": ", and Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "58a39efb58d53252b9bf628bf2026139",
+    "text": ", for instructions using CCs NAMES/NAMEE. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "e31b200c7b7be52bb6ba780b2c275460",
+    "text": ") CCs NAMEI/NAMEB do not use a formatted input screen. Input ﬁelds follow the command code name on the top line of the screen. They are variable in length and must be separated by commas. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "7e2230897a32b3b96b15aeec1ab458eb",
+    "text": ") CCs NAMEI/NAMEB search the NSF data base using the ﬁrst",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a37c886efd56a128de59d709b582a25f",
+    "text": "char- acters of the last name (required) and the ﬁrst",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "4b896654b71e71111cf44c10e4d4268c",
+    "text": "characters or the initial of ﬁrst name (if entered). For CC NAMEI input, the length of the last name is limited to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b0b41ac96a6cc59d3cfd99cb2bb6eba9",
+    "text": "characters, and the length of the ﬁrst name is limited to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "c3887c7e368cc4d0c462e5e2d994208f",
+    "text": "acters. For CC NAMEB input, the length of the last name is limited to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b0b41ac96a6cc59d3cfd99cb2bb6eba9",
+    "text": "characters, and the length of the ﬁrst name is limited to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "786506f1a0d83dac6df80ed032472620",
+    "text": "characters. Either part of a hyphenated last name can be used, but not both parts. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "63a02337505203b5c9847eda3fc324ae",
+    "text": ") For CC NAMEI/NAMEB searches without ﬁrst name data, a hyphen (-) or a plus (+) can be used in the ﬁrst name ﬁeld to control the type of search. If a hyphen is used, matching will only be done on the key that was entered; is no defaulting, and matching is only done on the ﬁrst",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "1a76810a3be7785181cde408baead4ca",
+    "text": "characters of the last name. When a plus is used in the ﬁrst name ﬁeld of a NAMEB “corpora- tion search”, the search is done on up to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a1b399f7af51bf49c680c90958ecbc44",
+    "text": "characters of the last name, and there is defaulting. If the name consists of less than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "5e864acdcacbf4ce0c4b9d8b3d76a286",
+    "text": "characters, it is not necessary to key in trailing blanks. Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "37ae35cd2b1726fd68e42bf59ff3083c",
+    "text": "Command Codes NAMES, NAMEE, NAMEI, NAMEB, FINDS, FINDE, and TPIIP 2.3.60 page 3",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "45e07ab8a975395f35a6d4900cf3c145",
+    "text": "(01-01-2006) Command Codes NAMEI/NAMEB Input Format",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2a8489c04a433fc8bdc58f4f78230e1e",
+    "text": "IDRS Terminal (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e3ae022f557a8d0301e093ed94f8dc7d",
+    "text": ") Commas and periods must not be entered within the last name or ﬁrst name CC NAMEI/NAMEB searches. Commas are only used as delimiters for the NAMEI/NAMEB ﬁelds. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "0d101307142415f901639d66711b1a71",
+    "text": ") CCs NAMEI/NAMEB can use either the ﬁrst three digits of the ZIP Code Sectional Center), the full ﬁve digits of the ZIP Code, or a ZIP Sectional Defaulting will not occur if a ZIP Sectional range is used. A “foreign” search is requested with a “ZIP Sectional Center” of zeros (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "a1c36b6cd420bb339df7b8ab2656a04f",
+    "text": "). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3781520aa90f168eb56d7d9e43621f56",
+    "text": ") The state code can be used in CC NAMEI/NAMEB searches. Defaulting will not occur for state searches. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8abfb9394414e0de9ce5ba676657dbe1",
+    "text": ") CCs NAMEI/NAMEB use the ﬁrst six characters of the street address or P.O. Box number. Input should begin with the actual number. The literal, such as “PO Box”, should not be entered. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "c3770e2f2619bf282f5e86f0ae87ba5f",
+    "text": ") A CC NAMEI/NAMEB request is honored with a minimum input of the ﬁrst",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "56223459fdb0b278e8e2bbaaa1512a9b",
+    "text": "characters of the last name. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "158f526434682f20aabf548aea3b7a45",
+    "text": ") The user may request a hardcopy listing, using CCs NAMEI/NAMEB with a deﬁner of “X”. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "9b153d98a4e720dbfef06db4f541df90",
+    "text": ") See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "bfb2d508c65e681cc7a38b81b8798f61",
+    "text": "and Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "986f7a5886ea4f42b5ab6fbb98a524f3",
+    "text": "for instructions on using CCs NAMEB. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "2fca138215fa6209f5525e9906eea060",
+    "text": ") CCs FINDS (SSN/IRSN/ITIN) and FINDE (EIN) require the user to enter the command code name, the deﬁner, and the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "20ee575efbac5d7d318b4280a97a5107",
+    "text": "-digit TIN (with no hyphens), including leading zeros, if present. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e66aff071bd06adfb6de3231e2608949",
+    "text": ") The CC FINDS/FINDE domestic search requires the deﬁner, “D”, and the national search requires the deﬁner,“I”. If users do not enter a deﬁner, they receive an error message. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "0c8b4a4def279a87a8760f0d0753ce12",
+    "text": ") CC FINDS searches for the primary or secondary SSN/IRSN/ITIN. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "cef920db46f928e6feffbf3582930a05",
+    "text": ") CCs FINDS/FINDE do not have a hardcopy option, as there are generally fewer results for this search than for the other NSF command codes. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "9b153d98a4e720dbfef06db4f541df90",
+    "text": ") See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "35c89f5864af9d537b6c855c045ad621",
+    "text": "for instructions on using CCs FINDS/FINDE. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "923e4c841f781ca5dc226f15d590cd7b",
+    "text": ") CC TPIIP requires the user to enter the command code name, the deﬁner, last four digits of the primary or secondary SSN, including leading zeros, if present, the ﬁrst ten characters of the last name (or less, if there are less ten characters in the last name), the date of birth (DOB) without the year (mm/dd only), the three or ﬁve-digit ZIP Code (for domestic searches only), and the ﬁrst six characters of the street address or P.O. Box number, to for the matching name(s) and address(es). The last three ﬁelds are optional input, if not available. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "a17ba9d5e712ece3666cdd81913a8f0a",
+    "text": ") The CC TPIIP domestic search requires the deﬁner, “D”, and the search requires the deﬁner,“I”. If users do not enter a deﬁner, the default is “ D”. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "7f5d7d134edac2ac87a7d81e6244381e",
+    "text": ") CC TPIIP searches for the primary or secondary SSN. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d4a9be905227dda1b00afac64cee8729",
+    "text": ") CC TPIIP does not have a hardcopy option, as there are generally not many results for this command code. Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "5c62e091b8c0565f1bafad0dad593427",
+    "text": "P",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ee03b1278a6ccc3a5278436196e1d7d9",
+    "text": "(01-01-2006) Command Codes FINDS/FINDE Input Format",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d42933ea3ffe84235fb68a1c437c1524",
+    "text": "(01-01-2013) Command Code TPIIP Input Format",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f4b227f4af2e9cb03dcffb3866f5980d",
+    "text": "The CC TPIIP domestic search requires the deﬁner, “D”, and the international search requires the deﬁner,“I”. If users do not enter a deﬁner, the default is “",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "74394078d66c75c3e48df41d15df1fd3",
+    "text": "Codes NAMES, NAMEE, NAMEI, NAMEB, FINDS, TPIIP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "9b153d98a4e720dbfef06db4f541df90",
+    "text": ") See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "59af5244f60be94d2d343e1f244ff871",
+    "text": "for instructions on using CC TPIIP. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "424c1cf1d089a71d1fff4f3c59a3bbfe",
+    "text": ") CCs NAMES/NAMEE (without the “exact match” search option) display taxpayer names that have spelling, phonetic, or nickname similarities to the requested name. CCs NAMEI/NAMEB display character-by-character of the search data. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "87455c6934135380e9ca0c0b754b92be",
+    "text": ") CCs NAMES, NAMEI, FINDS, and TPIIP display the taxpayer name as it and TPIIP appears on the return, whether it is the primary or secondary ﬁler name (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "917eeb72c7c0fa8552b8ac0ca842f16f",
+    "text": ") CCs NAMEE, NAMEB, and FINDE display the taxpayer name as it appears the return, whether it is the primary or “ doing-business-as” name (EIN). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7e03d338dd559ed2043ecc7ecc28e794",
+    "text": ") CCs NAMES/NAMEE, NAMEI/NAMEB, FINDS/FINDE, and TPIIP return than one name, if it is on the NSF data base. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "aa69928cafc468c2999071b7a7004614",
+    "text": ") CCs NAMES/NAMEE and NAMEI/NAMEB also display all records that have the same TIN as those that match on name (and address). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "eece4c480c7d44922da012d3010135e6",
+    "text": ") CCs NAMES/NAMEE, NAMEI/NAMEB, FINDS/FINDE, and TPIIP return multiple addresses for a taxpayer name, if they are on the NSF data base. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d379604112886de8b50b1045cadc7647",
+    "text": ") CCs NAMES/NAMEE, NAMEI/NAMEB, FINDS/FINDE, and TPIIP display multiple Master File source codes for each name/address. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "149a3c197096ca1b5ba1a1785fea9941",
+    "text": ") CCs NAMES/NAMEE, NAMEI/NAMEB, FINDS/FINDE, and TPIIP all display results in the same output format. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "bcc89eae61da10ae659a55f589c93ed1",
+    "text": ") CCs NAMES/NAMEE display taxpayer names in the sequence of their ability of matching the requested name, with the exact match(es) being displayed ﬁrst. Names that contain the requested name are displayed ately after the exact match(es). Records that have the same TIN are together, even if the names are different. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b1046909e3dde7556fb872ca76e53ba5",
+    "text": ") CCs NAMEI/NAMEB display taxpayer names in alphabetical order. records that have the same TIN are displayed together, even if the names different. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "543dd6f4c9f769de4e913e2bf4ce2d7d",
+    "text": ") CCs FINDS/FINDE results are sorted ﬁrst by primary TIN (when the search was for the secondary TIN), then by activity cycle, and then by name. The activity cycle is displayed in descending order, with the most current data (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "255718c67bae1b5c2a897384366b83ee",
+    "text": ") CCs NAMES/NAMEE, NAMEI/NAMEB, FINDS/FINDE, and TPIIP provide IDRS-like paging when display of multiple records requires it. The command codes are limited to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "9d86448077a390bc6cf5f365d8af0d47",
+    "text": "pages. If more are needed, the user may request a hardcopy listing for CCs NAMES/NAMEE and NAMEI/NAMEB, by using a deﬁner of “X”. CCs FINDS/FINDE and TPIIP do not have a hardcopy option, they generally have fewer results. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "53ba1b5781ed4b5bcad643bb205f33a6",
+    "text": ") When CCs NAMES/NAMEE obtain more matches than can be displayed on pages, they will display a message that the limit has been exceeded, and display the ﬁrst",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1e022319a8e337e67f133c0757c59b83",
+    "text": "pages. Since the names are sorted according to the closeness of the match to the requested name, this output is likely to be useful. However, when CCs NAMEI/NAMEB obtain more matches than can displayed on",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "9ef59d0b43504717a2e9209c5f362a53",
+    "text": "pages, they will only display the message that the limit has (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d3076e301586533e1b5a7074891a1c50",
+    "text": "Command Codes NAMES, NAMEE, NAMEI, NAMEB, FINDS, FINDE, and TPIIP 2.3.60 page 5",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "641f32cff8bbe14e06bb6e67a485f758",
+    "text": "CCs NAMES, NAMEI, FINDS, and TPIIP display the taxpayer name as it appears on the return, whether it is the primary or secondary ﬁler name",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "398462b936cca452b1c47d4b3013078d",
+    "text": "CCs NAMEE, NAMEB, and FINDE display the taxpayer name as it appears on the return, whether it is the primary or “ doing-business-as” name (EIN).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "6d9f7de888449f1a7e3433b765003da8",
+    "text": "CCs NAMES/NAMEE, NAMEI/NAMEB, FINDS/FINDE, and TPIIP return multiple addresses for a taxpayer name, if they are on the NSF data",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1f4298eff3f4b7f35aa164ee00025d4c",
+    "text": "IDRS Terminal been exceeded. They will not display the ﬁrst",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "c38bd20e50f94d9d85e4d50c7a921702",
+    "text": "pages of results, because they are sorted in alphabetical order, and a partial results set could be ing. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9b153d98a4e720dbfef06db4f541df90",
+    "text": ") See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "840c5f56d7f1441c8bcec4422d41f33b",
+    "text": ", Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "840c5f56d7f1441c8bcec4422d41f33b",
+    "text": ", Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "840c5f56d7f1441c8bcec4422d41f33b",
+    "text": ", Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "c1bdab1bbca3bde52edecd6ec56cffbb",
+    "text": ",...Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "840c5f56d7f1441c8bcec4422d41f33b",
+    "text": ", Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "840c5f56d7f1441c8bcec4422d41f33b",
+    "text": ", Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "c70869aa4b5e18a4460e30cecf0aed26",
+    "text": ", and Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "c2cb5a1b5fabb7a739b22b40536472e0",
+    "text": "for CCs NAMES/NAMEE, NAMEI/NAMEB, FINDS/FINDE, and output screen layouts. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "6ec70b3bb837f21bd9b92c3ba983aa61",
+    "text": ") CCs NAMES/NAMEE use an off-the-shelf software package to standardize generate search keys for the name. Standardization includes dropping words” (i.e., Mr., Ms., Jr., MD, Corp., Inc., etc., are not used as search (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "a5f07a2571bf7cb4e871466becce77d9",
+    "text": ") CCs NAMEI/NAMEB perform simple character-by-character comparisons of search data. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "fdb2dd47587449f4ef058bfcf70cdb6c",
+    "text": ") A CC NAMES/NAMEE search using only part of the last name is unlikely to successful. However, a CC NAMEI/NAMEB search may be done with the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3e0069ec11ba8c8183dbc08634ad81e6",
+    "text": "characters (or the ﬁrst",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "076796e62b3379706f2288a09b751539",
+    "text": "characters of a NAMEB “corporation search”) longer name. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "6998b68253dd09d4aa20f2959fe9b01f",
+    "text": ") When a CC NAMES/NAMEE search does not include a state code, ZIP or country name, the default is a national (USA) search. If the user enters in the “State” ﬁeld and no ZIP Code or country name, a national search is done, but the asterisks are no longer needed. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "39b3ecc84b834680a0680276db92d976",
+    "text": ") A CC NAMES/NAMEE “foreign” (non-USA) search is done when the user enters “**” in the “Country” ﬁeld. A CC NAMEI/NAMEB foreign search is when the user enters a “ZIP Sectional Center” of zeros (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "a1c36b6cd420bb339df7b8ab2656a04f",
+    "text": "). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "43b41fb6deba4366ada019409b230b60",
+    "text": ") Search time for CCs NAMES/NAMEE and NAMEI/NAMEB is related to the quality of the input ﬁelds. Using a ﬁrst name or an initial in addition to the name is better than using the last name alone, especially if it is a common name. A ZIP Code search is more efficient than a state or national (USA) search. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "ffb0b2b54c2dcdd3206f8c1daf132e7f",
+    "text": ") For CC NAMES, a “hyphenated” last name can be input with or without the hyphen. If the double last name is entered with a hyphen between the two names, a search key is only generated for the ﬁrst part of the double name. the double last name is entered without a hyphen between the two names, search keys are generated for both parts of the double name. For that the results for those two types of searches can be different. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "bed584700aaddc7cc2b2c974711e3081",
+    "text": ") CCs NAMES/NAMEE do one search, based on all of the user’s entries. do not default (expand the search), as do many types of NAMEI/NAMEB searches. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "7b275112552ffb4e739f68f91c27edbc",
+    "text": ") The default procedures for CCs NAMEI/NAMEB are as follows: After all of search ﬁelds are input, they are analyzed for matching accounts on the The ﬁrst step is an attempt to match on all ﬁelds. If there is no match on the full input, the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "5ac043363639fb2cd8386d2f7918baea",
+    "text": "th and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "b24d57d61273ef1b6d2c2049cf55139d",
+    "text": "th digits of the ZIP Code are dropped. If there is still match, the address ﬁeld is dropped and the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "5ac043363639fb2cd8386d2f7918baea",
+    "text": "th and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "78bbb14bd41e7f517eadb23b71cf74ec",
+    "text": "th digits of the ZIP are added back. If there is still no match, the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "5ac043363639fb2cd8386d2f7918baea",
+    "text": "th and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "f50164d21c3a90d9bb4fe523c7d0c2b2",
+    "text": "th digits of the ZIP are dropped, and an attempt is made to match on both names plus the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "76d7d97cea6d68b54beae23b131feec0",
+    "text": "-digit If there is still no match, the ZIP is dropped in an attempt to match to both the names. If that fails, all of the characters in the ﬁrst name except for the Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "5c62e091b8c0565f1bafad0dad593427",
+    "text": "P",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "97c536f67d41fbd32a4f0362be9a03b7",
+    "text": "(01-01-2007) Command Codes NAMES/NAMEE and NAMEI/NAMEB Performance",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "470b7e5f99d392ce05d7818017059dd5",
+    "text": "The default procedures for CCs NAMEI/NAMEB are as follows: After all of the search ﬁelds are input, they are analyzed for matching accounts on the NSF. The ﬁrst step is an attempt to match on all ﬁelds. If there is no match on the full input, the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "5ac043363639fb2cd8386d2f7918baea",
+    "text": "th and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "b24d57d61273ef1b6d2c2049cf55139d",
+    "text": "th digits of the ZIP Code are dropped. If there is still match, the address ﬁeld is dropped and the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "5ac043363639fb2cd8386d2f7918baea",
+    "text": "th and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "78bbb14bd41e7f517eadb23b71cf74ec",
+    "text": "th digits of the ZIP are added back. If there is still no match, the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "5ac043363639fb2cd8386d2f7918baea",
+    "text": "th and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "f50164d21c3a90d9bb4fe523c7d0c2b2",
+    "text": "th digits of the ZIP are dropped, and an attempt is made to match on both names plus the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d78ddd73e5e311392dac804cb25f09ef",
+    "text": "-digit If there is still no match, the ZIP is dropped in an attempt to match to both of the names. If that fails, all of the characters in the ﬁrst name except for the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "73621517f7cc059b750df5c089e89364",
+    "text": "Command Codes NAMES, NAMEE, NAMEI, NAMEB, FINDS, FINDE, and TPIIP 2.3.60 page 7",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "04bde145a429d3fa31d4586262c7b563",
+    "text": "initial are dropped, and the search begins again with the new “full ” key. The other steps are repeated in the same sequence, with the exception of using the ﬁrst initial instead of the full ﬁrst name. If all else fails, the search will attempt to match on the last name only. Due to the general nature of the request, the resulting displays may reveal more than one TIN for the input ﬁelds. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "a1122938bc703b8fbbb8586e6db49889",
+    "text": ") A CC NAMEI/NAMEB search can be limited by varying input data. These command codes can speciﬁcally address accounts with ﬁrst and last names, those without ﬁrst name data. If a hyphen (-) is used in the ﬁrst initial ﬁeld, matching will only be done on the key that was entered; there is no If a plus (+) is used in the ﬁrst initial ﬁeld, defaulting may occur. If the CC NAMEB ﬁrst initial is a plus (+) for a “corporation search”, matching is done the ﬁrst",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d95547c15fb0642048d20785f5db86bd",
+    "text": "characters of the last name instead of only the ﬁrst",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d38ede435e5d8a871154348db0553d8a",
+    "text": "characters. the entire last name consists of less than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "60674a047d61e0beddb980dd46b116c5",
+    "text": "characters, it is not necessary key in trailing blanks. Defaulting will not occur if a ZIP range or a state is done. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "c03e91afd908caa13426e3a1e5fe6182",
+    "text": ") Command Codes NAMES/NAMEE and NAMEI/NAMEB with a deﬁner “X” will generate a request for an NSF hardcopy report. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "18642c6e5f7b19cbc4902ffcb11ddc13",
+    "text": ") The deﬁner “X” must follow the CC NAMES/NAMEE or NAMEI/NAMEB. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "ced8f53ccb5b9df8bfd12e31e845778c",
+    "text": ") A CC NAMEB request with a deﬁner of “X” and a ﬁrst initial of plus (+) will use the additional last name characters (more than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "616184d4484a12024eb56d766bbb8990",
+    "text": ") as selection criteria. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8a9c34fb3ee32986cbc4d90bc3ccab8c",
+    "text": ") The NSF hardcopy reports are made available to multiple users, located throughout the country, who log into the Control-D We",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "5f4fa1dd69c7c9c2ecf3eaf92c1a4763",
+    "text": "ccess (CTDWA ) server.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "9caf3bde70fcbc2d8a7c96c6e5a30c08",
+    "text": "request, the resulting displays may reveal more than one TIN for the input ﬁelds. A CC NAMEI/NAMEB search can be limited by varying input data. These command codes can speciﬁcally address accounts with ﬁrst and last names, those without ﬁrst name data. If a hyphen (-) is used in the ﬁrst initial ﬁeld, matching will only be done on the key that was entered; there is no If a plus (+) is used in the ﬁrst initial ﬁeld, defaulting may occur. If the CC NAMEB ﬁrst initial is a plus (+) for a “corporation search”, matching is done the ﬁrst",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d95547c15fb0642048d20785f5db86bd",
+    "text": "characters of the last name instead of only the ﬁrst",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d38ede435e5d8a871154348db0553d8a",
+    "text": "characters. the entire last name consists of less than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "9a3efec3aa42e58b457766fbb9b2753a",
+    "text": "characters, it is not necessary key in trailing blanks. Defaulting will not occur if a ZIP range or a state",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "c03e91afd908caa13426e3a1e5fe6182",
+    "text": ") Command Codes NAMES/NAMEE and NAMEI/NAMEB with a deﬁner “X” will generate a request for an NSF hardcopy report. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "18642c6e5f7b19cbc4902ffcb11ddc13",
+    "text": ") The deﬁner “X” must follow the CC NAMES/NAMEE or NAMEI/NAMEB. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "b328c1c9505353bc39f523dad8c15549",
+    "text": ") A CC NAMEB request with a deﬁner of “X” and a ﬁrst initial of plus (+) will not use the additional last name characters (more than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "616184d4484a12024eb56d766bbb8990",
+    "text": ") as selection criteria. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8a9c34fb3ee32986cbc4d90bc3ccab8c",
+    "text": ") The NSF hardcopy reports are made available to multiple users, located throughout the country, who log into the Control-D We",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "5f4fa1dd69c7c9c2ecf3eaf92c1a4763",
+    "text": "ccess (CTDWA ) server.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "30a6bce2e7d3723dacecc8a23d366eda",
+    "text": "A CC NAMEB request with a deﬁner of “X” and a ﬁrst initial of plus (+) will not use the additional last name characters (more than 10) as selection criteria.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "33c1e29902d678cbcff13d561dbfd825",
+    "text": "This Page Intentionally Left Blank",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "cc1032d467e6ecccc5380ce53ba8ff48",
+    "text": "Command Codes NAMES, NAMEE, NAMEI, NAMEB, FINDS, FINDE, and TPIIP 2.3.60 page 9",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "61a2a9c23d22eb1865b140f00a1fc46a",
+    "text": "Exhibit 2.3.60-1 (01-01-2007) Command Codes NAMES/NAMEE Input Screen",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "526e0087cc3f254d9f86f6c7d8e23d95",
+    "text": "Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d8550fe308e76798cbf7ec331dca90ee",
+    "text": "Screen format to input a NAMES or NAMEE request.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "dd2e5cf70aa8344ef21eafd70fff567b",
+    "text": "10 z0 30 40 0 &0 70 2012345678201234 567900 12345678201 23456 782012 34 567850 12245678 F0LE3456 705012 34 567830",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "b0a6b2c500f1ac8a68c280abf1f6ab29",
+    "text": "10 z0 30 40 Lo &0 70 012345678201234 567900 12345678201 23456 782012 34 567850 12245678 F0LE3456 705012 34 567830",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "5594dd054170d6016fc4672a8e62f903",
+    "text": "122406780012 34 Le7E001E 240672901 223456 720012 24 BE7 200 12240672901 223405729012 34 £67 830140 z0 30 40 0 &0 k) &0",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "c98ef2a9333f606a9da143e4aaf8f19c",
+    "text": "Exhibit 2.3.60-2 (01-01-2013) Command Code NAMES (SSN/IRSN/ITIN) Search Criteria Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "6f264b81e143302f5a33ea507553bed5",
+    "text": "Formatted screen for entering NAMES search criteria for SSNs/IRSNs/ITINs.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "06374edd1a8f8607587f8907c11ce793",
+    "text": "The last name must be entered. Additional ﬁeld entry will improve search perfor- mance and response time. If the ﬁrst name or initial is also entered, it must follow the comma which follows the last name.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "dfaa10691f2f6f26a95370ec626e7087",
+    "text": "1-9 11-19 21-29 31-39 41-49 51-59 61-69 71-8012345678901234567890123456789012345678901234567890123456789012345678901234567890NAMESNAMEADDRESSCITYSTATEZIPDOB YYYYMMDDCOUNTRYEXACT MATCH ON NAME INPUTTIN3 OR 5 DIGIT ZIP-CD WILL IMPROVE RESPONSE12345678901234567890123456789012345678901234567890123456789012345678901234567890",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "f371bc4a311f2b009eef952dd83ca80e",
+    "text": "12345678901234567890123456789012345678901234567890123456789012345678901234567890",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3d8b7419c9e5234336eb0456b07f6e69",
+    "text": "‘ 12345678901234567890123456789012345678901234567890123456789012345678901234567890 |1 119 21-29 39 41-49 519 61-69 71-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "5e478711199bc4e0da096ea6e8bb9648",
+    "text": "Command Codes NAMES, NAMEE, NAMEI, NAMEB, FINDS, FINDE, and TPIIP 2.3.60 page 11",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "c2f250af97ca1137a65417f8138eb500",
+    "text": "Exhibit 2.3.60-2 (Cont. 1) (01-01-2013) Command Code NAMES (SSN/IRSN/ITIN) Search Criteria Screen",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "8043df45282078b82851db47122c912c",
+    "text": "Line Position Description and Format 1 1–5 Command Code: “NAMES” 1 6 Command Code Deﬁner: “ ” - Screen display “X” - Hardcopy 3 1–4 Literal: “NAME” 3 10–44 Taxpayer Name: Last name orLast name, ﬁrst name or 4 1–7 Literal: “ADDRESS” 4 10–44 Taxpayer Address May be partial address, left (must be exact) 5 1–4 Literal: “CITY” 5 10–31 City Name: Full city name or2-character valid Major (MCC) 6 1–5 Literal: “STATE” 6 10–11 State Code: 2-character valid state or“” or “**” - national (USA) 7 1–3 Literal: “ZIP” 7 10–14 ZIP Code: ZIP Code, 5 character orZIP Sectional Center, of ZIP Code or“” - state or national 8 1–3 Literal: “DOB” 8 10–17 Date of Birth: YYYYMMDDor“”or“**”-allavailable dates of 9 1–7 Literal “COUNTRY”",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "786a162c7612dbc1c96c4b4cb0d82961",
+    "text": "Exhibit 2.3.60-2 (Cont. 2) (01-01-2013) Command Code NAMES (SSN/IRSN/ITIN) Search Criteria Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "16a346ffed56ee5e101977ff93182f82",
+    "text": "Description and Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "4038dafebd1e8ce6b99f93b8aeed578b",
+    "text": "International Taxpayer Country:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a081fb6f2ce398dbf13c63d2b77d1b50",
+    "text": "Country Code (Refer to Document",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "04d2b39018350a34c5c234f2d942f823",
+    "text": ")or“”-domestic (USA) or“**” - all foreign (non-USA) countries “EXACT MATCH ON NAME INPUT” “N” or “ ” - no exact match on name; other than “N” or “ ” - exact match on name “TIN”",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d819eb9a651a541ca3a78617ced2713d",
+    "text": "-digit numeric SSN/TIN “",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "829e5b28af38ab3379fd0b4f3fd4f2f1",
+    "text": "OR",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "3b664e272c6cb9fc0cfe79b043595d59",
+    "text": "-digit ZIP-CD WILL IMPROVE RESPONSE”",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "31963b447bbeb25f4e0794b3367cdfd5",
+    "text": "Command Codes NAMES, NAMEE, NAMEI, NAMEB, FINDS, FINDE, and TPIIP 2.3.60 page 13",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "7bc57732e4cbd3de7ee1380d864dda5e",
+    "text": "Exhibit 2.3.60-3 (01-01-2011) Command Code NAMEE (EIN) Search Criteria Screen",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "0cf2814604b4c9ad9139ebf7792b197f",
+    "text": "Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "86a1af3ba6ef6f28d1ab650cad805b6c",
+    "text": "Formatted screen for entering NAMEE search criteria for EINs.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "6a8232f0d451ceb6161ad8ff22ba7833",
+    "text": "Constraints:",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "e310875978ebb3a9722c86b6b0be8bad",
+    "text": "The full business name must be entered, with no commas. For best results with a “person name”, users should either move the person’s last name to the ﬁrst position, or enter a right bracket before the last name, and another right bracket before the suffix(es), if any.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "7993f7645a937534862d0725f9955d9b",
+    "text": "Additional ﬁeld entry will improve search performance and response time.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "aa5a8cb6b276b84dc529bf436199cd80",
+    "text": "o1Z224C6 72001824 EE7RB01E 34EET2 01 23458735012 34 BET 200 1224678301 2348572301224 BET 830",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "302f0a223c99f666ed6b55f4e5022a99",
+    "text": "[ B R A10111z13141t1€171319=0Z1ZZ2324NIMEENiMEADDEREZSCITYSTATEZIPpCOUNTRYEXACT MATCH OM MAME INFPUT3 OR & DIGIT ZIP-CD WILL IMPROWE RESPONEZE",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "a57990ecc7c8cac11d6af1b10899a572",
+    "text": "H Ot W WD D10111z13141t1€171319=0Z1ZZ2324",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "0e5aabecadf8d5313150b401a0b700b6",
+    "text": "3 OR & DIGIT ZIP-Cl WILL TMPROWE RESPONSE",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "e411e828fcb5bb980281019d28685d77",
+    "text": "123456785012 234 56785018 34E672 2301 23406730012 34 BE7 800 12240672501 22456723012 24 BE785010 20 20 40 £Q €n 0 20",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "e08bfd3520f5623f9b45fc31c3ebb582",
+    "text": "2.3.60-3 (Cont. 1) (01-01-2011) Code NAMEE (EIN) Search Criteria Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "881649ff76aa935d40ebe3b2e6553fa8",
+    "text": "Code NAMEE (EIN) Search Criteria Screen Line Position Description and Format 1 1–5 Command Code: “NAMEE” 1 6 Command Code Deﬁner: “ ” - Screen display “X” - Hardcopy 3 1–4 Literal “NAME” 3 10–80 Business Name No comma is allowed in the best results with a “person should either move the person’s name to the ﬁrst position, or bracket before the last name, another right bracket before the suffix(es), if any. 4 1–7 Literal “ADDRESS” 4 10–44 Taxpayer Address May be partial address, left (must be exact); may be 5 1–4 Literal “CITY” 5 10–31 City Name: Full city name or2-character valid Major City 6 1–5 Literal “STATE” 6 10–11 State Code: 2-character valid state code or“” or “**” - national (USA) search 7 1–3 Literal “ZIP” 7 10–14 ZIP Code: ZIP Code, 5 character orZIP Sectional Center, ﬁrst 3 ZIP Code or“” - state or national (USA) 8 1–7 Literal “COUNTRY” 8 10–31 International Taxpayer Country: Full foreign (non-USA) country or“” - domestic (USA) or“**” - all foreign (non-USA) 10 1 - 25 Literal “EXACT MATCH ON NAME 10 28 Exact Match Indicator “N” or “ ” - no exact match on other than “N” or “ ” - exact name 2.3.60-3 Internal Revenue Manual Cat. No. 28172P",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "1d27702fa1557494907aad80775f35ac",
+    "text": "No comma is allowed in the name. For best results with a “person name”, users should either move the person’s last name to the ﬁrst position, or enter a right bracket before the last name, and another right bracket before the suffix(es), if any.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "062b9aed2b708cce66c718d9e0883b18",
+    "text": "“ADDRESS”",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "d8e2bd2dc5c26ac26e8976ae4f05b68a",
+    "text": "May be partial address, beginning from left (must be exact); may be number only",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "d395b2433c27c1c269f62c67c7fc3be0",
+    "text": "Command Codes NAMES, NAMEE, NAMEI, NAMEB, FINDS, FINDE, and TPIIP 2.3.60 page 15",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "1ca2ccd70e5525fd30b40e3d40930cf7",
+    "text": "Exhibit 2.3.60-3 (Cont. 2) (01-01-2011) Command Code NAMEE (EIN) Search Criteria Screen",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "16a346ffed56ee5e101977ff93182f82",
+    "text": "Description and Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "d84d8bcb5cb4ade22329a11f2396c18a",
+    "text": "“3 OR 5-digit ZIP-CD WILL IMPROVE RESPONSE”",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "58d038177d5e68d1ac546ea6f3eb88fe",
+    "text": "Exhibit 2.3.60-4 (01-01-2011) Command Code NAMEI (SSN/IRSN/ITIN) Input Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "6682385d9d7a564a1f69ef58f2d10180",
+    "text": "Screen format to input a NAMEI SSN/IRSN/ITIN",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "35a8064829f10ec750f4bf290d621398",
+    "text": "ol12345678301234 56789012 3456723301 23456 78501234 BE7350 12345678901 23456 78301234 567830",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "89936a4a9f8a67617fd4ecb8021bf03e",
+    "text": "12345678301234 56785012 345673001 23456 785012 34 B67 85012345678 301 23456782012 34 56783010 z0 20 40 -30) &0 70 20",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "2ebcb914e3ee1bc1feb3ffcb24d89b74",
+    "text": "Command Codes NAMES, NAMEE, NAMEI, NAMEB, FINDS, FINDE, and TPIIP 2.3.60 page 17",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "40ebfb9259d1114a0da96776b823c833",
+    "text": "Exhibit 2.3.60-4 (Cont. 1) (01-01-2011) Command Code NAMEI (SSN/IRSN/ITIN) Input",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "526e0087cc3f254d9f86f6c7d8e23d95",
+    "text": "Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "30c4a9bf38f65618034ce62531bce5d9",
+    "text": "Command Code - “NAMEI”",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "82e9de384a3d7f11c4fca4cdb45c8bfb",
+    "text": "Command Code Deﬁner",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "ec6925037da5475511f15db61fe54d29",
+    "text": "“ ”",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "a7bc063b7220f29ccdd64d6077f4ac67",
+    "text": "All matching records are displayed. “B”",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "7e0b1f045195d311f5559ecdec10e1dd",
+    "text": "Only BMF records are displayed. “A”",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "48827771c30090e37eb8da114d7d6bc2",
+    "text": "Only IRAF records are displayed. “I”",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "908419c8fc4c26bc623227c3d8ba589d",
+    "text": "Only IMF records are displayed. “N”",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "a55c7c3d5351edafcbe41adf67b235c2",
+    "text": "Only NMF records are displayed. “Q”",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "15724533cfb2d1159e43925cd1514b26",
+    "text": "Only Invalid SSN records are “X”",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "34dab11852e3859a270a474574610c99",
+    "text": "A hardcopy listing is desired.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "8c6f5c71c0f5d7ccca1835fc03131159",
+    "text": "Last Name - This ﬁeld must be entered, and may contain up to 10 characters. All 10 characters will be used in the search. Valid characters are alpha, hyphen, blank or ampersand. The ﬁrst position must be alpha. Either part of a hyphenated last name can be used, but not both parts.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "80f2d0366b04000c4d7a149b2501209b",
+    "text": "Comma",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "e1cfd89053a683087803db72a3bf4332",
+    "text": "Initial or First Name - Either the ﬁrst initial or ﬁrst name may be input. Up to characters of the ﬁrst name may be entered, and if entered, all 10 will be used matching. Less than 10 characters may be entered if ﬁrst name is less than 10",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "0284f4dc530c101fa50345212b319434",
+    "text": "Note: The ﬁrst Initial should be used instead of the ﬁrst name when entering each key for the ﬁrst time, especially when the ZIP Code and street address ﬁelds are input. The ﬁrst name should be used to reduce the size of large responses by defaulting or incomplete ZIP Code and street address information.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "80f2d0366b04000c4d7a149b2501209b",
+    "text": "Comma",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "e99ab02df6e0e4047834c52c23a5fc22",
+    "text": "ZIP Code - Enter the full ﬁve-digit ZIP Code, if known. Either the entire ﬁve-digit ZIP Code or the ﬁrst three digits (ZIP Sectional Center) can be used in the search. If searching for a taxpayer with a foreign address, input three zeros in this ﬁeld. ZIP Sectional range - (nnn-nnn) A seven character ﬁeld in which the lower range of a three-digit ZIP Sectional Center is followed by a hyphen, which is followed by the upper range of a three-digit ZIP Sectional Center. If a ZIP Sectional range is entered, the last two digits of the ZIP Code (ZIP delivery area) should not be entered. Defaulting will not occur when a ZIP range is used. State code - The two-digit state code may be entered for a state search. Defaulting will not occur when a state code is used.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "85831c3d5314be735f5d4eac34743cec",
+    "text": "Exhibit 2.3.60-4 (Cont. 2) (01-01-2011) Command Code NAMEI (SSN/IRSN/ITIN) Input Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "526e0087cc3f254d9f86f6c7d8e23d95",
+    "text": "Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "7ad493d43f298102da9cfbcee10ca991",
+    "text": "Street Address - Key in the ﬁrst six characters of the street address or P.O. Box number, if known. Valid characters are A-Z, 0 - 9, blank, ampersand, “ -”, “ /”, or “%”. Input should begin with the actual number. The literal, such as “PO Box”, should not be entered.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "29907ec613bc46f7a399dd953e33aa3e",
+    "text": "Command Codes NAMES, NAMEE, NAMEI, NAMEB, FINDS, FINDE, and TPIIP 2.3.60 page 19",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "a5a8e6195729280e07388e4943989d69",
+    "text": "Exhibit 2.3.60-5 (01-01-2007) Command Code NAMEB (EIN) Input Screen",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "526e0087cc3f254d9f86f6c7d8e23d95",
+    "text": "Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "69562ecaf1f920c43eeccbf77bc00617",
+    "text": "Screen format to input a NAMEB EIN request.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "d20578ef98a14830cd92616344e94c7d",
+    "text": "10Z03040£0&070201Z345678901234 E67890 12345672901 2345672001234 B6T 200 1E34 5572901 2345672901234 6785012357a",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "7d6a1e60080563ff4d78365645dff4f1",
+    "text": "e R1Z3456708901234 56789012 345678501 2345672901224 567290 1E34 5572901 23456729012 34 567 29",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "683209d43f217be5dade98830f8bf8a7",
+    "text": "H MWW oW D@10111z13141518171813z0Zl2zz324",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "3449a2d821486b4a97a2b16cedb25a31",
+    "text": "123456789 01234 56785012 345678501 2345673501234 567820 12345578 301 23456 78301234 567550pln) 20 20 40 50 &0 70 20",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "d7cba1b08ee7cbe99ff9bad111014b85",
+    "text": "Exhibit 2.3.60-5 (Cont. 1) (01-01-2007) Command Code NAMEB (EIN) Input Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "526e0087cc3f254d9f86f6c7d8e23d95",
+    "text": "Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "c0b1c4c2aaba2d584aa0cd89f9160a9f",
+    "text": "Command Code - “NAMEB”",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "82e9de384a3d7f11c4fca4cdb45c8bfb",
+    "text": "Command Code Deﬁner",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "ec6925037da5475511f15db61fe54d29",
+    "text": "“ ”",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "a7bc063b7220f29ccdd64d6077f4ac67",
+    "text": "All matching records are displayed. “B”",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "f7d09c9f4e3bd07d0d589a8d5916dc01",
+    "text": "Only BMF records are displayed. “E”",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "49fee1534b7eb6c543b2fe1bc44470fe",
+    "text": "Only EPMF records are displayed. “N”",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "f5adfd95b4b95600686b387bfd2e6d94",
+    "text": "Only NMF records are displayed. “X”",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "34dab11852e3859a270a474574610c99",
+    "text": "A hardcopy listing is desired.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "1ab976d91bb2ed2fc476a27ae396e7ae",
+    "text": "Last Name - This ﬁeld must be entered, and may contain up to 15 characters. Valid characters are alpha, hyphen, blank or ampersand. The ﬁrst position must be alpha.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "75f8f219b1281816c556e0958a3c9280",
+    "text": "Note: If the ﬁrst initial is a hyphen (-) for a non - “corporation search”, the ﬁrst 10 characters of the last name will be used for matching, and the search will not default. If the ﬁrst initial is a plus (+) for a “corporation search”, the ﬁrst 15 charac- ters of the last name will be used for matching, and the search may default. If the entire last name consists of less than 15 characters, it is not necessary to key trailing blanks. A request with the command code deﬁner of X (hardcopy) and a ﬁrst initial of (+) will not use the additional last characters as selection criteria.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "80f2d0366b04000c4d7a149b2501209b",
+    "text": "Comma",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "05a977a30e4eecc9548ca790a1b0bab5",
+    "text": "First Initial or First Name - Either the ﬁrst initial or ﬁrst name may be input. Up to 10 characters of the ﬁrst name may be entered, and if entered, they will all be used for matching. Less than 10 characters may be entered if ﬁrst name is less than 10 characters.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "8e5fa620d681ffc078b66b4857d5c2a4",
+    "text": "Initial - If present, must be alphabetic, hyphen (-), or plus (+). Name - If present, ﬁrst character must be alphabetic; any additional charac- may be alphabetic, blank or ampersand (&).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "46cfee1dfacd35ce14c4910a00e97497",
+    "text": "Note: The ﬁrst Initial should be used instead of the ﬁrst name when entering each key for the ﬁrst time, especially when the ZIP Code and street address ﬁelds are input. The ﬁrst name should be used to reduce the size of large responses caused by defaulting or incomplete ZIP Code and street address information.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "80f2d0366b04000c4d7a149b2501209b",
+    "text": "Comma",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "ef57e5cad9af67e596f7601aaf8607d2",
+    "text": "ZIP Code - Enter the full ﬁve-digit ZIP Code, if known. Either the entire ﬁve-digit ZIP Code or the ﬁrst three digits (ZIP Sectional Center) can be used in the If searching for a taxpayer with a foreign address, input three zeros in this ﬁeld. ZIP Sectional range - (nnn-nnn) A seven character ﬁeld in which the lower range a three-digit ZIP Sectional Center is followed by a hyphen, which is followed by upper range of a three-digit ZIP Sectional Center. If a ZIP Sectional range is entered, do not enter the last two digits of the ZIP Code (ZIP delivery area). De- faulting will not occur when a ZIP range is used. State code - The two-digit state code may be entered for a state search. will not occur when a state code is used.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "30f33faeab7a56ef67c7eafd85bb147a",
+    "text": "Command Codes NAMES, NAMEE, NAMEI, NAMEB, FINDS, FINDE, and TPIIP 2.3.60 page 21",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "3decac6fe98ee1f82211239a9305ffdc",
+    "text": "Exhibit 2.3.60-5 (Cont. 2) (01-01-2007) Command Code NAMEB (EIN) Input",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "526e0087cc3f254d9f86f6c7d8e23d95",
+    "text": "Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "5e4b6de3cd27eb25d0d5c8815bf856d6",
+    "text": "Street Address - Key in the ﬁrst six characters of the street address or P.O. number, if known. Valid characters are A-Z, 0 - 9, blank, ampersand, “ -”, “ /”, “%”. Input should begin with the actual number. The literal, such as “PO Box”, should not be entered.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "46fd54b4ee5a4fd25f6c721c1bca3580",
+    "text": "2.3.60-6 (01-01-2016) Codes FINDS (SSN/IRSN/ITIN) and FINDE (EIN) Input Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "f82531a668da8ec329ccd3cbb8d6b7b6",
+    "text": "Screen format to input a FINDS (SSN/IRSN/ITIN) or FINDE (EIN) request.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "e126aba71f5833235e52d505cc10f453",
+    "text": "¢123456789012 34 56729012 345673901 2345673901234 56739012345 678 301 23456739012 34 557890",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "e2beaf00911c36b90a6ad4bc2717c723",
+    "text": "123456789012 34 E6789012 340672901 23456723012 24 BE7 2001234567290 3455789012 34 EE7!10 z0 30 40 1] &0 70",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "eba56cfb1769ff2d91b45b6892e6064a",
+    "text": "Command Codes NAMES, NAMEE, NAMEI, NAMEB, FINDS, FINDE, and TPIIP 2.3.60 page 23",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "c5ebb97965e940843c81568f97e7e04f",
+    "text": "Exhibit 2.3.60-7 (01-01-2013) Command Code TPIIP (SSN/IRSN/ITIN) Input Screen",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "526e0087cc3f254d9f86f6c7d8e23d95",
+    "text": "Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "bde1f2d9f9d2a5e60d7d2f4ea714a76f",
+    "text": "Screen format to input a TPIIP SSN request.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "118d75b0d8744d33e598d767e2c8c73b",
+    "text": "1-9 11-19 21-29 31-39 41-49 51-59 61-69 71-801234567890123456789012345678901234567890123456789012345678901234567890123456789¢1 2 34 5 6 78 9 10 111234567890123456789012345678901234567890123456789012345678901234567890123456789(1-911-1921-2931-3941-4951-5961-6971-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "4417eecb58666a511f5e1019cdccc8f7",
+    "text": "123456789012345678901234567890123456789012345678901234567890123456783012345678901-911-1921-2931-3941-4951-5961-6971-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "710b3e56b6d78c5a3f8e58765c851e54",
+    "text": "Exhibit 2.3.60-7 (Cont. 1) (01-01-2013) Command Code TPIIP (SSN/IRSN/ITIN) Input Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "d3655b1482fa2ef06b267652e8ca18ce",
+    "text": "Street Address (Optional)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "1f92a32d6b6a185d0f2d006a2694e9a1",
+    "text": "Command Codes NAMES, NAMEE, NAMEI, NAMEB, FINDS, FINDE, and TPIIP 2.3.60 page 25",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "0cf2814604b4c9ad9139ebf7792b197f",
+    "text": "Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "7a997802bba4b70a6076cff7c89b15e6",
+    "text": "Screen layout for SSN/IRSN/ITIN domestic (USA) taxpayers.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "da4f7ea58d963b1a302b76b8fa557019",
+    "text": "Notes:",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "9b9096f1e626fb025fcc7e696bc0e74c",
+    "text": "Elements not signiﬁcant will not be displayed.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "338640fb06a116e5c49192a4df1b5438",
+    "text": "1-9 11-19 21-29 31-3941-49 51-5961-6971-8012345678901234567890123456789012345678901234567890123456789012345678901234567890NAMES nNnnnnnnnnnnnnnnnnninnnnnnnnnnnnnnnnnnnnnnnnnnnnnnniunnnnnnnnnnNnnnNnnnnnNNNNMNIMNMNNMNMNINNNNNIMNNINMNMANNMANT . MNN-NN-NNNNM. nMnn/nn/nn. nNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNfehalatchabaiahahalaahalatahdialahahababauehabatehabatahabatanahatanalnNNNNNNAINNNNNNNNNNNNNNNNNANNANNNANNNNNNNNNNNINNNNNNNNNNNANNANNNNONINNNNNNNNNNNNNNNNNNNINNNINNNNNNNNNNNANNNNNNNNNNNNNNNNNNNINNNNNNNNNNNNNANNNNNNNANNpateielahdiatalahelalatahabatahahatanahalotahabelahahatatauehatanehatalNNNNNNNNANNNNNNNNNNANNANNNNNNANNNANDNNNNNNNNNNNNNNNNANNANNNNNNNANNNNNNNNINNINNINNNNNNNAINOINOINOINOTINOTNNTNNNNNNNNNNNNNINNNINNNNNNNNNNNANNNNNNNNNNNNNNNNNNNINNNNNNNNNNNNNANNNNNNNANNpateielahdiatalahelalatahabatahahatanahalotahabelahahatatauehatanehatalPACE nnn OF nnnNNNNNNNNNNNNNNNNNNNNNTION-NN-NNNNN nnnn/nn/nnnnnnnnnnnnnnnnnnnnnnnnNNN-NN-NNnnn. nnnn/nn/nnNNNNNNNNNNNNNINNINNINNDnNn-nn-nnnnn. nnnn/nn/nnNMNNNNNNNNNNNNNNNNNNNDnnn-nn-nnnonn - nnnn/nn/nnNNNNNNNNNNNNNNNNNNNNNNINN-NI-TNNNT AT/ 05/ nnNNNNNNNNNNNNNINNINNINNDnNn-nn-nnnnn. nnnn/nn/nnNMNNNNNNNNNNNNNNNNNNND>PGNUM nnnnnnnnnnn-nn-nnnnnnNNNn - NNNNNNNNNNN-NN-NNnnmnnnnnn nnnnnnnnnnn-nn-nnnnnnnnnn nnnnnnnnnnn-nn-nnnnnNNNNn NHNNNNnnnnnn-nn-nnnnnnnnnn nnnnnnnnTINN-NI- DTNnnnnn nnnnnnnnnnn-nn-nnnnnNNNNn NHNNNNnnn1234567890123456789012345678901234567890123456789012345678901234567890123456789019 21-29 31-3941-490",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "2424287ac8db32581c22a77f4f4386b7",
+    "text": "Exhibit 2.3.60-8 (Cont. 1) (12-30-2013) Command Codes NAMES, FINDS, and TPIIP (SSN/IRSN/ITIN) Domestic (USA) Response Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "5cbbe84d8f44e6dee2585059259eca75",
+    "text": "Line Position Description and format 1 1–5 Command Code: “NAMES”, “FINDS”, or 1 8–80 Search criteria requested by user 3 1–35 Taxpayer Name 3 38–48 Primary Filer SSN/IRSN/ITIN (edited) 3 49 Primary Filer Display Source Code: “ ” = valid IMF SSN “*”= invalid IMF SSN “K”= Key Index File (KIF) “N”= Non-Master File “V”= valid BMF SSN “W”= invalid BMF SSN “#”= Individual Tax Number (ITIN) 3 52–61 Primary Taxpayer Date of Birth (edited) (Filer Indicator = “ ”) orSecondary Taxpayer Date of Birth (edited) (Filer Indicator = “S”) 3 64 Filer Indicator: “ ” = Primary ﬁler “S” = Secondary ﬁler 3 67–77 Secondary Filer SSN/IRSN/ITIN (edited) 3 78 Secondary Filer Display Source Code: “ ” = valid IMF SSN “*”= invalid IMF SSN “N”= NMF “V”= valid BMF SSN “W”= invalid BMF SSN “9”= not validated 4 2–36 Taxpayer Address 4 39–60 City Name 4 63–64 State Code 4 67–71 ZIP Code 4 73–80 Cycle of Activity If signiﬁcant, lines 5–22 same as 2–4 24 16–19 Literal “PAGE”",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "b23b367c6f11e4f2fdf02c4c2ec9dc3e",
+    "text": "Command Codes NAMES, NAMEE, NAMEI, NAMEB, FINDS, FINDE, and TPIIP 2.3.60 page 27",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "a054fb4c0bf2e3b625c12962b44d34ea",
+    "text": "Codes NAMES, FINDS, and TPIIP (SSN/IRSN/ITIN) Domestic (USA) Response Screen",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "62247e6acd4b5929682d1a023d08948b",
+    "text": "Description and format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "245dd0116a1b5f03e95ae12040d15cd1",
+    "text": "Command Code to Retrieve Additional Screens:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "b9072db0ca987beff6b36602859dd43a",
+    "text": "Next Screen Number",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "58fb68d5faf10439b51bdc6fb2ce0361",
+    "text": "2.3.60-9 (01-01-2016) Code NAMEI (SSN/IRSN/ITIN) Domestic (USA) Response Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "2ebcd46204479188cf504d01c50cf1ae",
+    "text": "Screen layout for SSN domestic (USA) taxpayers.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "0cf2814604b4c9ad9139ebf7792b197f",
+    "text": "Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "9b9096f1e626fb025fcc7e696bc0e74c",
+    "text": "Elements not signiﬁcant will not be displayed.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "64f3364a8da20147bfc97caa1064cab7",
+    "text": "1= Li=17 4l=4321372l=2J 21l=27o1=07/1=0olU0[123456789012345678901234567890123456789012345678901234567890123456789012345678901|NAMET NNNNNNNNNNNNNNNTI , DNNNNNNNNN, QNN , DNNNNNn23 | nONNINNONNINNINNONNONNONNONNNNNNNNN - ANA-An-nannn - annn/nn/nn oo Ann-nn-nnonnn4| nnNNnNINNIINNIINNINNMINNIINNINNINNINNNN AANNINNANNANNANNANNANGN NN Annnn annonnon56 [ nnnnnnnnnnnnnnnnnnnMnNMMNINNINNNNNN. NAN-NN-NNNNN. ONNN/NN/NN. N NNN-NN-Nnnnn7| ANNOnNOnNnOnOnNONNONNONNONNNnNnn - AMNNINAINAANAANNANNANN A ANNAn Annnnon89 [ nunnnnnnnnMINMINMINMMINMINNINNINNNNTN. NAN-NN-NNNNN ANNn/nn/nn 0o ann-nn-nonnnn10| nnnnnnnnnnnnnnnnnnNnnOnnNnnOnnnnnnn - AONNONNINNINNINNNNNNNG. 6n o Annon annnnnonn1112 [ nnnnnnnnnnnnnnnnnnnnnnonnonnonnonnnn - Oan-nn-nnnnn o annn/an/an oo ann-nn-nnonnn13| nnnnnnnnnnnnnnonnnoannoannoanoannoonnnn - OOnnInnInnInnonnonnnonn .- nno annonn annonnon1415 [nnnnnnnnnnnnNnNNNINNINNNNNANNNNNNN - MNN-NN-NNNNn. INnn/nn/nn. no ann-nn-nnnnn16| nnAnnnnnINnINNINNANNANNANNANNANNANTN  AANAANAANAANAANAANAAND A ANAOn Annannon1718 [nnnnnnnnnnnnnnnnonnonnonnonnonnonnnn . ann-nn-nnnnn annn/nn/nn no ann-nn-nnonnn19| AnnAnnANnANnANnANNANNANNANNANNANNNAT  AMNNANNANNANAANAANANND A Annnn annnnonn2021 [nnnnnnnnnnNnnINNONNONNONNONNONNONNNN - OAN-NN-Nunnn - annn/nn/nn oo ann-nn-nnnnn22| nnonnnnnnnnnAnnIANnIANnIANnIANnINNNNNNNT  DINNINNINNINNANNANNOANG N ANNon annonnon2324 PAGE nnn OF nnn >PGNUM nnn123456789012345678901234567890123456789012345678901234567890123456789012345678901_0 11_10 a1_9021_20A1_10 E1_EQ1o—1_an",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "bd3af3f9b19918d98c75b7ebb3fffe08",
+    "text": "123456789012345678901234567890123456789012345678901234567890123456789012345678901-9 11-19 21-29 31-39 41-49 51-59 61-69 71-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "4eddbb35a09fa4a3d90af623a6ad0b85",
+    "text": "Command Codes NAMES, NAMEE, NAMEI, NAMEB, FINDS, FINDE, and TPIIP 2.3.60 page 29",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "62692ec698fd85385df3967cb29c048c",
+    "text": "Exhibit 2.3.60-9 (Cont. 1) (01-01-2016) Command Code NAMEI (SSN/IRSN/ITIN) Domestic (USA) Response Screen",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "62247e6acd4b5929682d1a023d08948b",
+    "text": "Description and format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "1ac97fe4a2eea41363f5c9d430963ae1",
+    "text": "Filer Indicator:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "b84a87f8ebb755350dab590ede85ad91",
+    "text": "2.3.60-9 (Cont. 2) (01-01-2016) Code NAMEI (SSN/IRSN/ITIN) Domestic (USA) Response Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "62247e6acd4b5929682d1a023d08948b",
+    "text": "Description and format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "b9072db0ca987beff6b36602859dd43a",
+    "text": "Next Screen Number",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "80d23fd7a57edceb34a8312a0bd05841",
+    "text": "Command Codes NAMES, NAMEE, NAMEI, NAMEB, FINDS, FINDE, and TPIIP 2.3.60 page 31",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "0cf2814604b4c9ad9139ebf7792b197f",
+    "text": "Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "61bb27dbfedb1a48ff670d9f163a9293",
+    "text": "Screen layout for EIN domestic (USA) taxpayers.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "da4f7ea58d963b1a302b76b8fa557019",
+    "text": "Notes:",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "9b9096f1e626fb025fcc7e696bc0e74c",
+    "text": "Elements not signiﬁcant will not be displayed.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "a4053809372fa720f295772c1cfe8bdc",
+    "text": "1-9 11-19 21-29 31-39 41-49 51-59 61-6971-800(123456789012345678901234567890123456789012345678901234567890123456789012345678901|NAMEE nnnnnnnnnnnnnnnnnninnnnninnnnnninnnninnnnonnnnnnnnnnnnnnnnnnnninnnnninn23 [nnnnnnnnnnnnnnnnnnnnNNnNNNNNNNNNANNNANNNNANNNNNANANNNANNNNINNNNNNNNNNNNN4 INNNNNNINNNNNNNNNANNNNNNTNNNTNNNTINNNNN NN =TINNINNIN5| nuunnnnnnnnnMInNNNNOININNANNINNNNNN  IOINIMONINNNIAONNNNNANN AN NNNNn Nnnnnnnn67 | AnnnnnnnnnnnnnnnnnnnNnANNNANANNNANANNNNNANNNNNANNNANNNNNANNNANANINANAN8 nNnnnNNnnannnannnnnnnnnnnnnnnnnonnnnn NN-nnnrinnrirn9 INNNNNNINNNNNNNNNANNNNNNTNNNTNNNTINNNNN NNNNNNNNNTNNNTINNINNNNNTN nn NN NNNNnNnr1011 | nnnnnnnnnNnnnnnNnnnnNnRnInNNn NI nNNN NN NNNANNNNNANANNNANANINNNIINNNANIND12| NMONnNNANANNNMNANNANNINANNANNANNNANND NN -NNANNNNN13 nnnnnnrnnnnannnnnnnnnnnnnnnnnonnnnn nNnnNNnnnnnnnnnnnnnn nn nnnnr nrnnnrinnr14NG Fatotateabshatatatelabshakatatetahakakatat abhahahatat tahabahatat aighahahatatghalahatatatgholahatat stgholahatahatgholakahanatetabahahanstel16 NNNNNNNIANINNNNNNANNNNNNTNNNTNNNTINNNNN NN =TINNINNIN17| AONnNAnnNNNNNANNANANINANNMANNANNNNNNN  IAANNANAANNANAANNANANN NN AANAN MANNNNnn1819 | nnnnnnnnnNNNNNNNNNNNNNNNNNNNNINNNNNNNINNNNAINNNNNNINNINNNAINNINNNNINNNNNNNNNNN20 nnnnnnrnnnnannnnnnnnnnnnnnnnnonnnnn NN-nnnrinnrirn21 NNNNNNNIANINNNNNNANNNNNNTNNNTNNNTINNNNN NNNNNNNNNTNNNTINNINNNNNTN nn NN NNNNnNnr222324 PAGE nnn OF nnn >PGNUM nnn123456789012345678901234567890123456789012345678901234567890123456789012345678901-9 11-19 21-29 31-39 41-49 51-59 61-6971-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "99b03037eee95d1fe268ec812c395b06",
+    "text": "123456789012345678901234567890123456789012345678901234567890123456789012345678901-911-1921-2931-3941-4951-5961-6971-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "590fa7cb32bfd0fbf3530d44e5778ad9",
+    "text": "Exhibit 2.3.60-10 (Cont. 1) (01-01-2012) Command Codes NAMEE and FINDE (EIN) Domestic (USA) Response Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "16a346ffed56ee5e101977ff93182f82",
+    "text": "Description and Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "ad10598dd7e48f59b59e2554dfa0e0d6",
+    "text": "Command Codes NAMES, NAMEE, NAMEI, NAMEB, FINDS, FINDE, and TPIIP 2.3.60 page 33",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "0cf2814604b4c9ad9139ebf7792b197f",
+    "text": "Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "61bb27dbfedb1a48ff670d9f163a9293",
+    "text": "Screen layout for EIN domestic (USA) taxpayers.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "da4f7ea58d963b1a302b76b8fa557019",
+    "text": "Notes:",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "9b9096f1e626fb025fcc7e696bc0e74c",
+    "text": "Elements not signiﬁcant will not be displayed.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "892fcd17837247e3dac5ef574e5fcc26",
+    "text": "1-9 11-19 21-29 31-39 41-49 51-59 61-6971-800]123456789012345678901234567890123456789012345678901234567890123456789012345678901[NAMEBR NNNNNANNNANNNANNT, MANNANNNANT, ANNNANNAN, NATNNATIN2e Eebstotclatatelabotelabotelabotebskotsbhot shaket sbaket sbahet abahet abahot cbahsnohahsnohahsobahsnohatsnohatsnohatsnohatsnehsnotohsnotobsnotel4| NNINNINNINNINNINNINNINNANNANNANNNNN NN -NANNNNND5| NNNNNNNANNANNANNNNNNNNNNNNNNNNNNAN  IANNANNANNANNNNNNNNANN A ANNAn Annannnn6A B bt e b ket batebabate bate okt chokat chaket cbakat cbakek chakek cbakek sbakshobakshobahshobahssobakssobakshobatssobatsbobakabobatatobatetel8| NNNNNNNNNNNNNNNNONNNNANNANNANNANNADL  ON-NANNNNNN9| NNNNNNNNNNNNNINNNNNOINNOINNANNANNANNNN  IANNAINANNANNANNNNNNNN NN ANNOn Annonnnn10I febstotobsiatobatatobabatobabotobatolbatolbatolbatolbatolshatolabatolsbatelatatlehatatbatatahotatlahatatelatatahatotbak siakahsiakakslokas12 nnnnnnnnnnnnnnnNINAINNINNINNINNNINNN - NN-NNNNNNNN13| nuonnnnnonnonnunnonnonnonnonnonnnnnn - INOINONNONNONNONNANNAIL NN AONAI AONAINAI1415 [ AnnnnnnnnnnnnnNNNANNANNANNANNANNANNANNINAINAINALNALNALNALNALNI NN16| NANNMNNANMANMANNINANNANNANNANNANNAD  IN-TNANNANN17 [ nnuonnnnnnnnnnnonnunnonnonnonnonnonnn o Annununununuoonounounonnnn. NN Nnnnn Nnnnnnnmn1819 [MMnnnnnnnnnnnnNNNINNNINNNINNINNNINNNINNNINNINANNANNANNANNANNANNANNINNINNNNN20 nnoNNINNNNNINNINANNANNANNANNANNANNGD  AN-INALNAN21 nnonnnnnnnnonnnNImnINnINNINNINNNNNN - INAINANNANNANNANNANNANL NN NONNN NONNONNI222324 PAGE nnn OF nnn >PGNUM nnn123456789012345678901234567890123456789012345678901234567890123456789012345678901-9 11-19 21-29 31-39 41-49 51-59 61-6971-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "99b03037eee95d1fe268ec812c395b06",
+    "text": "123456789012345678901234567890123456789012345678901234567890123456789012345678901-911-1921-2931-3941-4951-5961-6971-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "91f616c1ac21bf34bbd534f55c3566f3",
+    "text": "Exhibit 2.3.60-11 (Cont. 1) (01-01-2012) Command Code NAMEB (EIN) Domestic (USA) Response Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "16a346ffed56ee5e101977ff93182f82",
+    "text": "Description and Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "98f0a88897a378a4453c34122b69301c",
+    "text": "“NAMEB”",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "de691a4014f534672359a1a6c70dd2a0",
+    "text": "Command Codes NAMES, NAMEE, NAMEI, NAMEB, FINDS, FINDE, and TPIIP 2.3.60 page 35",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "0cf2814604b4c9ad9139ebf7792b197f",
+    "text": "Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "44f617ac077523f7560511a26133c2d5",
+    "text": "Screen layout for SSN International (non-USA) taxpayers.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "da4f7ea58d963b1a302b76b8fa557019",
+    "text": "Notes:",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "9b9096f1e626fb025fcc7e696bc0e74c",
+    "text": "Elements not signiﬁcant will not be displayed.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "ae7c5be62de6ab2b76eeb0a7271861f2",
+    "text": "1-9 11-19 21-29 31-3941-4951-5961-6971-8012345678901234567890123456789012345678901234567890123456789012345678901234567890NAMES Annnnnnnnnninnnnnnnnnnninnnnnnininnnnnnnnnnnnnnninnnnnnnnnninnnnnnnnnnnfohelshahebababohababak dhabatehahatatakehalatahabaiahahatarahalonahitelNNNNNNNNNANANNNNNNNANNANNANNNNANNANDNNNNNNNNNNNANNNNNNNNNNNNNNNINNINNNNNINNNINNNNNNNNNNNINNNNNNNNINNANNNN NN AINOI NN NI NOTINITNNT,NNNNNNNNNNNANNNNNNNNNNNNINNNNNNNNNNNINNNINANNNNNNINNNINNNNNNNNfelskahabelabatelatatehalatahabalahahatatouehalatehabatahabatanghatanalNNNINNNNANMANNNNANNNNTNANNANNNNNNNNNNNANNNANNNNNNANNNANNNNNNNNNNNNNNNNNNNINNNNNNNANNNNONINDINNNINNNINNNNNNNINOIANNTINNTNANNANNNNNNNNNNNANNNANNNNNNANNNANNNNNNNNNNNNNNNNNNNINNNNNNNANNNNONINDINNNINNNINNNNNNNINOIANNTINNTPAGE nnn OF nnnINN-NN-NONNN DODN/ON/nn 0o DNn-hDn-nnnnnNNNNNNNNANMANNNNNNANNAANNANNNNANNANDINN-NN-NDnnn - DOnn/nn/nn oo nnn-hin-nnnnnpateielaianatetnahatovatalotanatetavsvelsiarahaloianatetebaveisisnorslNNN-nNn-nnnnn - nnnn/nn/nn. 1o nnn-nn-nnnnnfelatatalatatalatatalatatatatatatatatatahatahataahatatabanatabanatelalnnn-nn-nnnonn - nnan/nn/nn 0o nan-nn-nnnnnNNNNNNNNNNNNNNNNNANNNNNNNNNNANNNNNILnnn-nn-nnnonn - nnan/nn/nn 0o nan-nn-nnnnnNNNNNNNNNNNNNNNNNANNNNNNNNNNANNNNNIL>PGNUM nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn123456789012345678901234567890123456789012345678901234567890123456789012345678901-9 11-19 21-29 31-3941-4951-5961-6971-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "bd3af3f9b19918d98c75b7ebb3fffe08",
+    "text": "123456789012345678901234567890123456789012345678901234567890123456789012345678901-9 11-19 21-29 31-39 41-49 51-59 61-69 71-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "6ac60b29a6ac9c2a351ec43cd7f02368",
+    "text": "2.3.60-12 (Cont. 1) (01-01-2016) Codes NAMES, FINDS, and TPIIP (SSN/IRSN/ITIN) International (non-USA) Response",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "f07c9574b240c704266b361d95a6d275",
+    "text": "Line Position Description and Format 1 1–5 Command Code: “NAMES”, “FINDS”, 1 8–80 Search criteria requested by user 3 1–35 Taxpayer Name 3 38–48 Primary Filer SSN (edited) 3 49 Primary Filer Display source code “ ” = valid IMF SSN “*”= invalid IMF SSN “K”= Key Index File “ N”= Non-Master File “V”= valid BMF SSN “W”= invalid BMF SSN “#”= Individual Tax Number (ITIN) 3 52–61 Primary Taxpayer Date of Birth (edited) (Filer Indicator = “ ”) or Secondary Taxpayer Date of Birth (edited) (Filer Indicator = “S”) 3 64 Filer Indicator: “ ” = Primary ﬁler “S” = Secondary ﬁler 3 67–77 Secondary Filer SSN/IRSN/ITIN (edited) 3 78 Secondary Filer Display Source “ ” = valid IMF SSN Code “*”= invalid IMF SSN “N”= NMF “V”= valid BMF SSN “W”= invalid BMF SSN “9”= not validated 4 2–36 Taxpayer Address 4 39–73 City/Province Name 5 2–23 International Taxpayer Country 5 73–80 Cycle of Activity If signiﬁcant, lines 6–21 same as 2–5 24 16–19 Literal “PAGE” 24 21–23 Current Screen Number 24 25–26 Literal “OF” 24 28–30 Total Number of Screens",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "16a346ffed56ee5e101977ff93182f82",
+    "text": "Description and Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "e159e6a0aece31d8b415befe7077c7bb",
+    "text": "Command Codes NAMES, NAMEE, NAMEI, NAMEB, FINDS, FINDE, and TPIIP 2.3.60 page 37",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "984690c9d50ffd30884c47881695f30e",
+    "text": "Codes NAMES, FINDS, and TPIIP (SSN/IRSN/ITIN) International (non-USA) Response Screen",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "16a346ffed56ee5e101977ff93182f82",
+    "text": "Description and Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "8d18e543e8beabff13754b5589e976d2",
+    "text": "Exhibit 2.3.60-13 (01-01-2016) Command Code NAMEI (SSN/IRSN/ITIN) International (non-USA) Response Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "44f617ac077523f7560511a26133c2d5",
+    "text": "Screen layout for SSN International (non-USA) taxpayers.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "0cf2814604b4c9ad9139ebf7792b197f",
+    "text": "Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "da4f7ea58d963b1a302b76b8fa557019",
+    "text": "Notes:",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "9b9096f1e626fb025fcc7e696bc0e74c",
+    "text": "Elements not signiﬁcant will not be displayed.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "1c66ef7c226b383db706972fce0aa7df",
+    "text": "1-9 11-19 21-29 31-39 41-49 51-59 61-69 71-800]123456789012345678901234567890123456789012345678901234567890123456789012345678901|NAMET NnnnNNNNINNNINNNNNN, NNNNANNANN, NNANNAN, NNNNNNN23 [ MINNINNINNINNINNINNINNNNNNNNNNNNNT OON-N0-NONNN ONO0/00/nn. 0o Onn-nn-nnonnn4| NMMNNMNNMINNIMNNINNMMNANNANNANNANNANNT ANNANNANNANNANNANNANNANNANNANNANNNAD5| nnnnnnnnnnnnnnnnnnnnnn nnnnnnnn67 | ANNIINNIINNIINDINOINONNONANNNNNNNNNTI - INN-NN-NONNN ONNn/nn/nn oo Inn-nn-nnnnn8| INNINNINNINNINNONNONNONANNANNANNAND NN NN9| nnnnnnnnnnnnnnnnnnnnnn nnnnnnnn1011 | nONnnnnnnnnnNONNONOIONOIONONNONNNNNND - INN-NN-NONNN ODNN/Nn/nn oo Nnn-nn-nnnnnERZR [ T aketahaketabaketabakatabakatobakatobaketahatetahat bkt hakat bakaliiibat bakat bkt ehakatehakatebakesabaketabakeabakesabatesabatesabaterol13| nnnnnnnnnnnnnnnnnnnnnn nnnnnnnn1415 |nnnnnnnnnnnnnnnnnnnnnonnnonnannnonnonnn - Ann-nn-nnnan annn/nn/nn oo nnn-nn-nnnnn16| NNNONNONNONNONNIONOIONOINNONNONNONNONI  NONNONNONNONNONNNINNNINNNNNNINNNNNINNT17| nnnnnnnnnnnnnnninnnnnnn nnnnnnnn1819 |nnnnnnnnnNnnnNnNNNNNNNNANNANNNNANNNN  ANN-NN-NNnan - annn/nn/nn oo nnn-nn-nnnnn20| NINNINNMNNINNIININNININMDNINNNNNNNGNN  ANNNDNNNNNNNNNNONNNNNNNANNANNANNANN21| nnONNNNIANNNNINONNNNNNn nnnnnnnn222324 PAGE nnn OF nnn >PGNUM nnn123456789012345678901234567890123456789012345678901234567890123456789012345678901-9 121-2941-4951-5971-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "bd3af3f9b19918d98c75b7ebb3fffe08",
+    "text": "123456789012345678901234567890123456789012345678901234567890123456789012345678901-9 11-19 21-29 31-39 41-49 51-59 61-69 71-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "aff56c263d6c3e9162764f01dab2991a",
+    "text": "Codes NAMES, NAMEE, NAMEI, NAMEB, FINDS, and TPIIP 2.3.60 page 39",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "72356bb4e31e28a27d26a15098ebbb1d",
+    "text": "Exhibit 2.3.60-13 (Cont. 1) (01-01-2016) Command Code NAMEI (SSN/IRSN/ITIN) International (non-USA) Response Screen",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "19254d1abccf4d38685c44093503f794",
+    "text": "Line Position Description and Format 1 1–5 Command Code: “NAMEI” 1 33–80 Search criteria requested by user 3 1–35 Taxpayer Name 3 38–48 Primary Filer SSN (edited) 3 49 Primary Filer Display source code “ ” = valid “*”= “K”= Key “N”= “V”= valid “W”= “#”= Number 3 52–61 Primary Taxpayer Date of Birth (edited) (Filer Indicator = “ ”) or Secondary Taxpayer Date of Birth (edited) (Filer Indicator = “S”) 3 64 Filer Indicator: “ ” = “S” = 3 67–77 Secondary Filer SSN/IRSN/ITIN (edited) 3 78 Secondary Filer Display Source “ ” = valid Code “*”= “N”= NMF “V”= valid “W”= “9”= not 4 2–36 Taxpayer Address 4 39–73 City/Province Name 5 2–23 International Taxpayer Country 5 73–80 Cycle of Activity If signiﬁcant, lines 6–21 same as 2–5 24 16–19 Literal “PAGE” 24 21–23 Current Screen Number",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "e51fe936a383b7d1f31d32e495cca189",
+    "text": "Exhibit 2.3.60-13 (Cont. 2) (01-01-2016) Command Code NAMEI (SSN/IRSN/ITIN) International (non-USA) Response Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "16a346ffed56ee5e101977ff93182f82",
+    "text": "Description and Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "b9072db0ca987beff6b36602859dd43a",
+    "text": "Next Screen Number",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "5c124c23b674ccc8bc73c3ee07c3ea94",
+    "text": "Command Codes NAMES, NAMEE, NAMEI, NAMEB, FINDS, FINDE, and TPIIP 2.3.60 page 41",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "0cf2814604b4c9ad9139ebf7792b197f",
+    "text": "Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "7dbd480c75ebf4876c9be8ba5edf22d5",
+    "text": "Screen layout for EIN International (non-USA) taxpayers.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "da4f7ea58d963b1a302b76b8fa557019",
+    "text": "Notes:",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "9b9096f1e626fb025fcc7e696bc0e74c",
+    "text": "Elements not signiﬁcant will not be displayed.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "8efcdaca91d0e17b8a74987e6f940950",
+    "text": "1-9 11-19 21-29 31-39 41-49 51-59 61-69 71-8012345678901234567890123456789012345678901234567890123456789012345678901234567890NAMEE NrnnrinnirinnnininiinnrinnriniinannnininirininnnnnannninnrinnninnannnnnninnnnnfelshokelsbanshobatohebotanshotsushshobatohebolanshobsshoheisokelsnanchsuarshoheisokelsnanchobaohabatshobolanshotsishohabatatehotanshotelNNNNNNNANNANNNNNANNINNNNINNANNANNNNNN  NN-NNANNNNNNNNNNNNANNNANNANANAANNANNANNANNANND  INANNNNNNNNANAANNANNANANNANNNANNANNLNNNNNANNNNNANNINANNNNN nnnnnnnnANNNNNANNANNNNINANANNANNNNNANAANNANNANNINANNANNANNANNANNNNNANANNNNNNNNNNNNNNNNANNANNNNNANNINNNNINNANNANNNNNN  NN-NNANNNNNfsBabiah dhabakohohatahohebabohdbabathohatstakebanahgbababohabatatbaba Rl abatohsbabah dbabah ghobathohalatohdbabarghabatahohelahohdbavabahabatslNNNNNANNNNNANNINANNNNN nnnnnnnnfelshokelsbanshobatohebotanshotsushshobatohebolanshobsshoheisokelsnanchsuarshoheisokelsnanchobaohabatshobolanshotsishohabatatehotanshotelNNNNNNNANNANNNNNANNINNNNINNANNANNNNNN  NN-NNANNNNNNNNNNNNANNNANNANANAANNANNANNANNANND  INANNNNNNNNANAANNANNANANNANNNANNANNLNNNNNANNNNNANNINANNNNN nnnnnnnnfelshokelsbanshobatohebotanshotsushshobatohebolanshobsshoheisokelsnanchsuarshoheisokelsnanchobaohabatshobolanshotsishohabatatehotanshotelNNNNNNNANNNNNNNNNNANNANNNNNNNNNANNAN - NN-NNNNNNNNNNNNNNNANNNANNANANAANNANNANNANNANND  INANNNNNNNNANAANNANNANANNANNNANNANNLNNNNNNNNNNNNNNNNNNNANNN nnnnnnnnPAGE nnn OF nnn >PGNUM nnn123456789012345678901234567890123456789012345678901234567890123456789012345678901-9 11-19 21-29 31-39 41-49 51-59 61-69 71-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "99b03037eee95d1fe268ec812c395b06",
+    "text": "123456789012345678901234567890123456789012345678901234567890123456789012345678901-911-1921-2931-3941-4951-5961-6971-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "7d078ee821c8b0f0f1206c4a77a440a9",
+    "text": "Exhibit 2.3.60-14 (Cont. 1) (01-01-2012) Command Codes NAMEE and FINDE (EIN) International (non-USA) Response Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 46
+    }
+  },
+  {
+    "element_id": "c991b63c3006c20126d247eea1935faf",
+    "text": "Command Codes NAMES, NAMEE, NAMEI, NAMEB, FINDS, FINDE, and TPIIP 2.3.60 page 43",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "e4d90217dd0555ec3467cb128f83ba83",
+    "text": "2.3.60-15 (01-01-2012) Code NAMEB (EIN) International (non-USA) Response Screen",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "0cf2814604b4c9ad9139ebf7792b197f",
+    "text": "Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "7dbd480c75ebf4876c9be8ba5edf22d5",
+    "text": "Screen layout for EIN International (non-USA) taxpayers.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "da4f7ea58d963b1a302b76b8fa557019",
+    "text": "Notes:",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "9b9096f1e626fb025fcc7e696bc0e74c",
+    "text": "Elements not signiﬁcant will not be displayed.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "36b484b633c43b793f7093c48894811b",
+    "text": "1-9 11-19 21-29 31-39 41-49 51-59 61-69 71-800]123456789012345678901234567890123456789012345678901234567890123456789012345678901 |NAMEBR NNNNNNNNNNINNINNT, NNINNINNNN , I, IR023 [AnNAnNANNANNANNANNANNANNANNANNANNANNANALNAINAINANLNALNANINANLNANNANNATNATL4| nNINNINNINNINNINNANNANNANNANNANNANN NI -NINNONNI5| nNannnunNIININNINNINNINNINNANNANNANTG  NNNNINNINNINNINNINNINNINNINNINNTINNTL[ [ statatatotatatatatabatatabatatabatatabatate] nnnrnnnn78 | NNNNNNNNNNN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN9| NNNNNNNNNNNNMNNNNNONNANNANNANNANNND  NN-NNANNNNI10| nnonnonnonnonnonnonnonnuonnonnonnnnn - NN nInnInNINNINNANNANNANNANNAN11| nnonnonnonnonnonnonnnn nnnnnnnn12Rc) Febshotolshotobshotobshotobshotolshotolshotolshotolshotohshotolshotoltotolskelohotelohatelohoelohatelshatelshatelshatelshatelshatelshaselol14| nnnnnnnnnnnnnnnnnonnnnnuonnuonnonnnnn o n-nnnnnnnn15| nnannonnonnonANnNONNNNINNNNNNNNNNN - AnNAnNANNANNANNANNANNANNANNANNANNNNL16 nnnnnonnornnannannnnnnn nnnnnnnn17jR:] Febshotolshotobshotobshotolshotolshotohshotolshotolshotohshotolshotoltotolskelohaelohatelhotelohatelshatelshatelshatelshatelshatelshatelol19( nnnnnnnnnNnNNNNINNINNINNINMINNNNNNNN N-NNNnnnn20| nnonNonNINNNANNIONINNNNNNNNNNNNNN - ANNANNANNANNANNANNANNANNANNANNANNNNL21| nnnnnnnnonnnnnnnnonnnn nnnnnnnn222324 PAGE nnn OF nnn >PGNUM nnn123456789012345678901234567890123456789012345678901234567890123456789012345678901-9 | 11-19 | 21-29 | 31-39 | 41-49 | 51-59 | 61-69 | 71-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "bd3af3f9b19918d98c75b7ebb3fffe08",
+    "text": "123456789012345678901234567890123456789012345678901234567890123456789012345678901-9 11-19 21-29 31-39 41-49 51-59 61-69 71-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "31b1d000fae3ea130b45c086b6e75518",
+    "text": "Exhibit 2.3.60-15 (Cont. 1) (01-01-2012) Command Code NAMEB (EIN) International (non-USA) Response Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "16a346ffed56ee5e101977ff93182f82",
+    "text": "Description and Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "56abadd0154ab1566294bbc8a97be298",
+    "text": "Command Codes NAMES, NAMEE, NAMEI, NAMEB, FINDS, FINDE, and TPIIP 2.3.60 page 45",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "0cf2814604b4c9ad9139ebf7792b197f",
+    "text": "Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "a6eabe1daf401f951ae81f1a3442d19e",
+    "text": "Screen format for messages.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "86d1767a75b565c9ab0e1410046cd412",
+    "text": "el e e R e B e L L10 z0 20 40 &0 €0 70 20123456785012 34 56789012 345673301 2345673501234 567890 12345678901 2345678301234 567830NAMES",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "90273c7fc3fb0d5d34575a83c470b61e",
+    "text": "ol123456785012 34 56789012 345673301 2345673501234 567890 12345678901 2345678301234 567830",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "0b2153f05c234de150284ff2de76362f",
+    "text": "12345678501234 56755012 345675301 23456 73501234 567300 1234567890L 2345678301234 56783010 zZ0 20 40 g0 &0 70 20",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "91f539c5cc5ce9056ff81b8d61e2365b",
+    "text": "Messages are self-explanatory.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-060--2020-03-25.pdf",
+      "page_number": 49
+    }
+  }
+]

@@ -1,0 +1,281 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-047--2022-11-22.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "7bb18104ff7f112571bbb56c5278884e",
+    "text": "This transmits revised IRM 2.4.47, IDRS Terminal Input, Command Code VPMSG",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-047--2022-11-22.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "72b0c2381bce1025d8ecb8900afbec90",
+    "text": "(1) IRM 2.4.47 has been revised to include Program, Scope, and Objectives.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-047--2022-11-22.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "e18884437d919f763e9b383eae6ebc40",
+    "text": "LMSB, SB/SE, TE/GE, W&I",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-047--2022-11-22.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-047--2022-11-22.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "f1c525623dddf64f203c06eae827010c",
+    "text": "Program, Scope and Objectives",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-047--2022-11-22.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "ea2b8a878841df5955c78edc6cae4744",
+    "text": "Background",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-047--2022-11-22.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "b80e403d2645d45e3503a6575390f407",
+    "text": "Authority",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-047--2022-11-22.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "68f1e9f90c249733968025ee52895c64",
+    "text": "Roles and Responsibilities",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-047--2022-11-22.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "e468dc51031fe56a2c1d8e6ce986514a",
+    "text": "Program Management and Review",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-047--2022-11-22.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "618ce0574d14592c561e16cb0abf32c9",
+    "text": "Program Controls",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-047--2022-11-22.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "e3c641c0e13a99daf2fc51fd43285a8f",
+    "text": "VPMSG Error Indicators",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-047--2022-11-22.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-047--2022-11-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "249da5f09af2994abfc99cfd72c28ba6",
+    "text": ") Overview: This IRM section provides an overview of Voice Processing Message (VPMSG) command code, which is part of the Telephone Routing Interactive System (TRIS). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-047--2022-11-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0ba9e87a5f2152ee566c82aeb6f1f402",
+    "text": ") Purpose: This IRM contains procedural steps for use of the VPMSG command code. A taxpayer dials in to use the TRIS phone system. When a condition is encountered that the automated phone system cannot handle, the automated phone system passes VPMSG an Agent Message Code for the error encoun- tered, to store on the Taxpayer Information File (TIF). VPMSG only keeps the three most current error codes. VPMSG sends a code back to the automated phone system to indicate whether the error request was successfully completed. The call is then transferred to a customer service representative assistance in completing their transaction. The customer service representative uses Command Code VPARS to display a description of the error encoun- tered. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-047--2022-11-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "45ee1283585fe38c0ac2921226ac766f",
+    "text": ", Command Code VPARS for a complete listing of Agent Message Codes and descriptions. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-047--2022-11-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f81d20dbb498da838789fa716381145f",
+    "text": ") Audience: These procedures apply to IRS employees who are responsible the processing of VPMSG transactions. These employees are located in the following areas: Large & Medium-Sized Business, Small Business/Self/ Employed, Tax-Exempt & Government Entity’s, and Wage & Investment. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-047--2022-11-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d81d198de67bdcf7115970d0e99906a5",
+    "text": ") Policy Owner: The Chief Information Officer (CIO) is responsible for oversee- ing all aspects of our systems that operate the nation’s tax infrastructure. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-047--2022-11-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2d2e68e9df4d403959d72f6e28dc1d68",
+    "text": ") Program Owner: IT. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-047--2022-11-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "dca5635320111823e3203962cc79e49d",
+    "text": ") Primary Stakeholders: Large & Medium-Sized Business, Small Business/Self/ Employed, Tax-Exempt & Government Entity’s, and Wage & Investment. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-047--2022-11-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "15962cb8f09797ff9d9e79d73cbde294",
+    "text": ") Program Goals: This IRM provides the fundamental knowledge and proce- dural guidance for employees who work with VPMSG cases. By following the processes and procedures provided by this IRM, employees will process VPMSG cases in a manner that follows IRS policy and procedures while promoting the best interests of the Government. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-047--2022-11-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "801e455bd801bfa9d089047e39c34011",
+    "text": ") This IRM and the contained sections provide the user the necessary informa- tion on how to use the command code VPMSG. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-047--2022-11-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f6d396ee46387087ca6e8f52d78a123a",
+    "text": ") VPMSG was developed to give users Voice Processing as part of the Telephone Routing Interactive System (TRIS). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-047--2022-11-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "34feb4552d0866004bf170652c0b85ed",
+    "text": ") TRIS Project Lead is responsible for • Review and implementation of WRs that affect VPMSG • Updating the contents of this IRM (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-047--2022-11-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "64b82855f9adda30b9060058b9943e22",
+    "text": ") Program Reports: This process receives a VPMSG-REQ-REC from the TMAC-MINI-COMPUTER. It will update or create the ENT-ACTION-HIST-REC for the taxpayer account with information. The VPMSG-RESPONSE-REC will be returned to the TMAC-MINI-COMPUTER. Code VPMSG",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-047--2022-11-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3660315a9af3df255d8f19ab077e4797",
+    "text": "page",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-047--2022-11-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ab2696112088a1814450294d8d114743",
+    "text": "Primary Stakeholders: Large & Medium-Sized Business, Small Business/Self/ Employed, Tax-Exempt & Government Entity’s, and Wage & Investment.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-047--2022-11-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f8871ffab8e2d037bea5a3531d685b5e",
+    "text": "This IRM and the contained sections provide the user the necessary informa- tion on how to use the command code VPMSG.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-047--2022-11-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c03de96d71d289acd8f1978cd273702a",
+    "text": "VPMSG was developed to give users Voice Processing as part of the Telephone Routing Interactive System (TRIS).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-047--2022-11-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f35bce53e049932ca1ad90df1796f517",
+    "text": "Command Code VPMSG sends a Error Indicator back to the TRIS automated phone system. The values are as follows:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-047--2022-11-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "19a742ce578c5aa23f9e3caf5a3c9c94",
+    "text": "VALUES MEANING: 0 Request Completed 1 Invalid TIN, FILE-SOURCE combination 2 TIF is not available 3 TIF AREA is not available 4 Account is not on TIF 5 Invalid Agent Message Number 6 Request record is not complete 7 Other",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-047--2022-11-22.pdf",
+      "page_number": 6
+    }
+  }
+]

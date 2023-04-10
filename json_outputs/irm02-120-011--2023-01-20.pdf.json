@@ -1,0 +1,1550 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "0d240e19a715d2d1b10bfdb1aa31fc70",
+    "text": "This transmittal revises IRM Part 2 Chapter 120 Engineering, Section 11 Data Management dated March 8, 2022 due to 508 compliance mandated requirement.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "3f29d336802fe4f54b997064d599f946",
+    "text": "IRM 2.120.11 dated March 8, 2022 is superseded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1e40feedb6d8e174d473a369b3da23fd",
+    "text": "AUDIENCE",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "96c62f539f51a7e22c7b53ef6d83bbc2",
+    "text": "This process description is applicable to all projects following the Enterprise Life Cycle (ELC) and customers who request data management services through the Conﬁguration Management, Change Management KISAM, the Work Request Management System (WRMS), or the OnLine 5081 Service.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c31eed540b69d692507ce3e64f64cb67",
+    "text": ") Overview - The objectives of this Data Management Process which is one of the major process of Data Engineering is to provide a set of related activities that accomplish a common goal of Data Management. The process deﬁnition laid out in this document further breaks down these Activities into Tasks, each of which have a complete set of attributes deﬁned such as data and tool speci- ﬁcations and the role(s) responsible for executing the tasks. The document also includes process goal and objectives, metrics, role deﬁnitions, policies other process related attributes. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f6d18d9f06b6fbf0721598fe3114aef3",
+    "text": ") Purpose - This IRM contains procedural steps for the Data Management Process within IRS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ae1957acc8e86bdb010466146f6dfdbb",
+    "text": ") Audience - This process description is applicable to all projects following the Enterprise Life Cycle (ELC) and customers who request data management services through the Change Management KISAM system, the Work Request Management System (WRMS), or the O",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "7a1b1850245e45c50d0a34d02dc3afd7",
+    "text": "ine",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "286074e3f0b8c27e30109de624f80fcb",
+    "text": "Service. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0428f1e8afa0bee24eeec911125a37e6",
+    "text": ") Policy Owner -The ACIO, Enterprise Services is responsible for overseeing aspects of the Data Management Process . (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "63f4a402f8a2c0700a0ed4597dca68ac",
+    "text": ") Program Owner - The Chief of Engineer Process Maturity Group under the Director of Enterprise Services, Solution Engineering Division is responsible the administration, procedures, and updates related to the Data Management IRM. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1e58a01773cac254a415b55e789a7715",
+    "text": ") Primary Stakeholders - IT Organizations and Projects that have data manage- ment requirements (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "35917445d24623a5f2b81923838aa632",
+    "text": ") Program Goals - This IRM provides the fundamental knowledge and proce- dural guidance for employees who request the Data Management Services from Data Engineering Group. By following the processes and procedures of this IRM, employees will achieve the management of project related data. . (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "04e3150ab96ce2e101e66096bca751b0",
+    "text": ") Data Management process used to be one of the major processes of the Data Engineering chapter of the IRM. However, due to Solution Engineering IRM Restructure, the Data Management process becomes one of the processes within the Engineering chapter of the IRM. The Data Management process includes",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "60b231402b4a8ddfc3da518e60d6a1cd",
+    "text": "core components which are Collect, Consolidate, Certify, Connect, and Consume. These",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a1fa9c22a22fc1b0611ae5f060052d65",
+    "text": "C’s are the cornerstone of Data Management. • Collect data that exist in a database (structured) and that exist outside the database (unstructured). • Consolidate and condense disjoined data/project into that which can homogenized and that which can remain distinct so the relevant data will be easily accessible. • Certify the designated sources, processes, projects, while understanding the data quality, and governing the data assets. • Connect the data to each other as well as users to the data. Building out the metadata repository helps expose the data elements to the larger audiences. • Consume data by presenting the data in the proper/desired state for recipient to efficiently make correct decisions. This effectively turns the data into information that then can be strategically used as knowledge. Process Description",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3660315a9af3df255d8f19ab077e4797",
+    "text": "page",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5186f2bb1ee473ef08088994083164d9",
+    "text": "Data Management Process Description 2.120.11",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "04e3150ab96ce2e101e66096bca751b0",
+    "text": ") Data Management process used to be one of the major processes of the Data Engineering chapter of the IRM. However, due to Solution Engineering IRM Restructure, the Data Management process becomes one of the processes within the Engineering chapter of the IRM. The Data Management process includes",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "60b231402b4a8ddfc3da518e60d6a1cd",
+    "text": "core components which are Collect, Consolidate, Certify, Connect, and Consume. These",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4ef6b0aa937665531de58467e5e26c0a",
+    "text": "C’s are the cornerstone of Data Management.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "53fc83c06a861371c83adf099fee514c",
+    "text": "Collect data that exist in a database (structured) and that exist outside the database (unstructured). Consolidate and condense disjoined data/project into that which can be homogenized and that which can remain distinct so the relevant data will be easily accessible. Certify the designated sources, processes, projects, while understanding the data quality, and governing the data assets. Connect the data to each other as well as users to the data. Building out the metadata repository helps expose the data elements to the larger audiences. Consume data by presenting the data in the proper/desired state for the recipient to efficiently make correct decisions. This effectively turns the data into information that then can be strategically used as knowledge.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "cabe74c3dbc230e173152e46c3d7c9dd",
+    "text": ") The mission of Data Management is to deﬁne an enterprise-wide data environ- ment to more easily and efficiently organize, identify, share, reuse, and correlate data that enables the business to consume information and maximize the value to the agency. This Data Management Process Description describes what happens within the process and provides an operational deﬁnition of major components of the process. This description speciﬁes in a complete, precise, and veriﬁable manner, the requirements, design, and behavior charac- teristics of Data Management process. The process description (PD) is a documented expression of a set of activities performed to achieve a given purpose.Tailoring of this process in order to meet the individual needs of each project covered in the Tailoring Guidelines section of this document. For the purpose of this document, roles are provided to describe a set of responsibilities for performing a particular set of related activities. Roles and/or responsibilities should ﬁt your business terminology. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "aa15efefeab8319c7006017c551d2fb0",
+    "text": ") The process goal describes a speciﬁc purpose or achievement toward which the efforts of the process are directed. Each process has a speciﬁc focus and when combined with the other processes, forms a comprehensive framework for delivering and managing services. This IRM provides the fundamental knowledge and procedural guidance for employees who request Data Management Services from the Data Engineer- ing Group. • To achieve a given purpose and states the guidelines that all projects should follow regarding the Data Management process. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ba4b8a4385162254fafb2a84cfe9829c",
+    "text": ") Process objectives describe material outcomes that are produced or achieved by the process. The following is a list of objectives for this process: • Provide standardized and institutionalized Data Management guidelines within IRS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "96c9c66a0030cb4f08d174c710620d0f",
+    "text": ") All proposed changes to this document must be submitted in writing, with sup- porting rationale, to the Chief, Enterprise Service, Solution Engineering, Engineer Process Maturity Group. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1df3db02a3e8b8a139449dd3a801068c",
+    "text": ") Each process deﬁnes at least one role. Each role is assigned to perform speciﬁc tasks within the process. The responsibilities of a role are conﬁned the speciﬁc process. They do not imply any functional standing within the hierarchy of an organization. For example, the process manager role does imply the role is associated with or fulﬁlled by someone with functional man- agement responsibilities within the organization. Within a speciﬁc process, there can be more than one individual associated with a speciﬁc role. Addition- ally, a single individual can assume more than one role within the process although typically not at the same time. The following roles have been identiﬁed for this process:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "fe595045739e556d2c7d4cc70273f940",
+    "text": "Solution Engineering",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d040216f4c64786c68d4aeb89083a0d9",
+    "text": ") The process goal describes a speciﬁc purpose or achievement toward which the efforts of the process are directed. Each process has a speciﬁc focus and when combined with the other processes, forms a comprehensive framework for delivering and managing services. This IRM provides the fundamental knowledge and procedural guidance for employees who request Data Management Services from the Data Engineer- ing Group.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "b2400b307636ffc3e6cb3469a53e3840",
+    "text": "To achieve a given purpose and states the guidelines that all projects should follow regarding the Data Management process.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "56031663384e82e4a18230673c54f2f2",
+    "text": "Process objectives describe material outcomes that are produced or achieved by the process. The following is a list of objectives for this process:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "55113c83f8301d7ecce2c6856bde717d",
+    "text": "The following roles have been identiﬁed for this process:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "2a506717a66d911e2f9f0f66a1064be5",
+    "text": "Name Description Project Office • Creates and submits Change Request or Work Request • Enters ELC process • Conducts data proﬁling; implements data quality check; develops balance control and validation • Submits an OnLine 5081 request for access the data system • Submits a Live Data Waiver request as required user for SBU data • Consumes data through queries and generate required reports High Authority(Infra- structure Executive Steering Committee(I- ESC) Provides governance for data technology platforms and funds data initiatives Engineer/Analyst(Data Engi- neering Group) • Determines scope and impact as related to ELDM • Determines data organization (OLTP/ OLAP) • Advances ELC and achieves milestone approval • Reviews Data Management Process outputs • Aligns Project Data Model with ELDM • Determines impact on Data Warehouse environment • Certiﬁes data contents • Identiﬁes interfaces • Routes approved CRs to data platforms (e.g. EIP and BOE) OnLine 5081 Approval Group • 5081 Application/Services Administra- tor approves 5081 services request Process Description 2.120.11 page",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "239ba55b6fe1940b40fcfc0e643dda1c",
+    "text": ") Policies outline a set of plans or courses of action that are intended to inﬂuence and determine decisions or actions of a process. Policies provide an element of governance over the process that provides alignment to business vision, mission and goals.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "fcff7b2cb01ba7bdd35aefc519f1976c",
+    "text": "Process Management Statement: The Data Management process will have a single Process Owner and a separate Process Manager responsible for imple- mentation and ensuring adherence to the process. The process will be reviewed regularly to ensure that it continues to support the business requirements of the enterprise. The process will be designed and developed based on ROI to the business. Process metrics will be focused on providing relevant information as opposed to merely presenting raw data. People : Statement: Roles and responsibilities for the process must be clearly deﬁned and appropriately staffed with people having the required skills and training. The mission, goals, scope and importance of the process must be clearly and regularly communicated by upper management to the staff and business customers of IT. All IT staff (direct and indirect users of the process) shall be trained at the appropriate level to enable them to support the process. Rationale: It is imperative that people working in, supporting or interacting with the process in any manner understand what they are supposed to do. Without that understand- ing the Data Management process will not be successful. Process:",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "c5b79188f5a820f8f0af9fe4d1e78558",
+    "text": "Process Management Statement: The Data Management process will have a single Process Owner and a separate Process Manager responsible for imple",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "b4eb35beacc9b6f42dd5b8e347747f0c",
+    "text": "mentation and ensuring adherence to the process. The process will be reviewed regularly to ensure that it continues to support the business requirements of the enterprise. The process will be designed and developed based on ROI to the business. Process metrics will be focused on providing relevant information as opposed to merely presenting raw data. People : Statement: Roles and responsibilities for the process must be clearly deﬁned and appropriately staffed with people having the required skills and training. The mission, goals, scope and importance of the process must be clearly and regularly communicated by upper management to the staff and business customers of IT. All IT staff (direct and indirect users of the process) shall be trained at the appropriate level to enable them to support the process. Rationale: It is imperative that people working in, supporting or interacting with the process in any manner understand what they are supposed to do. Without that understand",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8a60d88a65f1935a032ddbbd583b5cfc",
+    "text": "ing the Data Management process will not be successful.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "35cd05203c4bea90394cd5b7d5d4730c",
+    "text": "The Data Management process will have a single Process Owner and a separate Process Manager responsible for imple",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "64a9ef8cadaf6c803b373eb5966a55ed",
+    "text": "mentation and ensuring adherence to the process. The process will be reviewed regularly to ensure that it continues to support the business requirements of the enterprise. The process will be designed and developed based on ROI to the business. Process metrics will be focused on providing relevant information as opposed to merely presenting raw data.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "6a4d90e33edf3676909dceb343ee2ef3",
+    "text": "Roles and responsibilities for the process must be clearly deﬁned and appropriately staffed with people having the required skills and training. The mission, goals, scope and importance of the process must be clearly and regularly communicated by upper management to the staff and business customers of IT. All IT staff (direct and indirect users of the process) shall be trained at the appropriate level to enable them to support the process.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e08f5d02b717f62738e51091cae739f8",
+    "text": "Modiﬁcations to the Data Management process must be approved by the Process Owner. The design of the process must include appropriate interfaces with other processes to facilitate data sharing, esca- lation and workﬂow. The process must be capable of providing data to support real- time requirements as well as historical/ trending data for overall process improvement initiatives. The process must be fully documented, published and ac- cessible to the various stakeholders of the process. The process will be reviewed on a periodic basis in order to ensure it continues to support organizational goals and objectives (continuous improvement). The process must include Inputs, Outputs, Controls, Metrics, Activities, Tasks, Roles and Responsibilities, Tool and Data re- quirements along with documented process ﬂows. The process will be kept straight forward, rational, and easy to un- derstand. The process must meet operational and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3660315a9af3df255d8f19ab077e4797",
+    "text": "page",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7dfefe4fc6aa881331436fb8d7362ba9",
+    "text": "The process must meet operational and business requirements.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "272fa1b9eac00f3661168414c81e98c6",
+    "text": "All tools selected must conform to the en",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4b2a113ba9fed723b68fc0c8b8067e53",
+    "text": "terprise architectural standards and direction. Existing in",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "ddffd26efd05b0a361a3b570ace8a826",
+    "text": "house tools and tech",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8193381e2f6cbcf896d065ff6bcd243a",
+    "text": "nology will be used wherever possible, new tools will only be entertained if they satisfy a business need that cannot be met by current in",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "88b290416302c880918932dadd67d9e4",
+    "text": "house tools. The selection of supporting tools must be process driven and based on the require",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "49d3b28fd422e6c453110edc08584a50",
+    "text": "ments of the business. Selected tools must provide ease of deployment, cus",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a393eb8e4a907665ecf479c97fa57286",
+    "text": "tomization and use. Automated workﬂow, notiﬁcation and escalation will be deployed wherever possible to minimize delays, ensure consistency, reduce manual inter",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e916d81a53ecbe944d200289d0a9b7bb",
+    "text": "vention and ensure appropriate parties are made aware of issues requiring their attention.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "c3032ada4ac74fec9ee26a938eab018b",
+    "text": "Activities involved in ensuring a process is predictable, stable, and consistently operating at the target level of performance.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "f8f2bf79dfa2a0f4b5d898943b55e62a",
+    "text": "Process controls represent the policies and guiding principles on how the process will operate. Controls provide direction over the operation of processes and deﬁne constraints or boundaries within which the process must operate.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "e2020a2bdc23e7cffebc9f2aaff563e4",
+    "text": "The process controls are the following:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9f8cdad5c3ca9f54baae2535fcebb220",
+    "text": "Name Description Data Implementation Guide (DIG) Data implementation begins with vision and strategy activities and ends with system de",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "e98560bc4e3cbb9604fd9c0e4864eead",
+    "text": "ployment. The Data Implementation Guide (DIG) provides guidance on how to document the ﬂow of an information system’s data throughout its life cycle: from acquiring, conversion, migration, storage to the time when it becomes obsolete and is deleted. Data Implementation Compliance Directive The Data Implementation Compliance Directive enforces the Implementing of the Data Implementation Guide (DIG). Scope All projects following the Enterprise Life Cycle (ELC) are required to perform engi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "a768152eb907cffdf6a433bebe0530ee",
+    "text": "neering processes and associated activities in accordance with the Engineering Policy IRM. Change Management Policy Change Management Policy is applicable to any change that might affect the IT systems, infrastructure, and services in the IT environ",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "a2bb8768b6ced717284722fcce86ff79",
+    "text": "ment. This should also include changes to all architectures, applications, software, tools, and documentation, as well as changes to all conﬁguration items across the whole service lifecycle.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "2a8a1d74f0070811176a70aac7bf1af2",
+    "text": "All projects following the Enterprise Life Cycle (ELC) are required to perform engi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "7da8b68d747271d033c594ed8a05bb34",
+    "text": "neering processes and associated activities in accordance with the Engineering Policy IRM.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "fb02780f79f768fcbcc75ea485cee185",
+    "text": "Change Management Policy is applicable to any change that might affect the IT systems, infrastructure, and services in the IT environ",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "a2bb8768b6ced717284722fcce86ff79",
+    "text": "ment. This should also include changes to all architectures, applications, software, tools, and documentation, as well as changes to all conﬁguration items across the whole service lifecycle.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "5186f2bb1ee473ef08088994083164d9",
+    "text": "Data Management Process Description 2.120.11",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "453543dc0567f05ebf653bee31782e25",
+    "text": ") (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "6baad44ba7dc65c654509e61512546d6",
+    "text": ") Metrics are used for the quantitative and periodic assessment of a process. They should be associated with targets that are set based on speciﬁc business objectives. Metrics provide information related to the goals and objectives of process and are used to take corrective action when desired results are not being achieved and can be used to drive continual improvement of process effectiveness and efficiency. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "bf50286c2a42944ada7c7f64317e6358",
+    "text": ") Management will regularly set targets for process performance, gather quantiﬁ- able data related to different functions of the Data Management process, and review that data in order to make informed decisions and take appropriate rective action, if necessary. All Measurements will have a deﬁned data dictionary, map to the organizational strategic goals, and be documented in Process Measurement Plan. The Process Measurement Plan template is available in the IT PAL.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "dd3b4cc4061007ae79b6aba2e244a61c",
+    "text": ") Guidelines (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "ded02248ed1ab5fdc7fedaf20d2d5097",
+    "text": ") The tailoring guidelines identify the allowable variations of the IT organization’s standard process as needed for adjustments (adding, deleting, modifying) relative to speciﬁc operational or functional needs of another organization. Process tailoring is about roles and procedures, not the standard process or major activities deﬁned in this process. All tailoring request, with supporting rationale, must be submitted in writing to and approved by the Data Manage- ment Process owner.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "db3d37cf1f08df38d834b65b6a72ffff",
+    "text": ") Assurance (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "fe0092a03eb360780fe814d4dc7d4ca6",
+    "text": ") The Data Management Process may be part of a Quality Assurance review the discretion of the Process Owner.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "1c5561597e0d34534feabbb5c66fad8f",
+    "text": ") Terms/Deﬁnitions/Acronyms (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "87fda692d4dc7b60762581e207ebf24a",
+    "text": ") Terms/Deﬁnitions/Acronyms",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8c053eca77e6d30e47cf73294667f50b",
+    "text": ") and Deﬁnitions (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "6d966e64a6ee8aa7fbdb7458d995ecb1",
+    "text": ") Terms and Deﬁnitions Term Deﬁnition E",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8cae70b0039fb1fca66f49db74588d91",
+    "text": "The E",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "9c48c79fb22ea631cc17746da7d66a2c",
+    "text": "is a subset of the E",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "0080cff61bd0f0dbd9c4093d629ad377",
+    "text": ", Capital Asset Plan, that summarizes the Business Case and outlines the beneﬁts, costs, risks, and other OMB/Treasury requested data. It demonstrates an alignment with organizational objectives. It is used to determine if the effort should receive funding. The IRS submits the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "b093b1f8d3beb83c8fa37d35f8fa1cbb",
+    "text": "Metrics are used for the quantitative and periodic assessment of a process. They should be associated with targets that are set based on speciﬁc business objectives. Metrics provide information related to the goals and objectives of a process and are used to take corrective action when desired results are not being achieved and can be used to drive continual improvement of process effectiveness and efficiency.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "51e85c781e0fe6db251ee1753ef55efe",
+    "text": "2.120.11.1.6(01-20-2023) Terms/Deﬁnitions/Acronyms",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "42d36287da1ab81b61bddcb88d95f616",
+    "text": "Deﬁnition The E",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "9c48c79fb22ea631cc17746da7d66a2c",
+    "text": "is a subset of the E",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "20c4854c03d0a7bb0cb744bb31acc00e",
+    "text": ", Capital Asset Plan, that summarizes the Business Case and outlines the beneﬁts, costs, risks, and other OMB/Treasury requested data. It demonstrates an alignment with organizational objectives. It is used to determine if the effort should receive funding. The IRS submits the E",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "e2f0040011bf1177a7677d098335d8af",
+    "text": "to OMB to obtain funding approval for new major and existing major projects (Please see IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "5b89d124b052a9ed8f90a796c03dcae0",
+    "text": "). The E",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8462b65a33febb2e29fc698fcd89a6f1",
+    "text": "is updated during the life of the project based on the annual budget cycle.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "5549d083a117a8cebcfd7fed358f74e3",
+    "text": "Knowledge Incident/Problem Service Asset Management System https:// selfservice.web.irs.gov/webtier-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "b9447c2294e17dd53c5173180b99ba49",
+    "text": "/ess.do",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "686ccb8c8de8728f117e9b7ae0205a8e",
+    "text": "The RACI model is based on the principle that people act in one of four ways when executing a task. It accounts for the fact that more than one role may be active in performing a speciﬁc task while clearly deﬁning speciﬁc responsi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "796816c7bed7f1203815df1a961303f5",
+    "text": "bilities for that role. While many roles may be involved in a task only one is Accountable for the results. The actions are: R Responsible for the action (may do the task) A Accountable for the action (including approval) C Required to be Consulted on the action I Required to be Informed of the action If a task does not have an Accountable role indicated then the Responsible role is assumed to be accountable for the task. The Work Request Management System",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "22529a4a1e69bd32a0f4f91359012056",
+    "text": "The Work Request Management System is an ITIL",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "60c9fa1a86c55bd46fa3de12525841cb",
+    "text": "based COTS product for regis",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "736173c205d9ecc8313175bc498f6d72",
+    "text": "tering and managing demand requests for IT products and services.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "6d8da57af136335633e6db8561237c56",
+    "text": "Acronyms Description ELC Enterprise Life Cycle IPM Integrated Process Management or Inte- grated Production Model when uses for database environment ITIL Information Technology Infrastructure Library PAL Process Asset Library RACI Responsible, Accountable, Consulted and Informed RDBMS Relational Database Management System SBU Sensitive But Unclassiﬁed",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "c94b52effc531ec318554ff0ed5a687d",
+    "text": ") ELC Artifacts. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "82dd9d5e638520768b404fba299f8cf6",
+    "text": ") Process training involves training all stakeholders about key processes that crucial for an organization to deliver business objectives. Training provides clarity to employees on a set of procedures that needs to be carried out as part of the process and the best possible way to do them. List below the training resources available for this process: Any Data Tools that come into the process. • Busines",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "cbcd28ebec45fd84f47a8283998d0f12",
+    "text": "bjects • Enterprise Informatica Platform • Greenplum Database • Tableau (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "84b210497835e38ee6d592e347a43b32",
+    "text": ") A process workﬂow consists of Activities and Tasks, Inputs and Outputs, Roles, and Flow Diagrams. It describes the tasks, procedural steps, organizations or people involved, required input and output information, and tools needed for each step of the process. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "2e8a33fce4321022ddaf1e82d01171de",
+    "text": ") Data Management Process Description Flow Diagram",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d9bc30a5684c500ae8ffabb28c1ad6ed",
+    "text": ") Process training involves training all stakeholders about key processes that are crucial for an organization to deliver business objectives. Training provides clarity to employees on a set of procedures that needs to be carried out as part of the process and the best possible way to do them. List below the training resources available for this process: Any Data Tools that come into the process.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "104f876c9afad6912e2fceb11bae60e8",
+    "text": "Data Management (DM) Process Flow DiagramNl=——— =)i",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "42c35079b97f67f8bbf938a58dc3d04b",
+    "text": "Data Management (DM) Process Flow Diagram",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "5186f2bb1ee473ef08088994083164d9",
+    "text": "Data Management Process Description 2.120.11",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "4635788237eebb4c0ef8d4380eab6c09",
+    "text": "Process inputs are used as triggers to initiate the process and to produce the desired outputs. Users, stakeholders or other processes provide inputs. The following is a list of inputs for this process:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "bc03f6211eb5625403f04c7a9acf04d5",
+    "text": "Name Description Supplier ChangeRequest A Change Request for the service of 5 C’s from Data Management Process Project Schedule (Project Office) DispositionChangeRequest Infrastructure Executive Steering Committee (IESC) would determine whether to approve or deny the request Infrastructure Executive Steering Committee (IESC) On-Line 5081 Request A request for accessing the Data System Project Office Schedule DataPlatforms Solution Engineering Data Practice Group provides appropriate Data Platform to Project Office(s), such as: Enterprise Business Intelligence Platform (EBIP); Enterprise Infor- matica Platform (EIP) Solution Engineering Data Engineering Practice Group (Engineer/ Analyst) Baseline and MilestoneUpdatedforPrimaryDesign The following baseline documents should be started/created or updated with ﬁnal signa- tures at the corresponding Enterprise Life Cycle (ELC) Phase & Milestone: • E300 and E53 • Project Tailoring Plan • Project Manage- ment Plan • Business System Report (BSR) (Logical Data Model/BusinessMetadata) • Agile Rapid Delivery Model (RDM) Vision, Scope, and Archi- tecture (VSA), and all ELC related artifacts Solution Engineering Data Engineering Practice Group (Engineer/ Analyst)",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "78ea12af4ed544484753d66be1fe8ff2",
+    "text": "Baseline and MilestoneUpdatedforDetailedDesign The following baseline documents should be started/created or updated with ﬁnal signa- tures at the corresponding Enterprise Life Cycle (ELC) Phase & Milestone: • Design Speciﬁca- tion Report (DSR) (Physical Data Model/TechnicalMetadata) • Interface Control Document (ICD) (Data Movement Metadata) • Simpliﬁed Design SpeciﬁcationReport(SDSR),andAgileallELCrelatedartifacts Solution Engineering Data Engineering Practice Group (Engineer/Analyst)",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "2d63774711e6b0271eec6115ce89967f",
+    "text": ") Each process produces tangible outputs. These outputs can take the form of products or data and can be delivered to a user or stakeholder or they can be used as inputs to other processes. Outputs are measurable in terms of quantity and quality.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "2b9f3acffe0b162dd2df5cbd8b7a65cf",
+    "text": "Name Description Recipient Data Platforms Solution Engineering Data Practice Group provides appropriate Data Platform to Project Office(s), such as: Enterprise Business Intelligence Platform (EBIP); En- terprise Informatica Platform (EIP) Project Office Disposition Data CollectionChange Request (CR) InfrastructureExecutiveSteeringCommittee(IESC) determines if the Change Request is denied or approve Project Office",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "8636fd566c58f007c7bc1a6d718c8d12",
+    "text": "Baseline and MilestoneUpdatedforDetailedDesign A completed Data Management design with the applied version controlled: • Design Speciﬁ- cation Report (DSR)(Physical Data Model/TechnicalMetadata)a.Tables & Columns(PhysicalData Model) b. TechnicalMetadata(TechnicalTaxonomy) • InterfaceControlDocument(ICD)(DataMovementMetadata)a.Schema;Service;MessageInter-changeMetadata(XMLTaxonomy) • SimpliﬁedDesignSpeciﬁ- cation Report (SDSR), and all Agile ELC related artifacts Project Office (1) An activity is a major unit of work to be completed in achieving the objectives 14 2.120 Solution Engineering",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "b19d8a417024eeed94a3f4d52196e90d",
+    "text": ") An activity is a major unit of work to be completed in achieving the objectives of the process. A process consists of a sequence of related activities that transforms inputs into outputs and performed by the roles deﬁned in the process. Activities are measurable in terms of efficiency and effectiveness. Identify the activities in the process and provide a brief description. The activi- ties must correspond with the high-level process ﬂow diagram above.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "0430d05829b9a9ea489e903aace7b18c",
+    "text": "An activity is a major unit of work to be completed in achieving the objectives of the process. A process consists of a sequence of related activities that transforms inputs into outputs and performed by the roles deﬁned in the process. Activities are measurable in terms of efficiency and effectiveness. Identify the activities in the process and provide a brief description. The activi- ties must correspond with the high-level process ﬂow diagram above.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "5186f2bb1ee473ef08088994083164d9",
+    "text": "Data Management Process Description 2.120.11",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "ccbc951231302e398a7e91b60113a840",
+    "text": "Step 2.0 Data Consolidation To manage data as follows: consolidate and condense disjointed data that can/ should be homogenized and recognize which data is truly distinct so the relevant data is most easily identiﬁable and accessible. • Project Office creates and submits Data Con- solidation Change Request (CR) or Work Request (WR). • Solution Engineering Engineer/Analyst (Data Engineering Group) de- termines the scope of Change Request (CR) or Work Request (WR). • Solution Engineering Engineer/Analyst (Data Engineering Group (Engineering/Analyst)determinesthedatasource,andevaluatestheChangeRequestagainsttheIRSdatastrategy. • High Authority disposi- tions Data Consolidation Change Request (CR) if that required funding. • Solution Engineering Engineer/Analyst (Data Engineering Group)con- siders Change Request (CR) and determines the impact on the Data Warehouse environ- ment. 2.120 Solution Engineering",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "6bb5fde0f706d389276318da57f529ad",
+    "text": ") Data Collection: To collect structured and unstructured data from across the agency and external to the agency. By leveraging the additional data captured with e-Filing and modernized residual paper processing, more data can be shared for matching and targeting the best case. Data can be collected in forms of documents, records, models, emails, processes, RDBMS, business rules, or transaction systems.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "eb1445ef09c89a2dcbf6b3a58f8fa71a",
+    "text": "Step 1.7 Review Data Collection Processing Outputs - Primary Design: E300 and E53 Project Tailoring Plan, Project Management Plan, Business System Re- quirement (BSR), or Agile Vision, Scope and Architecture (VSA), and all ELC related artifacts. • Entities & Attri- butes (Logical Data Model) Business Metadata (Business Taxonomy) Detail Design: Design Speciﬁcation Report (DSR) (Physical Data Model/TechnicalMetadata),orAgileSimpliﬁedDesignSpeciﬁcationReport(SDSR),andallELCrelatedartifacts. • Tables & Columns(Physical Data Model) • TechnicalMetadata(TechnicalTaxonomy) Interface Control Document (ICD) (Data Movement Metadata) • Schema;Service;Message Inter- changeMetadata (XML Taxonomy) The purpose of this process step is to ensure that ELC artifacts including Data Collection Outputs for Solution Engineering review. Engineer/Analyst(DataEngineeringGroup) R Review the ELC artifacts which are submitted by Change Initiator/Change Analyst Data Management Process Description 2.120.11",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "8b384c52914386914cf1c0be3e945e70",
+    "text": "Step 1.8 Align Project’s data model with Enterprise Logical Data Model (ELDM), Standard Meta Model (Business Taxonomy and Technical metadata) • Collaborate with Change Initiator/ Originator(ProjectOffice) • Solution Engi- neering together with Project Office work to harmonizeoutputsuntilalignedwith En- terprise Logical Data Model (ELDM) • Solution Engi- neering together with Project Office work to harmonizeoutputsuntilalignedwithStandardMetaModel(BusinessTaxonomyandTechnicalmetadata) • Determine if this Change Request or Work Request is only for this step or if there is a need to go to the next Data Consolidationstep. The purpose of this process step is to ensure that the data model of Project Office aligned with Enterprise Logical Data Model (ELDM), Standard Meta Model (Taxonomy) Engineer/Analyst(DataEngineeringGroup) Project Office R C • Collaborates and works together with Project Office to harmonize the ELC requested artifacts • Determines if Change Request/ Work Request only for Data Col- lection or would go to next Step - Data Consolidtion Work with Solution En- gineering Engineer/ Analyst (Data Engineering Group) to harmonize ELC artifacts until align with Enter- prise Logical Data Model, and Meta Model.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "5186f2bb1ee473ef08088994083164d9",
+    "text": "Data Management Process Description 2.120.11",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "637c74ca48221512bb11cba9378de9bf",
+    "text": "(1) Data Collection Cross-Functional Flow Diagram",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "856b9a16d5d4c12e8043d8d335697314",
+    "text": "(1) Data Consolidations: To manage data as follows: consolidate and condense disjoint data that can/should be homogenized and recognize which data is truly distinct to the relevant data is most easily identiﬁable and accessible.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "d8b150c9b87b029e85e1a3fe23c4cb67",
+    "text": "ID Task Name and De- scription Role RACI Duties Step 2.1 Request speciﬁc data services Project Office R Project Office submits a Change/Work request ticket for data services",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "2bf5e781d0d29139b2ac4685766eb9e6",
+    "text": "Step 2.4 Disposition change request requiring funding. InfrastructureExecutiveSteeringCommittee(IESC)dispositionchangerequestandensureprojecthasfundingtosupportchangerequest High Authority Engineer/Analyst(DataEngineeringGroup) A R High Authority reviews the change request, and determines to reject or approve the request Forward change or work request to High Authority Step 2.5 Consider the Data ConsolidationChangeRequest or Work Request, and determine the impact on the data warehouse environ- ment • Determine the impact on the datawarehouseenvironment • Determine if this Change Request or Word Request is only for this step or if there is a need to go to the next Data Certiﬁca- tion step Engineer/Analyst(DataEngineeringGroup) R Solution Engineering Engineer/Analyst(DataEngineeringGroupwouldconsider the Change Request, and determine the impact on the data warehouseenvironment 2.120.11.2.5.2.1(01-20-2023) (1) Data Consolidation Cross-Functional Flow Diagram Data Management Process Description 2.120.11 page 27",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "8459a050644de274b411da87dd72bf86",
+    "text": "Data Certiﬁcation: To certiﬁes the designated sources, processes, projects and understand the data quality. The higher the quality of the data the Agency has, the more accurate scores can be produced. More accurate scores lead to more effective issue detection and case selection. Certiﬁcation enables the governance of complete, consistent, comprehensible, correct, and authoritative sources by establishing operational metrics.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "b7cf0fa8f06f6a35d33cc1a94e8d1cd2",
+    "text": "ID Task Name and Descrip- tion Role RACI Duties Step 3.1 Request speciﬁc data services Project Office R Project Office submits a Change/ Work request ticket for data services",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "f232d3688592339f24e861dca14b4548",
+    "text": "Step 3.2 Determine the scope of Change Request or Work Request • Before processing this step, determine if other Data Manage- ment activities such as: Data Collection step or/and Data Con- solidation step are needed.IfDataCollectionneeded,interfacesthreeexternal processes, such as: Interface Design, Solution Design (step 6), and Hardware Analysis & Design/ System Conﬁguration Validation If Data Consolidation step needed, go to Data Consolidation Step; otherwise; • Determine the scope and impact of Change Request or Work Request with the respect to IRS Data Certiﬁcation as related to the Enterprise Logical Data Model (ELDM) Engineer/Analyst(DataEngineeringGroup) R Ensure change or work request follows the Data EngineeringGuidelines Step 3.3 Determine the data source, and evaluate the Change Request against the IRS data strategy • Determine the authori- tative data source • Determine data orga- nization (OLTP/OLAP) • Determine feasibility of Data Certiﬁcation Change Request (CR) • Evaluate Data Certiﬁ- cation Change Request (CR) against IRS Data Strategy Engineer/ Analyst(DataEngineeringGroup) R Solution Engineer- ing Engineer/ Analyst (Data EngineeringGroup)isrespon-sibleforevaluatingthechangerequestagainsttheIRSdatastrategy",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "aaf0d4fe455c59a4364113b42783c8c8",
+    "text": "Step 3.4 Disposition change request requiring funding. Infrastructure Executive Steering Committee (IESC) disposition Change Request or Work Request and ensure project has funding to support change request High Authority Engineer/Analyst(DataEngineeringGroup) A R High Authority Forward change or work request to High Authority Step 3.5 Interfaces with external Naming Data Element(s)/ Object(s) to certify the data content with appropriate data Competency Center Based on data content, Solution Engineering Data Practice Group(Engineer/ Analyst) would send to different Competency Center to validate Engineer/Analyst(DataEngineeringGroup) R Solution Engineer- ing Engineer/ Analyst (Data EngineeringGroup))wouldcertifydatacontenttowithcompe- tency center Step 3.6 Assign the responsibility of source data validation to the Project Office • send data validation back to Project Office • determine if this Change Request is only for this step or go to the next Data Management step(s) Engineer/Analyst(DataEngineeringGroup) Project Office R I After certifying data content, Solution Engineer- ing Engineer/ Analyst (Data Practice Group) would assign the responsibility to project office Change Initiator/ Change Analyst accepts the feedback from Solution Engineer- ing Data Practice Group (Engineer/ Analyst) that the data have been validated",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "5186f2bb1ee473ef08088994083164d9",
+    "text": "Data Management Process Description 2.120.11",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "bd610cd87cc2074db88023252fa6b216",
+    "text": "(1) Data Certiﬁcation Cross-Functional Flow Diagram",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "44752acfff80ab558053c956187fe107",
+    "text": "Figure 2.120.11-4",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "a23d102ba86c97a7aceb8d396cd10a59",
+    "text": "Data Connection: To connect the data to each other as well as users to the data. Building out the metadata repository helps expose data elements to a larger audience. Increasing data accessibility across the agency helps to gain the ability to measure ROI and compliance impact across the end to end process.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "a23d102ba86c97a7aceb8d396cd10a59",
+    "text": "Data Connection: To connect the data to each other as well as users to the data. Building out the metadata repository helps expose data elements to a larger audience. Increasing data accessibility across the agency helps to gain the ability to measure ROI and compliance impact across the end to end process.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "75e77c81e7208bd2cd27696cc37ec204",
+    "text": "ID Task Name and Descrip- tion Role RACI Duties Step 4.1 Request speciﬁc data services Project Office R Project Office submits a Change/workrequestfordata services",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "105211b249cfb65dbc3ee66a89d999c2",
+    "text": "Step 4.2 Determine the scope of Change Request or Work Request • Before processing this step, determine if other Data Man- agement activities such as: Data Col- lection step or/and Data Consolidation step or/and Data Certiﬁcation step are neededIfDataCollection needed, interfaces three external processes, such as: Interface Design, Solution Design (step 6), and Hardware Analysis & Design/ System Conﬁguration ValidationIfDataConsolidationstepneeded,gotoDataConsolidationStep If Data Certiﬁcation step needed, go to Data Certiﬁcation Step; otherwise, • Determine the scope and impact of Change Request or Work Request with the respect to IRS Data Consolidation as related to the En- terprise Logical Data Model (ELDM) . This task is to determine the scope and impact of Change Request with respect to IRS Data Con- nection as related to the Enterprise Logical Data Model (ELDM) Engineer/Analyst (Data Engineering Group) R Ensure change or work request follows the Data EngineeringGuidelines page 32 2.120 Solution Engineering",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "0fd82e6a344923d85e2f11bcd8388b09",
+    "text": "Step 4.3 Disposition change request requiring funding. Infrastructure Executive Steering Committee (IESC) disposition change request and ensure project has funding to support change request High Authority Engineer/Analyst (Data Engineering Group) A R High Authority reviews the change request, and determine to reject or approve the request Forward change or work request to High Authority for decision Step 4.4 Identify Interface Engineer/Analyst ( Data Engineering Group) R Solution Engi- neering Engineer/Analyst(DataEngineer-ingGroup)identiﬁesInterface Step 4.5 Route approved Change Request or Work Request to appropriate data platforms (e.g. Enterprise Informatica • Provide Computer Operator Handbooks (COH) for data platforms • Evaluate schema certiﬁcation metrics using Standard Data Names (Business, Physical & XML Platform) • Determine if this Change Request or Work Request is only for this step or go to the next step Engineer/Analyst (Data Engineering Group) R Solution Engi- neeringEngineer/AnalystDataEngineer-ingGroup)routesapprovedChangeRequesttoappropriatedataplatforms Data Management Process Description 2.120.11 page 33",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "8a056ec043a0e52269af48c9fa0a9da2",
+    "text": "ks=i~-8 5||",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "41dc41a7b39c3308d8a735d68b1e7f05",
+    "text": ") Data Consumption: To present the data in the proper/desired state for the recipient to efficiently make the right decision. Data is effectively turned into information, used to innovate new methods/discoveries, streamline and automate retrieval processes through renovations, and intent individuals through motivation. Tools of data consumption focus on visual representations of dashboards, scorecards, queries, reporting tools, OLAP, or data mining.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "ff7efceeb5c1aeb44b47bff1f5d6ca14",
+    "text": "ID Task Name and De- scription Role RACI Duties Step 5.1 Submit an OnLine 5081 request for access to the data system ProjectOffice R ProjectOfficesubmits an OnLine5081request for access to the data system",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "64165148742b39904441c66f276431e0",
+    "text": "Step 5.2 Submit a Live Data Waiver request as required for users of SBU data ProjectOffice R ProjectOfficesubmits a Live Data Waiverrequest as requiredusersforSBUdata Step 5.3 Approve or deny the OnLine 5081 request. If deny, end step; otherwise, if Data Collection required, go to Data Collection ; otherwise, if Data Consolidationrequired,goto Data Consolidation;otherwise,ifDataCertiﬁcationrequired,gotoDataCertiﬁca-tion;otherwiseifDataConnectionRequired,gotoDataConnec-tion OnLine5081ApprovalGroup R OnLine5081SystemAdministra-tororManagerdisposi- tionsOnLine5081request Step 5.4 Provide data environ- ment for Project/User to consume data Engineer/Analyst(DataEngi-neeringGroup) R SolutionEngineer-ingEngineer/Analyst(DataEngi-neeringGroup)providesdatacon-sumptionenviron-ment Step 5.5 Consume data through queries and generating reports by using various data retrieval resources for data analytic ProjectOffice R Consumedatathroughqueries Process Description 2.120.11 page",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-011--2023-01-20.pdf",
+      "page_number": 40
+    }
+  }
+]

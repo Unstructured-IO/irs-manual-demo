@@ -1,0 +1,974 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "ec3f5f43131b8eb6fe37868affa71243",
+    "text": "IRM 2.3.34, dated January 1, 2011, is superseded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1e04ac4271e26a0d03a06b174aeb7b1f",
+    "text": "LMSB, SB/SE, TE/GE, W&I.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "83bc247e1f3e1d3be8d978420c5a97fd",
+    "text": "Code PATRA Input Examples—Request Types",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "ef51e648dfc814b76990088c13114222",
+    "text": "page (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "52cf282981d6d380713e784cbc3fe7cc",
+    "text": ") This sections provides information on the use of the Integrated Data System (IDRS) terminal input command code PATRA. The information in this and section is a general guide of the input of content. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "451cb99e4306bebfad3330830497686b",
+    "text": ") Audience Customer Service Representatives (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8b0d94b1469fd041b95ab1e07a2a67e7",
+    "text": ") Policy Owner Chief Information Officer (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "41af810180b96c3004d69c2a000b3091",
+    "text": ") Program Owner Application Development (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f2126f1ac2b17c7e5dbc76db8e5b9c27",
+    "text": ") Primary Stakeholders LMSB, SB/SE, TE/GE and W&I (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2be2e4b5d783ba2df4085da140b57d97",
+    "text": ") Program Goals This IRM provides the fundamental knowledge and guidance for employees who are designated to request Payer Master File scripts on IDRS. By following the processes and procedures provided in this IRM, employees will be able to request transcripts in Real-time via IDRS in a manner that follows IRS policy and procedures while promoting the best interests of the Government (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e4617ce3ffbcaf3185c1ec1a187333e7",
+    "text": ") Command Code PATRA is used to request Literal Transcripts of tax and/or entity data from Enterprise Computing Center - Martinsburg (ECC-MTB) for a particular TIN. PATRA can also be used to request Disclosure Lists or Data from the Payers Master File. Although the PATRA Command Code is main- tained by the Transcript Research Systems programming staff, the PATRA transcripts are produce by another system. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5865e28f07b2d59b2902c69b3c2dd905",
+    "text": ") Like Master File Generated Transcripts, they are extracted only once a The only processing done at the Service Centers is printing and distribution. Turnaround may take several weeks, depending on the day the request is made, the day the extract is run, the day the transcript is printed in the Center, and the day the transcript is delivered. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1e1944b3cff7ead4b6064f3c424d42f1",
+    "text": ") The input screen is shown in See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6dff28614544efc90fb22b47b0bcbdc5",
+    "text": ") PAYER MASTER FILE TRANSCRIPTS (Information Returns BMF EIN’s). Resultant transcript reﬂects Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6812d0dac9c9ac5e87645b9f4475afcd",
+    "text": "Reconciliation data from reporting party. a. SPECIFIC Module (A speciﬁc return for a speciﬁc period) Enter NN,YYYYMM where NN is MFT. b. COMPLETE (All return periods for a taxpayer regardless of balance) REQUEST-TYPE “C”. c. ENTITY (All name lines and transactions associated with the entity section)—REQUEST-TYPE “E”. d. An example input screen is shown in See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a1c36b6cd420bb339df7b8ab2656a04f",
+    "text": "). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "aef7d79ae755c79a610537d30dbfc3e9",
+    "text": ") DISCLOSURE LIST—An IMF Disclosure List (which lists to whom taxpayer information has been divulged) may be ordered instead. The same three List REQUEST-TYPE’s are possible for Payer Master File. These requests are possible for Disclosure Lists. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d688b889e8023daa486e6ca9aa10abd3",
+    "text": ") An example input screen is shown in See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "453543dc0567f05ebf653bee31782e25",
+    "text": ") (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "565f4845c60e01eac20a62faf634a687",
+    "text": "(01-01-2011) General Information about PATRA",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "66d853705cca6ec66ba17194456476ca",
+    "text": "PAYER MASTER FILE TRANSCRIPTS (Information Returns BMF EIN’s). Resultant transcript reﬂects Form 1096 Reconciliation data from reporting third",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "dc3a59056e27799ff054c0121ef7baeb",
+    "text": "SPECIFIC Module (A speciﬁc return for a speciﬁc period) Enter NN,YYYYMM where NN is MFT. COMPLETE (All return periods for a taxpayer regardless of balance) REQUEST-TYPE “C”. ENTITY (All name lines and transactions associated with the entity section)—REQUEST-TYPE “E”. An example input screen is shown in See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c4b2896a2081395e282313d6683f07c8",
+    "text": ").",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "fcfd209c15e4c0de65c5b47cdcdaaca3",
+    "text": "An example input screen is shown in See Exhibit 2.3.34-2(1)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "15ec7f8c679a9b6f84cf3829fa7073f1",
+    "text": ") Multiple PATRA requests are permitted on one input screen (up to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "439d3497c01ea238555126c8144f4ee4",
+    "text": "). However, none of the distinct types listed above may be intermixed on the same screen. For example, an employee may want",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f994af384aaa7c6a7268f49e51c3d7f3",
+    "text": "Payer Master File scripts for four different taxpayers and their",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "caa022b74f450a65ac0df82b38a7e1d4",
+    "text": "corresponding Disclosure lists. This requires two separate input screens to be entered, one with the Payer Master File requests, the other with the Disclosure List requests. This is tated by the retention of the previous REQUEST COMPLETED screen, requires only a minimum of keystroke changes before re-input with another Command Code Deﬁner. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4e273aa0a120ad8ea9b607b706dc4904",
+    "text": ") Error messages are conﬁned to line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f5bae6ce4992a8d4ee42df4ea9651254",
+    "text": "and usually do not explain the lar error, since generally there are multiple entries and each incorrect ﬁeld is marked to its right with an asterisk. a. PLEASE CORRECT INVALID FIELD(S)—The most common error message. Even if only one error is made on the screen, NONE of the requests will be completed. If data is invalid, or invalid and an asterisk will appear to the right of the ﬁeld(s). If input data is tent only, a question mark will appear to the right of the ﬁeld(s). To facilitate the correction of the screen for re-entry, the cursor will be moved to position one on the ﬁrst line that has within it at least one invalid/inconsistent entry. Correct the error or errors marked and (If the invalid ﬁeld identiﬁed is the TIN ﬁeld and the correction results the input of a valid SSN, change the asterisk (indicating the invalidity) a comma, to eliminate any possibility of the SSN being validated as an invalid-segment SSN). b. INVALID COMMAND CODE DEFINER IN POSITION",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f344955c37f6d6ebd094a3fd50441559",
+    "text": "—Requires of “D” for a Disclosure List, or an “P” for input of a request for “ tion” from the Payer Master File. c. LINE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "0b6184a7f528b9ef36c9e49e0aa02ea7",
+    "text": "CANNOT BE USED FOR INPUT —Up to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "bafb4e95d062e4772444eff4f8b6a5e2",
+    "text": "separate PATRA requests can be input on one input screen. However, line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "049451a7068029a0c4bbdeee2dac1896",
+    "text": "is for possible error messages. d. INPUT IGNORED—PREVIOUS REQUEST COMPLETED SCREEN BEEN ERRONEOUSLY RE-INPUT—None of the previous entries marked by an “RC” or an “IG” has been altered, or else the data was altered but in either case re-input without clearing out at least one or one “ IG” following an entry. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9bc6ffba91456da8baa7b125ab49766f",
+    "text": ") REQUEST COMPLETED—(VARIES) where the variable portion of the message is either “DISCLOSURE TRANSCRIPT(S)”, or PAYER MASTER TRANSCRIPT(S). None of the two conditions previously listed are detected. requests entered met validation criteria. Screen remains intact, to facilitate further requests. If there is only one request on the screen, and it has been accepted as valid and consistent, the cursor will be moved to the ﬁrst on the ﬁrst line. If there are more than one request on the screen, and at one of them has been accepted as valid and consistent, the cursor will be moved to the ﬁrst position of the ﬁrst line where the next batch entry would begin. Data will be returned from ECC-MTB and printed usually within three weeks of the date of the request.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "bc1b005cfdd4ba08aadcb817f8fd420e",
+    "text": "PLEASE CORRECT INVALID FIELD(S)—The most common error message. Even if only one error is made on the screen, NONE of the requests will be completed. If data is invalid, or invalid and inconsistent an asterisk will appear to the right of the ﬁeld(s). If input data is tent only, a question mark will appear to the right of the ﬁeld(s). To facilitate the correction of the screen for re-entry, the cursor will be moved to position one on the ﬁrst line that has within it at least one invalid/inconsistent entry. Correct the error or errors marked and (If the invalid ﬁeld identiﬁed is the TIN ﬁeld and the correction results in the input of a valid SSN, change the asterisk (indicating the invalidity) to a comma, to eliminate any possibility of the SSN being validated as an invalid-segment SSN). INVALID COMMAND CODE DEFINER IN POSITION",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9bfde36145058b9183127aee86e3a365",
+    "text": "—Requires input of “D” for a Disclosure List, or an “P” for input of a request for “ informa- tion” from the Payer Master File. LINE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "0b6184a7f528b9ef36c9e49e0aa02ea7",
+    "text": "CANNOT BE USED FOR INPUT —Up to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "bafb4e95d062e4772444eff4f8b6a5e2",
+    "text": "separate PATRA requests can be input on one input screen. However, line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "466bce7224a51bfc052cf99c0f1a54b5",
+    "text": "is reserved for possible error messages. INPUT IGNORED—PREVIOUS REQUEST COMPLETED SCREEN BEEN ERRONEOUSLY RE-INPUT—None of the previous entries marked by an “RC” or an “IG” has been altered, or else the data was altered but in either case re-input without clearing out at least one “RC” or one “ IG” following an entry. COMPLETED—(VARIES) where the variable portion of the is either “DISCLOSURE TRANSCRIPT(S)”, or PAYER MASTER None of the two conditions previously listed are detected.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6b105b2768acc26afd6cf10c955bb863",
+    "text": "Input and Output Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "af33761fb018385a5462cf6487ca4fd9",
+    "text": "| 1-3 | 11-19 | 21-29 | 31-39 | 41-49 | 51-59 | 61-69 | 71-79 |112345678901234567890123456789012345678901234567890123456789012345678901234567890 |1fPATRAZ 3 |121 3 , 4, 5 , 6 , 7.8 9 |231 I34] (ABOVE ELEMENTS OW LINE 2 CAN OCCUR 1 TO 22 TIMES |451 ()| || |241 (Line 24 is res=srved for BERROR Messages |112345678901234567890123456789012345678901234567890123456788012345678901234567890 || 19 [ 11-19 {2129 | 3139 | 4149 | 51-59 | 6169 | 71-79 |",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "45fd03300dddeedb568d96b797998770",
+    "text": "Exhibit 2.3.34-1 (Cont. 1) (01-01-2007) Command Code PATRA",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "553e0a0306071caaf9ba45b77401814c",
+    "text": "When = “D”, may be SSN = nnn-nn-nnnv, where v = File Source may be * or blank only.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f709b5f77a275994b639b9ec4107f995",
+    "text": "When = “P”, may be SSN = nnn-nn-nnnn or EIN = nn-nnnnnnn only.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "5a5150597c44122fe0d283529139fbed",
+    "text": "When the TIN and FILE SOURCE are entered on line 1, the Comma ﬁeld breaker is required to be entered on line 2. In this case, Item 4 begins in position 1 of Line 2.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "7690933e046852b1a6ad9abe6597aa6d",
+    "text": "For multiple inputs, an “R” may be entered instead of the TIN and“FILE SOURCE” repeat that of the previous entry.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "12ae329fcbec3da69824a5ee374acb3e",
+    "text": "TYPE OF REQUEST and/or SUPPLEMENTAL MFT AND TAX PERIOD. This informa- tion which must be entered by the operator and which varies depending on the TYPE of REQUEST as follows:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "0ff978d51362afa3ce8db921c380f207",
+    "text": "For multiple inputs, an “R” may be entered instead of the MFT and/or Tax Period to repeat that of the previous entry.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8a025c216b2104c997f99c1069c0fc0a",
+    "text": "Exhibit 2.3.34-1 (Cont. 2) (01-01-2007) Command Code PATRA",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "2607e7e72a6616648b4156436d37d361",
+    "text": "RECEIVER-EMPLOYEE-NUM or “R”. Optional. (If not entered, and subsequent items follow on the same line, a comma must be entered instead and precede the next item.) If entered as a RECEIVER-EMPLOYEE NUM, it must be (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "dc224a69975ea3b33debbfedd04b6e48",
+    "text": ") exactly ten positions, (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "0f77e96292d2403a48111138858388ad",
+    "text": ") the ﬁrst",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "93c4763ff40bd99d572876980b98dd07",
+    "text": "digits must be the Service Center (SC) code of the SC of input or a valid DO code within the SC of input, and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "ccd4dc66dc073c20aaeee92911bae88f",
+    "text": ") the last",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b3dfa384e44022a777cf6b9b20ec2afa",
+    "text": "digits must not be all zeros. If the RECEIVER EMPLOYEE NUMBER is valid, the data resulting from the satisfying of the request will be issued to the Employee speciﬁed in the request. If the operator and the person desiring the data are one and the same, and there is nothing else to be entered on this line, leave the rest of the line blank by using the “NEW LINE” button. For multiple inputs, an “ R” may be entered instead of the RECEIVER EMPLOYEE NUMBER to repeat that of the previous entry. This ﬁeld will be picked up from line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "c72b95a8aef080b1a4de15ce61868cf0",
+    "text": "unless it has been entered on a subsequent entry.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "ecc49cd45b112158f2a2f22b983fb2ae",
+    "text": "REMARKS—Optional. (If not entered, and subsequent items follow on the same line, a comma must be entered instead and precede the next item.) Enter in this ﬁeld any name or supplementary information, if desired, up to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "91129d280e782eb821be8785920677c8",
+    "text": "characters. Do not enter * (asterisk), ? (question mark), or comma in this ﬁeld. If input, must be alpha or numeric and the REMARKS cannot start with a blank nor have two intervening blanks. Can be used to identify user area requesting transcript. For example, it may contain CASE or REFERENCE NUMBER.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "810f84b132ce7c5180ea3b3a60734215",
+    "text": "LINE REPEAT INDICATOR—Optional. If the operator wishes the three items (RECEIVER EMPLOYEE NUMBER, REMARKS, and PRIVACY ACT CODES) which immediately precede on this line to be carried over to all subsequent entries on this screen, then the operator enters an “L” for Item",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "795e0680cbf44790f751ff2ad767dcbe",
+    "text": "The values of those three items (or any signiﬁcant combination thereof) will be written onto every subsequent request until changed (manually entered with a new value, if desired) by the operator. By the use of the “ L,” an operator can easily enter multiple requests on one screen with a minimum",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "2607e7e72a6616648b4156436d37d361",
+    "text": "RECEIVER-EMPLOYEE-NUM or “R”. Optional. (If not entered, and subsequent items follow on the same line, a comma must be entered instead and precede the next item.) If entered as a RECEIVER-EMPLOYEE NUM, it must be (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "dc224a69975ea3b33debbfedd04b6e48",
+    "text": ") exactly ten positions, (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "0f77e96292d2403a48111138858388ad",
+    "text": ") the ﬁrst",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "93c4763ff40bd99d572876980b98dd07",
+    "text": "digits must be the Service Center (SC) code of the SC of input or a valid DO code within the SC of input, and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "ccd4dc66dc073c20aaeee92911bae88f",
+    "text": ") the last",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "c4164120d00e33728605f1d6aa83d0b4",
+    "text": "digits must not be all zeros. If the entered RECEIVER EMPLOYEE NUMBER is valid, the data resulting from the satisfying of the request will be issued to the Employee speciﬁed in the request. If the operator and the person desiring the data are one and the same, and there is nothing else to be entered on this line, leave the rest of the line blank by using the “NEW LINE” button. For multiple inputs, an “ R” may be entered instead of the RECEIVER EMPLOYEE NUMBER to repeat that of the previous entry. This ﬁeld will be picked up from line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "c72b95a8aef080b1a4de15ce61868cf0",
+    "text": "unless it has been entered on a subsequent entry.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "46a7a3799cad8488709f790016b4f8bb",
+    "text": "RECEIVER-EMPLOYEE-NUM or “R”. Optional. (If not entered, and subsequent items follow on the same line, a comma must be entered instead and precede the next item.) If entered as a RECEIVER-EMPLOYEE NUM, it must be (1) exactly ten positions, (2) the ﬁrst 2 digits must be the Service Center (SC) code of the SC of input or a valid DO code within the SC of input, and (3) the last 8 digits must not be all zeros. If the entered RECEIVER EMPLOYEE NUMBER is valid, the data resulting from the satisfying of the request will be issued to the Employee speciﬁed in the request. If the operator and the person desiring the data are one and the same, and there is nothing else to be entered on this line, leave the rest of the line blank by using the “NEW LINE” button. For multiple inputs, an “ R” may be entered instead of the RECEIVER EMPLOYEE NUMBER to repeat that of the previous entry. This ﬁeld will be picked up from line 2 unless it has been entered on a subsequent entry.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3b6a9c491bf244b5014aa7d245159a7b",
+    "text": "REMARKS—Optional. (If not entered, and subsequent items follow on the same line, a comma must be entered instead and precede the next item.) Enter in this ﬁeld any name or supplementary information, if desired, up to 9 characters. Do not enter * (asterisk), ? (question mark), or comma in this ﬁeld. If input, must be alpha or numeric and the REMARKS cannot start with a blank nor have two intervening blanks. Can be used to identify user area requesting transcript. For example, it may contain CASE or REFERENCE NUMBER.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "05b44d7a5b75cee7a6f1241b84e4f039",
+    "text": "LINE REPEAT INDICATOR—Optional. If the operator wishes the three items (RECEIVER EMPLOYEE NUMBER, REMARKS, and PRIVACY ACT CODES) which immediately precede on this line to be carried over to all subsequent entries on this screen, then the operator enters an “L” for Item 8. The values of those three items (or any signiﬁcant combination thereof) will be written onto every subsequent request until changed (manually entered with a new value, if desired) by the operator. By the use of the “ L,” an operator can easily enter multiple requests on one screen with a minimum of keystrokes.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1995f815e176fe5ebe14dcda5f2cf54f",
+    "text": "Exhibit 2.3.34-1 (Cont. 3) (01-01-2007) Command Code PATRA",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "043c4fd28e7136ddc3ee38b9fd2e8916",
+    "text": "RC LITERAL/IG LITERAL— This will be either “RC” (which stands for REQUEST COMPLETED for this one entry), or “IG” (which stands for REQUEST IGNORED for this one entry), or two blanks. None of these “RC” or “IG” literals will be present on an initial entry, but they may be present on a subsequent entry. If present, and the operator wishes to enter a subsequent request on that line, the “RC” or “IG” must be manually cleared out blanks. Any entry ending with an “RC” or an “ IG” is ignored by PATRA on any possible subsequent re-entries. This feature allows the operator to alter any one (or more) of the entries and re-enter the entire screen without the need to clear out indi- vidual line entries and literals. Leaving the “RC” or the “ IG” is also beneﬁcial in preventing inadvertent duplicate requests. Manually clearing out the “RC” entry or the “IG” entry (via “NEW LINE” button on keyboard) facilitates the entry of multiple screens of speciﬁc requests. Those entries initially ending with an “RC” that did not have the “RC” entry cleared out will not be accepted for re-entry, and will be identiﬁed on subsequent entries with “IG” to indicate they were ignored. For example, if three speciﬁc requests are entered on one screen for taxpayer",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "5d052cb0d3690c0bf9867d04adab5b73",
+    "text": "for all data from the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "959432f8b52b91545a7023a749957443",
+    "text": "Tax Returns in the years ending in",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "5a4ed51aea1ef27594876f468277b211",
+    "text": "thru",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "1df4924e0fe05d33df6d3151aed18cf8",
+    "text": ", and the operator also desires to obtain all data from the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d430aaf4661aa6aa4c097d01349e2078",
+    "text": "Tax Returns for the same years for taxpayer",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "021277d09d44e89b5be07eee317ec55d",
+    "text": ", all the operator has to do is change the SSN(s) and clear out the “RC” or the “IG” literals, then re-enter with the entry code to the right of the last signiﬁcant entry ﬁeld.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0680776962b294c61fbcc50eb17bc0a7",
+    "text": "Exhibit 2.3.34-2 (01-01-2007) Command Code PATRA Input Examples—Request Types",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "891663c9110c83d33a12a4917959eb4b",
+    "text": "Lists requested for three different Taxpayers, the ﬁrst one to be delivered to the person who input the the other two to be delivered to a different employee.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "5928dd9429934261f32eddba4dd06f5e",
+    "text": "| 1-9 | 11-19 | 21-28 | 31-39 | 41-49 | 51-59 | 61-69 | 71-78 |112345678901234567890123456789012345678901234567890123456789012345678901234567890 |11PATRADOCO-00-1845zic31000~00-8768,C, 28001000564]000-00-1234,30,195812,R5124 {Line 24 is reserved for ERROR Messageso oE W e112345678901234567890123456789012345678901234567890123456789012345678901234567890]e [11-19 | 2129 | 3139 | 4149 | 5139 | 61-69 | 71-79 |",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "4fa60afbccedc127c0fadb16dbe48168",
+    "text": "is reserved for ERROR Messages",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "fc5d1dc5824127c96a07e24c12d97fcd",
+    "text": "Payer Master File Transcripts, one requested for a BMF Speciﬁc Tax Module, the other for an IMF Speciﬁc Tax Module, both to be delivered to the person who input the PATRA.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "32b7c6b50903e0a919bc7d188b9eae42",
+    "text": "[ 1-9 | 11-19 | 21-29 | 31-39 | 41-49 | 51-59 | 61-69 | 71-79 |112345678901234567890123456789012345678901234567890123456789012345678901234567890|1 PATRAP32-12345672101,19881231000-00-9876,30,1285124t3i24 {Line 24 is reserved for ERROR Messages112345678901234567890123456789012345678901234567890123456789012345678901234567830]ot eio1-9 11-19 21-29 31-39 41-49 51-59 61-69 71-79",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "46e5c0b79086e627c3c6de8656143e81",
+    "text": "oreserved for ERROR Messages",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-034--2020-07-31.pdf",
+      "page_number": 11
+    }
+  }
+]

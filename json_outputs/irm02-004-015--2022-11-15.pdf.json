@@ -1,0 +1,4484 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1736d392264b6b70f49205d30619d395",
+    "text": "This transmits revised IRM 2.4.15, IDRS Terminal Input, Command Codes ETXCL, SEQNC, STBLK, PAYMT, PYBAL, VARIA, CRBLK, and TXCTL for Area Office Payment Processing.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "dcbedede331167fb66f7594695086541",
+    "text": "Added required sections for Program Scope and Objectives 2.4.15",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "7f995b67d085554feb082a29989f9fac",
+    "text": "IRM 2.4.15, dated February 03, 2022, is superseded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "996467c2d86f808c216ba00a980ba294",
+    "text": "LB&I, SB/SE, TE/GE, W&I, TAS.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "b01535085b830a839f5a846fffdc992e",
+    "text": "Program Scope and Objectives",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "40b66c9f549dae68156d6c1afefa3b91",
+    "text": "CC ETXCL Request Displays to Re-establish Cumulative Amounts of Previously Input",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "f02b08dbf8efa293cbe36f81ebae6043",
+    "text": "CC ETXCL Request Display to Set Terminal Tax Counters at Zero",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "2f30d74990a4bc87f36a3cae3db044d7",
+    "text": "CC SEQNC Request Display",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "c48bf3217c7b9ee02493de80236c677c",
+    "text": "CC SEQNC Response Display",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "477b9244b80e3ea9b4298c93561eed83",
+    "text": "CC STBLK Input Display",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "bd8f0e32f87b3d7aa05c70a991ba8457",
+    "text": "Cat. No. 28205Z (11-15-2022)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "38784aa41c72ac77e3904568d4c2230b",
+    "text": "Command Codes ETXCL, SEQNC, STBLK, PAYMT, PYBAL, VARIA, CRBLK, and TXCTL for Area Office Payment Processing 2.4.15",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5a0b18bbd82917e9d0b890a6451cb382",
+    "text": "This IRM section provides the instructions for the use of PAYMT.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2ea4cb7ff14d0b45436aebb2797766cc",
+    "text": ") Terminal Hold Areas —Temporary data storage areas within the system where input remittance data is held until input blocks of remittances have been suc- cessfully completed and balanced. Data in the hold areas can be corrected, added to or deleted until the block is balanced, after which the input remit- tances will be automatically released for end-of-day processing and the hold areas will be cleared for input of the next block. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c96217fdb410629badaa1b3144e25c51",
+    "text": ") Tax Class Counters —A set of counters, which accumulate the money amounts input to each True Tax Class. The counters are maintained so that total amounts input for each tax class may be called up and printed for use in preparing the Certiﬁcate of Deposit. The counters are added to only when a balanced input block is released. The counters are reset every time CC ETXCL is input and are set to the amount input with CC ETXCL (if no amount is input for a speciﬁc tax class that counter is set to zero).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f12f8f41bf469e25779d7e97b7ca8ac2",
+    "text": ") Payment Sequence Number —A",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a092f562f1a5195735de76c5664ec409",
+    "text": "-digit number that must be established in the terminal after the Tax Class Counters are set and prior to input of remit- tances. CC SEQNC establishes the number and provides the three digit Julian Date and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4a63a602264d4819d413a500c00f4b62",
+    "text": "digit Sequence Number portion of the Payment Sequence Number, the remainder of which is generated from terminal and employee number data. The",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6382acdd956ac57ba42b7805af63dd4a",
+    "text": "digit Sequence Number when input will always be for the next PAYMT be input. After CC SEQNC is used to establish or update it, the terminal maintains the Payment Sequence Number. It will assign the number to each PAYMT and then increment the number by one to create a unique number for the next payment. The Payment Sequence Number carries information used constructing the True DLN of the payment, in preparing the Area Office Remit- tance Register, and in building a research and Audit trail unique to each remittance. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ecf314c39da691386a00181ac0727c13",
+    "text": ") Deposit Day —The Tax Class Counters and Payment Sequence Numbers are maintained for remittances to be included on the CD deposited on a speciﬁc date. The Deposit Day begins when the ﬁrst remittance is input for a speciﬁc deposit date and ends with completion of the last input block of remittances that deposit date. The Deposit Day may begin on the morning of day of deposit, or on the afternoon of the previous workday (PM input). Note: The Deposit Day concept is basic to Area Office Payment terminal input op- erations and subsequent accounting operations. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "64548c357790303d00bbdf7fd3ec7a25",
+    "text": ") NON-IDRS Indicator —This ﬁeld speciﬁes the IDRS condition of the tax module to which a remittance is being directed. Unless prior research has been undertaken, all tax modules will be presumed to be present on IDRS. If the taxpayer’s account or module is not on IDRS, upon receiving the error message response the terminal operator will verify that all data has been entered correctly from the source document. If the source document is not a printed IRS notice or other IRS form, tax account research may be undertaken if necessary to determine correct TIN, name control, type of tax or period, in order to insure a correct posting. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ae4b54aadce9ede5cd744a6830620f4e",
+    "text": ") Block Balancing —This feature assures correct input of remittance amounts. The money total (from an adding machine tape of remittance amounts) for an input block is entered with CC STBLK. When all items in the block are complete, the STBLK amount is automatically compared to an accumulated total of all item amounts. If the totals do not agree, an error response is given and the out-of-balance condition must be corrected before the input block will be released. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3b599aba22c6eb14bf4b211719a8db29",
+    "text": ") Transaction Codes —This ﬁeld used to identify a transaction being processed and to maintain a history of actions posted to a taxpayer’s account on the Master File. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "dcf0f54488f2ee0430aeb6cbed4e059c",
+    "text": ") MFT Codes —The MFT codes are required in each transaction to identify the speciﬁc module to which a transaction is to be posted. Terminal (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "56b30f7a8b36441170076418d0d3db2b",
+    "text": ") Blocks will be received which consist of remittances, related posting documents, and an adding machine tape showing the total value of remit- tances and the number of input items in the block. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d44a9b7f45b7d76e4044bcbf40f7d582",
+    "text": ") The ﬁrst action for each Deposit Day will be input of CC ETXCL . This will set the terminal tax counters at zero, in order to begin a cumulative count of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e0895fd5d95d414f77badcf83acdd4df",
+    "text": "IDRS Terminal Input Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "2db49ccb69614970c829909b057ab57d",
+    "text": "Z (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f12f8f41bf469e25779d7e97b7ca8ac2",
+    "text": ") Payment Sequence Number —A",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a092f562f1a5195735de76c5664ec409",
+    "text": "-digit number that must be established in the terminal after the Tax Class Counters are set and prior to input of remit- tances. CC SEQNC establishes the number and provides the three digit Julian Date and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4a63a602264d4819d413a500c00f4b62",
+    "text": "digit Sequence Number portion of the Payment Sequence Number, the remainder of which is generated from terminal and employee number data. The",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1274d23ac25e8fd7bd0a0eaeb620c5ba",
+    "text": "digit Sequence Number when input will always be for the next PAYMT to be input. After CC SEQNC is used to establish or update it, the terminal maintains the Payment Sequence Number. It will assign the number to each PAYMT and then increment the number by one to create a unique number for the next payment. The Payment Sequence Number carries information used in constructing the True DLN of the payment, in preparing the Area Office Remit- tance Register, and in building a research and Audit trail unique to each remittance. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ce01523e7f432b846dc1ce9d4ab9aad6",
+    "text": ") Deposit Day —The Tax Class Counters and Payment Sequence Numbers are maintained for remittances to be included on the CD deposited on a speciﬁc date. The Deposit Day begins when the ﬁrst remittance is input for a speciﬁc deposit date and ends with completion of the last input block of remittances for that deposit date. The Deposit Day may begin on the morning of day of deposit, or on the afternoon of the previous workday (PM input). Note: The Deposit Day concept is basic to Area Office Payment terminal input op-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "03f22461ec7009b83b8c3149b4123fd5",
+    "text": "Note: The Deposit Day concept is basic to Area Office Payment terminal input erations and subsequent accounting operations. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4f18cd7af175fc643e5ad50dd3776055",
+    "text": ") NON-IDRS Indicator —This ﬁeld speciﬁes the IDRS condition of the tax module to which a remittance is being directed. Unless prior research has been undertaken, all tax modules will be presumed to be present on IDRS. the taxpayer’s account or module is not on IDRS, upon receiving the error message response the terminal operator will verify that all data has been entered correctly from the source document. If the source document is not printed IRS notice or other IRS form, tax account research may be undertaken if necessary to determine correct TIN, name control, type of tax or period, order to insure a correct posting. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "02d5e0500b9167ce95445414ef276c48",
+    "text": ") Block Balancing —This feature assures correct input of remittance amounts. The money total (from an adding machine tape of remittance amounts) for input block is entered with CC STBLK. When all items in the block are complete, the STBLK amount is automatically compared to an accumulated total of all item amounts. If the totals do not agree, an error response is given and the out-of-balance condition must be corrected before the input block be released. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3b599aba22c6eb14bf4b211719a8db29",
+    "text": ") Transaction Codes —This ﬁeld used to identify a transaction being processed and to maintain a history of actions posted to a taxpayer’s account on the Master File. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d57ffcff9da37f4cee4b4628939f36c9",
+    "text": ") MFT Codes —The MFT codes are required in each transaction to identify speciﬁc module to which a transaction is to be posted. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "56b30f7a8b36441170076418d0d3db2b",
+    "text": ") Blocks will be received which consist of remittances, related posting documents, and an adding machine tape showing the total value of remit- tances and the number of input items in the block. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "88070e1962105e4bd5ac6a3ca49740e1",
+    "text": ") The ﬁrst action for each Deposit Day will be input of CC ETXCL . This will the terminal tax counters at zero, in order to begin a cumulative count of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "771f4116bcc2481db68fd22a37f3ec4d",
+    "text": "Note: The Deposit Day concept is basic to Area Office Payment terminal input op- erations and subsequent accounting operations.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "64548c357790303d00bbdf7fd3ec7a25",
+    "text": ") NON-IDRS Indicator —This ﬁeld speciﬁes the IDRS condition of the tax module to which a remittance is being directed. Unless prior research has been undertaken, all tax modules will be presumed to be present on IDRS. If the taxpayer’s account or module is not on IDRS, upon receiving the error message response the terminal operator will verify that all data has been entered correctly from the source document. If the source document is not a printed IRS notice or other IRS form, tax account research may be undertaken if necessary to determine correct TIN, name control, type of tax or period, in order to insure a correct posting. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "267be7884251e1a3d8aacde1d75234e3",
+    "text": ") Block Balancing —This feature assures correct input of remittance amounts.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "365b97ea55334c4aaae60d5e9af2d418",
+    "text": "The ﬁrst action for each Deposit Day will be input of CC ETXCL . This will set the terminal tax counters at zero, in order to begin a cumulative count of",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "47df5f90c693dc441a61f3332cb42974",
+    "text": "Command Codes ETXCL, SEQNC, STBLK, PAYMT, PYBAL, VARIA, CRBLK, and TXCTL for Area Office Payment Processing 2.4.15 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "4b135be7af3379d2b0261c2bf5dbb6eb",
+    "text": "payment amounts by class of tax for the day’s deposit. A provision is provided for amounts to be input to reset these counters to the correct amount in case of power failure, terminal realignment overnight, etc. Normally, CC ETXCL need be used only once for each deposit day. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d24ab2129e3aab60393be5dbd600c3a5",
+    "text": ") This command code wipes out the Payment Sequence Number and any data in STBLK and Payment Hold Areas. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "13060e3dea42ac70f243593e37926cd0",
+    "text": ") The next action after input of CC ETXCL will be input of CC SEQNC to establish a Payment Sequence Number for the terminal. CC SEQNC is also required if a different operator inputs payments at the same terminal, in order to update the operator number in the Payment Sequence Number. The operator should verify the days/dates on the screen after CC SEQNC is input. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f03c1e771f287887b3ddf0a9ce8195b3",
+    "text": ") CC STBLK is used to begin input of the block of payments and establish document count and total amount for the block and set the Transaction Register Indicator. Satisfactory entry will result in generated display of CC PAYMT . Taxpayer entities that are either “dummy” entities or not present on the TIF are validity checked against the NAP ﬁles. Additional validation checks will be done for IMF and BMF dummy modules by accessing CFOL. As each payment is posted correctly, entry will result in a response display of the payment input Command Code PAYMT, and a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "652568bdfa542b1010b94a8dc99939c5",
+    "text": "-digit Payment Sequence Number . The number is stamped on the remittance relating to the posting just entered and on the source document or posting voucher. Input the next payment and subsequent remittance item until the block is completed. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "fae561789d372da86e0b8eb8e266b8f9",
+    "text": ") Upon satisfactory entry of the ﬁnal payment in the block, the response display will show CC PYBAL and last payment’s Payment Sequence Number. When the ENTER key is depressed after input of entry code, the response for a block in balance (the computer’s accumulated block document count and amount is equal to block document count and the amount input with CC STBLK when block was begun) is a display of PAYMENTS. The display “PAYMENTS” is followed by the block count, the amount, the beginning sequence number, the ending sequence number and cumulative totals by true tax classes. (These totals are cumulative for the terminal, identical to those displayed with TXCTL) . Print out each balanced block by depressing the PRINT key. If a block is out of balance, provisions have been made to make necessary corrections. See VARIANCE and VARIA. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "7433c5f37e176791f5eccb09fb70c79c",
+    "text": ") If need arises to change the number of items or the amount for the block, command code CRBLK is used. Both the number of items and the block amount must be entered, even if only one ﬁeld is being corrected. The Trans- action Register Indicator may also be corrected with this command code. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "c44c775705c66faed44a205772313e3a",
+    "text": ") Command Code TXCTL is used to obtain the cumulative tax class totals for blocks input through a terminal at the end of each day’s posting. These totals are printed and adding machine tape run for all terminals inputting payment blocks. The consolidated totals will be used in preparing the deposit documents.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "513066c85b55001c48852651332a721c",
+    "text": "payment amounts by class of tax for the day’s deposit. A provision is provided for amounts to be input to reset these counters to the correct amount in case of power failure, terminal realignment overnight, etc. Normally, CC ETXCL need be used only once for each deposit day.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "c0ddba5717a9b27df559109da0d2173f",
+    "text": ") Posting Items to the Day’s Deposit (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ac9535d247b77056f9def41dd88aa343",
+    "text": ") If volume requires, payments may be input for the next day’s deposit after cutoff time for the current deposit date. Use CC ETXCL and CC SEQNC to counters and establishes a Payment Sequence Number for new Julian Deposit Date. Begin input of a block only if it could be completed before the close of business. Key in command code TXCTL after the last block is balanced before the close of business. Print a copy of the tax class totals. Attach the tax class totals print to the terminal. Before continuing input for that deposit on the next workday, input TXCTL and compare the screen display with the print made the end of the previous workday. If they are not identical in all respects, use ETXCL and SEQNC to re-establish the totals as shown on the previous workday’s TXCTL print and to establish the next Payment Sequence Number. The tax class totals and last Payment Sequence Number may also be found on the PAYMENTS display of the last block input on the previous workday. If TXCTL print and display agree, input STBLK and continue the day’s deposit.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f6bd5c566db6d35381075c33e89653d0",
+    "text": ") Recovery of Data in Event of Breakdown (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "5dfbc125f1a60902360dfe6f6f428b62",
+    "text": ") If a terminal or the system should break down while a block is in process, the action required would depend on how long it is expected to take to become operational again. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "4a5d7feee294707ae2e580934bbb815c",
+    "text": ") If a single terminal is involved and it is not expected to become operational time to complete the day’s deposit actions: Reprocess the block which was Terminal. Renumber the related remittances when input at the new terminal. When the malfunction is corrected, delete the partially completed block in the old terminal. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "1bb222d87f8c5d92331ee9931de6e39f",
+    "text": ") If the system is down and not expected to be operational in time to complete the day’s deposit actions, request instructions for completion of the deposit from supervisor. When the malfunction is corrected, it will be necessary to determine if any of the input data has been lost. Use command code TXCTL determine the Payment Sequence Number of the last payment included in cumulative tax class totals. Re-input any missing items and renumber the related remittances.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "a973ab27dd94af7b8dcb6d71162f49c5",
+    "text": ") General Error Messages (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ca7db0b0938af39f0d28e79a10dbd0b0",
+    "text": ") TIP ERROR OCCURRED —unable to access TIP FILE due to input/output error. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d1a92b2b2e868a15d41c356ba6c0ddad",
+    "text": ") CHANGE IN TERM AREAS-ETXCL REQUIRED—TERMINAL-ID does not match the terminal-id which was already input. ETXCL must be input to re-set the TERMINAL-ID. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "094996ece122affaf52a471dd66fba99",
+    "text": ") ROUTED TO WRONG RTAP-NOTIFY RPA —an attempt was made to input invalid command code. The command code input does not match one of the valid command codes for the Area Office Payments program.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3097b32cd489d708926d0bca3c03622e",
+    "text": ") Command Code ETXCL (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8b23f0453c561817728fa426c67c93eb",
+    "text": ") This command code is used to establish terminal tax class counters or to set terminal tax class counters at zero to begin a cumulative count of payment amounts by class of tax for the day’s deposit.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "5c119deb61f529713957d83c33aa9f23",
+    "text": ") Terminal Responses for ETXCL (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "375de7eda75bb43849bd108107369887",
+    "text": ") Error Response: error messages are displayed with an asterisk immediately following any invalid ﬁeld. The invalid element on then be corrected and re- entered.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "82ea8905ff2fb84a0ed25300d51d759d",
+    "text": "Items to the Deposit (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "6cea4b677b6d77ed9c03665eaef07b05",
+    "text": ") If volume requires, payments may be input for the next day’s deposit after the cutoff time for the current deposit date. Use CC ETXCL and CC SEQNC to set counters and establishes a Payment Sequence Number for new Julian Deposit Date. Begin input of a block only if it could be completed before the close of business. Key in command code TXCTL after the last block is balanced before the close of business. Print a copy of the tax class totals. Attach the tax class totals print to the terminal. Before continuing input for that deposit on the next workday, input TXCTL and compare the screen display with the print made at the end of the previous workday. If they are not identical in all respects, use ETXCL and SEQNC to re-establish the totals as shown on the previous workday’s TXCTL print and to establish the next Payment Sequence Number. The tax class totals and last Payment Sequence Number may also be found on the PAYMENTS display of the last block input on the previous workday. If TXCTL print and display agree, input STBLK and continue the day’s deposit.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "967fdcfa4c300ec993dfc9e5e3022872",
+    "text": "If volume requires, payments may be input for the next day’s deposit after the cutoff time for the current deposit date. Use CC ETXCL and CC SEQNC to set counters and establishes a Payment Sequence Number for new Julian Deposit Date. Begin input of a block only if it could be completed before the close of business. Key in command code TXCTL after the last block is balanced before the close of business. Print a copy of the tax class totals. Attach the tax class totals print to the terminal. Before continuing input for that deposit on the next workday, input TXCTL and compare the screen display with the print made at the end of the previous workday. If they are not identical in all respects, use ETXCL and SEQNC to re-establish the totals as shown on the previous workday’s TXCTL print and to establish the next Payment Sequence Number. The tax class totals and last Payment Sequence Number may also be found on the PAYMENTS display of the last block input on the previous workday. If",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d8702aac7b59104fa161ea3da224f8f5",
+    "text": "workday’s TXCTL print and to establish the next Payment Sequence Number. The tax class totals and last Payment Sequence Number may also be found on the PAYMENTS display of the last block input on the previous workday. If TXCTL print and display agree, input STBLK and continue the day’s deposit.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "5dfbc125f1a60902360dfe6f6f428b62",
+    "text": ") If a terminal or the system should break down while a block is in process, the action required would depend on how long it is expected to take to become operational again. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "9c474dcda2fb56485ae3bb5aade69953",
+    "text": ") If a single terminal is involved and it is not expected to become operational in time to complete the day’s deposit actions: Reprocess the block which was Terminal. Renumber the related remittances when input at the new terminal. When the malfunction is corrected, delete the partially completed block in the old terminal. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "daf310cf3ce1d4f26985c7db5b9792fb",
+    "text": ") If the system is down and not expected to be operational in time to complete the day’s deposit actions, request instructions for completion of the deposit from supervisor. When the malfunction is corrected, it will be necessary to determine if any of the input data has been lost. Use command code TXCTL to determine the Payment Sequence Number of the last payment included in the cumulative tax class totals. Re-input any missing items and renumber the related remittances.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "30cf01cd4287d9ddf91db1e095c50952",
+    "text": "Error Response: error messages are displayed with an asterisk immediately following any invalid ﬁeld. The invalid element on then be corrected and re-",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "47df5f90c693dc441a61f3332cb42974",
+    "text": "Command Codes ETXCL, SEQNC, STBLK, PAYMT, PYBAL, VARIA, CRBLK, and TXCTL for Area Office Payment Processing 2.4.15 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "f8e3a7018cabbbf770b802a3bb294692",
+    "text": "Tax Class—must be TCn. The n must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3d30020b1863441a64e786bdc72745e9",
+    "text": ", or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d5e37d96e06e86725e7c558ac0387db6",
+    "text": "and may not be repeated. Tax Class Amounts—Every TCn must have a corresponding edited money ﬁeld that is greater than zero. Valid range for an amount ﬁeld is .",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "663ea1bfffe5038f3f0cf667f14c4257",
+    "text": "to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d37abab8a5f2cf5cf9e2ea27880b698b",
+    "text": "a. BLOCK IN PROCESS —Check of STBLK hold area revealed that block count and amount are not equal to zero. A block is still being processed under the existing sequence number. b. DEPOSIT DATE INVALID —Input date is less than existing Julian Date in terminal payment number, unless the existing date is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "fa3dcaf2f0b39a79477081ca9a22af14",
+    "text": "and input date is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7a1b6f254ba6f722969c2ad2b47bd07e",
+    "text": "If input date is a weekend or holiday date, (WEEKEND) or (HOLIDAY) will follow the error message. c. SEQUENCE NUMBER INVALID —Input sequence number is incorrectly formatted, blank, or less than the sequence number in the existing Payment Sequence Number. d. TAX CLASS COUNTERS NOT CLEARED —Tax class counters from previous block are not all equal to zero and the entered Julian Date is greater than the last block’s Julian Date.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "ddeecb2b1e503c92bd7683955868bcd7",
+    "text": "This command code is used to establish an item count and total dollar amount for an input block of payments and to input the Transaction Register Indicator for all items in the block. CC STBLK initiates the input of a block.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "eeafb88dd8903d9e93bb24f95f3f7071",
+    "text": "ITEM COUNT OR AMOUNT INVALID —if either of the ﬁelds is invalid. BLOCK IN PROCESS —block count and amount in the STBLK hold area contains other than all zeros (previous block has not been completed). TRANSACTION REGISTER INDICATOR INVALID —line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "2896a6f32e92396f8a0c5601bff21318",
+    "text": ", position",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "c9872f97eaff669df8b650dccfbd746f",
+    "text": ", must be a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "ad645d88f55b90d6493522d1eab57deb",
+    "text": "or blank.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3ec220da5d5a7c45ca5081403cc063ad",
+    "text": ") Error Responses: error messages are displayed on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "ceda043b4e09a43d6ed2a908f6ee7fde",
+    "text": "The invalid element can then be corrected and re-entered. a. ACCOUNT NOT ON FILE-CONTACT USER SUPPORT —TIN does not exist on the TIF and Item",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "fab87c44edcead807ec57620af549ba0",
+    "text": "is blank or @, CONTACT USER SUPPORT. b. ACCOUNT ON FILE nnvvnnvnnnvvbvvvv —TIN matched a TIN on the TIF but fails as to valid or invalid segment (IMF, BMF, and IRAF only) or the name control if N/C entered (Item",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "514ca313d56b59fb747b0945df42f350",
+    "text": ") does not match the N/C on the TIF. The variable ﬁelds are the SSN/EIN, File Source Code and N/C as they appear on the TIF. c. TIF N/C MISMATCH v-v —TIN matched a FULL ACCOUNT TIN on the TIF but fails as to valid or invalid segment (IMF, BMF, and IRAF only) or the name control if N/C entered (Item",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "7ceaa2d0b8b09065d8a29d5e7d04541e",
+    "text": ") does not match the N/C on the TIF. The variable ﬁelds are up to a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "482d36458cf02ed147c966a0b6520afd",
+    "text": "character Primary Name Line as they appear on the TIF",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "aa52d65bc3c89ef0b3c33a155745ea21",
+    "text": "Record. d. TIF N/C MISMATCH v-v —TIN matched a DUMMY ACCOUNT TIN on TIF but fails as to valid or invalid segment (IMF, BMF, and IRAF only) or the name control if N/C entered (Item",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "889467d8a0b9d1921d13647ae89caa40",
+    "text": ") does not match the N/C on the TIF. The variable ﬁelds are the NAME CONTROL as they appear on the TIF. e. TAX MODULE NOT ON FILE —The tax module does not exist on the TIF and Item",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "2aecc0ee3a89f0498f54341ad789eecb",
+    "text": "is other than @. f. TIF INDICATOR ERRONEOUSLY SET —The tax module is on the TIF and Item",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "189adcb61e96f3d7bec3c3c467d35972",
+    "text": "is other than blank. g. EMPLOYEE NUMBER MISMATCH —Operator employee number’s last digit does not match last digit of employee number of operator who last input CC SEQNC. h. STORE BLOCK COUNT EQUAL TO ZERO —Enter STBLK, Block Amount and Count. i. NMF MODULE NOT ON FILE —NMF module must be present for payment input. j. NMF ACCOUNT NOT ON FILE —NMF account and module must be present for payment input. k. NMF MODULE IS DUMMY MODULE —Payment not acceptable to NMF dummy module. l. PAYMENTS EXCEED ITEM COUNT —Payment input attempted when number of payments already input equals the number stored in STBLK item count. Re-input PYBAL to get PAYMENT DISPLAY . m. INVALID SITE ID - TRACE-ID—) The Site ID comprises the ﬁrst two positions of the Trace ID number. The Site ID must be a valid Campus Code, a valid District Office Code, a valid Area Office Code, or a valid Lockbox Bank ID Code. Note: Valid codes change periodically with the reorganization of Campus accountability or Campus Consolidation, or the restructuring of Lockbox Bank contracts. These Site IDs are valid for the following Campus Location Codes:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3cb27ca1093af95547c28d9f3a28b2ee",
+    "text": "ATSPC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "2c1ba50afd66a492ac0f9312b70ed789",
+    "text": "BSC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "e75302dfa20e2beb781f96d804000c30",
+    "text": "ANSPC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "81bcf02c22eb259433e1458c3b734311",
+    "text": "PSC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "874b8892f5722204f9a4528703a4c1c3",
+    "text": "KCSPC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d0902a65038ddad5fc64b804516a8d30",
+    "text": "OSPC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "63e0526f2fdc706fe0d8bedbd338e4a2",
+    "text": "CSPC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "cb93bbfc68a40806d3b48a97e60faa0d",
+    "text": "MSC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d70cf0bb11b1a4f8ca16e21ce6884b2e",
+    "text": "AUSPC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "c25f57a027f66e7294363e1a6903acda",
+    "text": "FSPC. These Site IDs are valid for the following Lockbox Bank Location Codes:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "691cd12e9a56e9b2b6163d328c22cbc8",
+    "text": "- Bank of America Windsor - ANSPC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "ee6d5f9c7554ff9f00b848d412fbc06e",
+    "text": "- U.S. Bank Cincinnati - PSC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "488bd8404578a18f18fec9d0a4c1ee50",
+    "text": "- U.S. Bank Cincinnati - FSPC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "87fb70eb10e369b1dee76d9d1789fca9",
+    "text": "- JP Morgan Charlotte - CSPC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "31f59b4be26644d1d2e776738a5e6aee",
+    "text": "- U.S. Bank St. Louis - KCSPC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "34fd102360f1573fcb5aa85ea1fc4be2",
+    "text": "- Bank of America Windsor - KCSPC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "2a761b1a7bffa28da3a34848184d9ae3",
+    "text": "- Bank of America College Park - ATSPC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9ea029d914d60f662bc513d1f4bf6816",
+    "text": "- Bank of America Hayward - FSPC - JP Morgan Chase - AUSPC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "1c2b661da2a773e69c1b127a1884f711",
+    "text": "- Bank of America Tucker - OSPC. In addition, some systems, such as an Installment Agreement (IA) User Fee",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "47df5f90c693dc441a61f3332cb42974",
+    "text": "Command Codes ETXCL, SEQNC, STBLK, PAYMT, PYBAL, VARIA, CRBLK, and TXCTL for Area Office Payment Processing 2.4.15 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "ab3dc232f81b2a0cc3e83c034703d501",
+    "text": "Sweep, utilize an Area Office Code rather than a Campus Code. Those values are quite varied, so CDDB allows for any unique numeric value to be valid. n. INVALID SYSTEM ID - TRACE-ID —The System ID comprises positions and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "38c9c50f678b75de93e698a64c7bd6ab",
+    "text": "of the Trace ID number. Valid System ID Codes for the following payment transactions are:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "52b6f153720fe68c1f128c54ea0e4a48",
+    "text": "- EFTPS",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "fcba34f933c019f9718a9b07e48e8c1f",
+    "text": "- ISRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "886fae89cac63f6febd2f70d503d30e9",
+    "text": "- Lockbox Bank",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "9e1a48350b15c64c5289c03118a342e8",
+    "text": "- SITLP (State Income Tax Levy Project) Levy Payments",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "55707c763386d96eba4497a32ae6b8ab",
+    "text": "- Receipt & Control Manual Deposits",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "0a7159c0412096d6e241126a47d9adef",
+    "text": "- RRACS DCF DV",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "4ea8b25f54abc22273d9b903a66491d4",
+    "text": "- Accounting DT and DV",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "570416d5855aeda7a2be2bd83faba14b",
+    "text": "- FTD DT and DV",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "1f33b85480d49154ab397d7e7d0c2fe1",
+    "text": "- IDRS IA User Fee Sweep",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "76dd6a4d757b47133c9fd9073b159e89",
+    "text": "- Automated Insolvency System (AIS)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "e59ac1902029202bbeb8dde00d58bcb0",
+    "text": "- Automated Offer in Compromise (AOIC)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "2d2355944b29033c064856ee41bf868f",
+    "text": "ITIN",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "ae067b3c18d0afa48edac14720abffc0",
+    "text": "- Field Assistance (SHARE) Function, Taxpayer Assistance Centers. BBTS provides the following subset of these System IDs for re- questing a Trace ID number for manual DTS:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "55707c763386d96eba4497a32ae6b8ab",
+    "text": "- Receipt & Control Manual Deposits",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "0a7159c0412096d6e241126a47d9adef",
+    "text": "- RRACS DCF DV",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "1b1bee4900f002790db9d605292114dd",
+    "text": "- Accounting DT/DV",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "1d92ce82fccad294fef529a53b31b86d",
+    "text": "- FTD DT/DV",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "76dd6a4d757b47133c9fd9073b159e89",
+    "text": "- Automated Insolvency System (AIS)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "e59ac1902029202bbeb8dde00d58bcb0",
+    "text": "- Automated Offer in Compromise (AOIC)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "312e722cd355b4a9191f7c2d821589f3",
+    "text": "- ITIN",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "ebc856efd7545ecf963ac89a60121759",
+    "text": "- Field Assistance - Taxpayer Assistance Centers (TAC). o. INVALID JULIAN DATE - TRACE-ID —The Julian Date comprises positions",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "6dbbd26206bb2e628477e73a4b002f49",
+    "text": "of the Trace ID. Validation criteria are: The Julian Year must be a valid four position year (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "2d1ad40ad1f5044602a27fd1a71b879a",
+    "text": "or greater) The Julian Date must be greater than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "f03bf498c911fb446daa7e9c7efead65",
+    "text": "(the start date for EFTPS generation of Trace ID Numbers) . The Julian Date must not be greater than TODAY’s date; that is, the Julian Date must not be a future date. If not a Leap Year, then the Julian Day must be between",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "6201111b83a0cb5b0922cb37cc442b9a",
+    "text": "and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "afb19397a65d8ae5523aae78dbcbfa83",
+    "text": "(>",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "2bb6a22638ab7deb7cc6b6953d0e758e",
+    "text": ",<",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7b3ac77ef43b3b3f8adfb89555623a3a",
+    "text": ") If a Leap Year,then the Julian Day must be between",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "6201111b83a0cb5b0922cb37cc442b9a",
+    "text": "and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "afb19397a65d8ae5523aae78dbcbfa83",
+    "text": "(>",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "4ec1bc394e3dd8ff0b9e7afa36edca9c",
+    "text": ", <",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "c12babbffadb886248a9e0ad76df3ead",
+    "text": "). p. INVALID SEQUENCE NUMBER- TRACE-ID —The Deposit Ticket (DT) Sequence Number comprises positions",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3f8547860fcc9b87c292d0fb981229fc",
+    "text": "of the Trace ID number and will be a numeric number greater than zero. Note: For systems that do not utilize Batch Block Tracking System (BBTS) to generate the Trace ID number, the DT Seq Number will be initiated as",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "720185077731db3601794889e00f0396",
+    "text": ", and will increment",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "dbf2e4c026c80e3e77a8f470d9f11785",
+    "text": "for every additional DT that is created for the same system in the same site on the same day.The",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "76eefc6ee425cbdeca7705a1d7a95645",
+    "text": "-digit Trace ID number deﬁned above is the Trace ID that identiﬁes a Deposit Ticket that is entered into RACS. The individual payments that comprise a Deposit Ticket will have an additional",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "89bc2818372f6907b6fd5c0984421ff6",
+    "text": "-digit Transaction Sequence Number that will keep each payment’s Trace ID number unique. q. INVALID TRANSACTION SEQ # - TRACE-ID—) The Trans Seq Number comprises the ﬁnal six positions of the Trace ID number (positions",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "63a94fa27e6c22c3c9752f4ab536d10a",
+    "text": "). Note: This ﬁeld is relevant only for the individual Payment Transactions that comprise a Deposit Ticket (as identiﬁed by the ﬁrst",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "752689b3cab019a2b11c19f186a7cb95",
+    "text": "characters of the Trace ID Number).. r. DMS ERRORnn-RE-INPUT-DATA —Unable to access the TIF at this time (system busy). Re-try attempt to enter data (nn = DMS error Number). s. SYSTEM ERROR ON ACCESS/UPDATES —Unable to access the TIF due to input/output error. t. PAYMENT NOT VALID FOR MEMO MODULE —Payment not acceptable for a memo module. u. PAYMENT NOT VALID FOR MEMO ACCOUNT —Payment not acceptable for a memo account. v. NMF ACCOUNT IS DUMMY ACCOUNT —Payment is not acceptable to NMF Dummy Account. w. TIN NOT ESTABLISHED ON MF —The TIN is not on the NAP ﬁle. TXCTL for Area Office Payment page Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "b8af918db729098936211ee1b72e2e0f",
+    "text": "values are quite varied, so CDDB allows for any unique numeric value to be valid. INVALID SYSTEM ID - TRACE-ID —The System ID comprises positions",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "6201111b83a0cb5b0922cb37cc442b9a",
+    "text": "and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "38c9c50f678b75de93e698a64c7bd6ab",
+    "text": "of the Trace ID number. Valid System ID Codes for the following payment transactions are:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "52b6f153720fe68c1f128c54ea0e4a48",
+    "text": "- EFTPS",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "fcba34f933c019f9718a9b07e48e8c1f",
+    "text": "- ISRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "886fae89cac63f6febd2f70d503d30e9",
+    "text": "- Lockbox Bank",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "9e1a48350b15c64c5289c03118a342e8",
+    "text": "- SITLP (State Income Tax Levy Project) Levy Payments",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "55707c763386d96eba4497a32ae6b8ab",
+    "text": "- Receipt & Control Manual Deposits",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "0a7159c0412096d6e241126a47d9adef",
+    "text": "- RRACS DCF DV",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "4ea8b25f54abc22273d9b903a66491d4",
+    "text": "- Accounting DT and DV",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "570416d5855aeda7a2be2bd83faba14b",
+    "text": "- FTD DT and DV",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "1f33b85480d49154ab397d7e7d0c2fe1",
+    "text": "- IDRS IA User Fee Sweep",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "76dd6a4d757b47133c9fd9073b159e89",
+    "text": "- Automated Insolvency System (AIS)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "e59ac1902029202bbeb8dde00d58bcb0",
+    "text": "- Automated Offer in Compromise (AOIC)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "312e722cd355b4a9191f7c2d821589f3",
+    "text": "- ITIN",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "ae067b3c18d0afa48edac14720abffc0",
+    "text": "- Field Assistance (SHARE) Function, Taxpayer Assistance Centers. BBTS provides the following subset of these System IDs for re- questing a Trace ID number for manual DTS:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "55707c763386d96eba4497a32ae6b8ab",
+    "text": "- Receipt & Control Manual Deposits",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "0a7159c0412096d6e241126a47d9adef",
+    "text": "- RRACS DCF DV",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "1b1bee4900f002790db9d605292114dd",
+    "text": "- Accounting DT/DV",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "1d92ce82fccad294fef529a53b31b86d",
+    "text": "- FTD DT/DV",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "76dd6a4d757b47133c9fd9073b159e89",
+    "text": "- Automated Insolvency System (AIS)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "e59ac1902029202bbeb8dde00d58bcb0",
+    "text": "- Automated Offer in Compromise (AOIC)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "312e722cd355b4a9191f7c2d821589f3",
+    "text": "- ITIN",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "46bdccaecd45571f273ae246fd1d3079",
+    "text": "- Field Assistance - Taxpayer Assistance Centers (TAC).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "92f94dd5fd8421c4cfbbc525ef173229",
+    "text": "x. SSN NOT ON MF AS VALID OR INVALID-CC INOLE CAN BE USED VALIDATE DM-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "c4d8024b572f9521dd725bd2d0a57896",
+    "text": "SSN/NAME-CONTACT USER SUPPORT —The SSN entered was not found on either the valid or invalid segments of the Master File. CC INOLE can be used to research the DM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "e1f3f91f2934376d273837453f535e03",
+    "text": "CONTACT USER SUPPORT. y. ACCOUNT FOUND ON OPPOSITE VALIDITY-CC INOLE CAN BE USED TO VALIDATE SSN/NAME —The SSN entered was not found on the segment of the Master File as indicated by the display File Source Code entered. However, it was found on the opposite segment. CC INOLE can be used to research the account. z. TIN IS NOT ON EPMF, IS ON THE BMF — The EMPF account’s EIN not be found on the EPMF but it does exist on the BMF. aa. CRS/NAP ACCESS NOT AVAILABLE —The communication lines to NAP ﬁle are not available. The transaction cannot be input. Notify your manager or the IDRS Support Staff. Retry input later. ab. NATIONAL ENTITY FILE NOT AVAILABLE —The NAP ﬁle is not available. Retry input later. ac. FIRST NAME LINE —The actual FIRST-NAME-LINE from the NAP ﬁle returned to indicate there is a mismatch on the entity data on the Master File. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "023040495885a49d6932e908916c6209",
+    "text": ") Valid Responses: a. PAYMT Response: A satisfactory entry will result in a response display of the payment input command code PAYMT and a thirteen-digit Payment Sequence Number. Stamp the displayed sequence number on the remit- tance relating to the posting just entered (including Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "00488410f45e583cf9a287619fc0cac5",
+    "text": "posting vouchers). The terminal is now ready to accept another posting. Repeat separate input of each remittance item until entire block has been entered. b. PYBAL Response: Upon satisfactory entry of the ﬁnal item in the block, a response display will show the command code PYBAL instead of PAYMT as above. Also displayed will be the Payment Sequence Number, which is to be entered on the last remittance for the block. After this been accomplished, input entry code and depress ENTER key. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "ab246dc4566149b21aa9590767773820",
+    "text": ") The following error messages are created from the consistency checks with the CFOL data. Corrective action indicated by the message must be taken continue processing a transaction. a. IMFOL TIN NOT FOUND. b. IMFOL FILE NOT AVAILABLE—Try later. c. IMF DOES NOT HAVE A NAME LINE EQUAL TO OR EARLIER THAN THE TAX PERIOD YR. d. MFR FOR THIS ACCOUNT IS AN“",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "9f43feed5068bff5cdda3d07e752856a",
+    "text": "”. e. SCRAMBLED SSN IS A “",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "a88d2385c390fd3a31a9569b8f379fe1",
+    "text": "” AND MFR IS AN “",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "3d67b9a0b94c7cf9f06f26702b7320d5",
+    "text": "” FOR THIS ACCOUNT. f. TAX PERIOD MONTH DOES NOT MATCH THE FYM ON THE MASTER FILE. g. MASTER FILE DOES NOT HAVE A TAX MODULE FOR THE TAX PERIOD. h. BMFOL TIN NOT FOUND. i. BMFOL FILE NOT AVAILABLE—Try later. j. THIS ACCOUNT IS ONLY VALID FOR POSTING FORM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "d91f41f102f543d701607ffeab9ffd93",
+    "text": "GROUP RETURN TRANSACTIONS. k. THE FRC ON THE BMF IS “",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "4321d5ed9dc8c90b2d712c4860e909df",
+    "text": "”, RESEARCH FOR ANOTHER TIN.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "e0895fd5d95d414f77badcf83acdd4df",
+    "text": "IDRS Terminal Input Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "2db49ccb69614970c829909b057ab57d",
+    "text": "Z (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "92f94dd5fd8421c4cfbbc525ef173229",
+    "text": "x. SSN NOT ON MF AS VALID OR INVALID-CC INOLE CAN BE USED VALIDATE DM-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "c4d8024b572f9521dd725bd2d0a57896",
+    "text": "SSN/NAME-CONTACT USER SUPPORT —The SSN entered was not found on either the valid or invalid segments of the Master File. CC INOLE can be used to research the DM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "0402802717e1361577bc607ed9dfd7a4",
+    "text": "CONTACT USER SUPPORT. y. ACCOUNT FOUND ON OPPOSITE VALIDITY-CC INOLE CAN BE USED TO VALIDATE SSN/NAME —The SSN entered was not found on the segment of the Master File as indicated by the display File Source Code entered. However, it was found on the opposite segment. CC INOLE can be used to research the account. z. TIN IS NOT ON EPMF, IS ON THE BMF — The EMPF account’s EIN can not be found on the EPMF but it does exist on the BMF. aa. CRS/NAP ACCESS NOT AVAILABLE —The communication lines to the NAP ﬁle are not available. The transaction cannot be input. Notify your manager or the IDRS Support Staff. Retry input later. ab. NATIONAL ENTITY FILE NOT AVAILABLE —The NAP ﬁle is not available. Retry input later. ac. FIRST NAME LINE —The actual FIRST-NAME-LINE from the NAP ﬁle returned to indicate there is a mismatch on the entity data on the Master File.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "b7b52b90cedd067bd8de2c5944ff0c89",
+    "text": "FIRST NAME LINE —The actual FIRST-NAME-LINE from the NAP ﬁle is returned to indicate there is a mismatch on the entity data on the Master",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "1ac3c5468d2de4f73990df88dc78c560",
+    "text": "a. PAYMT Response: A satisfactory entry will result in a response display of the payment input command code PAYMT and a thirteen-digit Payment Sequence Number. Stamp the displayed sequence number on the remit- tance relating to the posting just entered (including Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "47b9ef98dff08cbfb979cd24bd681878",
+    "text": "posting vouchers). The terminal is now ready to accept another posting. Repeat separate input of each remittance item until entire block has been entered. b. PYBAL Response: Upon satisfactory entry of the ﬁnal item in the block, a response display will show the command code PYBAL instead of PAYMT as above. Also displayed will be the Payment Sequence Number, which is to be entered on the last remittance for the block. After this has been accomplished, input entry code and depress ENTER key.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "5e52e3b4e540fc370fef88383fb0351f",
+    "text": "Sequence Number. Stamp the displayed sequence number on the tance relating to the posting just entered (including Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "a86065fe2e80cd61025cf9f42bf1efad",
+    "text": "posting vouchers). The terminal is now ready to accept another posting. separate input of each remittance item until entire block has been entered. b. PYBAL Response: Upon satisfactory entry of the ﬁnal item in the a response display will show the command code PYBAL instead of PAYMT as above. Also displayed will be the Payment Sequence which is to be entered on the last remittance for the block. After been accomplished, input entry code and depress ENTER key. The following error messages are created from the consistency checks the CFOL data. Corrective action indicated by the message must be continue processing a transaction. a. IMFOL TIN NOT FOUND. b. IMFOL FILE NOT AVAILABLE—Try later. c. IMF DOES NOT HAVE A NAME LINE EQUAL TO OR EARLIER THE TAX PERIOD YR. d. MFR FOR THIS ACCOUNT IS AN“",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "9f43feed5068bff5cdda3d07e752856a",
+    "text": "”. e. SCRAMBLED SSN IS A “",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "a88d2385c390fd3a31a9569b8f379fe1",
+    "text": "” AND MFR IS AN “",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "651695c2817a147a42dc11613a8d4f3e",
+    "text": "” FOR THIS ACCOUNT. f. TAX PERIOD MONTH DOES NOT MATCH THE FYM ON THE FILE. g. MASTER FILE DOES NOT HAVE A TAX MODULE FOR THE TAX PERIOD. h. BMFOL TIN NOT FOUND. i. BMFOL FILE NOT AVAILABLE—Try later. j. THIS ACCOUNT IS ONLY VALID FOR POSTING FORM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "d91f41f102f543d701607ffeab9ffd93",
+    "text": "GROUP RETURN TRANSACTIONS. k. THE FRC ON THE BMF IS “",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "4321d5ed9dc8c90b2d712c4860e909df",
+    "text": "”, RESEARCH FOR ANOTHER TIN.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "55ed3d6daffc31a22c56cc13938b0dce",
+    "text": "2.4.15.5.1.1(01-01-2000) PAYMT CFOL Error Response",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "496fca142d97b88c92ca4c18de62519b",
+    "text": "a. IMFOL TIN NOT FOUND. b. IMFOL FILE NOT AVAILABLE—Try later. c. IMF DOES NOT HAVE A NAME LINE EQUAL TO OR EARLIER THAN THE TAX PERIOD YR. d. MFR FOR THIS ACCOUNT IS AN“",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "9f43feed5068bff5cdda3d07e752856a",
+    "text": "”. e. SCRAMBLED SSN IS A “",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "a88d2385c390fd3a31a9569b8f379fe1",
+    "text": "” AND MFR IS AN “",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "92b84121ad9458b5ede44e513a4c9ec8",
+    "text": "” FOR THIS ACCOUNT. f. TAX PERIOD MONTH DOES NOT MATCH THE FYM ON THE MASTER FILE. g. MASTER FILE DOES NOT HAVE A TAX MODULE FOR THE TAX PERIOD. h. BMFOL TIN NOT FOUND. BMFOL FILE NOT AVAILABLE—Try later. THIS ACCOUNT IS ONLY VALID FOR POSTING FORM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "d91f41f102f543d701607ffeab9ffd93",
+    "text": "GROUP RETURN TRANSACTIONS. k. THE FRC ON THE BMF IS “",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "4321d5ed9dc8c90b2d712c4860e909df",
+    "text": "”, RESEARCH FOR ANOTHER TIN.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "47df5f90c693dc441a61f3332cb42974",
+    "text": "Command Codes ETXCL, SEQNC, STBLK, PAYMT, PYBAL, VARIA, CRBLK, and TXCTL for Area Office Payment Processing 2.4.15 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "85c06553467b48a57ed431ae24a68e08",
+    "text": "l. THE INPUT MFT IS NOT COMPATIBLE WITH THE FRC ON THE BMF. m. THE INPUT MFT IS NOT COMPATIBLE WITH THE FRC AND THE EO ENTITY STATUS IS “",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "2be51ad4024f813f51cdb0cd954b77a5",
+    "text": "”. n. MFT IS NOT VALID WITH THE EMPLOYMENT CODE OR EO- SUBSECTION OR EO STATUS. o. THIS MFT IS NOT VALID WITH AN EMPLOYMENT CODE OF “S”. p. THE TAX MODULE DOES NOT HAVE A TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "bd972cc4f15d8c175061381ba53c0b85",
+    "text": "AND",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "5c50f06576e1b5e54eb7dbae76ac2377",
+    "text": "FRC IS NOT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "829e5b28af38ab3379fd0b4f3fd4f2f1",
+    "text": "OR",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "49c82f5f50202f1964e0e4a087ba40ae",
+    "text": "q. THE TAX MODULE DOES NOT HAVE A TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "0ae32a0e04d688d3c8ccc6a4225f0ee8",
+    "text": "AND THE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "5c50f06576e1b5e54eb7dbae76ac2377",
+    "text": "FRC IS NOT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "da3155c51544929f53ea9911a9dbd4e2",
+    "text": "r. THIS ACCOUNT DOES NOT HAVE AN EO SECTION. s. TAX PERIOD MONTH DOES NOT MATCH CURRENT OR PRIOR FYM ON THE MASTER FILE. t. THE INPUT MONTH MUST BE A",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "958030ca8160a74bf9ec047f77b985dc",
+    "text": "OR MATCH THE FYM ON THE BMF.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d4c01e3bed1350d0f3f938a24d9d9015",
+    "text": ") Command Code PYBAL (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "8528382c40b230e66fc1e4da4b237e31",
+    "text": ") Input of PYBAL is used to request a comparison between the document count and amount input with CC STBLK and the count and amount accumulated from the input of CC PAYMT format.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "371bacab60ccf6015c6064667bbebe1d",
+    "text": ") Terminal Responses for CC PYBAL (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "01ec48faf5aca3081d0bcdd4286f4838",
+    "text": ") Error Response: a. BLOCK NOT IN PROCESS. A check of the STBLK hold area revealed that the block count and amount are equal to zero. Note: Input CC STBLK to start a new block. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "fc71b308f36c5ebfd0824dc9462f3f07",
+    "text": ") Valid Responses: a. Block in Balance: This will result in a display of “PAYMENTS” format. Payments display must be printed. b. Block not in Balance: This will result in output format VARIANCE being displayed. The terminal operator at this time checks the remittances against the screen display to determine the cause for the imbalance. To correct or delete a payment entry, input command code CRBLK.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "91e4d57dad3fc3a1be5eb3ec21357008",
+    "text": ") Command Code VARIA (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "1a81a81f81352cc8d0b0f63707471a7c",
+    "text": ") This command code is used to input corrections or deletions to correct an un- balanced block displayed due to input of CC PYBAL. After determination of cause of imbalance is obtained from the “VARIANCE” display, CC VARIA should then be input. This may be accomplished by placing blanks in positions",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "6201111b83a0cb5b0922cb37cc442b9a",
+    "text": "and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "82bcfabe29e0c12bfa880e92f68122b7",
+    "text": "on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "f30ca112ca02a786a2a3d08910eb8076",
+    "text": ", and then deleting lines",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "6201111b83a0cb5b0922cb37cc442b9a",
+    "text": "and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "442aeb442019302ec1d76acee41369f8",
+    "text": "from the “VARIANCE” display; and then entering the remaining format into the IDRS system. An entire block may be deleted with CC VARIA. Note: COMMAND CODE VARIA NOT WORKING AT THIS TIME PLEASE USE CRBLK FOR CORRECTIONS OR DELETIONS .",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "85c06553467b48a57ed431ae24a68e08",
+    "text": "l. THE INPUT MFT IS NOT COMPATIBLE WITH THE FRC ON THE BMF. m. THE INPUT MFT IS NOT COMPATIBLE WITH THE FRC AND THE EO ENTITY STATUS IS “",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "2be51ad4024f813f51cdb0cd954b77a5",
+    "text": "”. n. MFT IS NOT VALID WITH THE EMPLOYMENT CODE OR EO- SUBSECTION OR EO STATUS. o. THIS MFT IS NOT VALID WITH AN EMPLOYMENT CODE OF “S”. p. THE TAX MODULE DOES NOT HAVE A TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "bd972cc4f15d8c175061381ba53c0b85",
+    "text": "AND",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "5c50f06576e1b5e54eb7dbae76ac2377",
+    "text": "FRC IS NOT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "829e5b28af38ab3379fd0b4f3fd4f2f1",
+    "text": "OR",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "49c82f5f50202f1964e0e4a087ba40ae",
+    "text": "q. THE TAX MODULE DOES NOT HAVE A TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "0ae32a0e04d688d3c8ccc6a4225f0ee8",
+    "text": "AND THE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "5c50f06576e1b5e54eb7dbae76ac2377",
+    "text": "FRC IS NOT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "da3155c51544929f53ea9911a9dbd4e2",
+    "text": "r. THIS ACCOUNT DOES NOT HAVE AN EO SECTION. s. TAX PERIOD MONTH DOES NOT MATCH CURRENT OR PRIOR FYM ON THE MASTER FILE. t. THE INPUT MONTH MUST BE A",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "958030ca8160a74bf9ec047f77b985dc",
+    "text": "OR MATCH THE FYM ON THE BMF.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "225c35e1ec878db8506536e9596e2d5a",
+    "text": "Note: Input CC STBLK to start a new block.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "fe85b3773efa59d64f0bf43d4c532d77",
+    "text": "Block in Balance: This will result in a display of “PAYMENTS” format. Payments display must be printed. Block not in Balance: This will result in output format VARIANCE being displayed. The terminal operator at this time checks the remittances against the screen display to determine the cause for the imbalance. To correct or delete a payment entry, input command code CRBLK.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "8867a802ec0d198728147a0603a6b1d6",
+    "text": ") This command code is used to input corrections or deletions to correct an un- balanced block displayed due to input of CC PYBAL. After determination of the cause of imbalance is obtained from the “VARIANCE” display, CC VARIA should then be input. This may be accomplished by placing blanks in positions",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "6201111b83a0cb5b0922cb37cc442b9a",
+    "text": "and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "82bcfabe29e0c12bfa880e92f68122b7",
+    "text": "on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "f30ca112ca02a786a2a3d08910eb8076",
+    "text": ", and then deleting lines",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "6201111b83a0cb5b0922cb37cc442b9a",
+    "text": "and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "4449ad25b3afc62894bd0fcb2bf31580",
+    "text": "from the “VARIANCE” display; and then entering the remaining format into the IDRS system. An entire block may be deleted with CC VARIA.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "18cb753d5f580bd01dacbf8cb0bf51c8",
+    "text": "This command code is used to input corrections or deletions to correct an un- balanced block displayed due to input of CC PYBAL. After determination of the cause of imbalance is obtained from the “VARIANCE” display, CC VARIA should then be input. This may be accomplished by placing blanks in positions 7 and 8 on line 1, and then deleting lines 2 and 3 from the “VARIANCE” display; and then entering the remaining format into the IDRS system. An entire block may be deleted with CC VARIA.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "95222a87f5ad6003e66cebb0173eef93",
+    "text": "Use this command code to adjust the count and amount established by CC STBLK. The Transaction Register Indicator may also be corrected.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "4394d87a7e7517eda83035b3f5393d6e",
+    "text": "Error Response —entry code must meet security criteria.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "8607ac0cc0d824e787eee6f0067d5f6a",
+    "text": "Valid Response —display of the tax class totals.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "c5715f55df97de9cd88763095ee6be5f",
+    "text": "The numeric ﬁeld on line one, position",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "0c86436a572d71e89e0932ff30d900cd",
+    "text": "will be the last Payment Sequence Number to affection the totals, followed by each tax class and the accumulated money amounts. This TAX CLASS TOTALS display must be printed out for each terminal to aid in Certiﬁcate of Deposit preparation. Display will also be printed and left at the terminal at the end of each workday.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "47df5f90c693dc441a61f3332cb42974",
+    "text": "Command Codes ETXCL, SEQNC, STBLK, PAYMT, PYBAL, VARIA, CRBLK, and TXCTL for Area Office Payment Processing 2.4.15 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "8e2a5180001e1e4ce53b0a782db25f4a",
+    "text": "Exhibit 2.4.15-1 (01-01-2006) CC ETXCL Request Displays to Re-establish Cumulative Amounts of Previously Input",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "fd90ee4688026dcdeea8a85b7d9b071a",
+    "text": "ETXCL Request Displays to Re-establish Cumulative Amounts of Previously Input",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "7ab2347461ca24b713f40fe9dc69af9d",
+    "text": "Screen Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "cc9b7000e1d73b751ed709d658353623",
+    "text": "ITEM LINE POSITION DESCRIPTION AND VALIDITY 1 1 1–5 Command Code ETXCL 2 2 1–3 Tax Class 3 2 5–19 Tax Class Amount",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "8a6da5e30cf38d1c3b94e9024fba7072",
+    "text": "Note: If present, elements 2 and 3 may be repeated up to 7 times on lines 2 through",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "7af16fa4b911467d20feea6e44f95fbf",
+    "text": "Exhibit 2.4.15-2 (01-01-2006) CC ETXCL Request Display to Set Terminal Tax Counters at Zero",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "7ab2347461ca24b713f40fe9dc69af9d",
+    "text": "Screen Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "5c9772fe80d287e0c453b9f3cfa58f3b",
+    "text": "Request Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "47df5f90c693dc441a61f3332cb42974",
+    "text": "Command Codes ETXCL, SEQNC, STBLK, PAYMT, PYBAL, VARIA, CRBLK, and TXCTL for Area Office Payment Processing 2.4.15 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "e0f5be41015d1ebe272edeb396b702ef",
+    "text": "Exhibit 2.4.15-3 (01-01-2006) CC SEQNC Request Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "7ab2347461ca24b713f40fe9dc69af9d",
+    "text": "Screen Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "aafe573e73763316bef48fb31a908a78",
+    "text": "The Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "a6206ccaba8862f3f33cd47d3a9802be",
+    "text": "Exhibit 2.4.15-4 (01-01-2006) CC SEQNC Response Display",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "7ab2347461ca24b713f40fe9dc69af9d",
+    "text": "Screen Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "36e79c6107fb55ed3863de7d3914857c",
+    "text": "e s comeenI",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "47df5f90c693dc441a61f3332cb42974",
+    "text": "Command Codes ETXCL, SEQNC, STBLK, PAYMT, PYBAL, VARIA, CRBLK, and TXCTL for Area Office Payment Processing 2.4.15 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "067b3ef2e959b20c07a5e8fb6d12237e",
+    "text": "Exhibit 2.4.15-4 (Cont. 1) (01-01-2006) CC SEQNC Response Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "1c45ee10be3f8cf6be2e114ce125d1e8",
+    "text": "DESCRIPTION AND VALIDITY Command Code STBLK LITERAL “BEG SEQ ” PAYMENT SEQUENCE NUMBER—Payment Sequence Number to be assigned to the payment which begins the next block. Julian Deposit Date—",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "ddb5cf50824a0f84bdd68fa5f963e3dd",
+    "text": "digits—input District Office—",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "eb647881a1dd64fd7b815da2d55bbdd8",
+    "text": "digits—generated. Area Office—",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "d0d856da32677317529d6ba0418800dc",
+    "text": "digits— generated Terminal Number—",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "13a03d7f15b16c92d7771313d25fc4fb",
+    "text": "digits—generated. Operator Number—",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "329a2ecc9b6b7e91cffe02b2d8f7777f",
+    "text": "digit last digit of employee number generated. Sequence Number—",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "72e1521b113bdc27d3d3be8dbc70d371",
+    "text": "digits—input. Current Date message aaa = MON, TUE, WED, THR, FRI, SAT (day of week); nnn=corresponding Julian date. DEPOSIT DATE message—aaa = MON, TUE, WED, THR, FRI (Day of week for deposit date) nnn—Deposit date from Item",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "d3194f2672c9e6b47f6440ebbcec5f72",
+    "text": ", Payment Sequence Number (ﬁrst",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "b1221cf7dd5a539c5e66b56c5664b7ff",
+    "text": "digits). Valid Response Message",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "c3092ee2ee0d32506d23a16365a2336d",
+    "text": "Valid Response Message",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "6b71b7e4c91e325796f9b8bb4762df6e",
+    "text": "Note: Date Messages—these messages displayed with a valid response for CC SEQNC are provided for operator conﬁrmation. If erroneous deposit date was input, use CC ETXCL/SEQNC to set counters again and input correct deposit the date. If Today’s date is incorrect, advise supervisor so that Service center may be contacted immediately.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "7ab2347461ca24b713f40fe9dc69af9d",
+    "text": "Screen Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "47df5f90c693dc441a61f3332cb42974",
+    "text": "Command Codes ETXCL, SEQNC, STBLK, PAYMT, PYBAL, VARIA, CRBLK, and TXCTL for Area Office Payment Processing 2.4.15 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "e77382f1481a9b2761111a11051362b0",
+    "text": "Exhibit 2.4.15-5 (Cont. 1) (01-01-2006) CC STBLK Input Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "7ab2347461ca24b713f40fe9dc69af9d",
+    "text": "Screen Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "33069f2eefc3833b57733c8bba551693",
+    "text": ">ereen Lashey-N N B e 0 X 0 - G I M",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "47df5f90c693dc441a61f3332cb42974",
+    "text": "Command Codes ETXCL, SEQNC, STBLK, PAYMT, PYBAL, VARIA, CRBLK, and TXCTL for Area Office Payment Processing 2.4.15 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "5385708b17e73014a4a58519ff14d62c",
+    "text": "Exhibit 2.4.15-6 (Cont. 1) (02-03-2012) CC PAYMT Input Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "c6f1acedb4811be14b4682fafb5ceb6a",
+    "text": "NMF: TIN must conform to rules for SSN except that the 12th position for an SSN will be N and the 11th position of an EIN will be an N. Begin in position 2.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "83d18caa943575a43e040fb0c8b8d4a3",
+    "text": "IRAF: TIN must meet standard validity criteria. The last position must be P or X. Begin in position 2.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "2daf58ded7968567e46f2acd646d21ec",
+    "text": "Screen Hold Code: must be R or blank. If R the input screen will be cleared from line 3 down upon comple- tion of input. If blank the screen will be cleared from line 2 down.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "7ee68ef4ba2412d925341b1601c068ec",
+    "text": "PLAN-RPT-NO —This ﬁeld will represent the Plan number ﬁeld for all MFT with the exception of MFT 76 BMF accounts they have a special range of 000–999. This ﬁeld will also represent a Report Number for MFT",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "1ce60892d40b6708a14e33e7810674a3",
+    "text": "TAX PERIOD —Format YYYYMM. Must not be greater than the current date plus one year. For earliest return period for any MFT see IRM 2.3.8. For MFT 06 a payment is not valid before tax period 197812. For MFT 52 use tax period 000000. For MFT 07 a payment is not valid before tax period 198712. For MFT 46/76 tax period position will move over three position to allow for plan number or report number to be entered.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "5e80b93233ff58f87ac16348adae8692",
+    "text": "DESCRIPTION NAME CONTROL or CHECK DIGIT IMF/IRAF/ BMF—Must meet standard validity criteria NMF—If the TIN is an SSN, the N/C must conform to the rules for IMF. If TIN is an EIN, the N/C must conform to the rules for BMF. The ﬁrst two positions of the ﬁeld must be blank, and the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "602ba7304bdf5978b5507cecc033b980",
+    "text": "rd and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "5b4948e113f65e002c97d00c9530ba41",
+    "text": "th positions of the ﬁeld must be letters of the alphabet other than E, G or M. Non-IDRS indicator: Use (A) if TIN is not on TIF. Use @ if TIN is on TIF but the speciﬁc module is not. Otherwise position is left blank. TRANS-DT-IND—lf after the ﬁrst attempt of input for the Transaction Date an error occurs, the Asterisk (*) used as an error indicator can remain on the input screen to force the input of a date older than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "e529a073398dda5cbea128b08b6115d1",
+    "text": "days on the second attempt. TRANSACTION DATE—Format MMDDYYYY. This date may not be later than the current day or earlier than the current date less seven days or equal to zeros. If the date of payment is the same as date of input, enter a comma instead of the actual date (which will be generated). Begin in position",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "ab726b86be0bc59c9e4f3e7af5497a53",
+    "text": "Dates older than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "c4a0392448cc23dd7bbb9c262efb9081",
+    "text": "days are accepted on correction input if the asterisk used as an error indicator is left on the screen. PRIMARY TRANSACTION CODE—A comma (,) will be used if TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "0c550664fcf95a5b6f4cefe097949e92",
+    "text": "(this would be two successive commas). PRIMARY TRANSACTION AMOUNT—Must be a position ﬁeld including decimal point and comma(s). Do not enter ($) signs. Begin after comma following or rep- resenting the transaction code. Enter .",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "aaf09eb2f03e17af5b9d269537c9709c",
+    "text": "for a zero amount. Example of input of TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "dd1d9f4d0af17558a6ef83b60267a556",
+    "text": "with current day received date:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "2cec0b2c27c4e949d963dad411a9c4e9",
+    "text": "(begin in position",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "1bc9b87c462f3ab21981525198eaba74",
+    "text": "). SECONDARY TRANSACTION CODE—Secondary TC (penalty, lien fee etc.) is not a required input however, if secondary code is present it will be entered beginning on screen line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "2896a6f32e92396f8a0c5601bff21318",
+    "text": ", position",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "b29064560f9b6f0dd71888ba0f1f5412",
+    "text": "See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "0a9fbeee6b5da8917f162fcf6c7eeca4",
+    "text": "SECONDARY TRANSACTION AMOUNT—If item",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "4034aec0efb6ec8f44c9d1b8a427a122",
+    "text": "is blank or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "88e9055da3d8da9813a7b5e2907e87a0",
+    "text": ", this ﬁeld must be blank. If item",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "fa51fd49abf67705d6a35d18218c115f",
+    "text": "is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "187be7f0b8f489f7b4575edda3a54e47",
+    "text": ", this ﬁeld may be zero (designated by a zero in the left most position of this ﬁeld). For all other Secondary TC’s, an amount greater than zero must be present. An amount greater than zero follows the same rules as item",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "96abf46f09b87748ac5e6983795a4436",
+    "text": "above.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "0311bb7ea8c6ffaf15c4f6b2695a1916",
+    "text": "PAYMT Input Display ITEM LINE POSITION DESCRIPTION 7 2 16–19 NAME CONTROL BMF—Must TIN is an SSN, IMF. If TIN is rules for BMF. be blank, and must be letters 8 2 21 Non-IDRS @ if TIN is on Otherwise 9 3 1 TRANS-DT-IND—lf the Transaction used as an screen to force the second 10 3 2–9 TRANSACTION date may not than the current zeros. If the input, enter a will be generated). than 7 days asterisk used 11 3 3–5 or 11–13 PRIMARY used if TC 670 commas). 12 3 4–16, 7–19, 10–22 or 15–27 PRIMARY position ﬁeld not enter ($) resenting the amount. received date: 13 4 2–4 SECONDARY (penalty, lien if secondary beginning on 2.4.15-8. 14 4 6–18 SECONDARY blank or 570, 170,180 or a zero in the other Secondary must be present. the same rules",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "5e80b93233ff58f87ac16348adae8692",
+    "text": "DESCRIPTION NAME CONTROL or CHECK DIGIT IMF/IRAF/ BMF—Must meet standard validity criteria NMF—If the TIN is an SSN, the N/C must conform to the rules for IMF. If TIN is an EIN, the N/C must conform to the rules for BMF. The ﬁrst two positions of the ﬁeld must be blank, and the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "602ba7304bdf5978b5507cecc033b980",
+    "text": "rd and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "5b4948e113f65e002c97d00c9530ba41",
+    "text": "th positions of the ﬁeld must be letters of the alphabet other than E, G or M. Non-IDRS indicator: Use (A) if TIN is not on TIF. Use @ if TIN is on TIF but the speciﬁc module is not. Otherwise position is left blank. TRANS-DT-IND—lf after the ﬁrst attempt of input for the Transaction Date an error occurs, the Asterisk (*) used as an error indicator can remain on the input screen to force the input of a date older than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "e529a073398dda5cbea128b08b6115d1",
+    "text": "days on the second attempt. TRANSACTION DATE—Format MMDDYYYY. This date may not be later than the current day or earlier than the current date less seven days or equal to zeros. If the date of payment is the same as date of input, enter a comma instead of the actual date (which will be generated). Begin in position",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "ab726b86be0bc59c9e4f3e7af5497a53",
+    "text": "Dates older than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "6e4cfd22c7cdd13684d5e792069c7bb8",
+    "text": "days are accepted on correction input if the asterisk used as an error indicator is left on the screen.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "9cc358405149db607ff830a16f0b4b21",
+    "text": "DESCRIPTION",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "56f4aa1d580c5555083a919f45e29a85",
+    "text": "NAME CONTROL or CHECK DIGIT IMF/IRAF/ BMF—Must meet standard validity criteria NMF—If the TIN is an SSN, the N/C must conform to the rules for IMF. If TIN is an EIN, the N/C must conform to the rules for BMF. The ﬁrst two positions of the ﬁeld must be blank, and the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "602ba7304bdf5978b5507cecc033b980",
+    "text": "rd and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "7146f23890f539429194924501bd34cd",
+    "text": "th positions of the ﬁeld must be letters of the alphabet other than E, G or M.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "65734238d2be715f16a9673860ecfd9e",
+    "text": "TRANSACTION DATE—Format MMDDYYYY. This date may not be later than the current day or earlier than the current date less seven days or equal to zeros. If the date of payment is the same as date of input, enter a comma instead of the actual date (which will be generated). Begin in position 2. Dates older than 7 days are accepted on correction input if the asterisk used as an error indicator is left on the screen.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "3f26e09590a2b5705afd6b746ab5b1f8",
+    "text": "PRIMARY TRANSACTION AMOUNT—Must be a position ﬁeld including decimal point and comma(s). Do not enter ($) signs. Begin after comma following or rep- resenting the transaction code. Enter .",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "aaf09eb2f03e17af5b9d269537c9709c",
+    "text": "for a zero amount. Example of input of TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "dd1d9f4d0af17558a6ef83b60267a556",
+    "text": "with current day received date:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "2cec0b2c27c4e949d963dad411a9c4e9",
+    "text": "(begin in position",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "1bc9b87c462f3ab21981525198eaba74",
+    "text": "). SECONDARY TRANSACTION CODE—Secondary TC (penalty, lien fee etc.) is not a required input however, if secondary code is present it will be entered beginning on screen line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "2896a6f32e92396f8a0c5601bff21318",
+    "text": ", position",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "b29064560f9b6f0dd71888ba0f1f5412",
+    "text": "See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "0a9fbeee6b5da8917f162fcf6c7eeca4",
+    "text": "SECONDARY TRANSACTION AMOUNT—If item",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "4034aec0efb6ec8f44c9d1b8a427a122",
+    "text": "is blank or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "88e9055da3d8da9813a7b5e2907e87a0",
+    "text": ", this ﬁeld must be blank. If item",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "fa51fd49abf67705d6a35d18218c115f",
+    "text": "is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "187be7f0b8f489f7b4575edda3a54e47",
+    "text": ", this ﬁeld may be zero (designated by a zero in the left most position of this ﬁeld). For all other Secondary TC’s, an amount greater than zero must be present. An amount greater than zero follows the same rules as item",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "96abf46f09b87748ac5e6983795a4436",
+    "text": "above.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "0a9fbeee6b5da8917f162fcf6c7eeca4",
+    "text": "SECONDARY TRANSACTION AMOUNT—If item",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "4034aec0efb6ec8f44c9d1b8a427a122",
+    "text": "is blank or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "88e9055da3d8da9813a7b5e2907e87a0",
+    "text": ", this ﬁeld must be blank. If item",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "fa51fd49abf67705d6a35d18218c115f",
+    "text": "is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "187be7f0b8f489f7b4575edda3a54e47",
+    "text": ", this ﬁeld may be zero (designated by a zero in the left most position of this ﬁeld). For all other Secondary TC’s, an amount greater than zero must be present. An amount greater than zero follows the same rules as item",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "96abf46f09b87748ac5e6983795a4436",
+    "text": "above.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "47df5f90c693dc441a61f3332cb42974",
+    "text": "Command Codes ETXCL, SEQNC, STBLK, PAYMT, PYBAL, VARIA, CRBLK, and TXCTL for Area Office Payment Processing 2.4.15 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "0a405e2812b23597d60949408fb6e06b",
+    "text": "Exhibit 2.4.15-6 (Cont. 3) (02-03-2012) CC PAYMT Input Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "f20cf3b6324c25c983ed7e5ed0d6a17e",
+    "text": "PAYMT Input Display ITEM LINE POSITION DESCRIPTION 15 5 2–4 TERTIARY TRANSACTION CODE—Tertiary transac- tion code is not required input. However, if a tertiary code is present it must be input beginning in screen position 2 on line 6. The 3-digit transaction code must be one of the Primary Transaction Codes Listed in 10. No tertiary TC’s for IRAF. 16 5 6–18 TERTIARY TRANSACTION AMOUNT—If present, must be greater than zero. Formatted as in item 12. 17 6 2–3 DESIGNATED PAYMENT CODE—Valid for IMF and BMF accounts only. See table for transaction code consistency checks must be input at all times. See Exhibit 2.4.15-9. 18 6 5-7 TAXPAYER ASSISTANT CENTERS—not required input, If not applicable, ﬁeld should remain blank. 19 6 9-22 ORIGINAL ASSESSMENT DLN—Original assessment DLN is not a required input, however if present the transaction must be NMF and Primary Transaction Code must be 670, 680, 690 or 694. If present the will only be validated for its format which is NNNNN- NN-NNNNN-N. 20 7 2 MULTIPLE SPLIT REMITTANCE INDICATOR—not required input, valid values M or S. If not applicable, ﬁeld should remain blank.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "86c4878019a186dd46a4db18534d65d9",
+    "text": "DESCRIPTION TERTIARY TRANSACTION CODE—Tertiary transac- tion code is not required input. However, if a tertiary code is present it must be input beginning in screen position",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "82bcfabe29e0c12bfa880e92f68122b7",
+    "text": "on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "b344d80e24a3679999fa964450b34bc2",
+    "text": "The",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "bc8ff2afdf966fc277746db448f18f88",
+    "text": "-digit transaction code must be one of the Primary Transaction Codes Listed in item",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "de6db042bb3fa61713b2ae0ebae3477a",
+    "text": "No tertiary TC’s for IRAF. TERTIARY TRANSACTION AMOUNT—If present, must be greater than zero. Formatted as in item",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "643fba647ebba4d3b6b5c61c3b6e1d5d",
+    "text": "DESIGNATED PAYMENT CODE—Valid for IMF and BMF accounts only. See table for transaction code consistency checks must be input at all times. See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "b164db8ca050049fe05e219496fb2d86",
+    "text": "TAXPAYER ASSISTANT CENTERS—not required input, If not applicable, ﬁeld should remain blank. ORIGINAL ASSESSMENT DLN—Original assessment DLN is not a required input, however if present the transaction must be NMF and Primary Transaction Code must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "f5d2aa8a84adb99b1e7fcfc8dfaf27f6",
+    "text": "If present the ﬁeld will only be validated for its format which is NNNNN- NN-NNNNN-N. MULTIPLE SPLIT REMITTANCE INDICATOR—not required input, valid values M or S. If not applicable, ﬁeld should remain blank.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "9cc358405149db607ff830a16f0b4b21",
+    "text": "DESCRIPTION",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "e5e19e5c22b13b51264938ad31762977",
+    "text": "TAXPAYER ASSISTANT CENTERS—not required input, If not applicable, ﬁeld should remain blank.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "554d93e4cf6ab668862737fc3266822b",
+    "text": "ORIGINAL ASSESSMENT DLN—Original assessment DLN is not a required input, however if present the transaction must be NMF and Primary Transaction Code must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "7e5915d3f87be11607dee2d5856bc0d9",
+    "text": "If present the ﬁeld will only be validated for its format which is NNNNN- NN-NNNNN-N.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "bbd9c580a5c47da0eef8aa6d00f51a73",
+    "text": "Exhibit 2.4.15-6 (Cont. 4) (02-03-2012) CC PAYMT Input Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "9cc358405149db607ff830a16f0b4b21",
+    "text": "DESCRIPTION",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "6253c68ac154014029cea052af1e84c8",
+    "text": "TRACE-ID—It is mandatory that every Deposit Ticket (DT) and Deposit Voucher (DV) have a Trace ID number. Trace ID is a tracking mechanism to identify each DT with its corresponding payments and each DV with its corresponding debits. As of January",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "1142856cc67d3eb2b946a07eb8296c97",
+    "text": ", all input payment systems automatically assign a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "e9ac763de842fca84e59bc9db73ef26c",
+    "text": "-digit Trace ID number to each deposit ticket:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "ecf1487be221491ef75f8a5158ede7a4",
+    "text": "digits for the Deposit Ticket",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "a7626247433f7ea583b01778b1058b5b",
+    "text": "digits for the individual payments associated with a Deposit Ticket (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d17c1e92d2d119b143c48f93076043c9",
+    "text": ") The Custodial Detail Database (CDDB) is an enhancement to the Financial Management Information System created to track all individual payments that comprise a deposit ticket and to balance the individual transactions against the deposit ticket totals which have been entered into the RRACS general ledger. The unique Trace ID will allow all payments to be identiﬁed and added to the CDDB. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "2324889a2c379bfbbb2a8a756dc1b147",
+    "text": ") The format of the Trace ID number is: Field Format Deﬁnition Epic Editor Unfor- matted Print:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "48106aa327fa9d9cc895482112483f90",
+    "text": "T.sgm Printed Tue Dec",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "e7ac0786668e0ff0f02b62bd04f45ff6",
+    "text": ":",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "e7ac0786668e0ff0f02b62bd04f45ff6",
+    "text": ":",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "791048704c2bd6bc7f309458cc88a427",
+    "text": "User: C",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "9c2f80c19b9cf5fa2f55d93919c6ee7f",
+    "text": "KDB Page:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "747653d6db6f4ca34028c5755b2820c2",
+    "text": "Site ID nn Campus ﬁle location code(FLC), Bank ID, or other Site ID System ID nn Deﬁned Below Deposit Date YYYYDDD Julian Date Seq Number nnn For each deposit date,begin with",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d085a26e6923abf4bc8e81c089278d0c",
+    "text": "andincrement each additional Deposit by",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "ebddc503927e42b2bc26055d15d88d45",
+    "text": "Transaction Seq Number nnnnnn This ﬁeld is relevant only for the Payment Transaction Record. For each payment summarized in a Deposit Ticket, beginning with",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "aceb6268c1b967c74bd8e76b10435f86",
+    "text": ", sequentially increment the Transaction Seq Number for each transaction in the CDDB Detail Payment Record File. TRACE-ID-IND—not required input, valid values X. If",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "47df5f90c693dc441a61f3332cb42974",
+    "text": "Command Codes ETXCL, SEQNC, STBLK, PAYMT, PYBAL, VARIA, CRBLK, and TXCTL for Area Office Payment Processing 2.4.15 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "7ab2347461ca24b713f40fe9dc69af9d",
+    "text": "Screen Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "2dba9b31042c29d99d27d72038ff03b7",
+    "text": "Exhibit 2.4.15-7 (Cont. 1) (02-03-2012) CC PAYMT Input Display",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "47df5f90c693dc441a61f3332cb42974",
+    "text": "Command Codes ETXCL, SEQNC, STBLK, PAYMT, PYBAL, VARIA, CRBLK, and TXCTL for Area Office Payment Processing 2.4.15 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "8504706d4d3b15052d270bb0a746e4c2",
+    "text": "Exhibit 2.4.15-7 (Cont. 2) (02-03-2012) CC PAYMT Input Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "3236e70cf4c199875387d1790f819b93",
+    "text": "Note: See Exhibit 2.4.15-6 (2).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "8610be87c8682ebcd063c926ff10549a",
+    "text": "Exhibit 2.4.15-8 (07-01-2014) CC PAYMT Input Display",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "4bd16f24b0f2284583b036afc7dc9e9c",
+    "text": "Valid Primary Transaction Codes:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "c08e04400fbef6214377c3a6f62e4975",
+    "text": "TransCode Title IMF BMF File IRAF NMF 640 Advance Payment on Deﬁciency. NOTE: not valid for MFT 36 and 67. X X X 660 Subsequent Payment X X X X 670 Subsequent Payment X X X X 680 Designated Payment of Interest X X X X 690 Designated Payment of Penalty X X X 694 Application of Sale Proceeds X X X X",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "47df5f90c693dc441a61f3332cb42974",
+    "text": "Command Codes ETXCL, SEQNC, STBLK, PAYMT, PYBAL, VARIA, CRBLK, and TXCTL for Area Office Payment Processing 2.4.15 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "df44ad1bdb814a60064a7720ce1c2780",
+    "text": "CC PAYMT Input Display With Secondary Transaction Code",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "4a723d58266825d4eaae9f9ceb2c0e03",
+    "text": "Title IMF BMF File IRAF NMF Estimated Tax Penalty X X Deposit Penalty X TP Identifying No. Penalty X X Failure to Pay Tax X X X X Assessment of Interest X X Fees and Costs X X X X Additional Liability X X X X",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "8556f1e5eecaa3da814a3c84eaeb0509",
+    "text": "Note: TC 170 is only valid for MFT codes 02, 05, 30, 33, 34, 44, 77 and 78. TC 180 is valid for MFT codes 01, 03, 09 ,10,11,12,77 and 78. TC 270 is not valid with MFT 06, 13, 36, 55 ,59 or 67 on any ﬁle. TC 340 is valid with all NMF MFT’s except 59. For BMF, TC 340 is valid only with MFT 05,15, 52, 58, 60, 77 and 78. TC 680 must be accompanied by a secondary TC 340 for all NMF MFT’s except 59.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d2aeeac97b1fa590cdb28348d67f7a1b",
+    "text": "Designated Payment Code Transaction Consistency Checks:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "47df5f90c693dc441a61f3332cb42974",
+    "text": "Command Codes ETXCL, SEQNC, STBLK, PAYMT, PYBAL, VARIA, CRBLK, and TXCTL for Area Office Payment Processing 2.4.15 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "584e7488b64a23ba2aa870e74ec8c297",
+    "text": "Exhibit 2.4.15-10 (Cont. 1) (06-27-2022) CC PAYMT Input Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "b510be3a33c2a2563128015ed8c9f178",
+    "text": "(5) For Designated Payment Codes other than 01, 02 or 13 the MFT may be any valid MFT Code. Designated Payment Code input of 01 or 02—Transaction must be IMF and MFT Code 55 or BMF and MFT Code or 01, 03, 09, 11 or 12. Designated Payment Code input of 03 or 04 or 05—Transaction must be IMF or BMF.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "e1b6c9c936a8cb5f224b39b1dacdc734",
+    "text": "(7) For designated Payment Code 21 is only for transaction 670 transaction must be IMF or BMF with MFT of 01, 03, 10, 11, 12 or 13.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "deba54d712068f93b8e45099026854bf",
+    "text": "(8) For designated Payment Code 54 is only for Primary Transaction Code 670, transaction must be IMF.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "d1130c1a95962fe3bfcfcf4f0bf77312",
+    "text": "(10) DPC 05-07, 16, 18-23, 30,32 and 43 not valid with Primary Trans Cd 640, 670. Must be IMF account. MFT must be 35.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "7816e35d93ad2686b2fe4c94d54d892a",
+    "text": "(11) DPC 43 is allowed with Primary Trans Cd 640. Must be BMF account. MFT must be 43.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "319b3962a72335ac7deebf19affaa49b",
+    "text": "(12) DPC 05-07, 16, 18-23, 30,32 and 43 not valid with Primary Trans Cd 640, 670. Must be IMF account. MFT must be 65.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "33cb0fb9a5a81271571c6e3fb94e632c",
+    "text": "(13) DPC 73 Valid for Primary Transaction Code 640, 670, 680. Must be IMF or BMF account. MFT 02, 05, 06, 30.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "cba1ba97bc5e1c21d853d3af4b3b3e89",
+    "text": "(14) For designated Payment Code 76 is only for Primary Transaction Code 670, and the FILE SOURCE CD I is 1 and MFT of 30 or FILE SOURCE CD I is 2 and MFT of 02, 05, 06 or 34",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "7ab2347461ca24b713f40fe9dc69af9d",
+    "text": "Screen Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "ac547b8a83330060a565b404e21e2789",
+    "text": "L ii iiL &",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "5c303d1eef491d481920dcbac3790d1b",
+    "text": "Record Element Description: ITEM LINE POSITION DESCRIPTION 1 1 1–5 Command Code PAYMT 2 1 10–22 Payment Sequence Number",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "47df5f90c693dc441a61f3332cb42974",
+    "text": "Command Codes ETXCL, SEQNC, STBLK, PAYMT, PYBAL, VARIA, CRBLK, and TXCTL for Area Office Payment Processing 2.4.15 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "87a4d5760a6c727911e13bb3354aa233",
+    "text": "Exhibit 2.4.15-12 (01-01-2006) CC PAYMT Output Display — CC PYBAL Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "7ab2347461ca24b713f40fe9dc69af9d",
+    "text": "Screen Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "4586f5d24a0c415e0318cfa7d97e4bd3",
+    "text": "e eolIeii1=Iit11101BB1501",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-015--2022-11-15.pdf",
+      "page_number": 35
+    }
+  }
+]

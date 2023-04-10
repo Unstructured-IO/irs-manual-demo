@@ -1,0 +1,1937 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "c4550cbc2c9eb979bf110e46e9507f4a",
+    "text": "This transmits revised IRM 2.3.43, IDRS Terminal Responses, Command Code PIFTF.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "513e4dc91811bc8d5e31d832bdc3e4a9",
+    "text": "Added the required Internal Controls Section 2.3.43.1.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "6b9e3da6d2f69a17569db0198f0a8fff",
+    "text": "IRM 2.3.43, dated December 17, 2021 is superseded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1e04ac4271e26a0d03a06b174aeb7b1f",
+    "text": "LMSB, SB/SE, TE/GE, W&I.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "fe418b347c5276ccf544fcebaf43cf47",
+    "text": "Command Code PIFTF Input Request Format Command Code PIFTF Output Error Display Command Code PIFTF Output Explanation Display for Non-MFT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "11657293638edc1ed075e32ab07b31f9",
+    "text": "Tax Command Code PIFTF Output Explanation Display For MFT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "ab8a3fc9ddcd7dd14fcddc5c9518e967",
+    "text": "Tax Modules",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "9dcbadcdba3856e3f99e65dd8bb6b849",
+    "text": "and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4d13d6918ffd7ccf3839cc4716c139ae",
+    "text": ") CC PIFTF is use to display Failure To File penalty explanation on a tax residing on the Taxpayer Information File (ITIF and BTIF only). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0d9086fd52994326b9262cc987f2cb54",
+    "text": ") Purpose : This transmits revised IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f4a0c1d563c3c517aeeba81a4391927f",
+    "text": ", IDRS Terminal Input, Command Codes PIFTF. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0f062fba69610fadc1d346e78aa1a661",
+    "text": ") Audience : All IRS business areas. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "49a67d7146bb16d7d88743d4a34c6d05",
+    "text": ") Policy Owner : The Chief Information Officer (CIO) is responsible for oversee- ing all aspects of our systems that operate the nation’s tax infrastructure. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3ceeafb8685a9ce97363a73dfd930389",
+    "text": ") Program Owner : Account Services, which is under the Director, Internal agement. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "bc13a4db9643fcdbbb79c39666a4fd9f",
+    "text": ") Primary Stakeholders : Wage & Investment (W&I), Large Business and national (LB&I), Small Business Self-Employed (SB/SE), Tax Exempt and Government Entities (TE/GE), and Enterprise Operations (EOPS). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "42741ef04dbdf06265d14ca471e7236f",
+    "text": ") Program Goals : This IRM provides the fundamental knowledge and proce- dural guidance for employees who work penalty on IDRS. By following the processes and procedures provided by this IRM, employees will process taxpayer Failure To File penalty explanation in a manner that follows IRS and procedures while promoting the best interests of the Government. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5ff9d8887ee004ad30f885d969f56bec",
+    "text": ") Command Code PIFTF was developed to provide taxpayers a failure to ﬁle penalty explanation imposed by the Internal Revenue Code (IRC). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "fcb6a55e1d0b6065d794f93ceb7f1d59",
+    "text": ", Penalty Handbook, provides guidance to all areas of the IRS for civil penalties imposed by the Internal Revenue Code (IRC). It sets forth general policy and procedural requirements for assessing and abating penalties, and it contains discussions on topics such as criteria for relief certain penalties. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1bf5813367e400920a681ee85c429138",
+    "text": ") The Director, Business Support, is the director responsible for the servicewide civil penalty program. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32bccd285f72365a4d17774904f37078",
+    "text": ") The Director, Internal Management, is the director responsible for the IDRS Command Code. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "7c3f3a95834c6acd4db31e18707b887b",
+    "text": ") Overall responsibility for civil penalty programs is assigned to OSP. OSP is matrix organization residing in the Business Support (Small Business/Self Employed) Function. OSP is charged with coordinating policy and procedures concerning the civil penalty program administration, ensuring consistency the penalty policy statement, reviewing and analyzing penalty information, searching penalty effectiveness on compliance trends, and determining appropriate action necessary to promote voluntary compliance. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "377bf29d19e649ce043f07862f44affd",
+    "text": ") Each and every taxpayer has a set of fundamental rights when dealing with IRS as provided in the Taxpayer Bill of Rights (TBOR). All employees handling penalty cases must do so in accordance with the TBOR as listed in IRC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a9eed9583ff65d80e3293d6ad2dada94",
+    "text": "(a)(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "10e92f66d9bf2ff832fa17989410f0ca",
+    "text": ") . The TBOR can also be found at Taxpayer Bill of Rights on irs.gov Code PIFTF",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3660315a9af3df255d8f19ab077e4797",
+    "text": "page",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "caca25cf22a2370150707a57c7a91a50",
+    "text": "(1) CC PIFTF is use to display Failure To File penalty explanation on a tax module residing on the Taxpayer Information File (ITIF and BTIF only).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "81841c97d863320b4edec363eb6667a5",
+    "text": "Purpose : This transmits revised IRM 2.3.43, IDRS Terminal Input, Command",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "676919ee0dc6d8776e6c0e389fe0b4e8",
+    "text": "Policy Owner : The Chief Information Officer (CIO) is responsible for oversee- ing all aspects of our systems that operate the nation’s tax infrastructure.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "fc30e9a784e2470f667b1d697bb77135",
+    "text": "Program Owner : Account Services, which is under the Director, Internal Man-",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c7d573e44a656c8a941cec8c42fb8b8b",
+    "text": "Command Code PIFTF was developed to provide taxpayers a failure to ﬁle penalty explanation imposed by the Internal Revenue Code (IRC).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "18a4dc993ae273f14daee7cc10a89152",
+    "text": "Commonly used acronyms used within this IRM",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9adbba1570e14783f1035e06cbb51f5c",
+    "text": "Acronyms Acronym Deﬁnition PIFTF Penalty and Interest Failure To File Explanation ITIF Individual Taxpayer Information File BTIF Business Taxpayer Information File",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1c684d6fc6c3a78eaa8d653747449724",
+    "text": ", Penalty Handbook, Introduction and Penalty Relief (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c843fd29744e8d29cbf22ed2cad430e4",
+    "text": "- IDRS Terminal Responses - Command Codes INTST, ICOMP, COMPA (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f3b0f9c3c72ed2112257119a7acfa04e",
+    "text": "- IDRS Terminal Responses - Command Code PICRD (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5e8a0c0b0cc55410d119b9fcf47df4f5",
+    "text": "- IDRS Terminal Response - Command Code PIEST (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "eea16cb91fa82cb66d222baee63fcade",
+    "text": "- IDRS Terminal Responses - Command Code PIVAR (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8fcf0bf0376cb50ec6b9edd97ad21780",
+    "text": ") Command Code PIFTF displays explanations of the computation of Failure File Penalty (TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "20c95c45dfb67367ffa0acb84df19b02",
+    "text": "s or TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9d89d10dfb29e95d380b270c05fd6051",
+    "text": "s PRN",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5e71ee4874ab7da560dd03b8d15fa0d5",
+    "text": "). The computation uses only mation accessed from the ITIF or BTIF tax modules. Subsequent tax after",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f3da094993299fb9612e496a86ea1726",
+    "text": "will be considered only. Command code PIFTF will only the computation of Failure to File (FTF) if master ﬁle has assessed the (TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c98caf7b9318cce58b257b6d42559b63",
+    "text": "or TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5c31b1c1eda5a9b7e7a6c015eabd0164",
+    "text": "PRN",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a1c36b6cd420bb339df7b8ab2656a04f",
+    "text": "). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6b3124712d0906994814598bb13878d1",
+    "text": ") For MFT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "377bec8e02c80365d743945da0f0a0d8",
+    "text": "(F",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e9fffeb9d6ca308a25f61b8bafadcb44",
+    "text": ") , Command Code PIFTF will display explanations of computation of Failure to File on the Correct Media Penalty (ELF). The penalty will be displayed for tax periods",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1fa59dc73e50f458e35f77c292fafd39",
+    "text": "and subsequent. The tation uses only information accessed from the BTIF tax modules. Command code PIFTF will only attempt computation if module contains a valid TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d5ef0f0e059ae5fdbee9ef56db7748a1",
+    "text": "TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "fa8473c8af52b3435c7dd2c7bd8938a3",
+    "text": "with Penalty Reference Code",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a6a3cf8bdf28341b8e2714a7b4004f77",
+    "text": ") Command code PIFTF’s computation is basically a recompute of master computation plus consideration of any qualiﬁed TIF pending transactions. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2501da95cc2dcdba358a685c24b24b8c",
+    "text": ") For a complete computation of FTF, the module must not contain any of the restrictive conditions speciﬁed in the list of messages in See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2234c0cc28294222569d1c112f48f490",
+    "text": ") The command code will allow the TIN, MFT, tax period and name control to passed from a preceding command code such as TXMOD and other PINEX command codes; thus eliminating the requirement to always input the data the screen. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "7e8c40a26ba71fa20dfb33cad22b90c8",
+    "text": ") The various screens associated with command code PIFTF can be seen in See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2a9ef7301f9becbeb5c384091a581f2b",
+    "text": "through See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "0131e4062a88f29f99fe4dd9be9386bd",
+    "text": ") Starting from",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a2f42e07f4c4b7328b940d4f3464f6e2",
+    "text": "and subsequence, CC PIFTF will display and calculate correctly if module contains a disaster due date.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "292b44b34754dc4b452d888f5927daae",
+    "text": ") Termina",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "c8625586c4480fc4c5b1a181694cc8a8",
+    "text": "esponses—CC PIFTF (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "12675489cb44007e38bc96f6c704fda8",
+    "text": ") NOTE: WHEN ANY ONE OF THE FOLLOWING MESSAGES IS DISPLAYED-THERE IS NO FURTHER PROCESSING.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "dd7cbd145afe324dcf005ef7150325af",
+    "text": "NOTE: WHEN ANY ONE OF THE FOLLOWING MESSAGES IS DISPLAYED-THERE IS NO FURTHER PROCESSING.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "97e0a40859a3c459e76456e3579eebd3",
+    "text": ") INVALID TIN — The requested TIN does not meet the standard validity criteria or is not ITIF or BTIF. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "333849768c3de227711c8d250d646f34",
+    "text": ") INVALID MFT — The requested MFT code does not meet the standard validity criteria. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "47f842c5b2d0d71f7b7f8ec1de41398e",
+    "text": ") MFT INVALID FOR CC PIFTF — MFT is not explained or displayed by the PINEX System. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "b7d66224ea9dc41ca3a166b60f6b599f",
+    "text": ") INCONSISTENT MFT/TIN — The MFT code input is incon- sistent with the type of account input. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "28bf5ede55000205418012d17b726877",
+    "text": ") INVALID TXPD — The tax period input does not meet the standard validity criteria. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "cf206abb2523eb0a0f94d16c6432b6a6",
+    "text": ") INCONSISTENT TXPD/MFT — The tax period input is in- consistent with the MFT input. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "c98ee176111b22bff9b044a0f77e24b8",
+    "text": ") TAX PERIOD",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "7010cfd0f16855a3349edf2fbca256c0",
+    "text": "AND PRIOR INVALID FOR CC PIFTF — Any tax period",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "a8800afabc0529f3d89437b91d83f301",
+    "text": "and earlier is invalid for CC PIFTF. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "9f826b50af146397c6d7ee3ee6a1beb5",
+    "text": ") ACCOUNT NOT ON TIF — The requested TIN does not match an account on File. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "94b0732e746951a306659ed537c8b154",
+    "text": ") REQUESTED TIN MATCHES DUMMY ACCOUNT ON TIF — The requested TIN matches a dummy account. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "9202cff2899d758b9254feba5355d949",
+    "text": ") REQUESTED TIN MATCHES MEMO ACCOUNT ON TIF — The requested TIN matches memo account. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8ee5a1dc329ecded3544ee77582e732c",
+    "text": ") TAX MODULE NOT ON TIF — The requested MFT and tax period does not have a matching module for that account. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8b1c4f04024be55fcdf5b5c030d8994c",
+    "text": ") REQUESTED TXPD MATCHES DUMMY MODULE ON TIF — The requested module is a dummy module. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "7185527fefe462a4f7a74edc1e29d836",
+    "text": ") REQUESTED TXPD MATCHES MEMO MODULE ON TIF — The requested module is a memo account. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d1c0560492b3de47c7639fb8a39da5be",
+    "text": ") UNABLE TO COMPUTE — NO POSTED RETURN ON TAX MODULE — There is no posted return associated with this speciﬁc module. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ee956b2075f7440e29279a84d7779435",
+    "text": ") UNABLE TO COMPUTE FTF — NO TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "0a726e7568cb2794d54ac3ac873a1819",
+    "text": "OR TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "5c31b1c1eda5a9b7e7a6c015eabd0164",
+    "text": "PRN",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "a5ee925d85daec5f833cb2b7c5c8b045",
+    "text": "ON MODULE — Master File has not assessed a delinquency penalty on this tax module. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "a00da0e3738fbda2d9888e4fb942eec9",
+    "text": ") UNABLE TO COMPUTE FTF — RESTRICTED TRANSAC- TION ON MODULE — There was a posted or pending transaction with a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "38596115fa6292b5ec3e278f4289002f",
+    "text": "or a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "4419cb72504178d87c85e0b998598b47",
+    "text": "on the module. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f21c6a78d2096487c72eeafcbb7611b9",
+    "text": ") UNABLE TO COMPUTE FTF — NET OF TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e285ae28300f8bb8e5414a7bb5550e5d",
+    "text": "Xs OR TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ece23a5adc4d0be574b3a6d51fab9a23",
+    "text": "Xs PRN",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "b8d9e07eb21746edbfede570ef3d462f",
+    "text": "IS ZERO — The transaction amount on all TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8ed52ecad840bdf2464c35427267f1da",
+    "text": "’s/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "c1cbfd3259f516b144dfc4d1e87768f5",
+    "text": "’s or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8ed52ecad840bdf2464c35427267f1da",
+    "text": "’s/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "79a70159971474639bdb02b2ff87567e",
+    "text": "’s PRN",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "05d646fd91d93891252cc580449971c4",
+    "text": "net to zero. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ceb5e1f7a5fde3d3640aebb2f8ec6a1a",
+    "text": ") NO DATE OF DEATH ON MODULE — The MFT is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "54dae88be63f3f123c7c733c1e46de4d",
+    "text": "and there is no date of death on the tax module. Bad data on the TIF, notify the Service Center Control Staff. Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "a9f51566bd6705f7ea6ad54bb9deb449",
+    "text": "E",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "60ffb283f7bc5d0d1f2090c3732f4480",
+    "text": ") UNABLE TO COMPUTE FTF — MONTHS DELINQUENT ON POSTED RETURNS IS ZERO — Self explanatory (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3484d9398377bfb3ae396eb0bb588555",
+    "text": ") UNABLE TO COMPUTE FTF — DUE TO RESTRICTED COMPUTATION ON FTP PENALTY — Self explanatory (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "ee9299cacafe70445250609126c37f6c",
+    "text": ") UNABLE TO COMPUTE FTF — LIABILITY IS ZERO OR LESS — Balance due amount is zero or less. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "c0479ca5accbfee720861a7985a0b175",
+    "text": ") UNABLE TO COMPUTE FTF — PENDING TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "04c9ac5b055d26829f6c5df3b886f8e5",
+    "text": "X OR",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d0a1aa290669275a2c3ee244779ee278",
+    "text": "X ON MODULE — There is a pending transaction with a TC of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "af6e00eeb3a861bdf5c7bb4085279c3b",
+    "text": "X or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "aeb3cd336d19a18b52f1458fda5cefda",
+    "text": "X on the module. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "5e16d4a494058493103d73a007abe73b",
+    "text": ") UNABLE TO COMPUTE FTF — INVALID FOR MFT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "0f06b9345c2d4a1d0a4ce5e0a2514f22",
+    "text": "TXPDS —",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "cadec12f7087c8bee300116fe477a76f",
+    "text": "Failure to ﬁle penalty is invalid for MFT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "774ed03facf54223e6e0fc03ebffbdb0",
+    "text": "with tax periods",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "16df1949f8280f3d66a103bd3ec355fc",
+    "text": "and subsequent. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "2384c23d3782cfb3833be79a66b01aaa",
+    "text": ") BMF ACCESS RESTRICTED — Employee is not autho- rized to access BMF accounts. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e8ae1c009053fdc873e3cae5cf5aa43b",
+    "text": ") IMF ACCESS RESTRICTED — Employee is not autho- rized to access IMF accounts. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b601090c80347878088cc17909956eb4",
+    "text": ") MAX PNLTY IS $XXX,XXX IF AVG RECEIPTS FOR PREV",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "2ff87fcee314abb25b0f55eda0fb4f7f",
+    "text": "YEARS <",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b43a92ece830d419700e496d76cf5a32",
+    "text": "— The partnership may qualify for a lower penalty of $XXX,XXX if the partnership had average gross receipts less than $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e0c78a2ddb5c2e7cf44ada18392b7713",
+    "text": "during the three years calendar years prior to year in which return is due. If they are then they may ask to have penalty reduced to the lower amount.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "33c1e29902d678cbcff13d561dbfd825",
+    "text": "This Page Intentionally Left Blank",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9b18a5f2976b9705aa0b10e1d9ef26a1",
+    "text": "Exhibit 2.3.43-1 (01-01-2003) Command Code PIFTF Input Request Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "68137aa7719db0e6b61cd3dd7a658a8f",
+    "text": "ElementNumber Line Pos. Element Name Format 1 1 1–5 COMMAND CODE-CD PIFTF 2 1 7–18 Edited TIN and File Source For BTIF: nnn-nn-nnnW nnn-nn-nnnnV nn-nnnnnnn For ITIF: nn-nn-nnnnn nn-nn-nnnn* 3 2 1–2 MFT nn 4 2 4–9 TAX-PRD yyyymm",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "559aead08264d5795d3909718cdd05ab",
+    "text": "A",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d5055db692f7d3dcb1363f68a2675f3f",
+    "text": "Exhibit 2.3.43-2 (01-01-2003) Command Code PIFTF Output Error Display",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "2044be16c1e4506b5124390b569a3ed2",
+    "text": "ElementNumber Line Pos. Element Name Format 1 1 1–5 COMMAND CODE-CD PIFTF 2 1 7–18 Edited TIN and File Source For BTIF: nnn-nn-nnnW nnn-nn-nnnnV nn-nnnnnnn For ITIF: nn-nn-nnnnn nn-nn-nnnn* 3 2 1–2 MFT nn 4 2 4–9 TAX-PRD yyyymm 5 24 1–80 Error Message",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "fb85d77348f930f03b1ee10569d78ee4",
+    "text": "NEEERE 2eLiT",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "15b76effc8cf5d3106869ff93e6e424b",
+    "text": "Note: Amount ﬁelds are depicted in the above screen graph and following element speciﬁcations with z’s and 9’s. This represents suppression of leading zeros.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "662056039d9ba50db0595b51ea88197d",
+    "text": "Exhibit 2.3.43-3 (Cont. 1) (01-01-2003) Command Code PIFTF Output Explanation Display for Non-MFT 06 Tax Modules",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "036180c96019643745a2991a19849404",
+    "text": "ElementNumber Line Pos. Element Name Format 1 1 1–7 Literal DELCOMP 2 1 11–18 MF-MATCH-LITERAL “MATCH” or “MISMATCH” 3 1 32–33 B.O.D. code vv 4 1 35–37 B.O.D. client code vvv 5 1 43–54 Edited TIN and File Source For BTIF: nnn-nn-nnnW nn-nnnnnnn For ITIF: nnn-nn-nnnnn nn-nn-nnnn* 6 1 57–58 MFT nn 7 1 60–65 TAX-PRD yyyymm 8 1 71–77 SCREEN-JULIAN-DT yyyyddd 9 2 1–9 Literal TOTAL TAX 10 2 12–28 sum of TC150-LIAB-AMT and TC29X-30X-LIAB-NET-AMT 11 2 35–47 Literal TOTAL CREDITS 12 2 50–64 Edited FLR-TO-FL-CREDITS-AMT zzz,zzz,zz9.99- 13 3 1–10 Literal RET DUE DT 14 3 13–20 FLR-TO-FL-LEGAL-DUE-DT mmddyyyy 15 3 23–30 Literal RET RCVD 16 3 33–40 RET-DT mmddyyyy 17 4* 1–20 Literal TAX UNPAID ON RETURN 18 4* 30–43 Edited TC150-BAL-DUE-AMT zzz,zzz,zz9.99 19 4* 46–57 Literal PENALTY RATE 20 4* 60–63 FLR-TO-FL-PNLTY-RATE .nnn, suppressing tailing zeros unless it’s all zeros 21 7 10–22 Literal TOTAL PENALTY 22 7 26–39 FLR-TO-FL-PNLTY-AMT zzz,zzz,zz9.99 23 5* 1–27 Literal TAX UNPAID ON ADJUST- MENT(S)",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3abff583fc50b07589c73822aeea5f17",
+    "text": "ElementNumber Line Pos. Element Name Format 24 5* 30–43 Edited TC29X-30X-BAL-DUE-AMT zzz,zzz,zz9.99 25 5* 46–57 Literal MONTHLY RATE 26 5* 60–63 Literal .05 27 5* 65–75 Literal MONTHS DELQ 28 5* 77 MONTHS DELQ n",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "d86076237685e49cdd597983006ed0ff",
+    "text": "Note: * If there was failure to ﬁle penalty charged on any additional assessments, the breakdown lines",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "c86220a779c93c68989d3564f7ac8926",
+    "text": "Note: * If there was failure to ﬁle penalty charged on any additional assessments, the breakdown lines will be on 2 lines (4 and 5). Line 4 contains the original return balance due amount and computed penalty rate. Line 5 contains the adjustment(s) balance due, ﬂat monthly rate of 5% and the number of months delinquent. If minimum delinquency penalty was determined, elements 23 and 24 or elements 27 through 30 are suppressed and the literal “MINIMUM DELINQUENCY PENALTY” is displayed on the screen.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "c60cd4136c4e8e970a3483232818fc08",
+    "text": "YO O R R VTR S",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "15b76effc8cf5d3106869ff93e6e424b",
+    "text": "Note: Amount ﬁelds are depicted in the above screen graph and following element speciﬁcations with z’s and 9’s. This represents suppression of leading zeros.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "8276eddf5fa68b0861bba113252dc614",
+    "text": "Note: For MFT ’06’ (F1065), the Failure to File on the Correct Media Penalty (ELF) will be displayed for Tax Periods 200012 and subsequent.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "ea4cba8d750926aa6fe32ebfda15d946",
+    "text": "Exhibit 2.3.43-4 (Cont. 1) (01-01-2021) Command Code PIFTF Output Explanation Display For MFT 06 Tax Modules ElementNumber Line Pos. Element Name Format 1 1 1–7 Literal DELCOMP 2 1 11–18 FTF-MF-MATCH-LITERAL “MATCH” or “MISMATCH” 3 1 31–32 B.O.D. code vv 4 1 34–36 B.O.D. client code vvv 5 1 47–58 Edited Tin and File Source For BTIF: nnn-nn-nnnW nnn-nn-nnnnV nn-nnnnnnn 6 1 61–62 MFT nn 7 1 64–69 TAX-PRD yyyymm 8 1 71–77 SCREEN-JULIAN-DT yyyyddd 9 2 1–10 Literal RET DUE DT 10 2 13–20 FLR-TO-FL-LEGAL-DUE-DT mmddyyyy 11 2 23–30 Literal RET RCVD 12 2 33–40 RET-DT mmddyyyy 13 4 5–16 Literal NUM PARTNERS 14 4 23–33 Literal MONTHS DELQ 15 4 58–68 Literal PENALTY AMT 16 5 9–14 NUM-PARTNERS-FOR COMPUTATION zzzzz9 17 5 19 Literal X 18 5 29 NUM-MONTHS-DELQ n 19 5 38 Literal X 20 5 44–46 Literal Depend on RET DUE DT, it can be one of these: $50,$85,$89, $90, $195, $200.. Or future various amount due to inﬂation adjustment of penalty rates. 21 5 50 Literal = 22 5 55 Literal $ 23 5 57–70 Edited FLR-TO-FL-PNLTY-AMT zzz,zzz,zz9.99",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "8bb1d51d1a611ac0b29cf3fea65e3cdd",
+    "text": "ElementNumber Line Pos. Element Name Format 24 11 * 1–80 ELF page break — dash line “— — — —” 25 12 * 1–7 Literal ELFCOMP 26 12 * 11–18 ELF-MF-MATCH-LITERAL “MATCH” or “MISMATCH” 27 12 * 31–32 B.O.D. code vv 28 12 * 34–36 B.O.D. client code vvv 29 12 * 47–56 Edited Tin and File Source For BTIF: nnn-nn-nnnW nnn-nn-nnnnV nn-nnnnnnn 30 12 * 61–62 MFT nn 31 12 * 64–69 TAX-PRD yyyymm 32 12 * 71–77 SCREEN-JULIAN-DT yyyyddd 33 13 * 1–46 Literal FAILURE TO FILE CORRECT MEDIA PENALTY) 34 15 * 5–16 Literal NUM PARTNERS 100) 35 15 * 58–68 Literal PENALTY AMT 36 16 * 9–14 NUM-PARTNERS-OVER-100 zzzzz9 37 16 * 38 Literal X 38 16 * 44–46 Literal See Note 1 ($50, $100 etc..) 39 16 * 50 Literal = 40 16 * 55 Literal $ 41 16 * 57–70 Edited ELF-PNLTY-AMT zzz,zzz,zz9.99 (see 2) 42 24 * # 1–80 FTF Non-Compute Message",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "da4f7ea58d963b1a302b76b8fa557019",
+    "text": "Notes:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "c8a8076a3f750bcc81b1a1b43254b12f",
+    "text": "(Elements 24 to 41, Lines 11-16) For ELF Penalty display only. These lines will be generated by CC PIFTF if ELF penalty has been assessed on the module.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "4c098ce74a9eaadbe9ccef2f0af238e2",
+    "text": "(Element 42, Line 24)- If FTF penalty not assessed on module, CC PIFTF will display the Failure to File (FTF) Non-Compute Message on line 24. See text 43.2 of this IRM.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "13f1f16291526eaf7733f75336042452",
+    "text": "If RDD <",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "0654f0bbe9ca102cdd60ba5b1ab64058",
+    "text": "then $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "0face7ce7af7c649383eb738119e8dc2",
+    "text": "If RDD >=",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "330b8a676266e72588be19bda332e94d",
+    "text": "and <",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "0654f0bbe9ca102cdd60ba5b1ab64058",
+    "text": "then $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "3fbf52cd91dafd71cf5802586b0c839d",
+    "text": "If RDD is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "2a54021870670822162b66818441cde6",
+    "text": "and beyond, the” Penalty per Partner over",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "30a9bc552d747a44b562dbdc4eddb98b",
+    "text": "” amount is adjusted for inﬂation and will be various. For a list of amount for various years, refer to Notice",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "d9f23ad6b5be35779f4bb64dae193eb1",
+    "text": "if RDD <",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "08727b1ac9cc1751835f51ca17b58286",
+    "text": "then upper limit is $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "0face7ce7af7c649383eb738119e8dc2",
+    "text": "If RDD >=",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "d67257e56b38142b661461a61fef8510",
+    "text": "& <",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "08727b1ac9cc1751835f51ca17b58286",
+    "text": "then upper limit is $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "3fbf52cd91dafd71cf5802586b0c839d",
+    "text": "If RDD is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "768e102c8ee274b1d28ec5aa9c639a00",
+    "text": "and beyond, the Upper and Lower limit max penalty amount is adjusted for inﬂation and will be various. For list of amount for various years, refer to Notice",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "e72bea23eafe3913ee46673b86b67f4c",
+    "text": "If ELF- PNLTY-AMT > Lower limit then display message ″ MAX PNLTY $Z,ZZZ,ZZZ IF AVG RECEIPTS FOR PREV",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "2ff87fcee314abb25b0f55eda0fb4f7f",
+    "text": "YEARS <",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "8bb7779529a8e6c639a5b733340defb4",
+    "text": "″ (Where $Z,ZZZ,ZZZ is the lower limit for that RDD year).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "13f1f16291526eaf7733f75336042452",
+    "text": "If RDD <",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "0654f0bbe9ca102cdd60ba5b1ab64058",
+    "text": "then $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "0face7ce7af7c649383eb738119e8dc2",
+    "text": "If RDD >=",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "330b8a676266e72588be19bda332e94d",
+    "text": "and <",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "0654f0bbe9ca102cdd60ba5b1ab64058",
+    "text": "then $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "3fbf52cd91dafd71cf5802586b0c839d",
+    "text": "If RDD is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "2a54021870670822162b66818441cde6",
+    "text": "and beyond, the” Penalty per Partner over",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "30a9bc552d747a44b562dbdc4eddb98b",
+    "text": "” amount is adjusted for inﬂation and will be various. For a list of amount for various years, refer to Notice",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-043--2023-01-20.pdf",
+      "page_number": 19
+    }
+  }
+]

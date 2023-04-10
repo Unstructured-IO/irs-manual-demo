@@ -1,0 +1,2423 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "09453e7e23ee606fe162dbc1d5ca23d0",
+    "text": "This transmits revised IRM 2.4.41, IDRS Terminal Input, Command Code UNLCE.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "50f41ee19b728795d2408f7e339fb542",
+    "text": "IRM 2.4.41, dated June 12, 2014, is superseded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "204503b112a8e67aaf10ac7c51521083",
+    "text": "with Deﬁner “C ” — Input Screen Format with an EIN as the Primary TIN with Deﬁner ’C’ — Input Screen Format with an SSN as the Primary with Deﬁner ’D’ — Input Display with an EIN as the Primary TIN with Deﬁner ’D’ — Input Display with a SSN as the Primary TIN with Deﬁner ‘V’ — Input Display with SSN as the Primary TIN",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "8ecdd2008bf4045a81cfd2d5c3953349",
+    "text": "UNLCE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ef51e648dfc814b76990088c13114222",
+    "text": "page (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e6bb3c5f96ab9d49223471955a471a92",
+    "text": ") This subsection outlines the procedures for using the command code (CC) UNLCE to access and update the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4d496601cc1b80ff60a2feaeabe17a86",
+    "text": "%-PENALTY-FILE. The FILE is a relational database that stores information about Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "46dfe7ff709d1c7d703eee5e9e902e2d",
+    "text": "(Request for",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "29781e562f8f50be081ba269dd2c6e5f",
+    "text": "% Penalty Assessment). The",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e7948fada603ec31ca3ac80b5e49fcd3",
+    "text": "%-PENALTY-FILE is not to be confused with the TIF (Taxpayer Information File). The information on the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5277f50bc176257a8f641d8ce6d3ec8f",
+    "text": "%-PENALTY-FILE will not be systematically updated by any information that is on the TIF. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a05c1168a76612d2517d16d647b59840",
+    "text": ") The CC UNLCE, along with one of ﬁve deﬁners, will allow an individual to research, establish, change and delete",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "835f21cd1b6c3e14cd79f1cd7f995524",
+    "text": "% penalty cross-reference tion on the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "295d85ed340943829abe1008e1980a13",
+    "text": "%-PENALTY-FILE using IDRS. The ﬁve deﬁners are space, “C”, “D”, and “V”. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5288a119d2d023c370cef98638da8d78",
+    "text": ") The",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a53646aba49edae77d42a20c5a5ab3a1",
+    "text": "%-PENALTY-FILE will contain cross-reference information concerning the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "16b46957b997ffb823ed12fafdcd8e9e",
+    "text": "% penalty assessments that have been made against corporations the responsible officers of those corporations. The",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e151fb41e1ff20592f7a5340a5656744",
+    "text": "%-PENALTY-FILE will initially be empty when the CC UNLCE goes into production. The",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4e602d73412cd64d50293e35ea2ce77b",
+    "text": "%- PENALTY-FILE will be built and modiﬁed with the use of the CC UNLCE with deﬁner of space, “C”, “D”, or “V”. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c9b591fb8426dabe8016bcb038735347",
+    "text": ") Only the research capability (CC UNLCE with deﬁner “R”) is allowed at a Universal Location Office site. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5288a119d2d023c370cef98638da8d78",
+    "text": ") The",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0bb18ed3aee086dd07a956d5679bee63",
+    "text": "%-PENALTY-FILE is systematically updated by a batch program similar to the CC UNLCE. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0b328c0bd34982aa27c8655abb11cbb7",
+    "text": ") A",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "75c613ec5b53341857d8e128ba81e9d0",
+    "text": "position history item is allowed as input on to the Officer and Records. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f89a44f6c77a15a410197a4b572a1a17",
+    "text": ") CC UNLCE with deﬁner “R” is used to research",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "240c96d41732046b468d66aff17c77ce",
+    "text": "% penalty information on the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "69a0c33cbe1549d9b37a83aadd98cfa3",
+    "text": "%-PENALTY-FILE utilizing IDRS. Information can be searched about a corporation or about any of the responsible officers of a corporation. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1c0be12234b0df63222adbf0f242891b",
+    "text": ") CC UNLCE with deﬁner space is used to establish a corporation or officer account on the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5d056c8353bcef8fc2386cd20f3c6cbb",
+    "text": "%-PENALTY-FILE. The ﬁrst step will be to enter the CC UNLCE, the deﬁner space and a corporation TIN (EIN) on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "85a5f64e095c628d91ffa64831f1c0fb",
+    "text": "In response, one of two screen formats will be displayed. The information that be input with each of these screen formats must be input on designated line numbers. See Exhibits",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6201111b83a0cb5b0922cb37cc442b9a",
+    "text": "and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "224adee487cc4e3690d99a866575df6c",
+    "text": "for the designated line (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "65dbc0e511fc0f558f0c77b655d1c8e4",
+    "text": ") CC UNLCE with deﬁner “C” is used to change information on or add informa- tion to the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6121b5f1e5582da789dc1e829ff73191",
+    "text": "%-PENALTY-FILE for a corporation or responsible officer account that is presently on the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "50b2f40b3f4f23d349aec06535319dc0",
+    "text": "%-PENALTY-FILE. The information that is being input must be entered on designated line numbers. See Exhibits",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6201111b83a0cb5b0922cb37cc442b9a",
+    "text": "and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ac2a2d883fd3bcc8455a304791bae154",
+    "text": "for the designated line numbers. The CC UNLCE deﬁner “R” is a prerequisite for using the CC UNLCE with deﬁner “C”. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "7d4c09b9821ba03586d96e9dd54c5333",
+    "text": ") CC UNLCE with deﬁner “D” is used to delete information from the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0fde256244d123aa810ecdf141154ed9",
+    "text": "%- PENALTY-FILE for a corporation or responsible officer. The information that is being deleted must be entered on designated lines. See Exhibits",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6201111b83a0cb5b0922cb37cc442b9a",
+    "text": "and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3a7e516a062b71109fb8ecd323c7accb",
+    "text": "for the designated line numbers. The CC UNLCE with deﬁner “R” is a prerequisite for using the CC UNLCE with deﬁner “D”.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a5d93f161d55bffa7ebca588ee1a7c85",
+    "text": "(01-01-2006) CC UNLCE with Deﬁners",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "136367a63ebc5c5b64a73d5185d1e453",
+    "text": "CC UNLCE with deﬁner “D” is used to delete information from the 100%- PENALTY-FILE for a corporation or responsible officer. The information that is being deleted must be entered on designated lines. See Exhibits 2.4.41–11 and 2.4.41–12 for the designated line numbers. The CC UNLCE with deﬁner “R” is a prerequisite for using the CC UNLCE with deﬁner “D”.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c1f253d1244bc567c7d78ce8d9cc14b7",
+    "text": "CC UNLCE with deﬁner “V” is used to change the validity of a responsible officer SSN without having to delete the invalid account and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "85a5810389139e5ba0548bc9e6e15a41",
+    "text": "input informa",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "19fbeb27dd693a04e1d839ad2455de9c",
+    "text": "tion for the valid account, or vice versa. All data associated with the original account",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f1ea7a8f32334676a033149663b14b9a",
+    "text": "including MFTs, Tax Periods, assessment amounts, history items, and Corporation links",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "05cae8bf40875fae6d51c96c13595675",
+    "text": "will be retained on the new account. The CC UNLCE with deﬁner “R” is a prerequisite for using the CC UNLCE with deﬁner “V”.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "521f4de20680acf3037a7b045afca75f",
+    "text": "officer SSN without having to delete the invalid account and re-input tion for the valid account, or vice versa. All data associated with the original account - including MFTs, Tax Periods, assessment amounts, history items, and Corporation links - will be retained on the new account. The CC with deﬁner “R” is a prerequisite for using the CC UNLCE with deﬁner “V”. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "07b8874c6e8e4bc8229d5ab3dba3f57c",
+    "text": ") INVALID DEFINER — The Deﬁner input was not space, “R”, “C”, “ D”, or (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c131184cd2d2306d66a3d8aabd49c8f2",
+    "text": ") TIN INVALID — TIN and FILE SOURCE input for responsible officer, or ration, did not meet standard validity criteria. Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "38db1bfceb95117b0007431708aad383",
+    "text": ") TIN MISMATCH WITH STORED DATA — TIN and FILE SOURCE did not match TIN and FILE SOURCE stored in the SIR from the previous input. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "483f1092db44c26a8320b794fb7f50f5",
+    "text": ") ULC INVALID — The ULC input does not meet standard validity criteria. Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6545a164cc5f3acb7495d9eeae28dbe6",
+    "text": ") ULCAO INVALID — ULCAO assignment code input does not meet validity criteria. Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3f40f957959cf3dd89a02c34f44ae3a0",
+    "text": ") COMMAND CODE INITIALIZATION INVALID — The prior entry was not the CC UNLCE with either deﬁner “R”, “C”, “D”, or “V”. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f697d9e4d45046d11323b0dfb336f052",
+    "text": ") CORPORATION NAME LINE INVALID — Name line exceeds",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d8741b2a57430db846c6e7847a6878ba",
+    "text": "characters begins with a blank. Note: Valid entries for a corporation name line are A–Z,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "72231b14d530264907fdcad0c826f60a",
+    "text": ", hyphen, and blank. Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "cd41ce08c2b332271796a203a553762f",
+    "text": ") RESPONSIBLE OFFICER NAME INVALID — Name line exceeds",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7120a82e6151644d9a42486c8967f816",
+    "text": "ters or does not begin with a letter of the alphabet. Note: Valid entries for a responsible officer name line are A–Z, hyphen and In addition, a right-handed bracket “ ]” must be entered between the ﬁrst last name of the responsible officer. Correct and re-enter.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "00eaef09bc128192e5da9e318c2a3a5c",
+    "text": "TIN INVALID — TIN and FILE SOURCE input for responsible officer, or corpo- ration, did not meet standard validity criteria. Correct and re-enter.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e855de2bb04c4a3b5016c1da2661961b",
+    "text": "TIN MISMATCH WITH STORED DATA — TIN and FILE SOURCE did not match TIN and FILE SOURCE stored in the SIR from the previous input.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d55313849e56bd03700be3759d6105b7",
+    "text": "Note: Valid entries for a corporation name line are A–Z, 0–9, hyphen, ampersand and blank. Correct and re-enter.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "cd41ce08c2b332271796a203a553762f",
+    "text": ") RESPONSIBLE OFFICER NAME INVALID — Name line exceeds",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "0c70f5e2b83fca1038055091b3cc3e1e",
+    "text": "charac- ters or does not begin with a letter of the alphabet. Note: Valid entries for a responsible officer name line are A–Z, hyphen and blank. In addition, a right-handed bracket “ ]” must be entered between the ﬁrst and last name of the responsible officer. Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "bb3c4929c8fed41e050b8b2a59d94e49",
+    "text": ") TAX MODULE NOT PRESENT ON ACCOUNT — Requested tax module is not present on the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ee30c61eabb63df83b33717d67654587",
+    "text": "%-PENALTY-FILE. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9cdc13bd04737c436ee2365d494d16c6",
+    "text": ") CORPORATE ACCT NOT ON PENALTY FILE — No information exists on the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9904b9b61448526ab6eceeb8dbe87b8c",
+    "text": "%-PENALTY-FILE under this corporation TIN (EIN). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7add4bd71460a87b7f64137d34c285e0",
+    "text": ") OFFICER ACCT NOT ON PENALTY FILE — No information exists on the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "733344aea0145c5c957442dac6fe11c7",
+    "text": "%-PENALTY-FILE under this responsible office TIN (SSN). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "030a8d0ae5f7a4d18829ca7286c0ce55",
+    "text": ") OFFICER ACCT ALREADY ON PENALTY FILE — A responsible officer record for this corporation has already been established on the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7ef9daa24930085ab49009507ea94f82",
+    "text": "%-PENALTY-FILE using this responsible officer TIN (SSN). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e41bbfd97966d5784e2ac836a9d89b45",
+    "text": ") NOT AN OFFICER OF THIS CORPORATION — A responsible officer account for this corporation has not been established on the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3a9136f88e6d12c2a4e2db2f3711feda",
+    "text": "%-PENALTY-FILE using this TIN (SSN).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ef7461a174051f7f00e5b528fbd749e8",
+    "text": "RESPONSIBLE OFFICER NAME INVALID — Name line exceeds 35 charac- ters or does not begin with a letter of the alphabet.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "325a39af29bc0f8ebe831f7f8b209d91",
+    "text": "Valid entries for a responsible officer name line are A–Z, hyphen and blank. In addition, a right-handed bracket “ ]” must be entered between the ﬁrst and last name of the responsible officer. Correct and re-enter.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8ecdd2008bf4045a81cfd2d5c3953349",
+    "text": "UNLCE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "7eca6b3d22910d36b6438cbecb61c231",
+    "text": ") ONLY ONE OFF. TAX MODULE ON FILE — The information for only one",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "050169ca247eac8d9f7e0aa004ba2650",
+    "text": "% penalty assessment against this responsible officer is present on the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "69425464aed5040102542e36bb4d38af",
+    "text": "%-PENALTY-FILE. Therefore, the request to delete that information is denied. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f30c195e2ba1099a3c9fcb5e6cc1cebe",
+    "text": ") ONLY ONE CORP. TAX MODULE ON FILE — The information for only one",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "05d6cdb497dd6a11cf0cd03def2ad73b",
+    "text": "% penalty assessment against this corporation is present on the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b83b853202b2087c0e5096331ce0fde2",
+    "text": "%- PENALTY-FILE. Therefore, the request to delete that information is denied. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "acdf27d78b5f53540bf920b4917a866c",
+    "text": ") ONLY ONE RESPONSIBLE OFF. ON FILE — The information for only one sponsible officer of this corporation is present on the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "69425464aed5040102542e36bb4d38af",
+    "text": "%-PENALTY-FILE. Therefore, the request to delete that information is denied. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "89647642b9e8a75d74f2afa28ceec419",
+    "text": ") MAX NUMBER OF ASSESSMENTS ON FILE — The information for a maximum of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "43647384e5034bf86980d167c97c0599",
+    "text": "% penalty assessments against a responsible officer of any given corporation can be stored on the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "e4065e35ed22ea09281ecaccb6f42bc1",
+    "text": "%-PENALTY-FILE. At present, information for",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "93c0f0684d14a660f870e1cbd7b45cf0",
+    "text": "assessments that have been made against this officer (of the given corporation) is stored on the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ee30c61eabb63df83b33717d67654587",
+    "text": "%-PENALTY-FILE. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "8715357e78b2558b33013c8d2905ff84",
+    "text": ") SCREEN INFORMATION INCOMPLETE — All the needed information was entered on the screen. Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2a805a66603a7245ef953edf0965dcca",
+    "text": ") DUPLICATE REQUEST — The MFT-CD and TAX-PRD for the same tax module has been entered more than once. Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "c2c9d788a16bd4e85fe8546f27c4f5e5",
+    "text": ") “ALL” CAN ONLY BE USED WITH AN EIN — The literal “ALL” is allowed as input with a corporation TIN (EIN). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "e1ecc776397c418f5aad5d69c42d4076",
+    "text": ") PLEASE CORRECT INVALID DATA ON SCREEN — The invalid element(s) will be asterisks. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a1d48d2fa50e64e8aa9eb07088b2dda0",
+    "text": ") INVALID ACCT ALREADY ON PENALTY FILE — The valid SSN that was with deﬁner “V” cannot be changed because the invalid SSN is already on the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ee30c61eabb63df83b33717d67654587",
+    "text": "%-PENALTY-FILE. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "6488365ea4e898512055ed2884005a66",
+    "text": ") VALID ACCT ALREADY ON PENALTY FILE — The invalid SSN that was with deﬁner “V” cannot be changed because the valid SSN is already on the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ee30c61eabb63df83b33717d67654587",
+    "text": "%-PENALTY-FILE. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b9d4cc2e2884eef0e31d2386e8ce5586",
+    "text": ") ACCOUNT CURRENTLY UNAVAILABLE — An attempt to access from the data base was unsuccessful. Try again later.* Note: * If this message repeatedly appears when attempting to access an the account must be reactivated by deleting it and reentering all data. As normal deletion method won’t work without ﬁrst researching the account, this situation ONLY do the following: enter UNLCED followed by the EIN SSN on the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "5e82935c84bde1b8a2764adfcf81a78f",
+    "text": "st line, and DELETE CORPORATION REC or DELETE OFFICER REC on the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ff08df790f73c17aeea02f1e9517f4d8",
+    "text": "nd line. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "65256a2e1223b592298eba9334948b38",
+    "text": ") AREA DOWN-TRY LATER — The",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ba2d8cd36e6a7a9f424489c68de792ce",
+    "text": "% PENALTY AREA is down. Try later. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "c215c7df158a30fe8ddaca7690d8dae0",
+    "text": ") AREA RESTRICTED — The",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b8ec9f406ed666cbc65d28b92f9bb8bd",
+    "text": "% PENALTY AREA is restricted. Try again",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "19a7ee9cde8fc196e72fa94299d4d177",
+    "text": "ACCOUNT CURRENTLY UNAVAILABLE — An attempt to access information from the data base was unsuccessful. Try again later.*",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "be3e8e9eeb10a9f22043b3644e5666da",
+    "text": "* If this message repeatedly appears when attempting to access an account, the account must be reactivated by deleting it and reentering all data. As the normal deletion method won’t work without ﬁrst researching the account, for this situation ONLY do the following: enter UNLCED followed by the EIN or SSN on the 1st line, and DELETE CORPORATION REC or DELETE",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3846e2aff1c3caea0301fa92bf550be2",
+    "text": "AREA DOWN-TRY LATER — The 100% PENALTY AREA is down. Try again",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "57bb6001217dba544962e1585f2a2ad8",
+    "text": "BETWEEN RUN UNITS — A rollback exception message.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "b44ee7b9ca8bf36a1c240668a8a835b7",
+    "text": ") LONG RECOVERY IN PROGRESS — A rollback exception message. Try again later. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "310443eb53ba442541b2b75064a36564",
+    "text": ") SHORT RECOVERY IN PROGRESS — A rollback exception message. Try again later.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "2d17f57681b3eb74b0b289f6540f0c2d",
+    "text": "2.4.41-1 (01-01-2002) UNLCE with Deﬁner Space or “ R” — Input Display with an EIN as the Primary TIN",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "89e843962aa87eeb523c318485e8ee20",
+    "text": "The following is the screen format to use when researching information or establishing a corporation or a re- sponsible officer account on the 100%-PENALTY-FILE. If a corporation account is not present on the 100%- PENALTY-FILE under the TIN (EIN) entered on line 1, the format screen described in Exhibit 2.4.41–6 will displayed. Information about the corporation and one of the responsible officers of that corporation can then entered. If a corporation account is present on the 100%-PENALTY-FILE under the TIN (EIN) entered on the format screen described in Exhibit 2.4.41–8 will be displayed. The information for one new responsible officer of this corporation can then be entered.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "29cb8779bde99471b8a4d4669b4f9cd1",
+    "text": "Input Display:",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a930e6c81d8f410061a093d062fa06b7",
+    "text": "el!| 1123456789301234567890123456789012345678901234567890123456789012345678901234567890 || | 1-9 | 11-19 | 21-22 | 31-39 | 41-42 | 51-59 | 61-62 | 71-80 |",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7e3c018c7eb788a3e7f7055cb5f79bd2",
+    "text": "Item Line Position Description and Validity 1 1 1–5 CC UNLCE 2 1 6 Deﬁner (“R” to research-space to establish) 3 1 7–17 Corporation TIN (Edited EIN) and FILE",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "5be3f96c1c06fd34713e1eae07ba7322",
+    "text": "Terminal Response:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4f90e9df8d6ff3ddb86de9c1b221093a",
+    "text": "Error Responses will be displayed on line 24 in inverse video. See messages in Section 41.3. Valid Response: If no errors are present for an entry, the information on line 1 will be redisplayed. The requested information will be displayed on lines 2 through 23.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a1bc720084d9f217953c03c61bd1fc0c",
+    "text": "The page information will be displayed on line 24 when the response consists of more than one page.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "0af6d55c03dd7ce0c88e6d261dff3b5d",
+    "text": "2.4.41-1 (Cont. 1) (01-01-2002) UNLCE with Deﬁner Space or “ R” — Input Display with an EIN as the Primary TIN",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "1431951f01017dd1f4c4223aba51e800",
+    "text": "When researching information on the 100%-PENALTY-FILE for a given corporation, the number of output screens will vary depending on the number of assessments and the number of responsible officers of that poration.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "04d9aa66075080734a2783481d50e799",
+    "text": "Exhibit 2.4.41-2 (07-01-2014) CC UNLCE with Deﬁner “R ” — Output Display with an EIN as the Primary TIN",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "c042a3fefe8bfd396a231ed788b18e9a",
+    "text": "Output Display (Valid):",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3cc75599c68b3a822c8daab7696516dc",
+    "text": "i-¢ | 11-1%8 | 21-29 | 31-39 | 41-49 | 51-59 | 61-69 | 71-7912345678901234567890123456789012345678901234567890123456789012345678901234567890PR N ISR@UNLCERNN-NRNNNANNTY ULCAO: nnnn  C/D CD: vettt sttt sttt v REV CD: n REV DT: nn/nn/nnnnNN_NNGANN DN, NN, DNN . 0onn_nnnnnn nn,nnn.nnnn_nNnnnnn  nn, nnn, nnn.nnnn nnnnnn T, NNn, nnn.nnNON-NN-NNNNY UCLAO: nnnnettt vNNn-nn-nnnnv UCLAO: nnnno e e o e vONN-Nn-nnNnY ULCAO: nnnno e e e e e e e e vINNNANNN ONNDRONNGNN NOANNRNNDNNNLNNANNNA RN AGALNNNDNNANNN R AN NANNNNAGRNARDNNONNNNNNNROD123456789012345678901234567890123456789012345678901234567890123456789012345678901-9 | 11-19 | 23-29 | 31-39 | 41-49 i 51-59 | 61-69 | 7i-79",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "ea3f5a030f725b7edc6b20ab86141441",
+    "text": "2.4.41-2 (Cont. 1) (07-01-2014) UNLCE with Deﬁner “R ” — Output Display with an EIN as the Primary",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "ce30fba8f0bd310bbf9dc0c57429aef2",
+    "text": "Item Line Position Description and 1 1 1–5 CC UNLCE 2 1 6 Deﬁner “R” 3 1 7–17 Corporation TIN (Edited ElN) and SOURCE 4 1 22–27 ULCAO Literal. 5 1 29–32 ULCAO assignment code 6 1 35–41 O-D Literal 7 1 43 Operating/Defunct Code 8 2 1–35 Corporation Name 9 2 45–52 REVIEW CODE Literal 10 2 53 REVIEW CODE 11 2 55–63 REVIEW DATE Literal 12 2 64–73 REVIEW DATE (MM/DD/YYYY) 13 3–n 1–2 MFT-CD (01, 03, 09, 11) 14 3–n 4–9 TAX-PRD (YYYYMM) 15 3–n 11–24 ASSESSMENT-AMT (right 16 4–n 1–12 Responsible Officer TIN (Edited FILE SOURCE 17 4–n 17–21 ULCAO literal 18 4–n 23–26 ULCAO assignment code nnnn 19 5–n 1–35 Responsible Officer Name 20 6–n 1–78 History Item 21 24 1–38 Page Information (if more than",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "728eb6029dd7af6919f774a4d0def075",
+    "text": "NOTES:",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "9e0de1a9254abc3ffc90981c73ac261d",
+    "text": "*1 The information from line 1 of page 1 is repeated on line 1 of all pages.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "b0a8ce17987e5b94f1a7b3203765e4dc",
+    "text": "*2 There may be from 1 to 99 penalty assessments against the corporation (line 3) which will be listed from line 3 on and can continue to, or through, the next page.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "041a7b63e640daa7ace4eaa22497b27a",
+    "text": "*3 Officer information (SSN, ULCAO, name-lines 4 and 5) will directly follow the penalty sessments, and will be repeated as often as there are responsible officers of the",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "157096d51a2869e0cd06b915ee2d3252",
+    "text": "*4 History information (ACTION-DT, ACTION-EMPLEE and ACTION) will be repeated as often as there are history items for the corporation.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "d2ffd4f6c48c0a2f7d84c88ccc42d512",
+    "text": "Exhibit 2.4.41-3 (01-01-2002) CC UNLCE with Deﬁner ’R’ — Input Display with an SSN as the Primary TIN",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "29769706c0d73e549b4019a54e3477b2",
+    "text": "The following is the screen format to use when researching information on the 100%-PENALTY-FILE concerning a given responsible officer:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "29cb8779bde99471b8a4d4669b4f9cd1",
+    "text": "Input Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "6065cf33c2e37744cc85547e737053d8",
+    "text": "| 1-9 | 11-19 | 21-29 | 31-39 | 41-49 | 51-5% | 61-69 | 71-80 |[12345678901253456789012345678901234567/589012545678901234567/5890125456789012345675890]|1 |UNLCERnnn-nn-nnnnv_| | 1 | 1 | ||122123]124] | | | | | | || 112545678901234567890125456789012345678901234567890123456789012345678901234567850| | | | | || | | | | | || | | | | | || | | | | | || | | | | | || | | | | | || | | | | | || | | | | | || | | | | | || | | | | | || | | | | | |113] | | | | | | || | | | | | || | | | | | || | | | | | || | | | | | || | | | | | || | | | | | || | | | | | || | | | | | || | | | | | || | | | | | || | 1-9 | 11-19 | 21=-29 | 21 -29 | A1-49 | 51 -50 | fl—-69 | 71 -80 |",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "7ea2197e86eac5ba8736270d045b9105",
+    "text": "! ! ! ! ! ! !| 112545678901234567890125456789012345678901234567890123456789012345678901234567850]| | 1-9 | 11-19 | 21-29 | 31-39 | 41-49 | 51-59 | 61-69 | 71-80 |",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "4f90e9df8d6ff3ddb86de9c1b221093a",
+    "text": "Error Responses will be displayed on line 24 in inverse video. See messages in Section 41.3. Valid Response: If no errors are present for an entry, the information on line 1 will be redisplayed. The requested information will be displayed on lines 2 through 23.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "a1bc720084d9f217953c03c61bd1fc0c",
+    "text": "The page information will be displayed on line 24 when the response consists of more than one page.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "5a6797e4f518f5d65efacf1e446a3070",
+    "text": "2.4.41-4 (07-01-2014) UNLCE with Deﬁner ’R’ — Output Display with an SSN as the Primary TIN",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "ac6bb695c3ec0eb2d501a3630982150b",
+    "text": "with Deﬁner ’R’ — Output Display with an SSN as the Primary TIN",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "bc16028663a2d9174bc258c8cd3504c3",
+    "text": "When researching information on the 100%-PENALTY-FILE for a responsible officer, the number of output screens will vary depending on (1) whether this individual is a responsible officer of more than one and (2) the number of tax periods a 100% penalty assessment has been made against this responsible officer.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "7c06e38e6ef289bd24c54cf38e34367f",
+    "text": "Output Display",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "22c9aa31db21dc595d7c683705fb5cd6",
+    "text": "| 1-9 | 1i1-19 | 21-2% | 3i-39 | 41-49 { 51-59 | 61-69 | 71-79112345678901234567890123456789012345678901234567890123456789012345678901234567890LJUNLCERnNn-nn-nnnnv DO: nnnn2v=m== --3inn-nonnnnnvB vSinn nnnnnn nnn, nnn,non.nn6inn nnnnnn nnn, nnn.nn7inn nnnnnn nn,nnn, nnn.nn8inn-nnnnnnnv DO: nn O-D CD: vet v10 inn-nnnnnnnv DO: nn O-D CD: v1linn nnnnnn 0, nnmn. nn12 inn nnnnon 0, BN N013{nnnnnnnn  nNnnonNnnnn - NNNRAGNNNNNNNANNNNNNNNNNONNANINANANNNNNNNNNANARANNNNNNNNN14415116117]18]19120121422123124112345678901234567890123456783012345678901234567890123456789012345678901234567890WA bW 3oyi 1-9 | 311-19 | 21-29% | 31-39 | 41-49 | 51-59 | 61-69 | 7T1-79",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "4653bac9c22ec09c5c2627823a5a6491",
+    "text": "Item Line Position Description and *1 1 1 1–5 CC UNLCE *1 2 1 6 CC-Deﬁner ’R’ *1 3 1 7–18 Responsible Officer TIN and File Source *1 4 1 23–27 ULCAO Literal *1 5 1 30–33 ULCAO assignment code 6 2 1–35 Responsible Officer Name 7 2 45–52 REVIEW CODE Literal 8 2 53 REVIEW CODE 9 2 55–63 REVIEW CODE Literal 10 2 64–73 REVIEW CODE *2 11 3 1–11 Corporation TIN (Edited EIN) Source *2 12 3 15–20 ULCAO literal *2 13 3 22–25 CORP-ULCAO assignment *2 14 3 29–35 O-D literal *2 15 1 37 Operating/Defunct Code *2 16 4 1–35 Corporation Name *2,3 17 5-n 1-2 MFT-CD *2, 3 18 5–n 4–9 TAX-PRD (YYYYMM) *2, 3 19 5–n 11–24 OFF-ASSESSMENT-AMT justiﬁed) 20 6–n 1–78 HISTORY ITEM 21 24 1–38 Page information (if more",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "91b147faf36967760a8ad75aad56f9e6",
+    "text": "Exhibit 2.4.41-4 (Cont. 2) (07-01-2014) CC UNLCE with Deﬁner ’R’ — Output Display with an SSN as the Primary TIN",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "728eb6029dd7af6919f774a4d0def075",
+    "text": "NOTES:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "7b0ba1b790485f46c5e73d4320747a76",
+    "text": "*1 The information from line 1 of page 1 is repeated on line 1 of all pages. The responsible officer name or a previously-mentioned corporation name will not be repeated at the top of the subsequent pages.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "106a094bfa105e9a076db5b0d99eea07",
+    "text": "*3 There may be from 1 to 99 penalty assessments against the responsible officer of a given corporation (see line 5) which will be listed from line 5 on and can continue to the",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "2adb2bd0d4e9491fa0b0a738f45eab59",
+    "text": "2.4.41-5 (01-01-2013) UNLCE with deﬁner space — Output Display Format 1 with an EIN as the primary TIN (Corporation previously established)",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "7c06e38e6ef289bd24c54cf38e34367f",
+    "text": "Output Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3e6892649e25f013f523c9eee370a844",
+    "text": "1-9 | 11-1% | 21-29 | 31-3% | 41-49 | 51-59 | 61-6% | 71-7912345678301234567890123456789012345678901234567880123456789012345678801234567890[ESI SR R NS IS U I SUNLCE nn-nnnnnnnv<NL<DO_FOR _CORPCRATION ACCT  <OPERATING/DEFUNCT CODEME TAXPRD 55555$5555585¢8HIST ITEM> <<S5N<NL<DOAD FOR RESPONSIBLE OFFICER ACCTMF_TAXPRD $S3$5855855385SHIST ITEM>CORP ACPTED OIC. XREF TC538 NOT NECESSARY. <123456789012345678901234567890123456789012345678%01234567890123456783012345678901-9 | 11-1%  21-29 | 31-39 | 41-49 | 51-59 | 6l-6% | T1-79Wl Oy s NItem Line Position Description and Validity",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "b97eb2080f6d945cb4d45211d0ef2cb9",
+    "text": "Exhibit 2.4.41-6 (01-01-2013) CC UNLCE with Deﬁner Space",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "033b408319ab64c53fd413eac27ada0b",
+    "text": "This format screen is generated when there is no information on the 100%-PENALTY-FILE under the TIN (EIN) entered on line 1. It is used to establish an account for a corporation, and an account for one of the responsible officers of that corporation, on the 100%-PENALTY-FILE.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "bf0900dcf50f7c0937baf8e6850b74b3",
+    "text": "-9 4§ 11-19 | 21-29 | 31-39 | 41-49 | 51-39 | 61-69 | 71-79123456789012345678901234567890123456789012345678901234567890123456789012345678901—DO U W N--= e=W De;o=© @NN[23]=UNLCE nn-nnhnnnnv———v<NLnn<DC_FOR CORPORATION ACCT v<OPERATING/DEFUNCT CODEnn _nnnnnn nnn, nnn,nnLI NNNNODN Bnn, DD, 0N, nnnn nnnnnn nnn,nnHIST ITEM»>1 SPLIT,TP ASSED/CRRA GRAPHIC CORFP 2 TC 240 618 IN 198412 <NNI-nn-nnnnv<ssynnnn<DOAQC FOR RESPONSIBLE OFFICER ACCTnn _nnnnnn nn, nnn.nnnn NNnnnn nnn, Hnn, Dnn.nnnn nnonan nn,inn,nnn.nnHIST ITEM>1 SPLIT,TP ASSED/CREA GRAPHIC CORP 2 TC 240 618 IN 198412 <123456789012345678901234567890123456789012345678901234567890123456789012345678901WO @ O N1-9 f 11-19 | 21-2% | 31-39 | 41-4% | 51-5% | 61-6% | 71-79",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "5471f6b4f37ecbec32b0b591b3f8a505",
+    "text": "2.4.41-6 (Cont. 1) (01-01-2013) UNLCE with Deﬁner Space",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "52603a965c65a26d1e72228830bfa425",
+    "text": "2.4.41-6 (Cont. 1) (01-01-2013) UNLCE with Deﬁner Space Item Line Position Description and Validity 1 11–5 CC UNLCE 2 1 6 CC-DEFINER space 3 17–17 Corporation TIN (Edited EIN) and FILE 4 2 1–35 Corporation Name 5 2 36–38 Name Line literal 6 3 1–4 CORP-ULCAO 7 3 5–31 ULCAO literal 8 3 34 Operating/Defunct Code 9 3 35–57 O-D Literal 10 4–11 1–2 *2 MFT-CD (01, 03, 09 ,11,12,14,16 or 17) 11 4–11 4–9 *2 TAX-PRD (YYYYMM) 12 4–11 11–24 *2 ASSESSMENT-AMT (left justiﬁed) 13 12 1–10 Corporation history item literal 14 12 11–68 Corporation history 15 13 1–12 Responsible Officer TIN (Edited SSN) and File Source 16 13 13–16 SSN literal 17 14 1–35 *3 Responsible Officer Name 18 14 36–38 Name Line literal 19 15 1–4 ULCAO assignment code 20 15 5–39 ULCAO literal 21 16-21 1-2 *2 MFT-CD (01, 03, 09, 11, 12, 14, 16, or 17) 22 16–21 4–9 *2 TAX-PRD (YYYYMM) 23 16–21 11–24 *OFFICER-ASSESSMENT 24 22 1–10 officer history literal 25 22 12–73 Officer history item",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "f9c47ebcd47f8d4fb48fc836669a272e",
+    "text": "Exhibit 2.4.41-6 (Cont. 1) (01-01-2013) CC UNLCE with Deﬁner Space",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "e23c49216b032877fb38cf4712ba6a26",
+    "text": "Exhibit 2.4.41-6 (Cont. 2) (01-01-2013) CC UNLCE with Deﬁner Space",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "9aa885f12bc8859484976390b7d183af",
+    "text": "*1 The information for up to eight 100% penalty assessments against the corporation can be entered on lines 4 through 11. (At least one must be entered).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "891bac5ec43718f35d809513d6b9347f",
+    "text": "*2 Overlay the literals on lines 4 and 15 with the pertinent information. The range for as- sessment amounts is .01–999,999,999.99",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "5b68eb64905fd9327bd538605a22b6e3",
+    "text": "*3 A right-handed bracket ’]’ must be entered between the responsible officer’s ﬁrst and last name. Example JOHN]SMITH.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "c25a293b7518523e14d6bdd3d733d90c",
+    "text": "*4 The information for up to nine 100% penalty assessments against the officer can be entered on lines 15 through 23. (At least one must be entered).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "5be3f96c1c06fd34713e1eae07ba7322",
+    "text": "Terminal Response:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "9d91b761c4e3297b815a86fb15c24619",
+    "text": "a. Error Responses will be displayed on line 24 in inverse video. See messages in Section 41.3. All invalid elements will be asterisked. b. Valid Responses: “REQUEST COMPLETED ” displayed on line 24.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "6978182b158b9e506cdff6a5c20bacda",
+    "text": "CC UNLCE with deﬁner space — Output Display Format 2 with an EIN as the primary TIN (Corporation previously established)",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "7c06e38e6ef289bd24c54cf38e34367f",
+    "text": "Output Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "f31ef273327543f051bf0dd70c26be8f",
+    "text": "Item Line Position Description and Validity 1 1 1–5 CC UNLCE 2 1 6 CC-DEFINER space 3 1 7–17 Corporation TIN (Edited EIN) and FILE SOURCE 4 1 23–28 ULCAO literal (Generated) 5 1 30–33 CORP-ULCAO assignment code (Generated) 6 1 37–43 O-D Literal 7 1 45 Operating/Defunct Code",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "8e20f109eae84392dd22f520f9351c36",
+    "text": "o EE112345678901234567890123456789012345678901234567890123456789012345678301234567890| 1-9 § 11-1% | 2i-29 | 31-39 | 41-49 | 51-59 | 61-68 | 71-79",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "2b7a8c95b040d03c50cb8b48e711feb6",
+    "text": "Exhibit 2.4.41-8 (01-01-2013) CC UNLCE with Deﬁner Space",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "ae39f76aa781c39bd20a147a780be68c",
+    "text": "This format screen is used to establish an account for each additional responsible officer of this corporation on the 100%-PENALTY-FILE.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "29cb8779bde99471b8a4d4669b4f9cd1",
+    "text": "Input Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "e34ab7898334ee32c0dca6e67548358c",
+    "text": "1-9 | 311-19 | 21-29% | 31-39 41-49 | 51-59 | 61-68 | 71-79123456785801234567890123456785012345678801234567890123456788012345678901234567890eW R OO 00 Oy U1 Rke~ oy ;1[S o @NONR R=GN eUNLCE nn-nnnnnnny DO: nn 0/D CD: vYo—m——————————————————————————————— vnRN-nn-nonnv<SSNA Attt V<NLnnnnnn<bDOAC FOR RESPONSIBLE OFFICER ACCTnn nnnnnn o ann,nnn, nnn.nnNN NNNNNN nn, Ann.nnHIST ITEM>12345678901234567890123456789012345678901234567890123456789012345678901234567890OO 00 oy U1 No1-9 | 11-19 | 21-29 | 31-39 41-49 | 51-59 | 61-69 | 7i-79",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "c15f08c02afbdce3fa5a453a8e8d0b27",
+    "text": "Exhibit 2.4.41-8 (Cont. 1) CC UNLCE with Deﬁner Space",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "c15f08c02afbdce3fa5a453a8e8d0b27",
+    "text": "Exhibit 2.4.41-8 (Cont. 1) CC UNLCE with Deﬁner Space",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "28c17bf5c1dd0fedc4090687fb8deeba",
+    "text": "2.4.41-8 (Cont. 1) (01-01-2013) with Deﬁner Space Item Line Position Description and Validity 1 1 1–5 CC UNLCE 2 1 6 CC-DEFINER space 3 1 7–17 Corporation TIN (Edited EIN) and FILE 4 1 23–28 ULCAO literal (Generated) 5 1 30–33 CORP-ULCAO assignment code (Generated) 6 1 39–45 O-D Literal 7 1 47 Operating/Defunct Code 8 2 1–35 Corporation Name (Generated) 9 3 1–12 Responsible Officer TIN (Edited SSN) and FILE SOURCE 10 3 13–16 SSN literal 11 4 1–35 *1 Responsible Officer Name 12 4 36–38 Name Line literal 13 5 1–4 ULCAO assignment code 14 5 5–38 ULCAO literal 15 6-23 1-2 *3 MFT-CD (01, 03, 09, 11, 12, 14, 16, or 17) 16 6–23 4–9 *3 TAX-PRD (YYYYMM) 17 6–23 11–24 *3 OFFICER-ASSESSMENT 18 7 12–73 HISTORY ITEM",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "728eb6029dd7af6919f774a4d0def075",
+    "text": "NOTES:",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "cf4b761e935b2edd2b8c40233f36c732",
+    "text": "*1 A right-handed bracket “]” must be entered between the responsible officer’s ﬁrst and last name. Example JOHN]SMITH.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "43b79df77a7e8517c9988d6e9b0432bd",
+    "text": "*2 The information for up to eighteen 100% penalty assessments against the officer can be entered on lines 6 through 23. (At least one must be entered).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "bff5774c431675a4e555ac17c9387dab",
+    "text": "*3 Overlay the literals on lines 6 with the pertinent information. The range for assessment amounts is .01–999,999,999.99.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "5be3f96c1c06fd34713e1eae07ba7322",
+    "text": "Terminal Response:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "fe63c4925de985f2d259237db6ec09d7",
+    "text": "Exhibit 2.4.41-9 (07-01-2014) CC UNLCE with Deﬁner “C ” — Input Screen Format with an EIN as the Primary TIN",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "3a391d76c073f2819d8255207dec0eb3",
+    "text": "with Deﬁner “C ” — Input Screen Format with an EIN as the Primary TIN",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "758e626b49c15d68545c0cbff1b652de",
+    "text": "The following is the Screen format to use when changing (1) the name line of a corporation (2) the ULCAO as- signment code, or (3) the amount of the 100% penalties assessed against this corporation. The following screen format can also be used to add the MFT code, tax period and assessment amount for assessments that have been made against this corporation to the 100%-PENALTY-FILE.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "cba61ea1ecae1a9f391b2000254107cb",
+    "text": "The CC UNLCE, deﬁner ’C’ and a corporation TIN (EIN) must be entered on line 1. Additional information will be entered on lines 2 through 23 when that information is being changed or added to the All information being entered must be entered on a designated line number. See the record element description below for the designated line numbers.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "825be6cb6267831a8da2679cb12aa4e5",
+    "text": "1 1-9 | 11-19 | 21-29 | 31-39 | 41-49 | 51-59 | 61-69 | 71-80 || 112345678901234567890123456789012345678201234567890123456789012345678901234567830]|1 [UNLCEChn-nnnnnnnv__ | DO: nn | O/D CD: v | 1 |2 v | | | ||3 [Start in position 1, enter hist item for 56 characters <|4 Ton_nnnnnn_nn, nnn.nn| | 1 ]|5 Tnn_nnnnnn_nnn.nnn, nnn.nn|& |nn nnnnnn nnn.nn ||7 Inn nnnnnn nn.nn18 1 |191 |110] |111 |112 |113] |[14] |115] |116] ||||||||[17]118][19]120]121]122]123]124] | | | | | | || 112345678901234567890123456789012345678901234567890123456783%01234567890123456878%90|",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "aa9ea9619010ce37f11781c6b1213837",
+    "text": "e ! ! ! ! ! ! ! !112545678901234567890125456789012345678901234567890123456789012345678901234567850]| 1-9 | 11-19 | 21-29 | 31-39 | 41-49 | 51-59 | 6l-69 | 71-80 I",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "eaaec2fd5a39157e2f26f3bc313728ab",
+    "text": "Item Line Position Description and 1 1 1–5 CC UNLCE 2 1 6 CC-DEFINER ’C’ 3 1 7–17 Corporation TIN (Edited EIN) and 4 1 23–28 ULCAO literal 5 1 30–33 CORP-ULCAO assignment code 6 1 38–44 O-D Literal 7 1 46 Defunct Code 8 2 1–35 Corporation Name 9 2 45–52 Review Code Literal 10 2 53 REVIEW CODE — 0, 1, 2, or 3. If 0, cant. If 1, reviewed. If 2, reviewed 3, reviewed, but not moved. 11 3 1–56 HISTORY ITEM 12 4–21 1–2 MFT-CD (01, 03, 09, 11, 12, 14, 16, 13 4–21 4–9 TAXPRD (YYYYMM) 14 4–21 11–24 *ASSESSMENT-AMT (left justiﬁed)",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "3137200d1bee37fae1f5475068f9bee9",
+    "text": "*ASSESSMENT-AMT (left justiﬁed)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "421312fffb9a7404a571ac68c92f950b",
+    "text": "NOTE: A change screen (deﬁner ’C’) must be preceded by a research screen (’R’).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "2b4ee05284e51625340f3c0a21d96ce8",
+    "text": "Exhibit 2.4.41-10 (01-01-2013) CC UNLCE with Deﬁner ’C’ — Input Screen Format with an SSN as the Primary TIN",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "0f5cf0e516f1bc83e550e678253a625c",
+    "text": "with Deﬁner ’C’ — Input Screen Format with an SSN as the Primary TIN",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "66ca0e03613955a73d64830f6304fcd9",
+    "text": "The following is the screen format to use when changing (1) the name line of a responsible officer, (2) the ULCAO assignment code, (3) the amount of 100% penalties assessed against a responsible officer of a given corporation. The following screen format can also be used to add the MFT code, tax period and assessment amount for assessments against a responsible officer of a given corporation.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "ee529a5e6b3599c2a32a4fb57cec8b7e",
+    "text": "The CC UNLCE, deﬁner ’C’ and a responsible officer TIN (SSN) must be entered on line 1. A corporation TIN (EIN) does not need to be entered on line 3 if the information for only the responsible officer name line or assignment code is being changed. Otherwise, a corporation TIN (EIN) must be entered on line 3 positions 1 through 11. Additional information will be entered on lines 2 through 23 when that information is being changed or added to the 100%-PENALTY-FILE. All information being entered must be entered on a designated line number. See the record element description below for the designated line numbers.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "29cb8779bde99471b8a4d4669b4f9cd1",
+    "text": "Input Display:",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "a55fe4c1113002b849fb8f43b566b94a",
+    "text": "- { 11-19 | 21-29 | 31-39 | 41-49 | 51-59 | 61-69 | 7i-791234567850123456789012345678901234567890123456789012345678901234567858012345673920|{UNLCECHnn-nn-nnnnv DOAG: nnnnV- - - -Vnn-nnnnnnnvstarting in position 1, enter hist for 56 characters <nn nnnnnnon, nnn, nnn.nnnn Nnnnnn nnn.nn12345{nn nnnnnn nnr, nnn, nnn.nn6589123456789012345678901234567890123456789012345678901234567830123456789012345678901-9 1 11-19 | 21-29 | 31-39 } 41-49 | 51-59 | 61-69 | 71-79B0 s Gy O e W N PSRSRLN[SECIC RN T[N[NN- w0",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "c2e44e05296a050e1cde1b6cd969de68",
+    "text": "Item Line Position 1 1 1–5 2 1 6 3 1 7–18 4 1 23–28 5 1 30–33 6 2 1–35 7 2 45–52 8 2 53 9 3 1–11 10 4 1–56 11 5-21 1-2 12 5–21 4–9 13 5–21 11–24",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "c3219066458172183ba3cfea8faea2fe",
+    "text": "CC UNLCE CC-DEFINER ’C’ Responsible Officer TIN (Edited SSN) and FILE SOURCE ULCAO Literal ULCAO assignment code Officer Name Review Code Literal REVIEW CODE –",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "3d30020b1863441a64e786bdc72745e9",
+    "text": ", or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "1e3abf61a37e3cad36b11b459b1cc39e",
+    "text": "If",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "2902b5562cf542cf6727df66fc6ac100",
+    "text": ", not signiﬁ- cant. If",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "61def7b715e79019019e13d0d033a901",
+    "text": ", reviewed. If",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "12ad636617567d31689219abd8bab792",
+    "text": ", reviewed and moved. If",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "231458342b1e4d7ff50405787908dd2e",
+    "text": ", reviewed, but not moved. Corporation TIN (Edited EIN) and FILE HISTORY ITEM MFT-CD (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "3d30020b1863441a64e786bdc72745e9",
+    "text": ", or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "bc37f6eda73052ea2e00a9e2f8f72897",
+    "text": ") TAX-PRD (YYYYMM) OFF-ASSESMENT-AMT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "30afec0a55cd4f031be9848f0da29f24",
+    "text": "Terminal Response: See messages in Section 41.3.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "421312fffb9a7404a571ac68c92f950b",
+    "text": "NOTE: A change screen (deﬁner ’C’) must be preceded by a research screen (’R’).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "67ee98dbe310546c83c691f9d29b711c",
+    "text": "*Enter the OFF-ASSESSMENT-AMT with commas, decimal point, and cents included beginning in position 9. Range is .01 to 999,999,999.99.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "2f163c0c670e01823de4adfd54d80e51",
+    "text": "Exhibit 2.4.41-11 (01-01-2000) CC UNLCE with Deﬁner ’D’ — Input Display with an EIN as the Primary TIN",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "326edc1fd53c26f7db0d91eac289f125",
+    "text": "Deletion options are:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "758223de2dfd89e2412d3906ecb03334",
+    "text": "“ALL” is used to delete all of the information for a given corporation and the responsible officer(s) of that corporation. MFT and tax period are used to delete from",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "663ea1bfffe5038f3f0cf667f14c4257",
+    "text": "to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "675ada32cada009265fb7a6c32e1ae20",
+    "text": "% penalties assessed against a corporation. Officer TIN is used to delete from",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "663ea1bfffe5038f3f0cf667f14c4257",
+    "text": "to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "f943ec95a163512829f6a728fc5c6122",
+    "text": "responsible officers of the corporation. Only one type of these examples may be used at a time.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "b986fc38e689c0ddd56bc3a67d818dfd",
+    "text": "MFT and tax period are used to delete from 1 to 22 100% penalties assessed against a corporation. Officer TIN is used to delete from 1 to 22 responsible officers of the corporation. Only one type of these examples may be used at a time.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "3d12c16d5457905b2df50f8bb374455b",
+    "text": "1-9 | 11-19 | 21-29 | 31-39 | 41-4% | 51-59 | 61-695 | 171-80 || 1123456789301234567890123456789012345678901234567890123456789012345678901234567830]|1 |UNLCEDnn-nnnnnnnv | | | | | | ||2 ]ALL |131 |14 | ||5 |nn nnnnnn||6 |nn_nnnnnn||7 Inn nnnnnn|18 | |19 1 ||10 nnn=nn-nnnn|11 nnn—nn-nnnn|12 nnn-nn-nnnn113] |[14]115][16]1171118[13]120]121122123]124 | | | | | | |1 112345678901234567890123456789012345675901234567890123456739012345678901234567890]",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "1e5fa2d7c563a0b14609cc32be56fabc",
+    "text": "!112345678901234567890123456789012345678901234567890123456789012345678901234567830]| 1-9 | 11-19 | 21-29 | 31-39 | 41-49 | 51-59 | 61-69 | 71-80 |",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "a9214f081a937828c6c2c8c17d9dd670",
+    "text": "Responsible Officer TIN (Edited SSN) and FILE SOURCE: example lines 11–13",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "f4ca355646a39d7afbd16b186b2a777b",
+    "text": "Exhibit 2.4.41-11 (Cont. 1) (01-01-2000) CC UNLCE with Deﬁner ’D’ — Input Display with an EIN as the Primary TIN",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "5be3f96c1c06fd34713e1eae07ba7322",
+    "text": "Terminal Response:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "28a2aa75a4dbe6a1f33c3900ce18f81c",
+    "text": "a. Error Responses will be displayed on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "cf0adf61d565c548eb0a00d4da1196b1",
+    "text": "in inverse video. See messages in Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "ee7ae7a5664da62084b4700ce708697f",
+    "text": "All invalid elements will be asterisked. b. Valid Response: ’REQUEST COMPLETED’ will be displayed on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "3299dd2528768660dfd8320eb590f1b1",
+    "text": "and lines",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "9c6725dc269a48ce4b5bc78b580ccab2",
+    "text": "through",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "f50bd067b48c018e999d0014e1b36a83",
+    "text": "will be redisplayed if no errors are present for an entry. Note: A delete screen (deﬁner ’D’) must be preceded by a research screen (’R’).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "8f5a341fbd97f887b6a3df483b346cd4",
+    "text": "2.4.41-12 (01-01-2013) UNLCE with Deﬁner ’D’ — Input Display with a SSN as the Primary TIN",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "464fac8ebc5533befad1b06cda829015",
+    "text": "with Deﬁner ’D’ — Input Display with a SSN as the Primary TIN",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "b9f8b7f1f3bafedac6c5d800e8b3618e",
+    "text": "The following screen format is used when the information for one or more of the 100% Penalties assessed against a responsible officer of a given corporation is being deleted from the 100%-PENALTY-FILE.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "2301551c2a3ffea25fd002e88ff714aa",
+    "text": "The CC UNLCE, deﬁner ’D’ and a responsible officer TIN (SSN) must be entered on line 1, and a corporation TIN (EIN) must be entered on line 2, when using this screen format.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "b42d21a70afa0f4a8e011cd408f0343b",
+    "text": "Information will be entered on lines 3 through 23 when penalties assessed against a responsible officer are being deleted from the 100%-PENALTY-FILE.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "39ad59da12778048f6772db3222bbfec",
+    "text": "Exhibit 2.4.41-12 (Cont. 1) (01-01-2013) CC UNLCE with Deﬁner ’D’ — Input Display with a SSN as the Primary TIN",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "c871e261e3318c12f17b371e8fda0305",
+    "text": "Terminal Response",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "fd93f3741211aea1bc0fdbc8aa6501a7",
+    "text": "NOTE: A delete screen (deﬁner ’D’) must be preceded by a research screen",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "094cc620f56bc23ce943b3078c1689e2",
+    "text": "2.4.41-13 (06-12-2017) UNLCE with Deﬁner ‘V’ — Input Display with SSN as the Primary TIN",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "ae95a79f0dfa3d281a37026a9bd1509e",
+    "text": "The following screen is used when an invalid SSN is being changed to a valid SSN, or vice versa.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "64af205d8fe232f3490ee3c534a382ba",
+    "text": "When using this screen the CC UNLCE, deﬁner ‘V’, and a responsible officer TIN (SSN) must be entered on line 1; a history item must be entered on line 3.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "df27db0d74827d0e843cc998f19aca87",
+    "text": "1-9 | 11-19 | 21-29 | 31-39 | 41-49 i 51-59 | 61-68 | 71-7%12345678901234567890123456789012345678901234567890123456789012345678901234567890UNLCEVnnn-nn-nnnnvstarting in position 1, enter hist for 56 characters <@ ~1 OV UT d W N©e eSIS S I Y[ Ty[SIRVINC RN~iyD83[=W123456789012345678901234567890123456789012345678901234567890123456789012345678300 -1 oV U1 W Ni-9 | 11-19 | 21-29 | 31-39 | 41-49 | 51-59 | e1-69 | 71-79",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "001f468483994922c82742cdb2a70d31",
+    "text": "2.4.41-13 (Cont. 1) (06-12-2017) UNLCE with Deﬁner ‘V’ — Input Display with SSN as the Primary TIN",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "c871e261e3318c12f17b371e8fda0305",
+    "text": "Terminal Response",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "e36723cdb9036825e77bdfdc5f7e821d",
+    "text": "Error Responses will be displayed on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "cf0adf61d565c548eb0a00d4da1196b1",
+    "text": "in inverse video. See messages in Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "6e6ea33cd8b79377c2c0711b5837768c",
+    "text": "All invalid elements will be asterisked. Valid Responses: ’REQUEST COMPLETED’ displayed on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "6d95b8dcc2a421ce07d40638707bc1c0",
+    "text": ", lines",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "9c6725dc269a48ce4b5bc78b580ccab2",
+    "text": "through",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "005a047c984adc71c9de31e6ad1da323",
+    "text": "will be redis- played, and the changed Responsible Officer TIN (Edited SSN) and FILE SOURCE will be displayed if no errors are present for an entry.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "eea5e96b75ce28762cbe0cfc5777f1d8",
+    "text": "a. Error Responses will be displayed on line 24 in inverse video. See messages in Section 41.3. All invalid elements will be asterisked. b. Valid Responses: ’REQUEST COMPLETED’ displayed on line 24, lines 1 through 3 will be redis- played, and the changed Responsible Officer TIN (Edited SSN) and FILE SOURCE will be displayed if no errors are present for an entry.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-041--2017-06-01.pdf",
+      "page_number": 33
+    }
+  }
+]

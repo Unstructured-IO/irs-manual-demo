@@ -1,0 +1,947 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "48d8ff19f5029db7d30ec58a24f216bd",
+    "text": "This IRM has been revised to comply with the updated",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "f4577f58b82878116abf2e8cacd98814",
+    "text": "IRM 2.4.23, dated October 30, 2015, is superseded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1e04ac4271e26a0d03a06b174aeb7b1f",
+    "text": "LMSB, SB/SE, TE/GE, W&I.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "7c79a68832a67008ac3d8d3373c3f30b",
+    "text": "Program Scope and Objectives General Overview for Command Code Command Code CHKCLR Terminal Responses to CC CHKCLR Command Code CHKCL Terminal Responses to CC CHKCL",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "77598333325dfc811660d15fd58a1ad1",
+    "text": "CHKCLR and CHKCL",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "cc6957f86863de409ffea00f4866cd50",
+    "text": ") This IRM section provides the instructions for the use of CHKCL. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "33a1523d0446223c2ff01e33380e230d",
+    "text": ") Purpose :This transmits revised IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4d9370bbdfdb36899753db1b4134d9bb",
+    "text": ", IDRS Terminal Input, Code CHKCL . (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "96c779dd27f3533a73a755e0210e5483",
+    "text": ") Audience: IRS Tax Technicians and Account Management employees. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "98d63f6c38bc78604f9fdfdde58faf11",
+    "text": ") Policy Owner: Chief Information Officer. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "79340726c484cedf25859678a9fa120d",
+    "text": ") Program Owner: Customer Service. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0e5bb46a28ddbc2f59db29d021c717d1",
+    "text": ") Primary Stakeholders: Wage & Investment(W&I) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0332c578bb969019171a8c40af7dd0c7",
+    "text": ") Program Goals: This system manages data extracted from Corporate Data Stores (BMF, IMF, EPMF) allowing IRS employees to takespeciﬁc on taxpayer account issues and track status of an account . (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "bad0fb4f4728a86c4a603237e5a769ad",
+    "text": ") Command code CHKCL/CHKCLR is used to input taxpayer claims for lost stolen refund checks and requests for photocopies of refund checks. The for is then recorded on tape and sent to the Regional Financial Center (RFC) processing. Check claims were previously submitted to RFC on Form Taxpayer Statement Regarding Refund. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4a98d2cbdf127f538ad293969ddb9f38",
+    "text": ") Command codes TXMOD and CHKCLR are prerequisites for CC CHKCL. dummy module will satisfy the requirement for having a tax module on (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a50f026923998ee162b2747d44335718",
+    "text": ") Case Control for CC CHKCL requires that a control base be present for Terminal operator inputting CC CHKCL.CC CHKCL will only update a base, not create one. At the time of input, the IDRS control base is with the following activity codes to reﬂect the action taken: •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5c34d2c61fa745707f46eff559176555",
+    "text": "TORDCC—for check claims • PHOTOREQ—for request for regular photocopy • CERTREQ—for request for certiﬁed photocopy (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0bb4b834a2111caa22d9b750fbdc29f4",
+    "text": ") IDRS Check Claims are subject to Quality Review. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "50d7d0aed084c371f07d23269f1fd208",
+    "text": ") CC TERUPC will reject erroneous inputs only on the day of input. See",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9b43611992c02d8afd63efdbf2f033ae",
+    "text": "for CC TERUPC input instructions. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "43cf665b7aa05e56e9a77f5e68651534",
+    "text": ") CC CHKCL will generate a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "143ee6a65986755ab8c7412dd41b87f1",
+    "text": "transaction to Master File through End Day processing if the TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "7756a9d817ab5a766c9eee73b6784f57",
+    "text": "Suppression Indicator is set to Y. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "194cc60b94880ba8464a0cd878d4855b",
+    "text": ") This command code is used to request the screen format for command CHKCL It must be preceded by a Command code TXMOD input for which was made available. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "db44051ce43f78e7a63a482a6889523c",
+    "text": ") Error responses (are displayed in inverse video on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2750c048d63440c67ac45886b7b04098",
+    "text": ") a. COMMAND CODE DEFINER INVALID—The command code deﬁner to (sixth position of the command code) is other than “R”.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2a6e51e6a3f628814902324a66c8db5d",
+    "text": "(07-01-2009) General Overview for Command Code CHKCL/CHKCLR",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b7bba8b6ebf46951e0f7b86728df382f",
+    "text": "COMMAND CODE DEFINER INVALID—The command code deﬁner (sixth position of the command code) is other than “R”. REQUEST DENIED/IMPROPER INITIALIZATION—CHKCLR was not preceded by a CC TXMOD for which a tax module was found and displayed. If the desired tax module is not present on IDRS, enter CC ACTON to establish a dummy module.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "63ad3e4681b6eb0e2e65d4cb6ee3fe54",
+    "text": "c. EMP NO. INVALID-CASE CONTROLLED—The tax module being addressed contains open control bases but not all are assigned to the terminal operator. d. MEMO ACCOUNT/MODULE PRESENT—The tax module being addressed is a memo module and input is prohibited. CC ACTON can used to establish a dummy module and to remove the memo data. e. NO CONTROL BASE ASSIGNED-INITIATE ACTON—No control are present or all control bases are closed. f. CASE CONTROL INDICATOR INVALID-CC TXMOD has returned an invalid case control indicator. g. FILE SOURCE INVALID FOR CHKCL—An EPMF ﬁle source is invalid with CC CHKCL. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9d0b9b679cfbe2b432da472d8a46c88b",
+    "text": ") Valid Responses: The format for CC CHKCL is returned. (TIN, ﬁle source, MFT, and tax period from CC TXMOD are generated on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "361eee65f7d0df6d4f857044e0c90d54",
+    "text": "), in addition the current name and address of the taxpayer on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5a4ed51aea1ef27594876f468277b211",
+    "text": "thru",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "45530038db772e07208a3582178a9f5e",
+    "text": ") This command code initiates a tape record containing claim data for a lost stolen refund check or a photocopy request. It also updates IDRS of that Code CHKCL (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "db44051ce43f78e7a63a482a6889523c",
+    "text": ") Error responses (are displayed in inverse video on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "efbd106185e73af8d692524e72b7b3ef",
+    "text": ") a. NO CONTROL BASE ASSIGNED-INITIATE ACTON—The only control Responses to base in the tax module being addressed is in “ B” (background) status CHKCL and is assigned to other than the terminal operator. b. COMMAND CODE INITIALIZATION INVALID—The command code prior to CC CHKCL input was not CHKCLR. c. ID INFO CHANGED-RESTART-TIN,MFT,tax period or name control on CHKCL entry does not match that of the preceding TXMOD. Begin with TXMOD. d. PLEASE CORRECT INVALID DATA ON SCREEN—Input data has not passed validity checks. Invalid data will be indicated on the screen display as follows: When individual data ﬁelds contain invalid entries, format, complete with all entries keyed in by the operator, will be displayed. An asterisk (*) will be displayed following the invalid ﬁeld or following the literal which identiﬁes the invalid ﬁeld. Where an inconsis- tency exists between two or more ﬁelds, each ﬁeld will be annotated an asterisk. In order to correct an invalid entry in ﬁelds marked by an asterisk, input the correct data as an overlay of the erroneous and reenter. e. DATA IN NON-INPUT FIELD-PLEASE CORRECT—Data has been entered in other than those ﬁelds reserved for input. f. SYSTEM ERROR ON ACCESS/UPDATE—An error was encountered when accessing the database. Notify RPA. g. DMS ERROR-REINPUT DATA—The data requested from the has already been reserved by a prior request or a quick recovery is in progress. Try reinputting data three times. If still not successful, try tomorrow. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a77723b8fa8fbc08000ea0f20d983b95",
+    "text": ") Valid Responses a. REQUEST COMPLETED—No errors were present in the input and the control base was updated.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7b9116a1f88410fb784211c1f8339a9c",
+    "text": "addressed contains open control bases but not all are assigned to the terminal operator. MEMO ACCOUNT/MODULE PRESENT—The tax module being addressed is a memo module and input is prohibited. CC ACTON can used to establish a dummy module and to remove the memo data. NO CONTROL BASE ASSIGNED",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c6d67d3805dd99ba358f60f181fe039d",
+    "text": "INITIATE ACTON—No control bases are present or all control bases are closed. CASE CONTROL INDICATOR INVALID",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "91d3fc1976a707ec71ca58a46162a7e0",
+    "text": "CC TXMOD has returned an invalid case control indicator. FILE SOURCE INVALID FOR CHKCL—An EPMF ﬁle source is invalid with CC CHKCL.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6e68341dee58e39f6e9e57080b082b02",
+    "text": "This command code initiates a tape record containing claim data for a lost or stolen refund check or a photocopy request. It also updates IDRS of that fact.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "19f2c88a9efe5b80e451674fc1affc9d",
+    "text": "Error responses (are displayed in inverse video on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c8e908ab1e357ec8e5409360faf2f537",
+    "text": ") a. NO CONTROL BASE ASSIGNED-INITIATE ACTON—The only control base in the tax module being addressed is in “ B” (background) status and is assigned to other than the terminal operator. b. COMMAND CODE INITIALIZATION INVALID—The command code input prior to CC CHKCL input was not CHKCLR. c. ID INFO CHANGED-RESTART-TIN,MFT,tax period or name control on CHKCL entry does not match that of the preceding TXMOD. Begin again with TXMOD. d. PLEASE CORRECT INVALID DATA ON SCREEN—Input data has not passed validity checks. Invalid data will be indicated on the screen display as follows: When individual data ﬁelds contain invalid entries, the format, complete with all entries keyed in by the operator, will be displayed. An asterisk (*) will be displayed following the invalid ﬁeld or following the literal which identiﬁes the invalid ﬁeld. Where an inconsis- tency exists between two or more ﬁelds, each ﬁeld will be annotated with an asterisk. In order to correct an invalid entry in ﬁelds marked by an asterisk, input the correct data as an overlay of the erroneous information and reenter. e. DATA IN NON-INPUT FIELD-PLEASE CORRECT—Data has been entered in other than those ﬁelds reserved for input. f. SYSTEM ERROR ON ACCESS/UPDATE—An error was encountered when accessing the database. Notify RPA. g. DMS ERROR-REINPUT DATA—The data requested from the database has already been reserved by a prior request or a quick recovery is in progress. Try reinputting data three times. If still not successful, try again tomorrow. Valid Responses",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "524e613ac82c074572f32352d4806f91",
+    "text": "Code CHKCLR and CHKCL 2.4.23",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "33c1e29902d678cbcff13d561dbfd825",
+    "text": "This Page Intentionally Left Blank",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "4b1ff6f20f46f731b6c461f8f7f3693e",
+    "text": "Exhibit 2.4.23-2 (01-01-2016) Input/Output Format, CC CHKCL",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "6fb43d62300a17d8f75268aaaba07eae",
+    "text": "1-9 I11-19 i 21-29 | 31-39 i 4149 | 51-59 | 61-69 | 71-8612345678901234567890123456789012345678901234567850123456789012345678901234567890CHKCL 2 3 4 5 6vvy7 Nl8 N29 N310 N4i1 ADD12 =CY/ST/2IP13585555551418 16=GENERATE TC 971217vYYy 18 19 20214#k##E SRI>222385855589 SRI»242595558888 SRI>26WW W N_: 12345678901234567890123456789012345678%01234567890123456789012345678901234567830i-9 I 11-19 21-29 | 31-39 | 41-49 | 51-59 | 61-69 | 71-85",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "524e613ac82c074572f32352d4806f91",
+    "text": "Code CHKCLR and CHKCL 2.4.23",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "542e47f2b5296d189ac0d952ec6dc36b",
+    "text": "Exhibit 2.4.23-2 (Cont. 1) Input/Output Format, CC CHKCL",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "2c23165ea3e796dcda5d12f3c1dc7d18",
+    "text": "NAME AND ADDRESS—Data input in these ﬁelds must reﬂect most current name and address data as prescribed in IRM 3(17)(42)3. Manual or IDRS Generated Refund checks may have been issued to a name other than that of the account from which they were issued.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "f985b09873b36db774c2e58ed276613e",
+    "text": "N1-FIRST NAME LINE— An entry must be present in this ﬁeld. Enter data beginning in position 1, extending to position 30, over- laying the “+” if necessary. Any characters following two sequential blanks are invalid. Acceptable formats are as follows:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "6b5d408b57dbc44501cc8c718a1df025",
+    "text": "(a) SSN accounts—Valid characters are A–Z, blank, hyphen, ampersand and right hand bracket. The ﬁrst position must be For IMF only, hyphen is also valid in the ﬁrst position if immedi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "846889cd0e7affdf52103978a4f8bb83",
+    "text": "ately followed by right hand bracket. At least one right hand bracket must be present and must precede the surname. The surname must be at least two valid characters. Enter a second right hand bracket following the surname if a suffix follows on the First Name Line.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "ee3254358f86c236feb7afe158c48f1d",
+    "text": "(a) SSN accounts—Valid characters are A–Z, blank, hyphen, ampersand and right hand bracket. The ﬁrst position must be For IMF only, hyphen is also valid in the ﬁrst position if immedi- ately followed by right hand bracket. At least one right hand bracket must be present and must precede the surname. The surname must be at least two valid characters. Enter a second right hand bracket following the surname if a suffix follows on First Name Line.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7015da196af1abdba849a87df0ed0a5a",
+    "text": "JOHN]BROWN",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "f3daacb5e5581a449948eff6830bf9a2",
+    "text": "(b) EIN accounts—Valid characters are A–Z,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d2d2c394b1b5f584701e690ce160e73c",
+    "text": ", blank, hyphen, ampersand and right hand bracket. The ﬁrst position must be alpha or numeric. If the name control is the ﬁrst four signiﬁcant characters of the name line, no right hand bracket is necessary. Otherwise, a right hand bracket must immediately precede the name control. Enter a second right hand bracket following the name containing the name control if a suffix or a partner’s name follows on the First Name Line.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d342d99498abb77311c1266e489dde70",
+    "text": "(b) EIN accounts—Valid characters are A–Z, 0–9, blank, hyphen, ampersand and right hand bracket. The ﬁrst position must be alpha or numeric. If the name control is the ﬁrst four signiﬁcant characters of the name line, no right hand bracket is necessary. Otherwise, a right hand bracket must immediately precede the name control. Enter a second right hand bracket following the name containing the name control if a suffix or a partner’s name follows on the First Name Line.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "89de5a14abd6f4b418a439ad01ce81bc",
+    "text": "Exhibit 2.4.23-2 (Cont. 2) (01-01-2016) Input/Output Format, CC CHKCL",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "e38ea90ff971746fdcf68794f641e02b",
+    "text": "N2–SECOND NAME LINE—This ﬁeld may contain an entry. Data will be entered in position 1 and may extend to position 30, over- laying the “+ ”. Valid characters are A–Z, 0–9, blank, ampersand (&), hyphen, slash (/) and %. The ﬁrst position must be alpha, numeric or %. Two sequential blanks followed by a signiﬁcant character are invalid.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "78baf051e1e8fcd8b2164ee15a9b35a9",
+    "text": "N4-FOURTH NAME LINE—Same as Item 8 (N2—Second Name Line). In addition, if fourth Name Line is present, second and Third Name Lines must be present.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "ec0b83641bd46272a0509fc93eeb7d43",
+    "text": "Note: If any of the name lines are longer than 30 positions, ignore any characters beyond position 30",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "ff9db1666cdcc2bd5593cfeb4f4379d3",
+    "text": "ADD-STREET ADDRESS— This ﬁeld may contain an entry. If present, City/State/Zip code (Item 12) must also be present. Data will be entered beginning in position 1 and may extend to position 30 overlaying the “=”. Valid characters are A–Z, 0–9 blank, hyphen, and slash (/). First position may contain alpha, numeric, or blank. Blank is only valid in the ﬁrst position if the entire ﬁeld is blank. Two sequential blanks followed by a signiﬁcant character are invalid.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "58f145bcda8299ae7de944411cb6cd7e",
+    "text": "CY/ST/ZIP-CITY, STATE and ZIP CODE—Data will be entered beginning in position 1 and may extend to position 28, overlaying the “=”. City data will be followed by a comma, a valid state abbre- viation, a blank and the zip code (CITY,STZIP). An entry must be present in this ﬁeld. City, state and zip code must be valid as follows:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "36f91d4bc930031692d2104868c786f5",
+    "text": "CITY—Unless a major city code is input, at least three valid acters must be present. Valid characters are A–Z, and blank. A comma must follow the city ﬁeld. If a foreign address is being entered, a period and blank space (. ) must be entered following the comma which terminates the foreign city ﬁeld. Major City Codes is not valid with Foreign Address.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "1884c4ada16acdda8f033d96ae9af96a",
+    "text": "Exhibit 2.4.23-2 (Cont. 3) Input/Output Format, CC CHKCL",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "06d850cc2878b44aa55e2c6b6188f774",
+    "text": "DESCRIPTION AND VALIDITY",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "0019e54b64a9f1472a57c6cf1f7cc797",
+    "text": "STATE—A valid state entry must follow the city and comma. A valid state abbreviation must be present. In the case of a foreign address, a period and a blank (. ) must be entered. The state ﬁeld must be followed by a blank. There in one exception—if a major city code is used a state abbreviation must not be entered (Example for Dallas—DA, [slashb]",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "c69d9e7b05823733b71921cf56e05c81",
+    "text": "). MAJOR CITY CODE must be valid within the Service Center’s jurisdiction. See LEM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "9255144e95bfe5e77c225c06e25f8bfc",
+    "text": ")(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d4a4de53b48f2ad223d36e60ddd761d3",
+    "text": "for list of valid MAJOR CITY CODE. ZIP CODE—Data will be entered following the state and a blank. Entry must be ﬁve numeric characters from",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "663ea1bfffe5038f3f0cf667f14c4257",
+    "text": "to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3c20a731cce0a64d9c1e2b6e19be0ba4",
+    "text": "The last two position may not be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "0ae0936383061a2070c8b23b26959dac",
+    "text": "If a period and a blank were",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "8e30cb73ca1511c207dc1a7175b4e251",
+    "text": "ZIP CODE—Data will be entered following the state and a blank. Entry must be ﬁve numeric characters from 00601 to 99999. The last two position may not be 00. If a period and a blank were entered in the state ﬁeld, indicating a foreign address, the zip code must not be entered.*",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "beaea33166fab3dc672370ebdfa534ee",
+    "text": "*The ZIP code will be cross check against the state or major city (if used). If the ZIP code is not valid for the state. an “*” will be displayed following the CY/ST/ZIP. If proper procedures have been followed to document the ZIP code as valid for the state, the crosscheck will be bypassed by overlaying the “Z” in the literal with a “/”.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "672ceae43927c247191236d4aa3a0a64",
+    "text": "Check Number (or ﬁrst number of Check Range). An entry must be present if type of Payment Code is D (IDRS), R (release) or M (Manual), otherwise an entry may not be present. If present, valid characters are 0–; 9 or blank and ﬁrst position must be numeric. A blank followed by a signiﬁcant character is invalid. CHK ####",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "5816470c09e6865fdbac4f3cdb29d243",
+    "text": "T-TYPE OF NON RECEIPT CODE—An entry must be present. Valid characters are as follows:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "5e183b0333b7d2bbd8dcc1380296ba4b",
+    "text": "E=Lost, stolen or destroyed endorsed check",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "dd4fe8a117e4f8376bda3354dbb940ab",
+    "text": "X = Endorsed check freeze cancellation credit",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "93927cff7f1d4ac42fe3ae138957f535",
+    "text": "Exhibit 2.4.23-2 (Cont. 4) (01-01-2016) Input/Output Format, CC CHKCL",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d3a0fa4ddd590e4546a4080cf4d472ee",
+    "text": "The last ﬁve positions may be numeric, alpha, hyphen or blank. A blank followed by a signiﬁcant character is invalid. .",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "696b10d800b4fecc4aa2e865b1bd86b8",
+    "text": "TC971 SUPPRESSION IND—An Indicator to either allow a TC971 transaction to be generated or to suppress it. Values are:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "56bfad770192ca1a6762a198313ce4ff",
+    "text": "P-TYPE OF PAYMENT CODE—An entry must be present. Valid characters are as follows:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "f32b028182fad876231342a79f9e107f",
+    "text": "TYPE OF PAYMENT CODE is “I”, the ﬁle source must be IMF. TYPE OF PAYMENT CODE is “B”, the ﬁle source must BMF.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "64470017f9a39f19e050e45e2dd5ca07",
+    "text": "Note: Type of payment code “R” is valid only for checks issued prior to January 1979.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "868fb0a1131494d98d34169cf7b8e8d9",
+    "text": "SEQ-SEQUENCE NUMBER—An entry must be present and must be 001–999.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "718b3b6b4c9c69034c6ad0906683f8bd",
+    "text": "Exhibit 2.4.23-2 (Cont. 5) Input/Output Format, CC CHKCL",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "06d850cc2878b44aa55e2c6b6188f774",
+    "text": "DESCRIPTION AND VALIDITY",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "bf1c7f03019a94d5e12ce322e9c2bd6c",
+    "text": "DO-Business Operating Division Office Identiﬁer—An entry must be present for NMF accounts. Business Operating Division Office Identiﬁer must be a valid Business Operating Division Office Identi- ﬁer for Service Center of input. If account is not an NMF account, but Service Center is PSC and a D.O. is input, a D.O. code of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "bc0fc63cb2de398ba112ac01fda3f694",
+    "text": "is the only valid entry.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "1d8fa0e5471bd3d3f271c1d893777ca9",
+    "text": "Split Refund Ind (SRI). A single ﬁeld entry used by masterﬁle to identify each refund to be traced. Valid entries are 2 or 3.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "9473e393a302b48246749adef22a75ab",
+    "text": "$$$$$$$$$$$$$-AMOUNT OF CHECK—An entry greater than “.00” must be present in this ﬁeld. Input the amount as dollars and cents beginning in position 1. Valid characters are numeric, period (.) and comma (,). $$$$$$$$$$$$$",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "ea3dfbf5d4ab5b9fc4cf27217590e8e2",
+    "text": "Split Refund Ind (SRI). A single ﬁeld entry used by masterﬁle identify each refund to be traced. Valid entries are 2 or 3.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "9473e393a302b48246749adef22a75ab",
+    "text": "$$$$$$$$$$$$$-AMOUNT OF CHECK—An entry greater than “.00” must be present in this ﬁeld. Input the amount as dollars and cents beginning in position 1. Valid characters are numeric, period (.) and comma (,). $$$$$$$$$$$$$",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "721cb190d5bcb352c5d48452706ff7ef",
+    "text": "Split Refund Ind (SRI). A single ﬁeld entry used by masterﬁle to identify each refund to be traced. Valid entries are 3.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "8d503c5ff7cd246b34584aa00b142e7a",
+    "text": "1i-9 I 11-1921-2931-3941-49|51-5961-6971-8012345678901234567890123456789012345678%01234567890123456789012345678901234567890C|10111}112111311411511161CHKCL 001-16-560013 ROGERS ST30 600 200212 HILL% DEBRA G ALEX CO-EXECUTORDOVER,NH 0382035041311,392.47WlN2N3N4ADDCY/ST/ZIPD 200610528%#### Y=GENERATE TC 9717082006 D 013CHK 2378 SRI»11,000.00 SRI»21,000.00 SRI>31-9 I 11-1921-2931-3941-49|51-5961-€971-80_ 112345678901234567890123456782012345678901234567890123456789012345678901234567890 ::",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "5444cff649b43aa2071348899ffa06cd",
+    "text": "[ 31-39 [ 41-49 [’iCHECL 192i34-?éss* 20MLFM AT YOUR SERVICE3245 STATION ROAD[TENAFLY, TN 235845662452548.89L 20011542818345 Y=GENERATE TC 3717011WONAW AW N10022001 T11|12|13|14|15]16|17|18]19|20|2122|23]24]200012 FIELI —|1PN P21-49 |",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-023--2020-04-22.pdf",
+      "page_number": 17
+    }
+  }
+]

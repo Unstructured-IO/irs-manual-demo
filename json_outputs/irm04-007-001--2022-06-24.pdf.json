@@ -1,0 +1,1568 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1457f613c694778df187766f54c2a45e",
+    "text": "The IRS replaced the Online 5081 (OL5081) system with the Business Entitlement Access Request System (BEARS). References to OL5081 have been replaced with BEARS.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "094e285db42fd93cfc72e0322eb59270",
+    "text": "Due to the move of the ERCS server from Solaris to Linux, logins based on the user name are no longer used. The login is now the user’s Standard Employee Identiﬁer (SEID) in lower case letters.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "3faead18f17fb194daa11aff04d261ae",
+    "text": "Content from the AIMS/ERCS website was required to be moved to the Virtual Library. ERCS was moved to the ERCS book under the Exam Systems Knowledge Base. References to the AIMS/ERCS website have been replaced with the ERCS book.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "e5304e382c171a5439f78f6619f2658b",
+    "text": "Signiﬁcant changes to this IRM are reﬂected in the table below:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "f8822c879fd836a77a95ecb908269e23",
+    "text": "Removed (5), information is obsolete as there is no longer an AIMS/ERCS website.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "227fbfa4031d5c677fb75ecbf459ea65",
+    "text": "Original New Reference Description of Change Reference 4.7.1.5.2 (1) 4.7.1.5.2 (1) “Software Support”: removed content for inputting OS Get- Services tickets and clariﬁed that the HQ ERCS analysts will input tickets.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "2aa98f710b2d29e7f134d3aee5f64f7e",
+    "text": "Description of",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "503b19d799863761b35dc5f6f596d896",
+    "text": "Minor editorial changes have been made throughout this IRM. Some items were reworded for Also, website addresses and IRM references were reviewed and updated, as necessary.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "d7ac7d067100794a4cb9dcd011301da0",
+    "text": "Small Business/Self Employed (SB/SE), Large Business and International (LB&I), Tax Exempt & Government (TE/GE), and Headquarters (HQ) employees in Return Preparer Office (RPO), and Whistleblower Office who use ERCS.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "9e6825a29f60f70bee500eb3140510bb",
+    "text": "Exhibits",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "96876e904c5dd4713e18a26293e1ef55",
+    "text": ") This IRM contains a basic overview of the Examination Returns Control System (ERCS) including its users, interfaces, and resources. Scope (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d8de6239e88f160220346437055ed9e9",
+    "text": ") Purpose: ERCS is an inventory and time management system for returns under examination. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "82fab29f56fe314dc0fcd9b6d1d84cc5",
+    "text": ") Audience: ERCS is used by employees in SB/SE, LB&I, TE/GE, and Head- quarters (HQ) employees in the Return Preparer Office (RPO), and Whistleblower Office (WO) who monitor inventory, enter examination time, new records or update existing records on ERCS. Employees include managers, technical employees, administrative support and shared tive support personnel. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e039eff8027351c1b01cfe31010bf0a7",
+    "text": ") Program Owner: SB/SE Director, Technology Solutions. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9e8143f39753d1dcbf08b2ad90bf9bbc",
+    "text": ") Primary Stakeholders: LB&I. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2ee80b754fbbe43cb384174b9680f3e6",
+    "text": ") ERCS provides programs and tools that aid users in performing their official duties and responsibilities, to ensure the correct type and amount of is under examination and timely moving through the examination processes order to meet the Examination Plan. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "dc69592181b294f73d83fb8244b654db",
+    "text": ") Users must be aware of the potential for Unauthorized Access of Taxpayer Accounts (UNAX) violations from the use of ERCS. Data from ERCS should accessed only for IRS business purposes. Users should promptly retrieve ERCS reports from printers or fax machines in order to prevent unintentional disclosure. Audit trails are created and subject to review for all user of taxpayer data. For more information about UNAX, see IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8c47541e635878186a3779c959476036",
+    "text": ", IRS authorized Access, Attempted Access or Inspection of Taxpayer Records (UNAX) Program Policy, Guidance, and Requirements. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5ba0f9e53ea9ab986c9b8ae7813cb638",
+    "text": ", Planning, Monitoring, and Coordination. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "cdfac859b05c2346adf75b7553a9f7b8",
+    "text": ", Overview of Examiner Responsibilities. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "7b639ccfdc323110d6265f98baa49ea9",
+    "text": ", Information Technology (IT) Security, Policy and Guidance, lished the security program and the policy framework for the IRS.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5abb02eb166d4fa1ff234c6be9f17db8",
+    "text": "Whistleblower Office (WO) who monitor inventory, enter examination time, add new records or update existing records on ERCS. Employees include managers, technical employees, administrative support and shared tive support personnel. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e039eff8027351c1b01cfe31010bf0a7",
+    "text": ") Program Owner: SB/SE Director, Technology Solutions. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9e8143f39753d1dcbf08b2ad90bf9bbc",
+    "text": ") Primary Stakeholders: LB&I. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "218eb0f9920216250e867c36a351e266",
+    "text": ") ERCS provides programs and tools that aid users in performing their official duties and responsibilities, to ensure the correct type and amount of inventory is under examination and timely moving through the examination processes in order to meet the Examination Plan. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "72fe46b91f9e353c80733f24ac34e2cc",
+    "text": ") Users must be aware of the potential for Unauthorized Access of Taxpayer Accounts (UNAX) violations from the use of ERCS. Data from ERCS should accessed only for IRS business purposes. Users should promptly retrieve ERCS reports from printers or fax machines in order to prevent unintentional disclosure. Audit trails are created and subject to review for all user accesses of taxpayer data. For more information about UNAX, see IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "7fa1942fc3c29a7cbbc81dde16f4784c",
+    "text": ", IRS Un- authorized Access, Attempted Access or Inspection of Taxpayer Records (UNAX) Program Policy, Guidance, and Requirements. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5ba0f9e53ea9ab986c9b8ae7813cb638",
+    "text": ", Planning, Monitoring, and Coordination. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "cdfac859b05c2346adf75b7553a9f7b8",
+    "text": ", Overview of Examiner Responsibilities. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "55b8debf34945ef0030184b8f5331394",
+    "text": ", Information Technology (IT) Security, Policy and Guidance, estab- lished the security program and the policy framework for the IRS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b79cb5c73667aaefefd09a54e20b0c33",
+    "text": ") The ERCS database contains personally identiﬁable information (PII) in the form of names, taxpayer identiﬁcation numbers and addresses. It is the re- sponsibility of all ERCS users to safeguard the taxpayer’s personal (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9a6c010e4c94f3554616b0cd07b0f15f",
+    "text": ") The responsibility of each user is deﬁned by position code, user type and per- mission level. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9ee2fb77182260c5d21f3890a644339e",
+    "text": ") User responsibilities include but are not limited to: • Add and update employee records and generate employee reports. • Add, assign, and update returns on ERCS. • Control inventory for returns not on the Audit Information Management System (AIMS) (i.e. penalty records). • Maintain statute control for returns and when required, generate Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "875e24480910befe6940bebeb61a989e",
+    "text": ", Notice of Statute Expiration. • Apply time for technical employees to returns and activities performed each day.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9e8143f39753d1dcbf08b2ad90bf9bbc",
+    "text": ") Primary Stakeholders: LB&I. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2ee80b754fbbe43cb384174b9680f3e6",
+    "text": ") ERCS provides programs and tools that aid users in performing their official duties and responsibilities, to ensure the correct type and amount of is under examination and timely moving through the examination processes order to meet the Examination Plan. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "72fe46b91f9e353c80733f24ac34e2cc",
+    "text": ") Users must be aware of the potential for Unauthorized Access of Taxpayer Accounts (UNAX) violations from the use of ERCS. Data from ERCS should accessed only for IRS business purposes. Users should promptly retrieve ERCS reports from printers or fax machines in order to prevent unintentional disclosure. Audit trails are created and subject to review for all user accesses of taxpayer data. For more information about UNAX, see IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d6d2fb4433fc4896812d7cc504f7c757",
+    "text": ", IRS authorized Access, Attempted Access or Inspection of Taxpayer Records (UNAX) Program Policy, Guidance, and Requirements.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5ba0f9e53ea9ab986c9b8ae7813cb638",
+    "text": ", Planning, Monitoring, and Coordination. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "cdfac859b05c2346adf75b7553a9f7b8",
+    "text": ", Overview of Examiner Responsibilities. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8a7b6e94b6bf35cf7ec587e3206247ac",
+    "text": ", Information Technology (IT) Security, Policy and Guidance, lished the security program and the policy framework for the IRS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b79cb5c73667aaefefd09a54e20b0c33",
+    "text": ") The ERCS database contains personally identiﬁable information (PII) in the form of names, taxpayer identiﬁcation numbers and addresses. It is the re- sponsibility of all ERCS users to safeguard the taxpayer’s personal (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "82a9c5883719c490482e2d81bfca60f5",
+    "text": ") The responsibility of each user is deﬁned by position code, user type and mission level. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "fcca8450c6d19ce98b6bb72125a875ab",
+    "text": ") User responsibilities include but are not limited to: • Add and update employee records and generate employee reports. • Add, assign, and update returns on ERCS. • Control inventory for returns not on the Audit Information System (AIMS) (i.e. penalty records). • Maintain statute control for returns and when required, generate",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2c03ca109f4c068704f3f2f4ddb83af3",
+    "text": ", Notice of Statute Expiration. • Apply time for technical employees to returns and activities each day.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "415fc293682847c8641bd7c8139c5306",
+    "text": "IRM 10.8.1, Information Technology (IT) Security, Policy and Guidance, lished the security program and the policy framework for the IRS.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0f9eb6ebdae65f9cd4ac9a28d1c3746e",
+    "text": "Add and update employee records and generate employee reports. Add, assign, and update returns on ERCS. Control inventory for returns not on the Audit Information Management System (AIMS) (i.e. penalty records). Maintain statute control for returns and when required, generate Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "db70406fa1c0fd1e04ae40bb38a9ce53",
+    "text": ", Notice of Statute Expiration. Apply time for technical employees to returns and activities performed each day.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b7a8ac818bce28d19f8e099181b95579",
+    "text": "Examination Returns Control System • Generate various types of reports. • Transfer or close inventory to another group, function, or area. • Generate and acknowledge Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "cc08bd100259f39ef004e425f67ed0cd",
+    "text": ", Document Transmittal. • Approve return requisitions and subsequent updates that require gerial approval. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f3cedd4fd82929074b9d17f353133cff",
+    "text": ") There are special programs in ERCS available to the AIMS/ERCS (A/E) staff assist the users they support. Some of these programs give the A/E staff the ability to: • Upload ERCS requisitions and changes made by users to AIMS. • Generate error reports of returns with invalid or obsolete codes and crepancies between AIMS and ERCS. • Update local ﬁles. (The contents of the local ﬁles are unique to each area. They are used to deﬁne local action, project, and freeze codes. Using local ﬁles, an area can restrict the use of statuses and disposal codes allowed for closing returns to match local procedures.) • Move inventory, employee records, and permission records from one employee to another, one group to another, or one area to another for re-organization. • Add or update addresses used for Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c8db3c086f4d245da1dd76cf12f82e7b",
+    "text": ", Document Transmittal. • Add new employee group codes. • Add or update user permissions. • Research audit trails. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5090383e6715d42e0a4da23ac3d5c4ba",
+    "text": ") Reports are available that allow management to monitor inventory, statutes, closures, time input, and employee records. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c2aebe1373af428ad14f1eff2441606e",
+    "text": ", Reports, for Management information. Review (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "2d7f75a3048a3c7b9cc57bb5ee6fd063",
+    "text": ") ERCS creates audit trails for selected changes to returns, employee records, and permission records. A special audit trail is also created when users enter Controls taxpayer identiﬁcation number (TIN) or a taxpayer name on ERCS. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ee9a0ca38d6446420f59526a95b5f7f8",
+    "text": ", Security, for more information. IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1f8215992baf31500ccd229be0130efa",
+    "text": ", Audit Trails, has a list of the changes in ERCS that produce an audit trail. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8188a6a331373f8b0f31bc77dd7e3c0a",
+    "text": ") There are security checks within ERCS to ensure unauthorized users do not access programs and authorized users are kept within the boundaries of their permissions. These checks are performed automatically and silently each a user attempts to access ERCS. The user has no ability to prevent the checks. For more information about permissions in ERCS, see IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "46a52f91ae94985b4a41d041a7d3dbf7",
+    "text": ", Permissions. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9b153d98a4e720dbfef06db4f541df90",
+    "text": ") See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1461e1babcd3cdd01bb6edaccd087c2b",
+    "text": ", Acronyms and Deﬁnitions for acronyms used in this IRM. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "b8846c7d0df5ca06a391652f3e5a1a7c",
+    "text": ") The ERCS IRMs provide information, instructions, and user responsibilities ERCS users. There are nine ERCS IRMs, including this IRM. Resources • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "923d291648f6d64c4deab580b9a23a04",
+    "text": ", Security • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c2662ba17f1012a7b1309e3ac68c4068",
+    "text": ", Statute of Limitations • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "404be08b341afb3f605c8eba553c028f",
+    "text": ", Planning and Special Programs (PSP) • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e14289c1ad055eb4f80d0942de044f71",
+    "text": ", Group and Territory Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8c2574892063f995fdf756bce07f46c1",
+    "text": "R",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e31dbc88c87703ecc970abed57016439",
+    "text": "Examination Returns Control System (ERCS)",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "2c8ea8a42f8832a1724ee14a9c4c4909",
+    "text": "• Generate various types of reports. • Transfer or close inventory to another group, function, or area. • Generate and acknowledge Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7ac900db8fc9fb63de89d1d1061d8bfd",
+    "text": ", Document Transmittal. • Approve return requisitions and subsequent updates that require mana- gerial approval. There are special programs in ERCS available to the AIMS/ERCS (A/E) staff assist the users they support. Some of these programs give the A/E staff the ability to: • Upload ERCS requisitions and changes made by users to AIMS. • Generate error reports of returns with invalid or obsolete codes and dis- crepancies between AIMS and ERCS. • Update local ﬁles. (The contents of the local ﬁles are unique to each area. They are used to deﬁne local action, project, and freeze codes. Using local ﬁles, an area can restrict the use of statuses and disposal codes allowed for closing returns to match local procedures.) • Move inventory, employee records, and permission records from one employee to another, one group to another, or one area to another for re-organization. • Add or update addresses used for Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "811b6818ea4b84708548cd0fdc6004e9",
+    "text": ", Document Transmittal. • Add new employee group codes. • Add or update user permissions. • Research audit trails. Reports are available that allow management to monitor inventory, statutes,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3a399261a475861ead682fc117caea86",
+    "text": "Upload ERCS requisitions and changes made by users to AIMS. Generate error reports of returns with invalid or obsolete codes and dis- crepancies between AIMS and ERCS. Update local ﬁles. (The contents of the local ﬁles are unique to each area. They are used to deﬁne local action, project, and freeze codes. Using local ﬁles, an area can restrict the use of statuses and disposal codes allowed for closing returns to match local procedures.) Move inventory, employee records, and permission records from one employee to another, one group to another, or one area to another for a re-organization. Add or update addresses used for Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1433b2aad42df90eea574cd9eac28440",
+    "text": ", Document Transmittal. Add new employee group codes. Add or update user permissions. Research audit trails.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e1df8853c73ba1750ef1f64ffd6f57a0",
+    "text": "Reports are available that allow management to monitor inventory, statutes, closures, time input, and employee records. See IRM 4.7.6, Reports, for more",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3f65efa158a5d1b08228e64b354dae2c",
+    "text": "The ERCS IRMs provide information, instructions, and user responsibilities for ERCS users. There are nine ERCS IRMs, including this IRM.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4b984b3ea8cbabf522d323732da1e0d5",
+    "text": "IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "2941b754537dd81ada9502a85af13167",
+    "text": ", Security IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "643d5b73c5e81937c68542bf81d852db",
+    "text": ", Statute of Limitations IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "01bf3bc2d5cfeebcbb448ac07ac0b30e",
+    "text": ", Planning and Special Programs (PSP) IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4a99b11a3c25a70ddb75d061016705d1",
+    "text": ", Group and Territory",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "735e0c8a9d547033755bcb9b3d54f9c4",
+    "text": "• IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "02c1c6344bbdfcb40074d9c41a1bd628",
+    "text": ", Reports • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "065d98409c8bb7fda2cafc8a11b63b0b",
+    "text": ", Technical Services • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2c93308740d73ddc694bbada81f210c5",
+    "text": ", Centralized Case Processing • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "5e23a1e9dd319e0cc60d26dadd5bb63f",
+    "text": ", AIMS/ERCS Staff (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "1d28029ad0eacd40595ab00b1cb21b53",
+    "text": ") The ERCS Technical Reference Manual (TRM) provides information for the ERCS support personnel. It explains how the end-user programs work and also contains information for features only available to the A/E staff. It is de- signed to aid the A/E staff in researching user questions and in resolving pro- gram and data issues. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "9bf7e549c8da85b8c72636066135fd7f",
+    "text": ") There are seven ERCS user handbooks; one for each type of ERCS user. ERCS Territory Handbook also includes information for the DFO, SB/SE Area and LB&I Practice Area users. Each of the user handbooks explains how to navigate between the ERCS menu options and screens that are available for the speciﬁc user type. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "484dd59b532dc841246e7811fe067b99",
+    "text": ", ERCS Users, for an explanation of ERCS user types. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "14ed46ae7a355e2f71a64642772e9b4b",
+    "text": ") The ERCS user handbooks include: • ERCS Group Handbook • ERCS Territory Handbook • ERCS PSP Handbook • ERCS Review Handbook • ERCS Sample Review Handbook • ERCS CCP Handbook • ERCS Limited Access Handbook (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "0a5ed954dc9fd6c034c4e2ff7379e1b3",
+    "text": ") The ERCS book in the Virtual Library contains helpful information to resolve problems and answer questions. The following types of information are avail- able: • Manual and Handbooks - this section contains the ERCS user hand-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "9c2861e3b3d93a2aa21910d22afddd10",
+    "text": "Manual and Handbooks",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "7bf111b5aa664556df6845d2f272468a",
+    "text": "this section contains the ERCS user hand",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "9c6bb589dfc819c761f4a96cac95a2f8",
+    "text": "books and the ERCS TRM. The manuals describe the menu options, screens, reports and other relevant information. Troubleshooting",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3aca5ecee2b4b38bc6ecc8399ac74a7c",
+    "text": "this section has information on current issues such as installing the ERCS session ﬁle and the Invalid SEID error message. Contacts",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "69623c66a370f529e41bdf996e8e7814",
+    "text": "this section contains contact information for AIMS/ERCS Staff, Area and Campus Programs, Employee Group Codes, LB&I Con",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d1d614cfdc55d07c4ee08645e0b78158",
+    "text": "tacts, and other helpful contact information.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2b6c0034e7038ebe6fa1533a24dc41ac",
+    "text": "Once the user’s BEARS request has been processed and the user has approved access to the ERCS system, the next step is to install the ERCS",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "e31dbc88c87703ecc970abed57016439",
+    "text": "Examination Returns Control System (ERCS)",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e72c4222c098a7002e41dc8a14c72635",
+    "text": "session ﬁle and create a desktop icon. Refer to the Troubleshooting chapter the ERCS book for information on installing the ERCS session ﬁle. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "7cbbd1f77da3dfaa438bcbf34eae326c",
+    "text": ") Users having difficulties in the initial setup should contact their local A/E staff. The A/E staff should be able to resolve the issue or determine the next steps which may include elevating the issue to the HQ ERCS analysts. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "bc730d759f3bf5582e4c9570298939a1",
+    "text": ") Users often have ideas for program changes that would prevent data input errors, clarify error messages, make input easier, or reports more helpful. and Ideas for ERCS changes can be sent to the A/E staff to be elevated to the ERCS Analysts for consideration. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "32c5dbaacad95973429581d67cb03f3a",
+    "text": ") ERCS data is in high demand because it contains trustworthy information for tax returns under examination as well as data that is not available on other systems such as penalty records, employee information and individual time charges to returns. ERCS exchanges information with the following systems.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e6b3ed2d598df33d45cef99ef3659a8e",
+    "text": "session ﬁle and create a desktop icon. Refer to the Troubleshooting chapter of the ERCS book for information on installing the ERCS session ﬁle.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f94c653e8314bd518493df0bde4f561c",
+    "text": "ERCS data is in high demand because it contains trustworthy information for tax returns under examination as well as data that is not available on other systems such as penalty records, employee information and individual time charges to returns. ERCS exchanges information with the following systems.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d28584c6ee10c6a948a892f93a36af7d",
+    "text": "Employee information, including the standard employee identiﬁers (SEID)s, for employees in operating divisions using ERCS are downloaded into ERCS ﬁve days a week. This information is used to validate an employee’s SEID when employees are added to ERCS.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "26c9e6d10382d887da421f3df419d7ae",
+    "text": "ERCS sends return information for SB/SE and Specialty to EQRS each week.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "0c6c2ef7be359136cadd810fa212a2a1",
+    "text": "ERCS sends return information for Excise returns and returns worked in PBC 214 to ExFIRS monthly.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "616b4199f7b9203a5e128048ca4461f0",
+    "text": "ERCS sends return information for returns worked in Specialty and LB&I to IMS. The extraction also includes associated employee information for the returns. The program runs Sunday through Thursday.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ec40f263708e60023cea6eb077ad8a81",
+    "text": "IMS sends time information for employees in Specialty and to ERCS every Thursday.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "a0bec4d6891679c2d7610e1123ee9b59",
+    "text": "page 5 System Description Security Audit and Analysis System ERCS sends audit trails to SAAS daily. (SAAS) ERCS sends employee information and summary time informa- Summary Examination Time Trans- tion to the SETTS server each reporting cycle. See also IRM mission System (SETTS) 4.7.1.3.2, SETTS. Statistical Sampling Inventory Vali- AIMS data, along with limited ERCS information, is transferred to dation Listing (SSIVL) SSIVL servers each week. See also IRM 4.7.1.3.3, SSIVL. Tableau is visualization software which allows certain Area PSP Tableau users, Area analysts and Headquarters (HQ) analysts to create queries and reports from the ERCS data. Treasury Inspector General for Tax ERCS sends return and employee information to TIGTA the ﬁrst Administration (TIGTA) day of each month.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "5bc818706e4e5d1c87babe3b1febc934",
+    "text": "AIMS provides inventory and activity controls for returns in SB/SE, LB&I, TE/ GE, W&I, and Appeals. AIMS is used to control returns, input assessments and adjustments to Master File and provide management reports. It uses linkage to IDRS to input status changes, adjustments, and case closing actions.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "16199fc6598a8bd69c0205ccb39c2ab2",
+    "text": ") AIMS data is sent to ERCS from each of the ten campuses each week. All ﬁles are used for SSIVL. The following ﬁve, containing SB/SE and LB&I returns, are used in AIMS to ERCS processing: • Brookhaven Campus • Cincinnati Campus • Memphis Campus • Ogden Campus • Philadelphia Campus (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3010fb2b5a7edb28d96d6573299ad05b",
+    "text": ") During the weekly AIMS to ERCS processing, AIMS and ERCS records are compared. The differences are resolved either by updating AIMS or ERCS. Differences that cannot be resolved are reported in a collection of reports called the AIMS Error Reports. New AIMS records are added to during this processing. For more information about these reports, refer to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7fbe71f006046760ef5f2359e105d190",
+    "text": ", AIMS Error Reports. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b9041375a763977bda0ba7bcd956e90b",
+    "text": ") Requisitions, updates, transfers, and non-examined closures made by users are extracted by the A/E staff and sent to AIMS via GII one or more times each day. This keeps the AIMS and ERCS systems in sync. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1c28acfbe4c2bbb3faefe03f76d42d51",
+    "text": ") SETTS is a subsystem of ERCS. ERCS users are responsible for employee information and inputting time to returns and activities performed technical employees. Time charges are also added to ERCS through an interface with IMS. At the end of each reporting cycle (typically every four ﬁve weeks), a member of the A/E staff in each area runs the SETTS to extract employee and time information from ERCS. The data is validated and then electronically transmitted to the Enterprise Computing Center at tinsburg (ECC-MTB). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "2e43517b2810fece1a993e0ddf84a137",
+    "text": ") At ECC-MTB the data is extracted for inclusion on Table",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "0790d324ad55aae3a1ac8218d00fdc84",
+    "text": ", Examination Program Monitoring. The data is also sent to the AIMS Computer",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "f9e868c6dedf81bbfe3fddd579e97d7f",
+    "text": "At ECC-MTB the data is extracted for inclusion on Table 37, Examination Program Monitoring. The data is also sent to the AIMS Computer Information",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e31dbc88c87703ecc970abed57016439",
+    "text": "Examination Returns Control System (ERCS)",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "7e28992080d47c13605f6a387603674e",
+    "text": "System (A-CIS). There the data is used in planning and creation of the nation Plan and for monitoring each area/practice area to ensure the plan be met. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "843187e8157f2a4b12fb1246f8cab2fa",
+    "text": ", Outline of the System, for more information. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "2aa5033eaca87de0fee9415239208e1a",
+    "text": ") The SSIVL program extracts AIMS data from the ERCS server and sends extracts to a server at the Detroit Computing Center every week. users in SB/SE, LB&I, TE/GE, and W&I access the data on the local and load the data into a Microsoft Access database for further analysis. enables a ﬁeld office or a campus operation to generate reports of potential errors and to generate Inventory Validation Listings (IVLs) of AIMS data. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "2469c635916b08a26ac554032a58eda8",
+    "text": ") For more information refer to the SSIVL and SSIVL PC chapters of the TRM. SSIVL users should refer to the SSIVL Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "4c0f305567f419da4f95d305490ef0d1",
+    "text": "oint site for instructions installing the SSIVL Access database ﬁles. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "f881a346fba52ceb7141bef06325f4ad",
+    "text": ") ERCS is an inventory control system for returns under examination in area practice area offices. It is used to control and monitor returns from the time they are selected for examination until the examinations are closed. Users different functions have varying responsibilities as returns move through the system. ERCS is designed to meet the needs of these users. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "8fae63257f32e23fc2fea246efda7cb2",
+    "text": ") Users see different ERCS menus based on their job requirements. They may only have access to returns at certain stages of an examination. ERCS handles the division of duties by user types and permissions. For about permissions, refer to IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "61c04100ffc6f10d349b3332003dc5c6",
+    "text": ", Security. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "2a0f30caeeacf94ec4dd7fe47dc14bc2",
+    "text": ") All users, except limited, can research returns and run reports for returns in their group or function. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "7a1c5ab5469ddc0a12dc9304ce90b35e",
+    "text": ") The following user types are used to determine the menu options the user sees: Type Description",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "344a9e27ac0018189f773dc23c75ea98",
+    "text": "System (A-CIS). There the data is used in planning and creation of the Exami- nation Plan and for monitoring each area/practice area to ensure the plan will be met. See IRM 4.9.1, Outline of the System, for more information.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "a5e4120aadb6c6fdafbac36ead34f87a",
+    "text": "Overview 4.7.1 page 7 User Type Description Technical Services and Joint Committee Review managers, analysts, technical Review employees, and administrative support staff. See also IRM 4.7.7, Technical Services. National Quality Review System (NQRS), LB&I Quality Review & Analysis (QRA) Sample Review managers , and administrative support staff. See also IRM 4.7.7, Technical Services. Territory managers and administrative support staff. See also IRM 4.7.5, Group and Territory Territory.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "39bf9121439f8b06ed41757075872556",
+    "text": ") The success of ERCS depends on every user and the individuals who the users, the hardware, and the software that make up the system. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7b4972ebf6e9498c05cfda57b00ec3df",
+    "text": ") The ERCS application runs on a Sun computer located in the Enterprise Computing Center in Memphis, Tennessee (ECC-MEM). The application on a Linux operating system with an Oracle database. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "97a20c669acbd597572cd0c5c424bc63",
+    "text": ") ERCS is supported by system administrators (SA)s and database tors (DBA)s. The SAs must have knowledge of Solaris and the Linux systems. The DBAs must have knowledge of Oracle databases. For ERCS responsibilities of the SAs and DBAs, see IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3ca7f187fefe4ba2c9770aeb1f377861",
+    "text": "), System trator Responsibilities and IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "e642324a8b5eac584f2495e8332578f8",
+    "text": "), Database Administrator Responsibilities. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "298010874082fd3c49db9107219c245c",
+    "text": ") The ERCS programs are supported by the ERCS developers who are Information Technology. Changes to the programs require either an OS Services ticket for bug ﬁxes or a Uniﬁed Work Request (UWR) for updates enhancements to the program. OS Ge",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "0aec5bbda7f49e77475a32a7c6373959",
+    "text": "ervices tickets for ERCS program problems reported by users are input by the HQ ERCS analysts. The developers are responsible for working the tickets and coordinating the software. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "f8d4f1f95ec1e0037bc784aea5492c21",
+    "text": ") The ERCS developers also maintain the ERCS TRM and the seven user handbooks, located in the ERCS book under Manual and Handbooks. The ERCS TRM is used mainly by the A/E staff as a resource to explain how programs work. The user handbooks explain how to run the ERCS what features are available, and how the screens and reports look. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "4e9168851b31f7294ea031c89367c84f",
+    "text": ") Users should seek assistance from their local A/E staff for ERCS issues as initial ERCS setup problems, permission problems, correcting ERCS updating employee records, updating work schedule proﬁles, and reporting program issues. IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7202326660a9f7ffa691dd86f56e6825",
+    "text": ", AIMS/ERCS Staff, contains responsibilities instructions for the A/E staff. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "1e13a6e8fe37704159cca94d77745d1e",
+    "text": ") The A/E staff works with HQ ERCS analysts and the ERCS developers to resolve ERCS related issues. Refer to the AIMS-ERCS Staff Listings for port contact information.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "53b9a91601d9420da2fbbee828a8dd09",
+    "text": "The success of ERCS depends on every user and the individuals who support the users, the hardware, and the software that make up the system.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "06c2f63b4b9ffcd000023d96a61e9469",
+    "text": "The ERCS developers also maintain the ERCS TRM and the seven user handbooks, located in the ERCS book under Manual and Handbooks. The ERCS TRM is used mainly by the A/E staff as a resource to explain how the programs work. The user handbooks explain how to run the ERCS programs, what features are available, and how the screens and reports look.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "05d1e6c62ffdf67d8595612e95f02064",
+    "text": "Examination Returns Control System",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "f70fe59f9d5c7fb421bafd430e9e5c6d",
+    "text": "Examination Returns Control System (ERCS) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "18f58afe6314c05d3813594e98e05662",
+    "text": ") SB/SE Headquarters (HQ) is staffed with analysts assigned to the following program areas: AIMS, ERCS, SETTS, SSIVL, and Tableau. Normally when a Analysts user experiences an AIMS or ERCS related issue, the ﬁrst contact is the local A/E staff. If assistance is needed to resolve an issue, the local A/E staff may contact a HQ Analyst. The HQ ERCS analysts serve as the subject matter experts for ERCS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "fcea2ca0e4d3e1ad97a19677a45dd674",
+    "text": ") SSIVL users should ﬁrst seek assistance from other users in their work group or their counterparts in other areas. Issues with SSIVL that cannot be resolved may be reported to the HQ SSIVL analyst. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "369a3cce2ea9e1c4d0d4b8e8e5a75f44",
+    "text": ") Tableau users should ﬁrst seek assistance from other users in their work group or their counterparts in other areas. Issues with Tableau that cannot be resolved may be reported to the HQ Tableau analysts. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "38d0cb6e451ae264d5a45d3e94dae4e3",
+    "text": ") See Headquarters Contacts for AIMS, ERCS, SETTS, SSIVL, and Tableau for contact information for the HQ analysts who support these programs.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "5a459b7cb6068cc1c8f06c2d4e56e9fb",
+    "text": "See Headquarters Contacts for AIMS, ERCS, SETTS, SSIVL, and Tableau for contact information for the HQ analysts who support these programs.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "33ed0add29bac7d8779e178edc258613",
+    "text": "Acronym Deﬁnition ACDS Appeals Centralized Database System A-CIS AIMS Computer Information System A/E AIMS/ERCS AIMS Audit Information Management System BEARS Business Entitlement Access Request System CADS Corporate Authoritative Directory Service CCP Centralized Case Processing DBA Database Administrator ECC-MEM Enterprise Computing Center at Memphis ECC-MTB Enterprise Computing Center at Martinsburg EQRS Embedded Quality Review System ERCS Examination Returns Control System ERIS Enforcement Revenue Information System ESRP Employer Shared Responsibility Payment ExFIRS Excise Files Information Retrieval System GII Generalized IDRS Interface HQ Headquarters IDRS Integrated Data Retrieval System IMS Issue Management System IVL Inventory Validation Listing LB&I Large Business and International NQRS National Quality Review System PII Personally Identiﬁable Information PSP Planning and Special Programs RPO Return Preparer Office SA System Administrator SAAS Security Audit and Analysis System SB/SE Small Business/Self Employed SETTS Summary Examination Time Transmission System SSIVL Statistical Sampling Inventory Validation Listing",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "e31dbc88c87703ecc970abed57016439",
+    "text": "Examination Returns Control System (ERCS)",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "264d1d80c0f6647008c2583a1c428c59",
+    "text": "Exhibit 4.7.1-1 (Cont. 1) (06-24-2022) Acronyms and Deﬁnitions",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-001--2022-06-24.pdf",
+      "page_number": 14
+    }
+  }
+]

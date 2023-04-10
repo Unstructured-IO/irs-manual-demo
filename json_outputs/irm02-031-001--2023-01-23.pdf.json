@@ -1,0 +1,3125 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "c0fabd999b7ef929e676d56e5f513dcc",
+    "text": "For the initial period of at least one year, in conjunction with this IRM, “ Supplement to Internal Revenue Manual (IRM) 2.31.1 ” artifact will be used as reference by all OneSDLC Stakeholders",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "f02d308c9f30ec2112bb43c1eb7185b9",
+    "text": "(1) This is a new IRM to provide guidance for OneSDLC which is a single delivery model for IT projects.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1ac010a8d4ec3a7ea22d98f819ac073f",
+    "text": "This guidance provided by this IRM will effectively replace the existing guidance provided by IRM 2.16.1 for Enterprise Life Cycle for IT projects.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1e40feedb6d8e174d473a369b3da23fd",
+    "text": "AUDIENCE",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "7be623a2bba797584c6caeedf34f20df",
+    "text": "This IRM applies to IRS managers, personnel, and executives who manage, directly support, or provide oversight to projects that effect business change. This IRM also applies to contractors who conduct projects on behalf of the IRS that effect business change.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "b01535085b830a839f5a846fffdc992e",
+    "text": "Program Scope and Objectives",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "9dcbadcdba3856e3f99e65dd8bb6b849",
+    "text": "and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "51aa9e0f306a9990adf5b7f5f0eaed5c",
+    "text": ") One Solution Delivery Life Cycle (On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "de0697fe5785d3aad94d4e7f442ff489",
+    "text": "DLC) provides a product, software and service delivery model to support organizational transformation priorities focused on process improvement and efficiencies and streamlining communi- cations. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5aad8036df36f514d335fb223a1af600",
+    "text": ") The purpose of this initiative is to support organization transformation priorities and agility. On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2565c0b8de5de694df7f25d7ab17189a",
+    "text": "DLC transforms IT practices and optimize delivery of IT systems and applications at the IRS using Agile and Lean practices. IT product delivery is modernized through a single software development life cycle approach and delivery model. On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3f4ec6a0d5240dea84e03c9bc79e0eae",
+    "text": "DLC optimizes product, software and service delivery and reduces lead and cycle time through agile and lean processes and practices and is governed by tool-based content. The focus is on enterprise level transformation and driving efforts that will enable that trans- formation. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9ae59ab1ba2aa65e2b1300991ef2f3c2",
+    "text": ") On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c9c22c9763af55b94b596ea707e1dbac",
+    "text": "DLC enables an enterprise transformation through organizational and cultural change and upskilling of the existing workforce through: • agile mentoring • coaching and guidance • training, tools • visualization and ad hoc project support and • agile organizational transformation/change strategies (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5ed1bed02c458303ca605f197f343ea8",
+    "text": ") The audience for this initiative information is those involved with transformation priorities, organization agility, systems and software development, oversight, budget, or ﬁnancial management. The Associate Chief Information Officer (ACIO) for Strategy and Planning has the overall responsibility for this program. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1d9627833b9abb3787e2005d111bb03f",
+    "text": ") The IRS’s Chief Information Officer (CIO) is the program owner. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d81bbd5b8a8d90e0d4dbc89fa38a9d91",
+    "text": ") The primary stakeholders are all ACIO areas within IRS IT organization and IRS business units (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "553689968b12eab750382ab032ec7241",
+    "text": ") The goal of this program is to support overall organizational transformation pri- orities and agility. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8bb60f2fbe50db2afe257e4812887c9a",
+    "text": ") Z",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e11066131581f19cd6717950c6483495",
+    "text": "RM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "cb7e9babe3849871db50d5c2d3f69505",
+    "text": "is the Fund Program for On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b9e6e4b20efcfbbcc6b92a87734efcd8",
+    "text": "DLC under the budget activity, ″ Op- erational Support ″ and ″ Functional Area",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3761d9ae30c3302d8dfaf90490553b86",
+    "text": "Z ″ . This budget activity is funded by appropriation fund",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f6ddc03814b0aea09c486f40aa295b5e",
+    "text": "Z-ZZ",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b7997cec33ba1d777c287bbb80f4e546",
+    "text": "This initiative was sponsored by the Re- quirements Engineering Program Office (REPO) which also manages the Agile Central Team (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "db2ef7a447e94a6b7cf08ea6961c61a9",
+    "text": ") This Strategy and Planning program is funded via the appropriation fund, “Op- erations Support (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "789e1b3c2df18a7d798502624d65af91",
+    "text": ")”, which is for necessary expenses of the Internal Revenue Service to operate and support taxpayer services and tax law en- forcement programs. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d326019dbd992b32b81287977242ba4a",
+    "text": ") The Chief Information Officer ultimately is responsible for this program. Delivery Life Cycle Guidance",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ef51e648dfc814b76990088c13114222",
+    "text": "page (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "7ac615908966fbe1d56b258a6d0d0bd4",
+    "text": "One Solution Delivery Life Cycle Guidance 2.31.1 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "7f306b496cec5e608642d04f1b642f7e",
+    "text": "OneSDLC enables an enterprise transformation through organizational and cultural change and upskilling of the existing workforce through:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "157557cdda3c3121ea4e697ba28bddeb",
+    "text": "(1) The Chief Information Officer ultimately is responsible for this program.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "cd28612a2fe1aa3773c389155617f1e2",
+    "text": "One Solution Delivery Life Cycle Guidance 2.31.1",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "1cebf8085419dc4b3961d92f10621c68",
+    "text": "Resources (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "8c4e9df5818292e9c62bbef2aab1fa31",
+    "text": ") IRS Document",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "870d9bb97070e5532745d5f8887a3b84",
+    "text": ", Financial Management (Revision",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "816399c9fda18b01b8d1efba21c60a71",
+    "text": ") (Catalog Number",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "27b6a89bfa7f1b402f2bf11560986937",
+    "text": "J) is a resource for information about this program. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "aea534c6f6412f9b2b0b1bba4536c1a6",
+    "text": ") This IRM was created to reﬂects stable content within On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "819ef8ade3b7f6d634941f48ef4281b5",
+    "text": "DLC Delivery Model primarily focused on AGILE DELIVERY. While compliance is essential and in most cases inherently built into the model, it may not be explicitly as such. On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "59370ff0221e7a957dd1b943523e47e7",
+    "text": "DLC and it’s associated IRM is not prescriptive. Therefore IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "c01e6539e278108cb5b5e36fa338d801",
+    "text": "will be supplemented by Internal Revenue Service Document (IRSD) its equivalent (IRM Supplement, SOP, Job Aid, Software or Application Speciﬁc Document, Training Document, ...) to reﬂects the details and evolution of the delivery model into the near future as new and existing projects are onboarded Agile Central team briefed TIGTA team on the On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f1f727b7f80d6db81df8578e45a97a88",
+    "text": "DLC Delivery Model and provided them with the draft of IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b4ec98303135aed1830887d046caa250",
+    "text": "for review and feedback. TIGTA been positive and supportive in their initial feedback of the delivery model the draft IRM and understand the evolutionary nature to model development and maturity. Supplement to IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "51aa9e0f306a9990adf5b7f5f0eaed5c",
+    "text": ") One Solution Delivery Life Cycle (On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "c1b1f092b4b48c2ff21bb375373ec9d1",
+    "text": "DLC) is an IRS tailored, ﬂexible delivery model developed by Agile Central that enables and encourages initia- tives slated for On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b924a931993a07862155aaf365f569c5",
+    "text": "DLC delivery to deliver value-based outcomes early and often. The model provides guardrails for quality, compliance, and executive oversight, while empowering teams to ﬁnd the best solution. Additionally, Agile Central provides products and services to support projects in utilizing On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b33665c09dc15026f4f21994c7f60f9e",
+    "text": "DLC. Central (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "9179779de34e67c2a4e7532be024305c",
+    "text": ") Agile Central maintains and supports this IRM. Agile Central Team is man- aged by the Requirements Engineering Program Office (REPO). The e-mail address for this team is *IT.Agile Central (*it.agile.central@irs.gov) Central Mission (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d6acfbd2d5702b5805eebd465ede6ccc",
+    "text": ") The mission of Agile Central is to: • Support the coordination, integration, and progression of efforts to enable an efficient and effective IRS transformation by optimizing IT product delivery; • Enable Organizational Change, to move towards a whole team, product- based structure; • Transition to a model that enables frequent small batch delivery; • Assist the IRS to implement their strategic vision for On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "1078f1b7867165d0ac7727ed6c50a5ca",
+    "text": "DLC that includes cultural and organizational change that will enable an Agile Transformation; • Deﬁne, develop, and institutionalize a proven set of best practices for managing change in the IRS business processes and systems.; • Integrate and standardize process management activities to improve consistency; and • Provide leadership, consultation, and assistance to ensure understand- ing and effective use of On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2e77dd3835d3aa07ef95efde960eb892",
+    "text": "DLC by all impacted stakeholders.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "8c4e9df5818292e9c62bbef2aab1fa31",
+    "text": ") IRS Document",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "870d9bb97070e5532745d5f8887a3b84",
+    "text": ", Financial Management (Revision",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "816399c9fda18b01b8d1efba21c60a71",
+    "text": ") (Catalog Number",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "27b6a89bfa7f1b402f2bf11560986937",
+    "text": "J) is a resource for information about this program. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "aea534c6f6412f9b2b0b1bba4536c1a6",
+    "text": ") This IRM was created to reﬂects stable content within On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d963b9205bc2b92c4052bd34db3ea5dc",
+    "text": "DLC Delivery Model primarily focused on AGILE DELIVERY. While compliance is essential and in most cases inherently built into the model, it may not be explicitly stated as such. On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "59370ff0221e7a957dd1b943523e47e7",
+    "text": "DLC and it’s associated IRM is not prescriptive. Therefore IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "e611f7e75a1a8b24d89c208fd71a0721",
+    "text": "will be supplemented by Internal Revenue Service Document (IRSD) or its equivalent (IRM Supplement, SOP, Job Aid, Software or Application Speciﬁc Document, Training Document, ...) to reﬂects the details and evolution of the delivery model into the near future as new and existing projects are onboarded Agile Central team briefed TIGTA team on the On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f1f727b7f80d6db81df8578e45a97a88",
+    "text": "DLC Delivery Model and provided them with the draft of IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2b624fb65096178e96de75dfa6744aa7",
+    "text": "for review and feedback. TIGTA has been positive and supportive in their initial feedback of the delivery model and the draft IRM and understand the evolutionary nature to model development and maturity.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "19203f6bc891fae2232abbe7436981dc",
+    "text": "One Solution Delivery Life Cycle (On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "c1b1f092b4b48c2ff21bb375373ec9d1",
+    "text": "DLC) is an IRS tailored, ﬂexible delivery model developed by Agile Central that enables and encourages initia- tives slated for On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b924a931993a07862155aaf365f569c5",
+    "text": "DLC delivery to deliver value-based outcomes early and often. The model provides guardrails for quality, compliance, and executive oversight, while empowering teams to ﬁnd the best solution. Additionally, Agile Central provides products and services to support projects in utilizing On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "e7a6ba491ae03ca0d7e7edbe74bca295",
+    "text": "DLC.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "1aaaf9fe1d0f9c28728f523a86a81b9f",
+    "text": "Support the coordination, integration, and progression of efforts to enable an efficient and effective IRS transformation by optimizing IT product delivery; Enable Organizational Change, to move towards a whole team, product- based structure; Transition to a model that enables frequent small batch delivery; Assist the IRS to implement their strategic vision for On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "72b51d3d00a9614e74b4fe465f8b5ea3",
+    "text": "DLC that includes cultural and organizational change that will enable an Agile Transformation; Deﬁne, develop, and institutionalize a proven set of best practices for managing change in the IRS business processes and systems.; Integrate and standardize process management activities to improve consistency; and Provide leadership, consultation, and assistance to ensure understand- ing and effective use of On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2e77dd3835d3aa07ef95efde960eb892",
+    "text": "DLC by all impacted stakeholders.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "e3a62d37444e23461fb4e6a65b908bf9",
+    "text": "Provide leadership, consultation, and assistance to ensure understand- ing and effective use of OneSDLC by all impacted stakeholders.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ecc1a983f0004841b1ad3fecfbe8257e",
+    "text": "Central Purpose (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "53901dbfaa9e3ef97ab2721c2cc0ff36",
+    "text": ") The purpose of Agile Central is to provide organizational transformation and change expertise and support to develop and implement a strategy to inﬂuence continual organizational, cultural, and IT change that will optimize IT product delivery. This support will build upon the On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "765e97e2ef2f0db77a07a8f8bb498b6d",
+    "text": "DLC approach being imple- mented by Agile Central to simplify product development by enabling delivery in small increments that satisﬁes governance through transparent tool-based content in the IRS enterprise standard delivery tools. Central Objective (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "a34c7acbca218d7c4dfd225b0db91c9e",
+    "text": ") The objectives of Agile Central are to: • Standardize the approach for managing, governing, and supporting projects following the On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d074c5d48ca772e1dc658f836e27d83f",
+    "text": "DLC throughout the IRS; • Improve the probability of successfully achieving desired change within scope and delivering value and impact; • Thought leadership in Agile transformation to continuously develop emergent Agile training and guidance to include agile frameworks, implementation methods, and scaling frameworks; • Provide agile mentoring, coaching, guidance, training, tools, visualiza- tion and ad hoc project support, and Agile organizational transformation/ change strategies; and • Help ensure project success by reducing risk and ensuring compliance with applicable internal and external standards and mandates. Delivery (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3829a51da117c950c8c801091895aee5",
+    "text": ") The On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "5dcdbe47eb0cc2db355de0103602a421",
+    "text": "DLC delivery model consists of three states: • Allocation - A lean funding state that distributes funds toward prioritized needs for chosen strategic themes. • Readiness - A one-time preparation state that gets new teams ready to execute funded work, as soon as possible. • Execution - A continuous delivery state that empowers teams to ‘Plan, Perform, Produce’ by building, testing, and delivering solutions through ongoing learning.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "865ed8bad2875cbe0dc4d214416e03cd",
+    "text": "Standardize the approach for managing, governing, and supporting projects following the On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "6a3f18765733e0b57c6993d5b0738afc",
+    "text": "DLC throughout the IRS; Improve the probability of successfully achieving desired change within scope and delivering value and impact; Thought leadership in Agile transformation to continuously develop emergent Agile training and guidance to include agile frameworks, implementation methods, and scaling frameworks; Provide agile mentoring, coaching, guidance, training, tools, visualiza- tion and ad hoc project support, and Agile organizational transformation/ change strategies; and Help ensure project success by reducing risk and ensuring compliance with applicable internal and external standards and mandates.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "c7b5bbaae2e3d81bd79bd03e79ee5e81",
+    "text": "Help ensure project success by reducing risk and ensuring compliance applicable internal and external standards and mandates.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "5bcc7d3bcde669f19c2df15d95f6fa2d",
+    "text": "Allocation",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "4c9a8f2c10f77354c7a472d6e778ea6b",
+    "text": "A lean funding state that distributes funds toward prioritized needs for chosen strategic themes. Readiness",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "af9158e2f16e9528ee4eaed2b09b2452",
+    "text": "A one",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "71f4c991e9e6f6adffa1dced5d488354",
+    "text": "time preparation state that gets new teams ready to execute funded work, as soon as possible. Execution",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "78ae115d2c5abc33082d0f62f3340b55",
+    "text": "A continuous delivery state that empowers teams to ‘Plan, Perform, Produce’ by building, testing, and delivering solutions through ongoing learning.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ff3f671699642f194183b41bf07a68a6",
+    "text": "Figure 2.31.1-1",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1f5be66894e5ef6a6919e1f6499a7c1e",
+    "text": "Figure",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "2f77f8b7870d4fdc0041bd768e2f643b",
+    "text": ") The Allocation State provides transparency around the various IRS investment types that are available to secure funds for IT related demand. The IRS mission and enterprise strategic goals drive the selection and funding of IT related demand. Additionally, enterprise investments are commonly driven by legislation, modernization efforts, desired business capabilities, and operational/infrastructural needs. In the On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "81d24b402ccfbb076922793eb31299bd",
+    "text": "DLC model, currently the Alloca- tion State is informational only. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "82a2d251d2ad2087b0694cf881ce420c",
+    "text": ") The Readiness State is a one-time sequence of activities and events that allows new initiatives to transition from planning to execution in a quick and efficient manner. Once an initiative is approved and funded during the Alloca- tion State, the Proposal Owner is informed and a Product Manager is assigned. During readiness teams engage Process owners to ensure speciﬁc IT organizational processes are completed for a successful Readiness Exit Review and Transition to Execution State. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1fe237cd211d0191298459c781f07d19",
+    "text": ") The Execution State supports the development of new work, improvements, and maintenance for the life of the product. For new Agile Delivery, the Execution State starts after exiting the one-time Readiness State. For existing products, it will come after the Allocation State. The Product Team executes a sequence of activities where they continuously reﬁne, develop, and deliver the work in the backlog with the potential to ’Release on Demand’ in the future.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "2f77f8b7870d4fdc0041bd768e2f643b",
+    "text": ") The Allocation State provides transparency around the various IRS investment types that are available to secure funds for IT related demand. The IRS mission and enterprise strategic goals drive the selection and funding of IT related demand. Additionally, enterprise investments are commonly driven by legislation, modernization efforts, desired business capabilities, and operational/infrastructural needs. In the On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e3ac4e3c2b33a9e24399349ae9c73f21",
+    "text": "DLC model, currently the Alloca- tion State is informational only.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "cb9bca7416472ee0e017ab34bec83f02",
+    "text": "The Execution State supports the development of new work, improvements, and maintenance for the life of the product. For new Agile Delivery, the Execution State starts after exiting the one",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "bfa3f8d8058d5cc22af207769949f21a",
+    "text": "time Readiness State. For existing products, it will come after the Allocation State. The Product Team executes a sequence of activities where they continuously reﬁne, develop, and deliver the work in the backlog with the potential to ’Release on Demand’ in the future.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "679b2791f38d298079c9d3a13356ab0a",
+    "text": "In addition to this IRM, the Agile Central provides resources in support of the OneSDLC delivery model to include the following:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "b8f35e0a867ae9d478090c368ff43b64",
+    "text": "OneSDLC delivery model is interactive, and compliance is integrated within the model to ensure project compliance through Readiness and Execution",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "1a54612392255732a7e30a3bfe38adbe",
+    "text": "Note: Details regarding IT Governance and how it is integrated within OneSDLC can be found here .",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0f3bd159e56b3be6e93ce8ef76fb311e",
+    "text": "(1) Agile Central Team provides services in support of OneSDLC as follows:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3a17e217461034a942660e9b76cd7dac",
+    "text": ") Agile Central Team provides services in support of On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "ce9709e72646b7eb89e1240fab6992e4",
+    "text": "DLC as follows: • Onboarding projects • Coaching • Training (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "484940ae607901dc90ffd24c2fe105ee",
+    "text": ") When starting the project engagement, On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "a512fb45f54c622671b63c621747a672",
+    "text": "DLC Point of Contact and On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "97ab44611252693c2794ab938ab5a6d4",
+    "text": "DLC Representative from the Agile Central Team are identiﬁed and assigned to the project. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9958957de6b5c956f6b144329265c9ed",
+    "text": ") To get a project to start adopting On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "6d08ad953e42954fe99cc2f3824eeda9",
+    "text": "DLC, familiarize stakeholders with they need to do, what they can get from the On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "f9ab13b8d101e909ce90e4e8e46f40c4",
+    "text": "DLC delivery model, navigate the model. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "b12d0f2bb531f592fcbc7db5603a8e21",
+    "text": ") These are the steps Agile Central will take: (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0f7d88971c20cf2878b524a14cc0ab52",
+    "text": ") Step",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "f3873703bf26c32cbad142be68454f02",
+    "text": "Provide On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "31e2cece063010555a342c06184a7c6a",
+    "text": "DLC Overview (link)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "2c69bb7534b107230a7316bc2c4bb51e",
+    "text": "One Solution Delivery Life Cycle Guidance 2.31.1 page 7",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "07c1e5866eae2b81b34ae9fe2de0046d",
+    "text": "Step 2. Provide OneSDLC Onboarding Deck (link) Step 2a. OneSDLC Team Preparation (viewing and reading) – purpose is for the team to “self-educate”",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "50b02b001d08ea7a1552826b9e3159ce",
+    "text": "View video: Introduction to On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "1be9416f59fa87acbea41ca52810320a",
+    "text": "DLC View Video: Three States of On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "fb99b11cf4272c476bd19bd3653ceb4e",
+    "text": "DLC View video: The Five Pillars View Video: Why On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "5cd7444bd635c151611b8822cd70bfdc",
+    "text": "DLC Review Readiness State Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "a442264e7805641fbf9624b508174d73",
+    "text": "oint pages (Optional) Review Execution State Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "11abe21b5ce95f80d2359e5756fe36b7",
+    "text": "oint pages (Optional)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "c425552210fb8eb4111c4b4808e40ef4",
+    "text": "Step 3b. Sign OneSDLC Onboarding Agreement (link) Step 4. Exploration and discovery on the current project to understand current process(es) to identify strengths, challenges and potential improvements - pur- pose is to trigger improvement by developing a shared understanding. Step 4a. Coaching Questionnaire",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "4dc20bd5d0df58eed94210bd85e7ecbc",
+    "text": "Identify strengths, opportunities, and areas of improvements Align on next steps",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8e6a6cca7aae1d1e781d3ee04849d6b0",
+    "text": "Step",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "5d4323b6b2f0a9fd41fa1299edbde2fe",
+    "text": "b. Review and analyze ELC documentation Step",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "37388d4f5b79bc0b85ab26f780660972",
+    "text": "c. Compare project’s ELC PTP to On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "b5664f8412ccd69c53146f4bdb2baab7",
+    "text": "DLC compliance structure Step",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "90b35ac454d897ae1ee2c2e4d43e8f94",
+    "text": "Create On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "96bf3680552acc8c55ddb5249b6190f7",
+    "text": "DLC exploration outbrief deck Step",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "130011756125313c72f2cab730db4347",
+    "text": "On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "49531d58ab8b5bbf0a56c1849abe1dcb",
+    "text": "DLC introduction (meeting) Step",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "1f21e1a8e8251eb79eda85eb17ba128d",
+    "text": "a. Present On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "bb9951663c1e743d99e28732b2b9f8a3",
+    "text": "DLC exploration outbrief to the project team Step",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "b7bd0ede66b0aa21f0165a16c7a3c767",
+    "text": "b . Formally transition project from ELC to On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "4d7b2b8b2b518d3a7317997c771f9f85",
+    "text": "DLC. Step",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "5de159af35a5d1ed966cbe2f32ed29ea",
+    "text": "Agile Central will give the On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "748227c27ca74024796655b2e61cc0a0",
+    "text": "DLC Familiarization Training Step",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d84c414724190a4a64ea18ef08628576",
+    "text": "(optional) Education/training: Step",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "6ce11ed2856f7ee9b355d00232c27c08",
+    "text": "a. Any other training as identiﬁed in step",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "02404ad21a37f43633f73b3bae17109f",
+    "text": "(i.e., SM, PO, CAT (Core Agile Training), Kanban, MRP (Mid-range Planning))",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "55480a736943d1dc7c18e1f82c544f6a",
+    "text": "Step 8a. Any other training as identiﬁed in step 4 (i.e., SM, PO, CAT (Core Agile Training), Kanban, MRP (Mid-range Planning))",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "063a53cbd32d1f1f6b25bbd58a35244a",
+    "text": "Figure 2.31.1-2",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "7ac615908966fbe1d56b258a6d0d0bd4",
+    "text": "One Solution Delivery Life Cycle Guidance 2.31.1 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "7bce972280a32e7ad5ff807111ebd4e8",
+    "text": "Central Office offers the following support: • Help select delivery model and tailor it as appropriate. • Provide guidance in development of the project’s ‘About Page’ • Assist during Readiness Exit Reviews, Product Review and other interim reviews. • Provide consulting services as needed (Tiered Service Level) • Provide web access to assets, tools, standards, guidelines, templates, and training • Answer questions related to the OneSDLC • Provide OneSDLC guidance and tools for project planning & tailoring (e.g., (Coaching Questionnaire, Onboarding Toolkit) 2.31.1.2.4.3(01-23-2023) Training (1) The Training Roadmap at Agile Central in support of OneSDLC is as follows:",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "045e337b706cbebb0b2d777ed71f2f8e",
+    "text": "Help select delivery model and tailor it as appropriate. Provide guidance in development of the project’s ‘About Page’ Assist during Readiness Exit Reviews, Product Review and other interim reviews. Provide consulting services as needed (Tiered Service Level) Provide web access to assets, tools, standards, guidelines, templates, and training Answer questions related to the On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "684ca25d3f2a230727841b42d34d4250",
+    "text": "DLC Provide On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "e4e2d2d3922ec5a10a64ee8d9a2c48e4",
+    "text": "DLC guidance and tools for project planning & tailoring (e.g., (Coaching Questionnaire, Onboarding Toolkit)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3110eb069d1075be480f6a00ecc6f782",
+    "text": "Figure 2.31.1-3 The three levels of training provided by Agile Central in support of OneSDLC are as follows:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "69816c837320cc2694af2c5a8a901c16",
+    "text": "• Fundamental • Role-Based • Skill Based",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "9ae59ab1ba2aa65e2b1300991ef2f3c2",
+    "text": ") On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "b6b07ed211477e24c7b48200112b9ae8",
+    "text": "DLC Delivery Approach (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "9ae59ab1ba2aa65e2b1300991ef2f3c2",
+    "text": ") On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "a9c0e10e56e0551140a9a4bba976fc07",
+    "text": "DLC supports all development paths within the IRS such as Waterfall, Planned Maintenance, COTS, Managed Services, Iterative, Agile, etc. The Execution State supports three delivery cycles which enable products to easily increase their delivery cadence (deliver more often).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "c3b1f81d5374608453ec6cd6e15174a4",
+    "text": ") Agile Delivery Approach (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "19fa16f27e20da6bf3b3d1dfd2c35d32",
+    "text": ") Execute in two Week Cycles. Appropriate for efforts seeking to deliver often (daily/weekly) and existing efforts already utilizing Agile methods at the Iteration level.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "bc3b355ad2804c4bba402bc5cb8be9cf",
+    "text": "Figure 2.31.1-4 2.31.1.3.2(01-23-2023) Frequent Delivery Approach (1) Execute in two Month Cycles. Appropriate for initiatives with an unpredictable delivery schedule to strategically align every 6 months and connect every 12 weeks on cross-organizational alignment and tactical transparency on planned UWRs and emerging, unplanned request from congress. These initiatives are striving to deliver more frequently but are not ready or it is not appropriate for them to deliver at the iteration level.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "235a040266a5c4f178cbe9bf90e56eae",
+    "text": "Figure 2.31.1-4",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "acf602b6d4c7b9f035789a7228d7a014",
+    "text": "Execute in two Month Cycles. Appropriate for initiatives with an unpredictable delivery schedule to strategically align every 6 months and connect every 12 weeks on cross-organizational alignment and tactical transparency on planned UWRs and emerging, unplanned request from congress. These initiatives are striving to deliver more frequently but are not ready or it is not appropriate for them to deliver at the iteration level.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "c8769cc0bfdc2841173b203de74674c4",
+    "text": "Figure 2.31.1-5",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "7ac615908966fbe1d56b258a6d0d0bd4",
+    "text": "One Solution Delivery Life Cycle Guidance 2.31.1 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "25cf360596d4d4521189218a5b6000ac",
+    "text": "Figure 2.31.1-6",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "d3239df2a6571f54cc9b3821708e9483",
+    "text": ") Governance is a process of putting structure around how IRS aligns IT strategy with business strategy, ensuring that it stays on track to achieve strategies and goals, and implementing best practices to measure IT perfor- mance. It makes sure that stakeholders’ interests are considered and that processes provide measurable results. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "9ae59ab1ba2aa65e2b1300991ef2f3c2",
+    "text": ") On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "23593184333479f9ac3a6a65ca4382f2",
+    "text": "DLC has an integrated governance process that empowers teams to deliver frequent small increments. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "9ae59ab1ba2aa65e2b1300991ef2f3c2",
+    "text": ") On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "d7babd6506feb757e975317995ea0018",
+    "text": "DLC has formal compliance and governance signoffs done at only two points - at the Readiness Exit Review and at the Product Review. New initia- tives will complete compliance documentation in Readiness Exit Review and Product Review for Agile projects. Compliance documents will be signed before entering the Readiness Exit Review. At the Readiness Exit Review projects will present their roadmap and get Governance Board approval to executing. Once a new initiative exits the Readiness State, they will not to it. Governance and compliance will continually occur in the Execution The reduction of governance and compliance to just two reviews initially for ﬁrst cycle and then just one review in execution reduces the amount of time producing compliance documentation.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "9814ebf531feabc97e86d6ac5e0a972e",
+    "text": "READINESS STATEFlowe 23117",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "fe318bf82b33e029e10bd5fd6403b8f3",
+    "text": ") Within On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d325b4baadafddaf5c4a5f838e69e92f",
+    "text": "DLC, the Readiness Exit Review event signiﬁes the end of the Readiness State. The goal of the event is to create awareness and answer any questions or concerns about the initiative before it enters the Execution State. On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "37d92c56a504487a8b8d202195c829b4",
+    "text": "DLC will reduce the Compliance and Governance burden by in- creasing the quality and consistency of these checkpoints by: • Building upon the success ELC has had with the bundled review process. • Two formal review points at the Readiness Exit Review and Product Review for all project types. • Ensuring the right level of data is being reviewed at the right point. • Continually working with Process Owners to modernize compliance reduce the burden on them and the projects. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "e95b0f04f867ea59cea7ed170ebbfa3c",
+    "text": ") The high level steps are: • Teams complete compliance documentation. • Compliance documents are signed before Readiness Exit Review. • At the Readiness Exit Review the team gets Governance Board approval to start executing. • Once a new Initiative exits the Readiness State, they will not return • Governance and Compliance will continually occur in the Execution State. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "f2af7e025944f2ede0d1d4fb1e1c9bc9",
+    "text": ") All artifacts for new initiatives must be approved by the appropriate Gover- nance Body before they can begin the Execution State. Compliance documents will be signed before entering the Readiness Exit Review. At the Readiness Exit Review (designated in blue with diagonal stripes below) the Product Team will present their plan, hypotheses, goals, and roadmap to get appropriate Governance Body approval to start executing. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "f7289d49ea8c4dbe8a5845bebcbafa64",
+    "text": ") Once a new initiative exits the Readiness State, they will not return to it and Governance and Compliance will continually occur in the Execution State.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "9efc6de46d52170e95989246dd085fa2",
+    "text": "Building upon the success ELC has had with the bundled review process. Two formal review points at the Readiness Exit Review and Product Review for all project types. Ensuring the right level of data is being reviewed at the right point. Continually working with Process Owners to modernize compliance to reduce the burden on them and the projects.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "b9d1af009019d744f3a6ef2d67c5c81e",
+    "text": "Teams complete compliance documentation. Compliance documents are signed before Readiness Exit Review. At the Readiness Exit Review the team gets Governance Board approval to start executing. Once a new Initiative exits the Readiness State, they will not return to Governance and Compliance will continually occur in the Execution State.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "8b24b8cae7c2da0267ca89985c0ca96b",
+    "text": "Once a new initiative exits the Readiness State, they will not return to it and Governance and Compliance will continually occur in the Execution State.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "7ac615908966fbe1d56b258a6d0d0bd4",
+    "text": "One Solution Delivery Life Cycle Guidance 2.31.1 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "2fb6e488bdbd3480c24445e4cddb114c",
+    "text": ") The Process Owners review and approve compliance artifacts at the Product Review event which occurs every",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "aa3652629e2fa7be2e3e0f6a16909dd4",
+    "text": "months. The integrated governance process enables teams to release more frequently because most compliance documents only need to go through the signature process every",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "1acb8079bd940161e56abfb80b4fea41",
+    "text": "months. During each Iteration Cycle and Mid-range cycle teams are expected to the compliance artifacts, encouraging Process Owners to check for updates they are being made. The release process, over the course of one year, a Product Team to deploy to production without having to complete all artifacts or conduct reviews for every deployment. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "2c7a1b0aa6fcc6b050da7f5061b0ff8f",
+    "text": ") Prior to any deployment, whether it is at the Mid-range or the Iteration, Security,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "0fd6d3f0e6e4cc9b41c4ba513d705e15",
+    "text": ", Privacy, and the COH will be updated and signed by the respec- tive Process Owners. Additionally, the Authorizing Official will sign off on the release. If a deployment is planned for the Mid-range or the Iteration, the Au- thorizing Official (AO) or equivalent Executive will be invited to the Mid-range or Iteration Review so they know what capabilities will be deployed. The rest the ELC compliance documents will be updated throughout the Product Cycle (six months) and reviewed and signed by the end of the six-month Product Cycle.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "6afee7d06d5abcd5b08ac8bf9895354f",
+    "text": ") The Product Cycle Compliance Process is where Process Owners review and approve Compliance Artifacts prior to the Product Review event - which occurs every six months. The Product Cycle Compliance Process enables teams to release more frequently. During each Iteration Cycle, teams are expected to update the compliance artifacts, encouraging Process Owners check for updates as they are being made. The compliance process, over course of six months, allows a Product Team to deploy to production without having to complete all artifacts or conduct reviews for every deployment. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "89f668a8391bbc84e8a9a30779d81813",
+    "text": ") All artifacts must be approved by the appropriate governance board before they can begin. The compliance process, over the course of six months, a Product Team to deploy to production without having to complete all artifacts or conduct reviews for every deployment. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "71f300717e4fcea6911c9ee263e3f183",
+    "text": ") During the Product Review, the product team demonstrates the working solutions they want the executive to approve. The executives decide which",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "244f7303b5225adf04a9dc9251fd040b",
+    "text": "During the Product Review, the product team demonstrates the working solutions they want the executive to approve. The executives decide which",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "2f48aae157f3dca140498ee7556e88aa",
+    "text": "solutions proceed to production and which do not. These decisions must be documented. At the end of the six months, a Product Review event is conducted to approve and sign off the remaining artifacts.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "51b2f38d1c8e5664aff3d83fec0792dc",
+    "text": "Governance and Compliance will continually occur in the Execution State.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "a73a2bb2dfc4d2a2020a65927945b1f2",
+    "text": "Approval/AwarenessPoints State Activities Compliance Every six months the ap- propriate Gover- nanceBodyapprovestheProductPlan(release), which consists of the high-level prioritized epics the initia- tive plans to work in that six-monthperiod.Theyalsovalidatetheneedforanyadditionalfundsorchangesinschedule Execution ProductPlanning Appropri-ateGovernanceBodyacknowl-edgeallnecessarycom-pliance documentation are up to date. Execution Product Review Product Review Checklist",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "44b66aeb6a6ab6970452723b1d376f7e",
+    "text": "Deployment Au- thorizingOfficial(DAO)orequivalentExecutiveinvitedforawarenesstotheMid-rangeorIterationReviewwhattheteamplanstodeployduringtheMid-rangeand iteration cycle(s) Execution Iteration/Mid-range After the PO decided to deploy function- ality, the DAO or equivalent Executiveapprovespro-ductionreleaseongo/no-go. Execution ProductionRelease Execution Prior to Production Checklist Delivery Life Cycle Guidance 2.31.1 page 15",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "52641c001738efdddbadb03842235e9c",
+    "text": "the Product Plan. The plan consists of high-level prioritized Epics the project plans to work on over that six-month period. The project also validates the need for any additional funds or changes in schedule. Governance Board approves the delegation of the decision to deploy production for Product Cycle period to the Deployment Authorizing Official (DAO). Deployment Authorizing Official (DAO) or equivalent Executive invited for awareness to the Mid-range or Iteration Review what the team plans to deploy during the Mid-range and iteration cycle(s) Prior to any deployment before the six-month Product Cycle, the following artifacts must be signed by the official process owner approver: - Security Package (Security Impact Assessment (SIA), Penetra- tion Testing & Code Analysis (PTCA) scan, Security Change Request (Sec CR) as required by Cybe",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "aac38b3535bfc40db4223a666af1e1ef",
+    "text": "ecurity) - Privacy Package/Privacy and Civil Liberties Impact Assessment",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "ceccdc594378b8ef7b1b6280b284b510",
+    "text": "- Security Package (Security Impact Assessment (SIA), Penetra- tion Testing & Code Analysis (PTCA) scan, Security Change Request (Sec CR) as required by Cybe",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "e4f73e55b81eee2f87d5b8367a1a6796",
+    "text": "ecurity) - Privacy Package/Privacy and Civil Liberties Impact Assessment (PCLIA) -",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "135e092dd62d14a0ce19c93de690e8f3",
+    "text": "Accessibility and Mitigation Package - Computer Operator Handbook (COH)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "3a5b9ac9d847943c61f88e3e76614fcb",
+    "text": "Upon veriﬁcation of signature on the above artifacts, the DAO or their designated official will make a go/no-go decision on approval of deploy- ment to production. The rest of the compliance documents will be updated throughout the Product Cycle (six months) and progress is captured in the Execution Memorandum. After all compliance documents are up to date the Execution Memorandum is signed by On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "4cf97a762014711f4ffc4a7ac339fb02",
+    "text": "DLC Rep. The signed Execution Memorandum is acknowledged during Product Review by the appropriate Governance Body.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "d263066f0d8806dbefc4c76fbf691437",
+    "text": ") All artifacts for new projects must be approved by the appropriate Governance Board before they can begin Execution. Compliance documents will be signed before entering the Readiness Exit Review. At the Readiness Exit Review the projects will present their roadmap and get Governance Board approval to start executing. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "289aab78bf6a7c6fb7bcb5b94e44cce2",
+    "text": ") Readiness Exit Artifacts must be completed to support the initiative’s Minimum Viable Product (MVP). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "8fd178981a4cac7e25460aff69a0b5fd",
+    "text": ") These set of artifacts are initiated in the Readiness State. For future iterations in the Execution State, appropriate artifacts will be updated based on new insights/product enhancements. • List of Compliance Artifacts Note: See the linked document for a printable and ﬁllable version. • List of Readiness Exit Artifacts. • List of Product Review Artifacts",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "a7af7b78544013695ccaa29f29c72349",
+    "text": "All artifacts for new projects must be approved by the appropriate Governance Board before they can begin Execution. Compliance documents will be signed before entering the Readiness Exit Review. At the Readiness Exit Review the projects will present their roadmap and get Governance Board approval to start executing.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "6c8af718323765b9a887c3ac18b0640b",
+    "text": "Note: See the linked document for a printable and ﬁllable version.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "7f98235ef2899751d029a0e3e6517c76",
+    "text": "One Solution Delivery Life Cycle Guidance 2.31.1 page 17",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "97b347b8e3996282ed3d009bfe161025",
+    "text": "Business is responsible for deﬁning the business value and acceptance of the product. They write and submit the Lean Business Case for funding approval and speak to the functional competence of the current and near",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "59117c9260153428e39a16ba8abd4480",
+    "text": "term solutions. They are actively involved throughout the development of the product as key participants in planning and reviewing the solution, eliminating impediments, and representing the customers’ needs. Business is organized into four primary Business Operating Divisions (BODs): Wage & Investment (W&I), Large Business & International (LB&I), Small Business/Self Employed (SB/SE), and Tax Exempt & Government Entities (TEGE)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "97b347b8e3996282ed3d009bfe161025",
+    "text": "Business is responsible for deﬁning the business value and acceptance of the product. They write and submit the Lean Business Case for funding approval and speak to the functional competence of the current and near",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "08c1071c884cfe6a97d2d27a788ef3c9",
+    "text": "term solutions. They are actively involved throughout the development of the product as key participants in planning and reviewing the solution, eliminating impediments, and representing the customers’ needs. Business is organized into four primary Business Operating Divisions (BODs): Wage & Investment (W&I), Large Business & International (LB&I), Small Business/Self Employed (SB/SE), and Tax Exempt & Government Entities (TEGE) A COR is responsible for the contract administra",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "a38f317ab62b601508dcf60e26fd8166",
+    "text": "tion process and focuses on post",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "416e21615e2124a6a1a16752c013c070",
+    "text": "award administration during the procurement cycle. They contribute to the contract’s overall success by ensuring the terms and conditions of the contract are fulﬁlled, the Department of the Treasury’s mission is upheld, and taxpayer dollars are prudently spent The ESC sponsors the Governance Board(s) and provides executive approval authority over Gover",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "f90238597965d41cc0f8021e9ca19e71",
+    "text": "nance Board recommendations. The responsibilities of the ESC are overseeing its portfolio and subordinate Governance Boards; resolving escalated risks and issues; approving performance baseline and baseline changes; spon",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "7b38c4796c1b3a60749ee1987bb8958a",
+    "text": "soring governance and advisory boards as needed; and delegating decisions to a Gover",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "538d342a79fba5fc41a3e303842d1384",
+    "text": "nance Board when appropriate A facilitator plans and leads events, ceremonies, and meetings to ensure attendees achieve the intended purpose. They can be team members or non",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "f3cd3adda496c5b3759a5c78a0fe4b7e",
+    "text": "team members and will differ depending on the event. The facilitator’s sole focus is guiding attendees through the event. They do not partici",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "683328918455815e0452dd20113c9493",
+    "text": "pate in discussions as a team member during the meeting",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "e7045f8eabb35d6fdcfbce27bec14b28",
+    "text": "A COR is responsible for the contract administra",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "a38f317ab62b601508dcf60e26fd8166",
+    "text": "tion process and focuses on post",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "6b982e3f0d29c4e75ef7298dc6ad8ff9",
+    "text": "award administration during the procurement cycle. They contribute to the contract’s overall success by ensuring the terms and conditions of the contract are fulﬁlled, the Department of the Treasury’s mission is upheld, and taxpayer dollars are prudently spent",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "4d95373207ef823228a09145dc8f6f02",
+    "text": "The ESC sponsors the Governance Board(s) and provides executive approval authority over Gover",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "f90238597965d41cc0f8021e9ca19e71",
+    "text": "nance Board recommendations. The responsibilities of the ESC are overseeing its portfolio and subordinate Governance Boards; resolving escalated risks and issues; approving performance baseline and baseline changes; spon",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "7b38c4796c1b3a60749ee1987bb8958a",
+    "text": "soring governance and advisory boards as needed; and delegating decisions to a Gover",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "96d09fa7dd45ce773f71bb0a5f5a8e28",
+    "text": "nance Board when appropriate",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "133611b5d11b823fc77363ccf21ec05e",
+    "text": "A facilitator plans and leads events, ceremonies, and meetings to ensure attendees achieve the intended purpose. They can be team members or non",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "f3cd3adda496c5b3759a5c78a0fe4b7e",
+    "text": "team members and will differ depending on the event. The facilitator’s sole focus is guiding attendees through the event. They do not partici",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "683328918455815e0452dd20113c9493",
+    "text": "pate in discussions as a team member during the meeting",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "900359ff0afc205522a0315449227866",
+    "text": "The Governance Board provides support to the ESC for all investments, products, and initiatives within its assigned portfolio to ensure information technology (IT) investment, program, and project objectives are met; risks are managed appropri",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "6c8eba9025c08c77129f53bfbe7e7c28",
+    "text": "ately; and the expenditure of enterprise resources is ﬁscally sound. The Governance Board may establish lower",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "90d7e8dca79a12bb56819f82bc9def5f",
+    "text": "level advisory boards to provide speciﬁc management studies and recommenda",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "61ee27439a8c6dae0391192b4df17781",
+    "text": "tions",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "48d2caab6fd1affab45ad4d5c3ec0a09",
+    "text": "A Process Owners is an organization or indi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "72a88f15d7b83009b37c961374256251",
+    "text": "vidual accountable for the management of an enterprise process. They are responsible for spon",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "a3da5e9cefe13bb37125057b3459e923",
+    "text": "sorship, design, change management, continuous process improvement, and certifying compliance. Process Owners deﬁne the process policies and standards; ensure that the process is formally documented in a directive, IRM, or process de",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "825a8dcbc240251fedbe4974315533b5",
+    "text": "scription; deﬁne the implementation strategy; review the project’s compliance with the process owner’s process; and provide a written approval/ disapproval",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "c21dc05f1d4c8067f95f1cbef6e28bc0",
+    "text": "The Product Sponsor leads the initiative for the enterprise business and executive leadership who own the product. They oversee the initiative’s scope and objectives to ensure alignment is main",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "dbf51cfb4e803bf8feb96f9198227d2e",
+    "text": "tained with organizational goals and priorities. The Product Sponsor provides and/or manages funding, strategic input, and approval throughout the evolution of the product vision; as well as the expected beneﬁts, risks, and outcomes of the ini",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "b70fc5fa99944c91b43b3b4048add891",
+    "text": "tiative. They are also responsible for removing organizational impediments that are beyond the Product Owner’s purview",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "9888c773842d42475c60f900990be5e9",
+    "text": "The Product Manager is responsible for managing the Product Roadmap and supporting the Product Team as needed. They communicate the state of the initiative and manage expectations from lead",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "0509b6a8e543e7e6e0cc1de909222dda",
+    "text": "ership and the team. The Product Manager also collaborates with the Product Owner and Product Sponsor to validate assumptions and reﬁne strate",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "596f8d85b5261e8050342b65eb57021a",
+    "text": "gies to achieve product Objectives and Key Results (OKRs)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "7ac615908966fbe1d56b258a6d0d0bd4",
+    "text": "One Solution Delivery Life Cycle Guidance 2.31.1 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "cd4bdcf6d8932947ac845d77cc1a5bf2",
+    "text": "Exhibit 2.31.1-1 (Cont. 2) (01-23-2023) Roles",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "078277bc0ba0ac55e140640330d938aa",
+    "text": "The Product Owner manages and priori",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "2cdcd57f4c1a24719df38f8ca609f4ce",
+    "text": "tizes the Product Backlog and Mid",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "36ddc6b0061e509177383eefd07eb628",
+    "text": "range Backlog. They are responsible for deﬁning stories and priori",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "1a2839fab5e89f090078d8457e4e53aa",
+    "text": "tizing the Iteration Backlog to streamline execution. The Product Owner has a signiﬁcant role in maxi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "a0d41638ab14af551690f29bde1a696d",
+    "text": "mizing the team’s value by ensuring stories meet the user’s needs and comply with the Deﬁnition of Done. They collaborate with the Product Manager, Product Sponsor and Business to validate as",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "aac3d1fcb449694435c7d12c1cff30d3",
+    "text": "sumptions, reﬁne OKRs, and prioritize backlog items to achieve product goals The Resource Manager assists the Product Team with human resources planning. They",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "7904a072f40b3c9494183466dd421411",
+    "text": "The Resource Manager assists the Product Team with human resources planning. They determine a team’s capacity to meet staffing re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "1dc46e0c5136732b7a015609e2ef42b9",
+    "text": "quirements, hire new employees, and/or assign available personnel to a Product Team based on their skills and experience",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "928ea70d612c0c7709fa0fcc21328699",
+    "text": "The Scrum Master ensures that the Product Team understands and follows Agile principles while safeguarding the team from external elements. They coach and mentor the team to stay produc",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "1095f4b7f3966a2b2a48dfefaad5c0fb",
+    "text": "tive, remove obstacles, and develop into a self",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "95b9f9a0ea99f5fce7f94f4d19fbb547",
+    "text": "conﬁdent, self",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "40e711ceafc349eee5723e1a5bcbc790",
+    "text": "organizing, high",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "234a835de0c5a53aabfecf0ff6ca0e26",
+    "text": "performing team. The Scrum Master typically facilitates the Iteration Planning, Daily Standup, Iteration Review, and Iteration Retrospective events, but is not re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "2ab9a3396cc3d680b258fd8d2b711965",
+    "text": "sponsible for the outcome of the team’s work. The Scrum Master also facilitates interactions between the team and the broader organization to optimize the team’s value",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "86a3b28821c1650035e3dde3df34014c",
+    "text": "and Iteration Retrospective events, but is not re- sponsible for the outcome of the team’s work. The Scrum Master also facilitates interactions between the team and the broader organization to optimize the team’s value",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "d1223aa4906685a39cb6a5c8f482bf19",
+    "text": "A stakeholder is any person, organization, or business unit that has an interest or investment in the product, including the end user. They partici",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "0fcb3ffdf4accd553cee3804fa822db2",
+    "text": "pate in developing the product vision and high",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "5e0d0abd8929f939bea24c284740524e",
+    "text": "level goals. Stakeholders may also participate, in some capacity, in the funding, approvals, or other executive",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "aa8b48f263253127a72698976cce48e1",
+    "text": "level decisions of the product",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "1582080c04f294f1a5084a2d94b4de4f",
+    "text": "A SME is a specialist that serves in a predomi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "1c018ee762dabf8ea0a57f1cfb1b55bc",
+    "text": "nantly advisory capacity. They are responsible for supporting the Product Team to meet their OKRs and goals",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "5174999d6247664dfa91bd689984a785",
+    "text": "One Solution Delivery Life Cycle Guidance 2.31.1 page 21",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "9d6585dd3d7668721b443079cc4ddfdb",
+    "text": "Acronym Meaning AD Applications Development CCB Conﬁguration Control Board CII Conﬁguration Identiﬁcation Index CM Conﬁguration Management COTS Commercial-Off-the-Shelf CPE Current Production Environment CTR Customer Technical Review DBMS Database Management System DOR Deﬁnition of Ready DID Data Item Description DOD Deﬁnition of Done EA Enterprise Architecture ELC Enterprise Life Cycle ESC Executive Steering Committee EST Enterprise Systems Testing EoTCR End of Test Completion Report FISMA Federal Information Security Management Act GEL Government Equipment List IRM Internal Revenue Manual IRS Internal Revenue Service IT Information Technology ITRAC IItem Tracking Reporting and Control System ITSM IT Service Management LCSR Life Cycle Status Review MER Milestone Exit Review MRR Milestone Readiness Review MRVR Milestone Readiness Validation Review MS Milestone OKR Objectives and Key Result O & M Operations and Maintenance",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "18346223cedc7ff2bc5f8c88295e2046",
+    "text": "OMB Office of Management and Budget PAL Process Asset Library PCLIA Privacy and Civil Liberties Impact Assessment PD Process Description PLC Product Life Cycle PM Project Manager PMP Project Management Plan PTP Project Tailoring Plan PR Procedure QMP Quality Management Plan REPO Requirements Engineering Program Office RFP Request for Proposal RIM Records and Information Management RM Risk Management RMA Records Management Application RMP Risk Management Plan RP Requirements Plan SAT Systems Acceptability Testing SDLC Software Development Life Cycle SBU Sensitive But Unclassiﬁed SIT System Integration Test SM Senior Manager SME Subject Matter Expert SP Security Package SR Sprint Review TIGTA Treasury Inspector General for Tax Administration TWA Team Working Agreement USI User System Interface UWR Uniﬁed Work Request WBS Work Breakdown Structure",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "7fb6804914b658814488c65d124ce61d",
+    "text": "Lists terminology commonly used in Agile and Scrum practices.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "1a633d1b339347668210dff361caa7fd",
+    "text": "If you have a term that is not listed here, please email it.agile.central@irs.gov",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "2a302edde611c24706e28a8ea5eae380",
+    "text": "Acceptance Criteria “Acceptance criteria are the conditions that a software product must satisfy to be accepted by a user, customer, or in the case of system level functionality, the consuming system. Accep",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "2da70c8cb478744aa36e7b1a7e0657d3",
+    "text": "tance Criteria are a set of statements, each with a clear pass/fail result, that are applicable at the Epic, Feature, and Story Level. ″ Source: www.leadingagile.com",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "6b6f136387c45a5cc912fbb4974175ce",
+    "text": "A set of software development principles emphasizing ongoing collabo- ration between the customer and the self-organizing, cross-functional delivery teams. Agile promotes early and frequent value delivery, em- powerment, frequent value delivery, technical excellence, and process adaptability throughout the life-cycle of the project. There are a number of speciﬁc Agile methods and practices, such as Scrum, Extreme Pro- gramming, etc. Source: Adapted from Agile Alliance",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "705052c1e44565cb1327e5b99f3b6f16",
+    "text": "The Agile Team consists of professionals who do the work of delivering a potentially releasable, ″ Done ″ product at the end of each Sprint. Agile Teams are structured and empowered by the organization to organize and manage their own work. Only they work on the sprint backlog items producing product. The resulting synergy optimizes the Agile Teams’ overall efficiency and effectiveness. Source: Adapted from the Scrum Guide deﬁnition of Development Team Synonym: ″ Federated Delivery Team ″ (FTD) is similar but not entirely synonymous. Development Team and Scrum Team are also synonyms of Agile Team",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "12b8660513205d98d121e7b3d82b5ad5",
+    "text": "Source: Adapted from the Scrum Guide deﬁnition of Development Team Synonym: ″ Federated Delivery Team ″ (FTD) is similar but not entirely synonymous. Development Team and Scrum Team are also synonyms of Agile Team",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "f28fafd69740753e2abdb5c78e08b9c1",
+    "text": "An ever-evolving list of items relating to needed product functionality or actions (e.g., bug ﬁx), prioritized by the Product Owner, that conveys to an Agile team what functionality is desired to be implemented ﬁrst. Agile initiatives typically employ a top level backlog, known as a product backlog, often also a release backlog, and each Agile team working on a product typically creates a backlog for each development iteration or sprint, known as an iteration backlog or sprint backlog. Source: Adapted from The Agile Dictionary",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "da8fc4fd73c6fd16b8a8a7df5b27c020",
+    "text": "Total number of available hours for a sprint is called the develoment team’s Capacity. Available hours is calculated based on the number of development team members, their daily work schedules, the percentage each team member is allocated to the team, and planned days off or holidays.Source:Adapted from Projec",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "f5e67384bb8279ada375d22b91024a76",
+    "text": "anagement.com",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "537c96128f1caddffcb52abb41f7125c",
+    "text": "from Projec",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "17c39b0d8b54c97e958ecb4ad0409ef1",
+    "text": "anagement.com The Daily Scrum is a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "887cb594da8c16c0b77898506379186c",
+    "text": "minute time-boxed event for the Development Team to synchronize activities and create a plan for the next",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "bfbbf44bd62b00ab2db26bb5ab6d044e",
+    "text": "hours. This is done by inspecting the work since the last Daily Scrum and fore- casting the work that could be done before the next one. The Daily Scrum is held at the same time and place each day to reduce complex- ity. During the meeting, Each Development Team member reports: What did I do yesterday that helped the Development Team meet the Sprint Goal? What will I do today to help the Development Team meet the Sprint Goal? Do I see any impediments that prevent me or the Develop- ment Team from meeting the Sprint Goal? Source: Scrum Guide",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "505c8320f5021aec2070b18a79239e7f",
+    "text": "The team agrees upon criteria for work to be complete. Criteria could exist for user stories, sprints, and any other items the team ﬁnds useful. Source: Agile Alliance and Scrum Guide",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "d53b221b0b52fc484bfb12ac8e3918f1",
+    "text": "Large user stories are typically referred to as epics. There’s no magic threshold at which we call a particular story an epic. It just means “big user story.” Epics generally take more than one or two sprints to develop and test. They are usually broad in scope, short on details, and will commonly need to be split into multiple, smaller stories before the team can work on them. Source: Mike Cohn - Scrum Alliance",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "b6280e48e94e628a39471e5cf979ee3c",
+    "text": "A coherent business function or attribute of a software product or system. Features are large and usually comprise many detailed [user stories]. A single feature typically is implemented through many stories [and potentially more than one iteration]. Features may be functional or non-functional; they provide the basis for organizing stories. [Today, Agile initiatives that do make use of the term ″ features ″ place them between Epics and User stories. Simply going from Epics to users stories is common.] Source: Adapted from SolutionsIQ",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "72975f6d8ff01511e81495be177f5e70",
+    "text": "An Impediment is anything that keeps the Team from getting work Done and that slows Velocity. Impediments come in many forms: a sick team member, a missing resource, lack of management support or even a cold team room. If it’s blocking the team from doing its work, it’s an Im- pediment. (Scrum Inc.) Source: Scrum Inc.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "7ac615908966fbe1d56b258a6d0d0bd4",
+    "text": "One Solution Delivery Life Cycle Guidance 2.31.1 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "ec4627cfc84b5fe593e80500499d514c",
+    "text": "Exhibit 2.31.1-3 (Cont. 2) (01-23-2023) Deﬁnitions (Agile Terms)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "3e75fd5f1f888803aa2ab40e038f95f4",
+    "text": "There are two distinct but valid uses of the term ″ increment ″ in Agile. One deﬁnition is concerned with the state of the product at the end of a particular sprint. The other deﬁnition refers to the larger, multiple-sprint timebox that a set of coordinated teams will use to conduct regular joint inspect and adapt cycles of the total product and process across all teams. Deﬁnitions are given below for both usages:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "4756fcfde0c63691af300ba780967f79",
+    "text": ") The sum of all the product backlog items completed during a sprint and the value of the increments of all previous sprints. At the end of a Sprint, the new increment must be ″ Done ″ , which means it must be in useable condition and meet the Scrum Team’s deﬁnition of ″ Done. ″ It must be in useable condition regardless of whether the Product Owner decides to actually release it.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "ce485fb8371ed143088992106b3831c8",
+    "text": ") A Program Increment (PI) is a timebox at the next level up (e.g., program level) from a set of coordinated teams operating on syn- chronized sprints. A PI timebox includes several team level sprints (e.g.,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "1e5b92562049e6b64067e389e8fe3a5c",
+    "text": "sprints). This increment provides an opportunity for the teams as a whole to inspect and adapt the integrated product and process across all teams in a larger timebox, synchronized with the team level sprints. Source: Scrum Guide, Adapted from SAFe deﬁnition An iteration is a standard, ﬁxed-length time box during which teams",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "7320c46bd3577998259926c365d91581",
+    "text": "One deﬁnition is concerned with the state of the product at the end of a particular sprint. The other deﬁnition refers to the larger, multiple-sprint timebox that a set of coordinated teams will use to conduct regular joint inspect and adapt cycles of the total product and process across all teams. Deﬁnitions are given below for both usages: 1) The sum of all the product backlog items completed during a sprint and the value of the increments of all previous sprints. At the end of a Sprint, the new increment must be ″ Done ″ , which means it must be in useable condition and meet the Scrum Team’s deﬁnition of ″ Done. ″ It must be in useable condition regardless of whether the Product Owner decides to actually release it. 2) A Program Increment (PI) is a timebox at the next level up (e.g., program level) from a set of coordinated teams operating on syn- chronized sprints. A PI timebox includes several team level sprints (e.g., sprints). This increment provides an opportunity for the teams as a whole to inspect and adapt the integrated product and process across all teams in a larger timebox, synchronized with the team level sprints. Source: Scrum Guide, Adapted from SAFe deﬁnition",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "87df6cc3695774bc6e5da8a758c493be",
+    "text": "5 sprints). This increment provides an opportunity for the teams as a whole to inspect and adapt the integrated product and process across all teams in a larger timebox, synchronized with the team level sprints. Source: Scrum Guide, Adapted from SAFe deﬁnition",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "f2b94d712d335bdf2c19ac98ada905b2",
+    "text": "A minimum viable product has just those core features sufficient to deploy the product, and no more. Developers typically deploy the product to a subset of possible customers—such as early adopters thought to be more forgiving, more likely to give feedback, and able to grasp a product vision from an early prototype or marketing information. This strategy targets avoiding building products that customers do not want and seeks to maximize information about the customer per dollar spent.Source: Wikipedia",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "b67856a7b8bd1b1dfd9200b04ceb549f",
+    "text": "Pair programming is an agile software development technique in which two programmers work together at one workstation. One, the driver, writes code while the other, the observer or navigator, reviews each line of code as it is typed in. The two programmers switch roles frequently [and team members may change pairings frequently to ensure knowledge sharing]. Source: Wikipedia",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "559a3d83a8af0dbb3c62aa5ff2d71375",
+    "text": "As described in the Scrum Guide, the Product Backlog is an ordered list of everything that might be needed in the product and is the single source for any changes to be made to the product. The Product Owner is responsible for the Product Backlog, including its content, availability, and ordering. Source: Scrum.org",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "05b49962c00c76e03fbf4ad4b3cb1e35",
+    "text": "The Product Owner is responsible for maximizing the value of the product and the work of the Development Team. How this is done may vary widely across organizations, Scrum Teams, and individuals. The Product Owner is the sole person responsible for managing the Product Backlog. Product Backlog management includes: Clearly expressing Product Backlog items Ordering the items in the Product Backlog to best achieve goals and missions Ensuring that the Product Backlog is visible, transparent, and clear to all, and shows what the Scrum Team will work on next Ensuring the Development Team understands items in the Product Backlog to the level needed Source: Scrum Guide",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "05b49962c00c76e03fbf4ad4b3cb1e35",
+    "text": "The Product Owner is responsible for maximizing the value of the product and the work of the Development Team. How this is done may vary widely across organizations, Scrum Teams, and individuals. The Product Owner is the sole person responsible for managing the Product Backlog. Product Backlog management includes: Clearly expressing Product Backlog items Ordering the items in the Product Backlog to best achieve goals and missions Ensuring that the Product Backlog is visible, transparent, and clear to all, and shows what the Scrum Team will work on next Ensuring the Development Team understands items in the Product Backlog to the level needed Source: Scrum Guide",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "18f4cf8d0ce8b31eb32a800dd80c5a58",
+    "text": "A release backlog is a subset of the product backlog that is planned be delivered in the coming release, typically a three- to six-month horizon.Source: Mountai",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "9f7b0fb584879b3b9a1dcffc178823ba",
+    "text": "oa",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "0f621cb927edb401759697fa55a435e9",
+    "text": "oftware.com Synonym: Release Plan",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "1dd148b5c3bb1e238da513a255a1e23b",
+    "text": "Scrum is a process framework that has been used to manage complex product development since the early 1990s. Scrum is not a process or a technique for building products; rather, it is a framework within which you can employ various processes and techniques. The Scrum framework consists of Scrum Teams and their associated roles, events, artifacts and rules. Source: The Scrum Guide 2016",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "e6c9634b3c0982cb15441c0280d66b25",
+    "text": "The Scrum Master is responsible for ensuring Scrum is understood and enacted. Scrum Masters do this by ensuring that the Scrum Team adheres to Scrum theory, practices, and rules. The Scrum Master is a servant-leader for the Scrum Team. The Scrum Master helps those outside the Scrum Team understand which of their interactions with the Scrum Team are helpful and which aren’t. The Scrum Master helps everyone change these interactions to maximize the value created by the Scrum Team. Source: Scrum Guide",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "7ac615908966fbe1d56b258a6d0d0bd4",
+    "text": "One Solution Delivery Life Cycle Guidance 2.31.1 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "162954efad5d0064042938312c3c56a7",
+    "text": "Exhibit 2.31.1-3 (Cont. 4) (01-23-2023) Deﬁnitions (Agile Terms)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "b9fdf913bce84d3bdf2d56137cd2ea23",
+    "text": "The Scrum of Scrum is a scaling mechanism that limits the number of communication pathways needed to transmit information relevant to the success of the enterprise. The Scrum of Scrums is analogous to the team level Daily Scrum except the Scrum of Scrums is a virtual team composed of representatives from a number of individual Scrum teams that collaborate to integrate and ship a product(s). The Scrum Masters and anyone else needed to deliver the Scrum of Scrums collaborative Deﬁnition of Done meet and communicate impediments, progress, and any cross team coordination that needs to happen by answering for the team the same three questions used in the Daily Scrum. Source: Scrum, Inc.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "2d238b5c95234775534764114c11a547",
+    "text": "Originally deﬁned within XP, spikes are used for activities such as research, design, investigation, exploration, and prototyping. The purpose of a spike is to gain the knowledge necessary to reduce the risk of a technical approach, better understand a requirement, or increase the reliability of a Story estimate. Source: Scaled Agile Inc.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "7526ab9f1fca175ac50a36190158b30f",
+    "text": "Also referred to as an Iteration. A time-boxed interval of 1-4 weeks, during which all software-development lifecycle activities -- design, coding, testing, integration, etc. - take place. The output of each Sprint is a ″ potentially-shippable ″ version of the software. The Sprint length remains constant throughout the project and does not change to ﬁt the amount of work. During the Sprint, teams work together actively with business representatives to clarify and reﬁne (but not change the scope of) user stories as needed, to deliver the greatest amount of value possible within the Sprint.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d59e6f3392888df3a5d9c48a85af7755",
+    "text": "Source: Principles and Practice Guide Synonym: Iteration - in Scrum an iteration is referred to as a Sprint",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "11681101196d4beca02436fcff1ee73a",
+    "text": "The Sprint Backlog is the set of Product or Release Backlog items selected for the Sprint, plus a plan for delivering the increment and realizing the Sprint Goal. The Sprint Backlog is a forecast by the Devel- opment Team about what functionality will be in the next Increment and the work needed to deliver that functionality into a ″ Done ″ Increment. Source: Scrum Guide",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "8322a5c10bcda2adf7273750129750fd",
+    "text": "In Scrum, the sprint planning meeting is attended by the Product Owner, Scrum Master and the entire Scrum team. Outside stakeholders may attend by invitation of the team, although this is rare in most companies. During the sprint planning meeting, the product owner describes the highest priority [user stories] to the team. The team asks enough questions that they can turn a high-level user story of the product backlog into the more detailed tasks of the sprint backlog. There are two deﬁned artifacts that result from a sprint planning meeting:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "876c59f366097f52a54a55d743993b26",
+    "text": "A sprint goal",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "b7edd6461fff71124f472c6c6aac564b",
+    "text": "A sprint backlog A sprint backlog is a list of the product backlog items the team commits to delivering plus the list of tasks necessary to delivering those product backlog items. Each task on the sprint backlog is also usually estimated. An important point to reiterate here is that it’s the team that selects how much work they can do in the coming sprint. Source: Mike Cohn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "5b8f23b6cf96d2177922c27367ae3e89",
+    "text": "The Sprint Retrospective occurs after the Sprint Review and prior to the next Sprint Planning. It is an opportunity for the Scrum Team to inspect itself (people, relationship, process, and tools) and create a plan for im- provements to be enacted during the next Sprint. Source: Scrum Guide",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "859538daef9a419ef92685ae74bf8dd8",
+    "text": "The Sprint Review occurs at the end of the Sprint. The purpose of the review is to demonstrate the working software to end users and other stakeholders to gain feedback. It also provides a deﬁned closure event for the Sprint. The team also reviews work items that were completed, created, deferred, or not completed during the Sprint. The Sprint Goal is reviewed to ensure it was effectively met, and the project discusses what to plan for the next Sprint. Source: Principles and Practice and ELC lexicon",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "3b92af21295681eb1e79b5e5ce9f19ca",
+    "text": "Story points are a unit of measure for expressing an estimate of the overall effort that will be required to fully implement a product backlog item or any other piece of work. When we estimate with story points, we assign a point value to each item. The raw values we assign are unim- portant. What matters are the relative values. A story that is assigned a 2 should be twice as much as a story that is assigned a 1. It should also be two-thirds of a story that is estimated as 3 story points. Instead of assigning 1, 2 and 3, that team could instead have assigned 100, 200 and 300. Or 1 million, 2 million and 3 million. It is the ratios that matter, not the actual numbers. Because story points represent the effort to develop a story, a team’s estimate must include everything that can affect the effort. That could include: The amount of work to do The complexity of the work Any risk or uncertainty in doing the work Source: Mike Cohn",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "796158e76a517b9a844a56320b703dcf",
+    "text": "In Scrum and Extreme Programming, a unit of work, estimated in hours. During the iteration planning meeting, user stories are decomposed into tasks. In his book, Agile Software Development with Scrum, Ken Schwaber writes, “Tasks should have enough detail so that each task takes roughly four to sixteen hours to ﬁnish.” Source: The Agile Dictionary",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "7ac615908966fbe1d56b258a6d0d0bd4",
+    "text": "One Solution Delivery Life Cycle Guidance 2.31.1 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "a38624cf29b3cc86991b43c3430d430c",
+    "text": "Exhibit 2.31.1-3 (Cont. 6) (01-23-2023) Deﬁnitions (Agile Terms)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "9ec531c89d489ddaa37a922e159ecfb7",
+    "text": "″ Technical debt (also known as design or code debt) is a concept in programming that reﬂects the extra development work that arises when code that is easy to implement in the short run is used instead of applying the best overall solution. ″ Source: Ward Cunningham",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "cc820433906954527124c06e508d6b98",
+    "text": ", the original reference to ″ Technical Debt ″",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "7967e8720c573ddd2c15009a242fa761",
+    "text": "A software development process that relies on the repetition of a very short development cycle: user stories are turned into very speciﬁc test cases, the the software is updated to pass those new tests only. This is as opposed to software development that allows software to be added that is not proven to meet requested functionality. [includes writing the test case before the code is developed. Source: Wikipedia",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "18802db4632e72da052bf17435c34d9e",
+    "text": "Themes may be thought of as groups of related stories. Often the stories all contribute to a common goal or are related in some obvious way, such as all focusing on a single customer. However, while some stories in a theme may be dependent on one another, they do not need to encapsulate a speciﬁc work ﬂow or be delivered together. Source: Jeremy Jarrell - Scrum Alliance",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "4f258de34de4b54e2d54311dda446dcf",
+    "text": "User stories are short, simple descriptions of a [need] told from the per- spective of the person who desires the new [functionality], usually a user or customer of the system. They typically follow a simple template: As a ‘type of user’, I want ‘some goal’ so that ‘some reason. ...they strongly shift the focus from writing about features to discussing them. In fact, these discussions are more important than whatever text is written. (Mike Cohn) Stories aren’t a way to write better requirements, but a way to organize and have better conversations (Jeff Patton, from Story Mapping) Example: “as an online taxpayer, I want to create an online account so I can see my balance.”; Source: Mike Cohn and Jeff Patton",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "7af683328bab12150c488655d785cc4c",
+    "text": "The average number of Story Points the team can ﬁnish in a time-boxed period. A team’s average velocity is typically established after a few sprints, and can be useful for planning future sprints. Source: Agile Training Using CLM",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-031-001--2023-01-23.pdf",
+      "page_number": 33
+    }
+  }
+]

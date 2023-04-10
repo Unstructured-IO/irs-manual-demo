@@ -1,0 +1,1442 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "b93df7ac80f1b2b78ff97e41a70bb590",
+    "text": "This transmits revised IRM 2.4.27, IDRS Terminal Input, Command Code ASGNI/ASGNB formerly TSIGN.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "590605862d88f500b88e802fb61686a4",
+    "text": "EFFECT ON OTHER DOCUMENTS",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "3b95672be827236037e12aa211371154",
+    "text": "IRM 2.4.27, dated February 22, 2017, is superseded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "c978a59e5dc3692411cfcdab01079387",
+    "text": "LB&I, SB/SE, TE/GE, W&I.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "b01535085b830a839f5a846fffdc992e",
+    "text": "Program Scope and Objectives",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "af78dc955230a99b5ab0b4f3501df258",
+    "text": "Line Error Messages ASGNI/ASGNB Input Display—Deﬁners ASGNI/ASGNB Batch Response Screen—Deﬁner ASGNI/ASGNB Input Display—Single and Batch ASGNI/ASGNB Output Display—Errors",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "76de4ad1221b66a5775da3a9dc6e8bf1",
+    "text": "Command Code ASGNI/ASGNB formerly TSIGN 2.4.27 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ba68fcc2b1c55955833bd8499263febf",
+    "text": "Program Reports: Each TDA and TDI account is assigned to either an indi- vidual group, or a speciﬁc function to be worked. The assignment number indicates where or to whom the account is assigned. The assignment number history is retained on the account until it is deleted from the TIF.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "04aadccefadc08e2a5205d10abaf6239",
+    "text": "Acronym Deﬁnition ACS Automated Collection System ASFR Automated Substitute System BMF Business Master File ICS Integrated Collection System",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3cfbfc57d4e169458e4adf024923150a",
+    "text": "IMF Individual Master File TDA Taxpayer Delinquency Analysis TDI Taxpayer Delinquency Investiga- tion TIF Taxpayer Information File 2.4 IDRS Terminal Input",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "707c843360b393e0008c4f8e639528d7",
+    "text": ") Each Taxpayer Delinquency Analysis (TDA) and Taxpayer Delinquency Investi- gation (TDI) account is assigned to either an individual, group of individuals, or a speciﬁc function to be worked. The accounts may be real (established on the TIF from Master ﬁle data) or dummy, (established on the Taxpayer Information File (TIF) without data from master ﬁle). The assignment number, or ASSIGNMENT-NUM, is used to indicate where, or to whom, the account is assigned.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "fb64ec7b6c6a02b354ea9ad86753176d",
+    "text": "2.4.27.4(01-01-2004) Assignment Number Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3ab037ca093f15d9ecbc151e9b12a1aa",
+    "text": "Figure 2.4.27-1 Assignment number format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "009edab8978f54baa71e9543f7d235de",
+    "text": "Command Code ASGNI/ASGNB formerly TSIGN 2.4.27",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d47d9d08571ee1431c50e6b61e4918c9",
+    "text": ") Assignment Number - (BG) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "372c907a07992266dce96812014c6f5c",
+    "text": ") The OS or Organizational Segment contains Division/Branch/Group/Function/ Etc., may also be referred to as BG or Branch Group, values include: •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f19db88f6087d96383b3a2a8be40e15c",
+    "text": "see Document",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "71acfe81ef7c883103f46ed48fe7c482",
+    "text": ", ADP and IDRS Information, Sec.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "4f8865abeddbfab37520d0c56eed1bf1",
+    "text": "•",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f72ef5cc69934cb5a7f3ae6470db420c",
+    "text": "Inspection (Internal Audit) •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "89039ad9c11d20cd6c968435c85fb1b6",
+    "text": "Employee Plans •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3d3671d384eb532eca03f3303da24112",
+    "text": "Exempt Organizations",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "95a6e4fdffc50ae0a157859aea19fdbb",
+    "text": ") Assignment Number - (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "bd6488a454b60a2d1610ad6bf3d69904",
+    "text": ") The EE is the Employee Number, for details, see Document",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2d1db8af5c65e099624355170446529f",
+    "text": "and IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "1ce38b3835b0dd5e980dcd575557eb79",
+    "text": ") Assignment Number Generation (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "9af3ebc333d2e298de2cda88dccda338",
+    "text": ") a) The ﬁrst",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "84521081ac98ef78ff96e75018e1f51c",
+    "text": "digits ( AOTO ) of the ASSIGNMENT-NUM is generated systemi- cally as follows:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "69d9a50c0e7b1ff763fa09a84898ad6d",
+    "text": "From any pending address change, if present.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "126117d87d8a9abc4d0d6df8c07442b7",
+    "text": "From the controlling location code of the account, or where the account is being worked, if present.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "72347a5045d3f5c4e8b5a01b76bdeb79",
+    "text": "From the primary location code, or where the account is being stored. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a99d9a60d90ce80d9052e0275d90b5d5",
+    "text": ") The AOTO of the ASSIGNMENT-NUM is generated manually by use of time inputs. The real-time inputs are used to input initial assignment numbers and update existing assignment numbers.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "79b1616239f4585f87310267c8bfa941",
+    "text": ") Assignment Number (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "16b0a30769cd70ebedc7f53f588bc6f3",
+    "text": ") Weekend Analysis: batch programs WTU",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "5a585d086046d2da2814fe9414a512e1",
+    "text": "for TDA (an account in service center status",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3d30020b1863441a64e786bdc72745e9",
+    "text": ", or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a7d9b26720f27eccaec35b7d72158a9f",
+    "text": ") and WTU",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "add5b9a977a0601ba32d430d778c148b",
+    "text": "for TDI (an account in master ﬁle status",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b12e6abeffdba0b79577899405a7e761",
+    "text": ") may both update the assignment number. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "781d2440b9e26ea4792509cad9891aac",
+    "text": ") Weekend Maintenance: when all delinquencies on an account have been resolved (not in TDA or TDI status), the assignment number is changed to AOTO",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "843b2038e1ffc5419cf0e97896b956fb",
+    "text": "by WTU",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "be53362ec17ecbce29059956a0ba96d8",
+    "text": ") Batch updates: accounts assigned to Integrated Collection System (ICS), Automated Collection System (ACS), or Automated Substitute for Return (ASFR) may update the assignment number by using batch update programs including IDS",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f78a6875dd89b45d27c1016fc9452193",
+    "text": ") Terminal inputs: assignment numbers may be updated manually by using Command Codes ASGNI, ASGNB, STAUP(STATI, STATB), INCHG/BNCHG, and DOALL.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b1e3ad6e6353249f08b9ddc052a23114",
+    "text": ") Assignment Number Retention (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "c5ad696359b909686293607eb2a750d9",
+    "text": ") An assignment number history is retained until the account is removed from the TIF. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ab5c6e6fa17e614b376941fa10ee8784",
+    "text": ") ASGNI/ASGNBDescription (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "1817a0382539161e1e5fb312fd4b4e69",
+    "text": ") ASGNI/ASGNB has ﬁve functions that may be used with accounts that are present on the TIF. Multiple functions may be input on a single request These functions include: • Controlling and updating TDA and TDI assignment numbers. • Posting Notice Codes for subsequent processing by weekly analysis. Command Code ASGNI/ASGNB formerly TSIGN",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "38178a20b470cfd18299fb1593dd4ba7",
+    "text": "No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "1b80b83e3b8c1d315f2f502284d183ef",
+    "text": "C (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d821668dccbe9fcb6e6d21051c398941",
+    "text": "(1) The OS or Organizational Segment contains Division/Branch/Group/Function/ Etc., may also be referred to as BG or Branch Group, values include:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "702d77e469c95d9939a293f3a981b6c0",
+    "text": "Controlling and updating TDA and TDI assignment numbers. Posting Notice Codes for subsequent processing by weekly analysis.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "8d6c9ba6f21e8e533bf10483095e9c43",
+    "text": "Posting Alpha Case Codes for subsequent processing by weekly analysis. Posting Determined Grade Levels for subsequent processing by weekly analysis. Requesting a printed TDI supplement.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3a2ba04db91208d662b5c9f6ab99e29f",
+    "text": "(2) Deﬁner ’F’ when used with ASGNI and ASGNB produces a formatted screen which allows for multiple inputs. Deﬁners Q, D, A, L and C allows for single",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "1d30ddc4a5aa287aadf162498690816c",
+    "text": "• “A”, “U”, and “ I” accelerate TDI issuance. • “T” issues a duplicate TDI. • “R” re-issues a TDI notice. • “D” with “nn” number of cycles is used to delay issuance of a notice or a TDI for the account for “ nn” cycles (nn =",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "757bed3e56fb0e881309efead3132d2c",
+    "text": "). • If an account is to be both delayed and then accelerated at the end of the delay period, input no more than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ee08aec12e0ab147dce331469d74207d",
+    "text": "acceleration code in addition to Notice code “D” and its associated cycle. • “X” is used to eliminate a previous Notice code of “U” due to input of an address change.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "4c323d3f72435d8cb0f18ddc15d6318c",
+    "text": "Alpha Case codes “Ca” (a=A-Z) causes a case code to be generated and appended to the TDI Compliance section of the TIF. Collection codes include:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "76de4ad1221b66a5775da3a9dc6e8bf1",
+    "text": "Command Code ASGNI/ASGNB formerly TSIGN 2.4.27 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d1f2c1951ab09b8408d1fab9134e204e",
+    "text": "Printed supplement information may be requested by for the following areas:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "902e6b824fc08daa5f7d1ca3492e45c2",
+    "text": "“F” produces a formatted input screen for ASGNI/ASGNB. “H” produces a help screen with brief explanations of the formatted screen ﬁelds. “V” produces a screen with current version information. “D” is used after TDINQ, ENMOD, TXMOD, or SUMRY and if input with a valid BGEE and AOTO, will assign the account just accessed by one of the above command codes to the assignment number requested. “Q” is used after TDINQ, ENMOD, TXMOD, OR SUMRY and will assign the account just accessed to assignment number AOTO",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a44b3821d9a34bbfe00f4ecec1cf7f3d",
+    "text": "(the Queue). “A” is used after TDINQ, ENMOD, TXMOD, or SUMRY and will acceler- ate an account to full TDI. “L” is used after TDINQ, ENMOD, TXMOD, or SUMRY and if input with a two digit number of cycles will delay action on the account the number of cycles input. “C” is used after TDINQ, ENMOD, TXMOD, or SUMRY and if input with a two digit number of cycles will accomplish the functions of both “A” and “L”",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "c1f32dbab6bba5215560016f5a655e8f",
+    "text": "2.4.27.14(01-01-2005) ASGNI/ASGNB Error Messages",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "33c1e29902d678cbcff13d561dbfd825",
+    "text": "This Page Intentionally Left Blank",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "76de4ad1221b66a5775da3a9dc6e8bf1",
+    "text": "Command Code ASGNI/ASGNB formerly TSIGN 2.4.27 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7c2fa82808cfa4a01124c26cbba46d6d",
+    "text": "Numbers are used for reference only and are not part of the error message.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "560987f1ae89e0fb801c95a74e18dbea",
+    "text": "ERROR MESSAGE EXPLANATION 1) CANNOT REPEAT FROM FIRST LINE The ﬁrst line has no previous line to repeat from and must be ﬁlled in. 2) COLUMN n SHOULD BE BLANK Column n (n = 1-80) should be blank. 3) INVALID DATA IN LINE 1-SPACES AFTER COL6 A database error #nnnnnnnnn occurred, please contact DBA. 4) NO INPUT ALLOWED LINE 24 Input stops on line 23. 5) NO INPUT ON LINE There must be input on line 1. 6) PREVIOUS CC NOT TXMOD ENMOD SUMRY The previous Command code has to be TDINQ, TXMOD, ENMOD, or SUMRY. 7) PRIOR TIN n-----------n WAS INVALID TDINQ, TXMOD, ENMOD, or SUMRY found the prior TIN invalid. 8) PRIOR TIN WAS NOT FOUND TDINQ, TXMOD, ENMOD, or SUMRY did not ﬁnd the prior TIN. 9) X IS AN INVALID DEFINER CODE X is not “F”, “H”, “V”, “D”, “A”, “L”, “Q”, or “C”. Correct and re-xmit.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7c2fa82808cfa4a01124c26cbba46d6d",
+    "text": "Numbers are used for reference only and are not part of the error message.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "80c642265c88d802d78c15ed51d7e7da",
+    "text": "ERROR MESSAGE EXPLANATION 1) # OF DELAY CYCS SHOULD BE 0-15 A delay may be a minimum of 00 cycles and a maximum of 15 cycles. 2) # OF DET GRADE SHOULD BE 00, 09, 11-13 Valid values for a Determined Grade level are 00, 09, 11-13 3) 3RD POS OF CCD MUST BE BLANK The third position of the collection code must be blank. 4) 6020b MUST BE OPEN TDI 6020B is limited to open TDI cases. 5) 8300 ONLY VALID FOR FEDERAL AGENCY ACCTS BGEE 8300 can be only used for Federal Agency Accounts. 6) 8707 ONLY VALID FOR REFUND FREEZE BGEE 8707 is only allowed for refund freeze accounts 7) ACCT ALREADY IN TDI STATUS A notice code “A”, “ U”, “I”, “D”, “ R”, or “X” was input and account is already in TDI status. 8) ACCT ASSIGNED TO PDC Account is under PDC control and can only be updated by Collection Analytics, Routing & Selection. 9) ACCT HAS NO TDI STATUS An attempt was made to reissue a TDI when one does not exist. 10) ACS ASGMT CONTACT ACS Account is currently assigned to ACS. Area office terminals only. 11) ALREADY CLOSED NOTHING 2 DELAY An attempt was made to delay an already closed TDI account. 12) AO MUST BE 35 If the TO is 70-89 and BG = 66-69, then the AO must be 35. 13) AO MUST BE 35 & BG MUST BE 66-69 If TO = 70-89, then the AO must be 35 and the BG must be 66-69. 14) AO MUST BE A SB AO When the TO=94-99 and the BG = 66-69, the AO must be a SB AO. When the BG = 10 - 69 then the AO must be a SB AO 15) AO NOT EQUAL COLLECTION LOC CD AO input doesn’t match controlling location code (COLLECTION-LOC-CD) on TIF. 16) AO NOT EQUAL CONTROLLING-CLC AO input is not a valid AO.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "76de4ad1221b66a5775da3a9dc6e8bf1",
+    "text": "Command Code ASGNI/ASGNB formerly TSIGN 2.4.27 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "5e46cbec6896f84e43c17320b8c51f99",
+    "text": "Exhibit 2.4.27-2 (Cont. 1) (01-01-2017) Line Error Messages",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "10f0e2225681527bf6e14a1e17a93b96",
+    "text": "Exhibit 2.4.27-2 (Cont. 1) (01-01-2017) Error Messages ERROR MESSAGE EXPLANATION 17) AO NOT EQUAL TO COMPUTED CLC If the taxpayer has a BOD and ULC on the TIF00 (ENTITY RECORD) and the COLLECTION- LOC-CD is not signiﬁcant, then the requested AO must match the computed CLC returned by common subroutine UCMPT-CLC. (See IRM 2.3.78) 18) AO NOT EQUAL TO PENDING CLC If the account has a pending CLC, the requested AO must match the pending CLC. 19) AOTO INPUT REQUIRED An AOTO input is required. 20) AOTO MUST BE 3500 If the BGEE = 6996/6997, then the AOTO must be 3500. 21) AOTO MUST BE NUMERIC The AOTO must be numeric. 22) ASFR IS IMF ONLY ASFR only accepts IMF accounts. 23) ASFR MUST BE OPEN TDI ASFR must be open TDI. 24) ASSIGNMENT PRESENT Account is currently assigned to the ﬁeld and cannot be changed to the BGEE requested using a Service Center conﬁgured terminal. 25) BALANCE DUE MODULE CANNOT USE ASFR ASFR cannot have a balance due module 26) BG 94 or 95 MUST BE EPMF BG 94 or 95 are restricted to EPMF accounts. 27) BG MUST BE 66-69 If the requested TO equals 70-89 or 96-99, then the branch group must be 66-69. 28) BGEE MUST BE 6996 OR 6997 If AO = 35 and the TO = 00, then the BGEE must be 6996 or 6997. 29) BGEE NOT NUMERIC BGEE must be numeric. 30) BGEE IS PROTECTED BGEE requested is protected. 31) BGEE IS RESERVED BGEE requested is reserved. 32) BMF ACCESS NOT ALLOWED User is not proﬁled for access to BMF accounts. 33) CANNOT CHANGE DET GRADE ON IRA Cannot change Determined Grade Level on an IRA account. 34) CANNOT TSIGN 8000 TO IRS EMPLOYEE An IRS employee Account can not be assigned to ASFR. 35) CASE CODE MUST BE A-Z The case code used with collection code “C” must be alphabetic. 36) CASE IN QUEUE NO DUPLICATE NEEDED Collection code ’T’ cannot be a queue account. 37) COLL CD INVALID ON MEMO ACCT Determined Grade Levels cannot be changed on a memo account.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "eefb1901b1dd4b7d945a1d047a30ca93",
+    "text": "EXPLANATION",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "495eb15ea2d645cd1961a2a7c65ca357",
+    "text": "Exhibit 2.4.27-2 (Cont. 2) (01-01-2017) Line Error Messages ERROR MESSAGE EXPLANATION 38) COLL CODE IS NOT VALID Collection code must be “A”, “U”, “I”, “R”, “X”, “D”, “C”, “G”, or “T”. 39) COMB CASE USE STAUP24 EACH MOD An attempt was made to assign a TDA account to the queue, Command Code STAUP24 must be used to do this. 40) DATA BASE AREA BUSY TRY LATER The database area corresponding to the last two digits of the TIN is down. Please try again later. 41) DATA BASE AREA DOWN TRY LATER The database area corresponding to the last two digits of the TIN is down. Please try again later. 42) DB ERR ON FETCH TIF10 ERR# nnnn Database error occurred when attempting to fetch the TIF10, please contact DBA. 43) DB ERR ON FETCH TIF12 ERR# nnnn Database error occurred when attempting to fetch the TIF12, please contact DBA. 44) DB ERR ON FETCH TIF 21 ERR# nnnn Database error occurred when attempting to fetch the TIF 21, please contact DBA. 45) DB ERR ON FETCH TIF32 ERR# nnnn Database error occurred when attempting to fetch the TIF32, please contact DBA. 46) DB ERR ON FETCH TIF50 ERR# nnnn Database error occurred when attempting to fetch the TIF50, please contact DBA. 47) DB ERR ON OPEN ERROR- NUM nnnn Database error occurred on open, please contact DBA. 48) DB ERROR FOUND ERROR NUM nnnnnnnn Database error occurred, please contact DBA. 49) DISASTER VICTIM FREEZE Taxpayer is a disaster victim and cannot leave current function by assignment change until the freeze is released. 50) DUPLICATE ASSIGNMENT The requested assignment is the same as the current assignment on the TIF. 51) FED AGNCY ACCT ONLY ALLOW TO 8300 A Federal Agency account can only be assigned to 8300 52) FIELD TDA CANNOT ASSIGN TO ACS Current assignment is ﬁeld TDA, cannot assign to ACS. 53) FIELD TDI CANNOT ASSIGN TO ACS Current assignment is ﬁeld TDI, cannot assign to ACS. 54) FS 0 AND 9 ARE NOT ALLOWED ASGNI/ASGNB does not access CAF or AIMS. 55) G00 INVAL ON OPEN TDA OR TDI G00 is not valid on an open TDA or TDI. 56) IMF ACCESS NOT ALLOWED User is not proﬁled to access IMF accounts.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "76de4ad1221b66a5775da3a9dc6e8bf1",
+    "text": "Command Code ASGNI/ASGNB formerly TSIGN 2.4.27 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "0b33b1558633925b0d59d1df9cbd7ee2",
+    "text": "Exhibit 2.4.27-2 (Cont. 3) (01-01-2017) Line Error Messages",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "b881a1cfcbed78d9ff401210cdfc4df9",
+    "text": "Name control input does not match name control on TIF.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "de8db084ec5216d4ff2f6deff87d89d7",
+    "text": "AO. AO requested must equal collection location code, if present, else it must match the computed collection location code. Use CC LOCAT to see the computed CLC for BOD and zip combination. To move taxpayer to a new AO, transfer with Doc Code 50. Assignments can be embedded in DOC Code 50 transfers. 63) NMF CASE CANNOT RESIDE IN QUE NMF cases are not allowed in the queue. 64) NMF-BMF CASES NOT ALLOWED AT WI NMF and BMF cases are not valid at WI centers. 65) NO ASGMT ALLOWED ON DUMMY ACCT Cannot change the assignment number on a dummy account. 66) NO COMPLIANCE REC TIF32 ON TIF All notice codes and collection code “C” require a TIF32 on the account 67) NOTHING IN, NOTHING PROCESSED There must be something input in BGEE, AOTO, CCD, or S, or there is nothing to process. 68) OPEN TDA CANNOT USE 6020b 6020b cannot have an open TDA. 69) OPEN TDA CANNOT USE ASFR ASFR doesn’t accept TDA accounts. 70) QUE ASSN MUST HAVE TDA OR TDI Accounts cannot be assigned to the QUEUE unless they have an open TDI or TDA. 71) POS 2-3 OF CCD MUST BE BLANK Position 2-3 of collection code must be blank. 72) PRIMARY CD B-NO TDI POTENTIAL Low potential cases cannot be made undeliver- able. 73) SCCB CASE Currently assigned to SCCB. Area office terminals only. 74) SUPP REQ IND NOT VALID Valid SUPP-REQ-IND’s include “S”, “ C”, “A”, “R”, “ F”, and “E”.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "85c4f74a89529b38eb2fd9164717c022",
+    "text": "ERROR MESSAGE EXPLANATION 75) THIS IS NOT AN IMF ACCOUNT. THIS IS NOT BMF/NMF ACCOUNT. User is not accessing the proper type of account 76) TIF10 FULL CANNOT ADD ASSN NUM TIF10 has more than 200 entries. Contact DBA. 77) TIF12 FULL CANNOT ADD COLL CD TIF12 has more than 200 entries. Contact DBA. 78) TIN AND FS NOT CONSISTENT TIN and ﬁle source code are not consistent. 79) TIN INVALID TIN is invalid. 80) TIN IS NOT ON TIF TIN is not on the TIF. 81) TO MUST BE 00 If the account is ACS, queue, ASFR/SCCB or General ﬁeld assignment, the requested TO must be 00. 82) TO MUST BE 70-89 If AO=35 and BGEE=6600-6994, then the TO must be 70-89. 83) TO MUST BE 70-89 or 94- 99 If the AO = 35 and the BG = 66-69, then the TO must be 70-89. If the BG is 66-69, then the TO must be 70–89 or 94-99. 84) TO MUST BE GREATER THAN 00 If BG is 10-59 (ﬁeld), then the TO must be greater than 00. 85) USE ENREQ DOC-CD 50 TO CHANGE CLC If the COLLECTION-LOC-CD on the TIF00 (ENTITY RECORD) is signiﬁcant, the requested AO must equal the COLLECTION-LOC-CD on the TIF00 (ENTITY RECORD). 86) USE ENREQ EMBED ASSIGNMENT If requested AO is a WI, then the branch group code must not be 1000–6400, 6402–6465, 6467–6500, or 6502–6549. 87) USE STAUP22 ON EACH TDA MODULE An attempt was made to assign a TDA account from the queue, Command Code STAUP22 must be used to do this. 88) USE STAUP24 ON EACH TDA MODULE An attempt was made to assign a TDA account to the QUEUE. Command Code STAUP24 must be used to do this. 89) VALID FOR BMF EINS ONLY 6020b only accepts BMF EINS.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "76de4ad1221b66a5775da3a9dc6e8bf1",
+    "text": "Command Code ASGNI/ASGNB formerly TSIGN 2.4.27 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "fd56d66d267bd6427c50735bdb799cc4",
+    "text": "Exhibit 2.4.27-3 (01-01-2005) ASGNI/ASGNB Input Display—Deﬁners",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "10068db4a241bbde66dbc38dcf06b12e",
+    "text": "Note: Deﬁners “D” , “A” , “L” , “C” and “Q” should be input only after Command Code TDINQ, ENMOD, TXMOD, or SUMRY have been executed.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "af0ab21a968ecf7f872563190e6df908",
+    "text": "[T N‘h?‘».lﬁhﬂ-. L Sasaresol!T",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "cc6c681de9ae9e573f61564d09997fb7",
+    "text": "Record Element Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "0d8c9784dbd802c6a2e15910c1d093f0",
+    "text": "ELE # NAME LINE POS DESCRIPTION 1 Command Code 1 1–5 ASGNI/ASGNB 2 Deﬁner 1 6 F for ASGNI/ASGNB (batch formatted screen) H (help screen) V (version screen) D (assign num AOTOBGEE) Single input Q (assign num AOTO7000) Single input A (accelerate to TDI status) Single input L (delay account nn cycles) Single input C (delay and accelerate the account) Single input 3 Number of cycles 1 7–8 nn (2 digit number of cycles to delay used with deﬁners “ L” and “C” only) 4 BGEE 2 1–4 BRANCH GROUP - EMPLOYEE NUM (used for Deﬁner “D” only) 5 AOTO 2 6–9 AREA OFFICE -TERRITORY OFFICE (used for Deﬁner “D” only).",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "2a14f6a607c38bc4e36d642711f9c743",
+    "text": "Exhibit 2.4.27-4 (01-01-2005) ASGNI/ASGNB Batch Response Screen—Deﬁner",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "eee4605e677ae170003e1c2507af2675",
+    "text": "This is the screen that will be returned when the “F” deﬁner is used with ASGNI/ASGNB.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "fa3a67b2d7fa426be8459eb031bcf3db",
+    "text": "| sttt bbbtB e e!",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "cc6c681de9ae9e573f61564d09997fb7",
+    "text": "Record Element Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "e70c5de955c29601b34a4d5d1d4fb1e1",
+    "text": "Command Code ASGNI/ASGNB formerly TSIGN 2.4.27 page 15",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "9b34e0bf5e8749a2cd3d66e37b92b356",
+    "text": "SINGLE INPUT - This is the screen that will be generated in a single input transaction. An “ASGNI or ASGNB” should have been done prior to this input with deﬁners A, D, L, Q or C.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "f37702f345b9c4a54998e51e4902a6eb",
+    "text": "BATCH INPUT-This is the screen that will be ﬁlled in to input a batch transaction An “ASGNI/ASGNB” with deﬁner F should have been done prior to this input. ( See Exhibit 2.4.27-4.).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "65fa2fc61773d2de81733a8d3f8f7261",
+    "text": "RS 0 N0 O 5RO 5 O Tik i ey SFEEFrEEEEE[",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "cc6c681de9ae9e573f61564d09997fb7",
+    "text": "Record Element Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "5c65bc86d10a3ed73ddeaf45414c97b9",
+    "text": "Exhibit 2.4.27-5 (Cont. 1) (01-01-2010) ASGNI/ASGNB Input Display—Single and Batch",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "a35c3d913a6fc9c69671e93070bc43fb",
+    "text": "ELE # NAME LINE POS DESCRIPTION N (NMF) P (IRA valid and EPMF) X (IRA Invalid) [slashb] (Valid IMF or BMF) 3 Name Control 3 14-16 Name Control 4 BGEE 3 19-23 Branch Group-Employee Number 5 AOTO 3 24-27 Area Office-Territory Office 6 Collection Code 3 29-31 Collection Code Notice Codes “ Dnn ” (nn=00-15), “ I ”, “ U ”, “ T ”, “ A ”, “ R ”, “ X ” Alpha Case code “ Ca ” (a=A-Z) DGL “ Gnn ” (nn=00,09,11-13) 7 Supp Req Indf 3 33 Supplement request indicator S (ASFR) C (SCCB) A (ACS) R (RP&A) F (CFf) E (EXAM)",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "68fc1691a689432e1cb2c22459091e98",
+    "text": "• Batch processing begins on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "2d492bbe08687dc3c6ecd2be05de58b4",
+    "text": "and may end on any subsequent line including line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "4bf4e549e857567ebbcb81edb1109f41",
+    "text": "• Line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "0f2af1f1c2dd84b0b669300a057fe185",
+    "text": "is reserved for optional messages. • An “=” is used to duplicate the information from the above line for all input ﬁelds that are blank. In- formation in a ﬁeld overrides the duplication feature. Use a “-” to skip the duplication for any speciﬁc ﬁeld. • The “FROM” and “TO” ﬁelds indicate where the program originated and where the program actually ran.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "2a54b97658070c26c0547c7a0174940d",
+    "text": "An “=” is used to duplicate the information from the above line for all input ﬁelds that are blank. In- formation in a ﬁeld overrides the duplication feature. Use a “-” to skip the duplication for any speciﬁc",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "76de4ad1221b66a5775da3a9dc6e8bf1",
+    "text": "Command Code ASGNI/ASGNB formerly TSIGN 2.4.27 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "83ef1ae67ca1ffdb47ebd649dce07943",
+    "text": "a) Line error display-This is the screen that will be returned if some or all of the input lines are in error.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "74befdb5def1375eb1722c5eb46f738e",
+    "text": "b) Screen error display- This is the screen that will be returned if none of the input lines were processed.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "9f4e5ab9c5bc17bbe2b3ac78d007493e",
+    "text": "RSV TR OO O 0 O O Oi 2} fh i it i iS eFEECEETT",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "cc6c681de9ae9e573f61564d09997fb7",
+    "text": "Record Element Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "ef51bf96173cf6211a98f2e387537cf8",
+    "text": "ELE # NAME LINE POS DESCRIPTION 1 Command Code 1 1–5 ASGNI/ASGNB 2 Tin 3 1–11 Taxpayer Identiﬁcation Number",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "542b557629367da0bc3fc8f3a816145f",
+    "text": "ELE # NAME LINE POS DESCRIPTION 11 (EIN) File Source must be: 12 (SSN) * (IMF Invalid) V (Valid BMF SSN) W (Invalid BMF SSN) N (NMF) P (IRA valid and EPMF) X (IRA Invalid) [slashb] (Valid IMF or BMF) 3 Name Control 3 14-16 Name Control 4 BGEE 3 19-23 Branch Group-Employee Number 5 AOTO 3 24-27 Area Office-Territory Office 6 Collection Code 3 29-31 Collection Code Notice Codes “ Dnn ” (nn=00-15), “ I ”, “ U ”, “ T ”, “ A ”, “ R ”, “ X ” Alpha Case code “ Ca ” (a=A-Z) DGL “ Gnn ”(nn=00,09,11-13) 7 Supp Req Indf 3 33 Supplement request indicator S (ASFR) C (SCCB) A (ACS) R (RP&A) F (CFf) E (EXAM) 8 Error message 3 35 Error Message",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "68fc1691a689432e1cb2c22459091e98",
+    "text": "• Batch processing begins on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "2d492bbe08687dc3c6ecd2be05de58b4",
+    "text": "and may end on any subsequent line including line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "4bf4e549e857567ebbcb81edb1109f41",
+    "text": "• Line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "0f2af1f1c2dd84b0b669300a057fe185",
+    "text": "is reserved for optional messages. • An “=” is used to duplicate the information from the above line for all input ﬁelds that are blank. In- formation in a ﬁeld overrides the duplication feature. Use a “-” to skip the duplication for any speciﬁc ﬁeld. • The “FROM” and “TO” ﬁelds indicate where the program originated and where the program actually ran.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "f8948f0f71a843c6f5ccf0b746c2a32f",
+    "text": "“FROM” and “TO” ﬁelds indicate where the program originated and where the program actually",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "76de4ad1221b66a5775da3a9dc6e8bf1",
+    "text": "Command Code ASGNI/ASGNB formerly TSIGN 2.4.27 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "39ed18f3d83ddc96b4909d845e8958ba",
+    "text": "This is the screen that will be returned if no errors are found.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "cbb5c381888f100d831ffa115a8c22c4",
+    "text": "Re v +222 £ =3 e == iB et i",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "3f79bb7b435b05321651daefd374cdc6",
+    "text": "e",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "cc6c681de9ae9e573f61564d09997fb7",
+    "text": "Record Element Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "1f5370fbbc196d4df8f93c7dc0dd676a",
+    "text": "ELE # NAME LINE POS DESCRIPTION 1 Command Code 1 1–5 ASGNI/ASGNB 2 Tin 3 1–11 Taxpayer Identiﬁcation Number 11 (EIN) File Source must be: 12 (SSN) * (IMF Invalid) V (Valid BMF SSN) W (Invalid BMF SSN) N (NMF) P (IRA valid and EPMF) X (IRA Invalid) [slashb] (Valid IMF or BMF) 3 Name Control 3 14-16 Name Control 4 BGEE 3 19-23 Branch Group-Employee Number 5 AOTO 3 24-27 Area Office-Territory Office",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "93c884108afa5ef02be011997c29ae66",
+    "text": "ELE # NAME LINE POS DESCRIPTION 6 Collection Code 3 29-31 Collection Code Notice Codes “ Dnn ” (nn=00-15), “ I ”, “ U ”, “ T ”, “ A ”, “ R ”, “ X ” Alpha Case code “ Ca ” (a=A-Z) DGL “ Gnn ”(nn=00,09,11-13) 7 Supp Req Indf 3 33 Supplement request indicator S (ASFR) C (SCCB) A (ACS) R (RP&A) F (CFf) E (EXAM) 8 Error message 3 35 Error Message",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "7f21ae92f09b0750d0e7e97239584ec6",
+    "text": "Request complete appears in inverse video. Deﬁner codes “D”, “A”, “L”,“C” and “Q” return a one line input with either an error message or a REQUEST COMPLETE as indicated. The “FROM” and “TO” ﬁelds indicate where the program originated and where the program actually ran.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "76de4ad1221b66a5775da3a9dc6e8bf1",
+    "text": "Command Code ASGNI/ASGNB formerly TSIGN 2.4.27 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "77d8671362ac74ce9e148864a244791d",
+    "text": "Exhibit 2.4.27-8 (01-01-2005) ASGNI/ASGNB Output Display—Deﬁner “H” and “V”",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "d8b23a588f3e9c3fad7661733c6db7f3",
+    "text": "Deﬁner Code “H” returns a screen with summary information very similar to See Exhibit 2.4.27-3. The “FROM” and “TO” ﬁelds indicate when the program originated and where the program actually ran.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "70166c5bf61d5a06558cfed3d5f6d605",
+    "text": "Deﬁner Code “V” returns a screen that is primarily used to display the version information of the program. The “ FROM” and “TO” ﬁelds indicate when the program originated and where the program actually ran.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "8498a91120a734f4ffb2bc3a29b124df",
+    "text": "T e T LT,e el Ae :TT PRSPPI TR (e",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-027--2022-12-08.pdf",
+      "page_number": 25
+    }
+  }
+]

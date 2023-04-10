@@ -1,0 +1,2018 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1e40feedb6d8e174d473a369b3da23fd",
+    "text": "AUDIENCE",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "24b93170c014faaa6b0fc54d636d77ff",
+    "text": "This process description is applicable to all organizations within the IRS requesting IT support through the Information Technology Service Desk (ITSD), by anyone in the Internal Revenue Service Information Technology (IRS IT) following the IRM 2.148 who has the responsibility of providing service and support to Information Technology customers.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "e083bd83e9d3e97e3b3e7dbe6cca0dca",
+    "text": "Process",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ef51e648dfc814b76990088c13114222",
+    "text": "page (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "fa385c419a8f7751091204194ba214f2",
+    "text": ") Overview - IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1e8e1dc47d1ce1dc4bf3cdfda33fb630",
+    "text": "describes the formal process for managing the Incident Management process. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "7ff9ce5b95c7dc9f32c3b74ad9943229",
+    "text": ") Purpose - This IRM describes the formal process for implementing the ments of the Incident Management Process. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b92c1cc6ae287cf96c1e45276009ce64",
+    "text": ") Audience - The primary users of IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "eebb608b86beb93bc014bbd2da828605",
+    "text": "are all organizations within the IRS requesting IT support through the Information Technology Service Desk (ITSD). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "edfeae6d984565b52040b5cce516cfbf",
+    "text": ") Policy Owner - The policy owner is the User and Network Services (UNS), ACIO, who is responsible for oversight of Incident Management. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b32f92f0924a18b899026e6413ea1a20",
+    "text": ") Program Owner - UNS is the program owner for Incident Management. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0525d345f5b9cb9e2b21f5ac0d024790",
+    "text": ") Primary Stakeholders - The primary stakeholders are UNS, Enterprise tions (EOps), ACIO Strategy & Planning (S&P), Application Development Cybersecurity, and Enterprise Services (ES). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a101892d7002404e7362d081d7dcdecd",
+    "text": ") Program Goals - The objective of IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a8a19bc4728609b95ddb81b0aad6dd14",
+    "text": "is to provide an operational deﬁnition of the major components of the process and how to perform each step in the process. It also describes the logical arrangements of steps that essential to successfully completing the process and achieving its desirable outcome. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3373ee59226d2f5aa1497e0036954756",
+    "text": ") This Incident Management Process description describes what happens the Incident Management Process and provides an operational deﬁnition of major components of the process. This description speciﬁes in a complete, precise, and veriﬁable manner, the requirements, design, and behavior teristics of the Incident Management Process. The Process Description (PD) a documented expression of a set of activities performed to achieve a given purpose. Tailoring of this process in order to meet the individual needs of project is covered in the Tailoring Guidelines section of this document. This document describes the formal process for implementing the requirements of the Incident Management Process. It provides an operational deﬁnition of the major components of the process and how to perform each step in the process. This document also describes the logical arrangements of steps are essential to successfully completing the process and achieving its desirable outcome. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "07e3596dc555408c1dc060135798f570",
+    "text": ") For this document, roles such as User, Customer, Incident Manager, First Level Support, Second Level Support, and Service Support Provider are provided to describe a set of responsibilities for performing a set of related tivities. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "384075296d158bf9b012a4a0c5a78a08",
+    "text": ") Incident Management is the process responsible for tracking and recording incidents throughout the incident’s lifecycle. This document describes the steps within Incident Management Process, which include. • Activity",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5c7ebfdf4392761bc5b564d6ea3eb637",
+    "text": "- Incident Recording • Activity",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "bfd3a418ef028dd65e098dafe919e8b3",
+    "text": "- Categorize and Prioritize • Activity",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9dc858479231fda8c2f3c7820aacc14f",
+    "text": "- Investigate and Diagnose • Activity",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "bba7ae722f0069983eee2f114ceedbf6",
+    "text": "- Resolve and Dispatch • Activity",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2ebaa93042bfad33efbc0a068dbbbc12",
+    "text": "- Closure Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c0cf15aa2c861667c890f36ee6ef9667",
+    "text": "Audience - The primary users of IRM 2.148.2 are all organizations within the IRS requesting IT support through the Information Technology Service Desk",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "912f0fd3b4e2d876bcf489274c8ef3d6",
+    "text": ") Speciﬁc Process Goals: • Incidents are properly logged • Incidents are properly routed • Incident status is accurately reported • Queue of unresolved incidents is visible and reported • Incidents are properly prioritized and handled in the appropriate sequence • Resolution provided meets the requirements of the Service Level Agreement (SLA) for the Customer (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ba380b78eaf9e78975430a742885f161",
+    "text": ") This document describes a set of interrelated activities, which transform into outputs, to achieve a given purpose and states the guidelines that all projects should follow regarding the Incident Management Process. The document also includes process goal and objectives, metric, role deﬁnitions, policies and other process related attributes. The format and deﬁnitions used to describe each of the process steps of the Incident Management Process described below: • Purpose – The objective of the process step. • Roles and Responsibilities – The responsibilities of the individuals or groups for accomplishing a process step. • Entry Criteria – The elements and conditions (state) necessary to the beginning of a process step. • Input – Data or material needed to perform the process step. Input can be modiﬁed to become an output. • Process Activity – The list of activities that make up the process step. • Output – Data or material that are created (artifacts) as part of, produced by, or resulting from performing the process step. • Exit Criteria – The elements or conditions (state) necessary to trigger the completion of a process step. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a04dcaeb82074a798a95c6a7f42836d9",
+    "text": ") All proposed changes to this document should be directed to the IRS IT User and Network Services (UNS) Customer Service Support Director as owner of this process description and be pursued via the Integrated Process Manage- ment (IPM) process to clearly deﬁne interfaces, roles, responsibilities, and coordinate participation with collaboration between stakeholders. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "27f475f4662a695344565edc18eadf9e",
+    "text": ") Each process deﬁnes at least one role. Each role is assigned to perform speciﬁc tasks within the process. The responsibilities of a role are conﬁned to and the speciﬁc process. They do not imply any functional standing within the hierarchy of an organization. For example, the process manager role does imply the role is associated with or fulﬁlled by someone with functional man- agement responsibilities within the organization. Within a speciﬁc process, there can be more than one individual associated with a speciﬁc role. ally, a single individual can assume more than one role within the process although typically not at the same time. The following roles have been identi- ﬁed for this process:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8a29eba14231ed59089b430c228c9da4",
+    "text": ") This document describes a set of interrelated activities, which transform inputs into outputs, to achieve a given purpose and states the guidelines that all projects should follow regarding the Incident Management Process. The document also includes process goal and objectives, metric, role deﬁnitions, policies and other process related attributes. The format and deﬁnitions used to describe each of the process steps of the Incident Management Process are described below:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e890ee37126cacb837867f28089580aa",
+    "text": "to describe each of the process steps of the Incident Management Process described below: • Purpose – The objective of the process step. • Roles and Responsibilities – The responsibilities of the individuals or groups for accomplishing a process step. • Entry Criteria – The elements and conditions (state) necessary to the beginning of a process step. • Input – Data or material needed to perform the process step. Input can be modiﬁed to become an output. • Process Activity – The list of activities that make up the process step. • Output – Data or material that are created (artifacts) as part of, produced by, or resulting from performing the process step. • Exit Criteria – The elements or conditions (state) necessary to trigger the completion of a process step. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a04dcaeb82074a798a95c6a7f42836d9",
+    "text": ") All proposed changes to this document should be directed to the IRS IT User and Network Services (UNS) Customer Service Support Director as owner of this process description and be pursued via the Integrated Process Manage- ment (IPM) process to clearly deﬁne interfaces, roles, responsibilities, and coordinate participation with collaboration between stakeholders. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c0d45095814095228dcac43e48aed082",
+    "text": ") Each process deﬁnes at least one role. Each role is assigned to perform speciﬁc tasks within the process. The responsibilities of a role are conﬁned to the speciﬁc process. They do not imply any functional standing within the hierarchy of an organization. For example, the process manager role does imply the role is associated with or fulﬁlled by someone with functional man- agement responsibilities within the organization. Within a speciﬁc process, there can be more than one individual associated with a speciﬁc role. ally, a single individual can assume more than one role within the process although typically not at the same time. The following roles have been identi- ﬁed for this process:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6e42fc41086505d38c5ca0bf751fce98",
+    "text": "Purpose – The objective of the process step.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "108c06467b1694b9c36c17f0c3c3cd4d",
+    "text": "Roles and Responsibilities – The responsibilities of the individuals or groups for accomplishing a process step.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6ec2aa88dd6d9c2b529a6aa892cd54a3",
+    "text": "Entry Criteria – The elements and conditions (state) necessary to the beginning of a process step.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "b03d430c623f8c8f0dfe1f6302673f4f",
+    "text": "Input – Data or material needed to perform the process step. Input can be modiﬁed to become an output.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "02bc2b85a5a66f17f30346041874c461",
+    "text": "Process Activity – The list of activities that make up the process step.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6bc606bdaa53fa31c96de2bfcf436086",
+    "text": "Output – Data or material that are created (artifacts) as part of, produced by, or resulting from performing the process step.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e90ff2bfebbf45a8f0312300b1b91981",
+    "text": "Exit Criteria – The elements or conditions (state) necessary to trigger the completion of a process step.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e7ed25b9be4828066ea1e1409e072706",
+    "text": "Process 2.148.2 page 3 Name Description Process Owner Accountable for ensuring that a Process is Fit for Purpose. The Process Owner’s responsibilities include sponsorship, Design, Change Management and continual improve- ment of the process and its metric. Process Manager Responsible for Operational manage- ment of a Process. The Process Manager’s responsibilities include planning and coordination of all activi- ties required to carrying out, monitoring and reporting on the Process. Process Reviewer Performs review of service provided measuring customer satisfaction, ﬁeld coding, accuracy of assignment groups, etc. Incident Manager A manager who is responsible for managing the end-to-end Lifecycle of one or more IT Services. The term Incident Manager is also used to mean any manager within the IT Service Provider. Most commonly used to refer to a Business Relationship Manager, a Process Manager, an Account Manager or a Senior Manager with responsibility for IT Services overall. First Level Support / IT En- Responsible for performing the terprise Service Desk recording procedures, the categorize Specialist and prioritize procedures, the investi- gate and diagnosis procedures, the resolve or dispatch procedures, and the closure procedures relating to incident records received using the approved instructions in the Incident Manage- ment Knowledgebase (Knowledge Library; Known Error Library). Reviews and monitors progress of incidents. Provide status updates to users and customers. Second Level Support Responsible for routine incidents as well as providing a higher level of technical expertise for speciﬁc incidents when the incidents cannot be resolved by the First Level Support IT Special- ist. Service Support Provider Any organization that delivers a standard service or product to a Customer or User.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d8f859836f604dbb58ebea622ac8bfed",
+    "text": "A manager who is responsible for managing the end",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "663ea1bfffe5038f3f0cf667f14c4257",
+    "text": "to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "cac51e88bfcd761acaa45cad2cf1c26d",
+    "text": "end Lifecycle of one or more IT Services. The term Incident Manager is also used to mean any manager within the IT Service Provider. Most commonly used to refer to a Business Relationship Manager, a Process Manager, an Account Manager or a Senior Manager with responsibility for IT Services overall.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "87856f96e89e9fa3584ae690142a9727",
+    "text": "recording procedures, the categorize and prioritize procedures, the investi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "bd30b5a12af22219c0a60cc415619d24",
+    "text": "gate and diagnosis procedures, the resolve or dispatch procedures, and the closure procedures relating to incident records received using the approved instructions in the Incident Manage",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "db166468ebef234a5436cb3b4127212e",
+    "text": "ment Knowledgebase (Knowledge Library; Known Error Library). Reviews and monitors progress of incidents. Provide status updates to users and customers. Responsible for routine incidents as",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "672f712c2da9d7af41be62cbc3b23d8c",
+    "text": "Name Description Service Level Reviewer Responsible for analyzing and reviewing Service attainment against the Service Level Agreements (SLAs), Organizational Level Agreements (OLAs) and Underpinning Contracts (UCs). Customer The Customer of an IT Service Provider is the person or group who deﬁnes and agrees on the Service Level Targets. User Provides requested information during the life cycle of the Incident. Responds timely and takes requested actions as determined by those working on the resolution. A person who uses the IT Services on a day-to-day basis. Users are distinct from Customers, as some Customers do not use the IT Service directly.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "623ac0cf732a02c8296137125341f9fb",
+    "text": "Provides requested information during the life cycle of the Incident. Responds timely and takes requested actions as determined by those working on the resolution.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "706e4c884529a3bedae20ac86ac9b78d",
+    "text": ") The purpose of this procedure is to outline and provide steps to accomplish the Incident Management Process. The procedure will restore a normal operation as quickly as possible and minimize the impact on business opera- tions thus ensuring the best possible levels of service quality and availability are maintained. The activities involved ensure the process is predictable, stable, and consistently operating at the target level of performance. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ad821c46702edd1ba115088ec6792cf0",
+    "text": ") Process Management Statement:Thisdocument deﬁnes the step-by-step instructions on how to conduct the tivities used to implement the Incident Management Procedure in IT UNS Customer Service Support. The purpose of a procedure document is to tionalize and formalize the preferred method of performing tasks that staff is using. The objective is to have everyone using the same tools and techniques and follow the same repeatable steps so that the organization can quantify how well the procedure is working and train future staff members who may currently know the routine. Ensuring consistency is a critical component for ensuring optimum efficiency. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "cf1e591b4ff797bb11afcb0fa03873d5",
+    "text": ") Peopl",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "9e61e7d84558d8c2dead69b9a5a20100",
+    "text": "tatement:Rolesandresponsibilities for the process must be clearly deﬁned and appro- priately staffed with people having the required skills and training. The goals, scope and importance of the process must be clearly and regularly municated by upper management to the staff and business customers of IT. IT staff (direct and indirect users of the process) shall be trained at the appro- priate level to enable them to support the process. Rationale:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "253c23114ad14cc23207bff41fe0d951",
+    "text": "The purpose of this procedure is to outline and provide steps to accomplish the Incident Management Process. The procedure will restore a normal service operation as quickly as possible and minimize the impact on business opera- tions thus ensuring the best possible levels of service quality and availability are maintained. The activities involved ensure the process is predictable, stable, and consistently operating at the target level of performance.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d1a290e3300ac6214cac52b2548f7643",
+    "text": "2.148.2.1.4 (05-11-2020) Program Management and Review",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ff2a082cb1445381910a71992ed72bd2",
+    "text": "Process Management Statement:Thisdocument deﬁnes the step",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "a7e2d26e8d15814dd9c6a1bdc90585c8",
+    "text": "by",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "509617f641424eb9bf8b4f06f1375102",
+    "text": "step instructions on how to conduct the ac",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "837ea172a55b1d95135c57ae4bf5217c",
+    "text": "tivities used to implement the Incident Management Procedure in IT UNS Customer Service Support. The purpose of a procedure document is to institu",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "bf8d63f21953aedbe689e9b2fdb63f30",
+    "text": "tionalize and formalize the preferred method of performing tasks that staff is using. The objective is to have everyone using the same tools and techniques and follow the same repeatable steps so that the organization can quantify how well the procedure is working and train future staff members who may not currently know the routine. Ensuring consistency is a critical component for ensuring optimum efficiency.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "70e90ca9bbc16cc21d1db976d33e682e",
+    "text": "It is imperative that people working in, supporting, or interacting with the process in any manner understand what they are supposed to do. Without that understanding the Incident Management Process will not be successful.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "115209890f348ad9d132265eba22874a",
+    "text": "understanding the Incident Management Process will not be successful. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "bf483f01ccb1138579ffd0a8428aaee6",
+    "text": ") Proces",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "cbdb6b79488f02ecf870d55b1a80c917",
+    "text": "tatement:Allproposed changes to this document should be directed to the IRS IT. and Network Services (UNS) Customer Service Support owner of this procedure and pursued via the IPM process to clearly deﬁne interfaces, responsibilities, and coordinate participation and collaboration between holders.Rationale:Theprocess must meet operational and business requirements. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e91633359c16bd6ffc8b09972fcbb3c6",
+    "text": ") Technology and Tools Statement:Alltoolsselected must conform to the enterprise architectural standards and direction. Existing in-house tools and technology will be used wherever possible, new tools will only be entertained if they satisfy a business need cannot be met by current in-house tools. The selection of supporting tools must be process driven and based on the requirements of the business. Selected tools must provide ease of deployment, customization, and use. selected tools must support heterogeneous platforms. Automated workﬂow, notiﬁcation and escalation will be deployed wherever possible to minimize delays, ensure consistency, reduce manual intervention and ensure appropri- ate parties are made aware of issues requiring their attention. The tools by this process are the following: • KISAM • Symantec Management Platform • IRS Desktop Softphone • Bomgar Representative Console • Remote Desktop Connection",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "ce363e8912d83f15fcd6b0cb00cf11ca",
+    "text": "KISAM Symantec Management Platform IRS Desktop Softphone Bomgar Representative Console Remote Desktop Connection Remote Tools Console (RTC) Symantec Endpoint Encryption One Time QWERT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "c3032ada4ac74fec9ee26a938eab018b",
+    "text": "Activities involved in ensuring a process is predictable, stable, and consistently operating at the target level of performance.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e1a444e42d900a951758e64985c9221d",
+    "text": "2.148 IT Support Services Management",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "30d9103c17fb35d48aab871d24302a7e",
+    "text": "2.148.2.1.6 (05-11-2020)Terms/Deﬁnitions/Acronyms",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3017292e2e0c74a605a5b8091b598b2e",
+    "text": "Deﬁnitions of Incident Management terms and acronyms.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "86d1261bc64885377a21037b4a490cc1",
+    "text": "The deﬁnitions listed below are some commonly used terms and are provided as an aid to understanding Incident Management.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "7e8a85b604867b0384c33249bc102fbf",
+    "text": "Terms Deﬁnition Acquisition The process of obtaining products (goods and services) through contract. Artifact A work product created by a process or procedure step, e.g. plans, design speciﬁca- tions, etc. Service Catalog Entries in the Service Catalog that is associ- ated with a speciﬁc product or fulﬁllment service that needs to be delivered. ITIL deﬁnition of Service Catalog: A database or structured Document with infor- mation about all Live IT Services, including those available for Deployment. The Service Catalog includes information about deliverable, prices, contact points, ordering and request Processes. Conﬁguration Item (CI) A CI can be any piece of equipment or component that is tracked through a device record in Conﬁguration Management.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "794be7a87c4e61e4d112c5dfb768cac7",
+    "text": "Process 2.148.2 page 7 Terms Deﬁnition Customer The Customer of an IT Service Provider is the person or group who deﬁnes and agrees on the Service Level Targets. Escalation The action taken in Recording System to change an interaction into an incident orMay also refer to Managerial Escalation when an incident is elevated to Management to assist in resolution. This could involve a change in the impact or urgency if the event warrants a more immediate response orTechnical Escalation when an incident is transferred to a higher service level techni- cian to assist in resolution. This could involve change in the assignment if event warrants a different skill set. Event A change of state which has signiﬁcance for the management of a Conﬁguration Item or IT Service. Event Management The process responsible for managing events thought out the life cycle. It allows for normal operation and detects and escalates exception conditions. Impact A measure of the effect of an Incident, Problem or Change on Business Processes. Impact and Urgency are used to assign Priority. Exhibit A (1) Incident An unplanned interruption to an IT Service or a reduction in the quality of an IT Service. Incident Record A Record containing the details of an Incident. Each Incident record documents the Lifecycle of a single Incident. Information Alert (Info Email notiﬁcations to relay information to Alert) internal and external customers. The templates used to distribute this information are General (information only) Scheduled (scheduled outages),Unscheduled Outages (major system outages),CADE2 Elongated Day/Week and End of Day (daily process- ing).",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "80793ab23917df15dd912e6831aebe89",
+    "text": "the Lifecycle of a single Incident. Email notiﬁcations to relay information to internal and external customers. The templates used to distribute this information are General (information only) Scheduled (scheduled outages),Unscheduled Outages (major system outages),CADE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "5fefac58fa8e676ad4c9b44e1ee08fcb",
+    "text": "Elongated Day/Week and End of Day (daily process- ing).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "5cd44b61803e295fe18f9e05ab7cc2cd",
+    "text": "8 2.148 IT Support Services Management Terms Deﬁnition Interaction The documented conversation between the First Level Support IT Service Desk Special- ist and the User/Customer to obtain information regarding the issue, or automati- cally created through the System when User/Customer submits break/ﬁx or service request via the web. Knowledgebase A logical database containing the data used by the Service Knowledge Management System.Apublished source of approved deﬁnitive workaround and resolutions for known errors commonly experienced. Integrates with inter- action, incident, and problem management so that Users/Customers can search for and use knowledge articles developed from prior incidents or problems to resolve a new instance of the same type of incident or known error. Knowledge Library The Knowledge Library is a central reposi- tory of the data, information and knowledge that the IT organization needs to manage the lifecycle of its services. Its purpose is to store, analyze and present the service pro- vider’s data, information and knowledge. Known Error A Problem that has a documented Root Cause and a Workaround. Known Errors are created and managed throughout their lifecycle by Problem Management. Known Errors may also be identiﬁed by Develop- ment or Suppliers. Known Error Library The Known Error Library contains opened and closed known error records which hold exact details of problems with precise details of workarounds or resolution actions that should be used to restore service and/or resolve a problem. These records are created by Problem Management (PM) and used by Incident and PM. Priority A Category used to identify the relative im- portance of an Incident, Problem or Change. Priority is based on Impact and Urgency and is used to identify required times for actions to be taken. Exhibit A (3)",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "9f3294fc7a2480c3071dcda5ddd7293c",
+    "text": "Terms Deﬁnition Interaction The documented conversation between the First Level Support IT Service Desk Special- ist and the User/Customer to obtain information regarding the issue, or automati- cally created through the System when User/Customer submits break/ﬁx or service request via the web. Knowledgebase A logical database containing the data used by the Service Knowledge Management System.Apublished source of approved deﬁnitive workaround and resolutions for known errors commonly experienced. Integrates with inter- action, incident, and problem management so that Users/Customers can search for and use knowledge articles developed from prior incidents or problems to resolve a new instance of the same type of incident or known error. Knowledge Library The Knowledge Library is a central reposi- tory of the data, information and knowledge that the IT organization needs to manage the lifecycle of its services. Its purpose is to store, analyze and present the service pro- vider’s data, information and knowledge. Known Error A Problem that has a documented Root Cause and a Workaround. Known Errors are created and managed throughout their lifecycle by Problem Management. Known Errors may also be identiﬁed by Develop- ment or Suppliers. Known Error Library The Known Error Library contains opened and closed known error records which hold exact details of problems with precise details of workarounds or resolution actions that should be used to restore service and/or resolve a problem. These records are created by Problem Management (PM) and used by Incident and PM. Priority A Category used to identify the relative im- portance of an Incident, Problem or Change. Priority is based on Impact and Urgency and is used to identify required times for actions to be taken. Exhibit A (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "c5729668c72088b6482d5804e6540b68",
+    "text": "System.Apublished source of approved deﬁnitive workaround and resolutions for known errors commonly experienced. Integrates with inter",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "0c98aa9202ab8cb3e1582e731ea79fc2",
+    "text": "action, incident, and problem management so that Users/Customers can search for and use knowledge articles developed from prior incidents or problems to resolve a new instance of the same type of incident or known error.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "e9fe4dabe07ed122c507ccd0eeea40c5",
+    "text": "tory of the data, information and knowledge that the IT organization needs to manage the lifecycle of its services. Its purpose is to store, analyze and present the service pro",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "f6b751966b20e4d5f3b9a5e9ba28dcc5",
+    "text": "vider’s data, information and knowledge. A Problem that has a documented Root Cause and a Workaround. Known Errors are created and managed throughout their lifecycle by Problem Management. Known Errors may also be identiﬁed by Develop",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "dbcf44f08c7b3f3d8196b00d3f1067b2",
+    "text": "ment or Suppliers. The Known Error Library contains opened and closed known error records which hold",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "148c398f82763cb2f75e419d6d97c04f",
+    "text": "The Known Error Library contains opened and closed known error records which hold exact details of problems with precise details of workarounds or resolution actions that should be used to restore service and/or resolve a problem. These records are created by Problem Management (PM) and used by Incident and PM.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "e306cc6cec58319c76dfe8acaef41816",
+    "text": "tion, or advice, or for a Standard Change or for Access to an IT Service. For example to reset a password, or to provide standard IT Services for a new User/ Customer. Service Requests are usually handled by a Service Desk, and do not require an RFC to be submitted.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "30dd614702ee7fd6f5ce66079407b6bf",
+    "text": "10 2.148 IT Support Services Management Terms Deﬁnition Status The name of a required ﬁeld in many types of Record. It shows the current stage in the Lifecycle of the associated Conﬁguration Item, Incident, Problem etc. System The IT System that is used to record, classify, prioritize, document, provide sup- porting information, route, and track all events, incidents, problems and requests within the IT environment. Urgency A measure of how long it will be until an Incident, Problem or Change has a signiﬁ- cant Impact on the Business. The lower the value number the sooner it must be addressed. Impact and Urgency are used to assign Priority. Exhibit A (2) User A person who uses the IT Service on a day- to-day basis. Workaround Reducing or eliminating the Impact of an Incident or Problem for which a full resolu- tion is not yet available. For example, by restarting a failed Conﬁguration Item. Work- around for Problems are documented in Known Error Records. Workaround for Incidents that do not have associated Problem Records are docu- mented in the Incident Record. . (1) The abbreviations and acronyms include an alphabetical listing of some commonly used terms in Incident Management. Acronyms Deﬁnition ACIO Associate Chief Information Officer AD Applications Development CMDB Conﬁguration Management Data Base CMMI Capability Maturity Model Integrated CSS Customer Service Support CIO Chief Information Officer",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "415b3286d998c5bab77cf58f990e729a",
+    "text": "A person who uses the IT Service on a day- to-day basis.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "ec825e31b7c0cdf39abf39c6840bb847",
+    "text": "Reducing or eliminating the Impact of an Incident or Problem for which a full resolu",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d6ec1924e70966ed3855f8e70d5cd502",
+    "text": "tion is not yet available. For example, by restarting a failed Conﬁguration Item. Work",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "b17fb2ca7e93795fd251974e5543534b",
+    "text": "around for Problems are documented in Known Error Records. Workaround for Incidents that do not have associated Problem Records are docu",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "5b6cb8cba485c8c1bddfdc344a548737",
+    "text": "mented in the Incident Record.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "a13898c8676cafdba4475ee5358b55eb",
+    "text": "The abbreviations and acronyms include an alphabetical listing of some commonly used terms in Incident Management.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "f295fc47bea30240cb3f45aeff1a9020",
+    "text": "Acronyms Deﬁnition ACIO Associate Chief Information Officer AD Applications Development CMDB Conﬁguration Management Data Base CMMI Capability Maturity Model Integrated CSS Customer Service Support CIO Chief Information Officer FIFO First In First Out IPM Integrated Process Management",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "da0ea93e4a30d86bbbb421ed26c64479",
+    "text": "Acronyms Deﬁnition IRM Internal Revenue Manual IT Information Technology ITIL Information Technology Infrastructure Library ITPAL Information Technology Process Asset Library ITSD Information Technology Service Desk ITSM Information Technology Service Manage- ment KISAM Knowledge Incident/Problem Service and Asset Management OLA Organizational Level Agreement OTP One Time Password PD Process Description PM Problem Management PMI Project Management Institute PWM Password Management RFC Request for Change SKMS Service Knowledge Management System SLA Service Level Agreement SOP Standard Operating Procedures UNS User and Network Services UC Under Pinning Contracts",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "da0ea93e4a30d86bbbb421ed26c64479",
+    "text": "Acronyms Deﬁnition IRM Internal Revenue Manual IT Information Technology ITIL Information Technology Infrastructure Library ITPAL Information Technology Process Asset Library ITSD Information Technology Service Desk ITSM Information Technology Service Manage- ment KISAM Knowledge Incident/Problem Service and Asset Management OLA Organizational Level Agreement OTP One Time Password PD Process Description PM Problem Management PMI Project Management Institute PWM Password Management RFC Request for Change SKMS Service Knowledge Management System SLA Service Level Agreement SOP Standard Operating Procedures UNS User and Network Services UC Under Pinning Contracts",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "7837381096ada66e5f9b5e1b32d675c5",
+    "text": "2.148 IT Support Services",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "9f1c92706f76ad6fabb217d0639479ac",
+    "text": "Diagram Figure 2.148.2-1 (2) Note: When an incident is reassigned update the ticket to provide a written jus- tiﬁcation indicating why the ticket needs to be reassigned and what actions the service provider needs to perform. (1) Process inputs are used as triggers to initiate the process and to produce the desired outputs. Users, Customers, Stakeholders or other processes provide inputs. (1) Incident Recording Incident",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "53d16620504f5dc61b1f8df277ba1bac",
+    "text": "Figure 2.148.2-1",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "75036e7511ac4b37695b1643a9550d39",
+    "text": "Process inputs are used as triggers to initiate the process and to produce the desired outputs. Users, Customers, Stakeholders or other processes provide",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "064519b5eac397939281c4d19f0f0add",
+    "text": "Contacts from Service Desk (reference Service Desk Function)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "99404d08dc78cd1fa86d8fd90b92332c",
+    "text": "IRS IT service User and Customer contact by phone, web chat, web, email",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "9bb008b8e4ae355b95b4bfe67c2f2a16",
+    "text": "Service Level Agreements",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "01c6ef070c43c7a8553eaf0b97ed3380",
+    "text": "Catalog of Services",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "524cf23323db5482431014574b94b96c",
+    "text": "Knowledgebase (Known Error Library, Knowledge Library, etc.)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "0d2f23516afb88aaf58eb7a83ad3550e",
+    "text": "Automated alerts from IT assets",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "75d0b26a5dd271da9801dd2b9e83d5c5",
+    "text": "Event records meeting the Entry Criteria to the Incident Management process",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "0bfd1fd52c52bb97d428461e1312604b",
+    "text": "Receipt of Incident Automatically Route Incident record (yes/no) Route to next available IT Specialist IT Specialist contacts User/Customer if not already on call with them User/Customer information veriﬁed Generate incident identiﬁcation number",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "e1a444e42d900a951758e64985c9221d",
+    "text": "2.148 IT Support Services Management",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "845edc94f4da0ef39e78c24618284768",
+    "text": "Incident record updated with any additional information Exits to Categorize and Prioritize",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "cc80cf1bfe542a221a96d9b61845031a",
+    "text": "Incident Management Process",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "801a40ee89ce2c803e8b64f76390f487",
+    "text": "IT Support Services Management",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "2ce314704c5dc199bf1f82406636ee0d",
+    "text": "Ensuring their employees are following the Incident Management Process Providing the ﬁrst step in the managerial escalation process within the Service Desk",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "09eeec3dd97f3c294900063d14df62ca",
+    "text": "Identify as a candidate for Knowledge Database, if no article found Move incident record to Resolve or Dispatch step",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "95664d3e26ad07d7a82c7e7929516790",
+    "text": "The First-Level Support Enterprise Service Desk Specialist is responsible for:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "6312bf3d8595ef6bbb8f377e11c6cced",
+    "text": "Working with the User/Customer and other parties as needed to implement the approved workaround documented in the Known Error Library or the solution documented in the Knowledge Library. These skills may be technical, process or system related. This support is provided by employees in other IT Functions, vendors, and business units Being proﬁcient in all the tools required to resolve and restore",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "5bd4e058ee804dfb4c71cee5e37643de",
+    "text": "An Incident Record vetted and diagnosed from the previous step, Inves",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "bb22765534fbac9ce904e62ea70a6b7a",
+    "text": "tigate and Diagnose; as well as an appropriate Knowledge Article is associated",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "99fde1d184cee90019639d103797465f",
+    "text": "A solution or workaround for incident records is developed where none previously existed",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "1b89ee3a735c13b3d744d6f55e109417",
+    "text": "Incidents identiﬁed as Critical Incidents A diagnosed incident record that was associated to the appropriate Knowledge Article A diagnosed incident linked to an existing incident for same issue Incident records received from Investigate and Diagnose step",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "e1a444e42d900a951758e64985c9221d",
+    "text": "2.148 IT Support Services Management",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "22f6610ee07808cf9e4160e5dfeec50a",
+    "text": "Incidents transferred for Problem Management solution Incidents reopened for rework by management based on process review or escalation issues Data in the Knowledgebase related to the issue in incident Information on related open issues and incidents",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "f2b7a7889d409adf17bf1b00957742ca",
+    "text": "• Documenting restored service • Escalating to management (e.g. complaint process; policy customer request, reworks) • Closing the incident (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "66f068bb44e5b399e582493ab5652112",
+    "text": ") The Second-Level Support is responsible for: • Working with the User/Customer • Documenting knowledge articles followed • Conﬁrming restoration of service • Documenting restored service • Escalating to management (e.g. complaint process; policy customer request, reworks) • Closing the incident • The Incident Manager is responsible for: (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "996b679a0687cb31e6bd2ef5a8f1a505",
+    "text": ") The Incident Manager is responsible for: • Ensuring employees are following the Incident Management process steps • Ensuring proper documentation relating to resolution steps were performed timely • Providing the ﬁrst step in the managerial escalation process within Service Desk (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "75f0592b1175341a9d6f84405efbfefb",
+    "text": ") The Service Support Provider is responsible for: • Working with the User/Customer • Documenting knowledge articles followed • Conﬁrming restoration of service • Documenting restored service • Escalating to management (e.g. complaint process; policy customer request, reworks) • Closing the incident (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "7c3bee372636e46fa8e7f8a14ab79dca",
+    "text": ") The Service Level Reviewer is responsible for: • Conﬁrming SLA, OLA’s and UPC requirements are met • Ensuring service level improvement plans are implemented if • Coordinating improvement process with all Service Support • Conﬁrming restoration of service (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "f4edbc7a7f20af858ebf23fb58f19864",
+    "text": ") The Process Reviewer is responsible for: • Performing survey of customers • Evaluating per statistical sampling ❑Field validation ❑Customer concurrence ❑Documentation",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "455b7a69a3e470c19e9ffbddbfb41dd7",
+    "text": "Providing feedback to management for continuing process improvement",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "e1a444e42d900a951758e64985c9221d",
+    "text": "2.148 IT Support Services Management",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "0fd57dc8b08050fc87cb5992908539ca",
+    "text": "❑If Yes – incident proceeds to Process Review, if included in sampling",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "54dd401efb8bf30411a786dfad4efdfb",
+    "text": "❑If No – Management escalation process",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "b31295f2bbcb6c35caee9cad32922151",
+    "text": "Evaluates work product based on sampling size or User Satisfaction Survey",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "d66c296af4d194053ad383cf50cf40ff",
+    "text": "Evaluates Customer Satisfaction with the service Formal closure of the incident record The following are outputs to this process step:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "acbf0879a966634270be9edf46ae72a6",
+    "text": "Closed incidents for IT services",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "3924c3847d9866d843f6c1f332d4e740",
+    "text": "Cancelled incidents for IT services",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "fde221472744c20d06de3568d7e1c6b9",
+    "text": "Data related to closed incidents",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "d2b648f6b3c9ce719efd9ce9f9c05b3f",
+    "text": "Data related to cancelled incidents",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "d98b15219f0a262efaa61dfb5ac94482",
+    "text": "Management Escalation if no customer concurrence",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "97cd6c52f36b540810acd8113356028a",
+    "text": "Process Review results",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "fd7498fe1a0284434d3f870207e96e58",
+    "text": "Customer Satisfaction Survey results This process step is complete when:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "5c6053b6c325e425faa3fa06f738b35d",
+    "text": "Incident records are closed or cancelled",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "3167f923c59123aa0e4cfb624ae468a0",
+    "text": "Evaluates work product based on sampling size or priority of incident",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "89229e632443842f6f3e047c56b527ed",
+    "text": ") Management will regularly review quantiﬁable data related to different aspects of the Incident Management process to make informed decisions and take ap- propriate corrective action, if necessary. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "96ab7f34f303f3d35157762ddf28b17a",
+    "text": ") Examples of Key measurements are:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "295cdff251c8094491aa70d277f7900d",
+    "text": "This section delineates the activity steps, including roles and tools or templates, needed to perform each step of this Procedure.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "11a011b091c363f768815a8e74b9e944",
+    "text": "Incident Recording 1. Receipt of Incident System • Event Records identiﬁed as an incident First Level Support will enter the Incident Management. Second Level These records can be sourced from Support WEB, e-mail, phone calls, web chats or automated alerts, etc. 2. Is Incident automatically routed? System If yes, System will route incident to deﬁned queue based on how it was received through web.a. System will determine urgency and impact based on input data and SLA’s as predetermined for incident record. b. System will complete investigate and diagnose procedure based on SLA, OLA, UC and Knowledge articles. c. System will complete resolve or dispatch procedure by routing incident record to assignment group based on SLA, OLA, UC and Knowledge articles. If no, Go to the next Step 3. Route to next available IT Specialist System • System will combine all incident records from various sources received (examples: email, web, voice, chat). • System will place incident records into a queue to be worked. Goal is to allow for (First in First out) FIFO processing. • Go to next Step 4. IT Specialist contacts User/Customer. First Level Support IT Specialist determines if incident record requires interaction with the User/Customer, via email, voice or instant ,messaging • If already interacting with User/ Customer, Go to next Step • If not interacting with User/Customer, IT Specialist checks Knowledge Article to determine if contact with User/Customer is required. • If no, go to Step 6, Generate incident identiﬁcation number. • If yes, IT Specialist contacts User/ Customer. • If user not able to be contacted, document and place incident in Enter- prise Service Desk queue for follow up. Activity completed, go to Step 3. • If User/Customer contact is made go to next Step.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "1d3fd72957cf040dfeb771d66c15c102",
+    "text": "Customer, Go to next Step • If not interacting with User/Customer, IT Specialist checks Knowledge Article to determine if contact with User/Customer is required. • If no, go to Step",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "7acbf4fe141dda350c92025e0d9d27d6",
+    "text": ", Generate incident identiﬁcation number. • If yes, IT Specialist contacts User/ Customer. • If user not able to be contacted, document and place incident in Enter- prise Service Desk queue for follow up. Activity completed, go to Step",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "4f3b994424d5b710747ecca74e8410cc",
+    "text": "• If User/Customer contact is made go to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "6a4756bfddfb542b9386c9f188303bc5",
+    "text": "Incident Recording 5. Verify User/Customer Information First Level Support • IT Specialist veriﬁes User/Customer in- formation • IT Specialist conﬁrms all answers match data in tool • IT Specialist enters any changes of in- formation into tool • IT Specialist goes to next Step 6. Generate incident identiﬁcation number System • System will provide a tracking record number • Go to next Step 7. Update Incident Record with any additional First Level Support information • IT Specialist inquires with user for any additional descriptive or detailed infor- mation that may help with ticket type determination. • IT Specialist documents any additional descriptive or detailed information. • IT Specialist does a quality review check to ensure all required ﬁelds are correct and required information is documented in the ticket. • Exit to Categorize and Prioritize.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "4c77a7616e84edca0a8ab19218d06d28",
+    "text": "Incident Recording",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "4eb1655dd478bc717d21348d2d94cbfc",
+    "text": "IT Specialist inquires with user for any additional descriptive or detailed infor",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "56e9db2df9b11b53e1f48cd08606575a",
+    "text": "mation that may help with ticket type determination.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "1c1f29b31437966a2ee853374d046872",
+    "text": "IT Specialist documents any additional descriptive or detailed information.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "01668841aece47d2ad9fbb143e86a06e",
+    "text": "IT Specialist does a quality review to ensure all required ﬁelds are correct and required information is in the ticket.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "4752f6dafc2ebbcaf72579c0ffc1c78a",
+    "text": "Exit to Categorize and Prioritize.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "0858a40dd00ee9ba9dccd3a719f57f45",
+    "text": "Incident Management Incident Recording Procedurea2Automatically Auto-RouteRoute Incident€g ¥2&No23Route tonextavailable ITSpeciastA—f 1 ReceiptofIncidentXvAtMade determinationwhether User/Customer needstobe contactedYes @26GenerateIncidentIdentificationNumberAVerify User/CustomerinformationExittoCategorizeAnd PrioritizeA7Update IncidentRecord withAnyadditionalInformation",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "92c29685d1e379a1f73f302b935a220c",
+    "text": "Incident Management Incident Recording Procedure",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "b9c9f523952f1925d1bda966df8b2f68",
+    "text": "Categorize and Prioritize Steps Roles 1. Receive Incidents from Incident Recording System Procedure. • Go to next Step 2. Categorize Incident First Level Support • IT Specialist reviews information in incident record • IT Specialist determines the multi-level categorization using the ticketing system’s categorization ﬁelds. • Go to next Step",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "a86c2b1216d21cdddb1cb6a8c9681d6e",
+    "text": "3. Assign Impact First Level Support • IT Specialist determines number of Users, Customers and Systems affected by issue • IT Specialist looks up the correct impact (See Exhibit A) • IT Specialist inputs the impact into the incident record • Go to next Step 4. Assign Urgency First Level Support • IT Specialist researches service effected • IT Specialist assigns urgency based on service impacted (See Exhibit A) • Go to next Step ❑ System automatically calculates priority System based on Impact & Urgency and impact (See Exhibit A) 5. Exit to Investigate and Diagnose Procedure SystemFirstLevel Support",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "6075b14f4831c8e2d475ece8dcc58e74",
+    "text": "Incident Management Categorize and Prioritize ProcedureSystemInvestigate andDiagnose A1Receive Incidentfrom IncidentRecording ProcedureInvestigate andDiagnose ProcedureA 4) > a3 NCategorize Incident Assign ImpactAdAssign UrgencyAsRoute to investigate.and DiagnoseFirst Level Support",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "c615461503d1c2792eab41188701f72d",
+    "text": "Incident Management Categorize and Prioritize Procedure",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "2bb8340228e0d9cfbfb2ba8ea0560488",
+    "text": "Investigate and Diagnose Steps Roles 1. Receive incident from Catego- System rize and Prioritize Procedure First Level Support • Go to next Step 2. Investigate incident IT Special- First Level Support ist determines • incident symptoms • Service or services effected • Recent changes related to incident starting IT Specialist asks Users/ Customers questions about the incident symptoms • Go to the next Step",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "5a910f449df598799f38d9e7b700a214",
+    "text": "3. Collect and conﬁrm detailed First Level Support information • IT Specialist documents questions and answers from Step 2. • IT Specialist documents Issues, Problem, Facts, Assumptions, and Conclu- sions • Go to next Step 4. Conﬁrm incident correctly iden- First Level Support tiﬁed • If INCIDENT. IT Specialist checks to see if a related issue is being worked for same incident-type • If RELATED ISSUE OPEN, associate to existing incident • Incident will be resolved with related incidents • If NO RELATED INCIDENT OPEN, proceed to Step 5 • If NOT AN INCIDENT, IT Specialist stops the Incident Management Process. Exit for closing of incident record and genera- tion of Request (if appropriate). 5. Diagnose Incident First Level Support • IT Specialist reviews incident information from Step 3, Collect and conﬁrm detailed information. • IT Specialist identiﬁes search keywords to query the Knowledgebase. • Go to next Step",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "5ec5370cdca6a08f9b9847ae912456f2",
+    "text": "6. Research Knowledgebase for First Level Support Known Errors and Knowledge article • IT Specialist performs a Knowledgebase search • IT Specialist determines if relevant Known Error exists ❑ If YES – follow instruc- tions in Known Error record ❑ If NO – IT Specialist searches for Knowledge Library solution ❑ If YES, follow Knowledge article solution, Proceed to Step 6a ❑ If NO, solution exists, proceed to Step 7 6a. If Knowledgebase solution First Level Support exists, IT Specialist updates incident with: • Knowledge Article number, if found • Detailed analysis • Details of triage actions • Why the incident is being reassigned (if assigned incident to another group) • Actions that need to be performed (if assigning to another group) • Proceed to Step 8 7. If no solution exists, IT Special- First Level Support ist upates incident with: • Detailed analysis • Details of triage actions • Why the incident is being reassigned indicating no solution found • Actions that need to be performed.ITspecialist stops the Incident Management Process and routes incident record to Problem Management for resolution 8. Exit to Resolve or Dispatch First Level Support Procedure",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "7556d84194ef8cad3ff0285ef7e66dcf",
+    "text": "Figure 2.148.2-4",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "d50f3db639e093726a9565a07e5e162c",
+    "text": "Incident Management Investigate and Diagnose Procedure",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "e1a444e42d900a951758e64985c9221d",
+    "text": "2.148 IT Support Services Management",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "92fc8a757da03f5732ad79d33ef23dae",
+    "text": "Resolve or Dispatch Procedure 1. Identify Knowledge Article First Level Support • If article NOT found, Route to Problem Management Process • If article found, based on the guidance in the Knowledge-base:❑ • Proceed to Step 2: Service Desk Initiates RepairsOR❑ • Proceed to Step 3: Dispatch to Service Support Provider NOTE: Critical Incidents will be routed to Escalation & Info Alerts SOP",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "a008e4346a10f45b3f1b521561147d57",
+    "text": "Resolve or Dispatch Procedure 2. Service Desk Initiates Repairs First Level Support Knowledgebase review indicated incident is to be resolved without need for assignment. Note: This is a standard ﬁx and/or recovery, details are available and no Service Support Provider is required to directly complete restoration of service If a Change Request is needed, a Change Management task ticket is submitted requiring approval or knowledge before solution can be implemented. IT Enterprise Service Desk Spe- cialist initiates repairs based on information provided in Knowl- edgebase and Standard Operating Procedures related to the issue: • A remote tool may be used to resolve issue • Incident will be updated with documentation of issue resolved • Incident will have resolution steps taken and docu- mented, and reference Knowledge Article used • Technical or managerial escalation rules apply Note: This work is generally never dis- patched to supplementalsupportandrequiresmanagerialapprovaltodoso Go to Step 7",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "e1a444e42d900a951758e64985c9221d",
+    "text": "2.148 IT Support Services Management",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "dceeea7869a6fbf735280cb8017a9e61",
+    "text": "Resolve or Dispatch Procedure 3. Dispatch to Service Support First Level Support Provider • An incident is dispatched based on need of physical touch, special handling and/or meeting criteria described in Standard Operating Procedures, IRM, SLA, etc. Change Management task ticket submitted requiring approval or knowledge before the change to resolve the issue. See speciﬁc Service Support Provider Standard Operating Procedures (SOP) for Incident Routing methodologies and Knowledge Article develop- ment • Assign to Service Support Provider staff in related or- ganization: they perform work and take steps to resolve based on informa- tion provided in Knowledgebase, OLAs & IRS Standard Operating Procedures related to the issue. • Go to Step 4 4. Look up Estimated Resolution First Level Support Time per SLA/OLA/UC: • IT Specialist reviews and veriﬁes resolution time by checking related speciﬁc SLA/OLA/UC • IT Specialist updates incident with information found • Go to Step 5",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "71387190280ae080b80e3783f8401813",
+    "text": "Resolve or Dispatch Procedure 5. Set User/Customer expecta- First Level Support tions based on Priority: • Set expectation based on SLA & Directive Policies by informing the User or Customer of the Estimated Resolution Time according to the priority and time frames as deﬁned (See Catalog of Services or Knowledge Article). • Go to Step 6 6. Provide Incident number to First Level Support User/CustomerRemindUseror Customer they can follow-up for incident status by calling the Service Desk or accessing the website. ❑ System Monitoring Process System automatically track work status and time open. ❑ Assign ticket to appropriate System Service Support Provider assign- or First Level Support ment group per Knowledge Article.Note:If not a critical incident, they will invoke the Service Support Provider Organization work procedures. Note: Critical Incidents invokes Escalation & Info Alerts SOP. Go to Step 7 7. Conﬁrm Incident Resolved First Level Support Service • Specialist working the Support Provider (whoever is incident reviews and working the ticket) veriﬁes incident is resolved based on OLAs/SLAs/UCs, and the IRM guidelines after following Knowledge Articles resolution guidance • Concurrence from User/ Customer that service is restored is REQUIRED If issue UNRESOLVED, go to Step 8 If issue was RESOLVED, go to Step 10",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "155859082cf21ec06334a2bef3112af9",
+    "text": "Resolve or Dispatch Procedure 8. Escalate for Managerial or First Level Support Service Technical Review Support Provider (whoever is Incident unresolved and addi- working the ticket) tional assistance needed, escalate to higher-level technical employee or incident manager in group ❑ The appropriate Second-Level Second Level Support IT Specialist/ Incident Manager/ /Incident Manager/Service Service Support Provider, reviews Support Provider as appropriate ticket details to determine issues with resolving incident; they will: • Determine root cause for failure to resolve • Develop plan of action to resolve incident • Take steps needed to resolve incident such as: ❑ Assign incident for addi- tional processing ❑ Flag incident for Knowl- edgebase document modiﬁcation❑Providetraining or direction❑Provide managerial inter- vention❑Share or assign incident to other supplemental support❑Follow Problem Manage- ment IRM If incident still unresolved, go to Step 9 ❑ If incident resolved, go to Step First Level Support 10 9. Document Resolution Failure First Level Support Incident is unresolved, document Second Level Support incident and evaluate for incident Service Support Provider routing (whoever is working the ticket) • Update incident with details of why resolution in Knowl- edgebase did not work • What was done • What the results were • Document Knowledgebase (articles) used",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "580b56a3f5b5607534f283376d3364dd",
+    "text": "❑ The appropriate Second-Level IT Specialist/ Incident Manager/ Service Support Provider, reviews ticket details to determine issues with resolving incident; they will:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "d0e21d1c125ab181e4352dedd22ac85c",
+    "text": "page Resolve or Dispatch Procedure Flag Incident and Route to Second Level Support Problem Management Process Service Support Provider (whoever is working the ticket) 10. Update Resolution details First Level Support Incident is resolved, IT Specialist or Service Support Provider updates incident with Resolution (whoever is working the ticket) information: • Update incident with clear resolution detail from Knowledgebase • Input resolved time • Document results • Verify ticket codes and Impact & Urgency are accurate Exit to Incident Closure System Procedure",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "5ffa104fe64abd6cd48d6d2c4b430c03",
+    "text": "Incident Management Resolve or Dispatch Procedure52 Investigate and Change Problem2 Diagnose > Management o \"a Procedure Process lanagemenT 5 o Service Support ProviderAl w3 Set User/Customer Organizations work7 Look up Estimated Provide IncidentIdentify Knowledge Dispatchtoservice [—p{ 20U EEIC pl expectationsfor ¥ »| Proceduresartice Support Provider STAJOLANRE Resolution based s Technical Management£ Qn Priarity. Function3 ¥=4=3 Yes Yese Knowledge penice 3 hangs’ SOP For CriticalT e Desk B service Desk Request so3 Repairs Initates Repairs Needed Yes% NoIncidentResolved2. A7 A0S5 ConfirmIncident > Update resolution3T Resolvedt Details2 Yesg2S & . 25 No Document3 Incident Escalate forh >\\ Resolved >| Managerislor T ResolutionTechnical Review Failure°3 eS5T8g2a5833&L Yes28£g Incident Closuree ProcedureS &£=",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "e902b2ffeb78c1c7992d1925f2e67505",
+    "text": "Incident Management Resolve or Dispatch Procedure",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "589dd45529f93da80115c7a58c63677f",
+    "text": "Closure Procedure Steps Roles 1. Resolved Incidents Received System Resolved Tickets (incidents) are received from the Resolve or Dispatch procedure, or auto- routed from the Incident Recording procedure. • System will be resolved systemically when time frame has been met: • If resolved SYSTEMI- CALLY, go to Step 2 • If NOT SYSTEMICALLY, go to Step 3",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "26d50de600c569f56362658d1c267e03",
+    "text": "2. Systemic Closure System System closes incident and Procedure ends. 3. Review Incident details First Level Support • Review Incident details to Second Level Support insure all steps taken to Service Support Provider resolve and all ticket ﬁelds (whoever is working the ticket) are completed accurately Can the incident close? • If No, return to Investigate and Diagnose procedure • If Yes, • If closing based on Known Error with no workaround, manually close using the following guidelines below: ❑ Notate the Known Error number and search for the associated Problem Record ❑ Document the following in the solution ﬁeld of the Incident record ❑ Problem PM##_KE## is being investigated by IT Specialist, Resolution Code of CROSSREF go to Step 4 4. Close the Incident. First Level Support Go to Step 5. Service Level Support Service Support Provider (whoever is working the ticket) 5. User Satisfaction Survey System • Survey triggered by statisti- cally valid sampling. • Statistics for trend analysis and reporting are gathered Report Generation. Procedure Ends",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "647c0ee421b3d544af51c5af5373dfed",
+    "text": "Incident Management Incident Closure ProcedureIncident ManagerNoYesn£ —> Systemici Closure2& sUserSatisfactionsurveyAResolvedIncident Ne 'yReceivedgS &&5=2v oz2¢9]333i3%528T 9&32 n can ; neS Review Incident »(  incident Closeo details. Close? IncidentSgs3 Investigate] and= Diagnose5 Procedure&",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "a351bcb6649ea3708103ac42be88887a",
+    "text": "There are four priorities, they are 1-4. The Priority code is calculated by a formula that is based on the Impact and Urgency rating of the Incident",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "d60dbba079223254d4c49c230a515bc1",
+    "text": "Priority",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "b8373c12b0e2d99bfdd6ffe29824e375",
+    "text": "- Severe Critical Work Stoppage – Any issue causing severe mission critical work stoppage or any IT issue impacting safety or health, i.e. ﬁre, shock from equipment etc. Impact may be on multiple internal or external customers and service to taxpayers. Immediate action required. o Assignment of Ticket - No Later than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "b76d0981a96c80675307ca40f4f8c25b",
+    "text": "minutes o Updates: On an hourly basis o Target Resolution Time - Within",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "8e7aa9724ffae241ed3db72b9f791d65",
+    "text": "hours Priority",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "5b1c7fb8a637f2e0e6e5297c38ad91e8",
+    "text": "- Potential Critical Work Stoppage – Any issue that could have a direct impact on the service to taxpayers or if its scope is multi-user and there is no work-around. Could lead to severe mission critical work stoppage if actions are not taken to resolve problem. o Assignment of Ticket - No Later than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "ecd5beb76e0a8bf110cffbcc727c4778",
+    "text": "hour o Updates: At least every",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "a7432dffcc41045ff4012a89c77bc891",
+    "text": "hours o Target Resolution Time - Within",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "aee1b2221a05cf341edd20d7530c23f4",
+    "text": "hours (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "7f89611fa019044ebdff371633bd0b2e",
+    "text": "working business day) Priority",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "3c7ed016d0aaf2414f75ae084a15f099",
+    "text": "– Any issue causing work stoppage for one customer with no work around. Examples include password resets or unlocks; service dis-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "0099b36eced6e506a815a357d8add835",
+    "text": "ruption for single customer resulting in work stoppage; alert of authorized outage or scheduled maintenance resulting in a work stoppage o Assignment of Ticket - No Later than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "ecd5beb76e0a8bf110cffbcc727c4778",
+    "text": "hour o Updates: At least every",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "2f82ea3e8a95fa965a5dc5bb521fb8b1",
+    "text": "hours o Target Resolution Time - Within hours (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "d85cda9166a8b24a38be0204d63fe6f7",
+    "text": "working business days) Priority",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "871a27bffaa98ec195737fc8b0cb017f",
+    "text": "– Any issue that is non-Critical or non-software problems where it is not a work stoppage and there is a workaround. Examples include service disruption for single customer not involving work stoppage or alert notiﬁcation of authorized outage or scheduled maintenance not resulting in a work-stoppage o Assignment of Ticket - No Later than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "1c744de5e8907162c511d6077f0effc5",
+    "text": "hours o Updates: No later",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "9248ff848adac96e4f53131f510243eb",
+    "text": "business days o Target Resolution Time - Within",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "aee1b2221a05cf341edd20d7530c23f4",
+    "text": "hours (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "0bf844b47966119cb16ac237c5074940",
+    "text": "working business Exceptions: Then there are exceptions for areas that may have a different Service Level requirement and a Service Level Agreement been approved -or- processes with Security level implications that require immediate responses Examples: Counsel Hotline tickets; lost/ stolen Blackberry/IPhone",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "9add2545055aff7ab369283d567ab075",
+    "text": "(1) Impact: The degree of business disruption Impact Description Enterprise Severs, widespread business disruption; or Nationwide or multi-site outage of system on “Premium 1 Service List”, or Affects multiple Business Areas; or major disruption to taxpayers or external partners and no workaround Site/Department A facility/department/function is unable to operate; or affects 30 or more users; or disruption to 2 groups of taxpayers or external partners, or there is a workaround in place for a system on the ″Premium Service List″ Multiple Users Multiple individuals (<30) are unable to 3 operate 4 User - Single user unable to operate (2) Urgency: How quickly the issue must be resolved Urgency Description Critical Interferes with core business functions or loss/ potential loss of mission critical data. An immediate and 1 sustained effort using all necessary resources until resolved. On-call procedures and Vendor support used as",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "2b83cb0b67f955bcc4e49a51c8092601",
+    "text": "Impact Description Enterprise Severs, widespread business disruption; or Nationwide or multi-site outage of system on",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "0f5d5b7d7dd13b1f98a9d650bb159648",
+    "text": "Service List”, or Affects multiple Business Areas; or major disruption to taxpayers or external partners and no workaround Site/Department A facility/department/function is to operate; or affects",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "e6a541edea4ac264bdad29febccf096f",
+    "text": "or more users; or disruption",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "7e43969241ee8930b34a6abfdf3f06ff",
+    "text": "groups of taxpayers or external partners, or there is a workaround in place for a system on the ″Premium Service List″ Multiple Users Multiple individuals (<",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "8d1e63ad8753c10f670060808ddb1e78",
+    "text": ") are unable to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "2c29d39181de8f853de5e48ba983a5c8",
+    "text": "operate",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "71e4d5ba6120d82e2fd9fb034e53f3b3",
+    "text": "User - Single user unable to operate",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "647c8cdd4781437177d62850c63fab5b",
+    "text": "Critical Interferes with core business functions or loss/ potential loss of mission critical data. An immediate and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "7da6434fc6813160fa91c42fae79c2b9",
+    "text": "sustained effort using all necessary resources until resolved. On-call procedures and Vendor support used as required",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "d7883e92d8a62f9a6da2c966cae5cc34",
+    "text": "Urgency Description High Interferes with subset of core business functions, or some functions remain operational with workaround 2 option. Technicians respond immediately, assess the situation, may interrupt other staff working low or medium priority jobs for Medium Interferes with normal completion of work, or tasks are more difficult but not impossible to complete, 3 with medium impact to productivity. Response using standard procedures and operating with normal supervi- sory management structures Low Interferes with normal completion of work or tasks are more difficult but not impossible to complete, with 4 minimal impact on productivity. Response using standard procedures as time allows. (3) Prioritization Matrix (based on Urgency and Impact) To determine priority, intersect urgency and impact Urgency: 1 2 3 4 1 1 1 2 2 Impact 2 1 2 2 3 3 2 2 3 3 4 2 3 3 4 (4) Prioritization times Note: These times are general and speciﬁc times will be found in SLAs",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "5f30316728c1b1c4d980d02c2a3ac3e3",
+    "text": "Urgency Description High Interferes with subset of core business functions, or some functions remain operational with workaround",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "eb5620bb9d47742e3b93549451448f83",
+    "text": "option. Technicians respond immediately, assess the situation, may interrupt other staff working low or medium priority jobs for Medium Interferes with normal completion of work, or tasks are more difficult but not impossible to complete,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "5cbc2fa2580290785dd6007837a4b9bf",
+    "text": "with medium impact to productivity. Response using standard procedures and operating with normal supervi- sory management structures Low Interferes with normal completion of work or tasks are more difficult but not impossible to complete, with",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "2e3a9e344ee49a061a008c11bc7924b0",
+    "text": "minimal impact on productivity. Response using standard",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "86f83dd3ff3fb352fe35b8abf56c73b4",
+    "text": "Prioritization Matrix (based on Urgency and Impact) To determine priority, intersect urgency and impact",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "2621954f194a86c4ddd4c317ec2a72d4",
+    "text": "Urgency: 1 2 3 4 1 1 1 2 2 Impact 2 1 2 2 3 3 2 2 3 3 4 2 3 3 4",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "c8956142e4fe52d7b6131e7bf5f3de10",
+    "text": "Note: These times are general and speciﬁc times will be found in SLAs",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "3b13e5973261aa6a70bb01bf2c5f28dd",
+    "text": "Priority Target Response Target Resolution Description Code Time Time 1 Critical Immediate 4 Hours 2 High 1 Hour 8 Hours 3 Medium 4 Hours 2 Business Days 4 Low 1 Day 4 Business Days",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-148-002--2020-05-11.pdf",
+      "page_number": 44
+    }
+  }
+]

@@ -1,0 +1,758 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "7bed3aa613bf387ee66ab65b089a1b30",
+    "text": "This transmits revised IRM 2.3.62, IDRS Terminal Responses, Command Code ESTAB modiﬁer “S” (ESTABS).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "bcf6e3eecb3c3664d5e83c5ccbef7207",
+    "text": "IRM 2.3.62 has been revised to include internal control information.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "216407ad125c816be9554c5dc083c308",
+    "text": "IRM 2.3.62, dated July 1, 2019, is superseded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "c978a59e5dc3692411cfcdab01079387",
+    "text": "LB&I, SB/SE, TE/GE, W&I.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "6c249136f819a4dbd8d10a9a52589695",
+    "text": "2.3.62.1 Program Scope and Objectives 2.3.62.1.1 Background 2.3.62.1.2 Authority 2.3.62.1.3 Roles and Responsibilities 2.3.62.1.4 Program Management and Review 2.3.62.1.5 Program Controls 2.3.62.1.6 Terms and Acronyms 2.3.62.1.7 Related Resources 2.3.62.2 Command Code ESTAB — General Information 2.3.62.3 Command Code ESTAB 2.3.62.4 Command Code ESTAB — Error Response 2.3.62.5 Command Code ESTAB — Valid Response 2.3.62.6 Command Code ESTAB — Type Of Request codes 2.3.62.7 Command Code ESTAB — Validity Messages 2.3.62.8 Command Code ESTAB — Consistency Messages",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "392531c41b85d67d10e63c8244bc5065",
+    "text": "Scope and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c1259c56947bb2352014eba4a630e96c",
+    "text": ") The Service Center Recognition/Imaging System (SCRIPS) utilizes the Command Code (CC) ESTAB with CC Modiﬁer “S” to request printed images from the SCRIPS System. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e00fd2d6e3dbb929768d162d6f760275",
+    "text": ") Purpose: This transmits revised IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9c2961ac8d1d23f3a8b2cbc8017bb3d4",
+    "text": ", IDRS Terminal Responses, Command Code ESTAB modiﬁer “S” (ESTABS). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "abc845e49c02e199cc5f745b5f166f9c",
+    "text": ") Audience: All IRS business units. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d81d198de67bdcf7115970d0e99906a5",
+    "text": ") Policy Owner: The Chief Information Officer (CIO) is responsible for oversee- ing all aspects of our systems that operate the nation’s tax infrastructure. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8570ed4c168fad3ebef45cf70848a39f",
+    "text": ") Program Owner: IT (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c6bd70b9479950a6113c7b2f81317b2f",
+    "text": ") Primary Stakeholders: Wage & Investment (W&I), Large Business and Inter- national (LB&I), Small Business Self-Employed (SB/SE), Tax Exempt and Government Entities (TE/GE). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "72ce6faa46abbb4540031d0311841dc3",
+    "text": ") Program Goals: This system manages data that was extracted from Corporate Account Data Stores (BMF, IMF, and EPMF) allowing IRS employees to take speciﬁc actions on taxpayer account issues and track status of an account. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "bf9626ec3397cf558a943614e45f15a9",
+    "text": ") Document Request System (DOC) allows users to requests documents from Service Center and Federal Records Center return ﬁles. Requests are printed out on Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d31eb4cde81ba3c5a5bca4973a652327",
+    "text": "Return Charge Outs. These requests are initiated by terminal inputs of command code ESTAB. Upon reaching the print site these requests are sorted into manageable order and the Forms",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "510c7ae90a67e1bff86e8e34dd30214b",
+    "text": "are printed and forwarded for service. DOC is the principal means for obtaining original documents, copies and information from return ﬁles. The DOC project also the following functions: • Allows single approved user to update an AIMS contact listing for employees (separate from other ESTAB functionality. • Allows users to view, update, and delete district office addresses stored RDMS database. These addresses are used to mail requested documents to users. • Allows users to view all of their document requests for up to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5174087c9bd94b2833f904ae30acebcc",
+    "text": "days. Also allows users to edit or delete same day requests before batch printing. • Allows users to request microﬁlm request to the Microﬁlm Unit for research. • Allows the Service Center Files area to enter the current retirements documents to the Federal Records Center. Also allows users to also delete obsolete records. • Allows users to request SCRIPS images of documents. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "07d2754399f8f6f6faf527e55a0b5748",
+    "text": ") Command Code ESTAB was developed as the principal means for obtaining original documents, copies and information from return ﬁles. and Responsibilities (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "596d67ba9712f57c4dcd0e9f62ecba62",
+    "text": ") ESTAB Project Lead is responsible for: • Review and implementation of WRs that affect ESTAB. • Updating the contents of this IRM. Code ESTAB",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3660315a9af3df255d8f19ab077e4797",
+    "text": "page",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5a1c84dae374bd098246cb809e4fd243",
+    "text": "L (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "7e1a40b7b3280e4a5f3c38b302921dae",
+    "text": "Purpose: This transmits revised IRM 2.3.62, IDRS Terminal Responses, Command Code ESTAB modiﬁer “S” (ESTABS).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a8324d53e116de1d9a750026c65d30b1",
+    "text": "Allows single approved user to update an AIMS contact listing for employees (separate from other ESTAB functionality. Allows users to view, update, and delete district office addresses stored RDMS database. These addresses are used to mail requested documents to users. Allows users to view all of their document requests for up to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "dfcb75829a0619a2f0c9d7f1a336416a",
+    "text": "days. Also allows users to edit or delete same day requests before batch printing. Allows users to request microﬁlm request to the Microﬁlm Unit for research. Allows the Service Center Files area to enter the current retirements of documents to the Federal Records Center. Also allows users to also delete obsolete records. Allows users to request SCRIPS images of documents.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b75d78287546c854636a71a7b6692ecd",
+    "text": "Command Code ESTAB was developed as the principal means for obtaining original documents, copies and information from return ﬁles.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "7a5e8ef2dcddcbd4253cbfa6cf05a55e",
+    "text": "The document request system was the ﬁrst application to launch a relational database system on the UNISYS mainframe. The database is accessed through embedded SQL statements within the code.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "2214f2b09bf4208f7036d5eabe435a0e",
+    "text": "Table of commonly used Terms and Acronyms is below:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e0393012e8365f303349904bf1a499b6",
+    "text": "Term or Acronym: Meaning: ACA Affordable Care Act cc/CC Command Code DLN Document Locator Number DOC Document Request System EIN Employer Identiﬁcation Number ESTABS ESTAB CC used to request SCRIPS images from service centers FTD Federal Tax Deposit IRP Information Returns Program MCC/TCC Computing Centers, Martins- burg and Memphis RDMS Relational Database on Unisys Mainframe SACS Security and Communications System in charge of maintaining security protocols across CCs. SCRIPS Service Center Recognition/ Imaging System TIN Taxpayer Identity Number",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a97d96b6b0659b948ea9dbe8a4979802",
+    "text": "All ESTAB with CC Modiﬁer “S” requests (except FTD) will require the Universal Access Routing Indicator (UARI). The UARI must be input on line 3 in the two spaces following the “@” symbol. ( See IRM 2.3.62.5).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "e65298484503489d0b11943b93af1708",
+    "text": "These are one character alphabetical codes input on line 1 column 7 of the ESTAB input screen.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "20b994c6cd9fcc8093beadf554c73f38",
+    "text": "When an element of data is invalid, a error message will be displayed on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "0d7bd675fd052135090e7a4fa22c1c6d",
+    "text": "The element that is invalid will have an asterisk to the right of the invalid data ﬁeld.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "b31057923f429457a93224800385e2ae",
+    "text": "When an element of data is invalid, a error message will be displayed on line 24. The element that is invalid will have an asterisk to the right of the invalid data ﬁeld.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3851090c2253b492ff90e9e53ba695bb",
+    "text": "Error Messages The CC Modiﬁer is not “D”, “M”, “R”, or “S” Invalid Type-Of-Return, Please enter a valid Type-Of-Return Invalid Request-Year, A two digit RY must be entered after EIN, EX 00-0000000 04 Invalid Req-Yr, A 2 digit RY must be entered after Type-Of-Return, EX ESTABSP04 Invalid, Tax-Quarter (12th character) must be 1 through 4, or a SPACE Invalid, Tax-Year (last 2 characters) must be numeric M, R, Y Invalid, Tax-Year must be => 17 for Type-Of-Return “Y” request Invalid, SCRIPS-Req-Num ﬁeld must be empty for Type-Of-Return: E, M, R, T or Y. Invalid TIN, Payer-TIN must be entered for Type-Of-Return E Invalid TIN, Payee-TIN must be entered for Type-Of-Return T Invalid TIN, Payee-TIN must be entered for Type-Of-Return M Invalid, TIN can not be entered for Type-Of-Returns K, L, P, S or X Invalid EIN, EIN must be entered for Type-Of-Return E, M, R, T or Y Invalid Req-Employee-Num, this ﬁeld must be ﬁlled Invalid: EIN, Tax-Qtr and Tax-Year must be blank for Type-Of-Return “A, L, W and X” Invalid, EIN can not be entered for Type-Of-Return A, D, L, P , S, W or X Invalid, Tax-Class must be a 8 for Type-Of-Return W request Invalid, Tax-Class must be a 9 for Type-Of-Return X request Invalid, Doc-Code must be a 40 for Type-Of-Return W request Invalid, Doc-Code must be a 00 for Type-Of-Return X request Invalid Req-Employee-Num, ﬁrst two digit not a valid Office/Center Code Invalid Req-Employee-Num, must be numeric Invalid, Tax-Class must be a 1 for Type-Of-Return L request Invalid, Doc-Code must be a 41 for Type-Of-Return L request Invalid, Tax-Class must be 5 for Type-Of-Return A request Invalid, Doc-Code must be 11 or 12 for Type-Of-Return A request Invalid SCRIPS-Req-Num, number must be entered Invalid SCRIPS, DLN failed validation Internal Revenue Manual 2.3.62.7",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "6bc9ff97fa40b88b8da7abaa60f4c647",
+    "text": "Error Messages Invalid, Alpha-Numeric Doc-Cd not valid for this type of request Invalid SCRIPS-Req-Num, the DLN must contain numbers (except Doc-Cd) & 3 dashes Invalid ESTAB request, use CC TRPRT to secure this electronic 1040 DOC Invalid Return Type for this Service Center - you are currently in: Invalid Return Type for this Service Center - you sent this request to: FLC does not agree with the Return Type and Campus This File Location Code is not valid for this request - you sent it to:",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "134c3a6606b1fb05e162f88387ae383f",
+    "text": "When elements of data are inconsistent an error message will be displayed on line 24. The elements that are inconsistent will display an asterisk to the right of their ﬁelds of data.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "7ed12968e916916b976522814581ce33",
+    "text": "Error Message Solution Invalid, SCRIPS Request Number required, not DLN Enter either the TIN or change the DLN to an FTD Sequence Number for the SCRIPS Request Number Invalid, TIN, Tax-Quarter and Tax- Year must be blank for Type-Of- Return ’L’ Remove TIN, Tax-Quarter, and Tax-Year",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "b4bf5fc6e06a0485c43c786f370cb2cb",
+    "text": "Screen display: The below graphic depicts the layout of the CC ESTAB, modiﬁer “S”",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d2324464d9aef15a489825bba94d22ad",
+    "text": "e e e",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "cc6c681de9ae9e573f61564d09997fb7",
+    "text": "Record Element Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "4d7da54be5240a291c9444e50d1e920b",
+    "text": "Item Line Description and Validity 1 1 CC-“ESTAB”. 2 1 CC MODIFIER —Must be entered and must be “S” for SCRIPS Request. 3 1 TYPE OF RETURN —One must be entered and must be “A” (ACA 1094 series), “B” (FTD Block), “D” (IRP 1096), “E”, “F”(FTD), “H” (FTD Header), “K”, “P”, or “S” (K-1, providing DLN), “L” or “M” (941), “R” (940, providing EIN), “T” (K-1, providing EIN),“W” (940, providing DLN), “X” (943, providing DLN), or“Y” (943 providing DLN). 4 1 TIN INFORMATION —If entered, must meet standard validity criteria. per IRM 2.3.8 (4) and (5). Also see IRM 2.3.62.7. 5 1 TAX-QUARTER - When requesting 941’s enter 1 through 4 for an individual tax-quarter; or leave blank for all tax-quarters for the requested tax-year. 6 1 REQUEST-YEAR - last two digit of tax-year.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "e5e10c5ba988b646f572b5c6f5289f2d",
+    "text": "Exhibit 2.3.62-1 (Cont. 1) (01-02-2018) Input Format CC ESTAB — SCRIPS Request",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "64f069464c14462d5f046b66eaf80197",
+    "text": "Item Line Description and Validity 7 2 REQUESTOR EMPLOYEE NUMBER —Must be entered as ten numerics, and the ﬁrst two digits must be a valid District Office Code or Service Center Code. 8 3 SCRIPS REQUEST NUMBER —Must be entered as either an edited DLN or a seventeen-digit FTD Sequence Number. To ensure that an FTD type of SCRIPS Request will be fulﬁlled, please use the last two digits of the year in the ﬁrst two positions of the FTD Sequence Number. 9 3 UNIVERSAL ACCESS —Must be entered for all requests, except FTD’s. This ﬁeld is made up of two components, the “@” symbol is the routing indicator and the Servicing Service Center two digit code.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "31c0e95a9eda56c38126ab12b47226a2",
+    "text": "Exhibit 2.3.62-2 (01-01-2017) Input Format CC ESTAB — SCRIPS Request with Validity Error(s) Response",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "6ebe9f2f3c5c85ea850bd62a25d23275",
+    "text": "Screen display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "de7d1b721a1e0632b7cf04edf5032c8e",
+    "text": "i",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "e6d83df9c14d8e7ab288b23490386619",
+    "text": "a. Correct invalid data elements and re-enter; ‘*’ means invalid data within ﬁeld to the left. b. Try another CC and/or modiﬁer.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "e466267328f1bc5fe3be2fc56a69a2f9",
+    "text": "Screen display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "ea4e11a8420e6606060d6867b357fb81",
+    "text": "Note, you may do the following:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "8ba0741f7cee1b223bbc3533945daa84",
+    "text": "Screen Input for a FTD Block Request.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "00fca39c345f38913b24f6e53457298c",
+    "text": "e e R T B H3R TR i e e et Be T E T R TR T",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "f9d97b6654d2af739673afc08cb4b0ab",
+    "text": "Note: The TIN ﬁeld is optional for an FTD type of SCRIPS Request. This screen shows ESTAB modiﬁer “S” with a request code of “B”, en empty TIN ﬁeld, an Employee Number of “32000000000”, and a SCRIPS Request Number of “95200000000000000”.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "37466b7d19e132d008355f4ab97b5465",
+    "text": "Screen Input for a FTD Request.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "bff7cc368cb1ba6a35d1f395b8407fb6",
+    "text": "Exhibit 2.3.62-4 (Cont. 1) (07-26-2019) Examples of CC ESTAB Input — SCRIPS Request",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "56f6d48678b649fd73952c121245d130",
+    "text": "B T I LT HO IR S e T :e ST R T",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "883ebb7e2adafc4c8e21d0d5bb1757be",
+    "text": "Note: The TIN ﬁeld is optional for an FTD type of SCRIPS Request. This screen shows ESTAB modiﬁer “S” with a request code of “F”, a TIN of “32-0000001”, an Employee number of “3200000002”, and a SCRIPS Request Number of “95200000000000001 ″ .",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "08b8f7c9e1ebdeb7a3ad0580fbd9003b",
+    "text": "Screen Input for a FTD Header Request.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "266d45a9d8ff980620fdcaacbb4c7ff6",
+    "text": "Exhibit 2.3.62-4 (Cont. 2) (07-26-2019) Examples of CC ESTAB Input — SCRIPS Request",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "5f3759150f63640a54991560971cebad",
+    "text": "(| I mm mn e| AR SR TSt T T a7 T S",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "fd8fef7cf4ba60020e0515635f53f234",
+    "text": "Note: The TIN ﬁeld is optional for an FTD type of SCRIPS Request. This screen shows ESTAB modiﬁer “S” with a request code of “H”, an empty TIN ﬁeld, an Employee Number of “32000000003”, and a SCRIPS Request Number of “95200000000000002”",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "1d8e24c5fdb992d8b17aeba72cfd2927",
+    "text": "Screen Input for a DLN Request.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "0445d3f9395f1ea3c767f2bb5ea61609",
+    "text": "Exhibit 2.3.62-4 (Cont. 3) (07-26-2019) Examples of CC ESTAB Input — SCRIPS Request",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "7a8ef2c41294ac0fe0599ba7fcd6a864",
+    "text": "B NI NSNS i=",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "4654ff8d4b8f7e37f5e113c64b8f6c81",
+    "text": "Note: This screen shows ESTAB modiﬁer “S” with a request code of “D”, a TIN of “32-0000000”, an Employee number of “3200000001”, and a SCRIPS Request Number of “32569-001-00000-3@00 ″",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "292be68c07bcce918312e5148bd7f379",
+    "text": "Screen Input for a 941 request by DLN",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "c7184ae1ee0ea9d79b4866323ce5b181",
+    "text": "B IR NSNS= S e E T e T",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "20f0e6d840aae60998356968a24c3f47",
+    "text": "Exhibit 2.3.62-4 (Cont. 4) (07-26-2019) Examples of CC ESTAB Input — SCRIPS Request",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "ae560c67bf941a4caf2d94294a230f90",
+    "text": "Note: The EIN must be blank for an Type-Of-Return ’L’ request. This screen shows ESTAB modiﬁer “S” with a request code of “L”, an empty TIN ﬁeld, an Employee Number of “32000000001”, and a SCRIPS Request Number of “32569-001-00000-3@00”.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "4574aad40a5d665841c0d0a2286cd166",
+    "text": "Screen Input for a 941 request by EIN.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "958f89f6df4f25da35ef59235cb305b7",
+    "text": "T I Al B T=i B",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "99c96ca78b5bec38ee580fd667c11f8f",
+    "text": "Note: The SCRIPS-REQUEST-NUMBER ﬁeld must be blank for an Type-Of-Return ’M’ request. This screen shows ESTAB modiﬁer “S” with a request code of “M”, a TIN of “07-9999999”, an Employee number of “3200000001”, an empty SCRIPS Request Number of ﬁeld, and a Universal Access Routing Indicator of “09”.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "2b515b6af0bff27a548cd9541f29fcd3",
+    "text": "Exhibit 2.3.62-5 (07-26-2019) Example of CC ESTAB Input — SCRIPS Request using Universal Access",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "84607e79c09018cdf773a29836cb155e",
+    "text": "Screen Input for SCRIPS Request using Universal Access",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "baaa872dd4f24e8656138cdad52ca09a",
+    "text": "B IR NN T Ye ST TRt e e —E",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "f24aac836f2c51eb4c3e5621bb9ea5e2",
+    "text": "The “@” is the routing indicator, it must be placed after the SCRIPS-Request-Number, it is used to route the request to the Servicing Service Center (SSC), example: the “09” is the SSC for the Kansas City Service Center. The Universal Access is not used when requesting an FTD. This screen shows ESTAB modiﬁer “S” with a request code of “W”, a empty TIN ﬁeld, an Employee number of “3200000000”, a SCRIPS Request Number of ﬁeld of “3520000000000000”, and a Universal Access Routing Indicator of “09”.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-062--2023-02-15.pdf",
+      "page_number": 20
+    }
+  }
+]

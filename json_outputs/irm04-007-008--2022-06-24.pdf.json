@@ -1,0 +1,1163 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "6d4148e19807b0f721b4ea1614333996",
+    "text": "Due to the move of the ERCS server from Solaris to Linux logins based on the user names are no longer used. The login is now the user’s Standard Employee Identiﬁer (SEID) in lower case letters.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1457f613c694778df187766f54c2a45e",
+    "text": "The IRS replaced the Online 5081 (OL5081) system with the Business Entitlement Access Request System (BEARS). References to OL5081 have been replaced with BEARS.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "5f546590897ce60abca6ebebbd9c5784",
+    "text": "(4) Signiﬁcant changes to this IRM are reﬂected in the table below: Original New Reference Description Reference N/A 4.7.8.1.1 (2) “Background”: Added (2), users must be aware of the potential for Unauthorized Access of Taxpayer Accounts (UNAX) violations from the use of ERCS. Data from ERCS should be accessed only for IRS business purposes. Audit trails are created and subject to review for all user accesses of taxpayer data. Added link to IRM 10.5.5, IRS Unauthor- ized Access, Attempted Access or Inspection of Taxpayer Records (UNAX) Program Policy, Guidance, and Require- ments. N/A 4.7.8.3 (3) “Security”: Added new (3), per IRS security requirements, IT employees are not permitted to have access to taxpayer data. Renumbered old (3) to (4). 4.7.8.5 4.7.8.5 “Work Flow and Processes” renamed to “Work Flow”. 4.7.8.5.2, N/A “Work Flow”: Removed the following subsections as they do 4.7.8.5.3, not relate to ERCS procedures: • 4.7.8.5.4, Examined, Non-streamlined Case Closures • 4.7.8.5.4.1, Examined, Streamlined Case Closures • 4.7.8.5.4.2, and Non-examined Case Closures • 4.7.8.5.4.3 Paperless Non-examined Closures • Original Return - Form 5546, Examination Return Charge Out Sheet • Original Return - No Form 5546 4.7.8-1 4.7.8-1 “CCP Program Numbers and Suspense Types”: Added CCP Suspense Types are in the 400-499 range.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "e5304e382c171a5439f78f6619f2658b",
+    "text": "Signiﬁcant changes to this IRM are reﬂected in the table below:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "cd616b434f8ba2cae7403d73a5352d53",
+    "text": "Original New Reference Description Reference 4.7.8-2 4.7.8-2 “CCP Reject Reasons”: Added CCP Reject Reasons are in the 400 to 499 range.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "c6ecf1cc34f2eabcc2799b34893a3f47",
+    "text": "Minor editorial changes have been made throughout this IRM. Some items were reworded for clarity. Also, website addresses and IRM references were reviewed and updated, as necessary.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "590605862d88f500b88e802fb61686a4",
+    "text": "EFFECT ON OTHER DOCUMENTS",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "59776e7e7381b72cd4079f5a07c59ee8",
+    "text": "Small Business and Self-Employed (SB/SE) and Large Business and International (LB&I) employees in Centralized Case Processing (CCP) who use ERCS.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "be4b2d85d293028ffe2a1b3bacf9d7fc",
+    "text": "Ensuring work is evenly distributed among employees Ensuring users timely and accurately input required ERCS data Ensuring all updates requiring approval are processed within two Ensuring users accurately resolve any ERCS rejects as they occur Monitoring status codes and statutes of all CCP cases Ensuring ERCS reports are generated and worked following the guidance in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "dac8276bbc99bc8419e21c8226744504",
+    "text": ", Reports Ensuring prompt closing of all outgoing cases Reporting ERCS user or system related problems to the CCP AIMS/ ERCS (A/E) analyst",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "97652bd66ffff2234bcdb881061e7a2d",
+    "text": "CCP Users: CCP users are deﬁned as tax examiners and clerical support staff. Responsibilities include but are not limited to the following:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "07a9fe7d5d2c7fa53906a39a3b5f533d",
+    "text": "Adding, updating and deactivating ERCS employee records",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e31dbc88c87703ecc970abed57016439",
+    "text": "Examination Returns Control System (ERCS)",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "613bfec3954a2e4707c51d60ac6a24a1",
+    "text": "Updating ERCS for all changes to returns Correcting ERCS rejects from the ERCS to AIMS uploads as they Researching and correcting returns on the weekly AIMS Error reports Generating the ERCS inventory and monitoring reports Reporting ERCS user or system related problems to the CCP A/E analyst",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "918d3e85a173bac550056a586aeaf891",
+    "text": "The table below lists acronyms used in this IRM and their deﬁnitions.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4fb344c327461f855544b632933d6a25",
+    "text": "Acronym Deﬁnition AAC AIMS Assignee Code AIMS Audit Information Management System A/E AIMS/ERCS BEARS Business Entitlement Access Request System CC Command Code CCP Centralized Case Processing ERCS Examination Returns Control System FORT Field Office Resource Team IAT Integrated Automation Technologies IDRS Integrated Data Retrieval System LB&I Large Business and International PBC Primary Business Code PCC Processing Campus Code PSP Planning and Special Programs RGS Report Generation Software ROTER Record of Tax Enforcement SB/SE Small Business/Self Employment SSN Social Security Number",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d48ba81533e72abad3f2c95d81e57328",
+    "text": "Centralized Case Processing 4.7.8 page 3 Acronym Deﬁnition TIN Taxpayer Identiﬁcation Number UNAX Unauthorized Access of Taxpayer Accounts",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "7ae64064cf9831ec35211b247884b6b7",
+    "text": ") Instructions for CCP users for navigating the ERCS programs can be found the ERCS CCP Handbook. The purpose of this section is to provide policy guidelines and procedures for the use of ERCS in CCP. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "53751de73a6cc5259cce4983ab4c1289",
+    "text": ") In order to access ERCS and run ERCS programs, a user must have: • Met the prerequisites outlined in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a9ff7a0d5174597fe653890917fcd07b",
+    "text": ", Meeting the Prerequi- sites. • An approved BEARS request for a CCP ERCS application. Refer to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "06cee1db653d734975654d3316e541a1",
+    "text": ", Security, for details. • A valid login for the ERCS server. • An ERCS employee record containing the user’s login name. • Permission records. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a6dcc868b1c3ef7d42e58e75bce3b522",
+    "text": ") Employee records for CCP users must be added by another ERCS user update permission for the AIMS assignee code (AAC) to which the new will be assigned. Details on adding a CCP employee record to ERCS can found in the Employee Records chapter of the ERCS CCP Handbook. The user should enter all information accurately and completely. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a2f1c57af95e8ad1d482c7799910838f",
+    "text": ") CCP users are added to ERCS in a CCP campus primary business code (PBC) of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3d30020b1863441a64e786bdc72745e9",
+    "text": ", or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f8d280871fd06566f3ea4f5615d636a1",
+    "text": ", the secondary business code of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b80ec9ec961b4a049fbd0c2d4b83629a",
+    "text": "and an ERCS deﬁned employee group code. The employee group codes for CCP users are in the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ba98e2ef256a5325f6ff2f436362d685",
+    "text": "XXX series. These three codes make up the AAC of the ployee’s group assignment on ERCS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "26709c1e8fcbe43c9413dab4a52d07ed",
+    "text": ") CCP users utilize Position Codes",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "6201111b83a0cb5b0922cb37cc442b9a",
+    "text": "and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ae1a7789826d346957d99b47cd3871eb",
+    "text": "See Exhibit for the deﬁnitions of these position codes. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "4074326646f141c1a0f9da16c622739b",
+    "text": ") ERCS employee records should be inactivated when the employee leaves service or transfers within the service to a non-ERCS position. The login should not be removed from the record because it links the employee the audit trails. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "470e6ea464e41805c83c330fb81971fc",
+    "text": ") ERCS employee records should be updated to the new AAC if the transfers from CCP to another ERCS position outside of CCP. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3934fe46dba7d4fed1fc01a804c52f27",
+    "text": ") A CCP user’s permission records are added by a CCP A/E analyst. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d5bfbaa52723da328405b16e1e263957",
+    "text": ") CCP users are generally given read and write permission for the CCP (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "72dc8d5bede83c22791779af7212b3fc",
+    "text": ") CCP managers are generally given read and ﬁrst level approval permission the CCP campus. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "9315d2f84364f5844501cc7f8d226ffb",
+    "text": ") Permission records should be deleted when they are no longer needed.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "0f87b30b2d4cdcce7d172365a1521de8",
+    "text": "In order to access ERCS and run ERCS programs, a user must have:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "954da69e58a744da6203c827f19f4a84",
+    "text": "ERCS employee records should be updated to the new AAC if the employee transfers from CCP to another ERCS position outside of CCP.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "284f8942d9a5886c8fd40abb501059fc",
+    "text": "A CCP user’s permission records are added by a CCP A/E analyst. CCP users are generally given read and write permission for the CCP campus. CCP managers are generally given read and ﬁrst level approval permission for the CCP campus.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "bf2fb0fdbdf2dcfb48f4f508f29bbaee",
+    "text": "Permission records should be deleted when they are no longer",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "288ae6c447e8afdbe1d8faf1ffae3ab2",
+    "text": "Examination Returns Control System (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "96015ee7b6ce16c772c924ffc13e6795",
+    "text": ") Inactivating the employee record on ERCS also results in the deactivation the employee’s permission records on ERCS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e7b505b2ed8da949b313da6f3d278a93",
+    "text": ") ERCS operates on the principle that users should only change data on under the user’s control. Consequently, a CCP user may change only on returns in CCP status codes within the AACs in which the user has permission. Throughout ERCS, error messages appear when a user to update returns for AACs or status codes for which the user does not permission. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "b6596f01a67349f226b050a343eefc2d",
+    "text": ") Because of the potential for Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "c92a97c960b4fe84ec5c6c2b9a6eb458",
+    "text": "violations, reports generated in that contain any Record of Tax Enforcement (ROTER) information are to be shared only at the manager level or higher. For more information about ROTER, see the Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "b663218fa6ff200be2efe83bd5bb65c0",
+    "text": "website. IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "a5a2c34699cb111aa5783ebdf3e00ce1",
+    "text": ", Managing Statistics in a anced Measurement System Handbook, provides further guidelines for the propriate use of statistics by managers and employees. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "940cfe20f8e2cf49d7ba86b86b345e1b",
+    "text": ") Per IRS security requirements, IT employees are not permitted to have to taxpayer data. No IT employee should be approved for ERCS access any user transferred or detailed to an IT position must submit a Remove Access request to have all permission records removed. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "157155e53e02d1f0f2f828282fdee9b0",
+    "text": ") Users in CCP must be aware of the potential for Unauthorized Access of Taxpayer Accounts (UNAX) violations from the use of ERCS. As with Inte- grated Data Retrieval System (IDRS) and AIMS, data from ERCS should accessed only for IRS business purposes. No attempt should be made to access the user’s own social security number (SSN) or that of a spouse. If user’s personal SSN or that of a spouse is entered, an employee audit message is created of a possible breach of security. An employee audit message is also created if a user attempts to view or update an employee audit return that the user does not have permission to update. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "9ead997fb06c6a3c054cb48b5bb0ca08",
+    "text": ") Updates to returns in CCP requiring managerial approval are approved by CCP manager. Types of updates by users in CCP that require approval are: • Changes to the statute of limitations • Non-examined closures of returns generating a Command Code AMSOC Note: Examined and non-examined closures of returns in CCP are input on AIMS bypassing ERCS. During the weekly AIMS to ERCS processing, the ERCS returns are closed. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ed06647eeb22b33b6abf3177afcf7285",
+    "text": ") Updates to returns on ERCS requiring approval are not sent to AIMS until are approved. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "33211911af9518170052bf7d6cea68b4",
+    "text": ") Disapproval of updates causes the items to revert to their prior value. pending approval by a CCP manager cannot be transferred or closed on ERCS. ERCS does not create a “reject” list or otherwise mark disapproved updates. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "4f39ab6f5a74074bf588abd5d484e3f4",
+    "text": ") Although returns should be in Status Code",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "1d5c79b66f167b94a6fe5d55760a3b25",
+    "text": "on ERCS and AIMS, cases be received in CCP even though they are still pending managerial approval the group for the transfer. Returns in transit to CCP can be monitored using",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e31dbc88c87703ecc970abed57016439",
+    "text": "Examination Returns Control System (ERCS)",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "cdb4ab736e77dd8b3b32c074ae1261de",
+    "text": "Updates to returns in CCP requiring managerial approval are approved by a CCP manager. Types of updates by users in CCP that require approval are:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "cdb4ab736e77dd8b3b32c074ae1261de",
+    "text": "Updates to returns in CCP requiring managerial approval are approved by a CCP manager. Types of updates by users in CCP that require approval are:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "85f7c6f9f851f04a30d1f97fb78d6cd2",
+    "text": "Changes to the statute of limitations",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "7f62496b0cb865f7b99f9ff14f7de540",
+    "text": "Non",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "db070594c5b28854a9eb8ea744ccf02d",
+    "text": "examined closures of returns generating a Command Code AMSOC Note: Examined and non",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "399a931862f23f00eb8d149f80e83827",
+    "text": "examined closures of returns in CCP are input on AIMS bypassing ERCS. During the weekly AIMS to ERCS processing, the ERCS returns are closed.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8f302ab08630ee3ae5745bdbb2903ec5",
+    "text": "(06-24-2022) Approval Authority",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "67d87482c618cb7b8618c4d03bbeaf4a",
+    "text": "to returns on ERCS requiring approval are not sent to AIMS until they",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "66fd7e19f1f37e2af868736ba13b44e9",
+    "text": ") Updates to returns on ERCS requiring approval are not sent to AIMS until they are approved. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "6155b6f8eb6c7575d2cac8239194defa",
+    "text": ") Disapproval of updates causes the items to revert to their prior value. Returns pending approval by a CCP manager cannot be transferred or closed on ERCS. ERCS does not create a “reject” list or otherwise mark disapproved updates. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "4f39ab6f5a74074bf588abd5d484e3f4",
+    "text": ") Although returns should be in Status Code",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "0205b09e61493114096a4511bb179e62",
+    "text": "on ERCS and AIMS, cases may be received in CCP even though they are still pending managerial approval in the group for the transfer. Returns in transit to CCP can be monitored using",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "5798aac58d235af19fb783e25ca5e78b",
+    "text": "the “In Transit Report” or by generating the “Suspense Report” for Suspense Type",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4ebad49513ede5108f0ec52443d9e8b7",
+    "text": "Both reports are on the Inventory Reports menu. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d18db49a1c065b7fdc3cac65dc77d04a",
+    "text": ") Updates pending managerial approval, show a “p” next to the value on the screens in the Correct or Display Records program. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b9361dbc5c22995755032f22b1698892",
+    "text": ") Work ﬂow in CCP begins with receipt and control into CCP and ends with case closures. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "fede3a8aa9ce64def410ac9af0d77c6f",
+    "text": ") After receipt in CCP, the Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a3434c81c099e4372e43fa26241d6cf3",
+    "text": ", Document Transmittal, should be ac- knowledged electronically on ERCS within",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "415a954ab84792b698a6614c4902cd7f",
+    "text": "days, and the Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "83f89a65eb2e27c9e3e82c6e49762eb8",
+    "text": ", Special Handling Notice for Examination Case Processing, analyzed for case assign- ment. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "96a660888c0e0cb0f216aac1b3a352d4",
+    "text": ") Cases should be updated out of Status Code",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "f106376011688eda079ceb77accc1e24",
+    "text": "within",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "406cb3b2b359295bde1ca03b38a7a0f0",
+    "text": "days of the status date. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1803d42d69c464af9aba91ce5f5232e8",
+    "text": ") The ERCS record is checked to verify it is controlled on AIMS, if AIMS control is required.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "97c589eeaeab1297b7fdb338db61211f",
+    "text": "“In Transit Report” or by generating the “Suspense Report” for Suspense 498. Both reports are on the Inventory Reports menu.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1739fd5486426f510f267edde0daf016",
+    "text": "Note: ERCS penalty records are not controlled on AIMS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "90ff8cf8c01ed60693776ece145973ad",
+    "text": ") The statute should be checked and updated as necessary on the ERCS record. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "75d65008576e5ee097ade78d6b43f312",
+    "text": ") The following values should be veriﬁed and updated as necessary on the ERCS record: • Status code • Type suspense • Action date • CCP employee ID • Date in CCP • Program number (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "2f0c48a0d4d54b6ef27c8216f5b31e09",
+    "text": ") Returns are selected for sample review on ERCS as they are updated Status Code",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b248c90a5b9f7e39727a69791ac45510",
+    "text": "If a return is selected for sample review, the sample sheet should be printed and attached to the front of the case ﬁle. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "737a3edae89f78322aef2661ae699731",
+    "text": ") The Field Office Resource Team (FORT) is comprised of revenue agents, auditors, and tax compliance officers. The FORT serves as a liaison CCP and Planning and Special Programs (PSP), Technical Services and amination groups in the ﬁeld. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8f59ea3cd8aa2a7b73e2d5a46249e828",
+    "text": ") If CCP employees encounter issues with returns that cannot be resolved CCP, the returns are sent to the FORT. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "41355570336451482d53018fe331adec",
+    "text": ") Closures done through IAT close the AIMS record to Status Code",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "91e04a09ee9fcc709999dc562f0ef5f8",
+    "text": "batch processing is run on the following weekend the ERCS records are updated to Status Code",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "aec2f293fc1afd0be1f621527528cd9c",
+    "text": "Note: ERCS penalty records are not controlled on AIMS.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b16108b18a33c91a04eecb935eaaf97b",
+    "text": "(06-24-2022) Field Office Resource Team",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e31dbc88c87703ecc970abed57016439",
+    "text": "Examination Returns Control System (ERCS)",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "ace03194d9f61a1b68f21f387215c65a",
+    "text": ") Returns that have been selected for sample review should be sent to review instead of the ﬁles function when the return is closed. Normally, the Closures returns should be shipped to the address on the sample review sheet that is attached to the front of the case ﬁle or in RGS for SBSE electronic case (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "465806bce13f3131f0e79443abcfe707",
+    "text": ") ERCS uses a combination of AIMS and ERCS codes for inventory control employee records. The following codes are deﬁned on ERCS only. More Codes mation about these codes may be found in the Codes chapter of the ERCS CCP Handbook, or in Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "840c5f56d7f1441c8bcec4422d41f33b",
+    "text": ", Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "5c7437007275bd03884daebe9ace5556",
+    "text": ", or Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "e878c9d33fbe84904ba395057f7fcc6a",
+    "text": "• Suspense type and action date • Reject reason • CCP employee ID • Date in and date out of CCP • Program numbers • CCP AACs • CCP position codes • ERCS penalty Master File Tax (MFT) codes (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "1f64e9ee6331a5603e03277a85a3684d",
+    "text": ") For a complete listing of ERCS reports available for CCP users, refer to the ERCS CCP Handbook. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "8d8ee68561f6d6cd51036015ff6b97ae",
+    "text": ", Reports, contains detailed descriptions, as well as, recommended uses and frequency of generating reports available through ERCS.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "2182edddf32c54ed14b998c24c3a67d0",
+    "text": "Returns that have been selected for sample review should be sent to sample review instead of the ﬁles function when the return is closed. Normally, the returns should be shipped to the address on the sample review sheet that is attached to the front of the case ﬁle or in RGS for SBSE electronic case ﬁles.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "f1410073cd10b824dbddda032c493e14",
+    "text": "ERCS uses a combination of AIMS and ERCS codes for inventory control and employee records. The following codes are deﬁned on ERCS only. More infor- mation about these codes may be found in the Codes chapter of the ERCS CCP Handbook, or in Exhibit 4.7.8-1, Exhibit 4.7.8-2, or Exhibit 4.7.8-3.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "7e1eaca054867322f33027823235559f",
+    "text": "IRM 4.7.6, Reports, contains detailed descriptions, as well as, recommended uses and frequency of generating reports available through ERCS.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9f25f32abe60af6fff3efdc10fcc74ff",
+    "text": "Exhibit 4.7.8-1 (06-24-2022) CCP Program Numbers and Suspense Types",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "50cd2961cdcd4860977881c5553e0516",
+    "text": "Program numbers are used in CCP to classify types of work. The only association between the program number and any other ERCS codes (such as status code, suspense type or number of days in suspense) is by user association. ERCS does not enforce consistency between the program number and the other values listed in the chart below. More information for reports containing these codes may be found in IRM Exhibit 4.7.6-5, Reports with Codes:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "ba71d16c5b40bb0391b76b726ce3f646",
+    "text": "Note: CCP Suspense Types are in the 400 to 499 range.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "66591e44b3eb8d2e4d0a0aacac9f0112",
+    "text": "Status Suspense Days Program Description Comments Code Types There is no program 51 498 30 --- In-Transit number associated with returns in-transit Cincinnati only - Form 52 413 45 10062 Estate and Gift 706, Form 709 Includes Disposal Code 52 414 45 10058 Claim 34 Cases identiﬁed as other 52 416 45 10111 Special Processing than Pipeline or Restricted Interest 52 417 45 10720 Excise Cincinnati only -Form 720 Employment - Stand Cincinnati only - Form 940 52 418 45 10940 Alone and Form 941 Employment - Tag Cincinnati only - related 52 476 45 10941 Along return Per Form 3198 (TC 34X 53 420 60 10121 Restricted Interest required) No -I freeze and no TC 53 421 60 10120 Complex Interest 34X required Per Form 3198 (Ogden 53 422 60 10218 Net Rate Netting only) 6404(g) - 2nd Notice 53 423 60 16404 See note below Date Used by all sites to close 53 424 60 10220 IRC 965 Transition Tax IRC 965 cases Includes Joint Committee Expedite Processing - 54 430 20 10052 and other expedited pro- Other cessing 54 431 20 10053 Statute within 120 days Short statute 54 432 20 14760 Over $100,000 Agreed, unpaid",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "39c441a5c9fbe65d6d4b98d4efb6658a",
+    "text": "4.7 Examination Returns Control System (ERCS)",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "620008a038ce091928284bd49b2935fb",
+    "text": "Exhibit 4.7.8-1 (Cont. 1) (06-24-2022) CCP Program Numbers and Suspense Types",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8f230d5acf9e12c3b5c96309bf347cf3",
+    "text": "Status Suspense Days Program Description Comments Code Types Expedite Net Rate Per Form 3198 (Ogden 54 433 20 10219 Netting only) IRC 6166 Installment 54 434 20 14761 Cincinnati only - Form 706 Cases Virtual Private Network (VPN) / Telephone Excise 54 435 20 10054 VPN Project Tax Refund (TETR) (Cin- cinnati only) Restricted Interest - When short statute or 54 436 20 10055 Expedite over $100,000 55 440 45 10073 Pipeline Routine closure Stat Notice, from 55 441 45 10303 Unagreed Default Technical Services No-change and simple 55 442 45 10074 Streamline agreed (Cincinnati & Memphis only) 56 452 60 10141 Suspense - SFR --- 56 453 60 10531 Suspense - Other Disaster or other projects Non-examined disposal 57 460 45 10090 Survey codes except 34 Non-examined paperless 57 460 45 10092 Paperless Survey surveys Cincinnati or Memphis 58 470 60 10996 OVDI Closures only Suspense - Field 58 454 60 --- --- Review Cases sent to the FORT 59 --- 60 --- --- for resolution.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "2c9e098c4e7937f8e7e43a690aa213ed",
+    "text": "If 6404(g) is checked on Form 3198 with or without a date or money on a single year, the case is a single waiver 6404(g). It becomes a Pipeline case. If 6404(g) is checked on Form 3198 with dates on 1st and 2nd notice date line, the case is not a single waiver and it becomes a Restricted Interest case. If 6404(g) is checked on Form 3198 with or without a date or money and not applicable is also checked, the case is not a 6404(g). It becomes a Pipeline case.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8808be9b8971b9c716c8897915675f70",
+    "text": "reject reasons are associated with returns sent back to the group from CCP. When the group back to CCP, the reject reason is removed from the return. More information for reports containing may be found in IRM Exhibit 4.7.6-5, Reports with Codes:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "8676e258a50a61a5547a37f888eb4405",
+    "text": "Note: CCP Reject Reasons are in the 400 to 499 range.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "e31dbc88c87703ecc970abed57016439",
+    "text": "Examination Returns Control System (ERCS)",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "9e0a1d4228c3f8d011443b82ffbdf796",
+    "text": "4.7.8-2 (Cont. 1) (06-24-2022) Reject Reasons Reject Reason Deﬁnition 400 AIMS/ERCS Problem 401 Database Update Only; Physical Case not Forwarded to CCP 402 TC 976/977 Amended Return 403 Informant Claim (ICE) Indicator 1 or 3 on AIMS Form 5344 Missing or Incomplete; Current Updated Closing Documents 404 Needed 405 Freeze Code on AIMS 406 Tax Mis-match on Report/Trans. 407 Combat Zone 408 Signatures(s) Required on Form 8278 409 CID - Z Freeze Present 410 Case Misrouted; Mailed to Wrong CCP Site 412 Partial Assessment Completed 414 Group Request 416 Error on Report/Missing Report 417 PCS Controlled: 418 Penalty Computation Incorrect/Incomplete 419 PICF-Cd 424 Other 427 Delinquent Return/SFR Problem 432 Sent to CCP in Error 436 Missing Letter 438 Non-examined Closure Problems (Includes Paper and Paperless Issues) 442 To Tech Services Docketed Case (DC 07 or DC 11), Forward to Tech Services (Technical 443 Service Code Lists) 444 Related Return Problems 445 Employee Audit - Mandatory Review by Tech Services 446 Joint Committee Case - Forward to Tech Services 451 Return not on AIMS 452 Controlled in Another Area/PBC",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "475bb32e08dee6a749f10f34e1956143",
+    "text": "The table below lists the valid position codes used in ERCS for CCP employee records.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "4a80dd2a29d842ba00ed82699e3cf951",
+    "text": "Position Code Deﬁnition 302 Operations Manager 303 Department Manager and Front Line Manager 304 Management Analyst/Functional Automation Coordinator 305 Lead Tax Technician 306 Tax Compliance Officer/Revenue Agent 307 Tax Examiner 310 Clerical Staff 400 Program Analyst/Tax Analyst",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "068f5ccda4c4e4394a395169a1601065",
+    "text": "The PCC determines the ownership and location of unassigned returns in CCP.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm04-007-008--2022-06-24.pdf",
+      "page_number": 16
+    }
+  }
+]

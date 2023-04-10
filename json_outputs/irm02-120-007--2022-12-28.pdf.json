@@ -1,0 +1,1226 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "3647fe632d02db8c3256555236cf242c",
+    "text": "Making changes to all diagrams to be IRM 508 Compliant.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1e9cf34b93f8591959c0b596cd7ace3c",
+    "text": "This process description is applicable to all Information Technology (IT) organizations, contractors, and other stakeholders having responsibility for developing IT systems.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "392531c41b85d67d10e63c8244bc5065",
+    "text": "Scope and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "bd140b852e7f0d60941e0bbf282eb7ca",
+    "text": ") Overview -This IRM describes the formal process for implementing the require- ments of the Solution Design process. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "bd11efcafc6f7e6c897c35770d15611a",
+    "text": ") Purpose -This IRM contains procedural steps for System Designers to suc- cessfully select and design solutions to requirements. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0007669d4a4144a720eb7b6d5ced3ecd",
+    "text": ") Audience - These procedures apply to IRS Information Technology (IT) employees and contractors who are responsible for selecting and designing computer systems. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "50aa8fff85e6126ea48ae86ee005eebc",
+    "text": ") Policy Owner - Associate Chief Information Officer (ACIO), Enterprise Services, is responsible for overseeing all aspects of our systems that operate the nation’s tax infrastructure. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "807382b19965ffc678326c4c4bb56de3",
+    "text": ") Program Owner - Solution Engineering division (SE), which is under Informa- tion Technology, Enterprise Services (ES). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8fc5ff4c5734c3b5df35fec95eed5d0f",
+    "text": ") Primary Stakeholders - Application Development (AD), Cybersecurity, Enter- prise Operations (Eops), Solution Engineering (SE), Enterprise Architecture (EA), User and Network Services (UNS). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "7b44679e708cc3747f38500399b01480",
+    "text": ") Program Goals - This IRM provides the fundamental knowledge and proce- dural guidance for those who design and implement computer systems. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3f1b811522a72099f6793b0d9cd2843d",
+    "text": ") A process is deﬁned as “A set of related activities that accomplish a common goal”. The process deﬁnition laid out in this document further breaks down these Activities into Tasks, each of which have a complete set of attributes deﬁned such as data and tool speciﬁcations and the role(s) responsible for executing the tasks. The document also includes process goal and objectives, metrics, role deﬁnitions, policies and other process related attributes. Description (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "085cddc9aab8744dc915f400a935f382",
+    "text": ") This Solution Design process description describes what happens within the Solution Design process and provides an operational deﬁnition of the major components of the process. This description speciﬁes, in a complete, precise, and veriﬁable manner, the requirements, design, and behavior characteristics of the Solution Design process. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b2b3f5a820d4c44796fc377bf71f3f04",
+    "text": ") The process goal describes a speciﬁc purpose or achievement toward which the efforts of the process are directed. Each process has a speciﬁc focus when combined with the other processes, forms a comprehensive framework for delivering and managing services. • Solution is selected from alternative solutions • Solution designs are developed (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8010e52a573a2363341ea9c91bf6ea94",
+    "text": ") Process objectives describe material outcomes that are produced or achieved by the process. The following is a list of objectives for this process: • Simpliﬁed Design Speciﬁcation Report (SDSR) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8384716392f82d69bd1a3eddfd254be8",
+    "text": ") All proposed changes to this document must be submitted in writing, with porting rationale, to the Solution Engineering division. Design Process",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3660315a9af3df255d8f19ab077e4797",
+    "text": "page",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "22b1d6757b3a62175b8337476e2a88ec",
+    "text": "Overview -This IRM describes the formal process for implementing the require- ments of the Solution Design process.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4101f792b49c0175e6bb4c5a2e2d3c76",
+    "text": "Program Goals - This IRM provides the fundamental knowledge and proce- dural guidance for those who design and implement computer systems.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d9f2be383d8b0854f34601e4e46ddb3c",
+    "text": "objectives describe material outcomes that are produced or achieved the process. The following is a list of objectives for this process:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "dc79f36e859c87e51922a9a4093f03cb",
+    "text": "All proposed changes to this document must be submitted in writing, with sup- porting rationale, to the Solution Engineering division.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6a026320796a2bf1a7c9cbed1ee2db30",
+    "text": ") Each process deﬁnes at least one role. Each role is assigned to perform speciﬁc tasks within the process. The responsibilities of a role are conﬁned to the speciﬁc process. They do not imply any functional standing within the hierarchy of an organization. For example, the process manager role does not imply the role is associated with or fulﬁlled by someone with functional man- agement responsibilities within the organization. Within a speciﬁc process, there can be more than one individual associated with a speciﬁc role. Addition- ally, a single individual can assume more than one role within the process although typically not at the same time.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f1c3de2dccc881f8287537236003a31c",
+    "text": "Name Description Solution Designer • Selection of the Solution design • Identiﬁcation of Solution components • Identiﬁcation of component interfaces both internal and external • Ensuring all standards are followed • Developing all required documentation at solution level ComponentDesigner • Ensuring all standards are followed • Ensuring requirements are allocated to components and sub-components • Developing all required documentation at component level Designers • Refers to Solution Designer and Component Designer together Design Team • All designers Stakeholders • These are the speciﬁc people or groups who have a stake, or an interest, in the outcome of the project • The stakeholders may be different for each step or activity Quality Assurance (QA) • Veriﬁcation of the execution of each of the process steps and the work products produced by them",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "239ba55b6fe1940b40fcfc0e643dda1c",
+    "text": ") Policies outline a set of plans or courses of action that are intended to inﬂuence and determine decisions or actions of a process. Policies provide an element of governance over the process that provides alignment to business vision, mission and goals.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1dad3270cde153a5a6d099a587fbec90",
+    "text": "Roles and responsibilities for the process must be clearly deﬁned and appropriately staffed with people having the required skills and training. The mission, goals, scope and impor",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "dc69e28cb3a0676052f228577a877390",
+    "text": "tance of the process must be clearly and regularly communicated by upper management to the staff and business customers of IT. All IT staff (direct and indirect users of the process) shall be trained at the appropriate level to enable them to support the process.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ee1e2d5999ff27cca863863249eea8f7",
+    "text": "Modiﬁcations to the Solution Design process must be approved by the Process Owner. The design of the process must include appropriate interfaces with other processes to facilitate data sharing, escalation and workﬂow. The process must be capable of providing data to support real",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "eadae5c56a046a8ac41f6129d94010aa",
+    "text": "time requirements as well as historical/ trending data for overall process improvement initiatives. The process must be fully docu",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "650733f0a7c7d4804582bf61c19df7f5",
+    "text": "mented, published and accessible to various stakeholders of the process. The process will be reviewed on a periodic basis in order to ensure it continues to support organizational goals and objectives (continuous improvement). The process must include Inputs, Outputs, Controls, Metrics, Activities, Tasks, Roles and Responsibilities, Tool and Data requirements along with documented process ﬂows. The process will be kept straight forward, rational, and easy to understand.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "6e16cee11c73ae56aa49ef410778703d",
+    "text": "Rationale The process must meet operational and business requirements. Technology and Tools: Statement All tools selected must conform to the Enter- prise Architectural Standards and direction. Existing approved tools and technology will be used wherever possible, new tools will only be entertained if they satisfy a business need that cannot be met by current approved tools. The selection of supporting tools must be process driven and based on the requirements of the business. Selected tools must provide ease of deployment, customization and use. Automated workﬂow, notiﬁcation and escalation will be deployed wherever possible to minimize delays, ensure consistency, reduce manual intervention and ensure appropriate parties are made aware of issues requiring their attention. Rationale Technology and tools should be used to augment the process capabilities, not become an end themselves.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "9390d7e685cf28607f9ebb5ddd973302",
+    "text": "All tools selected must conform to the Enter",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "28fde7f978210d543934153a9f667044",
+    "text": "prise Architectural Standards and direction. Existing approved tools and technology will be used wherever possible, new tools will only be entertained if they satisfy a business need that cannot be met by current approved tools. The selection of supporting tools must be process driven and based on the requirements of the business. Selected tools must provide ease of deployment, customization and use. Automated workﬂow, notiﬁcation and escalation will be deployed wherever possible to minimize delays, ensure consistency, reduce manual intervention and ensure appropriate parties are made aware of issues requiring their attention.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f8f2bf79dfa2a0f4b5d898943b55e62a",
+    "text": "Process controls represent the policies and guiding principles on how the process will operate. Controls provide direction over the operation of processes and deﬁne constraints or boundaries within which the process must operate.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3d75fc8e8d2a9b4c349d6cfc3a184ba4",
+    "text": "All projects will follow the Solution Design process which will be used to select, design, and implement solutions to re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "dd8df728dbb0b6b6c770a4086a69b57b",
+    "text": "quirements and associated activities in accordance with this policy.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b1c4fde1be5584bc08b7dec57c5fd0c2",
+    "text": ") Metrics are used for the quantitative and periodic assessment of a process. They should be associated with targets that are set based on speciﬁc business objectives. Metrics provide information related to the goals and objectives of a process and are used to take corrective action when desired results are not being achieved and can be used to drive continual improvement of process effectiveness and efficiency. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "9bc689d888cb95e5cc3dff68ce2baeda",
+    "text": ") Management will regularly set targets for process performance, gather quantiﬁ- able data related to different functions of the Solution Design process, and review that data in order to make informed decisions and take appropriate cor- rective action, if necessary. All measurements will have a deﬁned data dictionary, map to the organizational strategic goals, and be documented in a Process Measurement Plan. The Process Measurement Plan template is available in the IT PAL.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b093b1f8d3beb83c8fa37d35f8fa1cbb",
+    "text": "Metrics are used for the quantitative and periodic assessment of a process. They should be associated with targets that are set based on speciﬁc business objectives. Metrics provide information related to the goals and objectives of a process and are used to take corrective action when desired results are not being achieved and can be used to drive continual improvement of process effectiveness and efficiency.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "6e1496dff233e7293a10b313c3ba56a2",
+    "text": ") The tailoring guidelines identify the allowable variations of the IT organization’s standard process as needed for adjustments (adding, deleting, modifying) relative to speciﬁc operational or functional needs of another organization. Process tailoring is about roles and procedures, not the standard process or major activities deﬁned in this process. All tailoring request, with supporting rationale, must be submitted in writing to and approved by the Solution design Process owner. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0f7d88971c20cf2878b524a14cc0ab52",
+    "text": ") Step",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "08b83210aad2140c7643b6371e20a6a9",
+    "text": ": “Develop Alternative Solutions” may be tailored out when a project maintenance project whose design is dictated by the existing system or the design of the system is fully constrained by the Enterprise Architecture. If this step is tailored out, the following work products are not required: • Alternative solution screening criteria • Evaluation reports of new technologies • Alternative solutions (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0f7d88971c20cf2878b524a14cc0ab52",
+    "text": ") Step",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "6086804949067628b3472dedf5ef0e14",
+    "text": ": “Develop Selection Criteria” may be tailored out when a project is a maintenance project whose design is dictated by the existing system or the design of the system is fully constrained by the Enterprise Architecture. If this step is tailored out, the following work products are not required: • Deﬁne selection criteria • Selection criteria for ﬁnal selection (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0f7d88971c20cf2878b524a14cc0ab52",
+    "text": ") Step",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "ccec10320336121c398b3fae393aed00",
+    "text": ": “Evaluate and Select Solution” may be tailored out when a project is maintenance project whose design is dictated by the existing system or the design of the system is fully constrained by the Enterprise Architecture. If this step is tailored out, the following work products are not required: • Evaluate each alternatives using the deﬁnes criteria • Select solution design (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0f7d88971c20cf2878b524a14cc0ab52",
+    "text": ") Step",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "2fc76f11dbc5b69b9141f320b8fe2747",
+    "text": ": “Perform Make, Buy, or Reuse Analysis” may be tailored out when project is a maintenance project whose design is dictated by the existing system or the design of the system is fully constrained by the Enterprise tecture. If this step is tailored out, the following work products are not required: • Criteria for design and solution component reuse • Make-or-buy analysis • Guidelines for choosing COTS solution components (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0f7d88971c20cf2878b524a14cc0ab52",
+    "text": ") Step",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "e47e37a5f758271d2b4656a79d56b8d1",
+    "text": ": “Collect Technical Details” may be tailored when the project is a main- tenance project whose design is dictated by the existing system, no signiﬁcant change is made to the systems logical design, and approved equivalent docu- mentation exists. Updates to the equivalent documentation may be substituted and the activities modiﬁed as needed to support the updating of the documen- tation. The list of approved equivalent documentation is available on the IPM PAL. If the work product Documented Solutions, Evaluations, and Rationale tailored out, references to existing requirements and traceability matrixes be substituted. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0f7d88971c20cf2878b524a14cc0ab52",
+    "text": ") Step",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "fd9a7cf582941413a3bd01e6712f650c",
+    "text": ": “Design the Solution Components” may not be tailored out. If the product Documented Solutions, Evaluations, and Rationale is tailored out references to the enterprise Architecture or to existing design documentation must be substituted.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "fe595045739e556d2c7d4cc70273f940",
+    "text": "Solution Engineering",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "670ff72aaeafa989e8bd5c02c1fede9b",
+    "text": "The tailoring guidelines identify the allowable variations of the IT organization’s standard process as needed for adjustments (adding, deleting, modifying) relative to speciﬁc operational or functional needs of another organization. Process tailoring is about roles and procedures, not the standard process or major activities deﬁned in this process. All tailoring request, with supporting rationale, must be submitted in writing to and approved by the Solution design Process owner.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "686ccb8c8de8728f117e9b7ae0205a8e",
+    "text": "The RACI model is based on the principle that people act in one of four ways when executing a task. It accounts for the fact that more than one role may be active in performing a speciﬁc task while clearly deﬁning speciﬁc responsi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "e58b9d1214ecb37e0311f51c48e8160a",
+    "text": "bilities for that role. While many roles may be involved in a task only one is Accountable for the results. “The actions are: R Re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "485903c17b0dd7481f049d2383c142f0",
+    "text": "sponsible for the action (may do the task) A Accountable for the action (including approval) C Required to be Consulted on the action I Required to be Informed of the action If a task does not have an Accountable role indicated then the Responsible role is assumed to be account",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "4c07a728e9939e6e0fd244981b2a155b",
+    "text": "able for the task.”",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "249fdc71eaffd4e7b19c3cd46491dce1",
+    "text": "Acronyms Deﬁnition BSR Business System Report COTS Commercial Off The Shelf ELC Enterprise Life Cycle ES Enterprise Services IPM Integrated Process Management IRM Internal Revenue Manual IRS Internal Revenue Service IT Information Technology PAL Process Asset Library PD Process Description PMI Project Management Institute QA Quality Assurance RACI Responsible, Accountable, Consulted and Informed SDSR Simpliﬁed Design Speciﬁcation Report SE Solution Engineering SD Solution Design VSA Vision, Scope and Architecture",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "4635788237eebb4c0ef8d4380eab6c09",
+    "text": "Process inputs are used as triggers to initiate the process and to produce the desired outputs. Users, stakeholders or other processes provide inputs. The following is a list of inputs for this process:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "2b914572f7c05acf58dc230ffdcedef1",
+    "text": "Name Description Supplier Approved System Requirements System requirements are used in determine the expected outcome of the solution. BSR (Business System Report), VSA (Vision, Scope, and Architecture) for Agile Allocated Customer Requirements Allocated require- ments are used to give context to the system requirements. BSR, VSA Operation Concept Concept of operation is used to give context to the system and allocated customer require- ments Solution Concept, BSR, VSA Functional Architec- ture Functional architec- ture is used to give context to the system requirements BSR, VSA Design Constraints Constraints are used to limit design and implementation alter- natives Solution Engineering Software Engineering Practice Group",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "17b189722830a8c63ee89ade976568ed",
+    "text": ") Each process produces tangible outputs. These outputs can take the form of products or data and can be delivered to a user or stakeholder, or, they can be used as inputs to other processes. Outputs are measurable in terms of quantity and quality.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "8c1d2040bae79481cf70fdf4d0e06805",
+    "text": "Name Description Recipient TechnicalDetails Technical Detail will document the following: • Alternative solution screening criteria • Evaluation reports of new technolo- gies • Alternative solutions • Selection criteria for ﬁnal selection • Evaluation reports of COTS products • Solution component selection decisions and rationale • Documented relationships between requirements and solution compo- nents • Documented solutions, evaluations, and rationale • Solution architecture • Criteria for design and Solution component reuse • Make-or-buy analysis • Guidelines for choosing COTS Solution components • Implemented design • Solution component designs • Rationale for selected interface design EngineeringELCDocu-mentation Process",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "cf9b5d072158394b8993acf1d9a19a25",
+    "text": "ID Name Description SD 1.0 Develop Alternative Solutions To determine possible alternative solutions that meet requirements, deﬁne criteria to select the solution, and to select the components to be used in the solution. • Develop screening criteria to select a set of alternative solutions for consideration • Identify candidate COTS products • Identify technologies • Identify re-usable solution components or applicable architecture patterns • Generate alternative solutions • Obtain a complete requirements allocation for each alternative",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "311dbd0e9c2a2cd500ef1971c0bc9b96",
+    "text": "Name Description Develop Alternative Solutions To determine possible alternative solutions that meet requirements, deﬁne criteria to select the solution, and to select the components to be used in the solution.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "9d3f8d7e989d292f662cd5dcd9d20baf",
+    "text": "Develop screening criteria to select a set of alternative solutions for consideration",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "ffc6a2b9a442323872efae6adb3c6853",
+    "text": "Identify candidate COTS products",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "68f10ddb68f6d0df427203cd355605ab",
+    "text": "Identify technologies",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "cc7857216205bd93fd79fc8208949bfe",
+    "text": "Identify re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "280f7dde5d8995fb84a998f7e03208ad",
+    "text": "usable solution components or applicable architecture patterns",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "c86500bba1e2a804c2b836bfbb87855e",
+    "text": "Generate alternative solutions",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "50cfff6bf4f01c8b105da9281b5d38f2",
+    "text": "Obtain a complete requirements allocation for each alternative",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "55ebe4747c058e80db51a228af95b086",
+    "text": "in the solution. Develop screening criteria to select a set of alternative solutions for consideration Identify candidate COTS products Identify technologies Identify re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "97fa0dc8b2b5d5753f86922424cc425b",
+    "text": "usable solution components or applicable architecture patterns Generate alternative solutions Obtain a complete requirements allocation for each alternative",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "bf27c1add7d2024d9cb4893a509b80b6",
+    "text": "SD 2.0 Develop Selection Criteria To develop criteria to select the solution. • Develop selection criteria • Assess the adequacy of the selection criteria SD 3.0 Evaluate and Select Solution To evaluate and select solution. • Evaluate each alternative solution • Identify and resolve issues with the alterna- tive solutions and requirements • Select the best alternative solution • Allocate the functional and quality attribute requirements for the selected components • Identify the components to be reused or acquired • Identify and resolve issues with Component Requirements SD 4.0 Perform Make, Buy, or Reuse Analysis To ensure that components and design patterns are reused when appropriate and ensures that reuse of components and design patterns conform to organization and project policy. • Develop criteria for the reuse of solution component designs and guidelines for use of COTS • Review Criteria for reuse of Solution Com- ponents • Analyze designs to determine if solution components should be developed, reused, or purchased including common designs and components • Analyze implications for maintenance when considering purchased or non- developmental (e.g., COTS, government off the shelf, and reuse) items • Review analysis and decide which compo- nents are to be developed, re-used, and purchased page 12 2.120 Solution Engineering",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "54b5d2fd72ab12a1cc3229a40909cd4e",
+    "text": "to organization and project policy. Develop criteria for the reuse of solution component designs and guidelines for use of COTS Review Criteria for reuse of Solution Com",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "4d9c88d516a66486787a3778edf92f85",
+    "text": "ponents Analyze designs to determine if solution components should be developed, reused, or purchased including common designs and components Analyze implications for maintenance when considering purchased or non",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "5289dfbeec0c17c99a074d3a98b4e8e5",
+    "text": "developmental (e.g., COTS, government off the shelf, and reuse) items Review analysis and decide which compo",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "6250451e06975345bd1c66f46a8c4a92",
+    "text": "nents are to be developed, re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "8865149f7ef1af2d1f53cde46fd08eb4",
+    "text": "used, and purchased",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "e7bc02636e6d3fd0b988ee4c41cdbdbb",
+    "text": "SD 5.0 Collect Technical Details To collect all technical details: • Evaluation reports of selected new technolo- gies • Evaluation reports of selected COTS products • Solution component selection decisions and rationale • Documented relationships between require- ments and selected solution components • Documented solutions, evaluations, and rationale • Solution architecture • Solution component designs • Criteria for design and solution component reuse • Make-or-buy analysis • Guidelines for choosing COTS solution com- ponents page 13",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "ce8ddd30328ff5602304d623fd45328d",
+    "text": "SD 6.0 Design the Solution Com- ponents To literately design the solution and its sub- components. During the early iteration a logical / preliminary design is produced. During later itera- tions the detailed design is produced. • Establish and maintain applicable design standards and criteria • Ensure that the design adheres to the design standards and criteria • Ensure that the design adheres to allocated requirements • Design the solution / set of solution compo- nents • Perform interface design via “Interface Design” process • Perform hardware analysis & design/system conﬁguration validation via “Hardware Analysis & Design/System Conﬁguration Validation” process • Perform Data analysis via ”Data Manage- ment” process • Document the current level of technical details via SD Step 5.0 “Collect Technical Details” • Check for “all components designed” • If yes and all components at all levels are completed, then • Review design • revise design as needed, and document the changes via SD Step 5.0: Collect Technical Details • Go to external interface to “Engineer- ing ELC Documentation” process • If no and there are remaining components at same level, then go to activity SD Step 6.4 “Design the solution / set of solution compo- nents” • If no and need to go to next level of design details, then go to activity SD Step 1.0 “Develop Alternative Solutions” page 14 2.120 Solution Engineering",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "62b542750637606a4bc3185cca18c1ef",
+    "text": "• Establish and maintain applicable design standards and criteria • Ensure that the design adheres to the design standards and criteria • Ensure that the design adheres to allocated requirements • Design the solution / set of solution compo- nents • Perform interface design via “Interface Design” process • Perform hardware analysis & design/system conﬁguration validation via “Hardware Analysis & Design/System Conﬁguration Validation” process • Perform Data analysis via ”Data Manage- ment” process • Document the current level of technical details via SD Step",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "d28ed0d259a674e2986c66f4fe81eb98",
+    "text": "“Collect Technical Details” • Check for “all components designed” • If yes and all components at all levels are completed, then • Review design • revise design as needed, and document the changes via SD Step",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "4bb5564a4179df3d27ade6bcbe7370db",
+    "text": ": Collect Technical Details • Go to external interface to “Engineer- ing ELC Documentation” process • If no and there are remaining components same level, then go to activity SD Step",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "4d1ed6b8b04ce9e6009edfe585c694cd",
+    "text": "“Design the solution / set of solution compo- nents” • If no and need to go to next level of design details, then go to activity SD Step",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "77eb98049d5481a931c1cb6d86ea7ef0",
+    "text": "ID Task Name and Descrip- tion Role RACI* Duties SD 1.1 Develop screening criteria to select a set of alterna- tive solutions for consideration (Screening criteria are used to narrow down the list of alternatives to those consis- tent with business objectives. In this context business objectives include both IRS enterprise business objectives as well as the objectives of the project. Costs, operational impacts, and adherence to IRS policies such as the en- terprise architecture need to be considered is identifying the screening criteria. Screening criteria are high level; they are a coarse screening tool. In general an alternative that fails any of the criteria is eliminated from consideration unless there is a compelling reason to retain it.) Designers RA • Consider following criteria: • Business objectives • Scope • End state operation concepts • Constraints (Design, Cost, Risk) • Alternative solution impact on current IT operations • Alternative solution impact on End Users Solution Design Process 2.120.7 page 15",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "e375c518ad1230a234cf9a759052a5ab",
+    "text": "SD 1.2 Identify candidate COTS products that meet the re- quirements This task is to identify possible candidate COTS products that meet the re- quirements Designers RA • Identify Possible COTS products. • Research industry report, white papers, etc... • Enterprise Architecture - • Use screening criteria to eliminate unlikely candidate technologies • Use screening criteria to eliminate unlikely candidate COTS. • Identify product functionality and quality. • Collect IRS experi- ences with products • Check industry reports / white papers • Vendor demonstrations • IF needed test product in house • Identify gaps between products’ functionality and requirements. SD 1.3 Identify technologies currently in use and new Solution technologies for competitive advantage- efficiency Identify technologies applied to current products and processes and new tech- nologies for competitive advantage Designers RA • Identify technologies applied to current products and processes • Research current appli- cations using Enterprise Architecture assets. • Identify new technologies for competitive advantage • Research industry report, white papers, etc.. • Use screening criteria to eliminate unlikely candidate technologies • Use screening criteria to eliminate unlikely candidate technologies",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "20a2071011f952c711b03a3775f4e17a",
+    "text": "SD 1.4 Identify re-usable solution components or applicable architecture patterns Identify the current system components that can be used for a solution and verify that they meet allocated requirements. Designers RA • Identify the current system components that can be used for a solution. • Check Enterprise Ar- chitecture • Check IRS experi- ences with candidate system components / architecture • Trouble tickets • Interview users / administrators • Verify that the identiﬁed components / architecture patterns can meet allocated requirements SD 1.5 Generate alternative solutions Generate alternative solutions for review Design Team RA • Generate alternative solutions for consideration • Generate a system diagram that depicts solution compo- nents for each alternative • Review with appropriate stakeholders SD 1.6 Obtain a complete require- ments allocation for each alternative Allocate applicable require- ments to each alternative Design Team RA • Annotate each component depicted in the alternative solution with applicable re- quirements. • Add documentation developed in the previous activities about the selected components. • Review with stakeholders • Document each alternative Solution Design Process 2.120.7 page 17",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "55d832515129954b8306f1baaf3b5999",
+    "text": "Note: *RACI is a responsibility matrix that describes the participation by various roles in completing the tasks or deliverable for a project or business process. RACI is derived from the four key responsibilities typically used:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "4b28b40cb3d8c81096707a0e34c4c6a9",
+    "text": "R esponsible – The person that is assigned to do the work. A ccountable – The person that makes the ﬁnal decision and has ultimate ownership. C onsulted – The person that must be consulted before a decision or action is taken. I nformed – The person that must be informed that a decision or action has been taken.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "8d710c16187ea013d73972546f7587bb",
+    "text": "Figure 2.120.7-2",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "f3e97d18321b31149c068a0bd9ca9133",
+    "text": "This step is to deﬁne criteria to select the solution",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "e9c70b823831c0eabd245886fa6a84fb",
+    "text": "*RACI is a responsibility matrix that describes the participation by various roles in completing the tasks or deliverable for a project or business process. RACI is derived from the four key responsibilities typically used:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "4b28b40cb3d8c81096707a0e34c4c6a9",
+    "text": "R esponsible – The person that is assigned to do the work. A ccountable – The person that makes the ﬁnal decision and has ultimate ownership. C onsulted – The person that must be consulted before a decision or action is taken. I nformed – The person that must be informed that a decision or action has been taken.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "cf09ffd31358ab3d8a88fc863dc4b8dc",
+    "text": "SD 3.6 Identify and resolve issues with Component Require- ments Identify issues with component requirements and resolve issues Design Team RA • Identify issues with component requirements • Identify gaps • Resolve issues with the components and require- ments • Update allocated re- quirements as needed page 22 2.120 Solution Engineering",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "55d832515129954b8306f1baaf3b5999",
+    "text": "Note: *RACI is a responsibility matrix that describes the participation by various roles in completing the tasks or deliverable for a project or business process. RACI is derived from the four key responsibilities typically used:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "4b28b40cb3d8c81096707a0e34c4c6a9",
+    "text": "R esponsible – The person that is assigned to do the work. A ccountable – The person that makes the ﬁnal decision and has ultimate ownership. C onsulted – The person that must be consulted before a decision or action is taken. I nformed – The person that must be informed that a decision or action has been taken.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "867cc06389329486fb024f913e761ef0",
+    "text": "Figure 2.120.7-4 Solution Design Process 2.120.7 page 23",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "a4843c92bfe3f46986bb329e029aaea7",
+    "text": "Sckion Desge Proceduss - 3. Evakate and Seec Sckitas",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "f4437467ccfe25f6917d247a0f6245e2",
+    "text": "This step is to ensure that components and design patterns are reused when appropriate and to assure that reuse of components and design patterns conform to organization and project policy",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "28277ed785c62da3414534c4f3a12098",
+    "text": "SD 4.1 Develop criteria for the reuse of Solution compo- nents and guidelines for use of COTS Criteria are developed to be used to determine if an existing component design should be reused. Addition- ally criteria are developed for deciding whether components should be developed, reused, or bought SolutionDesigner,ComponentDesigner RA • Existing component/design functionality meets require- ments • Design constraints • Cost of implementing/ acquiring/reusing • Schedule impact of implementing/acquiring/reusing • Operational impacts • Impact on users",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "f9e0eec69fab07a5cdcf9b6b0ad52df0",
+    "text": "4.2 Review criteria for reuse of Solution components The criteria for the reuse of solution criteria are review with stakeholders Design Team, Stakeholders RAI • Review with applicable stakeholder 4.3 Analyze designs to determine if solution com- ponents should be developed, reused or purchased The designs are analyzed to develop recommendation on which solution components are to be developed reused or purchased SolutionDesigner,ComponentDesigner RAI • Identify candidate existing or common designs • Identify candidate existing or common components • Identify candidate COTS solutions • Evaluate identiﬁed solutions against criteria • Evaluate development of component against criteria • Develop recommendation on whether to make, buy or reuse component • Document recommendation 4.4 Analyze implications for maintenance when consid- ering purchase or non- developmental items Determine any issues with the maintenance of the com- ponents and if any of these issues make it necessary to reconsider the make, buy, or reuse decision. If necessary, revise the decision SolutionDesigner,ComponentDesigner RA • Evaluate effect of make, buy or reuse recommendation Consider: Compatibility with future releases of COTS products, Creditability of vender, Conﬁguration man- agement of supplier changes, Defects in the non-developmental items and their resolution, and Unplanned obsolescence • Document evaluation 4.5 Review analysis and decide which components are to be developed, re-used, and purchased Based on the recommenda- tion determine which components are to be developed, re-used, and purchased Design Team, Stakeholders RA • Review recommendation on whether to make, buy or reuse component and evalu- ation on implications for maintenance. • Decide whether to make, buy or reuse component. • Document the decision and rationale. • Use the SD procedure for Step SD 5.0 “Collect Technical Details” • Go to Step SD 6.0 “Design the Solution Components” 2.120 Solution Engineering",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "55d832515129954b8306f1baaf3b5999",
+    "text": "Note: *RACI is a responsibility matrix that describes the participation by various roles in completing the tasks or deliverable for a project or business process. RACI is derived from the four key responsibilities typically used:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "dcb7c264b9c95d6e7e5161e20219929b",
+    "text": "R esponsible – The person that is assigned to do the work.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "20fdd909289970a3b8b833c77617c3d4",
+    "text": "A ccountable – The person that makes the ﬁnal decision and has ultimate ownership. C onsulted – The person that must be consulted before a decision or action is taken. I nformed – The person that must be informed that a decision or action has been taken.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "913c5e96ccce08c180f5ba8c522dc44b",
+    "text": "Diagram",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "b981477c804da7d380bc2bd6ca93d909",
+    "text": "(1) To collect all documentation into a single package and to determine the level of detail to be retained.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "91191d7583b9be807e8535feb3dc9a2d",
+    "text": "SD 5.1 Collect Technical Details Collect all technical details SolutionDesigner,ComponentDesigner RA • Collect the following technical details: • Evaluation reports of selected new technologies • Evaluation reports of selected COTS products • Solution component selection decisions and rationale • Documented relationships between requirements and selected solution compo- nents • Documented solutions, evaluations, and rationale • Solution architecture • Solution component designs • Criteria for design and solution component reuse • Make-or-buy Analysis • Guidelines for choosing COTS solution components page 26 2.120 Solution Engineering",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "55d832515129954b8306f1baaf3b5999",
+    "text": "Note: *RACI is a responsibility matrix that describes the participation by various roles in completing the tasks or deliverable for a project or business process. RACI is derived from the four key responsibilities typically used:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "4b28b40cb3d8c81096707a0e34c4c6a9",
+    "text": "R esponsible – The person that is assigned to do the work. A ccountable – The person that makes the ﬁnal decision and has ultimate ownership. C onsulted – The person that must be consulted before a decision or action is taken. I nformed – The person that must be informed that a decision or action has been taken.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "c9433bb45d8aa0a498dd519280553038",
+    "text": "Solution Design Process 2.120.7 page 27",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "7ed36cc47c4e1600e24b9128c23c84ec",
+    "text": "Sk Deskgn Procecuss - 6 Catect Technicar Dl",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "c1a9b6ab0bc7900e45323259f2692441",
+    "text": "SD 6.1 Establish and maintain ap- plicable design standards and criteria Identify all design criteria SolutionDesigner RA • Identify the attributes for the criteria such as simplicity, maintenance, portability, reli- ability, security, scalability, and reusability of coding standards • Identify Enterprise Architec- ture constraints Identify architecture standards • Identify acceptable design patterns • Establish criteria against which the design can be evaluated • Update criteria as necessary for the design criteria SD 6.2 Ensure the design adheres to the design standards and criteria Follow the established design standards and criteria . SolutionDesigner RA • Design the Solution or Solution component according to the design standards and criteria SD 6.3 Ensure the design adheres to allocated requirements Ensure all design compo- nents meet requirements SolutionDesigner RA • Ensure all developed or existing solution compo- nents meet the allocated and derived requirements • Ensure all COTS solution components meet the allocated and derived re- quirements • Conduct peer reviews of design SD 6.4 Design the solution / set of solution components Designing of the solution Design Team RA • Design the Solution or Solution component • Ensure integration for all solution components • Perform “Interface Design” process to perform interface design analysis • Perform “Hardware Analysis and Design/Conﬁguration Validation” process to perform Hardware Analysis and Design/Conﬁguration Validation analysis • Perform “Data Management” process to perform data management analysis • Use the SD Step 5.0 “Collect Technical Details” to document technical details page 28 2.120 Solution Engineering",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "340fd65663465955222d675e40713d69",
+    "text": "SD6.4.1 Check for “All components designed?” Check whether all compo- nents are being designed Design Team RA • If yes, go to next activity step, SD 6.5 “Review Design” • If no but need next level of detail, design the next level of design components by going back to SD Step 1.0 “Develop Alternative Solutions” • If no and there are other components at same level of details still needed, then go to SD step 6.4 “Design the solution / set of solution components” SD 6.5 Review Design Review design with stake- holders Stakeholders I • Ensure integration for all solution components • Review design with stake- holders SD 6.6 Revise design and technical details Revise design and technical details as needed Design Team RA • Revise design as needed, and document the changes via SD Step 5.0 “Collect Technical Details” • Go to external interface to “Engineering ELC Documen- tation” process Solution Design Process 2.120.7 page 29",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "55d832515129954b8306f1baaf3b5999",
+    "text": "Note: *RACI is a responsibility matrix that describes the participation by various roles in completing the tasks or deliverable for a project or business process. RACI is derived from the four key responsibilities typically used:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "4b28b40cb3d8c81096707a0e34c4c6a9",
+    "text": "R esponsible – The person that is assigned to do the work. A ccountable – The person that makes the ﬁnal decision and has ultimate ownership. C onsulted – The person that must be consulted before a decision or action is taken. I nformed – The person that must be informed that a decision or action has been taken.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-007--2022-12-28.pdf",
+      "page_number": 34
+    }
+  }
+]

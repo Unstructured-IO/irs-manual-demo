@@ -1,0 +1,623 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a1ddb8c2e2e97c64847a0fecdeb1d54b",
+    "text": "Various editorial changes have been made to IRM 3.24.183.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "5c39d22f1ed8a6fb42b44eacc7ab97c4",
+    "text": "IRM 3.24.183.1.1 Added new section titled “Background” to comply with new Internal",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "b0f300c602fb1314beda13c35a5166ca",
+    "text": "a statement regarding IRM deviations into the Introduction paragraph.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "4405befc61ffd7900006284f1f0a019b",
+    "text": "Exhibit 3.24.183-3 No changes to instructions, edited the table to comply with 508 compliance requirements",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "55211b6b2f935c1a5e0d951ab1f4c34f",
+    "text": "IRM 3.24.183, dated November 6, 2015 (effective January 1, 2016) is",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1e40feedb6d8e174d473a369b3da23fd",
+    "text": "AUDIENCE",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "32c28bec63b710e08cd82eb501bd6035",
+    "text": "Control Data",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a62742e47571d908fd08df4519356bbb",
+    "text": ") Purpose: The Integrated Submission and Remittance Processing System (ISRP) is used to process forms and remittances. Data is entered, and fed to other IRS systems. This chapter provided instructions for the Original Entry, Key Veriﬁcation, and Block Edit of tax returns and related through ISRP. a. This section provides instructions for entering and verifying data from block control documents and source documents for Delinquent Account Transactions, using the Integrated Submission and Remittance (ISRP) System. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "028cbfd89bfe8cbc40f6557e3255ceef",
+    "text": ") Audience: The primary users of this IRM are Submission Processing employees; mainly data transcribers, clerks and managers. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "758dd516680e32a77296a30947344e93",
+    "text": ") Policy Owner: The Director of Submission Processing. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "13245b23c4545e3b790d84e5ef3ccf71",
+    "text": ") Program Owner: Paper Processing Branch, Mail Management/Data Section (an organization within Submission Processing). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c11a7a5f0e25df27d1b05d20b69a1ea3",
+    "text": ") Primary Stakeholder: Management officials who rely on accurate data by the ISRP Program. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c2d7183f1c491435b52b52481d20d2cc",
+    "text": ") The Integrated Submission and Remittance Processing (ISRP) System tran- scribes and formats data from paper returns/documents/vouchers for input the Generalized Mainline Framework (GMF) and other systems by key operators. It also captures check images for archiving. Transaction Manage- ment System (TMS) is a COTS product that is an integral part of ISRP. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2fb4c2548d7228c660501d7bc8edf6a6",
+    "text": ") The following provide authority for the instructions in this IRM to be in support of completing compliance functions to make credits or refunds of any internal revenue tax, processing of non-revenue forms, and support forms. a. Title",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c32e002043de2752da0224dc975f5684",
+    "text": "of the United States Code (USC) or more commonly known as Internal Revenue Code (IRC) b. All Policy Statements for Submission Processing are contained in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c335bd21b38a720c20c701e21466c25d",
+    "text": ", Servicewide Policies and Authorities, Policy Statements for mission processing Activities: • Code sections which provide the IRS with the authority to issue • Congressional Acts which outline additional authorities and ties like the Travel and Transportation Reform Act of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "33b95a277cab75592f07ae73de3b80bb",
+    "text": "or the Tax Reform Act of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "dbd9826513a246d6fcfce68401d923f2",
+    "text": "• Policy Statements that provide authority for the work being done (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4278073262d7ca0e3534a609aa473744",
+    "text": ") The Operations Manager is responsible for securing, assigning and training for the staff needed to perform the task required throughout this in- struction. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f8f61a228e98bcf6df14dfb2a86ed808",
+    "text": ") The Planning and Analysis Staff is responsible for providing feedback and support to local management to achieve and effectively monitor scheduled goals.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c9b17812d3437d13fe4dd1fac671c29a",
+    "text": "(2) Audience: The primary users of this IRM are Submission Processing employees; mainly data transcribers, clerks and managers.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "681e2398e780511f97bf711023b09e38",
+    "text": "the Generalized Mainline Framework (GMF) and other systems by key entry operators. It also captures check images for archiving. Transaction Manage- ment System (TMS) is a COTS product that is an integral part of ISRP. The following provide authority for the instructions in this IRM to be in support of completing compliance functions to make credits or refunds of any internal revenue tax, processing of non-revenue forms, and support forms. a. Title",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c32e002043de2752da0224dc975f5684",
+    "text": "of the United States Code (USC) or more commonly known as Internal Revenue Code (IRC) b. All Policy Statements for Submission Processing are contained in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "932a07656200481a7656bc1d2bbd8871",
+    "text": ", Servicewide Policies and Authorities, Policy Statements for Sub- mission processing Activities: • Code sections which provide the IRS with the authority to issue • Congressional Acts which outline additional authorities and ties like the Travel and Transportation Reform Act of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "33b95a277cab75592f07ae73de3b80bb",
+    "text": "or the Tax Reform Act of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "246bd5f2695293a59ba5f2cc6aef0323",
+    "text": "• Policy Statements that provide authority for the work being done The Operations Manager is responsible for securing, assigning and training for the staff needed to perform the task required throughout this in- struction. The Planning and Analysis Staff is responsible for providing feedback and support to local management to achieve and effectively monitor scheduled goals.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "77dd8966ea00729cc60707ce11485fcf",
+    "text": "The Planning and Analysis Staff is responsible for providing feedback and support to local management to achieve and effectively monitor scheduled",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e4ab39fbb6d3dec498ad67e530a1067e",
+    "text": ") The Team Manager is responsible for assigning, monitoring and controlling work ﬂow to accomplish timely completion of the task required throughout IRM. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "60b2ab6692ba92a63bc372496ba68fcf",
+    "text": ") The employee is responsible for applying the instruction present to the assigned task on the ISRP system to accurately convert paper data to tronic data record for proper posting for use by the Service. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9e3b6bf8f82899d6f216929660d99e8e",
+    "text": ") Program Reports: Below is a list of reports to use to show receipts, and inventory for the paper return to electronic data conversion process. reports will be utilized to report and monitor daily and weekly status of the program to completeness. • PCC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "11f5262685ea5f7936243d889681260e",
+    "text": ", SC WP&C Performance and Cost Report • PCC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "547710414a5e66d176e81fe7ec6197a3",
+    "text": ", SC WP&C Program Analysis Report (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "38b905665b9516a2176ab76dfc74ffe6",
+    "text": ") Program Effectiveness: Goals will be measured utilizing standard reports by documents processed per hour and completion of each function compared to the established schedule for completion each week. Each tionality is expected to retain or exceed schedule prior to the program completion date stated in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c96737655e8e2da0cf3e1ceed23a78b0",
+    "text": ", Work Planning and Control ing Timeliness: Cycles, Criteria, and Critical Dates. Quality reviews are expected to be conducted and monitored by local management and action taken to ensure quality products are released to the next function. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7c6147aadf3f66964d0a90735fb22267",
+    "text": ") Annual Review: Review the processes included in this manual annually to ensure accuracy and promote consistent tax administration. This may be included under responsibilities for a manager. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c221a299527bed59ebde1fe06468f9f2",
+    "text": ") The reports for the Control Data Analysis, Project PCD, are on the Web Access server, which has a login program control. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7ec70e6238c7ceaf6cb3ea9e1a229eb6",
+    "text": ") The following terms or acronyms are utilized throughout this IRM: Term Deﬁnition Key Veriﬁcation (KV) the operators perform quality review on payments through an electronic method called Key Veriﬁcation. Original Entry (OE) The operators manually key enter data from both scanned images and paper documents. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "95e468e02dd76b5cb77be46fca612a8a",
+    "text": ", ISRP System - General Instructions. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "2fa3f6f230d38e031c22ed7edddab577",
+    "text": ", Work Planning and Control Processing Timeliness: Cycles, Criteria, and Critical Dates.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "990ea9884d596a2b42182c68bb91e1fa",
+    "text": "The Team Manager is responsible for assigning, monitoring and controlling the work ﬂow to accomplish timely completion of the task required throughout this",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "0d6c7332332fc53989d53e9a95cea5b7",
+    "text": "The reports for the Control Data Analysis, Project PCD, are on the Control-D/ Web Access server, which has a login program control.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "fd92f191cfddcfcaf16b74952c604115",
+    "text": "The following terms or acronyms are utilized throughout this IRM:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7deef1bd6d4883755517174bcd285d1e",
+    "text": "Term Deﬁnition Key Veriﬁcation (KV) the operators perform quality review on payments through an electronic method called Key Veriﬁcation. Original Entry (OE) The operators manually key enter data from both scanned images and paper documents.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "cdbb1f0c5f84eccd8624bb4d90b7f68f",
+    "text": "Control data will be transcribed from Form 1332, Block and Selection Record, using the Integrated Submission and Remittance Processing (ISRP) system.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "9b2d1266ff72bd1b28c62b355743a9f4",
+    "text": "Data will be transcribed from Form 8350, Correction to Block Proof Summary Balance Forward Records and the Block Deletes Processed List.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "53a07a944aaa4b95118f0f155c839b21",
+    "text": "Data Transcribers should determine the appropriate Program Numbers and Format Codes from the table below.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "728bdabef8314126353e457a4f158813",
+    "text": "FORMS PROGRAM NUMBERS FORMAT CODES 8350 59701 221 Block Deletes Processed List 59705 176",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3d4fa0177e1872cf1a08926cdf655cb6",
+    "text": ") Press the MINUS/Hyphen (-) key for any amount parentheses. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "4261d01969dc6eb4b63a1b4fafe18900",
+    "text": ") Enter a zero (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ed2d65cbffa3b6a01f94971e1855c2e9",
+    "text": "), if present, as the amount. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "06d8a81dd847aa9177abfcef3b9c47b3",
+    "text": ") All original entry will be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "43b90467028aaca0a14653e7edc65a52",
+    "text": "percent veriﬁed. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "cc18601b782354a72623138a56817e14",
+    "text": ") The following exhibits represent speciﬁc data",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "33c1e29902d678cbcff13d561dbfd825",
+    "text": "This Page Intentionally Left Blank",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "30a71b649e2c1befd771c14ad20beb95",
+    "text": "Elem. Data Element Name Prompt Fld. Term. Instructions No. (1) Service Center (SC) ABC <ENTER> The screen displays the Alphanu- Block Control meric Block Control (ABC) that was entered in the Entry Operator (EOP) Dialog box. It cannot be changed. (2) SC Code FLC/DO <ENTER> SC Code “00” will always be File Location Code (FLC) generated. No entry is required. District Office (DO) (3) Format Code FCODE <ENTER> Enter as follows: a. for program 59701, enter “221” b. for program 59705, enter “176”.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "feee01c59d00fce352df6d2c51a4954a",
+    "text": "3.24.183-2 (01-01-2018) 01 FORM 8350, Correction to Block Proof Summary Balance Forward Records (Program 59701 / Code 221)",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "a212f3cec8a279f8b09ceaa22786787f",
+    "text": "Elem. Data Element Name Prompt Fld. Term. Instructions No. (1) Section Number SECT: Section “01” will always be generated. No entry is required. (2) Serial Number SER# <ENTER> Press <ENTER> if the correct serial number appears automati- cally; otherwise, enter the two (2) digit serial number. Each line is to be considered as a separate document. (3) Submission Processing SC <Enter> Enter the edited code from the top ★★★★★★ Campus Code margin of Form 8350 or Form 1332. Note: This ﬁeld is very important for a processing site other than the originating site. It is a MUST ENTER ﬁeld for Document “00” and will be generated into remaining documents until changed. If the Service Center is not edited, see manager for current procedures. (4) System Identiﬁcation (ID) COL 2 <ENTER> Enter from column “2”. ★★★★★★ Code (5) Program Number COL 3 <ENTER> Enter from column “3”. ★★★★★★ (6) Cumulative Good Trans- COL 4 <ENTER> Enter amount from column “4”. actions MINUS (−) (7) Current Error Inventory COL 5 <ENTER> Enter amount from column “5”. MINUS (−) (8) Current Reject Inventory COL 6 <ENTER> Enter amount from column “6”. MINUS (−) (9) Cumulative Raw Errors COL 7 <ENTER> Enter amount from column “7”. MINUS (−) (10) Current Block out of COL 8 <ENTER> Enter amount from column “8”. Balance (BOB) Inventory MINUS (−) (11) Cumulative Conversion COL 9 <ENTER> Enter amount from column “9”. Volume MINUS (−)",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "be66dd932d4f3baee0fcfe94c5df25ba",
+    "text": "Elem. Data Element Name Prompt Fld. Term. Instructions No. (12) Current Block Delete COL10 <ENTER> Enter amount from column “10”. Inventory MINUS (−) (13) Cumulative Block COL11 <ENTER> Enter amount from column “11”. Deletions MINUS (−) (14) Cumulative BOBS COL12 <ENTER> Enter amount from column “12”. MINUS (−) (15) Cumulative Unpostable COL13 <ENTER> Enter amount from column “13”. Rejects MINUS (−) (16) Cumulative Raw Rejects COL14 <ENTER> Enter amount from column “14”. MINUS (−) (17) Cumulative BOB Blocks COL15 <ENTER> Enter amount from column “15”. Converted MINUS (−) (18) Cumulative BOB Blocks COL16 <ENTER> Enter amount from column “16”. MINUS (−) (19) Action Code COL17 <ENTER> Enter from column “17”. ★★★★★★",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8834d36c828929caa0a50d8c66fabaa9",
+    "text": "★★★★★★ Reminder: indicates a MUST ENTER ﬁeld.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "f9a720fbbd20504e20f99cdb82710d1c",
+    "text": "Exhibit 3.24.183-3 (01-01-2018) Section 01 Block Deletes Processed List (Program 59705 / Format Code 176)",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "c6ed8f12e54a7c54c1cd29e0e689ec2d",
+    "text": "Elem. Data Element Name Prompt Fld. Term. Instructions No. (1) Section Number SECT: Section “01” will always be generated. No entry is required. (2) Serial Number SER# <ENTER> Press <ENTER> if the correct number appears automatically; otherwise enter the 2–digit serial number. Each line is to be consid- ered as a separate document. (3) Submission Processing SC <Enter> Enter the edited code from the top ★★★★★★ Campus Code margin of the input document or Form 1332. Note: This ﬁeld is very important for a site other than the originating site. It is a MUST ENTER ﬁeld for Document “00” and will be generated into the remaining Documents until changed. (4) Processing Code COL 1 <ENTER> Enter the digit from column No. 1, Processing Code. (5) Master-File-System- COL 2 <ENTER> Enter the digit from column No. 2, Identiﬁcation (ID)-Code System-ID. (6) Block-(Document Locator COL 3 <ENTER> Enter the digits from column No. 3, Number (DLN) Block DLN. (7) Block-Document-Count COL 4 <ENTER> Enter the digits from column No. 4, Block Document Count. (8) Program-Number COL 5 <ENTER> Enter the digits from column No. 5, Program Number. (9) Martinsburg Computing COL 6 <ENTER> Enter the digits from column No. 6, Center (MCC) Deletes MCC Deletes.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "128c0fea47aaf9a850d480914bd961a7",
+    "text": "★★★★★★ Reminder: indicates a MUST ENTER",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm03-024-183--2017-12-22.pdf",
+      "page_number": 12
+    }
+  }
+]

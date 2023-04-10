@@ -1,0 +1,4223 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "04b3a8214af76013282007fdabc59879",
+    "text": "This transmits revised IRM 2.4.8, IDRS Terminal Input - Command Codes ESIGN and BSIGN.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "56caa61290d191da71e5c6586e63235f",
+    "text": "(1) IRM 2.4.8.1 has been revised to update Program, Scope, and Objectives.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1e04ac4271e26a0d03a06b174aeb7b1f",
+    "text": "LMSB, SB/SE, TE/GE, W&I.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "f5ebda4bd54aea26628720bd0e674a67",
+    "text": "Cat. No. 28197K (11-23-2022)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "18df85c3dc693b9a8852343d126e76b1",
+    "text": ") Overview: This IRM Section provides an overview of the ESIGN and BSIGN Command Codes. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "dd439061bee3a56935c11ebb853549ab",
+    "text": ") Purpose: This IRM contains procedural steps for use of the ESIGN and BSIGN Command Codes. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0b55c501f5c0365e00bc7327f2513f03",
+    "text": ") Audience: These procedures apply to IRS employees who are responsible the processing of Employer Identiﬁcation Numbers (EINs). These employees are located in the following areas: Large & Medium-Sized Business, Small Business/Self-Employed, Tax-Exempt & Government Entity’s, and Wage & vestment. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d81d198de67bdcf7115970d0e99906a5",
+    "text": ") Policy Owner: The Chief Information Officer (CIO) is responsible for oversee- ing all aspects of our systems that operate the nation’s tax infrastructure. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2d2e68e9df4d403959d72f6e28dc1d68",
+    "text": ") Program Owner: IT. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "538ba6afde4067be9f402455ef7fce2a",
+    "text": ") Primary Stakeholders: Large & Medium-Sized Business, Small Business/Self- Employed, Tax-Exempt & Government Entity’s, and Wage & Investment. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1eef0bace0c7f0916929036b1b4c2f01",
+    "text": ") Program Goals: This IRM provides the fundamental knowledge and proce- dural guidance for employees who work with The EIN Research and Assignment System (ERAS). By following the processes and procedures provided by this IRM, employees will process new EINs in a manner that follows IRS policy and procedures while promoting he best interests of the Government. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "578dc8d8a67a8586a588d05937296009",
+    "text": ") This IRM and the contained sections provide the user the necessary informa- tion on how to use the command code ESIGN. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8a6336cd78f8bfd8ea1756bd5f41fede",
+    "text": ") ESIGN was developed to allow the addition of a new account to the TIF and Master File. These transactions will be subject to IDRS Quality Review. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "37c204ab211e3023a2c56cf8b04ae018",
+    "text": ") ERAS Project Lead is responsible for • Review and implementation of WRs that affect ESIGN • Updating the contents of this IRM (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "7279dc83249f2727e3e96ec3d1010c5a",
+    "text": ") Program Reports: This process validates the command code’s input ﬁelds, checks for consistency between input ﬁeld, and builds the establishment on the TIF and to Realtime. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2e6871b883afa1dcc9f38ddf27ce537f",
+    "text": ") Program Effectiveness: Data is input to ERAS through a series of realtime entries: (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c33159a4e697c5f542fe303d4c358723",
+    "text": ") BSIGN Input of this command code results in a bulk assignment of EINs. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a7cfbc98d96654404d65401455c9ee56",
+    "text": ") ESIGN Input of this command code results in the addition of a new account the TIF and Master File. These transactions will be subject to IDRS Quality Review. Codes ESIGN and BSIGN",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3660315a9af3df255d8f19ab077e4797",
+    "text": "page",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f6acf366aac205b6dd20cf7eaf62f1fd",
+    "text": "Primary Stakeholders: Large & Medium-Sized Business, Small Business/Self- Employed, Tax-Exempt & Government Entity’s, and Wage & Investment.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "21cf07b9357e7d2717aacf2868c497e4",
+    "text": "This IRM and the contained sections provide the user the necessary informa- tion on how to use the command code ESIGN.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2d8d986cd1c553d3e92be0d793af9122",
+    "text": "ESIGN was developed to allow the addition of a new account to the TIF and Master File. These transactions will be subject to IDRS Quality Review.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9f30e0971d8ae340a6e3729996134d90",
+    "text": "ESIGND Input of this command code and deﬁner marks the TIF record, created by command code ESIGN, for deletion. This command code can be used after 2 cycles to delete ERAS established accounts that failed to post at",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9c0dbf897a2679300c7c20324591bdd9",
+    "text": "BMF Business Master File EACF EIN Assignment Control File EACS EP/EO Application Control System EO Exempt Organization EP Employee Plan EPMF Employee Plan Master File ERAS EIN Research and Assignment System FNMA Federal National Mortgage Association NAP National Account Proﬁle NSF Name Search Facility RTC Real Time Combined TIF Taxpayer Information File",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "00f7b5c137f12ca221b462c9f730acde",
+    "text": ") TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "21b32a82839b03332873f2a008be3031",
+    "text": "— BMF and EPMF: A TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3f7b9dae058c839be02a6620366863c1",
+    "text": "is generated to update the Master FIle with the new account. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "00f7b5c137f12ca221b462c9f730acde",
+    "text": ") TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "b50a2d0104ed3caf3ade92af0e996707",
+    "text": "— BMF (non EO) Only: TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f51ac52f7cf0d9f727728981175b49a5",
+    "text": "will be generated to suppress TDI issuance if the Wages Paid Date or Business Operational Date is in a future quarter within the current year or future year. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "251acd3b4e6b2d1dff31b4ed61a5a4a4",
+    "text": ") FTDs — FTD data will be sent daily to a vendor for BMF entities with",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "924a4daeb13c95882c14a56ac46111a7",
+    "text": ", CT–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3dee4656abb8057c2fa18136b84c51c7",
+    "text": "ﬁling requirements (unless suppressed at the time of input).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d5ef0f0e059ae5fdbee9ef56db7748a1",
+    "text": "TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "b50a2d0104ed3caf3ade92af0e996707",
+    "text": "— BMF (non EO) Only: TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "abec068f0f548f07fb832c0dc9178a32",
+    "text": "will be generated to suppress TDI issuance if the Wages Paid Date or Business Operational Date is in a future quarter within the current year or future year.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "63e9515298b610926e77652bf9cd3eee",
+    "text": "Command Codes ESIGN and BSIGN 2.4.8",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "7fccbdb77f226350cf825f487bee30c8",
+    "text": ") Notices — A notice will be generated for each entity (unless suppressed with Notice Information Code “ D” or “E” at the time of input). How a Notice Infor- mation Code is input will determine which notice the taxpayer receives (See ESIGN Input format Notice Information element description (Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "670f7ca5845be554641fb5d7c30017b3",
+    "text": ")). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "db17960431f218cb682a37737d648e83",
+    "text": ") Sequence Number — The sequence number, which was inserted into the cycle ﬁeld of the IDRS record at the time ESIGN was input, is changed to an actual input cycle. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b47ef327e2fa290809794831598ccc22",
+    "text": ") Quality Review — ESIGN transactions that were deleted by Quality Review have the corresponding TIF and NSF accounts deleted through daily batch processing. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "c7f6b9c86068ae7436b0262cc0d73b5c",
+    "text": ") NSF Processing — During the update attempt to the NSF by the ESIGN Command Codes an indicator will be set to determine whether the attempt successful. If this indicator shows failure to update, the ERAS daily batch pro- cessing will write the account to tape. This tape will be taken to the NAS system to be sent to MCC for update. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "48e2a117c0a3c00b5443704d54c74c9c",
+    "text": ") Federal National Mortgage Association (FNMA) — In BSC only, ERAS will process data from Federal National Mortgage Association on a monthly basis. This data contains an EIN and associated pool number. From this, ERAS will generate a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "1b537157bf05b30341d769b39f13064b",
+    "text": "with the FRM-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b5fee9f86a90ffc9f65dc0ebbb5e174e",
+    "text": "-FR set. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "219fd9a70925955d533b7c671d4c210b",
+    "text": ") ESIGNT — During the daily analysis, those entities for which ESIGNT has been used will be dropped from the TIF, and further ERAS processing. See",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2477adcaff12372cf24a2d0b29e064c6",
+    "text": "for a description of ESIGNT. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "eb7b82b6a223225f587d3d408616ec39",
+    "text": ") BSIGN — The range of EINs assigned with BSIGN will be validated using validation during the ERAS daily batch processing. Any EINs within the range will be identiﬁes on the Bulk Assignment Report generated for the Entity Control Unit. & (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "8e2a4f0a4e65bd3c2c1c1aabd4558f71",
+    "text": ") Accounts input from an SS–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "769645968b10fa7b5d8f35d9d240f8f9",
+    "text": "are deleted from the TIF when the account is established on either the Business Master File or the Employee Plan Master File. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3aba1227f4672a559004d1910e0483f7",
+    "text": ") All other accounts established will be aged when the SS–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "29f7c3e6594ed2cf552bab208f940aad",
+    "text": "is received from the taxpayer or after",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "c714f11b8c0d7b64d49abdfc398d0726",
+    "text": "weeks. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "e15a45d82b9fdff78579bf50e5cc5453",
+    "text": ") Those entities, which were marked for deletion by ESIGND during the week, will be deleted from the appropriate TIF. (EP/EO) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "69ffb5753c96993f66c82d58a203e7e7",
+    "text": ") ERAS interfaces with the EACS (EP/EO Application Control System). Exempt Organization applications are controlled on EACS when the Key District Office receives them and maintained until the determination as to whether the organi- zation qualiﬁes for exemption. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "858e71eee879d2ed493de9b99458d94a",
+    "text": ") The application is input to EACS without an EIN. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "5e1bd7ccde8e9cb204ce4e064c5c8035",
+    "text": ") The EACS Plan Case Control File (PCCF) is updated with an EACS Applica- tion Case Identiﬁer. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ef1eeb299154e3720ccd7bcddeef100f",
+    "text": ") The Form SS–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3e567b5a62be31f08988359272ec376e",
+    "text": "is annotated with the EACS Application Case Identiﬁer and sent to the Service Center. Codes ESIGN and BSIGN",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ef51e648dfc814b76990088c13114222",
+    "text": "page (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "03f40c2f709967fbd91a8502bcad86d7",
+    "text": "Quality Review — ESIGN transactions that were deleted by Quality Review will have the corresponding TIF and NSF accounts deleted through daily batch",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "fbf26b43d40c9df14943012ff5071997",
+    "text": "Accounts input from an SS–4 are deleted from the TIF when the account is established on either the Business Master File or the Employee Plan Master",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ef1eeb299154e3720ccd7bcddeef100f",
+    "text": ") The Form SS–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ad06ef9d3a2ae9c3e56562a49c2c5cb2",
+    "text": "is input with the EACS Application Case Identiﬁer via the ESIGNR command code. Note: Name and address data from the EACS PCCF (Plan Case Control File) as well as the EACS Application Case Identiﬁer will be displayed on the ESIGN screen format. A Master File Indicator of “B” or “O” must be used. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "b51f2d31bd92135b34433f8c92077278",
+    "text": ") ERAS updates the PCCF with a valid EIN during End of Day (EOD) Process- ing. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d7c1d6eeff07b78e0ab4488652423863",
+    "text": ") Upon qualiﬁcation for exemption and receipt of a valid EIN, the Key District Office closes the “Case” and the following is produced by EACS: a. A TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "94e25edb029d4003d0d42a2da377bf58",
+    "text": "DOC-CD",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "c7d39bfc0c7b79f370414c3862ee4534",
+    "text": "(entity establishment) or TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "94e25edb029d4003d0d42a2da377bf58",
+    "text": "DOC-CD",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "c0fbe296a5f575de06e9a181d419948d",
+    "text": "(exempt organization status change) transaction will be generated for posting to the BMF. b. A Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "145c97697345f2dd2b9dfd62b257ff44",
+    "text": ", Exemption Organization Record (EACS), will be generated daily for each “closed” EACS case. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "da2dcbc1d907165f09c334ace3d10d67",
+    "text": ") For further information concerning EACS see IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "6d90bf1d012ecb090e761f6a52fce60b",
+    "text": ", Chapter",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "7e74634be1e806322c131d6a8ae33276",
+    "text": ", Command Code ENMOD, IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "6d90bf1d012ecb090e761f6a52fce60b",
+    "text": ", Chapter",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "2b9ae56bba114bef5702e59ba0b47203",
+    "text": ") During Real Time the following functions are performed. a. An EIN is generated from the EIN Assignment Control File (EACF), is part of the Real Time Combined Area (RTC). b. Validity checks are performed to ensure that data is as accurate as possible. c. The taxpayer’s entity information is recorded on the Name Search Facility (NSF) and either the Business Master File (BMF) or EPMF Taxpayer formation File (ZTIF). d. A record is sent through End of Day (EOD) processing to update the Master File. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "721293ad9c458b6e126d96be43e2c6c9",
+    "text": ") Following are the various ERAS command code deﬁners and their descrip- tions. a. Request a formatted input screen using ESIGNR. b. Input taxpayer information from the formatted ESIGNR screen using ESIGN. c. Delete taxpayer information the same day as entry using ESIGNT. d. Delete taxpayer information that failed to post on the Master File with Unpostable Code (UPC) of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f3a738b4208796d3280bed095477f8f7",
+    "text": "using ESIGND. e. Upon receipt of the SS–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "cfe2542b97ac955f33f3ecd4db80632f",
+    "text": ", update the ERAS Notice Information Code using ESIGNU. f. Issue a block of EINs to an institution to assign to estate/trusts accounts using BSIGN. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "42a92de3798e6e2565ae37c8d80e60c7",
+    "text": ") This command code is used to request a formatted ESIGN input screen. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "1d8713503a89b5091f923c46e37d0fa2",
+    "text": ") ESIGNR must be preceded by either Command Code NAMEE or NAMEB to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "2b2b90ddf33d99a25a3ac4d529aa102a",
+    "text": "Upon qualiﬁcation for exemption and receipt of a valid EIN, the Key District Office closes the “Case” and the following is produced by EACS:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "63e9515298b610926e77652bf9cd3eee",
+    "text": "Command Codes ESIGN and BSIGN 2.4.8",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e2e182c08806f145bdbc1e3948d4c773",
+    "text": "Note: If an EACS Application Case Identiﬁer is entered, name and address data from the EACS PCCF (Plan Case Control File) as well as the EACS Applica- tion Case Identiﬁer will be displayed on the ESIGN screen format.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "01f18ddee559a8143005cd4d54c07129",
+    "text": "MESSAGES MEANING CODE INI- TIALIZATION INVALID ESIGNR was not preceded by either Command Code NAMEE or NAMEB. CASE NOT ON There is no case on the PCCF for the EACS Application Case Identiﬁer input. Search PCCF to verify EACS Application Case Identiﬁer. See",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "6d90bf1d012ecb090e761f6a52fce60b",
+    "text": ", Chapter",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "56765a64c49e9df2441a46010003efb5",
+    "text": "EACS APPLICA- CASE IDENTIFIER The case identiﬁer is not nine numerics followed by the literals “EO” or “ NE”. NOT AVAILABLE The PCCF was not available at the time of input — retransmit. If the ﬁle is still not available, notify your supervisor. COMPLETED No errors are present in the ESIGNR request.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "95000fa7b8d13f665bc70d42f3ce4eee",
+    "text": "The PCCF was not available at the time of input — retransmit. If the ﬁle is still not available, notify your supervisor.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e019d1b3c73bbc6a6f46c43a2c732551",
+    "text": "The ESIGN command code is used to input taxpayer information. Taxpayer information may then be input without an EIN if one was not found, or with an EIN if one was found but is not established on the appropriate master ﬁle.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8f4d8a9223e75a26bfe3a106963edd08",
+    "text": "2.4.8.13(01-01-2007) Command Code ESIGN — Input Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a0b592c0ad0d88213a240b225646914f",
+    "text": "Note: A Master File Indicator of “P” will not accept a reinput EIN.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "91544ada2878e0b7dc0a99fe74455846",
+    "text": ") If a speciﬁc EIN is not entered on the ESIGN screen, one will be generated from the EIN Assignment Control File (EACF). The new EIN will be using the National Account Proﬁle (NAP) to ensure that the EIN does not already exist on the Master File. a. The ﬁrst two digits of an EIN no longer indicate the geographic tion (preﬁx) assigned to the account; but are associaed with particular campuses. b. The third digit of an EIN indicates whether the account is a Regular Series or an Estate/Trust Series. Note: An Estate/Trust Series EIN must consist only of the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "278b8b9825d421cd5afe5e9350bc7303",
+    "text": "ﬁling requirement, no other ﬁling requirements can be present. All others will be assigned Regular Series EIN. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "46d54dc56d35203a38c9c10803148af9",
+    "text": ") Validation checks are performed to assure that the input data is as accurate and consistent as possible. If invalid conditions are present, the input be redisplayed and errors identiﬁed with an asterisk next to the item. ﬁelds are determined to be valid, an EIN will be assigned to the taxpayer’s account.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d6f16834e9f7a69ff739bb6752495e40",
+    "text": ") If a speciﬁc EIN is not entered on the ESIGN screen, one will be generated from the EIN Assignment Control File (EACF). The new EIN will be validated using the National Account Proﬁle (NAP) to ensure that the EIN does not already exist on the Master File.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8e506e60871a722d33b493968c5450cf",
+    "text": "The NSF is a database that contains taxpayer name and address infor",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "a9f6e33de6bf029454a2f6382b3aa571",
+    "text": "mation and can be accessed using the Command Code NAMEE oe NAMEB. The BTIF and ZTIF are databases that contain the taxpayer’s account information and can be viewed using taxpayer’s EIN via the Command Code ENMOD.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "a4ca9255f8b79e8b9d828ea9f4ba14bd",
+    "text": "2.4.8.13.1(01-01-2001) Command Code ESIGN — Valid Messages",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "c709600f23af8785d4fc29d36ec86617",
+    "text": "MEANING No errors are present in the ESIGN request. - NAP The NAP is unavailable at the time of input. Command Code INOLEG should be done to validate the EIN. - If the NSF and NAP are unavailable at the time of input. During ERAS Daily Analysis the EINs that do not update the NSF will be written to the NSF-ADD-OR-DELETED-FILE.Comman",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "32f30ea0e83c41a331c4330213005568",
+    "text": "od",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "a9e54e370bcfc6bd7a3b319b2ad14286",
+    "text": "NOLEGshould be done to validate the EIN. — The NSF is unavailable at the time of input. During ERAS Daily Analysis the EINs that do not update the NSF will be written to the NSF-ADD-OR-DELETE-FILE.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "54b39e67c4cd92fafb62910efdbb5785",
+    "text": "Attempted to assign/reinput an EIN that has a primary/secondary sort record with this EIN already present on the NSF. If this was a reinput EIN, notify your super",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "32084d5557c3e57197bcc29ebbc9385c",
+    "text": "visor. If this EIN was generated by ESIGN, then notify your supervisor. The EIN Preﬁx Codes identiﬁed by the EACF as valid for access by the Service Center do not agree with those EIN PREFIX codes being requested which were considered valid by ESIGN. Notify Computer Systems Analyst.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "bc2e70ffb214b75e35920bd50dc09d0a",
+    "text": "The EACF, which issues EINs and AP Sequence Numbers, was not accessible at the time of entry, retransmit. If it is still not available — notify your supervisor.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "b7d2b16f637e5ace439e5f7c3d717b1d",
+    "text": "Pre-existing EINs were detected on the NAP — retransmit. If the message reoccurs have the Computer Systems Analyst determine the last EIN assigned for each preﬁx to create input ﬁle ERA",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "571eff041b8aefce5bdf3a60b79762e9",
+    "text": "by following the Computer Operator Handbook run instructions for ERA",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "902178174fb9ddaad344c767ec53ece1",
+    "text": "ERROR MESSAGES MEANING PLEASE CORRECT INVALID DATA The data ﬁeld indicated with an asterisk does not pass validity checks. REMARKS FIELD - INVALID OR INCOM- PLETE The remarks ﬁeld contains less than three non-blank characters or contains an invalid special character (=, <). REMARKS SECTION MISSING Remarks section is required for Notice Information Code “B”. TIN INVALID EIN entered does not pass standard validity checks. (current area name) - IS DOWN The database area, which is being accessed, is unavailable — retransmit. If area is still not accessible, notify your supervisor. XXXX NOT AVAILABLE The ﬁle speciﬁed (RTC, BTIF, or ZTIF) was not accessible at the time of entry — retransmit. If the ﬁle is still not available, notify your supervisor.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "5cf9e090b3f790404f18fd079c643d26",
+    "text": ") This command code will be used to delete ERAS accounts that fail to post on the Master File with an Unpostable Code (UPC) of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "b3b791e73508bdeeac59f853370d0358",
+    "text": ") ESIGND must be preceded by Command Code ENMOD. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "84e52a18892b3fd13192438614b178a1",
+    "text": ") Accounts cannot be deleted unless two weeks have passed since the initial input. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "65d469a571325eafc8be7d56d1fd7acc",
+    "text": ") The records will be removed from the NSF and the TIF. a. The TIF records will be marked for deletion, which is indicated by a “D” on the ENMOD screen, and removed from the database during the next weekend’s processing. b. The account will be immediately deleted from the NSF. If the account cannot be deleted immediately, it will be marked for deletion and processed during ERAS Daily Batch Processing. c. If ESIGND is input for the primary record, the secondary record will also be deleted, and vice versa. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "9b88f6db2b8c945580639883324022c0",
+    "text": ") The account cannot be reinput during the week that the ESIGND was done, unless the EIN has been changed. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "9b153d98a4e720dbfef06db4f541df90",
+    "text": ") See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "97712e8112c06ffe1958fcc84f2b1f99",
+    "text": "for ESIGND Input Format.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "7f54b892bbcc4e46936ccd563d938af7",
+    "text": "This command code will be used to delete ERAS accounts that fail to post on the Master File with an Unpostable Code (UPC) of 302 or 802.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "57edeb54b1a594c1a404a1c02cb8651b",
+    "text": "The TIF records will be marked for deletion, which is indicated by a “D” on the ENMOD screen, and removed from the database during the next weekend’s processing. The account will be immediately deleted from the NSF. If the account cannot be deleted immediately, it will be marked for deletion and processed during ERAS Daily Batch Processing. If ESIGND is input for the primary record, the secondary record will also be deleted, and vice versa.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "63e9515298b610926e77652bf9cd3eee",
+    "text": "Command Codes ESIGN and BSIGN 2.4.8",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "1e71e9c52af783155010010d8eaf720c",
+    "text": "Following are the valid messages for ESIGND.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "4049c1e35e384e3f9e47e45de0a03848",
+    "text": "This command code will be used to delete ERAS accounts on the same day they were entered.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "e253e407a247d4f6952c83272726b1a8",
+    "text": "Restrictions: Consideration must also be given to the time of the closeout of the transaction ﬁle by the computer room for each day (input between 6 p.m. and 12 p.m. for that day will be processed in the next day’s daily update.) Therefore, any ESIGN transaction input before 6 p.m., which needs to be deleted, must be deleted before 6 p.m.; any ESIGN transaction input between 6 p.m. and 12 p.m., which needs to be deleted, must be deleted before 6 p.m. the next day. Entity Control Unit managers in each service center should check with their computer room to determine their particular cut-off schedule.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "8c06bcfd63d2597795904562c683f629",
+    "text": "(2) ESIGNT must be preceded by Command Code ENMOD.",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "ee9ae85a6a13fd4636514c93689bd0ce",
+    "text": "(1) Following are the error messages for ESIGNU.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "601679d2810790bc45318ba6482580f4",
+    "text": "ESIGNU ERROR MESSAGES MEANING COMMAND CODE INI- TIALIZATION INVALID ESIGNU was not preceded by ENMOD. INVALID REQUEST - NOT AN ERAS RECORD There is no TIF–41 record for this account. INVALID REQUEST - ﬁle DATA NOT PRESENT There is no record on the speciﬁed ﬁle (BTIF, or ZTIF) which matches the EIN. RECORD PREVIOUSLY UPDATED ESIGNU has been attempted for a record that was previously updated by ESIGNU.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "0f7f94a27456df3ac374bed5e82884b9",
+    "text": "Bulk assignments can be issued in a block of numbers from 10–100 or 200. Internet preﬁxes 20 and 26 can also make bulk assignments in increments of",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "e49d52204c5734802149009c67f97f3f",
+    "text": "VALID MESSAGES MEANING REQUEST COMPLETED No errors are present in the BSIGN request. In addition to the input screen the beginning and ending EINs will be shown on the screen. See Exhibit 2.4.8–9.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "63e9515298b610926e77652bf9cd3eee",
+    "text": "Command Codes ESIGN and BSIGN 2.4.8",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d3c9b354720000a7587f28c61bf7af9e",
+    "text": "Following are the error messages for BSIGN.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "99cff56dd66de6660ddea7530516de96",
+    "text": "ERROR MESSAGES MEANING DATA IN NON-INPUT- FIELD PLEASE CORRECT Input data did not pass the validity checks. Speciﬁc items in error are indicated with an asterisk to the right of the input ﬁeld. EACF EIN PREFIX CODE INVALID - NOTIFY CSA The EIN Preﬁx Codes identiﬁed by the EACF as valid for access by the Service Center do not agree with those EIN Preﬁx codes being requested which were considered valid by ESIGN. Notify Computer Systems Analyst. EACF NOT AVAILABLE The EACF, which issues EINs and AP Sequence Numbers, was not accessible at the time of entry, retransmit. If it is still not available, notify your supervisor. EACF SC-CODE INVALID - NOTIFY CSA The Service Center identiﬁed by the EACF as valid for access does not agree with the Service Center trying to access it. Notify Computer Systems Analyst.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "a69ec24f1421fcd1141a07534173bfb5",
+    "text": "The Service Center identiﬁed by the EACF as valid for access does not agree with the Service Center trying to access it. Notify Computer Systems Analyst.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "33c1e29902d678cbcff13d561dbfd825",
+    "text": "This Page Intentionally Left Blank",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "29cb8779bde99471b8a4d4669b4f9cd1",
+    "text": "Input Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "323c2bd00f0e97a91397365d15e20c7c",
+    "text": "5 0 L7 puiseen e e TR =5T o -cs T =T0 TR G eR b s | Ea3 VLB 01 Fotkteo CIty i elN ST EPPR TEPM PSS P TS FOT 1T iT pencme  pRmmRs < ESRELES ERE",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "7c44f9db41262e7379ccbc3bc04f04d0",
+    "text": "Input Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "bcf2454505eb03b6bd9faeda080b9ef4",
+    "text": "S B .1LS ETESDT 154 R0 TE 3 TAOU T AT S 56 TR0 AT e RSO TEAS6 850ry AR TON-GF PR IARY 1G] T3 ST on-roRetox CITY/EiE: TS| Ari-CrTy At 51e-on- o 1ok couiy EaP P ) P T =3T L e oo o753 i3T YEES: .. FERSON-APTLIED:. TP T PRTOR-EABIY TRIORE §0)T2 pron-iog-Soi-SERVICE: = 3",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "63e9515298b610926e77652bf9cd3eee",
+    "text": "Command Codes ESIGN and BSIGN 2.4.8",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "9ca69a2b4be29bca6554d7b4ed422e62",
+    "text": "Exhibit 2.4.8-2 (Cont. 1) (01-01-2014) ESIGN Input Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "52e93f6cdf0eb6a89a410510ada40136",
+    "text": "Line Elem. Position Element Name Description 1 1 1–6 COMMAND CODE ESIGN 2 7–16 EIN Only enter this ﬁeld if a valid EIN for the entity being input or the is 20. If entered, the ﬁrst two EIN must be a valid EIN Preﬁx . will be assigned if it is not entered. NOTE: The EIN cannot be input File Indicator of “P”. 2 3 17 MASTER FILE INDICATOR Required ﬁeld. Valid values are: B — BMF (with ﬁling requirements) O — BMF (no ﬁling requirements) P — EPMF (no ﬁling requirements) valid with input of Notice Information “E”, “F”, “K”, “P” or “R”, or blank). 4 33–36 LOCATION CODE Required ﬁeld. This ﬁeld must numerics. The ﬁrst two positions valid EIN Preﬁx Code (formerly Office), the second two positions “00” for the Area Office Code. Note: If an out of region EIN and no EIN is entered, then an assigned in the dump district. 5 66–76 APPLICATION CASE IDENTIFIER If an EACS Application Case input, then an 11-character ﬁeld 2-alphabetics) will be displayed, this ﬁeld will be blank. 3 6 14–17 NAME CONTROL Required ﬁeld. The ﬁrst position alphabetic or numeric. Subsequent may be alphabetic, numeric, -, &, Blanks may not appear between in this ﬁeld. The Name Control must be equal four characters of the Primary the ﬁrst four characters following right-hand bracket (]) in the ﬁrst Exception: If Master File Indicator “O” and EACS Case Number is not alter the Name Control displayed PCCF.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "ac88c6d10223196ca8a4fee3da9194a3",
+    "text": "Only enter this ﬁeld if a valid EIN is available for the entity being input or the location code is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "7df6fc029d6a1ea8ca1e5b1c0a5a7ebe",
+    "text": "If entered, the ﬁrst two positions of the EIN must be a valid EIN Preﬁx . A new EIN will be assigned if it is not entered.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "c91267086a27ae0549c9501e14d3e54b",
+    "text": "NOTE: The EIN cannot be input with Master File Indicator of “P”.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "4617b6420f8f3e166c47d322f852d4ec",
+    "text": "Required ﬁeld.",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "a64145af473d0b065789e93f266c6ea0",
+    "text": "B — BMF (with ﬁling requirements) O — BMF (no ﬁling requirements) P — EPMF (no ﬁling requirements) (only valid with input of Notice Information Codes “E”, “F”, “K”, “P” or “R”, or blank).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "b3670f81b3b950d2a29c03bece5db81f",
+    "text": "Note: If an out of region EIN Preﬁx is entered and no EIN is entered, then an EIN will be assigned in the dump district. If an EACS Application Case Identiﬁer is input, then an",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "3e0a8ea30e316b6a4145d257a2055ec4",
+    "text": "-character ﬁeld (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "a2e85c3a873eeda64709ab8ade386544",
+    "text": "-numerics,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "ea3d2cbda9117242fc51f049b0806452",
+    "text": "-alphabetics) will be displayed, otherwise this ﬁeld will be blank. Required ﬁeld. The ﬁrst position must be alphabetic or numeric. Subsequent positions may be alphabetic, numeric, -, &, or blank. Blanks may not appear between characters",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "96a70d8a9585fadcb923aceefc08e451",
+    "text": "Exception: If Master File Indicator is “B” or “O” and EACS Case Number is present, do not alter the Name Control displayed from the PCCF.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "526e0087cc3f254d9f86f6c7d8e23d95",
+    "text": "Description",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "fb5d0032f8e26e846eb13740f650fb57",
+    "text": "Required ﬁeld. The ﬁrst position must be alphabetic or numeric. Subsequent positions may be alphabetic, numeric, –, &, ], or blank. The Name Control ﬁeld must also be entered and must match the Name Control indicated on the Primary Name Line.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "95d3383fd31b05569fe5bd775f171f42",
+    "text": "If the Name Control is contained in the ﬁrst four characters of the Primary Name Line, these characters will be entered in the Name Control ﬁeld.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "b00f9043a42bb390f67e66a1fdfe2282",
+    "text": "immediately following the name that the Name Control was derived from if a suffix or partner’s name follows on the Primary Name Line.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "1889f03338b79bbad8bdcdc925ef5e83",
+    "text": "Examples:",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "469264bb43c3efb41df89f7853f5fde4",
+    "text": "JONES INC (no bracket needed)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "db09b9fb4d349888d31d60f9ec489a47",
+    "text": "HARRY]JONES (bracket immediately preceding Jones but none needed following last name)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "1fc80a625e38c5f4e4c9508961d0ed4a",
+    "text": "HARRY]JONES]& ROLAND SMITH (bracket before and after name containing name control)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "b5c4a590bac2fa62a9ac66adfad57c12",
+    "text": "The ﬁrst position is a bracket (]). Subsequent positions may be alphabetic, numeric, -, &, or blank. Any characters following two or more sequential blanks are invalid.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "08f4a0623f0ba1eeda2fd4aa6ba58475",
+    "text": "The ﬁrst position must be alphabetic or numeric. Subsequent positions may be alpha",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "b202af1b62bdd71adefaf6b1e407b845",
+    "text": "betic, numeric, –, &, or blank. Any characters following two or more sequential blanks are invalid.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "63e9515298b610926e77652bf9cd3eee",
+    "text": "Command Codes ESIGN and BSIGN 2.4.8",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "a8dca624cdf241595bb2271978aed7cc",
+    "text": "Exhibit 2.4.8-2 (Cont. 3) (01-01-2014) ESIGN Input Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "526e0087cc3f254d9f86f6c7d8e23d95",
+    "text": "Description",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "8c6e3830398717a7fd08598b69cbc1af",
+    "text": "Description The ﬁrst position must be alphabetic or numeric. Subsequent positions may be alpha",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "35ca8c8b1a98cfca1e332fe666c988a3",
+    "text": "betic, numeric, –, /, or blank. If input, Mail City State Zip or Foreign Country line must end with a period. Required ﬁeld. This is either a foreign city or the mailing street address. Valid characters are alphabetic, numeric,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "01d93663627566b6ef3b58f9750219f8",
+    "text": ", /, or blank. Required ﬁeld. This is either a foreign country, city/state/zip or a Major City Code and Zip Code. If a foreign country is entered in place of city",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "06e2e28fdf99d5ebe43f61020076eeac",
+    "text": "If a foreign country is entered in place of city name, the State Code must be entered as a period plus a blank and the Foreign Address line must be present. (See Exhibit 2.4.8–4)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "5349c59946aebaf5e1069f20432d4a40",
+    "text": "City: City name must be 3 to 22 characters long. Valid characters are alphabetic or blank. The last character of the city name must be a comma, followed immediately by the State Code.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "5871c37807912cd87e55dfe5c981c1ea",
+    "text": "Major City Code — A two character Major City Code valid for the service center of input may be used in place of the City and State. If a Major City Code is used the Zip Code must be input. A Major City Code must be immedi- ately followed by two commas (,,).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "8a523589421eeb29b6105108d01d7928",
+    "text": "may be used in place of the City and State. If a Major City Code is used the Zip Code must be input. A Major City Code must be immedi- ately followed by two commas (,,). State — A valid two-character State Code must follow city name and comma. For a foreign address a period plus a blank (.b) must substitute for the State Code. Does not apply if using Major City Code. Zip Code — Must begin immediately following the space after the State Code or the second comma after a Major City Code. Entry must be ﬁve or nine numeric charac- ters; valid range for the ﬁrst ﬁve characters is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "663ea1bfffe5038f3f0cf667f14c4257",
+    "text": "to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "2aa84e1c0d3b6b6eb1093b00427ebefd",
+    "text": ", except the fourth and ﬁfth digits must not be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "606793c3dfb4f0f084fbfa6485d0690f",
+    "text": "Zip Code may not be input if a foreign address. The Zip Code must be valid for the State Code entered. This is a location mailing street address. Vali- dation will be the same as street address validation in Mail Street or Foreign City/Zip line.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "e10944444d63ced2cdf2cc0c2a063ef6",
+    "text": "State — A valid two",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "f8d990f66416d5918f05c3269bc6892b",
+    "text": "character State Code must follow city name and comma. For a foreign address a period plus a blank (.b) must substitute for the State Code. Does not apply if using Major City Code.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "9f239c7ea1b64ccd85ca79d7a9160f62",
+    "text": "This is a location mailing street address. Vali",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "d76224976a0e8b76e9bce8813e98daf2",
+    "text": "dation will be the same as street address validation in Mail Street or Foreign City/Zip line.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "526e0087cc3f254d9f86f6c7d8e23d95",
+    "text": "Description",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "201d4fc06345460a62917df3e184311f",
+    "text": "This is a location city/state/zip. Validation will be the same as Mail City State Zip or Foreign Country, with one exception, a comma must be present between the State ﬁeld and Zip ﬁeld.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "223681558a70b197f75011b605c14bcf",
+    "text": "12 16 6–7 941-FR Valid characters are 01, 02, 06, 07 or 10. 944 cannot be present. If FR is... Employment Code must be... Location Code must be... 940-FR may be... 01 A, G, M, S, W or not input N/A 1 or 2* 02 F N/A N/A 06 not input 6600 1 and ﬁrst three digits of zip code must be 008 (Virgin Islands) 07 W or not input 6600 7 *If Employment code is A, then 940–FR must be 1. *If Employment code is I, then 940–FR must be 3.. *If Employment code is M, then 940–FR must be present. *If Employment code is S, then 940–FR must be blank.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "63e9515298b610926e77652bf9cd3eee",
+    "text": "Command Codes ESIGN and BSIGN 2.4.8",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "a8912c991251a6b7b7c60a612f56ca7f",
+    "text": "Exhibit 2.4.8-2 (Cont. 5) (01-01-2014) ESIGN Input Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "7e2d777c569321fc8d327de728a3adad",
+    "text": "Exhibit 2.4.8-2 (Cont. 5) (01-01-2014) ESIGN Input Format 17 15 940-FR Valid values are 1, 2 or 7. If 1 or 2 is input, 941 must be 01 or 06, 943 or 944 must be 1. If 7 is input, Location Code must be 6600, and 941 or 943 must be 7. 18 23 943-FR Valid values are 1 or 7. If 7 is present, Location Code must be 6600. 19 31 945-FR Valid value is 1. If present the Wages Paid Date must be 199312 or later. 20 40 2290-FR Valid value is 1. 21 49 1041-FR Valid values are 1, 2 or 9. If 1 or 9 is present, 1065, 1066 and 1120 cannot be present and Fiscal Year Month Ending must be present. If 2 is present, 1065, 1066 and 1120 cannot be present, Fiscal Year Month Ending must be present and Wages Paid and Business Op- erational Dates must be present. 22 58 1065-FR Valid values are 1 or 2. If 1 or 2 is present, 1041, 1066 and 1120 cannot be present and Fiscal Year Month Ending must be present. 23 69 944-FR Valid values are 00, 01, 02, 06, 07, 11, 13 and 14. 941 cannot be present. if FR is ... Employment Code must be ... Location Code must be ... 940-FR may be ... 01 A, G, I, M, S, W, or not input N/A 1 or 2* 02 F N/A N/A 06 not input 6600 1 and ﬁrst three digits of zip code must be 008 (Virgin Islands) 07 W or not input 6600 7 *If Employment code is A, then 940–FR must be 1. *If Employment code is I, then 940–FR must be 3. *If Employment code is M, then 940-FR must be present. *If Employment code is S, then 940-FR must be blank.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "54d4c58dde54533ab8bac2bbc9c031df",
+    "text": "Valid values are",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "1e3abf61a37e3cad36b11b459b1cc39e",
+    "text": "If",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "ecb235737b9614ea91eb467e5c3c54f2",
+    "text": "is input,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "6d35e9f5ee2407b38e39643aaff0ef92",
+    "text": "must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "6d35e9f5ee2407b38e39643aaff0ef92",
+    "text": "must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "1e3abf61a37e3cad36b11b459b1cc39e",
+    "text": "If",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "a008549ee507d41a7e02770ffff796fa",
+    "text": "is input, Location Code must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "4aa9bfd2f175a94ad5a7cb321e1aea97",
+    "text": ", and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "6d35e9f5ee2407b38e39643aaff0ef92",
+    "text": "must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "54d4c58dde54533ab8bac2bbc9c031df",
+    "text": "Valid values are",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "1e3abf61a37e3cad36b11b459b1cc39e",
+    "text": "If",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "b05bc1d1b5f62ff70a44802a35cfd185",
+    "text": "is present, Location Code must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "d55415ee57ad4d3b79c1e08558600f9b",
+    "text": "Valid value is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "6b8645afc539bae66ec008b7634d7f9f",
+    "text": "If present the Wages Paid Date must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "4e6d84959da609203e1e27f0483ef5ea",
+    "text": "or later.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "13f04758138143188bbd43974948a6fb",
+    "text": "Valid value is 1.",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "52748a17ae5379e743c8ffed2da6c247",
+    "text": "Valid values are 1, 2 or 9. If 1 or 9 is present, 1065, 1066 and 1120 cannot be present and Fiscal Year Month Ending must be present. If 2 is present, 1065, 1066 and 1120 cannot be present, Fiscal Year Month Ending must be present and Wages Paid and Business Op- erational Dates must be present.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "6e320dcffcca3c91ff654aca3d87570a",
+    "text": "Exhibit 2.4.8-2 (Cont. 6) (01-01-2014) ESIGN Input Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "084f96a3cb1cd72db21136d33339fd2a",
+    "text": "Input Format 24 6–7 1120-FR Valid values are 01, 03, 04, 06, 11, 16, 17, 18 or 19. If 01, 03, 04, 10, 11, 16, 17, 18, 19 or 20. Fiscal Month Ending must be present. present, the Business Operational be 041984 or later. If 20 is present, Business Operational Year must later. If 1120 is present, 1041, cannot be present. 25 15 720-FR Valid values are 1, 4, or 6. 26 23 730-FR Valid value is 1. The entry must (present or not present) as the Filing Requirement entry. 27 31 11C-FR Valid value is 1. 28 40 CT-1-FR Valid values are 1 or 2. If present, cannot be set, 941 or 944 must Railroad Retirement Number must present. 29 49 1066-FR Valid value is 1. If 1 is present, and 1120 cannot be present. 30 58 1042-FR Valid value is 1. If 1 is present, dent Alien Start must be input, later than 121984. 31 69 8804-FR Valid values are 0 or 1. 32 5–6 FISCAL YEAR MONTH (FYM) ENDING Valid values are 01–12. Valid with or 1120 only. 33 20 EMPLOYMENT CODE Valid values are A, F, G, H, I, M,",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "54d4c58dde54533ab8bac2bbc9c031df",
+    "text": "Valid values are",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "1e3abf61a37e3cad36b11b459b1cc39e",
+    "text": "If",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "a913b03055ff97a3f081d5446fbe0a9d",
+    "text": "Fiscal Year Month Ending must be present. If",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "6364e68e75c549f85188693d013e5d34",
+    "text": "is present, the Business Operational Date must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "084ab07f1bf7c867e5ca7d26e0d166dc",
+    "text": "or later. If",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "800991b02a4214be81ebe4f002ef5f31",
+    "text": "is present, the Business Operational Year must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "084ab07f1bf7c867e5ca7d26e0d166dc",
+    "text": "or later. If",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "388a856d00d1d1893a3404c2da31e8b9",
+    "text": "is present,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "41ae91077f75fc15816d8290d65a5e3e",
+    "text": "cannot be present. Valid values are",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "3d30020b1863441a64e786bdc72745e9",
+    "text": ", or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d55415ee57ad4d3b79c1e08558600f9b",
+    "text": "Valid value is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "e7a6f2ca8e82738e749f28d3133ba9cc",
+    "text": "The entry must be the same (present or not present) as the Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "5123c65d4e6755c5977c3664eb61823b",
+    "text": "C Filing Requirement entry. Valid value is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "54d4c58dde54533ab8bac2bbc9c031df",
+    "text": "Valid values are",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "e4da948764c75429e43c53f441adc000",
+    "text": "If present,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "046e46544adcb760211c76a11d4ad49f",
+    "text": "cannot be set,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "6d35e9f5ee2407b38e39643aaff0ef92",
+    "text": "must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "dea7bc7132d55a2e0928bfa4a457121b",
+    "text": ", and Railroad Retirement Number must be present. Valid value is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "1e3abf61a37e3cad36b11b459b1cc39e",
+    "text": "If",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "388a856d00d1d1893a3404c2da31e8b9",
+    "text": "is present,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "6201111b83a0cb5b0922cb37cc442b9a",
+    "text": "and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "82d5583de74ee6a6c8d6115152f523e9",
+    "text": "cannot be present. Valid value is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "1e3abf61a37e3cad36b11b459b1cc39e",
+    "text": "If",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "a02ae8b425c0448e44a835b2546be9dc",
+    "text": "is present, the Nonresi- dent Alien Start must be input, and must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "54d4c58dde54533ab8bac2bbc9c031df",
+    "text": "Valid values are",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "1e3abf61a37e3cad36b11b459b1cc39e",
+    "text": "If",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "a913b03055ff97a3f081d5446fbe0a9d",
+    "text": "Fiscal Year Month Ending must be present. If",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "6364e68e75c549f85188693d013e5d34",
+    "text": "is present, the Business Operational Date must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "084ab07f1bf7c867e5ca7d26e0d166dc",
+    "text": "or later. If",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "800991b02a4214be81ebe4f002ef5f31",
+    "text": "is present, the Business Operational Year must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "084ab07f1bf7c867e5ca7d26e0d166dc",
+    "text": "or later. If",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "388a856d00d1d1893a3404c2da31e8b9",
+    "text": "is present,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "461caa89fe500e6d61e225a5d3414cf4",
+    "text": "cannot be present.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "c2f5691a6ea29bb8c4f07285aeab5d60",
+    "text": "Valid values are 1, 4, or 6.",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "13f04758138143188bbd43974948a6fb",
+    "text": "Valid value is 1.",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "54d4c58dde54533ab8bac2bbc9c031df",
+    "text": "Valid values are",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "e4da948764c75429e43c53f441adc000",
+    "text": "If present,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "046e46544adcb760211c76a11d4ad49f",
+    "text": "cannot be set,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "6d35e9f5ee2407b38e39643aaff0ef92",
+    "text": "must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "697d7a2c43e93e6650fa8777750bb5a6",
+    "text": ", and Railroad Retirement Number must be present.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d1a7b86eda5bafee54cd71ead09962da",
+    "text": "Valid value is 1. If 1 is present, the Nonresi- dent Alien Start must be input, and must be later than 121984.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d0ee0803c2e211a7c0c00a3ca0396f8f",
+    "text": "Valid values are A, F, G, H, I, M, S, or W.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "168ec2b90abad4d8e4949b07bc99891c",
+    "text": "Exhibit 2.4.8-2 (Cont. 7) (01-01-2014) ESIGN Input Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "980e3859c9e6a24e50c347aff8caaa3d",
+    "text": "ESIGN Input Format If Emp. Code is 941-FR or 944-FR must be 943-FR must be 940-FR may be A 01 N/A Must be 1 F 02 N/A N/A G 01 N/A Must be blank I 01 If present 1 3 M 01 N/A Must be 1 or 2 S 01 If present 1 Must be blank W 01 or 07 1 or 7 Must be blank Note: *either 941-FR, 944-FR or 943-FR must be present Note: *For federal, state or local government entities employment code F or G can be input whether or not any 94X ﬁling requirement is present. Type of entity must be 14 or 15 and MFI must be B. Note: For employment code H, a SSN or ITIN must be present. No ﬁling requirement can be present. 41 29–30 RETURN IDENTITY CODE This ﬁeld identiﬁes the return or document causing the new EIN to be assigned, This ﬁeld is required if a Notice Information Code of A, B, J, P, or R is input. (This information is recorded on the taxpayer notice). Valid Return Identity Codes are listed below. (Please note that most indicate the MFT of the return or document, but others represent the Document Code associated with the return). Note: Return ID Code of “00” is to be used if a form appears that is not listed here.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "cd6422b11b79ca657b88f4bffa756b10",
+    "text": "Emp. Code 941-FR or 944-FR must be 943-FR must be 940-FR may be 01 N/A Must be 1 02 N/A N/A 01 N/A Must be blank 01 If present 1 3 01 N/A Must be 1 or 2 01 If present 1 Must be blank 01 or 07 1 or 7 Must be blank Note: *either 941-FR, 944-FR or 943-FR must be present",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "986f5e50469edd5c9658b4ee79d7c440",
+    "text": "For employment code H, a SSN or ITIN must be present. No ﬁling requirement can be present.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "cad38079d757734a14e177efc0131ba6",
+    "text": "RETURN IDENTITY CODE This ﬁeld identiﬁes the return or document causing the new EIN to be assigned, This ﬁeld is required if a Notice Information Code of A, B, J, P, or R is input. (This information is recorded on the taxpayer notice). Valid Return Identity Codes are listed below. (Please note that most indicate the MFT of the return or document, but others represent the Document Code associated with the return).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "01de68df8d90a1cda8e632d0e0b93bba",
+    "text": "This ﬁeld identiﬁes the return or document causing the new EIN to be assigned, This ﬁeld is required if a Notice Information Code of A, B, J, P, or R is input. (This information is recorded on the taxpayer notice). Valid Return Identity Codes are listed below. (Please note that most indicate the MFT of the return or document, but others represent the Document Code associated with the return).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "eb6d087796d6d4ac40c10858d91ec450",
+    "text": "Return or Document Return ID Code Return or Document Return ID Code 11C 63 2758 E5 706GS(D) D6 3520 68 706GS(T) T6 3520–A 42 720 03 3672 72 730 64 4461 61 940 10 4461A 62 941 01 4876A 07 941E E1 5227 37 943 11 5300 53 943SS S1 5301 50 944 14 5302 52 945 JN 5303 58 990 67 5304 54 990BL BL 5306 56 990C 33 5307 57 990EZ Z6 5309 59 990PF 44 5310 55 990T 34 5330 35 1040NR N2 5500 74 1041 05 5500C 7C 1041A 36 5500EZ 7E 1042 12 5500R 7R 1065 06 7004 E2 1065B 06 8038 46 1066 66 8109 08 1120 02 8279 82 1120A A1 8288 18 1120C C1 8716 87 1120F F1 8736 83 1120H H2 8800 88 1120L L1 8804 84",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "2c5cafc314783f3b859a3650d9e328ec",
+    "text": "Exhibit 2.4.8-2 (Cont. 9) (01-01-2014) ESIGN Input Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "e61ad24fcc5eeb97ec3233c675f912e0",
+    "text": "Return or Document Return ID Code Return or Document Return ID Code 2553 53 8868 E8 1120M M1 8871 PL 1120ND N1 8872 PL 1120PC P3 CT–1 09 1120POL P1 Household Employee ZZ 1120REIT R2 NA Not Applicable 1120RIC R1 Other 00 1120SF S3 PC Phone Call 2290 60 SGRI SG 42 54–59 RETURNED ID TAX PERIOD This ﬁeld indicates the tax period of the return or document that is causing the new EIN to be issued. This ﬁeld is required if Notice Information Code is A, B, J, P, or R. The date must be entered in “YYYYMM” format. “ MM” must be 01–12, “YYYY” must be greater than 1913 but not greater than current year plus one (1). Exception: Notice Information Code “D” may be followed with either PC (Phone Call), NA (Not Applicable, i.e., none of the Return Identity Codes apply to the situation causing the EIN to be issued) or not further notice",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "e8067142e13f72fa4c5f5f0dcfa2234a",
+    "text": "This ﬁeld indicates the tax period of the return or document that is causing the new EIN to be issued. This ﬁeld is required if Notice Information Code is A, B, J, P, or R. The date must be entered in “YYYYMM” format. “ MM” must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "abbce858f9c5266bc20479f071c510b8",
+    "text": ", “YYYY” must be greater than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "721854b8b814258fab133e6fa84dc98c",
+    "text": "but not greater than current year plus one (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "c4b2896a2081395e282313d6683f07c8",
+    "text": ").",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "468562d36de81c021ad736f13bafbdc8",
+    "text": "Exception: Notice Information Code “D” may be followed with either PC (Phone Call), NA (Not Applicable, i.e., none of the Return Identity Codes apply to the situation causing the EIN to be issued) or not further notice information. The Return Identity Tax Period should also be consistent with the Return Identity Code as follows:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "2cfd08104f5562a781aa0a3a01db8756",
+    "text": "If Return Identify Code is and MFI is “MM” of Tax Period must be 00, 02, 05, 06, 08, 12, 14, 46, 53, 56, 60, 63, 64, 66, 68, 82, 83, 87, 88, A1, E2, E5, E8, F1, H2, L1, M1, N1, P1, P3, PL, R1, R2, B 01–12 01, 03, E1 B 03, 06, 09, or 12 09, 10, 11, 42, S1, JN B 12 00, 07, 18, 33, 34, 37, 44, 50, 52, 53, 54, 55, 56, 57, 58, 59, 61, 62, 67, 68, 72, 74, 82, 83, D6, E2, E5, E8, N2, T6, 7C, 7E, 7R, SG, Z6 B 01–12 00, 35, 74, 7C, 7E, 7R P 01–12",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "b9d449186739e414d3f5752fca7a1bda",
+    "text": "Exhibit 2.4.8-2 (Cont. 11) (01-01-2014) ESIGN Input Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "afa1f6ebd53ed1deea7800fedea50865",
+    "text": "Input Format 43 71–73 PLAN-NUM Indicates to Valid Form Form Form Form Form 17 44 15–20 BUSINESS OPERA- TIONAL DATE This 1041, Filing be in 01–12, but not (1). If can only. 45 39–44 WAGES PAID DATE The 944 or entered. 1041 be in 01–12, but not (1). Date. 46 66 DUPLICATE ADDRESS An “N” Name the current temporary information the current 47 88 OTHER NON PROFIT N — NON 18 48 11–15 EMPLOYEES A ﬁve-digit employees 49 32 REASON APPLIED Indicates for an",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "c73bcb2476e62c562596b9274f7586f4",
+    "text": "to distinguish Forms",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "197dee2dc4b2d828e0a50df466ca65ca",
+    "text": "and Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "dae8afa87203ce2fef138c86dd279a01",
+    "text": "Valid values are: Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "2e0e960ab3204127b1dce399c9984c81",
+    "text": "Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "f0540cc8c2df7a652ad6c9cf3d20a4d4",
+    "text": "–G",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "2e0e960ab3204127b1dce399c9984c81",
+    "text": "Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "8b02a2c555cdf2311742fd6e1ef1ccc5",
+    "text": "–GC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "2e0e960ab3204127b1dce399c9984c81",
+    "text": "Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "e1032339794b869cd87e28419f698879",
+    "text": "–T",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "2e0e960ab3204127b1dce399c9984c81",
+    "text": "Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "6b2bc9aaf143d22645b466abd35d1b4e",
+    "text": "This ﬁeld must be input if an",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "39d9f40b96edc23c863e999a482f71a7",
+    "text": "C,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "005400432e05713a466c20c6bc8567e2",
+    "text": "or CT–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "fb8c772a978962a38dc432a571fb4882",
+    "text": "Filing Requirement is present. The date must be in “MMYYYY” format. “MM” must equal",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "abbce858f9c5266bc20479f071c510b8",
+    "text": ", “YYYY” must be greater than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "721854b8b814258fab133e6fa84dc98c",
+    "text": "but not greater than current year plus one (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "2cf709247401195ab6ce021f483a9cf5",
+    "text": "). If this ﬁeld is not required input, the data can always be input for information purposes only. The ﬁeld must be input if a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "bfd744376d80db5b46bc66e9117fbd5d",
+    "text": "Filing Requirement has been entered. This ﬁeld must be input when a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "48edc533d458c3c3ad26314b248c941f",
+    "text": "Filing Requirement =",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "e02f8d8fad7609327bf507bd409f4223",
+    "text": "The date must be in “MMYYYY” format. “MM” must equal",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "abbce858f9c5266bc20479f071c510b8",
+    "text": ", “YYYY” must be greater than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "721854b8b814258fab133e6fa84dc98c",
+    "text": "but not greater than current year plus one (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "05c2a36fc76f3f1c6c6e32cbe979d114",
+    "text": "). Must not be prior to Business Operational Date. An “N” in this position indicates the In Care of Name Line, the Mailing Street Address and the Mailing City, State and Zip Code on the current screen should be saved to a temporary ﬁle. Input of a “Y” indicates the information saved to the temporary ﬁle from the previous screen should be used for the current screen. N — Taxpayer does not have another EIN (Default)Y—Taxpayer has applied for an EIN for NON PROFIT entities. A ﬁve-digit number indicating the number of employees employed by the business. Indicates the reason the taxpayer is applying",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "6b2bc9aaf143d22645b466abd35d1b4e",
+    "text": "This ﬁeld must be input if an",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "39d9f40b96edc23c863e999a482f71a7",
+    "text": "C,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "005400432e05713a466c20c6bc8567e2",
+    "text": "or CT–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "fb8c772a978962a38dc432a571fb4882",
+    "text": "Filing Requirement is present. The date must be in “MMYYYY” format. “MM” must equal",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "abbce858f9c5266bc20479f071c510b8",
+    "text": ", “YYYY” must be greater than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "721854b8b814258fab133e6fa84dc98c",
+    "text": "but not greater than current year plus one (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "c847508f0dbba17f079255c57a2824e0",
+    "text": "). If this ﬁeld is not required input, the data can always be input for information purposes only.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "2f05d4f0b8d93c0dd431fe2af1b3204a",
+    "text": "The ﬁeld must be input if a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "bfd744376d80db5b46bc66e9117fbd5d",
+    "text": "Filing Requirement has been entered. This ﬁeld must be input when a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "48edc533d458c3c3ad26314b248c941f",
+    "text": "Filing Requirement =",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "e02f8d8fad7609327bf507bd409f4223",
+    "text": "The date must be in “MMYYYY” format. “MM” must equal",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "abbce858f9c5266bc20479f071c510b8",
+    "text": ", “YYYY” must be greater than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "721854b8b814258fab133e6fa84dc98c",
+    "text": "but not greater than current year plus one (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "86ba726cbf36839ce29846af015ea569",
+    "text": "). Must not be prior to Business Operational Date.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "2f05d4f0b8d93c0dd431fe2af1b3204a",
+    "text": "The ﬁeld must be input if a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "bfd744376d80db5b46bc66e9117fbd5d",
+    "text": "Filing Requirement has been entered. This ﬁeld must be input when a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "48edc533d458c3c3ad26314b248c941f",
+    "text": "Filing Requirement =",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "e02f8d8fad7609327bf507bd409f4223",
+    "text": "The date must be in “MMYYYY” format. “MM” must equal",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "abbce858f9c5266bc20479f071c510b8",
+    "text": ", “YYYY” must be greater than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "721854b8b814258fab133e6fa84dc98c",
+    "text": "but not greater than current year plus one (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "72602a8e7dfb66e397061cf83517dea6",
+    "text": "). Must not be prior to Business Operational Date. An “N” in this position indicates the In Care of Name Line, the Mailing Street Address and the Mailing City, State and Zip Code on the current screen should be saved to a temporary ﬁle. Input of a “Y” indicates the information saved to the temporary ﬁle from the previous screen should be used for the current screen. N — Taxpayer does not have another EIN (Default)Y—Taxpayer has applied for an EIN for NON PROFIT entities.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "b4318a4ba7708c9cf288e3d2a073d274",
+    "text": "An “N” in this position indicates the In Care Name Line, the Mailing Street Address and the Mailing City, State and Zip Code on the current screen should be saved to a temporary ﬁle. Input of a “Y” indicates the information saved to the temporary ﬁle from the previous screen should be used for the current screen.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "51800116634579d54a3b81811ad15711",
+    "text": "N — Taxpayer does not have another EIN (Default)Y—Taxpayer has applied for an EIN for NON PROFIT entities.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "ae5f5a9adb4b9a4b81ae2132e0178a8e",
+    "text": "Indicates the reason the taxpayer is applying for an EIN.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "e0bace0d9ac2b2da89b4bb52afe93341",
+    "text": "tions4—Other5—Banking purpose 6 — Changed type of organization 7 — Purchased going business 8 — Created a trust 9 — Created a pension plan 50 37–46 PHONE The 10-digit telephone number of the business owner. 51 59 PRIOR EIN N — Taxpayer does not have another EIN (Default)Y—Taxpayer has applied for an EIN for either this or another business. 52 72-80 PRIOR-EIN Enter prior EIN from line 18 of Form SS-4. 19 53 22–43 BUSINESS LOCATION COUNTY County where business is located. 54 62–67 BUSINESS LOCATION STATE State where business is located. 55 77 POLITICAL ORG A value of period or 0 means not a 527 political org. A value of 1 indicates a 527 political org. 20 56 17–18 TYPE OF ENTITY This is a required entry. Type of Entity Code Meaning 01 Sole Proprietor 02 Partnership 03 Corporation 04 Personal Service Corp. 05 Church or Church Controlled Organization 06 Other nonproﬁt Organization 07 Other 08 Estate 09 Plan Administrator",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "5fa9363c030b8f82f5d34497ecec910c",
+    "text": "County where business is located.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "63e9515298b610926e77652bf9cd3eee",
+    "text": "Command Codes ESIGN and BSIGN 2.4.8",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "3c6a4c39cade6db9a4263125c4f06a24",
+    "text": "Exhibit 2.4.8-2 (Cont. 13) (01-01-2014) ESIGN Input Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "e0406486038482ae82d1fd3c66114245",
+    "text": "ESIGN Input Format 11 National Guard 12 Farmer’s Cooperative 13 REMIC 14 State/Local government 15 Federal government/military 57 44–63 REMARKS Enter remarks from line 9a of Form SS-4 58 77 LLC INDICATOR Valid values: S (Single), M (Multi), and blank. 21 59 11-12 PRINCIPAL BUSINESS ACTIVITY CHECKBOX Valid Values: Note: See Below Principal Business Activity Codes 1 Construction 2 Real estate 3 Rental & Leasing 4 Manufacturing 5 Transportation & Warehousing 6 Finance & Insurance 7 Health Care & Social Assistance 8 Accommodation & Food Service 9 Other (specify) 10 Wholesale (agent/broker) 11 Wholesale (Other) 12 Retail 60 27-41 PRINCIPAL BUSINESS ACTIVITY Required ﬁeld. Enter remarks from line 16 of Form SS-4. 61 60–79 REASON FOR APPLI- CATION MESSAGE Enter remarks from line 10 of Form SS-4 22 62 24–73 PRINCIPAL MERCHAN- DISE SOLD OR SERVICES PROVIDED Required ﬁeld. Enter remarks from line 17 of Form SS-4. 23 63 9–79 REMARKS Required input if Notice Information Code is “B” and optional under other conditions. Valid characters are all keyboard characters except =,>, <, ] and [.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "7a0a512d7410488eca4f232a517e1b91",
+    "text": "Required input if Notice Information Code is “B” and optional under other conditions. Valid characters are all keyboard characters except =,>, <, ] and [.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "ed88f19c997d55fea5c7375335f9e8ae",
+    "text": "Exhibit 2.4.8-2 (Cont. 14) (01-01-2014) ESIGN Input Format",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "d57400e7eee6eded6a49ff2611d6faab",
+    "text": "If Notice Information Code is “B” (Change of Business), information concerning the “ changed from” entity should be entered, es",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "3b776563ff086521ec049d642f9df450",
+    "text": "pecially EIN and name. In other situations, any useful information concerning the circum",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "bd57180e257541f14a7085f7df67781e",
+    "text": "stances causing an EIN to be issued may be entered here.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "9449331cc503897e202dfa18a10fc3f9",
+    "text": "ESIGN with Foreign Address — Example — this example deals with the input of entity data with a foreign address. The instructions below concern only those ﬁelds related to the input of the foreign address itself. Speciﬁc Notes:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "7ca5d4e00b642ec76c3dc775b2274bea",
+    "text": "a. The foreign country is entered in city ﬁeld on the line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "53ba1a3c5ecb96c961df2dfd9e7df30f",
+    "text": "b. The foreign state, if present, will be entered in the Street Address ﬁeld on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "80aff29acfb7ba5df8cc18335c6271ec",
+    "text": "If a foreign state not present, the city may be entered in the Street Address ﬁeld. c. The city is entered on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "3c850a695bbb3977a0b2124360af0d9f",
+    "text": ", if the foreign state is not present. d. The street address is entered in the Foreign Street Address, line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "5c7089a1a2563feaebaa60ca8194f63e",
+    "text": "e. A Zip Code will not be entered for foreign addresses. f. When entering any foreign address change, the data in city-state ﬁeld must be followed by a comma, and (instead of a state abbreviation) a period (.), for validation purposes.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "ac69b92d622ead3c5c3f8ee4c8fcac11",
+    "text": "When entering any foreign address change, the data in city-state ﬁeld must be followed by a comma, and (instead of a state abbreviation) a period (.), for validation purposes.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "5f028ffb9e309e3fa36baa4336cc3963",
+    "text": "E T S B N N M N S Y - S 1 1E S BT S TR A TR AT S T T S TR TS ]3 T PR ORI | T< o TVY SrATE -8 PORE G- COUE Y NETERLDS, STi LOCNTION- B _ODREES EREi LoCATIoN-CrTY STAre T TyT4 e T SLABCDS . PO S USRS o e~ STCTER SH N ST i15 Fors smopamm-sei o= - eSO E vy BRE-i 316 foricE: Tivo-Con. AR5y RETURN- I SA PERLODS YYD PN 5S T Tioas [ 2125 | 3135 | dies | sicss | eices [ 7180",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "116961a79d61124efede3260ab282029",
+    "text": "Input Display.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "630ec3acee8f6ed9be24f7b8e32997cf",
+    "text": "Line Elem. Position Element Name Description 1 1 1–6 COMMAND CODE ESIGND",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "886350762948ceeac55e23e01bc800c4",
+    "text": "Exhibit 2.4.8-5 (01-01-2001) ESIGNT Input Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "29cb8779bde99471b8a4d4669b4f9cd1",
+    "text": "Input Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "04bdf70324eb1dd9c92b923b8a359702",
+    "text": "Line Elem. Position Element Name Description 1 1 1–6 COMMAND CODE ESIGNT 2 7–10 SEQUENCE NUMBER Must be present and must match the sequence number on the TIF account. Enter the ERAS Sequence Number ﬁeld from the Command Code ENMOD display.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "eef5fba84493cfa1f590dcf17cb3f11f",
+    "text": "Must be present and must match the sequence number on the TIF account. Enter the ERAS Sequence Number ﬁeld from the Command Code ENMOD display.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "29cb8779bde99471b8a4d4669b4f9cd1",
+    "text": "Input Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "1750a69a32b294213e410a46841f8d2f",
+    "text": "T T s B s i G s 5 s em s e|G TR 56 0T S 03655 BT A5 oA S ST 45 03626185Tz i2 iz50 Im nH 15e ei 55 io 5101 10|111 im2 2]a1 1el i150 it}el i171 1wi io1 1)a1 20|211 121221 22|B 122a1 12TS e T e T e 30 SIS 5 356 a0 A7 |S s fite b g5 > 1w > 414y > 589 > 6o > w0 |",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "a6c92c0744773dfab7f912f2845ecac5",
+    "text": "=IR AT e PYE PRIESTEE  s i s o2SR RLE 6 A ZHSETER0!Tio%h > o169 > T80 |",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "c4a3619b12ae0c1f6bc7a79a9836399e",
+    "text": "Line Elem. Position Element Name Description 1 1 1–6 COMMAND CODE ESIGNU",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "7c44f9db41262e7379ccbc3bc04f04d0",
+    "text": "Input Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "4678936bd0df10e333811831ed491238",
+    "text": "5 5 s s wm s Gh s s s ae s| 7345650735 0T34 BT NS T T34 TS0 23458 80234 B0 TZ S 0.EhIs izit5i\"sit}o)12|1iiiii15|120212223]i| S A R S T 5 S0 S a0 258 S IS0 |T8 18> 29 > 3w > ALY > 6w > 6w > nwo |",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "85b1e4a00e3c983619f14972a01e66c1",
+    "text": "Line Elem. Position Element Name Description 1 1–6 COMMAND CODE BSIGN 2 7–8 EIN PREFIX CODE Two-digit numeric EIN Preﬁx code (formerly district office). 3 10 SERIES Valid values are: R — Regular series 6 — Six-million series 4 12–14 NUMBER OF EINS Left Justiﬁed. Number of EINs requested. Valid values are: 10–100 or 200. Internet preﬁx codes 20 and 26 may also input 100,000. 5 1–53 BANK IDENTIFICATION Name of institution to which these EINs are",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "7c06e38e6ef289bd24c54cf38e34367f",
+    "text": "Output Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "9e007399a03de519d38b292026e7b40a",
+    "text": "Line Elem. Position Element Name Description 1 1 1–6 COMMAND CODE BSIGN 2 7–8 EIN PREFIX CODE Two-digit numeric EIN Preﬁx code. 3 10 SERIES Valid values are: R — Regular series 6 — Six-million series 4 12–14 NUMBER OF EINS Number of EINs requested. 2 5 1–53 BANK IDENTIFICATION Name of institution. 5 6 15–24 BEGINNING EIN - edited First EIN assigned. 6 7 15–24 ENDING EIN - edited Last EIN assigned.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-008--2022-11-23.pdf",
+      "page_number": 42
+    }
+  }
+]

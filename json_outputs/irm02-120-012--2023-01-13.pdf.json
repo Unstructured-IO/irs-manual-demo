@@ -1,0 +1,1487 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "3f6c8ed0cd9b9c555c354b9e03e86a38",
+    "text": "This transmittal revises IRM Part 2 Chapter 120 Engineering, Section 12 Naming Data Element(s)/Object(s) dated March 8, 2022 due to 508 compliance mandated requirement.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1e025ecc8c318aa30f5b9ea2bd8e83f3",
+    "text": "Updated all diagrams to be 508 compliant.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "6447237d416660c1afc6ac5d047f6c66",
+    "text": "IRM 2.120.12 dated March 8, 2022 is superseded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a79c82dcd7eac6b029a715a03f6c8fa2",
+    "text": "The Naming Data Elements Process Description is applicable to all Organizations responsible for requesting Naming Data Element(s)/Object(s) service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "a44d770c7537e9e4619fa34360d95967",
+    "text": "Naming Data Element(s)/Object(s) 2.120.12",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9dcbadcdba3856e3f99e65dd8bb6b849",
+    "text": "and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6432c2cbab105430aa981c0420e4ac82",
+    "text": ") Overview - The objectives of this Naming Data Element(s)/Object(s) Process to provide a set of related activities that accomplish a common goal of Naming Data Element(s)/Object(s). The process deﬁnition laid out in this document further breaks down these Activities into Tasks, each of which have a complete set of attributes deﬁned such as data and tool speciﬁcations and the role(s) responsible for executing the tasks. The document also includes process goals and objectives, metrics, role deﬁnitions, policies and other process related butes. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f6258c8807fab9d534e1496d30f2bc3e",
+    "text": ") Purpose - This IRM contains procedural steps for the Naming Data Element(s)/ Object(s) Process within IRS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "bbe465603c038e1341be76709a7d3e8c",
+    "text": ") Audience - This process description is applicable to all projects following the Enterprise Life Cycle (ELC) and customers who request data management services through the new Change Management KISAM system, or the O",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "7a1b1850245e45c50d0a34d02dc3afd7",
+    "text": "ine",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "286074e3f0b8c27e30109de624f80fcb",
+    "text": "Service. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4d610dae16f1b2275ef9a4e589394e49",
+    "text": ") Policy Owner - The ACIO, Enterprise Services is responsible for overseeing aspects of the Naming Data Element(s)/Object(s) Process. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "29bf22893bd58ac010428fb33adb6e16",
+    "text": ") Program Owner -The Chief of Process Maturity Group under the Director of Enterprise Services, Solution Engineering Division is responsible for the admin- istration, procedures, and updates related to the Naming Data Element(s)/ Object(s) IRM. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0d68cc2ccc9e58beba523eee357e3340",
+    "text": ") Primary Stakeholders - IT Organizations and Projects that have requirements for naming data elements. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c53b978b903cd4d796372a8dfb387254",
+    "text": ") Program Goals - This IRM provides the fundamental knowledge and proce- dural guidance for employees who request the Naming Data Element(s)/ Object(s) Services from Data Engineering Group. By following the processes and procedures of this IRM, employees will achieve the given purpose for data related projects. . (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1dab01c0e0312613d502e1d8768f2098",
+    "text": ") The goal of Naming Data Elements is to support the business goal for data naming standardization by ensuring that the EDSG is followed service wide. Naming Data Elements will be divided into two parts: one is Naming Business Data Elements, the other is Naming Technical Data Elements. The objectives of Naming Data Elements are: • Standardized data names facilitating data sharing, data consistency, communication between organizational areas in the Service. • Standardized data names assisting the data administration effort, by making it possible to eliminate data redundancies and inconsistencies. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5202cf8bf9baf3247449b58427d8c17c",
+    "text": ") Naming Data Element(s)/Object(s) Process is the process responsible for ensuring that the Enterprise Data Standards and Guidelines (EDSG), General Enterprise Naming and Deﬁnition Standards and Guidelines, Data Model Class and Attribute Standards and Guidelines and the Special Tools and Techniques are followed when creating Data Elements (Technical) and Data Objects (Business) ensuring data naming standardization. Element(s)/Object(s)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3660315a9af3df255d8f19ab077e4797",
+    "text": "page",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a3d031d6a6f8c17135e8ad65db14bfcc",
+    "text": "Policy Owner - The ACIO, Enterprise Services is responsible for overseeing all aspects of the Naming Data Element(s)/Object(s) Process.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8b2e02aee25f68ccfd01b559b834790b",
+    "text": ") Naming Data Element(s)/Object(s) Process is the process responsible for ensuring that the Enterprise Data Standards and Guidelines (EDSG), General Enterprise Naming and Deﬁnition Standards and Guidelines, Data Model Class and Attribute Standards and Guidelines and the Special Tools and Techniques are followed when creating Data Elements (Technical) and Data Objects (Business) ensuring data naming standardization.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0249d7d6df5c917de3a8425012f9f99b",
+    "text": "(1) Naming Data Element(s)/Object(s) Process is the process responsible for ensuring that the Enterprise Data Standards and Guidelines (EDSG), General Enterprise Naming and Deﬁnition Standards and Guidelines, Data Model Class and Attribute Standards and Guidelines and the Special Tools and Techniques are followed when creating Data Elements (Technical) and Data Objects (Business) ensuring data naming standardization.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "37455f08fcdaf7f311aba60c9f0dee11",
+    "text": ") The process goal describes a speciﬁc purpose or achievement toward which the efforts of the process are directed. Each process has a speciﬁc focus and when combined with the other processes, forms a comprehensive framework for delivering and managing services. • To support the business goal for data naming standardization by ensuring that the all Data Naming Standards and Guidelines are followed service wide. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "b6e324ad7e3efbff18bda8a251983b00",
+    "text": ") Process objectives describe material outcomes that are produced or achieved by the process. The following is a list of objectives for this process: • Standardized data names facilitate data sharing, data consistency, and communication between organizational areas across the enterprise. • Standardized data names assist the data administration effort, by making it possible to eliminate data redundancies and inconsistencies. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9c4cf0ab5703f3b30e8cfb0ba71c0636",
+    "text": ") The Project and Data Engineering Group develop a data model to establish the data set scope and begin to identify required data objects. The Enterprise Logical Data Model (ELDM) is the framework for developing standard data model. Starting from a data model that aligns with the ELDM the data model evolves by applying the EDSG (Enterprise Data Standards and Guidance) and repeat- able methodologies in the assignment of data names. The development of data names follows a methodology that includes class words, and incorporates standard abbreviations and acronyms into each of the column names to achieve a standard physical design and drive standardization and reuse. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "93b6f5d08c7cae9f2d6e6cb0d20379cb",
+    "text": ") All proposed changes to this document must be submitted in writing, with sup- porting rationale, to the Chief, Enterprise Service, Solution Engineering, Process Maturity Group. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "18e9bb6cd91763aa1d1d5fd614b407cd",
+    "text": ") Each process deﬁnes at least one role. Each role is assigned to perform speciﬁc tasks within the process. The responsibilities of a role are conﬁned the speciﬁc process. They do not imply any functional standing within the hierarchy of an organization. For example, the process manager role does imply the role is associated with or fulﬁlled by someone with functional man- agement responsibilities within the organization. Within a speciﬁc process, there can be more than one individual associated with a speciﬁc role. Addition- ally, a single individual can assume more than one role within the process although typically not at the same time. Name Description Data Engineer/Analyst The Data Engineering Organization is responsible for establishing and enforcing Data Naming Standards.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "fe595045739e556d2c7d4cc70273f940",
+    "text": "Solution Engineering",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "56031663384e82e4a18230673c54f2f2",
+    "text": "Process objectives describe material outcomes that are produced or achieved by the process. The following is a list of objectives for this process:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e744e6c9dd233b7389aed1519cbe0aff",
+    "text": "porting rationale, to the Chief, Enterprise Service, Solution Engineering, Process Maturity Group. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6a026320796a2bf1a7c9cbed1ee2db30",
+    "text": ") Each process deﬁnes at least one role. Each role is assigned to perform speciﬁc tasks within the process. The responsibilities of a role are conﬁned to the speciﬁc process. They do not imply any functional standing within the hierarchy of an organization. For example, the process manager role does not imply the role is associated with or fulﬁlled by someone with functional man- agement responsibilities within the organization. Within a speciﬁc process, there can be more than one individual associated with a speciﬁc role. Addition- ally, a single individual can assume more than one role within the process although typically not at the same time.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a170136126374632c0f4bd4a50e10e5d",
+    "text": "Name Description Data Engineer/Analyst The Data Engineering Organization is responsible for establishing and enforcing Data Naming Standards.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "2b73dfd484f6b73a4d54e85718f0fc59",
+    "text": "Project Office Project Office is responsible for proposing new Data Elements following EDSG Naming and Design Rules (NDR) and checking the Metadata Dictionary to see if the Data Element already exists and can be re-used or if a new Data Element needs to be created. Management (1) Policies outline a set of plans or courses of action that are intended to inﬂuence and determine decisions or actions of a process. Policies provide an element of governance over the process that provides alignment to business vision, mission and goals. Process Management Statement: The Naming Data Element(s)/Object(s) process will have a single Process Owner and a separate Process Manager respon- sible for implementation and ensuring adherence to the process. The process will be reviewed regularly to ensure that it continues to support the business require- ments of the enterprise. The process will be designed and developed based on ROI to the business. Process metrics will be focused on providing relevant information as opposed to merely presenting raw data. People : Statement: Roles and responsibilities for the process must be clearly deﬁned and appropriately staffed with people having the required skills and training. The mission, goals, scope and importance of the process must be clearly and regularly communicated by upper management to the staff and business customers of IT. All IT staff (direct and indirect users of the process) shall be trained at the appropriate level to enable them to support the process. Rationale: It is imperative that people working in, supporting or interacting with the process in any manner understand what they are supposed to do. Without that understand- ing Naming Data Element(s)/Object(s) process will not be successful. Process: Data Element(s)/Object(s) 2.120.12 page 3 74891V (01-13-2023) Internal Revenue Manual 2.120.12.1.4",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d687026487e26f9dad7615e239f6bd95",
+    "text": "Project Office Project Office is responsible for proposing new Data Elements following EDSG Naming and Design Rules (NDR) and checking the Metadata Dictionary to see if the Data Element already exists and can be re-used or if a new Data Element needs to be created. Data Element(s)/Object(s) 2.120.12 page",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "4e61634257a8b5f063f2d53368d4a9bd",
+    "text": "2.120.12.1.4(01-13-2023) Program Management and Review",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32346847be770b12c86300caee7d8945",
+    "text": "The Naming Data Element(s)/Object(s) process will have a single Process Owner and a separate Process Manager respon",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3702d54dc39cb639725f91255c9aa572",
+    "text": "sible for implementation and ensuring adherence to the process. The process will be reviewed regularly to ensure that it continues to support the business require",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b939eee2db3aab1a70c4fb5375a87cac",
+    "text": "ments of the enterprise. The process will be designed and developed based on ROI to the business. Process metrics will be focused on providing relevant information as opposed to merely presenting raw data.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "6a4d90e33edf3676909dceb343ee2ef3",
+    "text": "Roles and responsibilities for the process must be clearly deﬁned and appropriately staffed with people having the required skills and training. The mission, goals, scope and importance of the process must be clearly and regularly communicated by upper management to the staff and business customers of IT. All IT staff (direct and indirect users of the process) shall be trained at the appropriate level to enable them to support the process.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d16ac35acc658507f07c5a265f3f9f2d",
+    "text": "It is imperative that people working in, supporting or interacting with the process in any manner understand what they are supposed to do. Without that understand",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "cbf681f1d2598832a93aff9f6655d59a",
+    "text": "ing Naming Data Element(s)/Object(s) process will not be successful.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ef9ed09e23d62d69f91c5f2efe12563d",
+    "text": "Statement: Modiﬁcations to the Naming Data Element(s)/Object(s) process must be approved by the Process Owner. The design of the process must include appro- priate interfaces with other processes to facilitate data sharing, escalation and workﬂow. The process must be capable of providing data to support real-time require- ments as well as historical/trending data for overall process improvement initiatives. The process must be fully documented, published and accessible to the various stakeholders of the process. The process will be reviewed on a periodic basis in order to ensure it continues to support or- ganizational goals and objectives (continuous improvement). The process must include Inputs, Outputs, Controls, Metrics, Activities, Tasks, Roles and Re- sponsibilities, Tool and Data requirements along with documented process ﬂows. The process will be kept straight forward, rational, and easy to understand. Rationale: The process must meet operational and business requirements. Technology and Tools:",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "99377cd4087ae92c058f582b8487e7cf",
+    "text": "Modiﬁcations to the Naming Data Element(s)/Object(s) process must be approved by the Process Owner. The design of the process must include appro",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "fef70142002e5a590ed8d615919aa621",
+    "text": "priate interfaces with other processes to facilitate data sharing, escalation and workﬂow. The process must be capable of providing data to support real",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "6a7be78a8949b8aacba4a0cdd006765f",
+    "text": "time require",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "59ed7c54ed5691092e19b9107c4aef1e",
+    "text": "ments as well as historical/trending data for overall process improvement initiatives. The process must be fully documented, published and accessible to the various stakeholders of the process. The process will be reviewed on a periodic basis in order to ensure it continues to support or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "b8d3955db5ef18b2ba78bae0f3262654",
+    "text": "ganizational goals and objectives (continuous improvement). The process must include Inputs, Outputs, Controls, Metrics, Activities, Tasks, Roles and Re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "5b4345a155bc4d37a787ed86a2dc37a6",
+    "text": "sponsibilities, Tool and Data requirements along with documented process ﬂows. The process will be kept straight forward, rational, and easy to understand. The process must meet operational and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "db046d5168d6b45fccfac92b2cdd9dc0",
+    "text": "Statement: All tools selected must conform to the en- terprise architectural standards and direction. Existing in-house tools and tech- nology will be used wherever possible, new tools will only be entertained if they satisfy a business need that cannot be met by current in-house tools. The selection of supporting tools must be process driven and based on the require- ments of the business. Selected tools must provide ease of deployment, cus- tomization and use. Automated workﬂow, notiﬁcation and escalation will be deployed wherever possible to minimize delays, ensure consistency, reduce manual inter- vention and ensure appropriate parties are made aware of issues requiring their attention. The tools used by this process are the following: • IBM InfoSphere Business Glossary (Metadata Dictionary (MDD) • Enterprise Data Standards and Guidelines (EDSG) • General Enterprise Naming and Deﬁnition Standards and Guidelines • Data Model Class and Attribute Standards and Guidelines • Data Modeling Standards (relational database) Guidelines • Special Tools and Techniques ( including Extensible Markup Language (XM))) • Authorized Abbreviations and Acronyms for Physical Data Model Class, XML, and Attribute Names Rationale: Technology and tools should be used to augment the process capabilities, not become an end themselves. Data Element(s)/Object(s) 2.120.12 page",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "272fa1b9eac00f3661168414c81e98c6",
+    "text": "All tools selected must conform to the en",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4b2a113ba9fed723b68fc0c8b8067e53",
+    "text": "terprise architectural standards and direction. Existing in",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "ddffd26efd05b0a361a3b570ace8a826",
+    "text": "house tools and tech",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8193381e2f6cbcf896d065ff6bcd243a",
+    "text": "nology will be used wherever possible, new tools will only be entertained if they satisfy a business need that cannot be met by current in",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "88b290416302c880918932dadd67d9e4",
+    "text": "house tools. The selection of supporting tools must be process driven and based on the require",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "49d3b28fd422e6c453110edc08584a50",
+    "text": "ments of the business. Selected tools must provide ease of deployment, cus",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a393eb8e4a907665ecf479c97fa57286",
+    "text": "tomization and use. Automated workﬂow, notiﬁcation and escalation will be deployed wherever possible to minimize delays, ensure consistency, reduce manual inter",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e916d81a53ecbe944d200289d0a9b7bb",
+    "text": "vention and ensure appropriate parties are made aware of issues requiring their attention.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "988ab5a89a3bc1b88723386c17040428",
+    "text": "• IBM Inf",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4354fab273f5bf52b4a43539cea024b0",
+    "text": "phere Business Glossary (Metadata Dictionary (MDD) • Enterprise Data Standards and Guidelines (EDSG) • General Enterprise Naming and Deﬁnition Standards and Guidelines • Data Model Class and Attribute Standards and Guidelines • Data Modeling Standards (relational database) Guidelines • Special Tools and Techniques ( including Extensible Markup Language (XM))) • Authorized Abbreviations and Acronyms for Physical Data Model Class, XML, and Attribute Names Technology and tools should be used to augment the process capabilities, not become an end themselves.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "c3032ada4ac74fec9ee26a938eab018b",
+    "text": "Activities involved in ensuring a process is predictable, stable, and consistently operating at the target level of performance.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "f8f2bf79dfa2a0f4b5d898943b55e62a",
+    "text": "Process controls represent the policies and guiding principles on how the process will operate. Controls provide direction over the operation of processes and deﬁne constraints or boundaries within which the process must operate.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "be256027a4d1baab41d2965ec9c9516a",
+    "text": "Name Description Policies Policies and criteria for standard names concentrate on standard abbreviations; the inclusion of class words to provide context and type and the degree of potential re-use of a component are the driving characteristics of a Data Elements attributes that are considered in the Enterprise Data Standards and Guidelines (EDSG), General Enterprise Naming and Deﬁnition Standards and Guidelines, Data Model Class and Attribute Standards and Guidelines.. Security Policies Infrastructure Executive Steering Committee (IESC) s made up of repre- sentatives across IRS ACIO/BODs to provide democratic processes and transparency to business operating divisions across the Agency. Scope The scope of the Naming Process for Data Element includes standard naming conventions and their application across key implementations for interoperability. Change Management Policies Change Management Policies and pro- cedures are managed by Change Management Program Management Office (PMO).",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0bb630385ec94ca39a51290cf1361053",
+    "text": "Change Management Policies and pro",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9335c2cb60839bc3ab0dcfa3b3c45ff6",
+    "text": "cedures are managed by Change Management Program Management Office (PMO).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "b1c4fde1be5584bc08b7dec57c5fd0c2",
+    "text": ") Metrics are used for the quantitative and periodic assessment of a process. They should be associated with targets that are set based on speciﬁc business objectives. Metrics provide information related to the goals and objectives of a process and are used to take corrective action when desired results are not being achieved and can be used to drive continual improvement of process effectiveness and efficiency. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "4fc4c6e9936bce068f368164ebbc691a",
+    "text": ") Management will regularly set targets for process performance, gather quantiﬁ- able data related to different functions of the Naming Data Element(s)/ Object(s) process, and review that data in order to make informed decisions and take appropriate corrective action, if necessary. All Measurements will have a deﬁned data dictionary, map to the organizational strategic goals, and be documented in a Process Measurement Plan. The Process Measurement Plan template is available in the IT PAL.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "a44d770c7537e9e4619fa34360d95967",
+    "text": "Naming Data Element(s)/Object(s) 2.120.12",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "b56f8db16ce7e5e59b2c75691a7b9655",
+    "text": "The Naming Data Element(s)/Object(s) may be part of a Quality Assurance review at the discretion of the Process Owner.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "186ec956728246566d53621f72231dbb",
+    "text": "Term Deﬁnition Data Engineering Enterprise Services, Solution Engineering Division, Data Engineering Branch is respon- sible for Data Governance of Naming and Design Rules and implementation, Strategic Planning and Alignment, Quality Management, Architecture Management and Transparency Management. Data Element(s) (Technical) Throughout this process speciﬁcation, the term ‘data element’ is an atomic unit of data that has precise meaning or precise semantics and is implementable. ‘Data element’ refers to a data asset that has been identiﬁed and developed for data processing and is part of a technical implementation (e.g.. relational database column or XML tag). A data element has: • An identiﬁcation such as a data element name • A clear data element deﬁnition • One or more representation terms • Optional enumerated values Code (metadata)",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "1c15be690259104589881703a5b73280",
+    "text": "Term Deﬁnition Data Engineering Enterprise Services, Solution Engineering Division, Data Engineering Branch is respon",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "5069ad81725539a707ead1c7225d7343",
+    "text": "sible for Data Governance of Naming and Design Rules and implementation, Strategic Planning and Alignment, Quality Management, Architecture Management and Transparency Management. Data Element(s) (Technical) Throughout this process speciﬁcation, the term ‘data element’ is an atomic unit of data that has precise meaning or precise semantics and is implementable. ‘Data element’ refers to a data asset that has been identiﬁed and developed for data processing and is part of a technical implementation (e.g.. relational database column or XML tag). A data element has:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d1ee94c8a96aef620c99203d636ab56f",
+    "text": "An identiﬁcation such as a data element name",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "00aeb335f41119976cf28c96ec589911",
+    "text": "A clear data element deﬁnition",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "db22f03cf63bc1a83212e4c24d961db8",
+    "text": "One or more representation terms",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "4dfa8b8994cad023e8d0e60b10850075",
+    "text": "Optional enumerated values Code (metadata)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "4dde70ec74f579c8eca66a58db041b6e",
+    "text": "Throughout this process speciﬁcation, the term ‘data object’ refers to the business representa",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8e5158fc9ff4497ee422bc4703a9c67f",
+    "text": "tion of a data element. In other words, it is the alias to the data element. The data object has a precise meaning or precise semantics. The data object is not an implementable asset but serves the business community of interest to identify the data asset. A data object has:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "f466b3a738bcc452af68f483169426d2",
+    "text": "An identiﬁcation label or name (‘term’)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "e6c9d3fa609452a2e1974d3ffc6f1294",
+    "text": "A business deﬁnition",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "65de4b4c65f47b8a92eab2ba50653f72",
+    "text": "Optional enumerated values Code (metadata) Enterprise Data Standards and Guidelines (EDSG) are speciﬁc rules for achieving a standard IRS design pattern. EDSG is the framework for development and modiﬁcation of the names, deﬁnitions and other metadata for classes, attributes, and data models. In addition to prescribing format, data standards also establish a required level for the correctness, consistency, and completeness of these Data Element(s)/Objects. Guidelines are recommen",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "64a84dd4d8c2131257cb1c3800338004",
+    "text": "dations and instructions for the successful implementation of enterprise data standards. Data standards and guidelines are followed any time a Data Element(s)/Object(s) is/are created or modiﬁed. Multiple data standards and guide",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "f165cf5f79a5f64009261d6262252dfe",
+    "text": "lines apply at the same time for a particular Data Element(s)/Object(s).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "b08efd7f913d0fe38564dcc6c1aa7a7e",
+    "text": "ETAis – integrated Metadata on IBM Inf",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "949d95d31adc64c97c6bcb6886335781",
+    "text": "- phere is a web-based application that hosts the IRS Metadata Dictionary (MDD). The MDD deﬁnes the data object and the data element for the IRS standard data model and its member components. The primary goal of the MDD is to provide a single location to ﬁnd stan- dardized terms and their various attributes. The Metadata Dictionary is intended to easily and efficiently organize, identify, share, reuse and correlate data that enables the business to consume information and maximize the value to the agency.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "2e11a3a9fac7c549adedd09f3279744e",
+    "text": "The RACI model is based on the principle that people act in one of four ways when executing a task. It accounts for the fact that more than one role may be active in performing a speciﬁc task while clearly deﬁning speciﬁc responsibili",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "9fa01b207b36aeb6ed87472314b5643e",
+    "text": "ties for that role. While many roles may be involved in a task only one is Accountable for the results. The actions are: “R” Responsible for the action (may do the task) “A” Account",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "c8b3435511fef2a73250c43b1cd5d35a",
+    "text": "able for the action (including approval) :C” Required to be Consulted on the action “I” Required to be Informed of the action. If a task does not have an Accountable role indicated then the Responsible role is assumed to be accountable for the task. WRMS The Work Request Management System is an ITIL",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "b088a7b46ea5610b8cc3f9a7052b9310",
+    "text": "based COTS product for registering and managing demand requests for IT products and services.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "22529a4a1e69bd32a0f4f91359012056",
+    "text": "The Work Request Management System is an ITIL",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "b088a7b46ea5610b8cc3f9a7052b9310",
+    "text": "based COTS product for registering and managing demand requests for IT products and services.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "a6c30afdcdd4a8337ff98624adbea39a",
+    "text": "[Identify and list the acronyms and deﬁnitions identiﬁed in this document. See example below].",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "219a4fdbda362b97b7dae9bce46d2c20",
+    "text": "Acronyms Description EDSG Enterprise Data Standards and Guidelines KISAM Knowledge Incident/Problem Service Asset Man- agement System MDD Metadata Dictionary RACI Responsible, Accountable, Consulted and Informed WRMS Work Request Management System",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "95193010278182e8d32933bcb633014c",
+    "text": "Process training involves training all stakeholders about key processes that are crucial for an organization to deliver business objectives. Training provides clarity to employees on a set of procedures that needs to be carried out as part of the process and the best possible way to do them. List below the training resources available for this process: Training available upon request",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3e95aae7ed0bdb9f5a71ca87ac281d2c",
+    "text": "please contact:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "68df97298b3ac5c60c9644d0fb83f81c",
+    "text": "• Solution Engineering Front Door *IT Engineering Customer Support@irs.gov • IT Engineering XML Change Management *IT Engineering XML Chang",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "b46d328a14e78953207c84cf548ab683",
+    "text": "anagement@irs.gov",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "34789490926eb5db6a2343c2a11c3635",
+    "text": ") Process Workﬂow (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "855f8360a6577da15067dead82522286",
+    "text": ") A process workﬂow consists of Activities and Tasks, Inputs and Outputs, Roles, and Flow Diagrams. It describes the tasks, procedural steps, organizations or people involved, required input and output information, and tools needed for each step of the process.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "eb3cf15a3aa419c0c0ce453c8289073b",
+    "text": ") Main Process Diagram (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "91d9985782ed5568691a64e10dff8638",
+    "text": ") Naming Data Element(s)/Object(s) Process Flow Diagram",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "81fd62fc6cc672d4c792ca956e77b4db",
+    "text": "Solution Engineering Front Door *IT Engineering Customer Support@irs.gov IT Engineering XML Change Management *IT Engineering XML Chang",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "b46d328a14e78953207c84cf548ab683",
+    "text": "anagement@irs.gov",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "86bbe266405bd0e07b652613506c1fa8",
+    "text": "Naning Data ElerensHObjects) Process Fom Disgram",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "4635788237eebb4c0ef8d4380eab6c09",
+    "text": "Process inputs are used as triggers to initiate the process and to produce the desired outputs. Users, stakeholders or other processes provide inputs. The following is a list of inputs for this process:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "6198057f8627f1112b7d7510fbe382db",
+    "text": "Name Description Supplier Data Object(s) (Type: Business) A data asset that is either Unnamed or goes by a non- standard Named. Data Object(s) (Business) which needs to be developed (if Unnamed) or changed (if non-standard) Project Office Data Engineering Group Data Element(s) (Type: Technical) A data asset that is either Unnamed or goes by a non- standard Named. Data Element(s) (Technical) which needs to be developed (if Unnamed) or changed (if non-standard) Project Office Data Engineering Group MDD - Metadata Dictionary on iMETAis Database(s)/DataStore(s) Data Engineering Group XML Registry IXCC Integrated XML CompetencyCenter Database(s)/DataStore(s) Data Engineering Group EDSG Enterprise Data Standard Guidelines (IT PAL Process Guidelines) Data Engineering Group",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "60e709e3d58b13f7ca425f17bb8abb39",
+    "text": "Each process produces tangible outputs. These outputs can take the form of products or data and can be delivered to a user or stakeholder or they can be used as inputs to other processes. Outputs are measurable in terms of quantity and quality.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "60e709e3d58b13f7ca425f17bb8abb39",
+    "text": "Each process produces tangible outputs. These outputs can take the form of products or data and can be delivered to a user or stakeholder or they can be used as inputs to other processes. Outputs are measurable in terms of quantity and quality.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "1173367981c3e4ce610eb4d6ba8f56b0",
+    "text": "Name Description Recipient Standard Data Object(s)(Type:Business) Standard Data Object(s) Name (Business) Reused or New Business Object Names (Term) Project Office, Data Engineering Group Standard Data Element(s)(Type:Technical) Standard Data Element(s) Name Reused or New Technical Data Element(s) (Imple- mentation, eg. rdbms, column name; xml tag) Project Office, Data Engineering Group Element(s)/Object(s) 2.120.12 page 13",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "b19d8a417024eeed94a3f4d52196e90d",
+    "text": ") An activity is a major unit of work to be completed in achieving the objectives of the process. A process consists of a sequence of related activities that transforms inputs into outputs and performed by the roles deﬁned in the process. Activities are measurable in terms of efficiency and effectiveness. Identify the activities in the process and provide a brief description. The activi- ties must correspond with the high-level process ﬂow diagram above.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "0430d05829b9a9ea489e903aace7b18c",
+    "text": "An activity is a major unit of work to be completed in achieving the objectives of the process. A process consists of a sequence of related activities that transforms inputs into outputs and performed by the roles deﬁned in the process. Activities are measurable in terms of efficiency and effectiveness. Identify the activities in the process and provide a brief description. The activi- ties must correspond with the high-level process ﬂow diagram above.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "ffa1ee28ed536fd43f851d103d6a270c",
+    "text": "ID Name Description Step 1.0 Identify Data Element(s)/Object(s)tobenamed Project Office Interfaces with ex- ternally developed a Standard Data Model before executing the Naming Data Element(s)/Object(s) process, and Metadata Dictionary, then identiﬁes the Data Element(s)/Object(s) to be named. Step 2.0 Check MDD and/or XML Registry for re-usable Data Element(s)/Object(s) Project Office is responsible for searching MDD and/or XML Registry (IXCC) to discover standard data elements name(s) and deﬁnition(s) that match the project’s data requirement The Project reviews the Metadata Dic- tionary and XML Registry (IXCC) to see if the Data Element(s)/ Object(s) already existed and can be re-used (Business and Technical representations).",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "a3998dc33c0348a74a58fd1ae43fef2b",
+    "text": "Project Office is responsible for searching MDD and/or XML Registry (IXCC) to discover standard data elements name(s) and deﬁnition(s) that match the project’s data requirement The Project reviews the Metadata Dic",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "551b2ea7488adbf6bfa3900397919e1d",
+    "text": "tionary and XML Registry (IXCC) to see if the Data Element(s)/ Object(s) already existed and can be re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "518e967fff7e40ae65fc46a319f776d2",
+    "text": "used (Business and Technical representations).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "84d67ec4bd1e7edfffd614e8755082fd",
+    "text": "Step 3.0 Reuse Data Element(s)/Object(s) If the Data Element(s)/Object(s) exists/exist and the Business deﬁ- nition matches what is required, re-use the existing Data Element(s)/Object(s). Step 4.0 Create new Data Element/Objects(BusinessorTechnical) If the Data Element(s)/Object(s) did not exist or exists/exist with a different deﬁnition, create a new Data Element(s)(Technical)/ Object(s)(Business) following EDSG Standards. Send new Data Element(s)/Object(s) and deﬁnition to MDD and DE as a proposal for approval. Step 5.0 Approve Naming Data Element(s)/ Object(s) New Data Element(s) and renamed Data Elements must be approved by Data Engineering Group to implement. Send proposed Data Element(s)/Objects names to Data Engineering Group for approval. Relational Database requires Data Engineering Change Request. XML requires an IXCC (XML) Change Request. Data En- gineering will disposition Data Model /data element CRs, and IXCC CB will disposition XML CRs. 2.120 Solution Engineering",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "42598438d1ee709c9f391e47a2e951cf",
+    "text": "New Data Element(s) and renamed Data Elements must be approved by Data Engineering Group to implement. Send proposed Data Element(s)/Objects names to Data Engineering Group for approval. Relational Database requires Data Engineering Change Request. XML requires an IXCC (XML) Change Request. Data En",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "080935c706365fbb9ff7c074459ea0a3",
+    "text": "gineering will disposition Data Model /data element CRs, and IXCC CB will disposition XML CRs.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "47a80b477443254962e089d5560668ea",
+    "text": ") Interface with externally developed a Standard Data Model before executing the Naming Data Element(s)Object(s) process. The Project and Data Engineer- ing develop a data model to establish the data set scope and begin to identify required data objects.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "f443e6f651263571ab615191f4a86ccc",
+    "text": "ID Task Name and Description Role RACI Duties Step1.1 Identify Data Element(s)/Object(s)to be named This task is to identify the Data Element(s)/Object(s)withexternalpre-deﬁnedprocessofDevelopaStandardData Model, and Metadata Dic- tionary ProjectOffice R The Project Office is responsible for identifying the new Data Element(s)/ Object(s) to be created or existing Data Element(s) that need to be renamed. Step1.2 Discover new or incorrect named DataElement(s)/Object(s) This task discovers if the DataElement(s)/Object(s)iseitherneworincorrect ProjectOffice R The Project Office is responsible for discovering new or incorrect named Data Element(s)/ Object(s). Naming Data Element(s)/Object(s) 2.120.12 page",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "6a51e5863610c5f4031cad03bb77ac1a",
+    "text": "Identify Data Element(s)Object() to be namedChange IntatoiCrange Anays (rofct Offce)B L Ny",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "08b12ac9d891da6bf3f87050e8841d82",
+    "text": "The Project Office is responsible for searching MDD and/or XML Registry (IXCC) to discover standard data elements name(s) and deﬁnition(s) that match the project’s data requirement The Project reviews the Metadata Diction",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "970df8516d2315b415a9ee898f4206bb",
+    "text": "ary and XML Registry (IXCC) to see if the Data Element already exists and can be re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "518e967fff7e40ae65fc46a319f776d2",
+    "text": "used (Business and Technical representations).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "e5d1d7a63a2109e77b7fb8f932e51f65",
+    "text": "The Project Office is responsible for searching MDD and/or XML Registry (IXCC) to discover standard data elements name(s) and deﬁnition(s) that match the project’s data requirement The Project reviews the Metadata Diction- ary and XML Registry (IXCC) to see if the Data Element already exists and can be re-used (Business and Technical representations).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "7ae7a1686a727264b318ba3892a435d0",
+    "text": "Step2.3 If Data Element(s)/ Object(s) exists/ exist and deﬁnition matched, go to Step 3.0 -reuse Data Element(s)/ Object(s); below; otherwise, if deﬁni- tion not matched, or new Data Element(s) go to Step 4.0 - create new Data Element(s) (either Business or Technical) below This task is to ensure if deﬁnition matched or not matched ProjectOffice R The Project Office determines if data element(s)/object(s)canbereusedorneedtocreatenewdataelement(s)/object(s) (1) Check MDD and/or XML Registry for reusable Data Element(s)/Object(s) 18 2.120 Solution Engineering",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "ae84b98d95590771e2f54251611ec5bb",
+    "text": "e At et e ST T‘Check MDD andor XML registry for reusable Data Element(s)Object(s)P ek= TProjct Ofice",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "0fa5474f965fbfdd12b402a8d3693489",
+    "text": "If the Data Element(s)/Object(s) exists/exist and the Technical/Business deﬁni- tion matches what is required, re-use the existing Data Element(s)/Object(s). .",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "e68bcab464210058f87cd8054f27768c",
+    "text": "ID Task Name and Description Role RACI Duties Step3.1 Reuse the existing Data Element(s)/Object(s) This task is to re-use current existing Data Element(s)/Object(s),then the process ProjectOffice R Project Office re-use existing matched Data Element(s)/Object(s),thenendtheprocess",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "051967eed78b53654b3eb641011b30a9",
+    "text": "Reuse Data Element(s)/Object(s) Cross-Functional Flow Diagram",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "f250d3d428ffbfbc0d15d20e1c301286",
+    "text": "Figure 2.120.12-4",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "f250d3d428ffbfbc0d15d20e1c301286",
+    "text": "Figure 2.120.12-4",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "aaa749ac9bc03e2b1e7863da89418a5f",
+    "text": ") Creates New Data Element(s)/Objects following EDSG standards, send new Data Element(s)/Objects to MDD. (submit required Naming and Design Rule Change Requests).If the Data Element(s)/Object(s) doesn’t/don’t exist or exist with a different deﬁnition, create a new Data Element(s)[Technical] /Objects[Business] following EDSG Standards. Send new Data Element(s)/ Object(s) and deﬁnition to MDD and DE as a proposal for approval. Submit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "7e9f4b3a50596461e007bb744730e14d",
+    "text": "required Naming and Design Rules Change Requests to appropriate Change Boards: 1) MA DataXchange & 2) IXCC (XML) Change Board (CB).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "9e2c803732f8969c91ff8141c01f6569",
+    "text": "ID Task Name and Description Role RACI Duties Step 4.1 Establish Data Name Standards • Only alphabetic (A-Z), numeric (0-9), and special characters (e.g., hyphen, colon, underscore) which are appropriate to the language being used are allowed in a name. No blanks are permitted. • The ﬁrst character of the data name must be alpha- betic (A-Z). • Data names may not start with verbs • The maximum length of a name (including special characters) is 30 characters. • Each name must be unique • Each name must be clear and accurate to reﬂect a condensed version of the data description. • Abbreviate only when it is necessary to reduce a name to 30 characters or less. • Effective with this transmit- tal, names in COBOL applications will not contain abbreviations for words of four characters or less. • Each name must contain a class word. A class word speciﬁes the nature of the data and must be the right- most word in the name (e.g., TAXPAYER-BIRTH-DATE). The EDSG (Enterprise Data Standards and Guidelines) provides a list of Standard class words. Other class words must be submitted to the Data Engineering (DE) for approval when the data cannot be identiﬁed by examples from EDSG This task is to establish data name DataEngineer/Analyst R Data Engineering Group es- tablishes Agency-Wide Data Name Standards. Naming Data Element(s)/Object(s) 2.120.12 page 23",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "7a714737da8a054b55a6366b1cd73522",
+    "text": "Step 4.2 Write a description of the entity • Write a sentence or a paragraph containing a full but concise description of the entity (user, system, run, module, report, form, ﬁle, record, group, data element, schema, subschema, area, set) explaining what it is. This description should be retained as a part of the data dictionary entry. • A close relationship must exist between a data name and its description; one should reﬂect the other. A general or broad description requires a general name. • Do not use the source or destination of the entity. Avoid: This entry comes from previous Run to next Run (for instance from Run 123 to Run 456. • Do not specify the process- ing done on the entity, Avoid: This amount is the result of price times quantity. • Attach system/function names or form numbers to data items only when the description limits its use to a particular function. For example: EXAMINATION- CASE-START-DATE and COLLECTION-CASE-START-DATEcouldbe uses with system names attached because their descriptions would be basically different. This task is to write a description DataEngineer/Analyst R Data Engineering Group writes a description of the entity.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "a0b90b2dcdd85e216e01037bd521030d",
+    "text": "Step 4.7 Substitute approved abbreviations or accepted acronyms if the name is over 30 characters • Count the remaining alpha- numeric characters and special characters. Substi- tute accepted acronyms or abbreviations found on IT PAL Abbreviations and Acronyms until the name has 30 or fewer characters (including approved special characters). • When only the singular form of a word is givens as the abbreviation’s meaning, the plural of the word may be assumed acceptable and vice versa, if that form will make the name more mean- ingful. Similarly, tenses different from those listed in the meaning may be assumed acceptable without an addition to the approved abbreviation list. For example:a.Onlist: COLM Column INCR Increase b. May assume: COLMS Columns INCRD Increased • The list of standard abbre- viations and acronyms are maintained in IT PAL Standard Abbreviations and Acronyms List DataEngineer/Analyst R Data Engineering Group es- tablishes the rule on how to substitute approved abbre- viations or accepted acronyms. Naming Data Element(s)/Object(s) 2.120.12 page 27",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "4647abfe9a2c36347269343a5362e55a",
+    "text": "Note: If there is no appropriate abbreviations on the approved list, use the following a. Eliminate vowels right to left to make the most meaningful abbreviations. Never delete the ﬁrst letter of the word. b. Drop nonessential conso- nants. Use phonetic sounds to help select only those letters needed to understand the abbreviated word(s). For example: Block BLK Opening OPNG c. Use a shorter form of the word when the word is lengthy and the shorter form can be understood. For example: Function FUNC Geographical GEOG d. Do not abbreviate a word so as to cause confusion in meaning. For example: Use AUTH for Authority Not AUTHOR for Authority This task is to substitute approved abbreviations or accepted acronyms, and store all the new naming data element(s)/object(s) into ‘All Data Naming Standards and Guidelines’ Database. Step 4.8 Use EDSG convention This task is to use EDSG conven- tion to create new data element(s)/ object(s) Project Office R (Project Office uses EDSG convention to create new data element(s)/object(s) Step 4.9 Use General Enterprise Naming and Deﬁnition Standards and Guidelines This task is to follow General En- terprise Naming and Deﬁnition Standards and Guidelines to create data element(s)/object(s) Project Office R Project Office follows General Standards and Guidelines to create data element(s)/object(s). page 28 2.120 Solution Engineering",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "85b65324f1f2bde915f0950bad3db021",
+    "text": "Step4.10 Use Data Model Class and Attribute Standards and Guidelines This task is to use Data Model Class and Attribute Standards and Guidelines to create new data element(s)/object(s) Project Office R Project Office follows Data Model Class and Attribute Standards and Guidelines to create data element(s). If creates Business Data Element(s), go to Step 4.11 , else If creates Technical Data Element(s) go to Step 4.12 Project Office R Project Office determines if it is a new Business Object(s) or it is a new Technical Element(s) Step4.11 Authorized/Allowed Acronyms in Business Data Asset names The purpose of this task is to create Naming Business Object(s), then go to step Step 4.15 ‘Approve Naming Data Element(s)/Object(s) Project Office R Project Office creates Business Object(s) Step4.12 Use Data Modeling Standards (re- lational database) Guidelines The purpose of this task is to use Data Modeling Standards to create Naming Technical Element(s) Project Office R Project Office creates Technical Element(s) Step4.13 Use Special Tools and Techniques (including Extensible Markup Language (XML)) The purpose of this task is to use Special Tools and Techniques to create Naming Technical Element(s) Project Office R Project Office creates Technical Element(s) Step4.14 Authorized abbreviations and acronyms for Physical Data Model Class, XML, and Attribute Names The purpose of this task is to follow authorized abbreviations and acronyms for physical Data Model Class, XML, and Attribute Names. then go to next step Approve Naming Data Element(s)/Object(s) Project Office R Project Office follows autho- rized abbreviations and acronyms for Physical Data Model Class, XML, and Attribute Names Naming Data Element(s)/Object(s) 2.120.12 page 29",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "e76e4acb2de087ebfbcfe8dfbd6e2ca8",
+    "text": "Step4.15 Business Subject Master Expert (SME/Program Lead/Project Office/ Developer/Data Steward Create a CR for Data Asset Name Change (CR) https:// kisamservice.web.irs.gov/webtier-9.52/index.do • Category: Norman • Subcategory: Software - Development • Initiating Service: XML Data Element • RFC Type: XML Data Element • Assignment Group: DATA ENGINEERING UNSTRUC- TURED DATA PRACTICE SERVICES • Reason for Change: Business Requirement • Affected Service: XML Library – IRS COMMON • Save created Change Request (2): WRMS Change Request DATA CR that requires ES:Solution Engi- neering Service & Support. http:// wrms.web.irs.gov/itg/dashboard/app/portal/PageView.jsp • Requested Service: Enter- prise Services *IT Engineering Customer Support or Solutions Engi- neering *IT Engineering XML ChangeManagement • Requested Service Sub- category: Solutions Engineering Data Engineer- ing (3): XML Sharepoint Collaboration site - supporting documents https:// team.ds.irsnet.gov/sites/soleng/de/udp/XML/ixcccm/SitePages/Home.aspx Project Office R Project Office Creates CR or WR through KISAM, WRM, and Data XML SharePoint Site 2.120 Solution Engineering",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "fa474636e8807274b2745b71c5e01d60",
+    "text": "• All Projects: XML Component Change Template XMLCR_ ProjectName_mmddyyyy.xlsx Template for XML component /ele- ment creation or changes. • All Projects: XML Message Structure change Template XMLCR_ Message_ProjectName_SeqNum_mmddyyyy.xlsx Template for XML message schema creation or update existing message. • MeF & IRIS: XML RLO Change or Updated Tem- plate TYyyyy XML RLO form FormNumber as of mmddyyyy.xlsx For new RLO creation or update existing. The purpose of this task is Change Initiator/Analyst (Project Office) creates CR or WR for new Naming Data Element(s)/Object(s) Step4.16 Submit CR or WR to Data Engi- neering EDSG or Data Engineering IXCC (Integrated XML Compe- tency Center) The purpose of this task is Change Initiator/Analyst (Project Office) submits CR or WR for new Naming Data Element(s)/Object(s) Project Office R Project Office submits CR or WR Naming Data Element(s)/Object(s) 2.120.12 page 31",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "df001fe72c3acb7fea343feaa125a27d",
+    "text": "Create new Data Element(s)/Object(s) (Technical or Business) Cross- Functional Flow Diagram",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "a1db704ab207d41f7d9e47a2d42b93f5",
+    "text": "e leld QUIMHVTE EHGHTEE!Step 4 Create New Data Element(s)Object(s) (Business/Technology)|Dt EngnesranaystProectOffceFloure 2.120.12-5",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "144d0d0dc4057997b0c1ad88223d2ac2",
+    "text": "Step 4 Create New Data Element(s)Object(s) (Business/Technology)|",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "a44d770c7537e9e4619fa34360d95967",
+    "text": "Naming Data Element(s)/Object(s) 2.120.12",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "5f7fbeb963a4ee8a6e80bb6aea6bb6d7",
+    "text": "New Data Element(s) and renamed Data Elements must be approved by Data Engineering Group prior to implementation. Send proposed Data Element(s)/ Objects names to Data Engineering Group for approval. Relational Database requires Data Engineering Group Change Request. XML requires an IXCC (XML) Change Request. Data Engineering Group will disposition Data Model /data element CRs and IXCC CB will disposition XML CRs. .",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "339cf22cbf24ba0375a5af198fa6c67f",
+    "text": "ID Task Name and Descrip- tion Role RACI Duties Step5.1 Data Engineer- ing Group EDSG or Data EngineeringGroupIXCCXMLChange Board disposi- tions CR The purpose of this task is to dispositionChangeRequest DataEngineer/Analyst R Data Engineering Group dispositions change Request Step5.2 Approve new Naming Data Element(s) or Object(s) and formallydocumentapprovedCR The purpose of this task is to approve new Naming Data Element(s) or Object(s) DataEngineer/Analyst R Data Engineering Group approves new Naming Data Element(s) or Object(s)",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "b2d620fa8528c040086f43eb5e3d01f1",
+    "text": "Step5.3 Approved Data Asset/Deﬁnitions are instantiated & published to MDD as a ‘Standard Data The purpose of this task is that Data Engineer- ing Group published new DataElement(s)/ Object(s) to MDD DataEngineer/Analyst R Data Engineering Group approves and publish new Data Element(s)/Object(s)toMDDasa‘StandardData’. Return to Data Man- agement Process Step 3 Data Certiﬁcation 2.120 Solution Engineering",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "f243e48ec4d9a067ea45e1625f9a4eb7",
+    "text": "Step5.3 Approved Data Asset/Deﬁnitions are instantiated & published to MDD as a ‘Standard Data The purpose of this task is that Data Engineer- ing Group published new DataElement(s)/ Object(s) to MDD DataEngineer/Analyst R Data Engineering Group approves and publish new Data Element(s)/Object(s)toMDDasa‘StandardData’. Return to Data Man- agement Process Step 3 Data Certiﬁcation 2.120.12.2.5.5.1(01-13-2023) Cross-Functional Flow Diagram (1) Approves Naming Data Element(s)/Object(s) Cross-Functional Flow Diagram",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "efb796bc28241c725a109ad26076e138",
+    "text": "Approves Naming Data Element(s)/Object(s) Cross-Functional Flow Diagram",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "73800f4738a0ed1a947989d7fac006f6",
+    "text": "Step 5 Approve Data Element(s)/Object(s)ata EngineerAnasto _{ o e",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-012--2023-01-13.pdf",
+      "page_number": 38
+    }
+  }
+]

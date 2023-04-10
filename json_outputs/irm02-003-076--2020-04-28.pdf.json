@@ -1,0 +1,803 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1ab998ff20bafbe3a581a428ff354ceb",
+    "text": "IRM 2.3.76.1 has been revised to include Program, Scope, and Objectives.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "21e0d1f744c1dd766ec2b6541ef01c3e",
+    "text": "LMSB, SB/SE, TE/GE, AND W&I.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "14858ff8dc48ae349a014c227a3451e8",
+    "text": "ISTSD Input Format ISTSD Action Screen ISTSDU Input Format ISTSDU Action Screen ISTSD Error",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3101d903418bacb49a5eec309a69c2cc",
+    "text": ") Overview: This IRM section provides an overview of the ISTSD Command Code. and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "bcf58d290a9545dd6321aa22aa8fa344",
+    "text": ") Purpose: This IRM contains procedural steps for use of the ISTSD Code. An Innocent-Spouse-Tracking-Record is added to a module on IDRS whenever a Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3222b4c55aa88fbbfe25482339f9d4af",
+    "text": "is ﬁled with the Service. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4f1d7547b543351211b59891471dbaf2",
+    "text": ") Audience: These procedures apply to IRS employees who are responsible the processing of Innocent Spouse records. These employees are located in the following areas: Large & Medium-Sized Business, Small Business/Self- Employed, Tax-Exempt & Government Entity’s, and Wage & Investment. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "40ad248b3da336bd3a740350cf68585f",
+    "text": ") Policy Owner: The Chief Information Officer (CIO) is responsible for ing all aspects of our systems that operate the nation’s tax infrastructure. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2f93bb40c69c8c246a71bce035e2ab39",
+    "text": ") Program Owner: MITS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5e3047ee61b926fdbcf574ccacf4a59d",
+    "text": ") Primary Stakeholders: Large & Medium-Sized Business, Small Employed, Tax-Exempt & Government Entity’s, and Wage & Investment. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "62177417526bb3d159683ffed0dc9ebf",
+    "text": ") Program Goals: This IRM provides the fundamental knowledge and proce- dural guidance for employees who work with Innocent Spouse cases. By following the processes and procedures provided by this IRM, employees process Innocent spouse cases in a manner that follows IRS policy and dures while promoting the best interests of the Government. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9b41a8cb90c2825eec23271fd343abc5",
+    "text": ") ISTSD may be entered in three ways. Command Code ISTSE may be asked to pass a case to ISTSD to be deleted. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c2f02126f0eb2836cbfdf14f383c49e5",
+    "text": "for details. Using Code ISTSR deﬁner S offers the same service. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0dff143e0cb5b0a3739156c7aa4eaac3",
+    "text": "ISTSD may entered directly by inputting the Primary taxpayer’s TIN (formatted), the MFT and Tax Period, and the Case File-Code and Claim-Number. For exact placement see Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "19f15b576ab8eb34db3aec5dba160853",
+    "text": "These ﬁelds will be validated, and the user will be notiﬁed of any errors. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9a77ac08ac5dd72bc81567ff65b0583a",
+    "text": ") If the case is found, an approval screen will be displayed. See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "171b2c4967b44c3609a7934b6a449263",
+    "text": "The identiﬁcation information for the case is displayed as well as ﬁrst",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a9c33eb7075d02a486ab63f287d51e11",
+    "text": "stages/comments. The user can tab to an entry ﬁeld after the ’DO YOU REALLY WANT TO DELETE THIS CASE?’ An entry of ’Y’ will cause the delete. If ’N’ is entered, no delete will take place. Anything else results in an error message. ISTSD will then acknowledge what was entered and act accordingly. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a82744b4aca58bf80f222cef714d4a26",
+    "text": ") ISTSD deﬁner U may be entered in two ways. Command Code ISTSR S will pass off to ISTSD. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "267b113dc36891fd3670dd12a84d61ca",
+    "text": "ISTSD will interrogate the Cases of the passed off request to determine if a delete or a restore is required. Deﬁner U ISTSD may be entered directly by inputting the Primary taxpayer’s TIN (formatted), the Module MFT and Tax Period, and the Case Filer-Code and Claim-Number. For exact placement see Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "167b381c7ba48a01d7814cf03aa912b0",
+    "text": "These ﬁelds will validated, and the user will be notiﬁed of any errors. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9a77ac08ac5dd72bc81567ff65b0583a",
+    "text": ") If the case is found, an approval screen will be displayed. See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "171b2c4967b44c3609a7934b6a449263",
+    "text": "The identiﬁcation information for the case is displayed as well as ﬁrst",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d7faceac34dc5276e4a19c2ff159cf59",
+    "text": "stages/comments. The user can tab to an entry ﬁeld after the ’DO YOU REALLY WANT TO RESTORE THIS CASE?’ An entry of ’Y’ will (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9621386b02468c3631b896a9fe21e18e",
+    "text": "Primary Stakeholders: Large & Medium-Sized Business, Small Employed, Tax-Exempt & Government Entity’s, and Wage & Investment.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "306a631eefbe17157fa1f6fbaf430111",
+    "text": "following the processes and procedures provided by this IRM, employees will process Innocent spouse cases in a manner that follows IRS policy and dures while promoting the best interests of the Government. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9b41a8cb90c2825eec23271fd343abc5",
+    "text": ") ISTSD may be entered in three ways. Command Code ISTSE may be asked to pass a case to ISTSD to be deleted. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0715ece761800d9a64315e6af8f67fa4",
+    "text": "for details. Code ISTSR deﬁner S offers the same service. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0dff143e0cb5b0a3739156c7aa4eaac3",
+    "text": "ISTSD may entered directly by inputting the Primary taxpayer’s TIN (formatted), the MFT and Tax Period, and the Case File-Code and Claim-Number. For exact placement see Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "19f15b576ab8eb34db3aec5dba160853",
+    "text": "These ﬁelds will be validated, and the user will be notiﬁed of any errors. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9a77ac08ac5dd72bc81567ff65b0583a",
+    "text": ") If the case is found, an approval screen will be displayed. See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "171b2c4967b44c3609a7934b6a449263",
+    "text": "The identiﬁcation information for the case is displayed as well as ﬁrst",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a9c33eb7075d02a486ab63f287d51e11",
+    "text": "stages/comments. The user can tab to an entry ﬁeld after the ’DO YOU REALLY WANT TO DELETE THIS CASE?’ An entry of ’Y’ will cause the delete. If ’N’ is entered, no delete will take place. Anything else results in an error message. ISTSD will then acknowledge what was entered and act accordingly. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a82744b4aca58bf80f222cef714d4a26",
+    "text": ") ISTSD deﬁner U may be entered in two ways. Command Code ISTSR S will pass off to ISTSD. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c772bb6152ef029086d0111430a7f005",
+    "text": "ISTSD will interrogate the of the passed off request to determine if a delete or a restore is required. ISTSD may be entered directly by inputting the Primary taxpayer’s TIN (formatted), the Module MFT and Tax Period, and the Case Filer-Code and Claim-Number. For exact placement see Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "167b381c7ba48a01d7814cf03aa912b0",
+    "text": "These ﬁelds will validated, and the user will be notiﬁed of any errors. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9a77ac08ac5dd72bc81567ff65b0583a",
+    "text": ") If the case is found, an approval screen will be displayed. See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "171b2c4967b44c3609a7934b6a449263",
+    "text": "The identiﬁcation information for the case is displayed as well as ﬁrst",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8b274e36b7743230cf19676ec43d68d0",
+    "text": "stages/comments. The user can tab to an entry ﬁeld after the ’DO YOU REALLY WANT TO RESTORE THIS CASE?’ An entry of ’Y’ will",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5de109a546cab5c9c384b019c9f9cf35",
+    "text": "(01-01-2009) Deleting Cases Using ISTSD",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b4a5e64bf3b75e9f8af295ec83ecf134",
+    "text": "ISTSD deﬁner U may be entered in two ways. Command Code ISTSR deﬁner S will pass off to ISTSD. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c15eebcf9edc24354e0973191d11a11d",
+    "text": "ISTSD will interrogate the Filer-Code of the passed off request to determine if a delete or a restore is required. ISTSD may be entered directly by inputting the Primary taxpayer’s TIN (formatted), the Module MFT and Tax Period, and the Case Filer-Code and Claim-Number. For exact placement see Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e730b08c78d8a13be2d380987a8d6ada",
+    "text": "These ﬁelds will be validated, and the user will be notiﬁed of any errors. If the case is found, an approval screen will be displayed. See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d7e12e070ceaa7ad555852c57c686d1c",
+    "text": "The identiﬁcation information for the case is displayed as well as the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e3713ef80929478c3c52953e396b5269",
+    "text": "If the case is found, an approval screen will be displayed. See Exhibit 2.3.76–4. The identiﬁcation information for the case is displayed as well as the ﬁrst 32 stages/comments. The user can tab to an entry ﬁeld after the question ’DO YOU REALLY WANT TO RESTORE THIS CASE?’ An entry of ’Y’ will",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "af2b53967ad137df5f89a48d0e60d19d",
+    "text": "cause the restore. If ’N’ is entered, no restore will take place. Any other response is an error. ISTSD will then acknowledge what was entered and act accordingly.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a7683a7449a84af014ea96ce8643c682",
+    "text": "Screen Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "7fa96ad4e7845ff09f5888676f227c7c",
+    "text": "Exhibit 2.3.76-2 (01-01-2009) ISTSD Action Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "a7683a7449a84af014ea96ce8643c682",
+    "text": "Screen Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "2320fc50cfec7c474069646456322e00",
+    "text": "[ 1-9 | 11-19 | 21-29 | 31-39 | 41-49 | 51-59 | 61-69 | 71-80 |1| \\__1 12345678901234567390123456789012345678901234567890123456789012345678901234567890|S E———|1 1ISTSD 1T|2 |DO YOU REALLY WANT TO DELETE THIS CASE? ¥Y/N (N) 12144 TIN CODE NUM MFT PERIOD TIN CONTROL STATE 4|5 IXXKX-XX-XXXX X XX XX W XOOXX  XXX-XX-XKXX XXX X 15161 16|7 ISTAGE DATE STAGE/COMMENT DATA  STAGE DATE STAGE/COMMENT DATA 17|||||!13 |PR/SEC FILER CLAIM TAX SECONDARY NAME CLATMANT 131|||||18 | XX XX/XX/XXKK XRKXOCCCOOOOOO00000000K XX XX/ XX/ XXXX. Xa0000000000000000000KeK | 819 | XX XX/XX/X00X X000COOMKKKKRO00CO00000. XX XX/ XX/ XXXKX - X00C00aaocaao0o0aOooxxX | 9 |1101 XX XX/XX/XKXX XOCOOOOaCOoaoo0ooaooa. XX XX/ XX/ X0 Xoaaoaoaannooanoat | 10 |111] XX XX/XX/300X X0000Co00000o0000000000. XX 300/ XX/ XX XOO0aaaaoo0a000oOKaK 1 11 |112] XX XX/XX/XXXX  X0000KKOO0000000000000. XX XX/ X3/ XXX X0atoaaaaooO0ouoaaK | 12 |113| 13-23 repeat 113}114} 1141115) 11511161 11611174 117)118] 11811191 11911201 120}121) 12111221 122)1231 123}1241 1241] 123456799012345678901234567§QO12345678901234567890123456789012345678901234567890I |1__ S1 1-9 | 11-19 | 21-29 | 31-39 | 41-49 | 51-59 | 61-69 | 71-80 [}I__",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "85f976f9be8e3a74f1c7bac7f4e69489",
+    "text": "2.3.76-2 (Cont. 1) (01-01-2009) Action Screen Row Position 1 1–5 ISTSD 2 47 Entry point for permission to delete case.Y to delete. N to retain. 5 1–12 Primary taxpayer TIN from previous command code 5 14 Filer Code (P or S) from previous command 5 20–21 CLAIM Number from previous command code 5 25–26 MFT of module from previous command code 5 29–34 Tax Period of Module from previous command code 5 37–47 Secondary TIN of case from Innocent Spouse Tracking Record 5 48–51 Name Control from Entity Record 5 64–65 Claimant State of case from Innocent Spouse Tracking Record 9–23 3–4 Stage number or History type from Innocent Spouse Tracking Record 9–23 6–15 Stage date or History action date from Innocent Spouse Tracking Record 9–23 17–40 Unformatted stage data or history entry 9–23 43–44 Stage number or History type from Innocent Spouse Tracking record 9–23 46–50 Stage date or History action date from Innocent Spouse Tracking Record 9–23 57–80 Unformatted stage data or history entry",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "721ff271a092a32930ae366bbd159a32",
+    "text": "ISTSD",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1041cb075273632c27d6cb1ec6b0ebb5",
+    "text": "Entry point for permission to delete case.Y to delete. N to retain.",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "610f5a54946ccfae1f5429a852088a6d",
+    "text": "Name Control from Entity Record",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e82d0833108077854627576ccbaf018b",
+    "text": "Claimant State of case from Innocent Spouse Tracking Record",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "825e7ab2b17ceaceaafdb93322742b86",
+    "text": "Stage number or History type from Innocent Spouse Tracking Record",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4bfe0e95761ff4cdce7dc305be089ae8",
+    "text": "Unformatted stage data or history entry",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4bfe0e95761ff4cdce7dc305be089ae8",
+    "text": "Unformatted stage data or history entry",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "9541bdf2872b5af9603ef25112dad6a6",
+    "text": "Note: Only the ﬁrst 32 stages or History comments will be displayed for any case.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "49f3b8d7a4b18b209ab9be949826310b",
+    "text": "Exhibit 2.3.76-3 (01-01-2009) ISTSDU Input Format",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "a7683a7449a84af014ea96ce8643c682",
+    "text": "Screen Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "beba99d7c85ac986b65aa5e7fab92d1b",
+    "text": "[ 1-9 | 11-19 | 21-29 | 31-39 | 41-49 | 51-59 | 61-69 | 71-80 |1| __ S] | 12345678901234567390123456789012345678901234567890123456789012345678901234567390|Il I|||||1 | ISTSDUXXX-XX-XXXX 111|2 |MF TAXPRD C NN 121131 131141 141151 15116 1 16 1171 17118 1 18119 1 19 1110} 11011119 111}112} 112]113] 1131114} 114]1151 11511161 11611171 11711181 11811191 11911201 120]121 121}122] 1221231 123}1241 24|I_I 12345673901234567890123456789012345678901234567390123(56789012345678901234567890| 1| I] ] 1-9 | 11-19 | 21-29 | 31-39 | 41-49 | 51-59 | 61-69 | 71-80 | ]l i",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "a7683a7449a84af014ea96ce8643c682",
+    "text": "Screen Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d85bccae2e23a1686f30370233cbee00",
+    "text": "] 1-9 | 11-19 | 21-29 | 31-39 | 41-49 | 51-59 | 61-69 | 71-80 I| ISTSDU 11|DO YOU REALLY WANT TO RESTORE THIS CASE? Y/N (N) 121| FILER CLAIM TAX SECONDARY NAME CLAIMANT 131| TIN CODE NUM MFT PERIOD TIN CONTROL STATE 14| XX-XX-XXKX X XX XX 000X XXX-XX-XXX XXX pod 151| 161| STAGE DATE STAGE/COMMENT DATA  STAGE DATE STAGE/COMMENT DATA 171|| XX XX/XX/XXXX X00oa000oo0tooottoonXX. XX XX/ XX/ XXXX XXXOOOOKXKKHOOOOOOCOOKK | 8| XX XX/XX/XXXX X00000000000000000000KkT XX XX/ XX/ XXXX XXOOOOKXXKKHKKKKKKAKKKX| 9 |110] XX XX/XX/XX X0000ootottotooooooKE. XX XX/ XX/ XXX XOOOO00ComRX KOO | 10 |111] XX XX/XX/30X  X0o0CoototootooOooOOKKX. XX XX/XX/ XXX XXOoncaaaaaaouoooa | 11 |112] XX XX/XX/XKX X00000000000o000OKK. XX XX/ XX/ XXKX  XXOOOKXXKXOOOOoaoooa | 12 ||13] 13-23 repeat 11311141 114}1154 1151161 1161117 1171118] 118}1191 119}1201 1201121} 121}122 122§123} 123}1241 124|+112345678901234567890123456789012345678901234567890123456789012345678901234567890] |l _1 1-9 | 11-19 | 21-29 | 31-39 | 41-49 | 51-59 | 61-69 | 71-80 ] I",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "cc6c681de9ae9e573f61564d09997fb7",
+    "text": "Record Element Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7e25213a9d549028e397c2c159a720cc",
+    "text": "2.3.76-4 (Cont. 1) (01-01-2009) Action Screen Row Position 1 1–6 ISTSDU 2 47 Entry point for permission to Restore case. Y to restore. N to retain as deleted. 5 1–12 Primary taxpayer TIN from previous command code 5 14 Filer Code (P or S) from previous command code 5 2–21 CLAIM Number from previous command code 5 25–26 MFT of module from previous command code 5 29–34 Tax Period of Module from previous command code 5 37–47 Secondary TIN of case from Innocent Spouse Tracking Record 5 48–51 Name Control from Entity Record 5 64–65 Claimant State of case from Innocent Spouse Tracking Record 9–23 3–4 Stage number or History type from Innocent Spouse Tracking Record 9–23 6–15 Stage date or History action date from Innocent Spouse Tracking Record 9–23 17–40 Unformatted stage data or history entry 9–23 43–44 Stage number or History type from Innocent Spouse Tracking Record 9–23 46–55 Stage date or History action date from Innocent Spouse Tracking Record 9–23 57–80 Unformatted stage date or history entry",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "7b6d6f3b99f94e92f01a5308f4ae4a6a",
+    "text": "Exhibit 2.3.76-4 (Cont. 1) (01-01-2009) ISTSDU Action Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "71519761ad890bd21c7fe9ce4aef192b",
+    "text": "ISTSDU",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "db9cb1c945fea3008efc6d2718233490",
+    "text": "Stage date or History action date from Innocent Spouse Tracking Record",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "4bfe0e95761ff4cdce7dc305be089ae8",
+    "text": "Unformatted stage data or history entry",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "9f8a38aed591a18c44d4a86cf3953e8e",
+    "text": "Unformatted stage date or history entry",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "9541bdf2872b5af9603ef25112dad6a6",
+    "text": "Note: Only the ﬁrst 32 stages or History comments will be displayed for any case.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "60f7fb915edae0210842a21e4b6e35d6",
+    "text": "ISTSD Error Messages:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-076--2020-04-28.pdf",
+      "page_number": 13
+    }
+  }
+]

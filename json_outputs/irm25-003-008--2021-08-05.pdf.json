@@ -1,0 +1,4412 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "d47597a5291935850e8cda3eff824668",
+    "text": "IRM 25.3.8.1: Adds IMD management and internal control section in compliance with IRM 1.11.2.2.5.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "14f45267647b3b69db2cbb0997bc8f75",
+    "text": "IRM 25.3.8.2: Adds section deﬁning -W transaction code (TC) 520 litigation freeze and associated closing codes including the purposes for which the closing codes are used.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "83fa74612812e5a8bde59d3ff2d4401c",
+    "text": "IRM 25.3.8.4: Adds section describing the -W litigation freeze monitoring processes for the various types of litigation and the various servicewide stakeholders using them.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "fe7590bde71eb1fdd940db898133b0e8",
+    "text": "IRM 25.3.8.5: Adds section describing the -W litigation freeze resolution processes for the various types of litigation and the various servicewide stakeholders using them.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "d231864915bd7bcdab0b5209039a9f05",
+    "text": "IRM 25.3.8.6: Adds section for Non-Master File (NMF) and the Automated Non-Master File (ANMF) system describing how the -W litigation TC 520 freeze and closing codes work for these types of accounts.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "93173d0e9aac9ad8717c8ea50849eb46",
+    "text": "IRM 25.3.8-1: Adds exhibit pictorially showing steps 1-13 in the, Creating a LAMS Report, table in IRM 25.3.8.4.1(4) for setting up a report. Accessing the report requires access through the BEARS or OL5081 system.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "9af205899803828f019288f48bc6ebd8",
+    "text": "IRM 25.3.8-2: Adds exhibit pictorially showing steps 14-16 in the, Creating a LAMS Report, table in IRM 25.3.8.4.1(4) for exporting the report to Excel.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a5366f037d0489616437cfe40a9fe661",
+    "text": "IRM 25.3.8-3: Adds exhibit pictorially showing steps 304 in the, Instructions for Completing Form 4844, table in IRM 25.3.8.3(3), Form 4844 Request TC 520 Input.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "82771e6cd997d4df10184dc9fb1df731",
+    "text": "SBSE Collection employees and all operating divisions",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "339ad578b97539eaeeb77adb72217262",
+    "text": "REPORT: LAMS Non-Insolvency Case Listing – ULC & cc Prompts Export LAMS Report to Excel Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 4
+    }
+  },
+  {
+    "element_id": "2f0750db9564114471d4cd99e8796c54",
+    "text": "Example Acronyms with their Deﬁnitions",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 4
+    }
+  },
+  {
+    "element_id": "9dcbadcdba3856e3f99e65dd8bb6b849",
+    "text": "and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "96b4db06feea9cd989819c6ee3d7fb94",
+    "text": ") Purpose: In certain circumstances, the Internal Revenue Service initiates liti- gation action against a taxpayer or third party and uses certain IDRS codes notate and control that litigation. A taxpayer can also initiate a suit for recovery of taxes or other matters. IRS systems and staff need to know litigation was initiated, a way to monitor it, and a way to resolve it. This guide draws together information from across the IRM as a whole providing a consolidated reference guide on the topic. The guide’s purpose is a servicewide rather than segmented picture on the what, where, when, how, and who for systemically notating litigation. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4687c2008a5b22697f30836d9fa66387",
+    "text": ") Audience: The audience for this IRM includes the stakeholders who use the -W litigation freeze codes. The audience includes those needing background on the various processes used by different business units or needing refer- ences on monitoring or closing a litigation freeze. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "05f3d8c89409976fd68ddff844f7a663",
+    "text": ") Policy Owner: The multiple policy owners for this IRM are listed below. • Director, Collection Policy. Collection Policy is an organization under Small Business/Self-Employed Division (SBSE), Collection. • Director, Independent Office of Appeals, Case & Operations Support. • Director, Submission Processing. Submission Processing is an organi- zation under Wage and Investment (W&I), Customer Account Services. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4ccf824831821c5b55220f8c5343ad8f",
+    "text": ") Program Owner: The multiple program owners for this IRM are listed below: • SBSE, Collection Policy, Enforcement and Insolvency. • Independent Office of Appeals, Policy Planning Quality & Analysis, lection and Examination Policy & Analytics. • W&I, Customer Account Services, Submission Processing. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4956c86022ed39004b7e569b7b57ec49",
+    "text": ") Program Director: SBSE, Collection Policy, is the program director under whose signature this IRM is authorized and published. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "58aa0f9afba154761c407e71011cc840",
+    "text": ") Primary Stakeholders: The primary stakeholders are Appeals, Chief Counsel, Collection, W&I, and Department of Justice attorneys. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "885b432c423e92d46b07be3e4e584599",
+    "text": ") Program Goals: The goal of the program aligns with IRS Strategic Goal to: Cultivate a Well-Equipped, Diverse, Flexible and Engaged Workforce and Objective One to: Foster a collaborative and inclusive culture . By utilizing this IRM guide, employees will understand and act appropriately moving modules in and out of litigation freezes. The appropriate input, monitoring, and reversal of litigation freezes prevents inappropriate issuance of balance due notices, correctly suspends and reactivates the collection statute, and ensures modules are collected, refunded, or otherwise resolved appropriately. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3c911c8b05548fd2eb6358168d2f0561",
+    "text": ") This section provides general background for transaction code (TC)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8c503b13c9eebbbeda95cb316d6f7e90",
+    "text": "- W freeze input, monitoring, and closure. These processes are important in that they help the Service to effectively monitor the status of litigation, which has impacts on the related tax accounts. Previously there has not been a single comprehensive source with guidance on the various parts of the process and how the process can differ with different types of litigation. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "64851196ebbb9f11ac8d98a808b6e0aa",
+    "text": ") The -W litigation freeze codes are used for litigation by or against the United States. The authorities listed below include but are not limited to circumstances where a -W litigation freeze may be appropriate. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ec6046f13999d8f7f62c6d00af382f89",
+    "text": "Program Owner: The multiple program owners for this IRM are listed below:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "37596b69986740c5a7fd4bcfd13a630b",
+    "text": "The legal authorities for civil actions by the United States include:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3ddbe6a3ca2f7499ede7f3ae828090ab",
+    "text": "Authority Title IRC 7401 Authorization. IRC 7402 Jurisdiction of district courts. IRC 7403 Action to enforce lien or to subject property to payment of tax. IRC 7404 Authority to bring civil action for estate taxes. IRC 7405 Action for recovery of erroneous refunds. IRC 7406 Disposition of judgments and moneys recovered. IRC 7407 Action to enjoin tax return preparer. IRC 7408 Actions to enjoin speciﬁed conduct related to tax shelters and reportable transactions.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1e1f0e4fd66caecd1f30dbc735cbe6b7",
+    "text": "Authority Title IRC 7401 Authorization. IRC 7402 Jurisdiction of district courts. IRC 7403 Action to enforce lien or to subject property to payment of tax. IRC 7404 Authority to bring civil action for estate taxes. IRC 7405 Action for recovery of erroneous refunds. IRC 7406 Disposition of judgments and moneys recovered. IRC 7407 Action to enjoin tax return preparer. IRC 7408 Actions to enjoin speciﬁed conduct related to tax shelters and reportable transactions. (3) The legal authorities related to Tax Court or District Court litigation include: Authority Title IRC 6015 Relief from joint and several liability on joint return. IRC 6110 Public inspection of written determinations. 26 CFR 301.6213-1 Restrictions applicable to deﬁciencies; petition to Tax Court. IRC 6320 Notice and opportunity for hearing upon ﬁling of notice of lien. IRC 6330 Notice and opportunity for hearing before levy. IRC 6404 Abatements. 26 CFR 301.6402-2 Claims for credit or refund.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ac45707df9edd9896c15f876033dc711",
+    "text": "(3) The legal authorities related to Tax Court or District Court litigation include: Authority Title IRC 6015 Relief from joint and several liability on joint return. IRC 6110 Public inspection of written determinations. 26 CFR 301.6213-1 Restrictions applicable to deﬁciencies; petition to Tax Court. IRC 6320 Notice and opportunity for hearing upon ﬁling of notice of lien. IRC 6330 Notice and opportunity for hearing before levy. IRC 6404 Abatements. 26 CFR 301.6402-2 Claims for credit or refund. IRC 6511 Limitations on credit or refund. IRC 6532 Periods of limitation on suits IRC 7345 Revocation or denial of passport in case of certain tax delinquencies. IRC 7428 Declaratory judgments relating to status and classiﬁcation of organizations under section 501(c)(3), etc. IRC 7429 Review of jeopardy levy or assessment procedures IRC 7432 Civil damages for failure to release lien. IRC 7433 Civil damages for certain unauthorized collection actions. IRC 7436 Proceedings for determination of employment status. IRC 7476 Declaratory judgments relating to qualiﬁcation of certain retirement plans. IRC 7478 Declaratory judgments relating to status of certain governmental obligations. IRC 7623 Expenses of detection of underpayments and fraud, etc.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9b1999d6a0386e61070abe04dadf88fe",
+    "text": "The legal authorities related to Tax Court or District Court litigation include:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5ea0be4df580ebeb17ca166679694325",
+    "text": "TC 520 - W Freeze Servicewide Guide 25.3.8",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b678cc85911de0fe8e8257598779af15",
+    "text": "(4) The legal authority for Bankruptcy and Bankruptcy Litigation:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2617b438ede695aeb236252f3948100b",
+    "text": "Responsibilities: The executives responsible for ensuring appropriate infor- mation exists to properly control litigation accounts include:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "70f3486cb42157bfde71d9f38261cc6e",
+    "text": "Roles: This IRM, in its subsections, identiﬁes and deﬁnes the roles of the parties active in legal and judicial actions both by and against the United",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "e2ae38ae53e3a5ece46080efa87ac175",
+    "text": "Note: IRM 5.17.1, Legal Reference Guide for Revenue Officers, General Informa- tion, provides a list of the parties with an explanation of their role with suits.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "6eeb3178125022f3f0fb39779bdabe7e",
+    "text": ") This section discusses systems allowing research beneﬁcial for monitoring TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "77a701f2118e61ca261b815206e2c845",
+    "text": "s requires controlled access. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f70e172339afb532802eae5f0e482966",
+    "text": ") Litigation Account Management System (LAMS): LAMS is not a global reporting system for every IRS organization that is involved with litigation. However, it is a report system found in the Business Objects Environment (BOE) application that closely associates with the Automated Insolvency System (AIS) application. Insolvency and Collection Advisory use it for the purpose of researching and monitoring open TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "dc2c247f2ef6f1b740fb0ec2ee9d7710",
+    "text": "-W and -V freeze closing codes. Collection Insolvency and Advisory organizations use this tool to monitor the TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f074975b2cb779ba41192e9fa88db995",
+    "text": "s under their scope of responsibility. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "9429480a1c13390952c92f731494b41b",
+    "text": ") References for LAMS: • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b4b2a5aa4bdd268f6dcffada4659084f",
+    "text": ", Monitoring and Closing Actions. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "857f9e33adc0fc441727b8310a09a233",
+    "text": ", Reconciling Non-Insolvency LAMS Reports. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b05e98c44512cfaf697346e7ca497302",
+    "text": ", Reports (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "0b7a537a7e1b39db14685146be81a1b7",
+    "text": ") Appeals Centralized Database System (ACDS): This is an Appeals comput- erized case control system used to control and track cases throughout the appeal process. It combines various Appeals database systems into one cen- tralized web-based system. Appeals employees use a variety of reports to control Tax Court and Collection Due Process cases under Appeals and/or Counsel jurisdiction. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "34ce8e6456d2ebfde3cd09461edd2dc4",
+    "text": ") References for ACDS: • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "0bcb6a50c2f92d88cca12f26d1977162",
+    "text": ", Internal Reports. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "7c29582735903eb29939ffdf0347f7d8",
+    "text": ", IDRS Transcripts and Automated Systems. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ef05326641fc5fb0354b86f32ea50581",
+    "text": ", Appeals Centralized Database System (ACDS). • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "487fc30fb24eee0346b65ddba915c6de",
+    "text": ", Appeals Processing Employee Automated System (PEAS). • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "1242f8e8d479273aab3e0e044e9edd7b",
+    "text": ", Program Reports. Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f70e172339afb532802eae5f0e482966",
+    "text": ") Litigation Account Management System (LAMS): LAMS is not a global reporting system for every IRS organization that is involved with litigation. However, it is a report system found in the Business Objects Environment (BOE) application that closely associates with the Automated Insolvency System (AIS) application. Insolvency and Collection Advisory use it for the purpose of researching and monitoring open TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "dc2c247f2ef6f1b740fb0ec2ee9d7710",
+    "text": "-W and -V freeze closing codes. Collection Insolvency and Advisory organizations use this tool to monitor the TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "e7045cf28b5a75c513342b8e7504dd5c",
+    "text": "s under their scope of responsibility.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "4b984b3ea8cbabf522d323732da1e0d5",
+    "text": "IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "47ff9eb03b7c51349b4c6387ffeb240b",
+    "text": ", Internal Reports. IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "8c70bd8758be86072a35afa0612642a5",
+    "text": ", IDRS Transcripts and Automated Systems. IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "48fb9ac43956a63ccc8efc9edb87e6ea",
+    "text": ", Appeals Centralized Database System (ACDS). IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f64cc898e5a0dd7f45382ae421e10220",
+    "text": ", Appeals Processing Employee Automated System (PEAS). IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "531eeefb7350a4013b85d0e950d745da",
+    "text": ", Program Reports.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3f2f43ca3fbc6ae8b8f0e5caf5a05e7c",
+    "text": ") Compliance Data Warehouse (CDW): The CDW provides access to TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f5cd21d3dfd5317970374b1db510acaf",
+    "text": "data as it captures data from multiple production systems and organizing the data in a way that is conducive to research and analysis. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "14cfe8146829df0a4d8e84474948a1ca",
+    "text": ") Integrated Automated Technologies (IAT): IAT is a collection of workstation- installed productivity tools used for account research and processing functions on the Integrated Data Retrieval System (IDRS). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "cdd6a04dc8f0847aa90fe8c885943211",
+    "text": ") References for Counsel: Counsel has several reports which assist attorneys tracking litigation. The Chief Counsel Directives Manual (CCDM) describes these reports. • CCDM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "631d08c0d1f0cb2b345f9c1a8859ae9e",
+    "text": ", General Litigation (CASE-GL) . • CCDM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e7de74c0ff151f80e1e47aea197aa6d7",
+    "text": ", TECHMIS (CASE-TM) . • CCDM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "33eeaa246a2576cd88e8103f5fe8e9b1",
+    "text": ", Tax Litigation Counsel Automated Tracking System (TLCATS) . Effectiveness (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "67a27836bcf7a395972cd97121e9bc11",
+    "text": ") The effectiveness of the -W litigation freezes is dependent upon whether they are input correctly, monitored properly, and most importantly resolved timely. the completion of the litigation, the case needs to move back into the normal business processing stream. This could mean that the case is simply closed, collection of the account needs consideration, or refunds need to be issued. Note: Incorrect freeze code usage will not in itself affect litigation. However, certain actions taken to correct a freeze code error could affect how a litigation argument is made to the court. For example, the Department of Justice (DOJ) may have to explain that failure to timely post a freeze code suspend- ing the Collection statute caused the statute to expire and the statutory federal tax lien for the assessment to be released; but, corrections were made reversing the Collection statute expiration, inputting a freeze code pending the Collection statute, and ﬁling a revocation of lien release. See Treasury Regulation",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d7fc64046c71407908f5d7b02da818b9",
+    "text": "(g)-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "0cc96131c6dffda0ade7ee201f32ecd6",
+    "text": ")(i). Controls (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "5d9cf3b9bb0f4d44ead0af13809a694b",
+    "text": ") Access to systems used for the input, monitoring, and resolution of litigation freeze codes are controlled following standard access guidelines through the Business Entitlement Access Request System (BEARS) (formerly the Online",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "5389d15bf8609fe7429eaef3bd1c7b22",
+    "text": "(OL",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "99dd449db58efd9aa915cb6f93f2fcdc",
+    "text": ") system). The primary systems accessed include, but are not limited to: Reminder: Speciﬁc business units restrict use for some of the systems listed. System Acronym",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d0890f5d45cc7319001619c60f9c1db5",
+    "text": "Litigation and Judgments",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "54aa77f9644764d18150c5bb16603793",
+    "text": "References for Counsel: Counsel has several reports which assist attorneys tracking litigation. The Chief Counsel Directives Manual (CCDM) describes",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e3492843c649ca940dfcd00c8d8fff2f",
+    "text": ") The effectiveness of the -W litigation freezes is dependent upon whether they are input correctly, monitored properly, and most importantly resolved timely. At the completion of the litigation, the case needs to move back into the normal business processing stream. This could mean that the case is simply closed, collection of the account needs consideration, or refunds need to be issued.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "81d094e006ed73b6b03ea2cfdc79a485",
+    "text": "The effectiveness of the -W litigation freezes is dependent upon whether they are input correctly, monitored properly, and most importantly resolved timely. At the completion of the litigation, the case needs to move back into the normal business processing stream. This could mean that the case is simply closed, collection of the account needs consideration, or refunds need to be issued.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ce43fe770322e85720eb18c6b0e23d65",
+    "text": "collection of the account needs consideration, or refunds need to be issued. Note: Incorrect freeze code usage will not in itself affect litigation. However, certain actions taken to correct a freeze code error could affect how a litigation argument is made to the court. For example, the Department of Justice (DOJ) may have to explain that failure to timely post a freeze code suspend- ing the Collection statute caused the statute to expire and the statutory federal tax lien for the assessment to be released; but, corrections were made reversing the Collection statute expiration, inputting a freeze code sus- pending the Collection statute, and ﬁling a revocation of lien release. See Treasury Regulation",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d7fc64046c71407908f5d7b02da818b9",
+    "text": "(g)-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8422140d83b0a3f8ab59dfa5432edc92",
+    "text": ")(i).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "5d9cf3b9bb0f4d44ead0af13809a694b",
+    "text": ") Access to systems used for the input, monitoring, and resolution of litigation freeze codes are controlled following standard access guidelines through the Business Entitlement Access Request System (BEARS) (formerly the Online",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "5389d15bf8609fe7429eaef3bd1c7b22",
+    "text": "(OL",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "b221c36d4255fb468c446991b966e287",
+    "text": ") system). The primary systems accessed include, but are not limited to:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "5eccba929cafe9d5fd54920fcd71dd68",
+    "text": "Reminder: Speciﬁc business units restrict use for some of the systems listed.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "5e582f158875ff1f1a66ecb0ef7b24fb",
+    "text": "System Acronym Account Management System AMS Appeals Centralized Database System ACDS Automated Information Management System AIMS Automated Insolvency System AIS Automated Non-Master File ANMF Docketed Information Management System DIMS",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d7fd763a7bee55d09b96832e1b69b807",
+    "text": "System Acronym Integrated Database Retrieval System IDRS Integrated Automated Technologies IAT Integrated Collection System ICS Innocent Spouse Tracking System ISTS Processing Employee Automated System PEAS Public Access Court Electronic Record PACER TC 520 - W Freeze Servicewide Guide 25.3.8 page",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "f438d5189602287b8456b6008aa06fb6",
+    "text": "Note: User Guides for most of the IRS systems referenced are available on the IRS intranet and should be consulted for speciﬁc instructions on their usage.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "bb0af68bd325c7faddee77ff2cefd7b7",
+    "text": "Procedural guidelines for the maintenance of litigation cases include, but are not limited to, the references in the list below.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "0d9b3efca98ea23b1d341a6e66ab2d3a",
+    "text": "Resource List IRM Number IRM Title IRM 3.17.46 Automated Non-Master File Accounting. IRM 3.17.243.8 Refund Litigation Cases. IRM 5.9.5.6.1 Opening a Bankruptcy Case, Closing Codes. IRM 5.9.5-5 Processing the Serial Filer Case When the Stay Terminates After 30 Days. IRM 5.9.5-6 Processing the Serial Filer Case When No Stay Goes into Effect. IRM 5.9.5-7 Debtor States Identity Theft (IDT). IRM 5.9.6-2 Processing a Chapter 7 Turnover Requests when the Case is Closed on AIS. IRM 5.9.6-3 Processing Chapter 7 Trustee Turnover Requests when the Case is Open on AIS. IRM 5.9.6-4 Conversions and Turnover Requests. IRM 5.9.6-5 Processing Withdrawals or Rescissions of Trustee Turnover Requests. IRM 5.9.6-6 TC 520 Input Guide for Trustee Turnover Requests. IRM 5.9.17.17 Closing Bankruptcy Cases, Reversal of Freeze Codes (TC 521). IRM 5.9.20 Non-Bankruptcy Insolvencies. IRM 5.9.20.2.1 SIPA Cases.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b1daa150651055e4891d19e17beeae66",
+    "text": "IRM Number IRM Title IRM 5.9.20.3(9) Receivership Procedures, Manual Processing. IRM 5.17.4 Suits by the United States. IRM 5.17.5 Suits Against the United States. IRM 8.20.5 Account and Processing Support (APS). Carding New Receipts. IRM 8.20.6 Account and Processing Support (APS). Interim Actions. IRM 8.20.7 Account and Processing Support (APS). Closing Procedures. IRM 21.5.6.4.46 -W Freeze.. IRM 25.3 series, Litigation and Judgments. CCDM 34.10.1.2 Post-Trial Procedures, General Procedures, Closing Refund Cases. CCDM 34.10.1.2.1 Post-Trial Procedures, General Procedures, Closing Memorandum. CCDM 34.10.1.3.2(7) Post-Trial Procedures, General Procedures, Notiﬁcation to Other Offices. (2) Other Related Resources:",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "fbfdddaf7cfb068dc4501c6f2b40bafb",
+    "text": "Post-Trial Procedures, General Procedures, Closing Memorandum.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "665e429439ba7b16d5511cf27192148b",
+    "text": ") Post-Trial Procedures, General Procedures, Notiﬁcation to Other Offices. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0edad9b7264dbc24321394d90f804f37",
+    "text": ") Other Related Resources: a. Knowledge Management Suit Forms page under Other Related Re- sources click either option located there to open the page Suits - Resources/Examples . On that page is a webinar walking through the forms. There are also User Guide tutorials for the different form revisions and examples of the most common suit types, b.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "f2c6fcd583aa1c8a7e62ba25d913ddc8",
+    "text": "pproval Information Center . c. Suit and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "fadb1846866a7d751329c53004331339",
+    "text": "pproval Resources d. Additionally, examples of Collection Campus IRM resources include: Example: IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "4d3499242c8236695b4368b510ed09fe",
+    "text": ", General Case Processing IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3eefe6ff5e6908969215905394c0e20d",
+    "text": ", CCP Installment Agreements IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "254fc326641a979e183141733011579a",
+    "text": ", Field Office Resource Team (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "cb4eabb69ddcc4eeb3c19627b1aa1a3a",
+    "text": ") The Taxpayer Bill of Rights (TBOR) lists rights that already existed in the tax code, putting them in simple language and grouping them into",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "67887941d84a9454424f7d1278774e31",
+    "text": "fundamental rights. Employees are responsible for being familiar with and acting in accord with taxpayer rights. See IRC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "a9eed9583ff65d80e3293d6ad2dada94",
+    "text": "(a)(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "5fcb21ab9bc7289e8c9b7be7cdb464cc",
+    "text": "), Execution of Duties in Accord with Taxpayer Rights. TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "299accc9b50fadb356066f7cc24ab9c8",
+    "text": "- W Litigation Codes (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0a2c399f14523bfd6a72db85d125a480",
+    "text": ") - W freezes are litigation freezes. They are shown on IDRS transcripts for purpose of identifying those accounts with active litigation or an ongoing Col- lection Due Process hearing. The -W litigation freeze shows on individual modules and account summaries including but not limited to the CFOL commands IMFOLI and BMFOLI. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "50f428c6255531804132736197230e86",
+    "text": ") Litigation freezes are identiﬁed with either a -W freeze or a -V freeze. Both initiated through posting a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "22404ba87d814f3efb62ba5739cb2922",
+    "text": "to a module with a two-digit closing code. The closing code associated with the TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "c5fca745b63c5ceff064da90f39ddd7e",
+    "text": "posting deﬁnes the type of tion and the actions the freeze will prevent or suspend.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0b222c88dfcc135a5c55f35fad007ee9",
+    "text": "Other Related Resources:",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d28f46d51ca40c39067d01e16360d6f5",
+    "text": "Knowledge Management Suit Forms page under Other Related Re- sources click either option located there to open the page Suits - Resources/Examples . On that page is a webinar walking through the suit forms. There are also User Guide tutorials for the different form revisions and examples of the most common suit types,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "7d43ffa4a90edbac15fb79de65198b1b",
+    "text": "pproval Information Center . Suit and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "7a137736b748c33dab4f17da53b10d61",
+    "text": "pproval Resources Additionally, examples of Collection Campus IRM resources include:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "cb4eabb69ddcc4eeb3c19627b1aa1a3a",
+    "text": ") The Taxpayer Bill of Rights (TBOR) lists rights that already existed in the tax code, putting them in simple language and grouping them into",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "67887941d84a9454424f7d1278774e31",
+    "text": "fundamental rights. Employees are responsible for being familiar with and acting in accord with taxpayer rights. See IRC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "a9eed9583ff65d80e3293d6ad2dada94",
+    "text": "(a)(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "71d7c7938311801313ff01581963f375",
+    "text": "), Execution of Duties in Accord with Taxpayer Rights. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3983fcefc42bcfef8eac4c78567162e2",
+    "text": ") - W freezes are litigation freezes. They are shown on IDRS transcripts for the purpose of identifying those accounts with active litigation or an ongoing Col- lection Due Process hearing. The -W litigation freeze shows on individual modules and account summaries including but not limited to the CFOL commands IMFOLI and BMFOLI. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "cbd6a0b25c78b49b3eb27f8ddd15e6d2",
+    "text": ") Litigation freezes are identiﬁed with either a -W freeze or a -V freeze. Both are initiated through posting a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "22404ba87d814f3efb62ba5739cb2922",
+    "text": "to a module with a two-digit closing code. The closing code associated with the TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "7c4d18d051ea6e7085085c8d41e7d72b",
+    "text": "posting deﬁnes the type of litiga- tion and the actions the freeze will prevent or suspend.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "7fc8d04af5726ae5a7d0df89c7c69f64",
+    "text": "520 - W Freeze Servicewide Guide 25.3.8 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "211ddab19fe3e8b13d726068f99f2885",
+    "text": "Note: Not covered in this IRM are -V Freezes: The -V freeze and its closing codes relate speciﬁcally to bankruptcy and are not a part of this IRM. For more information on bankruptcy -",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "e34eb11939037c3f0677f3617adce93f",
+    "text": "Note: Not covered in this IRM are -V Freezes: The -V freeze and its closing codes relate speciﬁcally to bankruptcy and are not a part of this IRM. For more information on bankruptcy - See the following: Reference Title IRM 5.9 series Bankruptcy and Other Insolvencies. IRM 5.9.5.6.1 Closing Codes IRM 5.17.9 Chapter 7 Bankruptcy (Liquidation). IRM 5.17.10 Chapter 11 Bankruptcy (Reorganization). IRM 5.17.11 Chapter 13 Bankruptcy (Individuals with Regular Income) and Chapter 12 Bankruptcy (Family Farmers or Fishermen with Regular Income). IRM 21.5.6.4.44 -V Freeze. (3) Covered in this IRM are - W freezes: The -W freeze closing codes are 70-82 and 84. Details on their parameters may be found in Section 8 of the Document 6209 under, TC 520 Closing Code Chart. Reminder: Closing codes 78 and 79 are currently not in use and blocked. See also IRM 21.5.6.4.46, -W Freeze. (4) Overview: -W litigation freeze closing codes organize into: a. The actions caused by their posting to an account, and Closing Code Resulting Actions: Closing Codes Resulting Action 70, 73, 74, 76, 77, 80, 81, 82 Moves Modules into Status 72 and out of the Collection Stream. 70, 74, 76, 77, 80, 81, 82 Prevents Balance Due Notice Issuance. 76, 77, 80, 81, 82 Suspends Collection Statute (CSED). 73, 76, 77, 81 TC 521 resolution or TC 522 Correct Requires Closing Code. b. Identiﬁcation of the type of litigation. What the Litigation Closing Codes Indicate Closing Codes General Use for This Type of Litigation 71 and 73 Refund Litigation 72 and 74 Tax Court 76 and 77 Collection Due Process 70, 75, 80, and 82 Collection Advisory, suits initiated by the IRS and referred to the Depart- ment of Justice. Cat. No. 75587U (08-05-2021) Internal Revenue Manual 25.3.8.2",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "96017040356cf4bd0e9fc5d035bbacad",
+    "text": "Reminder: Closing codes 78 and 79 are currently not in use and blocked.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "70c231109759ab18116fde76dd8f4f81",
+    "text": "See also IRM 21.5.6.4.46, -W Freeze.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "889e832d25d8526fc4e305ab30528e07",
+    "text": "Overview: -W litigation freeze closing codes organize into:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "018068edd528c99b614aa188a0c5a494",
+    "text": "(4) Overview: -W litigation freeze closing codes organize into: a. The actions caused by their posting to an account, and Closing Code Resulting Actions: Closing Codes Resulting Action 70, 73, 74, 76, 77, 80, 81, 82 Moves Modules into Status 72 and out of the Collection Stream. 70, 74, 76, 77, 80, 81, 82 Prevents Balance Due Notice Issuance. 76, 77, 80, 81, 82 Suspends Collection Statute (CSED). 73, 76, 77, 81 TC 521 resolution or TC 522 Correct Requires Closing Code. b. Identiﬁcation of the type of litigation. What the Litigation Closing Codes Indicate Closing Codes General Use for This Type of Litigation 71 and 73 Refund Litigation 72 and 74 Tax Court 76 and 77 Collection Due Process 70, 75, 80, and 82 Collection Advisory, suits initiated by the IRS and referred to the Depart- ment of Justice.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "59a1e0a28e5b33a463b6408be1fb979a",
+    "text": "Closing Codes Resulting Action 70, 73, 74, 76, 77, 80, 81, 82 Moves Modules into Status 72 and out of the Collection Stream. 70, 74, 76, 77, 80, 81, 82 Prevents Balance Due Notice Issuance. 76, 77, 80, 81, 82 Suspends Collection Statute (CSED). 73, 76, 77, 81 TC 521 resolution or TC 522 Correct Requires Closing Code.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "48f7fc58ea3c988b6ce0d90694e40a8d",
+    "text": "Collection Advisory, suits initiated by the IRS and referred to the Depart- ment of Justice.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "150b1c83c6b005d3c0ee42daa644e895",
+    "text": "Codes General Use for This Type of Litigation and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "15a1b310b05d83400ae217013d40b779",
+    "text": "Collection Insolvency, associated with bankruptcy. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8ffcf21ece56590311a0dad2bbc36da2",
+    "text": ") IRM Reference for All Freeze Codes: Information on all freeze codes is in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "457d212322ef48c0ffb938d43ca5b1a9",
+    "text": ", Customer Account Services, Account Resolution, Freeze Codes. Speciﬁc information on -W litigation freezes is in the subsection IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "edf2939e4f4aacb647fecc7381beeea2",
+    "text": ", - W Freeze. The subsection contains information on setting the freeze and contact organizations for the individual closing codes. To Go With When Finding TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "d017e7210cf5025cc6c0141cefe3d2d5",
+    "text": ") This IRM in its entirety is designed to provide background, direction, and assis- tance in understanding the importance and impact of a -W litigation freeze and where to ﬁnd answers or contacts on the steps needed to ensure that litigation freezes are closed timely. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "f41bf44b47bae82e0a6985eb7ffdbcff",
+    "text": ") Search the IRM by closing code or type of litigation. Also, review -W freezes IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "429c3978485d13617dbcec35c672decb",
+    "text": ", - W Freeze. Closing Code - Do (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "9dad1d42d0f15150a7da1321f4acb01e",
+    "text": ") When ﬁnding an incorrect Closing Code correct it by inputting or requesting input of a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "1a434be282507e9189d28db9c30a4907",
+    "text": "to remove the TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "7c645b44561cf758c23714f73a02da89",
+    "text": "Some TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "ebe1142174a8fb5dfe769527049cb152",
+    "text": "s require the matching Closing Code and others do not. See table in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "a305f0da85bf22fe0637510b537ce0c9",
+    "text": ", Closing Code Resulting Actions.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "1052c462aedb10280bcf35defbd5c1c5",
+    "text": "Non-Designated Purpose Caution: Research has shown that while different types of litigation resolve in different time frames, a good standard for increased scrutiny is on an open TC 520 -W litigation freeze aged six or more years since the original posting.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "7340dde0588e688e5c596b00b84b0410",
+    "text": "(2) For a business unit seeking a non-designated use of a litigation freeze:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "00d61864299671e2c66a78b1d222baf6",
+    "text": "Contact the organization using the freeze and closing code. Work out an agreement for use. Commit a responsible business unit to the input, monitoring, and resolution of the freezes arising with the work identiﬁed. Assign someone to access and use LAMS to monitor these accounts. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "cd7e35745e79d31cdf29b662d28b7c87",
+    "text": "Contact the organization most frequently using the freeze and closing code. Discuss the appropriateness of its use for the minimal number of accounts. If the use is appropriate, identify a responsible business unit for the input, monitoring, and resolu- tion for these minimal number of accounts. Assign someone to access and use LAMS to monitor these accounts. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "11eadd5011f0708b8d6b9fafa2f88bfd",
+    "text": "Contact Information Technology through a Uniﬁed Work Request seeking a new closing code. Provide the parameters needed for its use as well as the business unit responsible for inputting, monitoring, and resolving the TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "39b7f89389fd727a6886daa3cdeb48d4",
+    "text": "and new closing code. Assign someone to access and use LAMS to monitor these accounts. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d8ae6f1a9197ace91411eb6e1105e447",
+    "text": ") The -W litigation freeze is set by input of a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "c98bd782d3df93a029a28ad49b63205e",
+    "text": "with the appropriate closing code. A TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "df8287a97b4a91d212839144ee085bd3",
+    "text": "can be input on IDRS using command code REQ",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "b7173f7b427f1ef78015747b6799b6bb",
+    "text": "or utilizing the IAT REQ",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "90ff5b75344476c7ddf8c9cb171c0791",
+    "text": "tool. The litigation - W freeze is input to designate ongoing liti- gation for a module or account and may control certain aspects of the account.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "ebbaf9e87f4f2c94162c327f52b7ab90",
+    "text": "Reminder: Different business units control litigation cases through different methods or systems. However, litigation freezes may be on a module for years allowing for a lapse in monitoring. Yet it remains imperative that a litigation freeze be closed as soon as the litigation is resolved, thus allowing the module or account to enter the correct business stream which could include: appropriately issue refunds, being sent to closed ﬁles, or entering the Collection stream.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "41db4e7af333534f7f2f82d632499c61",
+    "text": "Reminder: For applicable business units with manual input of TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d3bcff11aa6f2e94d9ca7241ecdf530c",
+    "text": "s (i.e., not systemic inputs), in the IDRS Control Base History section (aka., control base for TXMOD), entering literals identifying the party respon- sible for the litigation freeze, assists in managing long term open freezes and ensuring timely -W freeze closure.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "40b9d62b6728c534f3dfed46de06139d",
+    "text": "control base for TXMOD), entering literals identifying the party respon- sible for the litigation freeze, assists in managing long term open freezes and ensuring timely -W freeze closure. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "9ed9fbec7a97cd5470cfa3cd8bfa9b50",
+    "text": ") Responsible Party Inputs TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "fc3050257a9c8192e0bdc57b599164de",
+    "text": ": When inputting the TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "2878cf424c812d2bec5277c83277bee8",
+    "text": "in IDRS: a. Cross-check the closing code to determine that it is the appropriate one for the circumstances, Note: If requesting input by a second party see (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "a69fb4c93d19a1847a250c8e59dfe0e1",
+    "text": ") below. b. Enter the cc and cross-check that the correct cc was entered, Reminder: Entering an incorrect cc affects proper monitoring, resolution, and the CSED. c. Enter a literal into the IDRS Control Base History section (aka., control base for TXMOD). See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d3d5bd30dc34784dc3063b6bfa2e3bf6",
+    "text": "), Literal List for Control Base/ TXMOD History, for the literals, (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "02ccbdce09e0957f99cc631744f41f33",
+    "text": ") Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3ea77994471a14c5735e1d17cad7d394",
+    "text": "Request TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "b0a82a627aa18f25794aa8110dc56910",
+    "text": "Input: Many organizations use Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "8db33c806e108afb145cc850dcb97f08",
+    "text": "for input to IDRS. Those organizations or business units using Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "ce2af0aca6bc5c05dc177ab82df80750",
+    "text": "to request input of a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "5a86b6c4ec70b5d184206f2d8e0d3615",
+    "text": "-W freeze, follow the steps below:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d1d82563b6202a48b634b5b0f1520a39",
+    "text": "Instructions for Completing Form 4844 Step Action Instructions 1 Form 4844 Download a Form 4844 or use ICS template. 2 Form 4844 Enter Taxpayer account information. 3 Form 4844 Enter in the Form’s “Remarks” area Please Input and notate in TXMOD Control Base history. “TC 520 cc xx” where “xx” denotes the closing code. 4 Enter in the Form’s “Remarks” area below Step 3 content Please add a text literal in TXMOD Control Base History. Example: AdvAreaX where “X” denotes the 1-4 Advisory Areas. Note: The literals are limited to 10 digits only . See literal list in IRM 25.3.8.3(4), Literal List for Control Base/TXMOD History, below. Caution: Sometimes TC 520s are input through a system. For example, Appeals posts their Tax Court and CDP TC 520s through their system. When that happens the system does not post a control base history on TXMOD. However, Appeals uses a three-digit code in the transac- tion area to denote which office has assignment. 5 Forward the Form 4844 to the appropriate business unit inputting TC 520(s) for the request- ing organization. Note: Collection CCP FORT only inputs TC 520(s) for Advisory and Field Collection. 6 Monitor for input accuracy Reminder: A second party, inputting the request for the responsible party, cross-checks that their input is accurate. However, it is not the responsibility of the input party to know whether the TC 520 cc used is correct or whether the TC 520 went unpostable. So, any responsible party requesting input is responsible to cross-check that the TC 520 and closing code requested were entered accu- rately and posted properly.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "a9b34246584539e407ca467ac7750c9a",
+    "text": "Instructions for Completing Form 4844",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "4b984b3ea8cbabf522d323732da1e0d5",
+    "text": "IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d6bfeb9d4879648c705cdd786924b6ce",
+    "text": "), Literal List for Control Base/TXMOD History, below. Caution: Sometimes TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "36a1bac2d5719176e023698a5ad2cee1",
+    "text": "s are input through a system. For example, Appeals posts their Tax Court and CDP TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "653c624630004e48ef0eab6e764fa5b1",
+    "text": "s through their system. When that happens the system does not post a control base history on TXMOD. However, Appeals uses a three-digit code in the transac- tion area to denote which office has assignment.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "be26a2a2a133c77163dde43c414ca5c4",
+    "text": "Reminder: A second party, inputting the request for the responsible party, cross-checks that their input is accurate. However, it is not the responsibility of the input party to know whether the TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "50689fbfaef9957a936c0ab35825fa2e",
+    "text": "cc used is correct or whether the TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "4b72697ade08af83b4a4a7873264c20a",
+    "text": "went unpostable. So, any responsible party requesting input is responsible to cross-check that the TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "cf4741927e6c8b12a11f52a59fb2ef9c",
+    "text": "and closing code requested were entered accu- rately and posted properly.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "9335d51514e054bf6bf1164cf5465f32",
+    "text": "See also Exhibit 25.3.8-3, Form 4844 Example.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "c029896ed16d23017b8bcecd175c4eac",
+    "text": "The literal for use with Form 4844, when requesting input of TC 520 -W freeze IDRS Control Base/TXMOD History, are in the table below.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "5e1d470d3c3327689f01fda2defbb8dd",
+    "text": "Caution: Sometimes TC 520s are input through a system and when that happens there is no posting of a Control Base/TXMOD History.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "a963652779279f949a823ecf8045eb52",
+    "text": "Literal List for Control Base/TXMOD History: Literal Purpose RefundLit This references a W&I refund litigation case. Most frequently denoted by cc 73 but may also occasionally be denoted using cc 71. CourtCase This references a W&I refund litigation case. Most frequently denoted by cc 73 but may also occasionally be denoted using cc 71. AdvAreaX The cc utilized by Advisory most frequently include cc 70, cc 75, and cc 80. Sometimes cc 71 and 82 are used for TFRP litigation. Advisory is responsible to monitor, reconcile, and resolve the TC 520(s) their organization initiates or inputs. Reminder: The “X” reﬂects the Advisory Area number. There are four Advisory Areas. Example: AdvArea1 TFRP-Lit This references a TFRP refund litigation case, which is denoted using cc 71, and if the statute needs protection cc 82. Advisory is responsible to monitor and resolve these TC 520(s). CDP Appeals is responsible for Collection Due Process hearings and Tax Court cases denoted by cc 76 and cc 77. Appeals is responsible to correct any erroneous TC 520s they input on modules. They monitor ongoing CDP cases and resolve the TC 520(s) at the conclusion of a CDP. AP-TxCt This represents a tax court case arising from an audit where Appeals issues the Statutory Notice of Deﬁciency (SNOD) instead of Exam. It is denoted with a cc 72. Appeals is responsible to monitor and resolve these TC 520(s). CC-AP-TxCt This references Tax Court cases where Chief Counsel has primary jurisdiction and requests Appeals assistance with processing or computational items and can be denoted by a cc 74. CC-TxCt This references a Counsel requested Tax Court cc 74 where there is no known Appeals involvement. Counsel is responsible to monitor and request assistance to resolve these TC 520(s). Insolvency This references a Collection Insolvency -W freeze denoted by either a cc 81 or cc 84. Insolvency is responsible to monitor and resolve these TC 520(s).",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "e7692869c624584e2772db487ccf1d7d",
+    "text": "Literal List for Control Base/TXMOD History:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "ab22bba3b0ca4eb91ef3221835b7f708",
+    "text": "This references a TFRP refund litigation case, which is denoted using cc 71, and if the statute needs protection cc 82. Advisory is responsible to monitor and resolve these TC 520(s).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3c6292d700e77a2dabbf71bbb1e86b21",
+    "text": "Appeals is responsible for Collection Due Process hearings and Tax Court cases denoted by cc 76 and cc 77. Appeals is responsible to correct any erroneous TC 520s they input on modules. They monitor ongoing CDP cases and resolve the TC 520(s) at the conclusion of a CDP.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "081f3011e27a7f94b0bc73a609a456d3",
+    "text": "This references a Collection Insolvency -W freeze denoted by either a cc 81 or cc 84. Insolvency is responsible to monitor and resolve these TC 520(s).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "a185384b3efc65a0a8bb57e034fcab6b",
+    "text": ") It is the taxpayer who initiates a suit for recovery of taxes (refund litigation). This is forwarded to the appropriate Submission Processing Center (SPC) by a United States Attorney in district court cases, or by the Tax Division of the De- partment of Justice in Court of Claims cases. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "c9592c82245b72775885d15e16920b19",
+    "text": ") The Counsel office that made the referral to DOJ is the liaison between DOJ (i.e., U.S. Attorney or Department of Justice attorney) and the SPC. Counsel sends a request to the SPC, in memo format. SPC then creates a physical case ﬁle. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "370924b9308ec98112c383090801c64c",
+    "text": ") Each tax period involved in a Refund Litigation case is identiﬁed by input of a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3d8079abc8b0f94d63a15839b7761121",
+    "text": "with cc",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "fd49dda7b483c2e1d56b401d99d5a997",
+    "text": "See also IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "f6f80f1cb739887f5cb390a72ee9fbae",
+    "text": "), Responsible Party Inputs TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "2d1db8af5c65e099624355170446529f",
+    "text": "and IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "6f25ce316db9c432284ef5711450fb58",
+    "text": "), Literal List for Control Base/TXMOD History.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "687415bf415d35999f1ac3a97398677d",
+    "text": ") References: • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "b691ef3f97215d76d3b062ca82ea130b",
+    "text": ")b, What the Litigation Closing Codes Indicate. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "87d5884ccd09b7d695c36a2e2c4036e0",
+    "text": "et seq., Refund Litigation Cases. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "3059ceeb9a24eb2aa19d9c4d43b47b3c",
+    "text": ", Processing Requests. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a9d36e91e3cec22bde9d234073a3932d",
+    "text": ") Taxpayers who ﬁle a petition with the United States Tax Court as a result receiving a statutory Notice of Deﬁciency, are controlled on IDRS with a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "355b1bbfc96725cdce8f4a2708fda310",
+    "text": "cc",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "6c24284ad6ad3cf90b81d371ca09aa33",
+    "text": ") The purpose for cc",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "61f02cd7bbe6a29614edbc9e0bcd533b",
+    "text": "is a Counsel controlled Tax Court case. Counsel may request a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "355b1bbfc96725cdce8f4a2708fda310",
+    "text": "cc",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "2ee9bd42bbddce03581fd176b2a21c90",
+    "text": "be input on modules where they speciﬁcally want restrict notices being issued to a taxpayer. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a5c68921665ab54fcb6112081acca1d9",
+    "text": ") Appeals and Counsel have jurisdiction over Tax Court cases from receipt through termination of the Tax Court petition. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "33837602435aaff3abc019e0163bd1fe",
+    "text": ") Appeals is responsible to ensure appropriate TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "502e5b8a807e6f3150a476e343bdbbdb",
+    "text": "transaction codes are properly posted to IDRS on Tax Court cases. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "687415bf415d35999f1ac3a97398677d",
+    "text": ") References: • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "03311b473f6c251d877b47fb475c9cd4",
+    "text": ", Types of Litigation Closing Codes Indicate. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "fc689b8af17f852f3c8caaac6f466010",
+    "text": ", Carding New Receipts. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "da1f7b1b84801499ec013d369bd4378a",
+    "text": ", Interim Actions. Process (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "6c6a9a3744e346d5dc9b6b96e27de87a",
+    "text": ") Collection Due Process hearings for Notice of Federal Tax Lien (NFTL) ﬁling cases are designated on IDRS by using closing code",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "95fff1890b7e86ab38dd90e2d34bb52f",
+    "text": "Closing code",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "126e991ff4ecec35b4d28268f7a24b29",
+    "text": "suspends the Collection Statute Expiration Date (CSED) on timely hearing requests through the Appeals process and Tax Court proceeding, if ﬁled. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "68b9d5b4bf8cb3507a681552d99c9eb8",
+    "text": ") Collection Due Process levy hearing cases are designated on IDRS by closing code",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "95fff1890b7e86ab38dd90e2d34bb52f",
+    "text": "Closing code",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "29b416b6cabd0382089ebf20b35e18a9",
+    "text": "suspends the Collection Statute Expiration Date (CSED) on timely hearing requests through the Appeals process and Court proceeding, if ﬁled. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "1f5bbfd8fc760b11fc4f8682602ec3c1",
+    "text": ") Hearing requests ﬁled for both levy and NFTL ﬁling uses closing code",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "7650b0481acb8db6c9990a24b0e2f883",
+    "text": ") To request a CDP Hearing, taxpayers submit a Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "9e15182e2afa2c8f1c6b2e38cbf28166",
+    "text": ", Request for a Collection Due Process or Equivalent Hearing, or an equivalent of Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "8bd56186100fd6283442619552f3f205",
+    "text": ") Input of the TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "355b1bbfc96725cdce8f4a2708fda310",
+    "text": "cc",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "173ff8afcdcb05b49fe11307fe6ba964",
+    "text": "is either by • Automated Collection System (ACS) support caseworkers for cases under their control, or by • Appeals for all other cases. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "687415bf415d35999f1ac3a97398677d",
+    "text": ") References: • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "dbae0b719bf5215a18a25353ad7ca84e",
+    "text": ", What the Litigation Closing Codes Indicate. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "282cfd4a3e92021b4bfc20e08008b782",
+    "text": ", Collection Due Process (CDP) Hearing Requests • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "fc689b8af17f852f3c8caaac6f466010",
+    "text": ", Carding New Receipts. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "ede778b16c9106420c59f1a9df7964bd",
+    "text": ", Closing Procedures.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d0890f5d45cc7319001619c60f9c1db5",
+    "text": "Litigation and Judgments",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "4b984b3ea8cbabf522d323732da1e0d5",
+    "text": "IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "b3ad3fe92d979d4601080bfe4cbf5f95",
+    "text": ", What the Litigation Closing Codes Indicate. IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "02e95f382da9b07db9cde008159c561e",
+    "text": ", Collection Due Process (CDP) Hearing Requests IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "80fd7571fea1b8a8c40dfa76c38813d6",
+    "text": ", Carding New Receipts. IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "ede778b16c9106420c59f1a9df7964bd",
+    "text": ", Closing Procedures.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d68c79b84be1871abf02b5b829475a87",
+    "text": "Advisory (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "4a56ec0f04ffe5d898a1dbd628888a89",
+    "text": ") Advisory inputs the TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "f31223f78038ea6cddf81cdf50f02d1e",
+    "text": "(s) or sends an input request for input to Collec- tion’s Centralized Case Processing (CCP) Field Office Resource Team (FORT) on a Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "046f247b79f216ccf08af028a70ce821",
+    "text": "Advisory uses LAMS to reconcile their open TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "9651d224c2c34a2cdcd57094f2a57699",
+    "text": "(s). Generally, Advisory utilizes the cc",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "4aa9bfd2f175a94ad5a7cb321e1aea97",
+    "text": ", and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3fde8a890cd001a262ec0858afbec68a",
+    "text": "Sometimes cc",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "6201111b83a0cb5b0922cb37cc442b9a",
+    "text": "and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "f821038d7be55824de978efda787ffb8",
+    "text": "used for TFRP litigation. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "db5e2248218da9022494c439a0215f7a",
+    "text": ") The SBSE CCP FORT role is inputting TCs",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "4aa9bfd2f175a94ad5a7cb321e1aea97",
+    "text": ", and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "bd71a0d0b2ae39f148f4db05d0f47448",
+    "text": ", which initiate, correct, or resolve litigation freezes, at the request of their client SBSE Field Collection. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3d5c1e83245c1c0c47bef2f1ca2568b2",
+    "text": ") Directions for completing Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "b1a2a3e547915a10e1fa07dc76c63ff9",
+    "text": "are in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "eac767f7795dc7abacae4bd3304246b2",
+    "text": ", Instructions for pleting Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "c70869aa4b5e18a4460e30cecf0aed26",
+    "text": ", and Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "6698cc4ebc88b4e24d14cd4e6df05d5a",
+    "text": ", Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "ebb25c56788fe0abaa4a37e3fa1c70ff",
+    "text": "Example. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "687415bf415d35999f1ac3a97398677d",
+    "text": ") References: • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "03311b473f6c251d877b47fb475c9cd4",
+    "text": ", Types of Litigation Closing Codes Indicate. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "20c800e27fbefc0794dd1c0b62b7b686",
+    "text": ", Transaction Code (TC)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "275c11aab414f194016b39aaafc5abc1",
+    "text": "Insolvency (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "ada01d89383076b1ac25227722811d29",
+    "text": ") Sometimes Insolvency uses the -W litigation freezes of cc",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "27751cd9cecfa890899b2263c16aa9da",
+    "text": "and cc",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "79f0422457036c66c9b4b0d6c2839bbf",
+    "text": "to designate certain types of cases including: pre-petition, Chapter",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d8b9280712716bc23e4acc14f8a86c21",
+    "text": "cases needing TFRP investigations, single member owner of an LLC identiﬁcations, serial ﬁlers, Identity Theft (IDT), case conversions, or receivership cases (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "dfb77e8a9154d4cd7f5a9bf6e9fbdf6e",
+    "text": ") The Insolvency organization uses LAMS reports to monitor their open -W tion freezes. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "4187269698ed1509e991da933989c2a0",
+    "text": ") References - using IRM Online , use either cc",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "b81ad3e4e05d5317496abd41f64dddf3",
+    "text": "or cc",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "ee636631a237d729400acb5ca65568b8",
+    "text": "in the search box locate instructions related to these - W litigation freeze closing codes in the following: • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "03311b473f6c251d877b47fb475c9cd4",
+    "text": ", Types of Litigation Closing Codes Indicate. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "9d880d0375b64bb43ff1d43556d0e7bd",
+    "text": ", Closing Codes. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "6905bb6818bba5ecdb38cda833e4c2bc",
+    "text": ", Input Guide for Trustee Turnover Requests. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "a42a76370b63464b08a9c6e7dcab83b3",
+    "text": ", Reversal of Freeze Codes (TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "03e215d772c0edf8692bc4d68e58679f",
+    "text": "). • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "f0a8613f188f1d199100a06381e48092",
+    "text": ", Non-Bankruptcy Insolvencies. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "557052221177bd0c46a9e3f9249cad29",
+    "text": ", SIPA Cases. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "f03205c1a7300e3895cc5e4f109d6998",
+    "text": "), Federal Deposit Insurance Corporation (FDIC) Re- ceivership Proceedings of Insolvent Financial Institutions, Manual Processing. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "7e707246a79c3fac14b53ff0a11eb6fd",
+    "text": ", Corporate Dissolutions - Judicial. Processes Freeze (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "1028be1de957e5693a3a0031b040d950",
+    "text": ") The purpose of monitoring open TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "782130d376977c0d1b64944f88609ea0",
+    "text": "-W freeze codes is to ascertain whether the freeze status is: • Litigation ongoing with freeze legitimately open, • Litigation and freeze closure updated to IDRS, but not yet reﬂected monitoring report, • Litigation and module(s) both closed with no impact to revenue despite open -W freeze needing closure, • Correction needed to a freeze posted in error to ensure no impact on revenue, or • Litigation closed and resolution needed to ensure no impact on revenue. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "b5451addfa82b8cdc0b4aafc204f993d",
+    "text": ") Different types of litigation resolve in different time frames. However, the standard for increased scrutiny on an open TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "92bad364adc74c9282f07af75b7ec663",
+    "text": "-W litigation freeze would be aged six or more years since the original posting. W Freeze Servicewide Guide",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "ef51e648dfc814b76990088c13114222",
+    "text": "page (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "7fda3ab6ee2d7984451c7a76fe62c299",
+    "text": "(2) The SBSE CCP FORT role is inputting TCs 520, 521, and 522, which initiate, correct, or resolve litigation freezes, at the request of their client SBSE Field",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "907496666d3365a5200fc48443e04f2c",
+    "text": "Directions for completing Form 4844 are in IRM 25.3.8.3, Instructions for Com- pleting Form 4844, and Exhibit 25.3.8-3, Form 4844 Example.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "735e0c8a9d547033755bcb9b3d54f9c4",
+    "text": "• IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "03311b473f6c251d877b47fb475c9cd4",
+    "text": ", Types of Litigation Closing Codes Indicate. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "9d880d0375b64bb43ff1d43556d0e7bd",
+    "text": ", Closing Codes. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "6905bb6818bba5ecdb38cda833e4c2bc",
+    "text": ", Input Guide for Trustee Turnover Requests. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "a42a76370b63464b08a9c6e7dcab83b3",
+    "text": ", Reversal of Freeze Codes (TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "03e215d772c0edf8692bc4d68e58679f",
+    "text": "). • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "f0a8613f188f1d199100a06381e48092",
+    "text": ", Non-Bankruptcy Insolvencies. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "557052221177bd0c46a9e3f9249cad29",
+    "text": ", SIPA Cases. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "f03205c1a7300e3895cc5e4f109d6998",
+    "text": "), Federal Deposit Insurance Corporation (FDIC) Re- ceivership Proceedings of Insolvent Financial Institutions, Manual Processing. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "2297f65a56292607a6f4c6f4336c2954",
+    "text": ", Corporate Dissolutions - Judicial.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "683049051f239fa6346bfbd6db0d601f",
+    "text": "Litigation ongoing with freeze legitimately open,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "98f774e3f68624706c6d380e0e9e3b21",
+    "text": "Litigation and freeze closure updated to IDRS, but not yet reﬂected on a monitoring report,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "a91860f6a368ab12a55f75924c7ddbcf",
+    "text": "Litigation and module(s) both closed with no impact to revenue despite open",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "b79bcf77c6000a795de0ce1e5e5f26c5",
+    "text": "W freeze needing closure,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3d1cce81ac95e9661530917ccbc00f32",
+    "text": "Correction needed to a freeze posted in error to ensure no impact on revenue, or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "57ef2f18c5994d9d5b04a59f1455e516",
+    "text": "Litigation closed and resolution needed to ensure no impact on revenue.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "ef56166605ff8dd252943d1c13864471",
+    "text": "System (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "a2c3d2faab7951a01ce22d6bb338cdab",
+    "text": ") LAMS is a report application. It utilizes the unique closing codes (cc) for both -V (insolvency only) and -W (litigation) freezes. A LAMS report contains a listing of taxpayer accounts with open (unreversed) transaction codes (TC)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "9b8f21b6cf1ebf005f5d2beb158de246",
+    "text": "s, along with other criteria such as module balance and cycle the TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "bcd8abd1835fe0a52e1b1bf25775d2a1",
+    "text": "posted to IDRS. The portion of the report application of beneﬁt with - W tion) freezes is accessible through the Non-Insolvency listing. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "ef2181ec1d0a9e74303f73a41b8f5d8c",
+    "text": ") LAMS may be of beneﬁt to control TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "575e96316a86fff222fc9c67887f3215",
+    "text": "s in combination with systems by a particular business unit narrowing results to locate unresolved TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "bafb276646b4d0b865cf98a3a73c150d",
+    "text": "s needing resolution. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "48b166276541875aba5682e5f996b70e",
+    "text": ") LAMS reports are accessed from the Business Objects Environment (BOE). utilize LAMS report monitoring TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "c2465c987c364aac32a2992b376649c8",
+    "text": "s follow the step list below for access the BOE.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "7bcdf5967196f807f2df95d5fdff058d",
+    "text": "(3) LAMS reports are accessed from the Business Objects Environment (BOE). To utilize LAMS report monitoring TC 520s follow the step list below for access to",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "c1cfff57dfd06ceadca59ddbf910b142",
+    "text": "Steps to Gain Access Business Objects for LAMS Reports",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "9d60a5f7543d7f0cb30a83bb4e8d008b",
+    "text": ") When you open LAMS in the BOE, the report titled, LAMS Non-Insolvency Case Listing – ULC & cc Prompts report, will ask for a ULC (Universal Locator Code). The ULC is a geographical code that may be useful in building a report. To ﬁnd an appropriate ULC, use SERP Universal Locator Code listing . It con- tains a listing of the codes by Business Operating Division (BOD). See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "9ea30b4a2a16c366d7cc814edd0f869f",
+    "text": "), IDRS Terminal Responses - Command Code LOCAT, for a de- scription of how the ULC is designed.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "f666677b49c9865d1808d78927dc8e4f",
+    "text": "When you open LAMS in the BOE, the report titled, LAMS Non-Insolvency Case Listing – ULC & cc Prompts report, will ask for a ULC (Universal Locator Code). The ULC is a geographical code that may be useful in building a report. To ﬁnd an appropriate ULC, use SERP Universal Locator Code listing . It con- tains a listing of the codes by Business Operating Division (BOD). See IRM 2.3.78.1(1), IDRS Terminal Responses - Command Code LOCAT, for a de- scription of how the ULC is designed.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "7ddd5a73c18c79c5547ff46c43bb2d3c",
+    "text": "Creating a LAMS Report",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "a703e135e4eae921aff46b9b858b20b3",
+    "text": "Step Description 1 ACCESS: BOE application via The BI Launch Pad . 2 SELECT: Document’s Tab. 3 SELECT: Folder’s Tab in the left column (this gives access to the public folders). 4 SELECT: Public Folders. 5 SELECT: AIS. 6 SELECT: Ad-Hoc Subfolder. 7 SELECT: AIS 5-LAMS (this will display all of the LAMS reports). 8 SELECT: LAMS Non-Insolvency Case Listing – ULC & cc Prompts report. OPTIONS The user will be prompted to enter a ULC and a -W closing code. • A user can select no code, one code, or multiple ULC codes in the ULC prompt. • A user can select no code, one code or multiple closing codes in the cc prompt. Note: The selection(s) made will determine the size and scope of the report produced.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "a26f33162717c9f94984558e14351220",
+    "text": "Step Description OPTIONS: • If both ﬁelds are left blank, then the report produced will contain all ULCs and all -W closing codes. Caution: The report produced would be very large and unwieldy. It is not recommended. • If the ULC is left blank and one closing code selected, the report produced will contain all geographic locations with an open TC 520 for the closing code selected. • If a ULC is selected but no closing code, the report produced will contain all open TC 520 - W freeze closing codes for that location. • RECOMMENDED: Select one ULC and the one or two - W closing codes. Run separate reports by ULC to keep the reports succinct and easy to manage. 9 ENTER: ULC(s) or leave blank. Reminder: Use SERP Universal Locator Code listing to ﬁnd a listing of the codes by Business Operating Division (BOD). 10 CLICK: > This moves the choice into the selection panel.). 11 ENTER: Closing Code(s) or leave blank (If the cc(s) is known enter it, otherwise a drop down list is available. Caution: The drop down list contains both -V / insolvency and -W / litigation closing codes. Ensure selection of only the appropriate -W closing code(s). 12 CLICK: > (to move the choice into the selection panel). 13 CLICK: OK (or click Cancel, if entered incorrect ULC or cc). EXAMPLE: Exhibit 25.3.8-1, REPORT: LAMS Non-Insolvency Case Listing – ULC & cc Prompts, In the example the ULC is blank, so the report produced will display all ULC for the selected -W closing codes (81 & 85). RESULT: This produces a report which when printed is in PDF. 14 EXPORT to EXCEL: On the Tool Bar CLICK on the export icon. 15 SELECT: Export to My Computer. 16 SELECT: Excel. In the pop-up menu go to the drop down File Type and select Excel. Then click “OK”. Caution: The File Type drop down box defaults to PDF. EXAMPLE: Exhibit 25.3.8-1, Export LAMS Report to Excel. TC 520 - W Freeze Servicewide Guide 25.3.8 page",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "e778add7bf2f97d6dda5be6d66b6a443",
+    "text": ") The main responsibility for monitoring refund litigation falls on the refund litiga- tion coordinators (RLC). They monitor active cases and follow up with Counsel. Since IDRS control bases are also opened, the team manger can pull Control-D report for open employee control bases.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "1c70f37ffef078d848803ebdaa0e1ede",
+    "text": "Note: Control-D WebAccess (CTDWA) is Web Access software that allows viewing of reports electronically. Control-D reduces the print output currently being",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "c784890c64a960592bb7dd9fd73bbd79",
+    "text": "produced at the ten AM campuses and allows faster access and greater report management for users to their respective report ﬁles. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "1b39818bfc1d66f24a20de8ab2ebfc43",
+    "text": ", Control-D. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "f2849bf082fa1b348badaac9bae927bf",
+    "text": ") Open refund litigation are reviewed as necessary, but no less than annually, until litigation is concluded. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "9538fa153f5c5ed5cf28c87f283cafa0",
+    "text": ") Annual monitoring includes: • Review of cases for Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "7bf7c926607b3564fdc8d56678e6b2ea",
+    "text": "-A, for closure and reversal of TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "a56362a10c816abf206d72cb914e2d5c",
+    "text": "CC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "c89c3e310380f86bc2d1764cd42668ba",
+    "text": "• Follow up with Counsel liaison via e-mail for status update if no",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "e3cd696da46d16f7b5fec94339df2f84",
+    "text": "-A is located (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "687415bf415d35999f1ac3a97398677d",
+    "text": ") References: • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "b1344682a5dae222b8db24bc11a84b28",
+    "text": ", Controlling Cases. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "c8cac4710569a3e837818fa343becefe",
+    "text": ", Monitoring Refund Litigation Cases. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "6f162ac6032052f66a6c5c4f1ce8b6ed",
+    "text": ") Appeals has the responsibility for monitoring cases under Appeals and/or Counsel jurisdiction. They use several types of systems to accomplish the including: • Appeals Centralized Database System (ACDS). • Automated Information Management System (AIMS). • Docketed Information Management System (DIMS). • Innocent Spouse Tracking System (ISTS). • Integrated Database Retrieval System (IDRS). • Processing Employee Automated System (PEAS). • Tax Court Calendar (TAXCAL). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "8c1f55663ea540dd97074b8ce33d8296",
+    "text": ") Reference: • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "542d318b2e1b6ea58fa9790e3a8b2495",
+    "text": ", Interim Actions. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "f204f71b2b68a28a378e112c353b51bb",
+    "text": ") Appeals has the responsibility for monitoring cases under Appeals and/or Counsel jurisdiction. They use several types of systems to accomplish the including: • Appeals Centralized Database System (ACDS). • Docketed Information Management System (DIMS). • Integrated Database Retrieval System (IDRS). • Processing Employee Automated System (PEAS). • Tax Court Calendar (TAXCAL) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "8c1f55663ea540dd97074b8ce33d8296",
+    "text": ") Reference: • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "c36c7fafbe4530c34c72c19f70d33131",
+    "text": "Interim Actions. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "47131b25cd7c9dfaa7c25e8456766dcb",
+    "text": ", Closing Procedures. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "7939fbd0f07d4108e9388c080353d4f3",
+    "text": ") Advisory’s responsibilities related to monitoring the TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "38fbde3b634700e0068edb38880eb868",
+    "text": "s they control include but is not limited to: Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "a25513c7e0f6eaa80a3337ee18081b9e",
+    "text": "U",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "36a16949f10a2a7d5b15778999b969dd",
+    "text": "produced at the ten AM campuses and allows faster access and greater report management for users to their respective report ﬁles. See IRM 1.4.16.8.5, Control-D.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "0ca6fdfff4fdb311f1c08041d92e3912",
+    "text": "Appeals Centralized Database System (ACDS). Automated Information Management System (AIMS). Docketed Information Management System (DIMS). Innocent Spouse Tracking System (ISTS). Integrated Database Retrieval System (IDRS). Processing Employee Automated System (PEAS). Tax Court Calendar (TAXCAL).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "7fc8d04af5726ae5a7d0df89c7c69f64",
+    "text": "520 - W Freeze Servicewide Guide 25.3.8 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "77f3041e535b0a9519d3b1e23442d4d4",
+    "text": "Monitor as necessary, but no less than annually, until the litigation is concluded (i.e., LAMS reconciliation IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "1eb7eb1757e5180d57bbda58abc00bed",
+    "text": ", Periodic Open Case Reviews). Coordinate with IRS personnel, Counsel, and DOJ as needed to keep all apprised of signiﬁcant developments, Monitor the CSED, and Monitor Notice of Federal Tax Lien (NFTL) reﬁning dates ensuring the underlying statutory federal tax lien remains protected.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "ed55809498292e6df018651e5cbaae7c",
+    "text": "Monitor Notice of Federal Tax Lien (NFTL) reﬁning dates ensuring the underlying statutory federal tax lien remains protected.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "9c83d4547f1fc1e97f7770c1ab1ffdba",
+    "text": "Reminder: A good standard for increased monitoring are open TC 520 -W litigation freezes aged six or more years since the original posting.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "a31a225b4805936d8e15d5c9a277fa31",
+    "text": "References: • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "dbc122ced298ab016149e0623f9f134f",
+    "text": ", Steps to Gain Access Business Objects for LAMS Reports. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "9ae47ee9b1489b155a551a7c28172147",
+    "text": ", Creating a LAMS Report. • Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "66dad6e4b0394841d5af28751d98fe3b",
+    "text": ", REPORT: LAMS Non-Insolvency Case Listing – cc Prompts. • Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "05092f115a74fb33e1c0090e156a52ed",
+    "text": ", Export LAMS Report to Excel. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "9a511277b6f800a68eb58ef4e7067b39",
+    "text": ", Open Case Monitoring and Actions, et seq. Insolvency has the responsibility to monitoring debtor tax compliance, including trust fund taxes and the pyramiding of business taxes. The IRMs listed below address reports caseworkers utilize to review and monitor vency case inventories. These sections also include the frequency and purpose of each report. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "dd3295b3de0a0ddf736beed6aff82263",
+    "text": ", Insolvency Automated Processes. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "b706601acfb584ca1db4d7b1b9dc49af",
+    "text": ", Insolvency Case Monitoring.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "735e0c8a9d547033755bcb9b3d54f9c4",
+    "text": "• IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "dbc122ced298ab016149e0623f9f134f",
+    "text": ", Steps to Gain Access Business Objects for LAMS Reports. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "9ae47ee9b1489b155a551a7c28172147",
+    "text": ", Creating a LAMS Report. • Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "80e3c865187721f5f0363e77f75ae9f8",
+    "text": ", REPORT: LAMS Non-Insolvency Case Listing – ULC & cc Prompts. • Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "05092f115a74fb33e1c0090e156a52ed",
+    "text": ", Export LAMS Report to Excel. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "02a311512c0d7a76b6e81801310ed614",
+    "text": ", Open Case Monitoring and Actions, et seq.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "9c83d4547f1fc1e97f7770c1ab1ffdba",
+    "text": "Reminder: A good standard for increased monitoring are open TC 520 -W litigation freezes aged six or more years since the original posting.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "bc898cc9ceccfd9d37d21a1d08cb31d0",
+    "text": "25.3.8.5(08-05-2021) Resolution Processes for TC 520 - W Freeze Codes",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "bd2ff09d2731a0236fbe05c0d533d2c2",
+    "text": "of an incorrect TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "a658cb6c802d550f05b554dc61980ded",
+    "text": "with a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "12c3da29222196d574aa049d26190ee8",
+    "text": "posting or closure of the TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "a658cb6c802d550f05b554dc61980ded",
+    "text": "with a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "e842369d3286dd426f429d5fe5a2455e",
+    "text": "posting allows the account to reenter the business stream. The following sections discuss how resolution occurs or where to ﬁnd those processes for the different types of litigation. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "02ccbdce09e0957f99cc631744f41f33",
+    "text": ") Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "7f7ad16738e4bffbc5af92bd3f3d4107",
+    "text": "-A, Transmittal Memorandum, is presently being used by appropri- ate Chief Counsel office, Field Counsel, or National Office to close refund cases. Its use is to notify the Service Center of the outcome of these types of collection litigation refund cases. Modiﬁcations should be made to the form where appropriate. An original and two copies of Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "516884724282d6d29a8ef5cfe06f5100",
+    "text": "-A should be trans- mitted. See Chief Counsel CCDM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "b19e02650249b1a07cfbb430e51084a1",
+    "text": ". Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "5f0b19c6b1de812a0ea8d71f3505d886",
+    "text": "-B, Transmittal Memorandum (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "d1f61899b4f5db06cfde2b364d862ed6",
+    "text": "% Penalty Cases), is used in TFRP refund cases. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "dcea9656be7da707b6ae322f0fda4257",
+    "text": ") Only the Refund Litigation Coordinator for the campus, which initially opened the case, may enter TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "0ea0906e3f1ae6d47801c014a4de67a0",
+    "text": "A TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "07cc98e37d2c333c913fd5f7f21b717f",
+    "text": "must be input for each module that contains a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "3d8079abc8b0f94d63a15839b7761121",
+    "text": "with cc",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "2810a4398136cec9d8a8466a3a38da12",
+    "text": "All open control bases must be closed.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "aa6160932c6caa32d138615a87e815f8",
+    "text": "Form 3011-A, Transmittal Memorandum, is presently being used by appropri- ate Chief Counsel office, Field Counsel, or National Office to close refund cases. Its use is to notify the Service Center of the outcome of these types of collection litigation refund cases. Modiﬁcations should be made to the form where appropriate. An original and two copies of Form 3011-A should be trans- mitted. See Chief Counsel CCDM 34.10.1.2.1 . Form 3011-B, Transmittal Memorandum (100% Penalty Cases), is used in TFRP refund cases.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "bc799910131b9dfeb01f6a5f125e0e54",
+    "text": "References - using IRM Online , use either cc 81 or cc 84 in the search box to locate instructions related to these - W litigation freeze closing codes:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "703981f37aea699958b8f92edf55dcb7",
+    "text": "520 - W Freeze Servicewide Guide 25.3.8",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "735e0c8a9d547033755bcb9b3d54f9c4",
+    "text": "• IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "a42a76370b63464b08a9c6e7dcab83b3",
+    "text": ", Reversal of Freeze Codes (TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "03e215d772c0edf8692bc4d68e58679f",
+    "text": "). • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "9d880d0375b64bb43ff1d43556d0e7bd",
+    "text": ", Closing Codes. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "f0a8613f188f1d199100a06381e48092",
+    "text": ", Non-Bankruptcy Insolvencies. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "52479c7eddf8c9a1a41a3c794606ffa7",
+    "text": "), Federal Deposit Insurance Corporation (FDIC) Re- ceivership Proceedings of Insolvent Financial Institutions, Case Closure. File on IDRS (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "1e8636391072be7ad2cbb92ea656a8fa",
+    "text": ") Open TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "fa21a8664b39fab744da20a1a8a8c581",
+    "text": "on Automated Non-Master File (ANMF): TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "96a154da1e28b3bfc6b497f576ce9ec4",
+    "text": "s on Non- Master File accounts react differently than they do on Master File accounts. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "611f44857be7c8b6e06785c2bbe4db76",
+    "text": ") On IDRS a Non-Master File (NMF) account contains an “N” at the end of the taxpayer identiﬁcation number (TIN). NMF accounts on IDRS (i.e., showing “N” after the TIN), are information only. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "ab1d0128b2d914e1492dcd3ccb28f471",
+    "text": ") The ANMF system is the application that maintains the official NMF account information. Transcripts of the account can be requested and provided by the Kansas City ANMF Unit. To gain access to ANMF for research purposes: a. Request access through the Business Entitlement Access Request System (BEARS formerly OL",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "f3a2569713fa2514b53c47188a585846",
+    "text": "). b. The application name is PROD USER ANMF SSO RESEARCH (AUTOMATED NON MASTER FILE SSO). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "8283f3e80d4db1dd7c022d88bf311a43",
+    "text": ") ANMF taxpayer delinquent accounts (TDA) must meet the TDA tolerance criteria for establishment on IDRS. The Kansas City ANMF Unit tax examiner manually establishes the account and inputs any subsequent transactions. • Reference: IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "020e5c118a8b2f300a757c98c18d9db2",
+    "text": ", Non-Master File Taxpayer Delinquent Account Establishment on Integrated Data Retrieval System (IDRS). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "2e7d18b88467f66bc003f01423202256",
+    "text": ") Once the account is loaded to IDRS, subsequent transactions show as “PN” “DI” depending on the transaction. They do not post to the ANMF account on IDRS like a transaction posts to a Master File account. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "0c26287755e79a04a95eee7d5286b8d4",
+    "text": ") Resolving a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "3b4345e87879e9f2e4bcde33d22c29a9",
+    "text": ": a. Account on IDRS but not when placing an “N” after the TIN: Use Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "88f4a97b4f80ca6a4b2d763b4dd2b9ca",
+    "text": ", Notice of Action for Entry on Master File. Sent to the Kansas City ANMF Unit. Example: Use Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "8fb4a53e610b391a2fd31013c51ffb06",
+    "text": "requesting input of: TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "e6c1244818e4ff73171323288765d5cf",
+    "text": "to reﬂect initiation of a -W litigation freeze, TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "356e4ac560d66b443533de08e94642df",
+    "text": "to reﬂect removal of an incorrect TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "8cfdd2791a10d1203f64935c0245d0c5",
+    "text": ", or TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "4f3b12e0e6a3575ad57858498f07c0f9",
+    "text": "to reﬂect resolution (i.e., closure) of a -W litigation freeze. Reminder: If the CSED needs extension, include a request for input of TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "d84d785d7328e793499e2e8daa7f4e12",
+    "text": "and the date the new CSED.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "4b984b3ea8cbabf522d323732da1e0d5",
+    "text": "IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "a42a76370b63464b08a9c6e7dcab83b3",
+    "text": ", Reversal of Freeze Codes (TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "9f1c5fdfb1d42c75cba655d8b636cff6",
+    "text": "). IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "809007c633b4d2a7f3b070ab609608f0",
+    "text": ", Closing Codes. IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "d85c65b4079d62acb45eb5c533f31d82",
+    "text": ", Non-Bankruptcy Insolvencies. IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "33d142ebf814e63b6c7cb2f737bf9a24",
+    "text": "), Federal Deposit Insurance Corporation (FDIC) Re- ceivership Proceedings of Insolvent Financial Institutions, Case Closure.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "c7f284395549243fb39081cd87636731",
+    "text": "Open TC 520 on Automated Non-Master File (ANMF): TC 520s on Non- Master File accounts react differently than they do on Master File accounts.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "49f94765d4e36fff8b8748a6607950c3",
+    "text": "Reference: IRM 3.17.46.10.1, Non-Master File Taxpayer Delinquent Account Establishment on Integrated Data Retrieval System (IDRS).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "f3996fa6a0f4922bbf92f44c24459a3a",
+    "text": "Example: Use Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "8fb4a53e610b391a2fd31013c51ffb06",
+    "text": "requesting input of: TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "e6c1244818e4ff73171323288765d5cf",
+    "text": "to reﬂect initiation of a -W litigation freeze, TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "356e4ac560d66b443533de08e94642df",
+    "text": "to reﬂect removal of an incorrect TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "8cfdd2791a10d1203f64935c0245d0c5",
+    "text": ", or TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "23c0aee0245554b266fe491b3ebd237b",
+    "text": "to reﬂect resolution (i.e., closure) of a -W litigation freeze.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "e6a62fc8277dbea597109113c5e23f05",
+    "text": "Reminder: If the CSED needs extension, include a request for input of a TC 550 and the date the new CSED.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "b518a8eb9e3b42c7c06ea9ae35a3c44b",
+    "text": "Account on IDRS with an “N” after TIN: Use a REQ",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "010e3d4c18ec1cb514b490994aac221c",
+    "text": "on the IDRS NMF account. This action generates a Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "7054e3604086d4423722c2249d888723",
+    "text": ", IDRS Transaction Record. The Kansas City ANMF Unit uses the Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "5bc3f83151c3e9aa6d4ab3dbae0a06ab",
+    "text": "for posting the transaction to the account on the ANMF system. The NMF team pulls the Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "1da46ea2c6ad169b3131dd88d76b6614",
+    "text": "off of Control D and inputs the transaction to the account on the ANMF system.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "50b0a60ad8ac122dbc9292cd1f10c3c4",
+    "text": "Caution: REQ77 requires appropriate access.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "e6a62fc8277dbea597109113c5e23f05",
+    "text": "Reminder: If the CSED needs extension, include a request for input of a TC 550 and the date the new CSED.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "dccdee9d279df4073441d8d9d7bdc55f",
+    "text": "Reminder: The IDRS NMF account transaction will not post. Rather it will always show as a “PN” or “DI.” in the transcript’s Pending Transaction section.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "735e0c8a9d547033755bcb9b3d54f9c4",
+    "text": "• IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "2222b1530d0f5df0c81ef998b407676c",
+    "text": ", Out of Area Non-Master File (NMF) (Transshipment of NMF Returns/Documents). • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "d61b6127816d8d90aecf15c208a1bbc9",
+    "text": ", Automated Non-Master File Accounting. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "badb001f9c795d76f1dc30d77d49c35e",
+    "text": ", Processing $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "a66c03388b614f037dd153e713d03ff5",
+    "text": "Billion in the Redesigned Revenue Accounting Control System (RRACS) (Kansas City SPC Only). • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "adab86a416f5aec3c29bc3ecc5cbc860",
+    "text": ", NMF Balance Due Accounts. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "4904468c0fc9c7b6971c9d032581656e",
+    "text": ", Automated Non-Master File (ANMF) Transcripts.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "7fc8d04af5726ae5a7d0df89c7c69f64",
+    "text": "520 - W Freeze Servicewide Guide 25.3.8 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "7ddd5a73c18c79c5547ff46c43bb2d3c",
+    "text": "Creating a LAMS Report",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "7ddd5a73c18c79c5547ff46c43bb2d3c",
+    "text": "Creating a LAMS Report",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "4e03ed8e6f06eab2dead1ab184a4431c",
+    "text": "o 0 @] @k von 7, A D - dgomLAMS Non Insolvency Cases.. Select Export Icon© priotizecay dota processing n ExceTe -",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "f2d5b8bb3d299afe68f4e86449406f66",
+    "text": "Form 4844 Example",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "83db3e2fb0dd893ec6b25ccddea5079f",
+    "text": "‘Control Base Data Request | RemarksACTON Ploase Input and notate in TXMOD Control Bass history[ civy coce 6 520 c¢ 0 e o e )Sttus code:-issgred  N-JoierCer | Ploaso add a toxt iteral In TXMOD Control Base HistoryB Emgant S Suree | ey= e X o rosde  Lierl itCaegrycoe el iP eyTC 148 \"Plus a Meral identitying party eEntyindicator aponsie o monor and foc\" Be oosl 4p 1010 digts ony) coTiCtsalvency",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "aaea24e5541db91f7f207798c30073b6",
+    "text": "e e e e T e S Sy“AdvTinere X hore woukd bTeplced wih anAdisory Ara 14)LiteralListReundLitGourCaseAdvreaxTRRPLiLcopTtCCAPTICconetsalvencyP  erl donityng paryresponsis to monkor and.Tescive TC 520- spelingout.e (p 1010 digts on)",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "ab649eb16b3f64b2389b342f95c386a0",
+    "text": "Exhibit 25.3.8-4 (08-05-2021) Acronyms with their Deﬁnitions",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "68fd74bb0a0df8c5b3a792b5ab469c56",
+    "text": "Table of Acronyms with their Deﬁnitions",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "062c87e58a2bb368d84d940816e249b6",
+    "text": "Acronym Deﬁnition AC Action Code ACDS Appeals Centralized Database System AIMS Automated Information Management System AIS Automated Insolvency System ALS Automated Lien System AMS Account Management System ANMF Automated Non-Master File AO Area Office Code ASED Assessment Statute Expiration Date ATAT Abusive Tax Avoidance Transactions BAL DUE Balance Due BEARS Business Entitlement Access Request System BMFOL Business Master File Online BOE Business Objects Environment CAP Collection Appeals Program cc Closing Code CCDM Chief Counsel Directives Manual CCP Centralized Case Processing CDP Collection Due Process CEASO Civil Enforcement Advise & Support Operation CFOL Corporate Files On Line CLC Collection Location Code Control-D Web Access software that allows viewing of reports electronically. See IRM 1.4.16.8.5, Control-D. CSED Collection Statute Expiration Date DEL RET Delinquent Return DIMS Docketed Information Management System DOJ Department of Justice ESI Electronically Stored Information FC Field Collection",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "5ea0be4df580ebeb17ca166679694325",
+    "text": "TC 520 - W Freeze Servicewide Guide 25.3.8",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "aa4b449889b689bfd359d88c9e91d290",
+    "text": "Exhibit 25.3.8-4 (Cont. 1) (08-05-2021) Acronyms with their Deﬁnitions Acronym Deﬁnition FORT Field Office Resource Team IAT Integrated Automated Technologies ICS Integrated Collection System IDRS Integrated Data Retrieval System IMFOLI Individual Master File Online Index IRC Internal Revenue Code ISTS Innocent Spouse Tracking System KM Knowledge Management LAMS Litigation Account Management System LLC Limited Liability Company MB Megabyte NFTL Notice of Federal Tax Lien PDF Portable Document Format PEAS Processing Employee Automated System PLC Primary Location Code RLC Refund Litigation Coordinator REQ77 IDRS Command Code and is used to request a format to input a transaction. Rev. Revision SB/SE or SBSE Small Business / Self-Employed Division SIPA Security Investor Protection Act SNOD Statutory Notice of Deﬁciency SPC Submission Processing Center TAXCAL Tax Court Calendar TBOR Taxpayer Bill of Rights TC Transaction Code TDA Taxpayer Delinquent Account (aka, BAL DUE) TIN Tax Identiﬁcation Number Treas. Reg. Treasury Regulation ULC Universal Location Code USC United States Code USTC United States Tax Court",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "581459557e5b8c6119671c1ba0fcc2f2",
+    "text": "Exhibit 25.3.8-4 (Cont. 1) (08-05-2021) Acronyms with their Deﬁnitions",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "aa41d7375f9a1443ea3ddf2d6ad08612",
+    "text": "PLC Primary Location Code RLC Refund Litigation Coordinator REQ77 IDRS Command Code and is used to request a format to input a transaction. Rev. Revision SB/SE or SBSE Small Business / Self-Employed Division SIPA Security Investor Protection Act SNOD Statutory Notice of Deﬁciency SPC Submission Processing Center TAXCAL Tax Court Calendar TBOR Taxpayer Bill of Rights TC Transaction Code TDA Taxpayer Delinquent Account (aka, BAL DUE) TIN Tax Identiﬁcation Number Treas. Reg. Treasury Regulation ULC Universal Location Code USC United States Code USTC United States Tax Court",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm25-003-008--2021-08-05.pdf",
+      "page_number": 29
+    }
+  }
+]

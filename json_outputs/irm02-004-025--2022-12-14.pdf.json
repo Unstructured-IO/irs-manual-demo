@@ -1,0 +1,3071 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "48ae7840b2115db586ccfeb5b74bb055",
+    "text": "First Sub-Secion 2.4.25-1 - Added Program Scope and Controls to include the following information: Overview, Purpose, Audience, Policy Owner, Program Owner, Primary Stakeholders, Program Goals",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "312a0e35b2ee4502d589341c3e9c85bc",
+    "text": "IRM 2.4.25, dated July 2, 2019, is superseded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "ab5d71d8d5513e9e92d8e71f9c238d1c",
+    "text": "LBI, SB/SE, TE/GE, W&I.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "b01535085b830a839f5a846fffdc992e",
+    "text": "Program Scope and Objectives",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "797fe691ee7795c21bdf27d4341f8dae",
+    "text": "Common Error Messages for all Command Codes",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "108db6d71f13d92c7344c296a8cf3698",
+    "text": "2.4.25-1 2.4.25-2 2.4.25-3 2.4.25-4 2.4.25-5 2.4.25-6 2.4.25-7 2.4.25-8 2.4.25-9 2.4.25-10 2.4.25-11 2.4.25-12 2.4.25-13 2.4.25-14",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ff9e1b28bcc8c71ef0d2763c953e72e8",
+    "text": ") This IRM section provides the instructions for the use of Dishonored Check File (DCF) command codes BDADDR, BDADD, BDAPLR, BDAPL, BDOUTR, BDOUT, BDENT & BDINQ (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "83e57a5bf52b7ea4626e5c8a51edf179",
+    "text": ") PURPOSE: To provide system maintenance, capability, speciﬁcations and guidance for using the various command codes for adding, researching dishon- ored checks. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "791e2b62050c04ebb3e6d853684d5026",
+    "text": ") AUDIENCE: All IRS business areas. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "44689234db0831236b56b1272c7a1592",
+    "text": ") POLICY OWNER: The Chief Information Officer) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ea13c190f2ce33fd99a683a20c748348",
+    "text": ") PROGRAM OWNER: IDRS (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4b38ac6791c66031b5e19817a0d16a15",
+    "text": ") PRIMARY STAKEHOLDERS: LBI, SB/SE, TE/GE, W&I. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a1fa428078fee5044be1ec84be4c414f",
+    "text": ") PROGRAM GOALS: Capability to provide system maintenance, correct or delete any record which was entered on the Dishonored Check File. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "01e9948e81e0b41b02fa458a41fd5c1e",
+    "text": ") The Dishonored Check File (DCF DS) contains cases for checks returned banks as unprocessables or insufficient funds. Command Code BDADD is used to establish a dishonored check record on the Dishonored Check File. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1bf5813367e400920a681ee85c429138",
+    "text": ") The Director, Business Support, is the director responsible for the servicewide civil penalty program. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32bccd285f72365a4d17774904f37078",
+    "text": ") The Director, Internal Management, is the director responsible for the IDRS Command Code. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "205ecee1d36e59a2f93614293825d1a0",
+    "text": ") Overall responsibility for civil penalty programs is assigned to OSP. OSP is a matrix organization residing in the Business Support (Small Business/Self Employed) Function. OSP is charged with coordinating policy and procedures concerning the civil penalty program administration, ensuring consistency with the penalty policy statement, reviewing and analyzing penalty information, re- searching penalty effectiveness on compliance trends, and determining appropriate action necessary to promote voluntary compliance. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "377bf29d19e649ce043f07862f44affd",
+    "text": ") Each and every taxpayer has a set of fundamental rights when dealing with IRS as provided in the Taxpayer Bill of Rights (TBOR). All employees handling penalty cases must do so in accordance with the TBOR as listed in IRC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a9eed9583ff65d80e3293d6ad2dada94",
+    "text": "(a)(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b41d4d8f900a83664e96619ee79d66fc",
+    "text": ") . The TBOR can also be found at Taxpayer Bill of Rights on irs.gov (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "27e8760c64c557660e66023680fb1e57",
+    "text": ") Every function in the IRS has a role in proper penalty administration. It is essential that each function conduct its operations with an emphasis on promoting voluntary compliance. Appropriate business reviews should be conducted to ensure consistency with the penalty policy statement ( Policy Statement",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8078285c56d8c67042637c981e1bae92",
+    "text": ") and philosophy. Attention should be directed to penalty program coordination between offices and functions to make sure that ap- proaches are consistent and penalty information is used for identifying and responding to compliance problems. Codes BDADDR, BDADD, BDAPLR, BDAPL, BDOUT, BDENT and BDINQ",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3660315a9af3df255d8f19ab077e4797",
+    "text": "page",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a4e52586224470b006c8da5adf322107",
+    "text": "Command Codes BDADDR, BDADD, BDAPLR, BDAPL, BDOUTR, BDOUT, BDENT and BDINQ 2.4.25 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5f44ed0be8ab50bf95ddf704403432be",
+    "text": "PURPOSE: To provide system maintenance, capability, speciﬁcations and guidance for using the various command codes for adding, researching dishon-",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6bb8b91bf2b38a8d779a0887da9fcbcb",
+    "text": "Every function in the IRS has a role in proper penalty administration. It is essential that each function conduct its operations with an emphasis on promoting voluntary compliance. Appropriate business reviews should be conducted to ensure consistency with the penalty policy statement ( Policy Statement",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "25ef5bdd17dcb7ce9a6133211b2fab7d",
+    "text": ") and philosophy. Attention should be directed to penalty program coordination between offices and functions to make sure that ap- proaches are consistent and penalty information is used for identifying and responding to compliance problems.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "fd66a0e68cb2eb47cac0a1e1df432efe",
+    "text": "SACS controls all the IDRS user accesses and permissions.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c5c4300c2d45162c2c6fafea45e668b5",
+    "text": "Note: BDADD format will be displayed, but without the sub-totals.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c3be3c4af9adce657f45898ad9effbe4",
+    "text": "a. Condition: SYSTEM ID of TRACE ID invalid for DCF processing. b. Solution: Check to ensure SYSTEM ID of TRACE ID is valid for DCF.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "886d7dd41388e27ff7da81ea9b7c453b",
+    "text": "Command Codes BDADDR, BDADD, BDAPLR, BDAPL, BDOUTR, BDOUT, BDENT and BDINQ 2.4.25 page 3",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a4e52586224470b006c8da5adf322107",
+    "text": "Command Codes BDADDR, BDADD, BDAPLR, BDAPL, BDOUTR, BDOUT, BDENT and BDINQ 2.4.25 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "de15eac6888883a6050c3cd8c4a78ff3",
+    "text": "Error Condition: TIN associated with the NAME-CTRL could not be found",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d9aaa21dca39af4c66d101fcb76dab02",
+    "text": "Condition: The status of the DC record is Closed, Unprocessable, Void, Alcohol, Tobacco, and Firearms, Missing, Redeposited, Non-IRS or Un-",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3ad3871815fa90d7d841c55917617c28",
+    "text": "Condition: SITE ID of TRACE ID invalid for Service Center processing.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "a4e52586224470b006c8da5adf322107",
+    "text": "Command Codes BDADDR, BDADD, BDAPLR, BDAPL, BDOUTR, BDOUT, BDENT and BDINQ 2.4.25 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "ddde04f1c53ac1f6e83f9cd6a690c26d",
+    "text": "Solution: Check to ensure SITE-ID of TRACE ID is valid. This does not have to be a current, valid one. It can be one from the past.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "b2cd751043040017c365e19c4df77d11",
+    "text": "Condition: SYSTEM ID of TRACE ID invalid for DCF processing. Solution: Check to ensure SYSTEM ID of TRACE ID is valid for DCF.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "a4e52586224470b006c8da5adf322107",
+    "text": "Command Codes BDADDR, BDADD, BDAPLR, BDAPL, BDOUTR, BDOUT, BDENT and BDINQ 2.4.25 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "244e33124e2c330ddf547cb0a94652f2",
+    "text": "Error Condition: An area of the Database is down and unavailable. Solution: Please try again later or try another area.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "dfe78542fe86c204d2ab52d6a8e2995b",
+    "text": "Error Condition: An area of the Database is restricted and unavailable. Solution: Please try again later or try another area.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "33c1e29902d678cbcff13d561dbfd825",
+    "text": "This Page Intentionally Left Blank",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "5a68502f9ac7655e460aecb6ddfeb88e",
+    "text": "Command Codes BDADDR, BDADD, BDAPLR, BDAPL, BDOUTR, BDOUT, BDENT and BDINQ 2.4.25 page 11",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "d15a096c0ac31f6575bebd55ba30bb37",
+    "text": "Command Code BDADD used to establish a dishonored check record on the Dishonored Check File. The format is generated by CC BDADDR and a new BDADD format will be displayed after each BDADD entry.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "1110b148ce838afc4143d00cd02df741",
+    "text": "Input Display—BDADDR:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "34bc42ca5a4d86b615112ad578808ce7",
+    "text": "ii F N P T PRIS BT== .————",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "0f55a4c5564aa0a26ec46abd0d1d6fdb",
+    "text": "‘L . - L o o o at7315679012345 T8301 254 TSI A5 1901 45T R0 TS S OIAIASeTI0IZ30seres0 . |D e LS 1 aioa 1 8159 | 665 | niwo | |",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "0d87b10c478f417a5120e104b86b25f9",
+    "text": "RECALL-CODE — Input “C” to request a BDADD format which will also display the stored sub-totals of the Item Count and Money Count; otherwise leave blank.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "b3ae3a9b5fc75d856950e63da4ecaa19",
+    "text": "BDADD screen format (with stored sub-totals if Recall Code was properly input) will be displayed as shown below:DC-ORIGINAL-FORMAT RECORD",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "7979cf0f2f576049835d82e039614c64",
+    "text": "BDADD screen format (with stored sub-totals if Recall Code was properly input) will be displayed as shown",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d45115dc943c0ba0005f3fb09d85a020",
+    "text": "[ysmaos Tome 00| Y T T eRS e — T T EN]T T © T 5T T T T TtT T T n rEmLR T i T t T mR T T n L n i& oramr T i n I I Tm[s{ex/sn/ms] T T b I I 1ofroTs o — T T T ey[ipesms T T i t i T eti T T t T L T est T T T T T n ear i T T i © n ite T n n n T n eel I I I I I I eli I I I I I I ei I I I I I I est Tt t T T L t st2ar T T T T L T eET T n n T T n ExTe T n n n T T ee T n n n © T n ve T n n n [ T n e",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a4e52586224470b006c8da5adf322107",
+    "text": "Command Codes BDADDR, BDADD, BDAPLR, BDAPL, BDOUTR, BDOUT, BDENT and BDINQ 2.4.25 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "7c337f2c2f0e5b8efbdca34e675f45f1",
+    "text": "Exhibit 2.4.25-2 (Cont. 1) (07-01-2012) DC Original Format Record",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "6da86787470d0f27652c3d5186782d5f",
+    "text": "“BDADD” generated COMMAND-CD ITEM-COUNT generated Literal “ITEMS” ITEM-COUNT — The number of items added to this point (generated). VOUCHER-AMT — The dollar amount added to this point (generated) DC-CONTROL-NUMBER — Must be entered in nn-nnn-nnnnn-nnn-n format. First two digits must be the Service Center of input or a valid District Office within the Service Center of input. Year digit must be that of the current year or the Immediately prior year. Control Day must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "0aa987f29af3ddf0e8c6c3634a979fe7",
+    "text": "The Control Day and Year digit com- bination cannot be greater than the current date.Th",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "7252858e12241c77900fd3cea4f40253",
+    "text": "C Control Number speciﬁes the following: nn nnn (nn) (nnn) nnn n DO-SC-CD Control Bank Debit Series Year Day Number Voucher Number Digit Assigned Number within by SC Debit Voucher",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "9cc358405149db607ff830a16f0b4b21",
+    "text": "DESCRIPTION",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "22c1cab567b4c3a6a592b1175d96a018",
+    "text": "DC-REASON-CD — Overlay RC with the code shown on check. Must be entered and must be 01–26. The meanings are as follows:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "a4e52586224470b006c8da5adf322107",
+    "text": "Command Codes BDADDR, BDADD, BDAPLR, BDAPL, BDOUTR, BDOUT, BDENT and BDINQ 2.4.25 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "8647f1469beeae2bcdbbfb9bc8c3fe7d",
+    "text": "Exhibit 2.4.25-2 (Cont. 3) (07-01-2012) DC Original Format Record ITEM LINE POSITION DESCRIPTION 8 3 1–14 ORIGINAL-DC-AMT amount. Must be (left-justiﬁed). 9 4 1-24 TRACE-ID --- Must nnnnnnn-nnn-nnnnnn speciﬁes the other Site ID, Number, Transaction Site ID portion of to be a current, the past. 10 5 1–4 PAYMENT-TYPE-CD codes and meanings REGU — Regular MULT — Multiple SPLT — Split MUSP — Multiple/Split 11 5 6-13 IRS-RCVD-DT 12 6 1–35 FIRST-NAME-LINE 13 7 1–35 SECOND-NAME-LINE 14 8 1–35 STREET-ADDR 15 9 1–35 CITY-ST-ZIP 16 10 1–11 TIN TINb ------- b 17 10 13-14 MFT-CD NN or nn 18 10 16-18 PLAN-NUM or 19 10 20-25 TXPRD YYYYMM 20 11 1–7 MRS-IND literal 21 13 3–37 ERROR-MESSAGES",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "994d039930b7af34e414f0314b8a3628",
+    "text": "Exhibit 2.4.25-2 (Cont. 3) (07-01-2012) DC Original Format Record",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "9cc358405149db607ff830a16f0b4b21",
+    "text": "DESCRIPTION",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "1c2d8148855ab57d3adbae7eba4bc07a",
+    "text": "TRACE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "3843971dcfdee5083e6289e1bbdbb003",
+    "text": "ID",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "8a7fd065dd9c567e4d08d81c69e6fec9",
+    "text": "Must be entered in nn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "fab66aa01347d3f11a16468941378cea",
+    "text": "nn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "be1f4743f21488917c4fccfec99385ee",
+    "text": "nnnnnnn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "e8702ecd939e3ace89e85e0df11878c7",
+    "text": "nnn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "5ce6f792b2ccd473f8075abc53815d86",
+    "text": "nnnnnn format. The TRACE ID speciﬁes the following: SP Campus FLC or other Site ID, System ID, Deposit Date, Seq Number, Transaction Seq Number. Note",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "4147dc74fa85cd93e176bd94b410742a",
+    "text": "The Site ID portion of the TRACE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "8ed4c149853fe4b5b1692b186e30d851",
+    "text": "ID does not have to be a current, valid one. It can be one from the past.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "2c7f972c08feca35e84251a1e326db8f",
+    "text": "PAYMENT-TYPE-CD — Must be entered. Valid codes and meanings are:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "72a167d036a82064a6a787d180379721",
+    "text": "Exhibit 2.4.25-3 (01-01-2013) Command CD BDADD—DC Original Request",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "1d42c0594f5a00d6574b2ba912e36b45",
+    "text": "Input Display — BDADD: DC-ORIGINAL-REQUEST",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "dd0291fd7bad597664c1809a943574cb",
+    "text": "L1 1 19 1 mess | 3w\\ was ) mes 1 sie |e T L P T S e T e PR e S S S T e T LTT vyfEmyT TI TT Tt T TT T 1st n T TT T Tt © ¢I I IT T TI I ILR",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "a4e52586224470b006c8da5adf322107",
+    "text": "Command Codes BDADDR, BDADD, BDAPLR, BDAPL, BDOUTR, BDOUT, BDENT and BDINQ 2.4.25 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "85f07a58f5c5afd5cab6cc6b9be16736",
+    "text": "Exhibit 2.4.25-3 (Cont. 1) (01-01-2013) Command CD BDADD—DC Original Request",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "dd445ff1ad26d6d4e681ed8734929de7",
+    "text": "Exhibit 2.4.25-3 (Cont. 2) (01-01-2013) Command CD BDADD—DC Original Request",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "9cc358405149db607ff830a16f0b4b21",
+    "text": "DESCRIPTION",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "a4e52586224470b006c8da5adf322107",
+    "text": "Command Codes BDADDR, BDADD, BDAPLR, BDAPL, BDOUTR, BDOUT, BDENT and BDINQ 2.4.25 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "bc3e66f9ef5a426d27b4ab8d0b0b5925",
+    "text": "Exhibit 2.4.25-3 (Cont. 3) (01-01-2013) Command CD BDADD—DC Original Request",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "9cc358405149db607ff830a16f0b4b21",
+    "text": "DESCRIPTION",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "c2c05f798437c40a25772a48acd00691",
+    "text": "— Under minimum withdrawal amount EMPLOYEE-ASG-NUM Optional ORIGINAL-DC-AMT — Overlay $’s with check amount. Must be .",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "9c6725dc269a48ce4b5bc78b580ccab2",
+    "text": "through",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "be1f4743f21488917c4fccfec99385ee",
+    "text": "nnnnnnn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "e8702ecd939e3ace89e85e0df11878c7",
+    "text": "nnn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "82b495f1e7a0fc7ffcaa87921152ff6b",
+    "text": "nnnnnn format. The TRACE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "6df0c345cddb381e20933c79fab5deb4",
+    "text": "ID speciﬁes the following: SP Campus FLC or other SITE ID, System ID, Deposit Date, Sequence Number, Transaction Sequence Number. Note",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "4147dc74fa85cd93e176bd94b410742a",
+    "text": "The Site ID portion of the TRACE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "8ed4c149853fe4b5b1692b186e30d851",
+    "text": "ID does not have to be a current, valid one. It can be one from the past.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "2c7f972c08feca35e84251a1e326db8f",
+    "text": "PAYMENT-TYPE-CD — Must be entered. Valid codes and meanings are:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "235641d395c1f6bd85477c88665ff7bd",
+    "text": "IRS-RCVD-DT — The IRS received date—Overlay MMDDYYYY with date. Must be entered. Cannot be greater than the current date or earlier than the current year minus one. NOTE : Once a date is input it will be displayed in sub- sequent screen formats until overlaid or interrupted by a command code other than BDADD.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "905f2f540c854206195544e78ee7666a",
+    "text": "FIRST-NAME-LINE — Must be entered. Valid characters are A–Z,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "d8549b1e971f62b082179985aef85fe1",
+    "text": ", hyphen, ampersand, or blank. First position must be alpha or numeric. Only one comma can be present and (if present) must be immediately preceded and immediately followed by at least one alpha or numeric character. Any character following two or more sequential blanks is invalid. Examples of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "dec38188c59833e92b4263e4d0ad9ad4",
+    "text": "st Name Lines entered and the Name Controls which will be generated:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "71e9404eba75e0b06436769687130b98",
+    "text": "Exhibit 2.4.25-3 (Cont. 4) (01-01-2013) Command CD BDADD—DC Original Request",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "a4e52586224470b006c8da5adf322107",
+    "text": "Command Codes BDADDR, BDADD, BDAPLR, BDAPL, BDOUTR, BDOUT, BDENT and BDINQ 2.4.25 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "e12f71aae09bfe3e30fff69ca024c655",
+    "text": "Exhibit 2.4.25-3 (Cont. 5) (01-01-2013) Command CD BDADD—DC Original Request",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "d2a62c4568fb958ebfb6b2c53f7ac432",
+    "text": "SECOND-NAME-LINE — May or may not be entered. entered, valid characters are A–Z,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "6bca6004bba9810993c7063c164b34c2",
+    "text": ", ampersand, hyphen, %, slash or blank. Must contain a valid character other than blank in the ﬁrst position. Any character following two or more sequential blanks is invalid.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "26c618f18ace12854968866a5395c75f",
+    "text": "CITY-ST-ZIP — Must be present if Street Address is present, otherwise, may be blank. If ﬁeld is present, it must contain one of the following:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "e99709b19cdda94f6f014b195757322f",
+    "text": ") a Major-City-Code followed by blanks or blank, zip blanks;",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "44d6ff40da0e1fdcb29eb8b0797803d8",
+    "text": ")acomplete City/State/Zip. A complete City/State/Zip must contain a valid character other than blank in the ﬁrst position. One comma only must be present. Char- acters preceding the comma constitute the city, characters after the comma constitute the state. A single blank must separate the state and zip code. Any charac- ters following two or more sequential blanks are invalid. The valid format is city, state [slashb] zip.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "b92327e1f3b16c65793eddec4349ce1f",
+    "text": "blanks;2)acomplete City/State/Zip. A complete City/State/Zip must contain a valid character other than blank in the ﬁrst position. One comma only must be present. Char-",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "b19d5c67ee875cc79ed7b5f54819c2a1",
+    "text": "acters preceding the comma constitute the city, characters after the comma constitute the state. A single blank must separate the state and zip code. Any charac- ters following two or more sequential blanks are invalid. The valid format is city, state [slashb] zip.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "a40afe0191ab3dffcb34bd04bfd1000b",
+    "text": "Examples — Major-City-Code input:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "73cd6f044c1279f68fa8f329192d798a",
+    "text": "NOTE : A blank must not immediately precede the comma.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "ef461c734312230139a9fac05596c10a",
+    "text": "2. State — valid characters are A–Z and must be a valid state abbreviation.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "988a120e4a42df4557408a51a82b635a",
+    "text": "3. Zip — Can be up to 9 positions, all numeric with in- termittent blanks. If only the ﬁrst 5 positions are entered they must be 00601 through 99999. Positions 4 and 5 cannot be 00. If positions 6 through 9 are entered they must be all numeric.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "6f793d7c7552573baae1744c97dd1179",
+    "text": "Exception: If foreign address, enter pound sign # in position 1 followed by the foreign address.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "7cc16673c1b6b4d2bd5ac516e21789fa",
+    "text": "Exhibit 2.4.25-3 (Cont. 6) (01-01-2013) Command CD BDADD—DC Original Request",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "08516470fd3086e326c5fb0b1890593a",
+    "text": "TIN — Enter if available. Format must be nnn-nn-nnnnn- nnnnnnn[slashb] and cannot be all zeros or all nines. Must be entered for transcript request .",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "08b62c969f50c2e481f34162246f4064",
+    "text": "MFT - Enter if available. Format must be nn. The MFT is necessary to locate posted and pending transactions with TC 840 & 846, Erroneous Refunds.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "f3b9fff0ce97430a6e26eadb7197dc88",
+    "text": "EMP-PLAN-NUM - Necessary to locate posted and pending transactions associated with TC’s 840 and 846 Erroneous Refunds. For BMF valid range is (001-499) - (500-999). If MFT is 46 valid ranges are 000, 100-199, 300-399, 500-599, 700-799.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "b212432ac4b592021a001bbd86ac8390",
+    "text": "Valid Response — New BDADD screen format will be displayed with the message REQUEST COMPLETED on line 13. Subtotals of the item count and money count will also be shown on line 1 if Recall Code “C” was entered on the BDADDR input. Note: To clear these totals at the end of block, input any valid COMMAND-CD except BDADD, e.g. TXMOD, SUMRY, etc.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "a4e52586224470b006c8da5adf322107",
+    "text": "Command Codes BDADDR, BDADD, BDAPLR, BDAPL, BDOUTR, BDOUT, BDENT and BDINQ 2.4.25 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "3355675bf8f0025a352a3104cb8dd241",
+    "text": "Exhibit 2.4.25-4 (01-01-2003) Command CD BDAPLR — Apply Format Request",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "4b996e8a6c9da6a7d7c7326c40531054",
+    "text": "Input Display BDAPLR: APPLY-FORMAT-REQUEST",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "70542f623896007ed458fb25ca313a6f",
+    "text": "s s s o TASETESOIE 454 ST B0 3434 sSimorzssermoiT s[T jabart T T o)| —— T 1|B I 1 I elI 1 T I T 1|I t T I io L I I T o |Il T T L T T 5 |i T T t i T s |B T T T 1 T s |i T T I I T Loli I I L L T Tle T T L T re—i T T L I L i}i T T T T L elsl 1 ° T T ! 1siT 1T",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "cc6c681de9ae9e573f61564d09997fb7",
+    "text": "Record Element Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "f6b9674cdcf402da766f744075eadac1",
+    "text": "BDAPL screen format DC-APPLY-FORMAT-RECORD",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "d1114f9bb3963ba1b6e62f18325cc38b",
+    "text": "[ 15 [ ub [ a5 [ 95 [ a6 [ o5 [ o6 [ nw ]T2 T2 56 B0 T 5T 2 45 TE ST 2 S N 2456 0 234567890 |T ! 1 I ! IJERTN R Ty ! I[5-INGDC A0 WODYYYY oA N[EIITC Ssssssssssssss sssssssss sssssssss |[5 1280 ssssssssssssss I1C ssssssssssssssI[T oc e viver veer 0p | .7 Jcows | | | I| 230ATE _LOEED oMW | -Tsjist | I I I slPN T — oVIS A I I T [[I2[CVSTTE | I I I I 2]C} I I I I I 1]14/ T I I I I 1]it T— I I I 15/fic ! I I I I 6]fiu I I I I I ]i I I I I I 18]i T I I I I it0] I I I I I 20][l I I I I I 1]122l I I I I I 12~e I I I I I 181ez i S—| T5345E TS0 1 ASE T 1 ASETEO0 1235 B0 Z3A5E B0 2356 850 123456 78001234567890 | |",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "06ba21414f86ef755db3e63646717944",
+    "text": "1235678901236 78901 23456 TB901 ZAS6TE01 23456 789012456701 23456783017|18 | 1119 | 2129 [ 303 [ 4149 | 5169 [ 6169 | a0 |",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "a4e52586224470b006c8da5adf322107",
+    "text": "Command Codes BDADDR, BDADD, BDAPLR, BDAPL, BDOUTR, BDOUT, BDENT and BDINQ 2.4.25 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "06f7eccfd474a5b0b5a4324e5314e2f6",
+    "text": "Exhibit 2.4.25-5 (Cont. 1) (01-01-2003) DC Apply Format Record ITEM LINE POSITION DESCRIPTION FORMAT 1 1 1–5 COMMAND-CD “BDAPL” 2 2 1 APPLICATION-TYPE “A” 3 3 3–20 DC-CONTROL-NUMBER “NN-NNN-NNNNN-NNN-N” 4 3 1–4 DC-NAME-CTRL “NCDC” 5 3 6–9 APPLICATION-NAME-CTRL “NCAP” 6 3 18 ORIGINAL-PAY-DT “MMDDYYYY” 7 3 20–36 MF-ORIGINAL-TRANS-DLNorNMF-UNIT-LEDGER-CARD-ID “NNNNN-NNN-NNNNN-N” 8 4 1–3 PRIMARY-TRANS-CD “ITC” 9 4 5–18 PRIMARY-TRANS-AMT “$$$$$$$$$$$$$$” 10 4 20–28 OTHER-PENALTY-AMT “$$$$$$$$$$$$$$” 11 5 1–3 SECONDARY-TRANS-CD “280” 12 5 5–18 SECONDARY-TRANS-AMT “$$$$$$$$$$$$$$” 13 5 20–22 TERTIARY-TRANS-CD “3TC” 14 5 24–37 TERITARY-TRANS-AMT “$$$$$$$$$$$$$$” 15 6 1–12 TIN & FILE-SOURCE-CD “TINb---------b” 16 6 14 DC-NOTICE-IND “N” 17 6 16–17 DOC-CD “DC” 18 6 19–20 MFT-CD “NN” 19 6 22–27 TAX-PRD “YYYYMM” 20 6 29–32 EP-YR-COUNT & EMPLEE- PLAN-NUM “YPPP” 21 6 20-21 DESIGNATED-PAYMENT-CD “DP” 22 7 1–36 COMMENTS “COMMENTSb----b” 23 8 1–6 TWENTY-THREE-C-DT “23DATE” 24 8 10–14 LOCATION-CD “LOCCD” 25 8 16–32 NMF-APPLY-DLN “NNNNN-NNN-NNNNN-N” BDOUTR, BDOUT, BDENT and BDINQ 2.4.25 page",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "f5d948e42de77e51fded27cfba23633b",
+    "text": "Exhibit 2.4.25-5 (Cont. 1) (01-01-2003) DC Apply Format Record",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "97f1256cd881390e42e9c3efe1a7a177",
+    "text": "ITEM LINE POSITION DESCRIPTION FORMAT 26 9 1–36 FIRST-NAME-LINE “1STbN/Lb------b” 27 10 1–36 SECOND-NAME-LINE “2NDbN/Lb------b” 28 11 1–36 STREET-ADDR “STREETb------b” 29 12 1–36 CITY-ST-ZIP “CY/ST/ZPb-----b”",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "a4e52586224470b006c8da5adf322107",
+    "text": "Command Codes BDADDR, BDADD, BDAPLR, BDAPL, BDOUTR, BDOUT, BDENT and BDINQ 2.4.25 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "b2556a186fb3ba7cd94ee9345b4a7720",
+    "text": "COMMAND-CD BDAPL — Used to record the application of a dishonored check (in whole or in part) from The Dishonored Check File to a speciﬁc tax module. The format is generated by COMMAND-CD BDAPLR and a new BDAPL format will be displayed after each BDAPL entry.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "e821082436165723123a1bc84993cb75",
+    "text": "DC-APPLY-REQUEST",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "e391ed1f54a99e9ea04352433af90e5c",
+    "text": "[ 19 [ um [ a6 [ 05 [ a6 [ 515 [ 66 [ 7@L T7356 TR0 73456 890173456 830173458 T80T A58 T T2 3456 TEO0TZ 3455 OO0 TZ 45673 |[Tt | 1 1 L 1 I I 1oL2 1 - [ T I i [ 1215 1vivw vovy mmonmn - o e 1 1 [E—[l wervvivvvervey v | I T I [E—]1571280 vwwwevrrvvvves oo vevvirvveee | L i i L5[ Lvvvsveivyvs o o m oo o T I T 161L7 Lvwvvvemmvovernvovseeesmwrveeei | 1 1 1 7]15 vy | 1 1 1 197IO vovvwsmvvwivevevvvsveervvrvveseess | I I I o]L1 vovvwvmvwvseivvvvsveesvrvvveress | I I I TT I I I 2]fTEn ! | ! I I I I IvEn1] I ! I I I I I Tys I 1 I I I I I si I ! I I I I I 16fiu I T T T T T I ]i I T T T T T I ]it I T T T T T I ito] I I I I T T I o][ I I I T T T I 1]2] I I I I I I I 2]121 I T 1 I I T T 12izl | | ! | I I | aa]1301530 B At o0 e o ST 2355718 | 1119 | 2129 | 3139 | 41.49 | 5159 | 61.69 | 71.80",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "9f23b2c2c9bd894de0c1f81c065de641",
+    "text": "Exhibit 2.4.25-6 (Cont. 1) (01-26-2017) Command CD BDAPL ITEM LINE POSITION DESCRIPTION 1 1 1–5 COMMAND-CD “BDAPL” COMMAND-CD 2 2 1 APPLICATION-TYPE — Must follows: M — when application is being IMF/BMF/IRAF tax module. N — when application is being NMF tax module. 3 2 3–20 DC-CONTROL-NUMBER — and must match control number honored Check File. 4 3 1–4 DC-NAME-CTRL — Must be must match control on the File. 5 3 6–9 APPLICATION-NAME-CTRL entered for M type applications match name control on the otherwise, it will unpost. 6 3 11–18 ORIGINAL-PAY-DT — Must be must agree with the date of tion which is being reversed will unpost. 7 3 20–36 MF-ORIGINAL-TRANS-DLN LEDGER-CARD-ID — Must 8 4 1–3 PRIMARY-TRANS-CD — valid transaction code as follows: 641, 661, 671, 681, 691 or OF VALID TC/MFT/DOC CD nations. 9 4 5–18 PRIMARY-TRANS-AMT — amount which must be .01 999,999,999.99 left justiﬁed, 222,650.50$$$$ 10 4 20–28 OTHER-PENALTY-AMT — If $’s with amount which must 99,999.99 left justiﬁed. 11 5 1–3 SECONDARY — Trans-CD — contain a generated “280 ” tion.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "4f169bdfd3514e091fbf1059c26074d7",
+    "text": "Exhibit 2.4.25-6 (Cont. 1) (01-26-2017) Command CD BDAPL",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "3ce5bb0d100680ae2a57cfc81671bb57",
+    "text": "APPLICATION-TYPE — Must enter M or N as follows:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "739bd7288633d68e8c8a77f93474e511",
+    "text": "M — when application is being made to an IMF/BMF/IRAF tax module.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "a4e52586224470b006c8da5adf322107",
+    "text": "Command Codes BDADDR, BDADD, BDAPLR, BDAPL, BDOUTR, BDOUT, BDENT and BDINQ 2.4.25 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "962bdf294c3c581ec6cf80428ca4a525",
+    "text": "Exhibit 2.4.25-6 (Cont. 2) (01-26-2017) Command CD BDAPL",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "9cc358405149db607ff830a16f0b4b21",
+    "text": "DESCRIPTION",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "ddcc3169a5fe5fb98d393633cbc44f84",
+    "text": "SECONDARY-TRANS-AMT — If left blank ($’s are considered blank), the penalty will be generated. If no penalty is to be assessed, or if the penalty amount being assessed is different than what would be generated, the amount must be entered. Overlay $’s with .",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "9c6725dc269a48ce4b5bc78b580ccab2",
+    "text": "through",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "8598f4dee340658b19f254675b087b51",
+    "text": "left justiﬁed.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "7a208dcf4a7703868d17bcacaa412fca",
+    "text": "TERTIARY-TRANS-AMT — Must be present if TERTIARY-TRANS-CD is present; must not be present if TERTIARY-TRANS-CD is not present. Overlay $’s with .01 through 999,999,999.99 left justiﬁed.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "cd0dc839a88d89b77563a34396e4c202",
+    "text": "TIN & FILE-SOURCE-CD — The TIN must be entered in EIN or SSN format followed by a valid FILE Source. Must meet standard validity and con- sistency checks. Also, the APPLICATION-TYPE (Item 2) must be consistent with the ﬁle source entered here.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "893e0d4da02e409ecc4fdb91b4ea4ad2",
+    "text": "DOC-CD — Must enter 87, 45, or 24. (Doc Code 24 is valid with N type of applications only.) Also, see TABLE OF VALID TC/MFT/DOC CD for valid combinations.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "3a21d720264e96035d26e0103ac14279",
+    "text": "TAX-PRD — Must be entered and must meet standard Tax Period Validity checks and MFT/TAX- PRD consistency checks. If MFT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "5e3f36e289ca5fddc6d29ce69f077145",
+    "text": ", TAX-PRD cannot be earlier than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "8ac56f7a0ba8323c4238b5adfdf8d3be",
+    "text": "If MFT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "8b074cfcfec0b937cd4cdb53863f1432",
+    "text": ", TAX- PRD cannot be earlier than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "8ac56f7a0ba8323c4238b5adfdf8d3be",
+    "text": "If MFT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "5e3f36e289ca5fddc6d29ce69f077145",
+    "text": ", TAX-PRD cannot be earlier than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "8ac56f7a0ba8323c4238b5adfdf8d3be",
+    "text": "If MFT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "5e3f36e289ca5fddc6d29ce69f077145",
+    "text": ", TAX-PRD cannot be earlier than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "8ac56f7a0ba8323c4238b5adfdf8d3be",
+    "text": "If MFT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "5e3f36e289ca5fddc6d29ce69f077145",
+    "text": ", TAX-PRD cannot be earlier than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "8ac56f7a0ba8323c4238b5adfdf8d3be",
+    "text": "If MFT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "5e3f36e289ca5fddc6d29ce69f077145",
+    "text": ", TAX-PRD cannot be earlier than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "8ac56f7a0ba8323c4238b5adfdf8d3be",
+    "text": "If MFT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "3d5d399caa5dc1707f108d08067022c5",
+    "text": ", TAX-PRD must be left blank.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "03f5ac03fbce017a9c6f66cc69d0a2da",
+    "text": "EP-YR-COUNT & EMPLEE-PLAN-NUM/ REPORT- NUM — Must be entered for MFT 74 or 76. For NMF applies valid range is (001-999). For Master- ﬁle applies, valid range is (001-499) - (500-999). If MFT 46 a valid range of 000, 100-199, 300-399, 500-599, 700-799.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "78448649ed437a716eecf3b3eefbb2ac",
+    "text": "COMMENTS — Enter necessary information.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "a4e52586224470b006c8da5adf322107",
+    "text": "Command Codes BDADDR, BDADD, BDAPLR, BDAPL, BDOUTR, BDOUT, BDENT and BDINQ 2.4.25 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "6d71856c36e9b9e841d5c902639fc365",
+    "text": "Exhibit 2.4.25-6 (Cont. 4) (01-26-2017) Command CD BDAPL",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "7d451e98aafd30ab4e87b342e8859b20",
+    "text": "NMF-APPLY-DLN — Must be entered if APPLICA- TION TYPE is “N”; otherwise leave blank.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "182421717c6c58d110fb3a23a3c7710b",
+    "text": "FIRST-NAME-LINE — If entered, the CITY-ST-ZIP must also be entered.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "216d98284149a6f44986724ff77da15f",
+    "text": "SECOND-NAME-LINE — If entered, the FIRST- NAME-LINE and the CITY-ST-ZIP must also be entered.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "2266abe9a066d5e14849fca9ed5cfe0c",
+    "text": "STREET-ADDR — If entered, the FIRST-NAME- LINE and the CITY-ST-ZIP must also be entered.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "409102411cc690567b3e399f4d62fb90",
+    "text": "CITY-ST-ZIP — If entered, the FIRST-NAME-LINE must also be entered. If ﬁeld is present, it must contain one of the following:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "1eda63c3b37f3c02b893488ec699a337",
+    "text": ") a Major-City-Code followed by blanks or blank, zip, blanks;",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "8746c5605807704649a2de3224d6e6c4",
+    "text": ") a complete City/State/Zip. A complete City/State/ Zip must contain a valid character other than blank in the ﬁrst position. One comma characters after the comma constitute the state. A single blank must separate the state and zip code. Any charac- ters following two or more sequential blanks are invalid. The valid format is city, state [slashb] zip.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "d34596964fea9a09c7bff2d9b67fa03c",
+    "text": "Note : A blank must not immediately precede the comma.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "f63ea638dfe953de0bdc7bf24b70fba3",
+    "text": "1. City — valid characters are A–Z, 0–9, hyphen and blank. Must contain at least three valid charac- ters. Characters following two or more sequential blanks are invalid.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "ef461c734312230139a9fac05596c10a",
+    "text": "2. State — valid characters are A–Z and must be a valid state abbreviation.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "7c4267283378c23ae39810ff4bad752b",
+    "text": "Exhibit 2.4.25-6 (Cont. 5) (01-26-2017) Command CD BDAPL",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "6f793d7c7552573baae1744c97dd1179",
+    "text": "Exception: If foreign address, enter pound sign # in position 1 followed by the foreign address.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "40aecc6850627004c05deeba030bffd4",
+    "text": "Note: — If any name and address data is entered on the screen in Items",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "9c6725dc269a48ce4b5bc78b580ccab2",
+    "text": "through",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "844080b4919d8c83671093f881560d8d",
+    "text": ", the data must constitute a complete name and address data are for ensuring that a complete name and address have been entered. The minimum complete name and address is FIRST-NAME-LINE and CITY-ST-ZIP.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "54a2a7eb75479b06dacac2017860ce04",
+    "text": "Note: — If any name and address data is entered on the screen in Items 24 through 27, the data must constitute a complete name and address data are for ensuring that a complete name and address have been entered. The minimum complete name and address is FIRST-NAME-LINE and CITY-ST-ZIP.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "03e7a0e0558f6f039c686f83e539a3cd",
+    "text": "The name and address information is extracted from the TIF. If the name and address is not on the TIF, then the address is extracted form the DCF database. If the address information is incorrect, the information will need to be overlaid with the correct information.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "03e7a0e0558f6f039c686f83e539a3cd",
+    "text": "The name and address information is extracted from the TIF. If the name and address is not on the TIF, then the address is extracted form the DCF database. If the address information is incorrect, the information will need to be overlaid with the correct information.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "a4e52586224470b006c8da5adf322107",
+    "text": "Command Codes BDADDR, BDADD, BDAPLR, BDAPL, BDOUTR, BDOUT, BDENT and BDINQ 2.4.25 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "b7aea05ac84d296afc2f35daec1541dd",
+    "text": "AL",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "08f271887ce94707da822d5263bae19d",
+    "text": "M",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "595f77f71b9ff2dcc43d986a01338940",
+    "text": "axo valsd oxcept WETs",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "cd1c0e98517e6c44fb8f807e611c233a",
+    "text": ",hirt et",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "e632b7095b0bf32c260fa4c539e9fd7b",
+    "text": "T",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "2bbaa82422eac3a5305c3cb107366eea",
+    "text": "dmvalid for the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "5d4fe8b86e002b147c7fd57354d5bef5",
+    "text": "Exhibit 2.4.25-7 (Cont. 1) (01-01-2015) Table of Valid TC/MFT/DOC CD",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "12811afda3f1b59a8eed3ead001b7001",
+    "text": "&16oo1itFEE22 Valid ar 2nd ¢ ondy.X = 7 valid for speciied Do code.111pchctgtastae4 19 MET 07 4 snvadid for this transsotionot",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "a4e52586224470b006c8da5adf322107",
+    "text": "Command Codes BDADDR, BDADD, BDAPLR, BDAPL, BDOUTR, BDOUT, BDENT and BDINQ 2.4.25 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "efad5a1b29a6cd9486c2ff195ddab2f9",
+    "text": "Exhibit 2.4.25-7 (Cont. 2) (01-01-2015) Table of Valid TC/MFT/DOC CD",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "efad5a1b29a6cd9486c2ff195ddab2f9",
+    "text": "Exhibit 2.4.25-7 (Cont. 2) (01-01-2015) Table of Valid TC/MFT/DOC CD",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "1dcb114b72bafb303b33aab6f821e9db",
+    "text": "ALL D MPTo aco valia except NPT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "4a1cb58fae4dcf0afb19e6e1239771cf",
+    "text": "(e",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "ea513cccd99b8c5ee162e71e02dcaa10",
+    "text": "COMMAND-CD BDOUTR — Used to request COMMAND-CD BDOUT format.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "b7d48d7c463f1bf78faf101426c0d643",
+    "text": "Input Display: AMT-CHANGE-VOID—FORMAT-REQUEST",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "7bec0021e810f68d7b860a61a1b1d227",
+    "text": "I= Ty| Il iTMRREARERUL",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "c2ecf285636506df8746f048e1a52e88",
+    "text": " [TESUSETEo017345670901 2345619012345 TH301 13456 TBOUIZ IS A T8ROI 23456 18001 IHSETB0LD e T P T",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "e49e03cf7e00236b57160338eeca2f0c",
+    "text": "Command Codes BDADDR, BDADD, BDAPLR, BDAPL, BDOUTR, BDOUT, BDENT and BDINQ 2.4.25 page 37",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "8a0c10a12a1656f4a3350c4978da2ef8",
+    "text": "Terminal Response to BDOUTR is the BDOUT screen format as shown below: DC-AMT-CHANGE-VOID-FORMAT-REC",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "6f259bcf8e3e8e15e552755d8475632d",
+    "text": "COMMAND-CD BDOUT — Used to correct or void an erroneous DC record which is on the Dishonored Check File. The format is generated by COMMAND-CD BDOUTR and a new BDOUT format will be displayed after each BDOUT entry.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "7d19c82fb8134e388ed8dcfb61e03831",
+    "text": "TT s s s e 1FS TSP LT IO ST IOV THATIONS? T T st=IIt te Y e e e —",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "0939b29e69fde37b3b545d19ba7ca995",
+    "text": "| 1173056789012345676901 23456 1890123456789012345678901234561 8901234367 8301234567830T 05 0 5 S M T E 1)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "a4e52586224470b006c8da5adf322107",
+    "text": "Command Codes BDADDR, BDADD, BDAPLR, BDAPL, BDOUTR, BDOUT, BDENT and BDINQ 2.4.25 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "a7a415748bc1379cc90ed256696f09cd",
+    "text": "Exhibit 2.4.25-10 (Cont. 1) (01-01-2003) Command CD BDOUT",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "dde49cae6c1f4f82aa370fc0ba2997ef",
+    "text": "V — when a record on the Dishonored Check File is being voided.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "63deded279a24743bde6daaafa07e9f7",
+    "text": "Z — when the money amount of a record on the Dishonored Check File is being corrected.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "7c7a29c9be471f2d0648ad284e85b254",
+    "text": "Use these APPLICATION TYPE codes when the Dishonored Check records must be removed for the following reasons:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "2ac44c9f79ddf0aca67f56bec5156bf5",
+    "text": "A — when the check covers payment of an Alcohol, Tobacco and Firearms return.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "85942ca40f5207863a3bbb84fa485e1d",
+    "text": "I — when it is a non",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "9a9a6576c79e7a005c596587539cb23d",
+    "text": "IRS check. R — when the check is being redeposited. X — when it is a missing check. D — when the check is on the Unidentiﬁed Re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "a1bff2dc9883c92dd51ed46e86459478",
+    "text": "mittance File in whole or in part. DC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "6fecf9081bd58fa5a91e8a1d8093dc89",
+    "text": "CONTROL",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "0623d6758e5e0e48e437b0c3f8128a42",
+    "text": "NUMBER — Enter the control number of the Dishonored Check File record to be corrected or voided. DC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "eaa589322731009980d99891b5c7850a",
+    "text": "NAME",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "8144f85c12cd64a2671b9f99257bb6f0",
+    "text": "CTRL — Enter the name control of Dishonored Check File record to be corrected or voided.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "25ad992ddad91bc621d83dba90dd430f",
+    "text": "CORRECT-AMT — Amount must be entered if APPLICATION TYPE is Dishonored Check File record. For APPLICATION TYPE “D”, leave blank if entire balance amount is unidentiﬁed. If it is partially unidentiﬁed, enter the amount that is un- identiﬁed.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "0478f2565b9b30415c4f9374c47c3f46",
+    "text": "NOTE : When doing a partial BDOUT “D” and a BDAPL to the same record, BDAPL should be done ﬁrst. If the BDAPL is done last, the record will remain on the Dishonored Check File for three months. If, however, the BDOUT “D” is done last, the record will be dropped at the end the month.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "06d850cc2878b44aa55e2c6b6188f774",
+    "text": "DESCRIPTION AND VALIDITY",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "20be9d7b94f179316780c8f0fc8c412b",
+    "text": "COMMENTS — Explain the reason for changing or voiding the Dishonored Check File record.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "4d621321175a057eace7aa0dfc8cfca3",
+    "text": "Command Codes BDADDR, BDADD, BDAPLR, BDAPL, BDOUTR, BDOUT, BDENT and BDINQ 2.4.25 page 41",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "fe75b948fe8785e900b13b8a347cdda0",
+    "text": "COMMAND-CD BDENT — Used to update the FIRST NAME LINE, SECOND NAME LINE, STREET ADDRESS, CITY-STATE-ZIP, TIN, EMPLEE-NUM, TRACE-ID, COMMENTS, MFT/PLAN-NUM, and TAXPRD of a record on the Dishonored Check File",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "51cca04ee30c3fe68a16b2baa83bfdb2",
+    "text": "Input Display: DC-ENTITY-CHANGE-REQUEST",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "2796e3e96da3b3507e50eb8327d54b6b",
+    "text": "Exhibit 2.4.25-11 (Cont. 1) (01-01-2013) COMMAND CD BDENT",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 46
+    }
+  },
+  {
+    "element_id": "f1cb4625c49b936346b027db264cd2be",
+    "text": "PLAN-NUM/TAXPRD, and COMMENTS. The ﬁrst element being changed must be entered on Line 4 . The next element being changed must appear on the next line, etc.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 46
+    }
+  },
+  {
+    "element_id": "0873db908b05b7e4c01af193514b49d3",
+    "text": "FIRST-NAME-LINE — If being changed, enter 1N/ immediately followed by the new FIRST NAME LINE. A new name control will be generated for the Dishonored Check File record. Valid characters are A–Z, 0–9, hyphen, ampersand, or blank. First position must be alpha or numeric.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 46
+    }
+  },
+  {
+    "element_id": "bd4c43e37984eb7286eb7cbee2e331f8",
+    "text": "Only one comma can be present and (if present) must be immediately preceded and immediately followed by at least one alpha or numeric character. Any character following two or more sequential blanks is invalid. Examples of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 46
+    }
+  },
+  {
+    "element_id": "dec38188c59833e92b4263e4d0ad9ad4",
+    "text": "st Name Lines entered and the Name Controls which will be generated:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 46
+    }
+  },
+  {
+    "element_id": "a4e52586224470b006c8da5adf322107",
+    "text": "Command Codes BDADDR, BDADD, BDAPLR, BDAPL, BDOUTR, BDOUT, BDENT and BDINQ 2.4.25 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "8e2448bdca327d5e3f331eaaf6b92e80",
+    "text": "Exhibit 2.4.25-11 (Cont. 2) (01-01-2013) COMMAND CD BDENT",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "2457eea584f54a209ef2bf53496b57c2",
+    "text": "STREET-ADDR — lf being added or changed, enter ST/ immediately followed by the new street address data. The ﬁeld must contain a valid character other than blank in the ﬁrst position. To delete an existing street address from the Dishonored Check File record, use: STREET-ADDR-DELETE-IND ST/ZZ",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "a7942a9cda762fe044b633ef7f6f7d30",
+    "text": "CITY-ST-ZIP — If being added or changed enter CY/ immediately followed by one of the following:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "ea707a6d7d16416bca6730113981ebeb",
+    "text": ") a Major-City-Code followed by blanks or blank, Zip, blanks;",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "d95a34b4c2d62da7eecf69560d79de52",
+    "text": ")acomplete City-State-Zip. A complete City-State-Zip must contain a valid character other than blank in the ﬁrst position. One comma only must be present. Char- acters preceding the comma constitute the city, characters after the comma constitute the state. A single blank must separate the state and zip code. Any charac- ters following two or more sequential blanks are invalid. The valid format is city, state[slashb]zip.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "a40afe0191ab3dffcb34bd04bfd1000b",
+    "text": "Examples — Major-City-Code input:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "d34596964fea9a09c7bff2d9b67fa03c",
+    "text": "Note : A blank must not immediately precede the comma.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "ef461c734312230139a9fac05596c10a",
+    "text": "2. State — valid characters are A–Z and must be a valid state abbreviation.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "c8b1432d39cc9ce1dba6aa44c901e810",
+    "text": "Exhibit 2.4.25-11 (Cont. 3) (01-01-2013) COMMAND CD BDENT",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "988a120e4a42df4557408a51a82b635a",
+    "text": "3. Zip — Can be up to 9 positions, all numeric with in- termittent blanks. If only the ﬁrst 5 positions are entered they must be 00601 through 99999. Positions 4 and 5 cannot be 00. If positions 6 through 9 are entered they must be all numeric.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "3683f29913bd96a7b0a55b9705c8a94f",
+    "text": "Exception: If foreign address, enter pound sign (#) in position 1 followed by the foreign address.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "f697ad9ef47ad30edc417d0dfa97fa9e",
+    "text": "TIN — If being added or changed, enter TN/ immedi- ately followed by the new TIN. Format must be nnn-nn- nnnn or nn-nnnnnnn[slashb] and cannot be all zeros or all nines.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "5fda6e912f926a2262c76c155f56a736",
+    "text": "EMPLEE-NUM — If being added or changed, enter EN/ immediately, followed by a 10 digit employee number.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "0a959a640f87c5fd7bfa28d6ce2421c2",
+    "text": "TRACE-ID --- If being added or changed, enter TI/ immediately followed by the new TRACE-ID. Format must be all numeric and nn-nn-nnnnnnn-nnn-nnnnnn",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "32952fb99ae7ee04bd713f0ea29d9230",
+    "text": "TRACE-ID --- If being added or changed, enter TI/ immediately followed by the new TRACE-ID. Format must be all numeric and nn-nn-nnnnnnn-nnn-nnnnnn MFT/PLAN-NUM/TAX-PRD --- If either the MFT, PLAN- NUM,or TAX-PRD are being added or changed, all",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "163844bed8692a6eaf6d451454afa2d0",
+    "text": "entities must be addressed. Enter TM/ immediately followed by the new valid MFT, PLAN-NUM, and TAX- PRD. Format must be all numeric and nnnnnnnnnnn. Note: For MFTs",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "4aa9bfd2f175a94ad5a7cb321e1aea97",
+    "text": ", and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "36d489bc5a7bc9719cf51f8c672113b2",
+    "text": ", a valid numeric PLAN- NUM must be entered. For MFT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "3a2b482078bf7929eeaa391b7c527a8a",
+    "text": ", the PLAN- NUM must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "5a4ed51aea1ef27594876f468277b211",
+    "text": "thru",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "5a4ed51aea1ef27594876f468277b211",
+    "text": "thru",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "5a4ed51aea1ef27594876f468277b211",
+    "text": "thru",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "3d30020b1863441a64e786bdc72745e9",
+    "text": ", or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "5a4ed51aea1ef27594876f468277b211",
+    "text": "thru",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "670026c0bd4002becafb29eeaaa7b01c",
+    "text": "For MFT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "ca55dff2545e83c4aae66d3721a8cfee",
+    "text": ", the PLAN-NUM must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "5a4ed51aea1ef27594876f468277b211",
+    "text": "thru",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "670026c0bd4002becafb29eeaaa7b01c",
+    "text": "For MFT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "ca55dff2545e83c4aae66d3721a8cfee",
+    "text": ", the PLAN-NUM must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "5a4ed51aea1ef27594876f468277b211",
+    "text": "thru",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "5a4ed51aea1ef27594876f468277b211",
+    "text": "thru",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "f99f21c9cdccbf162d059f0777cc0c4b",
+    "text": "If the MFT is other than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "3d30020b1863441a64e786bdc72745e9",
+    "text": ", or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "c463fbc1b8329b79a10aa1e026945e19",
+    "text": ", PLAN-NUM must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "ad645d88f55b90d6493522d1eab57deb",
+    "text": "or blank.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "2941d9b37c35b563c0330929055906ce",
+    "text": "COMMENTS–If being added, enter CM/immediately followed by comments. Use only in conjunction with entity change.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "7fb115ffa286cb0407d07310d233d772",
+    "text": "ERROR-MESSAGES — An appropriate error message will be displayed on line 15.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "230cf8c8a023fcaeccc3e606c758e990",
+    "text": "Command Codes BDADDR, BDADD, BDAPLR, BDAPL, BDOUTR, BDOUT, BDENT and BDINQ 2.4.25 page 45",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "e9ba0ed3e180075dd5a894555108e3d4",
+    "text": "COMMAND-CD BDINQ used to display an entire DC record",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "845ba6d7372c6406ee5252bb3cf2fa87",
+    "text": "Input Display DC-INQUIRY-REQUEST",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "9e9d959fac83f6ec9d3b73a1c373d890",
+    "text": "15 10 | 205 | 309 | at® | e | @e [ e ]I TZ54557800 123456 AU 56 AU M6 TN A6 T2 6 T Z3455 T2 45675i TI I[Tjmome | ! 1 | 1 1 1 I12 ey | T T I I I 127By | 1 I I I I eo roven o | T T T I I 1][N — I I ! I I I 15 ]) I I I I L I I II I T— I I L I TI I T— I I T T ]) I I 1 I I I I o |0] I I 1 I I L I o][ I I 1 I I I I Ti I I I I | I I 2]iEn I ! I I — I 3]i I I I I — I ]i I I I I I I I ]i I I 1 I I I I 6]i I I 1 I I I I IE)i ! I 1 1 I I I ]it T 1 1 1 I I I o]2] T I I I I I I 0][ T I I I I I I 1]2] T I I 1 I I I 2]2 I 1 I T I I I 12|ez T | | | | [ | 23]1237867850123 890 2 T e T e eV SIS eV e TE0 o SHSe7eo0] |T 19 | 1100 | 2129 | 31.39 | 4149 | S1.59 | 61.69 | 7180 | |",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "5c718d7cd7ae17a9905e337c4c0718f3",
+    "text": "Exhibit 2.4.25-12 (Cont. 1) (01-01-2013) COMMAND CD BDINQ",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 50
+    }
+  },
+  {
+    "element_id": "895af3c2b7b14e2318390a4b4e4111ff",
+    "text": "DESCRIPTION COMMAND-CD — enter, “BDINQ” DC-NAME-CTRL OR ORIGINAL-DC-AMT — enter amount of check with decimal point and commas (left-justiﬁed). OR DC-CONTROL-NUMBER — enter complete DC Control Number in format of nn-nnn-nnnnn-nnn-n or only ﬁrst two (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 50
+    }
+  },
+  {
+    "element_id": "a25862278bc57c52df5d174aea7183ac",
+    "text": ") digits in format nn-[slashb]-------------- [slashb] ORIGINAL-DC-AMT — enter amount of check with decimal point and commas (left-justiﬁed). DC-CONTROL-NUMBER — enter complete DC Control Number in format of nn-nnn-nnnnn-nnn-n or only ﬁrst two (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 50
+    }
+  },
+  {
+    "element_id": "afba841a4031e689a1c20a9c5e07c5a2",
+    "text": ") digits in format nn-[slashb]-------------- [slashb] ERROR-MESSAGES — An appropriate error message will be displayed on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 50
+    }
+  },
+  {
+    "element_id": "87fe0d9bc85b6781ecbb4b115d37f6b7",
+    "text": "DC-CONTROL-NUMBER — enter complete DC Control Number in format of nn-nnn-nnnnn-nnn-n or only ﬁrst two (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 50
+    }
+  },
+  {
+    "element_id": "4bdbb5b821948238805a4b7ce217f290",
+    "text": ") digits in format nn-[slashb]-------------- [slashb]",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 50
+    }
+  },
+  {
+    "element_id": "a4e52586224470b006c8da5adf322107",
+    "text": "Command Codes BDADDR, BDADD, BDAPLR, BDAPL, BDOUTR, BDOUT, BDENT and BDINQ 2.4.25 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "daf035719e98ce622754b72d30ea6daf",
+    "text": "Screen display of all data on the Dishonored Check File pertaining to the particular dishonored check. This consists of the basic dishonored check data plus history records of all actions taken and the current status (Open, Closed, Void, Alcohol, Tobacco, and Firearms, Unidentiﬁed, NON-IRS, Redeposited, Missing or Unpro- cessable, Partial Void).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "fe601ed3c3f2bd3aae55757e05689137",
+    "text": "Record Element Description: DC-INQUIRY-RESPONSE-SCREEN-ONE",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "832452c887e1f6c70e0336c3784fe25e",
+    "text": "Exhibit 2.4.25-13 (Cont. 1) (01-01-2013) Command CD BDINQ Terminal Response LINE POSITION DESCRIPTION FORMAT 1 1–35 FIRST-NAME-LINE v v 2 1–35 SECOND-NAME-LINE v v 3 1–35 STREET-ADDR v v 4 1–35 CITY-ST-ZIP v v 4 37–40 STATUS-DC-CD “OPEN”, “CLOS”, “VOID”, “UNPR”, “NIRS”, “UNID”, “AT&F”, “P/V” 5 3–4 DC-REASON-CD 01–24 5 6–22 DC-CONTROL-NUMBER nn-nnn-nnnnn-nn-n 5 24-25 DC-CAMPUS-CD nn 5 27–41 ORIGINAL-DC-AMT $nnn,nnn,nnn.nn 6 3-26 TRACE-ID nn-nn-nnnnnnn-nnn-nnnnnn 7 3–6 PAYMENT-TYPE-CD “REGU”, “MULT”, “SPLT”, “MUSP” 7 8–15 IRS-RCVD-DT YYYYMMDD 7 17–28 SSN/EIN nnn-nn-nnnnv OR nn- nnnnnnnv[slashb] 7 30–37 IDRS-ENTRY-DT YYYYMMDD 8 3–4 MFT nn 8 6-8 PLAN-NUM nnn 8 10-15 TAX-PRD MMYYYY 8 17-51 COMMENTS v---------------------------------v 9 3-12 EMPLOYEE-NUM nnnnnnnnnn 9 14-28 DC-BALANCE-AMT $nnn,nnn,nnn.nn 9 30-37 LAST-APPLICATION-DT YYYYMMDD 10 1 REC-TYPE-CD “M” 10 3–10 MF-APPLY-DT YYYYMMDD 10 12–15 DC-NAME-CTRL vvvv 10 17–28 TIN nnn-nn-nnnnv OR nn- nnnnnnnvb 10 30–39 EMPLEE-NUM nnnnnnnnnn 11 3–4 MFT nn 11 6–11 TAX-PRD YYYYMM Exhibit 2.4.25-13 Internal Revenue Manual Cat. No. 28216G (12-14-2022)",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "93d723fb7d7a9f60eacc4ad0d4b819ca",
+    "text": "Exhibit 2.4.25-13 (Cont. 1) (01-01-2013) Command CD BDINQ Terminal Response",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "a4e52586224470b006c8da5adf322107",
+    "text": "Command Codes BDADDR, BDADD, BDAPLR, BDAPL, BDOUTR, BDOUT, BDENT and BDINQ 2.4.25 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "12fb9e3e2fd968b2b256aedd7253be41",
+    "text": "Exhibit 2.4.25-13 (Cont. 2) (01-01-2013) Command CD BDINQ Terminal Response LINE POSITION DESCRIPTION FORMAT 11 13–15 PLAN-NUM nnn 11 17–23 FORM-NUM vvvvvvv 11 25–41 APPLICATION-DLN nnnnn-nnn-nnnnn-n 12 3–10 ORIGINAL-PAY-DT YYYYMMDD 12 12–28 MF-ORIGINAL-TRANS-DLN nnnnn-nnn-nnnnn-n 12 30 DC-NOTICE-IND “I” or “S” 12 32-33 DESIGNATED-PAYMENT-CD nn 13 3–5 PRIMARY-TRANS-CD nnn 13 7–21 PRIMARY-TRANS-AMT $nnn,nnn,nnn.nn 14 3–5 SECONDARY-TRANS-CD nnn 14 7–21 SECONDARY-TRANS-AMT $nnn,nnn,nnn.nn 14 23–32 OTHER-PENALTY-AMT $nn,nnn.nn 15 3-5 TERTIARY-TRANS-CD nn 15 7-21 TERTIARY-TRANS-AMT $nnn,nnn,nnn.nn 16 37-40 COMMENTS v___________v",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "a39b710a59abb0540b3905b340e790f9",
+    "text": "Exhibit 2.4.25-13 (Cont. 2) (01-01-2013) Command CD BDINQ Terminal Response",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "77b76bc408c57384c750255af1c8a4d6",
+    "text": "Exhibit 2.4.25-13 (Cont. 3) (01-01-2013) Command CD BDINQ Terminal Response",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 54
+    }
+  },
+  {
+    "element_id": "6342281131f103407835fc95e0920ac8",
+    "text": "=T e z i5 —— - -",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 54
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 54
+    }
+  },
+  {
+    "element_id": "a4e52586224470b006c8da5adf322107",
+    "text": "Command Codes BDADDR, BDADD, BDAPLR, BDAPL, BDOUTR, BDOUT, BDENT and BDINQ 2.4.25 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 55
+    }
+  },
+  {
+    "element_id": "63f1113dcfa77ecc623561612214f6e9",
+    "text": "Exhibit 2.4.25-13 (Cont. 4) (01-01-2013) Command CD BDINQ Terminal Response LINE POSITION DESCRIPTION FORMAT 1 1 REC-TYPE-CD “N” 1 3–10 NMF-APPLY-DT YYYYMMDD 1 12–23 TIN nnn-nn-nnnnv OR nn-nnnnnnnvb 1 25–34 EMPLEE-NUM nnnnnnnnnn 1 36–43 TWENTY-THREE-C-DTLOCATION-CD nnnnnnnn or nnnnnn 2 3–4 MFT nn 2 6–11 TAX-PRD YYYYMM EP-YR-COUNT and EMPLEE- PLAN-NUM Ynnn 2 13–19 FORM-NUM vvvvvvv 2 21–37 APPLICATION-DLN nnnnn-nnn-nnnnn-n 3 3–10 ORIGINAL-TRANS-DT YYYYMMDD 3 12–28 NMF-UNIT-LEDGER-ID nnnnn-nnn-nnnnn-n 3 30 DC-NOTICE-IND “I” or “S” 4 3–5 PRIMARY-TRANS-CD nnn 4 7–21 PRIMARY-TRANS-AMT $nnn,nnn,nnn.nn 5 3–5 SECONDARY-TRANS-CD nnn 5 7–21 SECONDARY-TRANS-AMT $nnn,nnn,nnn.nn 5 23–32 OTHER-PENALTY-AMT $nn,nnn.nn 6 3–5 TERTIARY-TRANS-CD nnn 6 7–21 TERTIARY-TRANS-AMT $nnn,nnn,nnn.nn 7 3–37 COMMENTS v____________v 8 1 REC-TYPE-CD “U” 8 3–10 CLOSING-DT YYYYMMDD 8 12–36 LITERAL “WRITE-OFF TO 1510 ACCOUNT” 9 3–17 CLOSED-AMT $nnn,nnn,nnn.nn 10 1 REC-TYPE-CD “C” 10 3–10 CHANGE-DT YYYYMMDD page",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 55
+    }
+  },
+  {
+    "element_id": "f7877d889e3e8cee1010a10ea322003b",
+    "text": "Exhibit 2.4.25-13 (Cont. 4) (01-01-2013) Command CD BDINQ Terminal Response",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 55
+    }
+  },
+  {
+    "element_id": "ad3e821e21a695be48d8b320e03ade6b",
+    "text": "Exhibit 2.4.25-13 (Cont. 5) (01-01-2013) Command CD BDINQ Terminal Response",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 56
+    }
+  },
+  {
+    "element_id": "bd488ae5f9d7e7a894aa88a552013996",
+    "text": "POSITION DESCRIPTION FORMAT 12–23 OLD-TIN nn-nnnnnnnvb OR nnn-nn-nnnnv 25–34 EMPLEE-NUM nnnnnnnnnn 3–37 COMMENTS v____________v DC-INQUIRY-RESPONSESCREEN-THREE",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 56
+    }
+  },
+  {
+    "element_id": "9f74d440030be66533441ca4e245341f",
+    "text": "T 19 T [ 7e9 [ 3w [ o9 [ 5199 [ e [ 7w |T3 56 9023456 012 456 B0 T2 A8 T 23456 T 23450 T 23456 T2 34567690[ I YYYYHH0D_on-m- ey e e | ! i}21 VY vy ronen-nn-orannn | T I I e[3 [ YVFYHID0 - r-ranen-n v L I I T e[ n soon, o oon. T I T T 16JENCTE T e —) I I 1 151[61\"nnon, oo i ! I I ! 1617 vl I I 1 ](L I I I ICH]5| s on.non.m_| i I I I T Is116/ YYYWH0D - - ey e | T— I 116il 1 ! ! I I L I IJren 1 I I I I I I 2]fren I I I I I I I 3]i ! I I I I I I i)5] | I I I I I I 5]i ! I I I I I I 1][l I I I I I I I ]i I I I I I I I si T I I I I I I to][20] T I I I I I I 120][l ! I I I I I I 1]ez T I 1 I I I I 2]e 1 I I I I I 122] | I I I I I I 4]1 TZ3USETB0 123456 8901234567890 1234567890 123456 T80V 123567801256 TBO0 1234567890 |",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 56
+    }
+  },
+  {
+    "element_id": "a4e52586224470b006c8da5adf322107",
+    "text": "Command Codes BDADDR, BDADD, BDAPLR, BDAPL, BDOUTR, BDOUT, BDENT and BDINQ 2.4.25 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 57
+    }
+  },
+  {
+    "element_id": "2d98f70cf088c3f9b803b6fdeb2ddc7b",
+    "text": "Exhibit 2.4.25-13 (Cont. 6) (01-01-2013) Command CD BDINQ Terminal Response",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 57
+    }
+  },
+  {
+    "element_id": "1cd3209c3840ee2260f0d7d3f328e7af",
+    "text": "Command CD BDINQ Terminal Response LINE POSITION DESCRIPTION FORMAT 1 3–5 FIRST-NAME-LIT “1N/” 1 6–40 OLD-FIRST-NAME v v 2 3–5 SECOND-NAME-LIT “2N/” 2 6–40 OLD-SECOND-NAME v v 3 3–5 STREET-ADDR-LIT “ST/” 3 6–40 OLD-STREET-ADDR v v 4 3–5 CITY-ST-ZIP-LIT “CY/” 4 6–40 OLD-CITY-ST-ZIP v v 5 3-5 TRACE-ID-LIT “TI/” 5 6-19 OLD-TRACE-ID v v 6 3–4 COMMENTS-LINE-LT “CM/” 6 6–40 COMMENTS-LIN v v 7 1 REC-TYPE-CD “A, V,D,I,R, P, X” 7 3–10 CHANGE-DT YYYYMMDD 7 12–15 LITERAL “VOID, AT&F, NIRS, REDP, MISS, NIRSP/V” 7 17–31 REDUCED-AMT $nnn,nnn,nnn.nn 7 33–42 EMPLEE-NUM nnnnnnnnnn 8 3–37 COMMENTS v v 9 1 REC-TYPE-CD “Z” 9 3–10 CHANGE-DT YYYYMMDD 9 12–21 LITERAL “AMT CHANGE” 9 24–38 CHANGE-AMT $nnn,nnn,nnn.nn 9 39 SIGN “+” OR “–” 10 3–10 LITERAL “ORIG AMT” 10 12–26 ORIGINAL-DC-AMT $nnn,nnn,nnn.nn 10 28–37 EMPLEE-NUM nnnnnnnnnn 11 3–37 COMMENTS v v",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 57
+    }
+  },
+  {
+    "element_id": "efe4367b05a4f693867b2d4de401a5d4",
+    "text": "Exhibit 2.4.25-14 (01-01-2003) DC-INQUIRY-RESPONSE",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 58
+    }
+  },
+  {
+    "element_id": "c871e261e3318c12f17b371e8fda0305",
+    "text": "Terminal Response",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 58
+    }
+  },
+  {
+    "element_id": "fc6eac6dc9dc45ba20e6c289fb985ed5",
+    "text": "TT 5 [ [ ois [ 3w | o6 [ sie | o6 7w 1]Tz 7 ¥ T1Tl _moa1 |y yww.vvv. ool 1 1 L IlT — I I I I 12J ey — — I T 1 BR — I I I I 1)ey — I I I I Is |R — I I I I s |e T — I I I I 1|[ — I I I I o |15 Lvvvs” ot amnnn-n T T I I s |110 vuvs_onom-ton-amone-o- T I T 0]11 v o oo T I It[T — T T T2l13| vevs sman-onn-smpanco I I I I )114 vvvs sovwn-onn-smnnn-n T T I 1 Tl115 vers oo omn-sonancn T T T I Tisi[ R — I I I I )[T — T T T I wyl[T — I T I 1 Tsl[T — I I I I )[T — I I il I 20i 1 1 I T y— I 21JEn I T I I I I I 12Il I I T I I I I TzoL | | [ — | | | T}| [asemeizesino 5301734567000 346 RN Z S ORISR O] |LI 0s [ 119 | 2129 | 319 | o1do | 5159 | 6169 | nso | |",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 58
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-025--2022-12-14.pdf",
+      "page_number": 58
+    }
+  }
+]

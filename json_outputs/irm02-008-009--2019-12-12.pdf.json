@@ -1,0 +1,614 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "2f0f7c9ae342416a6026206e97e4071a",
+    "text": "IRM 2.8.9, dated December 13, 2018, is superseded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "cf3abe6684ac1b5c37e095b175886b52",
+    "text": "This IRM is intended for the general use of IDRS system personnel from all four Business Operating Divisions (WI, SB, LB&I and TE) and Appeals accessing the Audit Information Management System.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "0a36a60014e092386a593441e036c274",
+    "text": "AMRET is a single screen input command code. It is used to request Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "cf6d73b755cecc9359593f4dc4cf8d72",
+    "text": ", Exam Return Charge-Out document, for EO, EXAM and EP cases open on the TIF. An indicator is present to request the return with the charge-out document. Generally, AMRET is used if the original charge-out document is lost, or when the original chargeout document did not request the return.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b76c0250e7f674514bfdc5b604610c80",
+    "text": "This IRM section provides the instructions for the Audit Information Manage- ment System (AIMS) command code AMRET",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "765cd8bdd683d0fd4345e64b36e9a9ec",
+    "text": "Acronym Deﬁnition PBC Primary Business Code SBC Secondary Business Code EGC Employee Group Code TIN Taxpayer Identiﬁcation Number DLN Document Locator Number",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "016637d746ab38418d24a8b6a96e3337",
+    "text": "This command code is used only for requesting a Return Charge-Out, Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "319abca2f3399a6cdc336ba792c311f5",
+    "text": ", for a case already established on AIMS. The input of CC AMRET will produce, during the nightly processing to the Service Center, a Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "21cff64543bb2957be9797f4da61df04",
+    "text": "which will be used for retrieving a return from ﬁles. The input document for CC AMRET is Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "837c16206b7705e9be4b8e40ab36e9f3",
+    "text": ", Examination Update or Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "cbb2300077684b50955a095da2795efc",
+    "text": ", TE/GE Update. this CC when item",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0d706471579066aa4213a52493a42ff8",
+    "text": ", Follow Up Request is checked.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9f7ea50428bef3856d2fc4a44422c736",
+    "text": "This command code is used only for requesting a Return Charge-Out, Form 5546, for a case already established on AIMS. The input of CC AMRET will produce, during the nightly processing to the Service Center, a Form 5546 which will be used for retrieving a return from ﬁles. The input document for CC AMRET is Form 5348, Examination Update or Form 5595, TE/GE Update. this CC when item 7, Follow Up Request is checked.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a681454967e4bfff76d1207b45ee580e",
+    "text": "This Command Code is used to zero-out the “AMRET Update Counter” that is displayed with each Request-Completed message. It performs no other",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "51a4ce0b9dd97b271a6d6087aac6f758",
+    "text": "2.8 Audit Information Management System (AIMS)",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e77c7bdfd6e76c893c6fe8fff7644c5f",
+    "text": "ACT-CD - 305 SPECIAL-PROJECT-CD MUST BE 0999 & CD MUST BE 23",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e6243dd504ab5932be1175fb97f6d216",
+    "text": "ACTIVITY CODE XXX IS NON-TAXABLE - CLAIM INVALID",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c392b783230cc36cdd503774983144e1",
+    "text": "AMRET NOT ALLOWED WITHIN 60 DAYS OF CREATION DATE",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d2511a336d0347cf19725b94018ac3a4",
+    "text": "The opening creation date is less than 60 days from the current date and the Return Requisition Ind = 0 (Return Requested).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8ca204b9a55a7b8f4ad96fc783f3f0b8",
+    "text": "COMMAND CODE INVALID",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8fbc2edad320376857c5aa655be1c543",
+    "text": "DLN = ELECTRONIC RETURN, CANNOT USE AMRET - INPUT TRPRT",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c206bab0bf44e9a3f93fb08e015a0a15",
+    "text": "EGC 1000-1099, 2000-2099, 1850-1999, AND 2850-2999 REQUIRE AN SBC OF 877XX",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d65e9a18fe4871628509767b99e67597",
+    "text": "EGC 1000-1099, 2000-2099, 1850-1999, AND 2850-2999 AN SBC OF 877XX",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3ac9d08824c180e3fd3a2cc1de6291f6",
+    "text": "EGC 5XXX — MUST USE SERVICE CENTER TERMINAL",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "592e2bfba3ec55873dbeb06c21cc02ca",
+    "text": "EGC 56XX IS ONLY VALID WITH PBC 194",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "c64b2d34dea6d5781cea71766401b122",
+    "text": "2 DIGITS OF THE TAX PERIOD MUST BE 19 OR 20",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "58da406e3150a8e7aac7555ff0ae1a58",
+    "text": "The century digits of the Tax Period must be in the ﬁrst two char- acters of the Tax Period and must be either 19 or 20.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "95ebf8ddfecf7cca7d0f7e735655ba9e",
+    "text": "The PBC is not consistent with the entire 5 digits of the",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "9332fee806ffd0ddc0aadc54f04ff529",
+    "text": "Command Code Modiﬁer, character 6 line 1, not Z or blank.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "6776068dca04d328df35814778a0ad88",
+    "text": "EGC must be 1000–2999, 5000–5999, 7200–7299, 7600–7699, 7700-7799, 7900–7999",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "898b6c9083d1c4e82b978901327ad901",
+    "text": "First character of the EMPLOYEE-GROUP-CD must be 1, 2 or 5",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "dc40f47d01971d0a1566ebede26094cb",
+    "text": "4 2.8 Audit Information Management System (AIMS)",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "75fe6b353afc55aacb7cc248193a351e",
+    "text": "Name Control/Check Digit does not meet standard validity checks",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "baeede3000074e218faf29d03065ce36",
+    "text": "INVALID PLAN NUMBER",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "32827549f59f13896912011af2e79151",
+    "text": "Tax Period not numeric or not valid for MFT input",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "0e76ebe6a012996c6cb086917352aaf0",
+    "text": "4th and 5th position of the SECONDARY-BUSINESS-CD must be 00–60",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "bccb851711e29f119a3983b312e8b624",
+    "text": "TIN does not have a valid File Source or conﬁguration of TIN & F/S not valid for AMRET",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "292092a27005c4ab280405d4573df985",
+    "text": "LIN LINK PRESENT ON AMDISA – AMRET NOT CC ESTAB IF PAPER RTN NEEDED",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "1a2f6ca59d36adad2d2b51ac707bd17a",
+    "text": "MFT 46/76/84/85/86 — PLAN-RPT-NUM MUST BE INPUT",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3c19bbcb613f23f995f54e6f73dbfb02",
+    "text": "MFT ﬁeld is blank or does not meet standard validity checks",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "340f3aa8661c11a4aa62a260c2086cfe",
+    "text": "Name Control entered with an invalid TIN.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a3d8be7b52dc0ef9586ca0ffda9022d6",
+    "text": "PBC XXX - AGING REASON 99 (TAX EXAMINERS) NOT VALID",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "eea65a5b11e7bb5fbfaeb85b7667e574",
+    "text": "PBC 2XX,330 - EGC 1998 & 2998 NOT VALID - MUST UPDATE TO ANOTHER EGC",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3c407336146ea46cfc96f57f95188026",
+    "text": "PLAN-RPT-NUM NOT VALID FOR NMF CASES",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "51a4ce0b9dd97b271a6d6087aac6f758",
+    "text": "2.8 Audit Information Management System (AIMS)",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "5b952c2d45b57dda9e32d472315231f0",
+    "text": "SFR DLN – CANNOT REQUEST A COPY OF A COMPUTER GENERATED TC150",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d7551ec1dae3369897577d873a1e606a",
+    "text": "TERMINAL SERVICE CENTER CD NOT EQUAL TO AIMS BASE SC-CD/PROCESSING CAMPUS CD",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "a2ac00950636dcd0afd7d03b1734922c",
+    "text": "TIF OPENING-DLN NOT PRESENT - SCREEN DLN REQUIRED",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "bb70af251a6877d2d751c0ae48965d30",
+    "text": "TIN CHANGE INDICATED BUT NOT FOUND",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "8c64c0e6e43f1fc3962ef5074cb9f0c4",
+    "text": "Record indicates a TIN change record, but no TIN",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "cb2b69fcef3ce586f884621342c79b17",
+    "text": "TIN changed. Use TIN indicated to obtain account.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "319455f0caf8dee3f83fbcb769050eb5",
+    "text": "TIN/CK-DIGITS MISMATCH-CHECK TIN",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "cc4257f5aa3df9fb36511b0564de4204",
+    "text": "Check TIN for mis-key because calculated check digits do not match screen input",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8531ff71d52b2060d5ed5eb0524796fe",
+    "text": ") For each terminal, there is a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "90bab1eb5a35622544622f5a933133fb",
+    "text": "-character “AMRET Update Counter”, used to keep track of AMRET updates. The counter is incremented by one for each successful update for AMRET. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "84855b1a8aa5824bc16daf57306d0764",
+    "text": ") The total number of updates is displayed along with the Request Completed messages in the following format: “REQUEST COMPLETED/UPDATES nnnn” (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "ba635b0be035a80a0813b9d8761e10cf",
+    "text": ") Whenever you wish to reset the counter to zero, enter AMRETZ in positions",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "a164874d615ef4d8269cc04059123fc0",
+    "text": "of line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3a3e5f4464d8eddb3ac97e236ca75692",
+    "text": ", and transmit the screen. The message returned will be:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "51a4ce0b9dd97b271a6d6087aac6f758",
+    "text": "2.8 Audit Information Management System (AIMS)",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "33c1e29902d678cbcff13d561dbfd825",
+    "text": "This Page Intentionally Left Blank",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "efc1ef21c7a403261bbdac98418d45af",
+    "text": "CC AMRET is a single input command code. It will produce a Form 5546 only if there is a AIMS record.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "dfc7fba8c363e907b58206bb6df2159d",
+    "text": "] 1-10 11-20 21-30 31-490 |5678 90[]1234567890[12345¢678090|12345¢678390 |E 2 T N A Ll N O 0 A|IENEIET N Y I A I A A L Nesies]~aioy1 |fes| | | || N Y O N T A I L rrd N O N N I }|i 123456 789012234546 7890|1223 45678©560¢0|12345¢6782%8°0",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "5d0b768154f54524ccdbb1e29c05f7b9",
+    "text": "no errors are encountered, the entire input screen will be displayed back with the message UPDATES nnnn”on line 24.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-008-009--2019-12-12.pdf",
+      "page_number": 13
+    }
+  }
+]

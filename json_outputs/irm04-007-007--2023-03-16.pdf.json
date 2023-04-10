@@ -1,0 +1,4016 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "525fa1d4de83936fbe377e3132f5054b",
+    "text": "This transmits revised IRM 4.7.7, Examination Returns Control System (ERCS), Technical Services.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "6d4148e19807b0f721b4ea1614333996",
+    "text": "Due to the move of the ERCS server from Solaris to Linux logins based on the user names are no longer used. The login is now the user’s Standard Employee Identiﬁer (SEID) in lower case letters.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "4a84096eb58c74082b6d068199f40213",
+    "text": "Due to the move to Linux access to ERCS is through Active Directory and passwords are no longer used. References to passwords have been removed.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1457f613c694778df187766f54c2a45e",
+    "text": "The IRS replaced the Online 5081 (OL5081) system with the Business Entitlement Access Request System (BEARS). References to OL5081 have been replaced with BEARS.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "cd7bed2c8278bf9db5f7575343496145",
+    "text": "Content from the AIMS/ERCS website was required to be moved to the Virtual Library. ERCS content was moved to the ERCS book under the Exam Systems Knowledge Base. References to the AIMS/ERCS website have been replaced with the ERCS book.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "ccb74a2e8cf416c634a59fadd852fd33",
+    "text": "Examination Quality Measurement Staff (EQMS) and Quality Measures and Analysis (QMA) have been combined into National Quality Review System (NQRS). References to EQMS and QMA have been replaced with NQRS.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "6a8569384238fa59a4a50228a7a0eb47",
+    "text": "Exhibits have been updated to reﬂect current codes.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "e5304e382c171a5439f78f6619f2658b",
+    "text": "Signiﬁcant changes to this IRM are reﬂected in the table below:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "bd961b97fdef683f5c7e521a90e39960",
+    "text": "Editorial changes have been made throughout this IRM and some items were reworded for clarity. Website addresses and IRM references were reviewed and updated as necessary.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "590605862d88f500b88e802fb61686a4",
+    "text": "EFFECT ON OTHER DOCUMENTS",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "736fe5cec4e64dfb258aba4598233d58",
+    "text": "IRM 4.7.7 dated November 23, 2020 is superseded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1e40feedb6d8e174d473a369b3da23fd",
+    "text": "AUDIENCE",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "3010eabc2be32c2e83164f0f21551045",
+    "text": "Small Business and Self Employed (SB/SE) and Large Business and International (LB&I) employees who use ERCS.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "392531c41b85d67d10e63c8244bc5065",
+    "text": "Scope and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "383b86759b296777d20bab9de82e9d02",
+    "text": ") This IRM section contains Examination Returns Control System (ERCS) infor- mation and procedures for Technical Service (TS) employees in Review and Sample Review for consistency across the areas and business units. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5ca81e87380c49c7467b1ce8b9231a47",
+    "text": ") Purpose: To provide guidance needed by Review and Sample Review employees. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "51ac73be1b60b3453dddaee06ab8ffbe",
+    "text": ") Audience: Review and Sample Review employees in SB/SE and LB&I who use ERCS. Employees include territory managers, managers, reviewers, tax examiners, and administrative support staff in the following functions: • SB/SE Technical Service (TS) • Joint Committee Review (JCR) • National Quality Review System (NQRS) • LB&I Quality Measurement System (LQMS) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a0e37f3a2b1302ea3a99ace5b27d9773",
+    "text": ") Policy Owner: The SB/SE Deputy Director, Examination, who is under the SB/SE Director, Examination. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e039eff8027351c1b01cfe31010bf0a7",
+    "text": ") Program Owner: SB/SE Director, Technology Solutions. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1a04bb2bf029ac163fdcc0685434bc4f",
+    "text": ") Primary Stakeholders: LB&I (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c79da7b56a96596a1853d54a108969e4",
+    "text": ") This IRM provides an overview of the ERCS responsibilities Review and Sample Review employees should understand and apply in the performance their duties. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "72fe46b91f9e353c80733f24ac34e2cc",
+    "text": ") Users must be aware of the potential for Unauthorized Access of Taxpayer Accounts (UNAX) violations from the use of ERCS. Data from ERCS should accessed only for IRS business purposes. Users should promptly retrieve ERCS reports from printers or fax machines in order to prevent unintentional disclosure. Audit trails are created and subject to review for all user accesses of taxpayer data. For more information about UNAX, see IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9302c7aad6937df7dd5eda63fbfe821e",
+    "text": ", IRS authorized Access, Attempted Access or Inspection of Taxpayer Records (UNAX) Program Policy, Guidance and Requirements. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6985cf9851768dd829c024e674581a2b",
+    "text": ", Management Roles and Responsibilities. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0277c2c50322f32f3d15acc7c08595e1",
+    "text": ", Case Processing. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "62a41455f35679dce2c389c5f5786be6",
+    "text": ") Responsibilities of managers include but are not limited to: • Ensuring ERCS employee record information for their employees is accurate and complete. • Ensuring prompt assignment of incoming cases. • Ensuring work is evenly distributed among employees. • Ensuring users timely and accurately input required data into ERCS. • Ensuring ERCS reports are generated timely. • Ensuring prompt closing of all outgoing cases for ﬁnal processing.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5cc301f8b79b1efa655774b99ffcbb15",
+    "text": "Responsibilities of managers include but are not limited to:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a885261616b771e5c30651f20cf91bcc",
+    "text": "Ensuring ERCS employee record information for their employees is accurate and complete.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "51cf663d70b60a790742b5a1528b4682",
+    "text": "Ensuring prompt assignment of incoming cases.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f80377a3e16748170717e7009177fc57",
+    "text": "Ensuring work is evenly distributed among employees.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8b663fa7f2e3b6f6adf8dc619ce50e43",
+    "text": "Ensuring users timely and accurately input required data into ERCS.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "760dd9612c1627aa37602556266197c9",
+    "text": "Ensuring ERCS reports are generated timely.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c9259fb1d4e5f75d75d594c17eb4e4f1",
+    "text": "Ensuring prompt closing of all outgoing cases for ﬁnal processing.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c159620ac6c5fb998f84dac736ed200b",
+    "text": "Ensuring any ERCS system related problems are reported timely to the local AIMS/ERCS (A/E) staff.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "180f586cbc52b3da38acf5e59a5b7f9c",
+    "text": "Ensuring time is entered in ERCS accurately and no later than the close of business on the last day of each reporting cycle.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "69e40d85cb81a18a5e0d4719a75845d1",
+    "text": "Review managers have the following additional responsibilities:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b55bc6ea69a2f204979d8a3f7421535c",
+    "text": "• Monitoring statuses and statutes of all returns in inventory. • Monitoring returns in-transit to or from TS statuses. • Ensuring users timely and accurately resolve any ERCS to AIMS rejects. • Ensuring users resolve issues on the AIMS Error reports generated the AIMS to ERCS weekend processing. • Approving or disapproving changes to ERCS returns requiring manage- rial approval timely. • Ensuring Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "80b741f38be2045c0f8f3399ac6306fc",
+    "text": ", Notice of Statute Expiration, is reviewed timely acknowledged in ERCS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "0d9f9ded0c50d3b6dcd30bea7479ac5a",
+    "text": ") Responsibilities of reviewers in Sample Review include but are not limited to the following: • Submitting the reviewer’s technical time sheet on a regular basis in order to ensure time is entered into ERCS no later than the close of business at the end of each reporting cycle. • Submitting any changes to the reviewer’s technical time sheet to the manager or administrative support staff on the ﬁrst business day after the close of each reporting cycle early enough to ensure the time on ERCS is corrected no later than noon local time. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a5b4163e90b963e9e4d6b3b4c818ad67",
+    "text": ") Responsibilities of reviewers and tax examiners in Review include but are limited to the following: • Ensuring the statute information on ERCS is accurate on all assigned cases. • Completing and submitting Forms",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "338177bc4471554480032c81a62d083a",
+    "text": "timely to the manager. • Ensuring all completed cases are closed promptly. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "04c90eeb355482990c18f0ce7bfeec32",
+    "text": ") Responsibilities of the administrative support staff in Sample Review include but are not limited to: • Ensuring ERCS is updated timely for all changes to employee records. • Ensuring ERCS is updated timely for all changes to returns or inventory records. • Returning updated documents to the reviewers for association with the case ﬁle. • Generating the ERCS inventory and monitoring reports and distributing as requested by management. • Inputting examination technical time into ERCS no later than close of business on the last work day of the reporting cycle. • Inputting examination technical time corrections into ERCS no later noon local time the ﬁrst work day after the end of each reporting cycle. • Ensuring any ERCS system related problems are reported timely to local A/E staff. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "b66dfdeb166ef09ab3f380181bec6591",
+    "text": ") Responsibilities of the administrative support staff in Review include but are not limited to: • Ensuring requisitions and updates to returns are timely input into ERCS. • Reviewing and resolving ERCS to AIMS rejects promptly when the message “There are ERCS-AIMS Uploading results to check” appears on the Examination Main Menu. • Reconciling the Overage Requisition Report monthly. • Researching and resolving AIMS Error reports weekly .",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "65d1c8b48df3b36ddada73ed4adb0ae2",
+    "text": "Examination Returns Control System (ERCS) Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7469f756a8fe77217ed98d22d12ac910",
+    "text": "X (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e31dbc88c87703ecc970abed57016439",
+    "text": "Examination Returns Control System (ERCS)",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8277f1a6cce67eb22e27ff5494ab0516",
+    "text": "Monitoring statuses and statutes of all returns in inventory. Monitoring returns in-transit to or from TS statuses. Ensuring users timely and accurately resolve any ERCS to AIMS rejects. Ensuring users resolve issues on the AIMS Error reports generated the AIMS to ERCS weekend processing. Approving or disapproving changes to ERCS returns requiring rial approval timely. Ensuring Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ce3f4142b69275a36a21bc2517ffc137",
+    "text": ", Notice of Statute Expiration, is reviewed timely acknowledged in ERCS.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "826e25a593446deca1a3eb67e8baa663",
+    "text": "Submitting the reviewer’s technical time sheet on a regular basis in order to ensure time is entered into ERCS no later than the close of business at the end of each reporting cycle. Submitting any changes to the reviewer’s technical time sheet to the manager or administrative support staff on the ﬁrst business day after the close of each reporting cycle early enough to ensure the time on ERCS is corrected no later than noon local time.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ec6e8fadb2ec5b1e8caf16714c2e4705",
+    "text": ") Responsibilities of reviewers and tax examiners in Review include but are not limited to the following: • Ensuring the statute information on ERCS is accurate on all assigned cases. • Completing and submitting Forms",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "338177bc4471554480032c81a62d083a",
+    "text": "timely to the manager. • Ensuring all completed cases are closed promptly. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "04cfd043017c2f335922d8a605e3e1fa",
+    "text": ") Responsibilities of the administrative support staff in Sample Review include but are not limited to: • Ensuring ERCS is updated timely for all changes to employee records. • Ensuring ERCS is updated timely for all changes to returns or inventory records. • Returning updated documents to the reviewers for association with the case ﬁle. • Generating the ERCS inventory and monitoring reports and distributing as requested by management. • Inputting examination technical time into ERCS no later than close of business on the last work day of the reporting cycle. • Inputting examination technical time corrections into ERCS no later than noon local time the ﬁrst work day after the end of each reporting cycle. • Ensuring any ERCS system related problems are reported timely to the local A/E staff. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "b66dfdeb166ef09ab3f380181bec6591",
+    "text": ") Responsibilities of the administrative support staff in Review include but are not limited to: • Ensuring requisitions and updates to returns are timely input into ERCS. • Reviewing and resolving ERCS to AIMS rejects promptly when the message “There are ERCS-AIMS Uploading results to check” appears on the Examination Main Menu. • Reconciling the Overage Requisition Report monthly. • Researching and resolving AIMS Error reports weekly .",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "b626c0f7b287521336b7bd6cea13d700",
+    "text": "Ensuring ERCS is updated timely for all changes to employee records. Ensuring ERCS is updated timely for all changes to returns or inventory records. Returning updated documents to the reviewers for association with the case ﬁle. Generating the ERCS inventory and monitoring reports and distributing as requested by management. Inputting examination technical time into ERCS no later than close of business on the last work day of the reporting cycle. Inputting examination technical time corrections into ERCS no later than noon local time the ﬁrst work day after the end of each reporting cycle. Ensuring any ERCS system related problems are reported timely to the local A/E staff.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "eb9d881415f64e60ed14d8326a45ad7c",
+    "text": "Ensuring requisitions and updates to returns are timely input into ERCS. Reviewing and resolving ERCS to AIMS rejects promptly when the message “There are ERCS",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "18ef8110bb6ad70926b8e04fa9d9ce42",
+    "text": "AIMS Uploading results to check” appears on the Examination Main Menu. Reconciling the Overage Requisition Report monthly. Researching and resolving AIMS Error reports weekly .",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5124886dd05843a29d6211e39f01b85e",
+    "text": "• Reconciling the AIMS",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "be1f81c1bd9ce81904b92806708f421a",
+    "text": "Table with the ERCS data within",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d4e9cff68d312db06f5e556b9ab0aa69",
+    "text": "days of receipt. • Reconciling the AIMS SSIVL data with the ERCS data periodically following local procedures. • Acknowledging Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "46cb0aaadb7a4e27a3e1c56091f7fd22",
+    "text": "in ERCS as speciﬁed in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2c5c033eb583771f9883462438314a1f",
+    "text": ", Statute Limitations. • Ensuring returns selected for Sample Review have a sample selection sheet attached to the case ﬁle or saved to PDF and uploaded to RGS for electronic case ﬁles.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "894af121277713ccd9e5a4b967e41fbd",
+    "text": ") Management Review (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "5090383e6715d42e0a4da23ac3d5c4ba",
+    "text": ") Reports are available that allow management to monitor inventory, statutes, closures, time input, and employee records. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "80aeae495299e584a90c2b53e4d3917c",
+    "text": ", Reports for more information.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "749acae04625609f19d68bb1a6931427",
+    "text": ") Controls (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a70f602d56acc950e5bfe802afed161a",
+    "text": ") ERCS creates audit trails for selected changes to returns, employee records, and permission records. A special audit trail is also created when users enter taxpayer identiﬁcation number (TIN) or a taxpayer name on ERCS. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "6e33d3f0b7fdd88626c31a60aa18ac3a",
+    "text": ", Security for more information. IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "7ebbb5a68ff1604a05c07935c34b7f8d",
+    "text": ", Audit Trails has a list of changes in ERCS that produce an audit trail. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "8188a6a331373f8b0f31bc77dd7e3c0a",
+    "text": ") There are security checks within ERCS to ensure unauthorized users do not access programs and authorized users are kept within the boundaries of their permissions. These checks are performed automatically and silently each a user attempts to access ERCS. The user has no ability to prevent the checks. For more information about permissions in ERCS, see IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "c8491b8c2e809edc49562441a315220c",
+    "text": ", Permissions.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f7b2bfd8fa58e1fa0f059f049fce6c7f",
+    "text": ") Deﬁnitions, and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "9b153d98a4e720dbfef06db4f541df90",
+    "text": ") See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b184933d015b5030eeb2e0fcffe705b9",
+    "text": ", Acronyms and Deﬁnitions for Acronyms used in this IRM. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "dfe4d6c0ed14c3ab3f2cbb12c6594f69",
+    "text": ") The following are terms and deﬁnitions speciﬁc to this IRM. Deﬁned Terms",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a0850a554631a0a97dd49f5601c09fb4",
+    "text": "Reconciling the AIMS",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "be1f81c1bd9ce81904b92806708f421a",
+    "text": "Table with the ERCS data within",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "064fd1799380f7c852cd774a79b99c09",
+    "text": "days receipt. Reconciling the AIMS SSIVL data with the ERCS data periodically following local procedures. Acknowledging Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "46cb0aaadb7a4e27a3e1c56091f7fd22",
+    "text": "in ERCS as speciﬁed in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "cce6fd734dd0e4221051058ec8aff062",
+    "text": ", Statute Limitations. Ensuring returns selected for Sample Review have a sample selection sheet attached to the case ﬁle or saved to PDF and uploaded to for electronic case ﬁles.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2544d633cdb088a3bb72edcc3f2fcb4f",
+    "text": "Reports are available that allow management to monitor inventory, statutes, closures, time input, and employee records. See IRM 4.7.6, Reports for more",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "97f90003719811db947dd7d9b43d4d9d",
+    "text": "See Exhibit 4.7.7-1, Acronyms and Deﬁnitions for Acronyms used in this IRM.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "4335d0d390c4c5df21ffce4d36de0409",
+    "text": "The following are terms and deﬁnitions speciﬁc to this IRM.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d2cfbb168aeca7d6ec385ba56b3f2758",
+    "text": "Deﬁned Terms Term Deﬁnition Employee Refers to an employee in Review or Sample Review with an ERCS employee record. User Refers to a employee in Review or Sample Review with ERCS access. Review Refers to employees in TS and JCR. Sample Review Refers to employees in NQRS and LQMS.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "87020dea1ad853556012196dd749f477",
+    "text": ") For questions regarding ERCS security and instructions for gaining access to ERCS refer to IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "61c04100ffc6f10d349b3332003dc5c6",
+    "text": ", Security. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "c28d784a1691f315b1b2782f5105562a",
+    "text": ") The instructions for Review users for navigating the ERCS programs can be found in the ERCS Review Handbook . The instructions for Sample Review us- ers for navigating the ERCS programs can be found in the ERCS Sample Re- view Handbook .",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "1856ac8a3b4ac7a850b9686ac56d3c8e",
+    "text": ") ERCS operates on the principle that users should only change data on returns under the user’s control. Consequently, a Review user may only change infor- mation on returns in Status Codes",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "030072df19d404a7c1a8e12196f99313",
+    "text": "within the AIMS Assignee Codes (AAC) in which the user has permission. Users in Sample Review may only change information on returns selected for sample review in Status Code",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "b35f83c25867cc76345a13f2cc6d077c",
+    "text": "within AACs reviewed by the Sample Review site (SB/SE, Specialty Tax, or LB&I). Throughout ERCS, error messages appear when a user attempts to update returns in which the user does not have permission. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "6b2d6c1a975a5773bb99065ede3aa1d2",
+    "text": ") Reports generated by users that contain any Record of Tax Enforcement Results (ROTER) information are to be shared only at the ﬁrst line manager level or higher and/or with designated reviewers on a need to know basis. For more information about ROTER, see the Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "b663218fa6ff200be2efe83bd5bb65c0",
+    "text": "website. IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "c47e591d1c853d0ff46a8cac4d686472",
+    "text": ", Man- aging Statistics in a Balanced Measurement System Handbook provides fur- ther guidelines for the appropriate use of statistics by managers and employees. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8552860853daabdab2b50baba50792c2",
+    "text": ") Users must be aware of the potential for UNAX violations from the use of ERCS. Data from ERCS should be accessed only for IRS business purposes. No attempt should be made to access the user’s own Social Security Number (SSN) or that of the user’s spouse. If the user’s personal SSN or that of the user’s spouse is entered, an employee audit access message is created of a possible breach of security. An employee audit access message is also created if a user attempts to view or update an employee audit return that the user does not have permission to update. Breaches in security are considered UNAX violations and are subject to disciplinary action. For more information about UNAX, see IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "80531f63fbe1ff9a58bec175235fded0",
+    "text": ", IRS Unauthorized Access, Attempted Access Inspection of Taxpayer Records (UNAX) Program Policy, Guidance and Re- quirements. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "2e76bfeed52149617107dc50c81006cf",
+    "text": ") Audit trails are created when ERCS records are researched, added, updated, or deleted. Research should be limited to a user’s official business needs in order to prevent unnecessary disclosure. Audit trails are also created for potential UNAX violations. These audit trails include when a user: • Inputs his or her own SSN. • Inputs the SSN of a spouse. • Attempts to view or update an IRS employee’s return without permis- sion. • Attempts to update a return without permission. • Inputs a name search that matches an employee’s name. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "787375ce8548a4274980b763a154f118",
+    "text": ") Per IRS security requirements, IT employees are not permitted to have access to taxpayer data. No IT employee should be approved for ERCS access and any user transferred or detailed to an IT position must submit a Remove Access request to have all permission records removed. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3c08129601ec2730b23f158b4dbad864",
+    "text": ") For security issues concerning ERCS, including pre-requisites for ERCS access, information on completing a Business Entitlement Access Request System (BEARS) request, requesting temporary permission, and employee audit security features see IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "61c04100ffc6f10d349b3332003dc5c6",
+    "text": ", Security. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "5e03a93c5ed1e375b2a7f7ce76e6a4b0",
+    "text": ") Review users with read and write permissions can:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "65d1c8b48df3b36ddada73ed4adb0ae2",
+    "text": "Examination Returns Control System (ERCS) Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "7469f756a8fe77217ed98d22d12ac910",
+    "text": "X (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e31dbc88c87703ecc970abed57016439",
+    "text": "Examination Returns Control System (ERCS)",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "c5ef67ae83d8617cb8bffd276091f040",
+    "text": "Review users with read and write permissions can:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "1448ea771f866f30c17d7b1c2a5f39fb",
+    "text": "• Add or update employee information for employees in their authorized Audit Information Management System (AIMS) Assignee Code (AAC). • Research and display records. • Generate reports of returns in TS statuses. • Update, transfer, and close returns in TS statuses. • Input examination technical time for employees in their authorized AAC. • Generate time reports for employees and returns. • Generate a Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8cbeac0e765d55ab8e5aa9801949b486",
+    "text": "• Generate a Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "42ff0bb92233adfe03266ebbdb001ec2",
+    "text": ", Document Transmittal. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7031e448185cc90c5338996176983ced",
+    "text": ") Sample Review users with read and write permissions can: • Add or update employee information for employees in their authorized AAC. • Research and display records. • Generate reports of returns selected for sample review. • Update returns selected for sample review in Status Code",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "80c41a83fc09acde5281db8e021fd7dd",
+    "text": "• Input examination technical time for employees in their authorized AAC. • Generate time reports for employees and returns. Records and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a519c4dd027a61f7baa3891ddb97ee73",
+    "text": ") All ERCS employees have an ERCS employee record with an assigned ERCS employee identiﬁcation (ID) number and a work schedule proﬁle (WSP). The ERCS employee ID is used to associate inventory and time charges with the employee. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "917c54511d89c3d0d23ba22e1b09123c",
+    "text": ") A user is granted access to the ERCS server via a BEARS request. Refer to IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "fe1358ec1cca332ff0ab49495c24a089",
+    "text": ", Security for details. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "2543be548e8a4bbf5a0d2d5340de3684",
+    "text": ") In order to run ERCS programs a user must have: • A valid login for the ERCS server. • An ERCS employee record containing the user’s login name. • Permissions records. Note: The login name on the ERCS employee record is now the employee’s SEID in lowercase. Records (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d8431110f920cf3075938b7f261c7521",
+    "text": ") Employee records are usually added by the administrative support staff in the group, but they can also be added by administrative support staff in another group if the user has write permission for the AAC. When setting up the employee record, special care must be taken when entering the standard employee identiﬁer (SEID) to ensure the correct employee is associated with the data from Discovery Directory and the employee’s SSN. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "89c5068818a02881a4b30d7bdd535ed2",
+    "text": ") It is essential that managers advise administrative support staff when updates are needed to employee records or new employees need to be added. The administrative support staff will timely and accurately add and input changes when advised. Values from the ERCS employee records are used for time reporting, inventory assignment, determining staffing needs, determining if managerial approval is required for updates, protecting an employee’s tax return from unauthorized access and in the creation of audit trails. The following values must be kept current: • Employee name • AAC Services",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3660315a9af3df255d8f19ab077e4797",
+    "text": "page",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7469f756a8fe77217ed98d22d12ac910",
+    "text": "X (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d3b81e07a35dd328d6be886c4105220d",
+    "text": "Sample Review users with read and write permissions can:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7d2be0f1cd7158dad361905e9ad52466",
+    "text": "Add or update employee information for employees in their authorized AAC. Research and display records. Generate reports of returns selected for sample review. Update returns selected for sample review in Status Code",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d58f3bec4b4589e33629151a04d46343",
+    "text": "Input examination technical time for employees in their authorized AAC. Generate time reports for employees and returns.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "88f7f902805e63abeb17dfe28352278d",
+    "text": "4.7.7.4(03-16-2023) Employee Records and Permissions",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d8431110f920cf3075938b7f261c7521",
+    "text": ") Employee records are usually added by the administrative support staff in the group, but they can also be added by administrative support staff in another group if the user has write permission for the AAC. When setting up the employee record, special care must be taken when entering the standard employee identiﬁer (SEID) to ensure the correct employee is associated with the data from Discovery Directory and the employee’s SSN. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8926cca9251700e3f801fbac1c6dc290",
+    "text": ") It is essential that managers advise administrative support staff when updates are needed to employee records or new employees need to be added. The administrative support staff will timely and accurately add and input changes when advised. Values from the ERCS employee records are used for time reporting, inventory assignment, determining staffing needs, determining if managerial approval is required for updates, protecting an employee’s tax return from unauthorized access and in the creation of audit trails. The following values must be kept current:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1e5359acac50bd7924dc0df3cca2294b",
+    "text": "Review and Sample Review employee records are added to ERCS in the AACs according to the chart below:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "261ee7b26f8e133105e6ce903f0aeab0",
+    "text": "PBC SBC EGC Description 202, 203, 204, 206 88700 See the TSC Listing SB/SE TS AACs 207 88720 1408, 2408 NQRS AACs 212 88700 1410 NQRS AAC 320 88705 1988, 1989, 1992 LQMS AACs 324 88710 1500, 1954 JCR AAC",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "cfae864d85011ad86223b6d3ebcf0177",
+    "text": "Determining if the employee is required to charge time on ERCS. Validating the employee’s time charges. Determining if an employee is a manager and can perform certain changes to returns without requiring managerial approval. Determining if the employee’s tax return can be audited in the area. Determining the recipient of system email created when an IRS employ",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "7fac09b608d7685bf6a276742c7c9018",
+    "text": "ee’s tax return is accessed.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "e9ad3097fb1675753d2bb2294e69d7a6",
+    "text": "Review and Sample Review employees utilize the Position Codes listed below:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "40d71f8ec7c682c987c1dc0e524a52cc",
+    "text": "Position Code Description 105 Quality Assurance Management - LB&I only; used for managers in JCR and LQMS groups 106 Technical Support/Quality Management Staff (QMS)/Management - SB/SE only; used for TS and NQRS managers in Revenue Agent (RA) groups 118 Quality Assurance Reviewer/Technical Coordinator; used for reviewers in RA groups (includes NQRS and LQMS) 206 Technical Support/QMS/Management - SB/SE only; used for TS, JCR. and NQRS managers in Tax Compliance Officer (TCO) groups 218 Quality Assurance Reviewer/Technical Coordinator; used for reviewers in TCO groups (NQRS) 327 Tax Examiner; used for tax examiners in RA and TCO groups 400 Non - 4502 position code - ERCS only; used for administrative support staff, and local or national analysts",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "fb9acfd701043b1a76bdfe26cd5fc1b8",
+    "text": ") ERCS users must have a login name on their employee record. The login name is used to verify a user has permission to access ERCS and in the creation of the audit trails. Employees who temporarily act for their managers are given temporary ERCS access and assigned a login. The login name should not be removed from the ERCS employee record when the assignment is complete, since audit trails may have been created during the employee’s assignment. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "b4ad9300efeb7b0423a778ff4e1178ea",
+    "text": ") The WSP contains the employee’s tour of duty (TOD) information and the number of hours the employee is scheduled to work each day. This information is used when time is input for the employee on ERCS. Each technical employee, manager, and the territory managers in LB&I must account for the number of hours they are scheduled to work each day. The WSP is also used to determine when an employee is required to charge holiday time on ERCS. When entering the WSP the user must enter their employment type, full time or part time and TOD. Part-time employees default to enter hours for the Part- Time TOD, full-time employees can be under one of ﬁve possible TODs. The following are the six choices for the TOD: • Part-Time - employee works",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "663ea1bfffe5038f3f0cf667f14c4257",
+    "text": "to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "bb05d52c468aa534e0aa8fc6ccba0482",
+    "text": "hours per pay period. • Regular - employee works",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "5b8e4e29ad1a871bca3ae4f768ca71fe",
+    "text": "eight-hour days per week with no option for working credit hours. • Flexitour - employee works",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "eb146f549b0d09d3999f86d70d415f38",
+    "text": "eight-hour days per week with an option for working credit hours. •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "91e2071d022602b14cdf5788f1d178d7",
+    "text": "- (ﬁve four nine) employee works",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "2cf1b578e3bbff7577c614c63116ea93",
+    "text": "nine-hour days,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "21abb74817d1db2b73747378aaa98ff5",
+    "text": "eight-hour day, and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "144a4718bbfc5cd27d3baa696b13961a",
+    "text": "day off per pay period with no option for working credit hours. •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "302fd50833d08c2430973cb8a2f5551c",
+    "text": "- (four ten) employee works",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "40e7731a82b5db5acfd463ebea4f611f",
+    "text": "ten-hour days and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "99c2afef7fe9beee0534ffe12c325b22",
+    "text": "day off per week with no option for working credit hours. • Maxiﬂex - employee works a pre-determined number of hours each day, but the number of hours can vary from day to day during the pay period. The total hours per pay period must equal",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "fcb0db63c680629a0522c61e0b793e17",
+    "text": "hours. The employee may work credit hours. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "44a3c711a5135807e21e148c1f79417b",
+    "text": ") The WSP records are in two-week cycles that correspond with Single Entry Time Reporting (SETR) cycles. The employee’s scheduled work days and the number of hours the employee is scheduled to work each day in the WSP should match the employee’s information on the SETR system. Note: A Maxiﬂex WSP can include partial hours in half hour increments. Services",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3660315a9af3df255d8f19ab077e4797",
+    "text": "page",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "fb9acfd701043b1a76bdfe26cd5fc1b8",
+    "text": ") ERCS users must have a login name on their employee record. The login name is used to verify a user has permission to access ERCS and in the creation of the audit trails. Employees who temporarily act for their managers are given temporary ERCS access and assigned a login. The login name should not be removed from the ERCS employee record when the assignment is complete, since audit trails may have been created during the employee’s assignment. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "03778adcd6010936ea0f56e605295e95",
+    "text": ") The WSP contains the employee’s tour of duty (TOD) information and the number of hours the employee is scheduled to work each day. This information is used when time is input for the employee on ERCS. Each technical employee, manager, and the territory managers in LB&I must account for the number of hours they are scheduled to work each day. The WSP is also used to determine when an employee is required to charge holiday time on ERCS. When entering the WSP the user must enter their employment type, full time or part time and TOD. Part-time employees default to enter hours for the Part- Time TOD, full-time employees can be under one of ﬁve possible TODs. The following are the six choices for the TOD:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8cd5545016d816c3717b939cbf4df26b",
+    "text": "• Part-Time - employee works",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "663ea1bfffe5038f3f0cf667f14c4257",
+    "text": "to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "bb05d52c468aa534e0aa8fc6ccba0482",
+    "text": "hours per pay period. • Regular - employee works",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "5b8e4e29ad1a871bca3ae4f768ca71fe",
+    "text": "eight-hour days per week with no option for working credit hours. • Flexitour - employee works",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "eb146f549b0d09d3999f86d70d415f38",
+    "text": "eight-hour days per week with an option for working credit hours. •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "91e2071d022602b14cdf5788f1d178d7",
+    "text": "- (ﬁve four nine) employee works",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "2cf1b578e3bbff7577c614c63116ea93",
+    "text": "nine-hour days,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "21abb74817d1db2b73747378aaa98ff5",
+    "text": "eight-hour day, and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "144a4718bbfc5cd27d3baa696b13961a",
+    "text": "day off per pay period with no option for working credit hours. •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "302fd50833d08c2430973cb8a2f5551c",
+    "text": "- (four ten) employee works",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "40e7731a82b5db5acfd463ebea4f611f",
+    "text": "ten-hour days and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "99c2afef7fe9beee0534ffe12c325b22",
+    "text": "day off per week with no option for working credit hours. • Maxiﬂex - employee works a pre-determined number of hours each day, but the number of hours can vary from day to day during the pay period. The total hours per pay period must equal",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "833ba9bc532f6727cbed31d342527142",
+    "text": "hours. The employee may work credit hours. The WSP records are in two-week cycles that correspond with Single Entry Time Reporting (SETR) cycles. The employee’s scheduled work days and the number of hours the employee is scheduled to work each day in the WSP should match the employee’s information on the SETR system.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "92f71403f4b2c88b6065ac075ddeca44",
+    "text": ") The WSP records are in two-week cycles that correspond with Single Entry Time Reporting (SETR) cycles. The employee’s scheduled work days and the number of hours the employee is scheduled to work each day in the WSP should match the employee’s information on the SETR system.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "6224daebead36e94a8aabf39bc1834e3",
+    "text": "Note: A Maxiﬂex WSP can include partial hours in half hour increments.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d9eaf091ca7f7756046fc8e0a022f35a",
+    "text": "Since the WSP is used in validating time, changes to the WSP must be made at the beginning of the two-week pay period, before time has been applied on",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "bd3d1efb7890f6a27083d00c332fa57d",
+    "text": ") Since the WSP is used in validating time, changes to the WSP must be made at the beginning of the two-week pay period, before time has been applied on ERCS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "1f24e4d74852d772d781fd535b14d8cb",
+    "text": ") ERCS employee records should be inactivated when the employee leaves the IRS or transfers to a non-ERCS position. If an employee inputs time on ERCS the inactivation date must be entered as the last day the employee is required to charge time on ERCS. If the employee record contains a login name it should not be removed when the employee record is inactivated. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "ef8f490bba495bd996431e6d47d6bfd6",
+    "text": ") For information regarding transfers, details, and acting assignments see IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "1d086d9545ef3d199dfa8ce9af91e10b",
+    "text": "For information regarding transfers, details, and acting assignments see IRM 4.7.5.6 , Employee Records.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "e31dbc88c87703ecc970abed57016439",
+    "text": "Examination Returns Control System (ERCS)",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "6da70b84b619bf1f95efb7cc9d72b4da",
+    "text": ") Additional information on adding an employee record to ERCS can be found the Employee Records chapter of the ERCS Review Handbook for TS and JCR users and the Employee Records chapter of the ERCS Sample Review Handbook for NQRS and LQMS users. The user should enter all information accurately and completely when adding or updating employee records. Records (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8219dea2fad74959db343f936eca92b5",
+    "text": ") Permissions are granted by the local A/E staff. Temporary permissions may delegated by the TM or group manager to an ERCS user. The manager must have the same permanent permission in order to grant it to another user. Example: A group manager has read and ﬁrst level approval permission only and ﬁrst level approval permission can be delegated. Temporary permis- sion may be granted up to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "d46c3c4d6f04cc32bde4283f7e53a1b7",
+    "text": "days but should be limited to the length time the user needs the permission. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "9d8965d90dbb1cbfc936d0035e22f493",
+    "text": ") There are four types of user permissions: read, write, ﬁrst level approval and second level approval. • First level approval is available to front line managers and acting managers to approve work performed in their group. • Second level approval is available to TMs to approve updates or requisi- tions input by managers and acting managers and updates to an acting manager’s inventory. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "cfe192a8b30709e648111f5a7b098f7f",
+    "text": ") All users are given read permission. Users with read permissions can: • Generate reports for any AAC they have been granted access. • Research and display records. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "e2c996109325ed1fe0620728b3edd65c",
+    "text": ") Generally only administrative support staff are given write permissions. Users with write permissions can perform the following tasks for any AAC they have been granted access: • Add or update employee records and WSPs. • Add, update, transfer, or close inventory records. • Input examination technical time for employees. • Generate a Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8cbeac0e765d55ab8e5aa9801949b486",
+    "text": "• Generate a Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "11d168312f1282c590a6585cd73291b1",
+    "text": "Note: A group manager may be given write permission if the TM approves the BEARS request where write permissions are requested and the TM is an ERCS user with second level approval permission. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "f97620fe1a8c8459204cb4c8607f2e4b",
+    "text": ") Users with permanent ﬁrst level approval permissions can: • Approve updates for any AAC they have been granted access. • Delegate temporary ﬁrst level approval permission to other users. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "6d5c33e9945afe00f5c39077a67c38b1",
+    "text": ") Permission records should be deleted as soon as the need for them has expired. Employees should notify the manager if they have permission records that are no longer needed for business purposes. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "2e1f7904b401d4289bc8a8dce1fba0b8",
+    "text": ") Managers should ensure that technical employees with inventory are not",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "e31dbc88c87703ecc970abed57016439",
+    "text": "Examination Returns Control System (ERCS)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "f97620fe1a8c8459204cb4c8607f2e4b",
+    "text": ") Users with permanent ﬁrst level approval permissions can: • Approve updates for any AAC they have been granted access. • Delegate temporary ﬁrst level approval permission to other users. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "6d5c33e9945afe00f5c39077a67c38b1",
+    "text": ") Permission records should be deleted as soon as the need for them has expired. Employees should notify the manager if they have permission records that are no longer needed for business purposes. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "adf9a7ff475674d69641a5625b29d7e7",
+    "text": ") Managers should ensure that technical employees with inventory are not routinely given write permission during a temporary acting assignment and must not be given permanent write permissions. Write permission compro-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "c7f5c31424135f162b93a9d084f98698",
+    "text": "Users with permanent ﬁrst level approval permissions can:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "f931f1a0826fc99bd1d3b3a21320d81a",
+    "text": ") Administrative support staff in TS are given read and write permission for assigned AAC. If permissions are needed for additional PBCs in order to assign returns to reviewers Add Access BEARS requests must be submitted for these applications. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "34d6d08f3f59c7115fba8b0c1d9ab8c5",
+    "text": ", Security for additional information. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "5865167f334b2b45cd658600027f031f",
+    "text": ") Administrative support staff in JCR, NQRS and LQMS are given read and permission for their assigned AAC. The following are the AACs: Function PBC SBC EGC JCR",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "5c021a2944e83272c966705c870fcacb",
+    "text": "NQRS",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "5c021a2944e83272c966705c870fcacb",
+    "text": "NQRS",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "24d85e29db4aa6b2dc755015b602de32",
+    "text": "LQMS",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "fc6170c932a4375423b89fc671a60706",
+    "text": ") Review managers are given read and ﬁrst level approval permission for their AAC. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "af818c5395f7e853cf09f89b20d44689",
+    "text": ") Review TMs are generally given read and second level approval permissions for their territory. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "00a8fed3c33c5235325461d1455b3e1a",
+    "text": ") Sample review managers are given read permission for their AAC. Approval permissions are not needed. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "c9e451b03dbd677c01e25951fe3d2a89",
+    "text": ") Employee permission records on ERCS are removed when the employee record is inactivated. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "4acf7c537092c55bea3986136d2234e6",
+    "text": ") For technical employees the ﬁrst point of contact for ERCS or AIMS questions should be the group manager. If the group manager needs assistance with ERCS or AIMS questions they should contact their local A/E analyst. The A/E staff should be able to resolve most ERCS and AIMS issues and can dinate with the TS A/E analyst when needed. They also can elevate issues, necessary, to the HQ ERCS analysts. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3b4fc56e2fdc7a593dadbe98b3acfd66",
+    "text": ") ERCS provides a way for managers to review and approve requisitions, closures and selected updates before they become permanent changes on ERCS and before the updates are sent to AIMS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "33e796351b8299acc19bdc347113ebe2",
+    "text": ") When returns need to be added, updated, transferred, or closed on ERCS, appropriate form should be completed. The manager is required to review either sign or initial the form prior to input into ERCS, except for Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "b82567475c067ceff0368a7513cdc04e",
+    "text": "-D, Examination Request-ERCS (Examination Returns Control System) Users, which does not require a manager’s signature. The following forms are used update ERCS and AIMS: • Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "42db7269f1edab614ae9c9e4aaf3ea64",
+    "text": "-D is used to request Master File and Non-master File controls, and to control Penalty Investigations, Non-AIMS direct exami- nation time (DET) Items and Collateral Examinations on ERCS.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "664469a1f14b155f09fd2cbd1ff9b71d",
+    "text": "Administrative support staff in JCR, NQRS and LQMS are given read and write permission for their assigned AAC. The following are the AACs:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "eb5d42f21a199cb72861f577ea152c87",
+    "text": "Function PBC SBC EGC JCR 324 88710 1500/1954 NQRS 207 88720 1408/2408 NQRS 212 88700 1410 LQMS 320 88705 1988/1989/1992",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "8bd56e8ff4c4b9e175e68af82fa520a3",
+    "text": "Form 5345-D is used to request Master File and Non-master File AIMS controls, and to control Penalty Investigations, Non-AIMS direct exami- nation time (DET) Items and Collateral Examinations on ERCS.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "e31dbc88c87703ecc970abed57016439",
+    "text": "Examination Returns Control System (ERCS)",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "2e0e960ab3204127b1dce399c9984c81",
+    "text": "Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "626587e4aa9e5bcf742b7975c16a7738",
+    "text": ", AIMS/ERCS Update (Examination Update), is used to request updates on ERCS and/or AIMS, return transfers to another group or function, AIMS freeze codes be added or removed, follow-ups for requested original returns and re-establishment of closed cases on ERCS and/or AIMS. Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "1f06483a69070810386c164ed4537720",
+    "text": ", Examination Correction Request, is used to correct AIMS data on a closed case for a single return. To request a change the group should complete the form and submit it to the A/E staff for input on AIMS.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "0519ce3682a367e71abc446c61b363d2",
+    "text": "ERCS and/or AIMS. • Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "0ecc790d9e243274acca21a52474d873",
+    "text": ", Examination Correction Request, is used to correct AIMS data on a closed case for a single return. To request a change the group should complete the form and submit it to the A/E staff for input on AIMS. Note: Forms",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "e8a0d83d3046f9d85ea95d33664fcbe6",
+    "text": "requesting AIMS freeze codes to be set or released and re- establishment for closed AIMS cases are not processed in the group, but forwarded to either Planning and Special Programs (PSP) or the local A/E staff for input following local procedures. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "07b725e23fe8a39fa19338882edf799e",
+    "text": ") It is recommended that managers access ERCS at least every two days to check for updates pending managerial approval. When a manager logs into ERCS a message is displayed if there are requisitions or updates that require approval. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "e20c4e2676ceb28049b22ffbd95eee29",
+    "text": ") The manager should review cases prior to closure on ERCS. After the review is complete, cases should be closed and approved on ERCS. Once the status code update is reﬂected on AIMS the cases should be shipped to the receiving function within three business days. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "90f97c2a472c79cd80000345ed72efdf",
+    "text": ") Normally updates to returns on ERCS requiring approval are performed by administrative support staff and approved by the manager. However, if a manager or temporary acting manager updates a return, the action may require the TM to approve the work. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "60fac5fa0e27b3a6c82d71408539346e",
+    "text": ") When an update is pending approval many ERCS screens and reports display a “p” next to the item to denote the update is “pending”. When an update is approved or disapproved the “p” is removed. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "5e587323cbbbf814d074c6b16f81e3f0",
+    "text": ") ERCS cannot prevent returns from being physically transferred to Review that are still pending managerial approval in the group for the transfer. Returns in transit to TS and JCR can be monitored using the “In Transit Report” on the Inventory Reports menu. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "8ec6f3cf4178d2577ea6d5c21ec737b9",
+    "text": ") For detailed information about the Managerial Approval program, options and screens, see the Managerial Approval chapter of the ERCS Review Handbook. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "1983023243e69e833b19813fa1025bea",
+    "text": ") A manager can grant temporary permission for any AAC to which they have ﬁrst level approval to another user through the option Grant Temporary Permis- sion providing the following requirements are met: • The employee has an active ERCS login. • This is not the ﬁrst time the user has been granted ERCS permission. Note: The local A/E staff must grant a user’s permissions for the ﬁrst time, which allows access to the database. • The manager has permanent permission for the same type of permis- sion the user is being given. Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "7469f756a8fe77217ed98d22d12ac910",
+    "text": "X (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "eec3ccbbd6a3104e5a66f1a9392acaa8",
+    "text": "For detailed information about the Managerial Approval program, options and screens, see the Managerial Approval chapter of the ERCS Review Handbook.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "95bac3177816d03425e8a78145abf971",
+    "text": ") The manager should only delegate a user permission for the length of time the permission is needed, not to exceed",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "b1bb4519adc6b35dd129c7a4b3c27c65",
+    "text": "days. Technical employees should not routinely be given write permission during a temporary assignment. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "b097d5f141b554aecc03ed94259909d1",
+    "text": ") Ownership of a return in Review and Sample Review is determined by the reviewer assigned to the return on ERCS. For this reason returns should be assigned as soon as possible after they are received in the function. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "29edd461113755c9e6d3d8756d13e2cb",
+    "text": ") Once assigned ERCS users may update the returns or generate reports listing the returns if the user has been granted permission for the reviewer’s AAC. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "871879c00483deb0edfa94d8bc6e455e",
+    "text": ") Unassigned returns are not associated with the group’s AAC. In order to update or assign these returns users must have permission for the PBC on the return and the SBC of the function (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3d30020b1863441a64e786bdc72745e9",
+    "text": ", or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "c4b2896a2081395e282313d6683f07c8",
+    "text": ").",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "f53f740b558e30f1caff9a171fead169",
+    "text": "The manager should only delegate a user permission for the length of time the permission is needed, not to exceed 30 days. Technical employees should not routinely be given write permission during a temporary assignment.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "512233c2e95e2331bbbe9ac1b97948cc",
+    "text": "Exception: Review and Sample Review SBCs are not valid with LB&I PBCs. Therefore, permissions will be granted for SBC 00000.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "9d778c526deffbd6f77fee8385f9b500",
+    "text": "Therefore, permissions will be granted for SBC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "faebf8dc393d40897f62b9027dc6d217",
+    "text": ") If a return needs to be assigned to a reviewer in another area the current group will update the Technical Services Code (TSC) and then update the employee ID to a reviewer in the new area. Once reassigned, only users permissions for the new reviewer’s AAC will be able to update the return. Users should follow local procedures for brokering work in TS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "094e1f5973015d884108c7c2a4ccf7ac",
+    "text": ") In addition to the AAC permission checks ERCS also checks the status on returns to determine if a return can be updated or listed on reports run Review users. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "03299a643b3ff64ec65237db867b7d7d",
+    "text": ") ERCS also checks to see if returns have been selected for sample review determine if a return can be updated or listed on reports run by Sample Review users. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "09977c856ce72c7b72c485bf42159aaf",
+    "text": ", Reports contains detailed descriptions of ERCS reports, recom- mended uses for the reports and the recommended frequency for running reports. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "2640f69d2792a60e4eff295191951264",
+    "text": ") For detailed information and a complete list of reports available for Review users, refer to the ERCS Review Handbook . (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "15d8a991d2ddbf1e60ed1a30ba5fdea0",
+    "text": ") For detailed information and a complete list of reports available for Sample Review users, refer to the ERCS Sample Review Handbook. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "dc951e6cfe4ec60939d186dd7f5f2188",
+    "text": ") ERCS uses a combination of codes for inventory control including the following: • AAC • Suspense type and action date • Reject reason • Review and sample review employee ID • Review type Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "9634e9ed4ce432a8a0c40584af6c3095",
+    "text": "If a return needs to be assigned to a reviewer in another area the current group will update the Technical Services Code (TSC) and then update the employee ID to a reviewer in the new area. Once reassigned, only users with permissions for the new reviewer’s AAC will be able to update the return. Users should follow local procedures for brokering work in TS.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3d3e31cffb32c54a05ab9b290d16b822",
+    "text": "IRM 4.7.6, Reports contains detailed descriptions of ERCS reports, recom- mended uses for the reports and the recommended frequency for running the",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "4ffadf17fc6143382e9aecdca879f95a",
+    "text": "For detailed information and a complete list of reports available for Sample Review users, refer to the ERCS Sample Review Handbook.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "d370620ee9d15c475312e4752ab54a17",
+    "text": "Suspense type and action date Reject reason Review and sample review employee ID Review type",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "ff0b442dd0764be95a1711313be928e0",
+    "text": "• Sample review indicator • Review position codes (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "594945e7913aba423adb4561d3dfa077",
+    "text": ") More information about these codes may be found in the Codes chapter of ERCS Review Handbook and the Codes chapter of the ERCS Sample Review Handbook. Type and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "bb57a9131cffe5ff389a793b5c1b79bc",
+    "text": ") The suspense type is a three digit ERCS code in the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "ae7584ec727908591283b2f93aadde91",
+    "text": "range that be associated with returns in TS statuses. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "ce1d75a1e0dd664e2558fd33fa283fa7",
+    "text": ") Suspense types provide a consistent approach to effectively monitor workload and provide a basis for timely completion of work. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "669cdd12734814133cd3cc654dbb4087",
+    "text": ") Suspense types can be linked to a TS status code and/or a set number of days to be in suspense. When a user updates an ERCS record with a suspense type and if linked, the program automatically sets the status code and/or action date. See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "5c6a4d60921d858df31c024885aaf5f8",
+    "text": "for a list of suspense types with their associated status codes and number of days. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "f1ffaafa308e071ce6772b7f06007946",
+    "text": ") When the action date is set by the program, it is set to a work day. So it is possible the action date could be one to two days different from the calculated date if the calculated date falls on a weekend or a holiday. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "4f7d5c75d7d8ef96c2f543986d5e80e2",
+    "text": ") When a return is updated out of a TS status code, the suspense type and action date are removed from the record. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "3d30cada453548f1a0870cab542790a4",
+    "text": ") ERCS reports can be generated by a single suspense type or for all returns suspense. Refer to the Inventory Reports chapter of the ERCS Review Hand- book for information on Suspense Reports. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "f5bd1ef45d7f9454fd0ac351e540c520",
+    "text": ") The ERCS reject reason is a three digit code in the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "e6938dcbe0839b9f888ebb1fe4831ced",
+    "text": "range used identify the reason returns are sent back to the group from Review. See",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "84e968fe971ec447c684eda733cfa8b3",
+    "text": "for a list of reject reasons for TS and JCR. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "0ac05c0d4cbc7c98a03d7decb6255bb9",
+    "text": ") The reject reason must be input by a Review user when a return in a TS status code is updated to a group or PSP status code under Status Code (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "fe4733b305bf79fd10495200aa9a7e26",
+    "text": ") The “Cases Returned to Group” report is available to Review users to monitor returns sent back to the group. Refer to the Inventory Reports chapter of the ERCS Review Handbook for information on this report. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "1f069d8fa01584b02a6072b207d1851e",
+    "text": ") When a group user closes the return back to a TS status code the reject reason is removed from the ERCS record. Sample Employee ID (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a4845a741b54995fd195c0a1dbae989c",
+    "text": ") The ERCS employee ID is a four or ﬁve digit number generated by the program when a new employee record is added to ERCS. The employee ID used to assign inventory to a reviewer. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "0a6422f5331cea14e04d50dd592a3c7b",
+    "text": ") ERCS lists the employee assignment in TS or JCR in the review employee ﬁeld and in NQRS or LQMS in the sample review employee ID ﬁeld. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "6040804744bede677ee427bbb1968447",
+    "text": ") Inventory reports can be generated by the review or sample review employee ID.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "65d1c8b48df3b36ddada73ed4adb0ae2",
+    "text": "Examination Returns Control System (ERCS) Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "7469f756a8fe77217ed98d22d12ac910",
+    "text": "X (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "9456012935a3496b488a648497c61df7",
+    "text": "More information about these codes may be found in the Codes chapter of the ERCS Review Handbook and the Codes chapter of the ERCS Sample Review",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "90fc58c175b58661682393e441ace277",
+    "text": "The reject reason must be input by a Review user when a return in a TS status code is updated to a group or PSP status code under Status Code 20.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "ec657bfae094632e00312057eca54af1",
+    "text": "ERCS lists the employee assignment in TS or JCR in the review employee ID ﬁeld and in NQRS or LQMS in the sample review employee ID ﬁeld.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "e2e69f95ec5b4ee20ef3f51fe6d7e20e",
+    "text": ") The review type is a three digit number deﬁning the type of return. Use of code allows returns in Review to be classiﬁed into sub-categories for better inventory control and to aid managers in monitoring an individual reviewer’s workload. ERCS does not require input of the review type. Refer to local pro- cedures to see if it is required in your area. See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "564ef2b6955bc59efb7576be1e2eadfa",
+    "text": "for a list of review types. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "451bcee2498d5a449224de674fcffc85",
+    "text": ") The “Inventory Listing” report located on the Inventory Reports Menu, when run by a Review user, can be sorted by review type. Review Indicator (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "2835395767ba0d3d03b87fa65444de14",
+    "text": ") The sample review indicator is a two digit number that allows returns to be classiﬁed into sub-categories for better inventory control. ERCS does not require input of the sample review indicator. Refer to local procedures in your area. See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "6aa38003fece683f26528103975c084d",
+    "text": "for a list of sample review indicators. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "6d666715bd0dddb6e26c6a142e16c885",
+    "text": ") The “Inventory Listing” report located on the Sample Review Reports Menu, when run by a Sample Review user, can be sorted by sample review indicator. Selection (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "a171496cee8a4e9aba939a29cf6bf388",
+    "text": ") Returns are checked for sample review eligibility at the time the returns are checked into TS or Centralized Case Processing (CCP). Checked in means the status code on the return has been updated from In-transit to another status code. In order to be eligible for selection, the return must meet the selection criteria and be the Nth eligible return. The “Nth” number is deter- mined by the analysts for each NQRS and LQMS site. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "fcf4d49bc88b69b32115d9ffc515c435",
+    "text": ") When returns are selected for sample review the user is prompted to print sample selection sheet. This sheet should be attached to the front of the ﬁle as a reminder that the case should be shipped to the address on the sample review sheet when the case is closed to Status Code",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "b205cbf4cf9aae755b2a33bce3591adf",
+    "text": "Note: For SB/SE Electronic Case Files the sample selection sheet is saved as PDF ﬁle and then uploaded to RGS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "6a8dbf19e220bf3fef0053e62773b867",
+    "text": ") A return that has been selected for sample review may be deselected by the program if either of the following occurs: a. The return is transferred back to the group after a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "bd030b3d5a2c4d8e11fc4784141498a6",
+    "text": "- day letter has been issued. b. The return is updated to a TS suspense status code. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "60f621984a541fbfb952ac2fa6c10dbd",
+    "text": ") If a return is deselected for sample review the sample selection sheet should be removed from the case ﬁle or RGS for Electronic Case Files. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "b74cf3edd9b5818ed30d6e5110cb4c17",
+    "text": ") ERCS validates all examination technical time for SB/SE and LB&I employees whether it is input into ERCS or into the Issue Management System (IMS) imported into ERCS for validation. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "dfb45afa67f9fc73ec8419b63a0f6c08",
+    "text": ") ERCS determines which employees are required to input examination technical time by the employee’s position code on the ERCS employee record. If there is an exception for an employee, the local A/E analyst can set the “Ignore SETTS” ﬂag for the employee so time input is not required. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "48cf7ff18d8f7744fd4d308a3f59c517",
+    "text": ") The following position codes used in Review and Sample Review require technical time to be entered on ERCS:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "4aa9bfd2f175a94ad5a7cb321e1aea97",
+    "text": ", and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "604dce445e326d952308addc99bd3d0e",
+    "text": "Services",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3660315a9af3df255d8f19ab077e4797",
+    "text": "page",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "7469f756a8fe77217ed98d22d12ac910",
+    "text": "X (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "e66cfcf524bfde880e0ab91ad5b59d34",
+    "text": ") Review Type (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "e2e69f95ec5b4ee20ef3f51fe6d7e20e",
+    "text": ") The review type is a three digit number deﬁning the type of return. Use of code allows returns in Review to be classiﬁed into sub-categories for better inventory control and to aid managers in monitoring an individual reviewer’s workload. ERCS does not require input of the review type. Refer to local pro- cedures to see if it is required in your area. See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "564ef2b6955bc59efb7576be1e2eadfa",
+    "text": "for a list of review types. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "0038a3e98b628428e1fd087dc5af3ece",
+    "text": ") The “Inventory Listing” report located on the Inventory Reports Menu, when run by a Review user, can be sorted by review type.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "4b67e360f38d0c7fe8de359d07e1b673",
+    "text": ") Sample Review Indicator (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "2835395767ba0d3d03b87fa65444de14",
+    "text": ") The sample review indicator is a two digit number that allows returns to be classiﬁed into sub-categories for better inventory control. ERCS does not require input of the sample review indicator. Refer to local procedures in your area. See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "6aa38003fece683f26528103975c084d",
+    "text": "for a list of sample review indicators. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d11d09cc5afa88ba56783433714313bf",
+    "text": ") The “Inventory Listing” report located on the Sample Review Reports Menu, when run by a Sample Review user, can be sorted by sample review indicator.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "96f6edc2f539b69075fa30725c5eefde",
+    "text": ") Sample Selection (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "a171496cee8a4e9aba939a29cf6bf388",
+    "text": ") Returns are checked for sample review eligibility at the time the returns are checked into TS or Centralized Case Processing (CCP). Checked in means the status code on the return has been updated from In-transit to another status code. In order to be eligible for selection, the return must meet the selection criteria and be the Nth eligible return. The “Nth” number is deter- mined by the analysts for each NQRS and LQMS site. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "c4b86fd6b9b23f884c5d62c55786e401",
+    "text": ") When returns are selected for sample review the user is prompted to print a sample selection sheet. This sheet should be attached to the front of the case ﬁle as a reminder that the case should be shipped to the address on the sample review sheet when the case is closed to Status Code",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d2344fbdc6eb051bc67bca0ce1c49eb5",
+    "text": "Note: For SB/SE Electronic Case Files the sample selection sheet is saved as a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "e5cc7b709979205b538c0adcab9933fb",
+    "text": "The “Inventory Listing” report located on the Inventory Reports Menu, when run by a Review user, can be sorted by review type.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "190f6e74dba9203e27a501a452bc04a6",
+    "text": "The “Inventory Listing” report located on the Sample Review Reports Menu, when run by a Sample Review user, can be sorted by sample review indicator.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "7b51df1e6f6be11d98d8a3a8fd15c68a",
+    "text": "Returns are checked for sample review eligibility at the time the returns are checked into TS or Centralized Case Processing (CCP). Checked in means the status code on the return has been updated from In",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "8b0549f66ea804a48d5d8fb9770795f0",
+    "text": "transit to another status code. In order to be eligible for selection, the return must meet the selection criteria and be the Nth eligible return. The “Nth” number is deter",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "a7776eb1f2d819d37e0b47a963fbcab1",
+    "text": "mined by the analysts for each NQRS and LQMS site. When returns are selected for sample review the user is prompted to print a sample selection sheet. This sheet should be attached to the front of the case",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3d20ce9bed43db6da17e4535f77123d8",
+    "text": "Note: For SB/SE Electronic Case Files the sample selection sheet is saved as a PDF ﬁle and then uploaded to RGS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "6a8dbf19e220bf3fef0053e62773b867",
+    "text": ") A return that has been selected for sample review may be deselected by the program if either of the following occurs: a. The return is transferred back to the group after a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "bd030b3d5a2c4d8e11fc4784141498a6",
+    "text": "- day letter has been issued. b. The return is updated to a TS suspense status code. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "60f621984a541fbfb952ac2fa6c10dbd",
+    "text": ") If a return is deselected for sample review the sample selection sheet should be removed from the case ﬁle or RGS for Electronic Case Files. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "43d05dd8ea0b40ad6cad5675b766b9fc",
+    "text": ") ERCS validates all examination technical time for SB/SE and LB&I employees whether it is input into ERCS or into the Issue Management System (IMS) and imported into ERCS for validation. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "dfb45afa67f9fc73ec8419b63a0f6c08",
+    "text": ") ERCS determines which employees are required to input examination technical time by the employee’s position code on the ERCS employee record. If there is an exception for an employee, the local A/E analyst can set the “Ignore SETTS” ﬂag for the employee so time input is not required. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "48cf7ff18d8f7744fd4d308a3f59c517",
+    "text": ") The following position codes used in Review and Sample Review require technical time to be entered on ERCS:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "4aa9bfd2f175a94ad5a7cb321e1aea97",
+    "text": ", and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "815bd3ef53a58fbd5b878ec8ad094a89",
+    "text": "Note: For SB/SE Electronic Case Files the sample selection sheet is saved as a PDF ﬁle and then uploaded to RGS.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "17851f645fad82df1a4d500772c82462",
+    "text": "However, Review employees in Position Code",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "8b31b853f6de9f046de0c0c1c2dc83e2",
+    "text": ", tax examiner, are currently not required to input time in ERCS. The local A/E analyst should be notiﬁed turn on the “Ignore SETTS” ﬂag for these employees so the correct position code is used without requiring time input. Note: NQRS managers are also not required to input time and should have the Ignore SETTS ﬂag turned on. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "63105dd4bb07aa204b130ded412d9991",
+    "text": ") There are four types of time charges that can be entered on ERCS: • Direct Examination Time (DET) • Direct Review Time (DRT) • No-return DET • Non-DET (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "22c8043e0f4be8f03ff064e9299f3949",
+    "text": ") DET is time charged to a return using the P of RB codes of “N” (no protection), “R” (related, non-protection time spent on a claim for refund), “P” (protection), or “S” (shelter). This time is included on Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "991cdaa8d7a7f376debc490e45bf0603",
+    "text": ", Examination Closing Record. Although ERCS allows input of these codes for reviewers they are valid and will cause Summary Exam Time Transmittal System (SETTS) valida- tion errors. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "09b1fc67f551990f480ba5767221f941",
+    "text": ") DRT is time charged to a return using the P of RB code of “Q” (review). This time is not included in the examiner’s time on Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "4a5782f271cd6f5ff222c8608cb02135",
+    "text": "Time charges to DRT are associated on ERCS to a return and the activity code on the return but the second segment code (SSC) is user entered and used to further break down the time charge into the review activity performed. The SSCs valid with P of RB code of “Q” are as follows: •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "c1fe0b3c155e9c97fcca20e36d6cf2b9",
+    "text": "Case Review •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "a150a02327560652b339ae8f2e53170f",
+    "text": "Notice of Deﬁciency •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "d37885fbfd1841156544fef3af38c952",
+    "text": "Day Letter Activities •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "0c9f1257da33411e1667c9afd790996e",
+    "text": "Abatement Interest •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "4c1f8052274dafba10e1eab24c9a0bd6",
+    "text": "Offers in Compromise •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "fde32993a3825ca083243b1a14a5121f",
+    "text": "Innocent Spouse Review (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "2affbc112e4247789a144160b525a735",
+    "text": ") No-return DET is time applied to activity codes in the range",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "192595a44c78a78a395361b90102ebb0",
+    "text": "Some of these activity codes can be set up as inventory control records on ERCS there is no associated AIMS record. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "cd581c8efcc70f316ffa1c628a1f5468",
+    "text": ") Non-DET, also referred to as “below the line time”, is time applied to adminis- trative activities, training, leave, etc. The activity codes associated with non- DET charges are in the range",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "e31dbc88c87703ecc970abed57016439",
+    "text": "Examination Returns Control System (ERCS)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "e31dbc88c87703ecc970abed57016439",
+    "text": "Examination Returns Control System (ERCS)",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "70b7c6162907ccab423f16d364eef000",
+    "text": "However, Review employees in Position Code 327, tax examiner, are currently not required to input time in ERCS. The local A/E analyst should be notiﬁed to turn on the “Ignore SETTS” ﬂag for these employees so the correct position code is used without requiring time input.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "4aea03a09081f80484c23a7908500585",
+    "text": "There are four types of time charges that can be entered on ERCS:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "8f4d637d4e65dff6b207268034247546",
+    "text": "Acronym Deﬁnition AAC AIMS Assignee Code A/E AIMS/ERCS AIMS Audit Information Management System BEARS Business Entitlement Access Request System CCP Centralized Case Processing DET Direct Examination Time DRT Direct Review Time EGC Employee Group Code ERCS Examination Returns Control System ID Identiﬁcation IMS Issue Management System JCR Joint Committee Review LB&I Large Business and International LQMS LB&I Quality Measurement System NQRS National Quality Review System P of RB Protection of Revenue Base PBC Primary Business Code PSP Planning and Special Programs RA Revenue Agent ROTER Record of Tax Enforcement Results SBC Secondary Business Code SB/SE Small Business/Self Employed SETTS Summary Exam Time Transmittal System SSC Second Segment Code SSIVL Statistical Sampling Inventory Validation Listing SSN Social Security Number TCO Tax Compliance Officer TSC Technical Services Code TS Technical Service UNAX Unauthorized Access of Taxpayer Accounts",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "d1e7c5a438b8d7b7c8af637af26675a4",
+    "text": "Unauthorized Access of Taxpayer Accounts",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "39c441a5c9fbe65d6d4b98d4efb6658a",
+    "text": "4.7 Examination Returns Control System (ERCS)",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "8a2110cbf874b7b241b8e6e54a4a7b49",
+    "text": "Exhibit 4.7.7-1 (Cont. 1) (03-16-2023) Acronyms and Deﬁnitions",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "888c19822fdb6334f7e485c32a1e2f26",
+    "text": "Acronym Deﬁnition WSP Work Schedule Proﬁle",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "af910ac17219174de574b27c834ea3bd",
+    "text": "If a status is not listed for the suspense type, the status does not change when the suspense type is updated.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "a24ab9280d243ca7af722944d9169151",
+    "text": "If the number of days is not listed for the suspense type the action date is not set by the program and the user is required to enter it.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "6c5dd7f3cd2f5110bd99dc4841baba00",
+    "text": "Suspense Type Description Status Days 500 EQMS 23 5 501 Protested to Appeals 22 10 502 LQMS 23 15 503 Taxpayer Advocate 22 10 504 30 Day Suspense - 30 506 45 Day Suspense - 45 508 60 Day Suspense - 60 510 90 Day Suspense - 90 518 10 Day Suspense - 10 519 15 Day Suspense - 15 520 Employee Audits 20 45 524 105 Day Suspense - 105 525 180 Day Suspense - 180 526 365 Day Suspense - 365 528 Interest/Penalty Abatement - 30 Day Cases 22 45 529 Interest/Penalty Abatement 24 195 531 Innocent Spouse - 30 day 22 45 532 OIC (Offer in Compromise) - 30 Day Cases 22 45 534 Stat Notices Issued - Field 24 105 535 Stat Notices Issued - Office 24 105 537 Innocent Spouse - Final Determination 24 105 538 Section 7436 Final Notice Determination 24 105 540 Statute Notice of Deﬁciency - Out US - Field 24 165 541 Statute Notice of Deﬁciency - Out US - Office 24 165 542 Cases Sent to Counsel for Review 25 45 544 Section 7436 Notice Preparation 25 45 550 F14104 Package Incomplete - 14",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "4a1a1618e216ebf223031fdc275807ab",
+    "text": "Exhibit 4.7.7-3 (Cont. 1) (03-16-2023) TS Suspense Types",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "a34fb81a85f36c39b6dd0994e395002c",
+    "text": "Suspense Type Description Status Days 551 F14104 Pkg Rec’d, Collateral to CRC - 10 552 F14104 Package not Accurate - 45 553 Awaiting Estab of MFT 31 Account - 30 554 MFT 31 Account Established - 7 555 Assessment Package Submitted - 35 556 Assessment Posted - 7 557 Restitution Notiﬁcation to LTSFC - 14 558 LTSFC Sent Case to PSP - 60 570 New TEFRA/BBA Case Assigned 27 5 571 Non TEFRA/BBA and Related Inventory - 15 572 TEFRA/BBA Various - 30 573 TEFRA/BBA Various - 45 574 TEFRA/BBA Various - 60 575 TEFRA/BBA Various - 75 576 TEFRA/BBA Various 28 105 577 FPAA Issued 28 165 578 Suspended - Litigation 31 180 581 PPA / NOPPA Letter Issued 28 285 590 Form 1254 Suspense Cases - Form in Case 30 365 591 General Fraud Suspense 32 180 592 Grand Jury Suspense 36 180 593 Bankruptcy 39 30 594 Suspense - Various 38 180 595 Suspense - Various 38 365",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "132357ea9f7d8a8d0e8cd299bf7b7ac5",
+    "text": "Reject Reason Deﬁnition 500 Returned from Technical Services 501 Returned for Correction 502 Returned per Group Request 503 Returned for Further Development 504 Exam Depth and Records Question 505 Technical Law Questions 506 Penalty Questions 507 Work Papers Questions 508 Report Writing Questions 509 Statute Problems 510 Claim Procedures 511 From Appeals 512 TEFRA/BBA Questions 513 From Joint Committee 514 90 - Day Reconsideration 515 Pre 90 - Day Reconsideration 516 From Area Counsel 517 Advisory 518 AIMS/ERCS Problem 519 Transfer Problem 520 Returned from TS for Taxpayer Request 521 To Taxpayer Advocate Office (TAO) 522 Quality Attributes 523 Package Audit Questions 524 Civil Settlements 525 Consideration of Large Unusual Questionable (LUQ) Items 526 Probes for Unreported Income 527 30 - Day Letter 528 Barred Statute",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "8d4bb929cf9a54728498b3b597e17464",
+    "text": "Exhibit 4.7.7-4 (Cont. 1) (03-16-2023) TS Reject Reasons",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "e587e98f59801d56e979787cf0a21013",
+    "text": "Review Type Description 000 In-Transit/Unassigned 001 Employee Audit 002 Innocent Spouse Review 003 National Research Program (NRP) 004 Joint Committee 005 Political Appointees 006 Barred Statutes 007 Reconsideration and Claims 008 Interest/Penalty Abatement Review 009 Restricted Interest 010 Offers in Compromise Review 011 Conditions of Probation (COP) 012 Closing Agreements (non - GSI (Government Services Information Infrastructure)) 013 Informant Claims 014 Jeopardy/Terminations 015 LQMS 016 Field Assistance 017 Subject Matter Expert (SME) Duties 018 Training - TS Personnel 019 Penalties - Preparer 020 Earned Income Tax Credit (EITC) 021 Transferee/Transferor 022 Taxpayer Advocate 023 Employment Tax 024 Return from Appeals/Counsel 025 New TEFRA/BBA Case Assignment 026 Non-TEFRA Flow-Through 027 Historic Rehab Credit 028 Local Deﬁnition",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "1d1da93a586cd8a6b8a3984f1f2a0df3",
+    "text": "Review Type Description 000 In-Transit/Unassigned 001 Employee Audit 002 Innocent Spouse Review 003 National Research Program (NRP) 004 Joint Committee 005 Political Appointees 006 Barred Statutes 007 Reconsideration and Claims 008 Interest/Penalty Abatement Review 009 Restricted Interest 010 Offers in Compromise Review 011 Conditions of Probation (COP) 012 Closing Agreements (non - GSI (Government Services Information Infrastructure)) 013 Informant Claims",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "5b40b8ecc587269257805cdf664736a6",
+    "text": "Exhibit 4.7.7-5 (Cont. 1) (03-16-2023) Review Types",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "ae550a0035c62274f3b23ec6653ca9c1",
+    "text": "Review Type Description 029 Local Deﬁnition 030 Agreed Son of Boss (SOB) 031 TEFRA-Suspended-Litigation 032 Protested to Appeals 033 EQMS 034 Statute Notices of Deﬁciency - Field 035 Statute Notices of Deﬁciency - Office 036 Partnership Option Portfolio Securities (POPS) 037 Personal Investment Company (PICO) 038 Section 7436 Final Notice Determination 039 American Disabilities Act (ADA) 040 Administrative Adjustment Request (AAR) 041 Revenue Procedure 92-29 042 Cases Sent to Counsel 043 Fugitive Cases 044 1254 Suspense 045 Fraud 046 Grand Jury 047 Hobby Losses - 183 048 Bankruptcy 049 Protective Claims 050 Section 1033 051 Appeals & Counsel Assistance 053 Headquarters Suspense 054 Claim for Refund Suits 055 Combat Zone 056 Non-AIMS Case Review 057 Technical Coordinator 058 Third Party Contact 059 Executive Compensation 060 National Partnership Council (NPC) Key Case",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "39c441a5c9fbe65d6d4b98d4efb6658a",
+    "text": "4.7 Examination Returns Control System (ERCS)",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "465a96db67f0080b9f8ab6907855da33",
+    "text": "Exhibit 4.7.7-5 (Cont. 2) (03-16-2023) Review Types",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "d95bb0ddd648ee9d36a6566c1b31c0b3",
+    "text": "Review Types Review Type Description 061 NPC Investors 062 Domestic Trusts 063 Offshore Voluntary Disclosure Initiative (OVDI) / Voluntary Disclosure Program (VDP) 064 S Corps/Employee Stock Ownership Plans (ESOP) 065 Internal Revenue Code (IRC) 419 066 Notice 2003-81 067 Virgin Island Economic Development Credit (VI EDC) 068 Offshore Employee Leasing (OEL) 069 Home-Based Business 070 Last Chance Compliance Initiative (LCCI) / Offshore Voluntary Com- pliance Initiative (OVCI) 071 Conservation Easement 072 Supporting Organization Settlement 074 Global Settlement Initiative (GSI) 075 TEFRA - Agreed 076 TEFRA - No-Change within 45 Days 077 TEFRA - No-Change after 45 Days 078 TEFRA - 60 Day Letter Prep 079 TEFRA - Campus 60 Day 080 TEFRA - 60 Day Letter Issued 081 TEFRA - Final Partnership Administrative Adjustment (FPAA) Prep 082 TEFRA - AAR Disallowance 083 TEFRA - FPAA Issued 084 TEFRA - Waiting for Campus 085 TEFRA - Investor Statutory Notice of Deﬁciency (SND) Preparation 086 TEFRA - Investor SND Issued 087 TEFRA - Other Action Required 088 TEFRA - Waiting for Centralized Case Processing (CCP) 089 TEFRA - Waiting for Taxpayer (TP) /Power of Attorney (POA) Protest 090 TEFRA Unable to Process",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "09e3d903d2983d1f7682e255be3953c6",
+    "text": "Exhibit 4.7.7-5 (Cont. 3) (03-16-2023) Review Types",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "a56508365f6f1cd3254a3abaff0776f4",
+    "text": "Review Types Review Type Description 091 Court Ordered Restitution 092 Restitution Assess Completed - Civil Action Initiated 093 Restitution Assess Completed - No Civil Action Initiated 094 Restitution Not Assessable 095 Restitution is BMF Related 096 Restitution is RPP Related 097 Restitution Not Payable to Service 099 All Other Cases Not Listed Above 100 Withdraw NAP 101 No Change 102 Appeals Protest 103 PPA/NOPPA Review and Preparation - No Protest 104 BBA Modiﬁcation Received or Extension of Modiﬁcation Period 105 Agreed Case - Before FPA 106 FPA Letter 107 Agreed Case - After FPA 108 Reserved for Chapter 2, 2A 109 Reserved 110 Reserved 111 Reserved 112 Reserved 113 Reserved 114 Reserved 115 Reserved 116 PPA/NOPPA Letter Issued 117 FPA Letter Issued 118 FPA - Push Out Election Received - 90 Day Petition Still Running 119 Rescission of FPA - Letter 6247 120 Reserved for Chapter 2, 2A 121 Reserved 122 Reserved",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "39c441a5c9fbe65d6d4b98d4efb6658a",
+    "text": "4.7 Examination Returns Control System (ERCS)",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "4d6e0cdaa54719dbbbc510d316a12efa",
+    "text": "Exhibit 4.7.7-5 (Cont. 4) (03-16-2023) Review Types",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "00a765d34d03fdc921f50c87928c7202",
+    "text": "Review Type Description 123 Suspended for Tax Computation Specialist 124 Waiting for Counsel Review of PPA/NOPPA, FPA or Advice 125 Waiting for Partnership Representative/POA Actions Required 126 Suspense for Field Response to Request 127 Reserved for Chapter 2, 2A 128 Reserved 129 Reserved 130 Reserved",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "e044ec07ff0e01595dbdb9e6d22822c9",
+    "text": "Sample Review Indicator Deﬁnition 00 No Sample Indicator 10 Suspense - Consistency Case 11 Suspense - Manager Case Review 12 Suspense - Manager Approval Case 13 Suspense - Potential Disclosure Issue 14 Suspense - Charge Backs 15 Suspense - Other 20 Unpostables 30 Rejects 40 Excess Inventory 50 Site Transfer 60 Cases not Received 70 - 89 Local Deﬁnition",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "5f61866acf53442d0e7d186af021cc13",
+    "text": "The TSC is assigned when a return is closed to Status Code 21 on ERCS based on the address the user selects for the Form 3210. The TSC may be updated when a return is moved out of Status Code 21 to another TS status on ERCS. The TSC is used to determine the location of unassigned returns in a TS status.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "bf472ffee0e107d677ddcffe13d6ac01",
+    "text": "TSC Description 003 Legacy (SAA) Bankruptcy Coordinator 008 East Boston Group 1 042 TEFRA - East 053 TEFRA - East 074 East Group 7 - NJ 094 TEFRA - East 095 East Group 6 109 Legacy (SAA) Baltimore Group 11 110 East Baltimore Group 14 120 Midstates Group 24 121 TEFRA - East 122 TEFRA - East 124 TEFRA - East 125 TEFRA - East 130 Pass Through Entity 131 Pass Through Entity 132 Pass Through Entity 135 Pass Through Entity 136 Pass Through Entity 137 Pass Through Entity 138 Pass Through Entity 139 Pass Through Entity 140 Pass Through Entity Group 2 141 Pass Through Entity Group 2 142 Pass Through Entity Group 2 144 Pass Through Entity Group 2 145 Pass Through Entity Group 2 146 Pass Through Entity Group 2",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "072199c0118e85494bd6a4074c2d71f8",
+    "text": "Exhibit 4.7.7-7 (Cont. 1) (03-16-2023) Technical Services Codes",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "3e7a8a8ab204992db06748c334fa8457",
+    "text": "TSC Description 153 Legacy (SAA) Group 13 154 Legacy (SAA) International Group 1 162 Midstates Group 17 163 Legacy (SAA) Bankruptcy Coordinator 164 Midstates Group 15 173 TEFRA - East 176 TEFRA - East 182 East Group 14 - VA 192 Midstates Group 10 206 Legacy (SAA) Bankruptcy Coordinator 214 East Group 9 228 East Group 14 - IN 246 Midstates Group 19 249 Legacy (SAA) Bankruptcy Coordinator 251 Legacy (SAA) Bankruptcy Coordinator 271 East Group 20 293 Midstates Group 21 328 Midstates Group 24 342 TEFRA - East 344 TEFRA - East 347 Legacy (SAA) Group 11 - PA 362 Midstates Group 10 - WI 363 Midstates Group 10 - MIL WI 365 East Group 25 415 Midstates Group 21 435 Midstates Group 23 486 West Group 28 - OKC 493 West Group 28 - AUS TX 507 West Group 28 - DAL TX 531 West Group 27 568 Legacy (SAA) Bankruptcy Coordinator",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "39c441a5c9fbe65d6d4b98d4efb6658a",
+    "text": "4.7 Examination Returns Control System (ERCS)",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "9f2bc4c2c3869c27a8d6f46b1a54d0f5",
+    "text": "TSC Description 594 TEFRA - West 595 West Group 32 - AZ 596 TEFRA - West 597 TEFRA - West 598 TEFRA - West 599 TEFRA - West 609 West Group 32 - CO 777 TEFRA - West 778 West Group 33 790 TEFRA - West 792 West Group 39 795 TEFRA - West 797 TEFRA - West 798 TEFRA - West 799 West Group 38 817 West Group 34 818 West Group 35 819 Legacy (SAA) Bankruptcy Coordinator 844 Legacy (SAA) Group 36 901 LB&I Joint Committee Review",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm04-007-007--2023-03-16.pdf",
+      "page_number": 34
+    }
+  }
+]

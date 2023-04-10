@@ -1,0 +1,362 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "59c7ac7ebfc370fd8f1637df587f0b5f",
+    "text": "IRM 2.3.81 has been revised to include internal control information.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "5c0f4b06765a579ea9e045a41a9cbba5",
+    "text": "Large Business Small Business (LMSB), Small Business/Self-Employed (SB/SE), Tax Exempt/Government Wage & Investment (W&I).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "48b7e1c5721cd8c3f88e6fc210a9b276",
+    "text": "Purpose: This transmits revised IRM 2.3.81, IDRS Terminal Command Code (CC) ESTAB modiﬁer “A” (ESTABA).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b1744a1ceac3795acafc10ded22d17c5",
+    "text": "“REQUEST COMPLETED” message on line 24 indicates all data ﬁelds contain valid data, and request has been accepted by the DOC database.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "77642159a147e133bf7dea3d5728b091",
+    "text": "A one character alphabetic code inputted on line 1, column 7 of ESTABA. Used to identify the type of request being made. The request code is:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c3dae56210ff9aac27300a726bbbd386",
+    "text": "Request Purpose Code E Not available for user input. This request code will display as a result of a successfully completed Request Code “L.” L Used to obtain a list ESTAB requestor’s mailing addresses stored on the DOC RDMS database.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "727dc50567363ae129abef2e7a21b4be",
+    "text": "When an element of data is invalid a error message will be displayed on line 24. The element that is invalid will display an asterisk to the right of the invalid",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3761db07ef330fe90df596b64d5e300a",
+    "text": "element. ERROR MESSAGES Error 1 Invalid Command Code Modiﬁer, must be A, D, H, M, R, or S. Solution 1 Self Explanatory Error 2 Invalid, must perform Request-Code “L” prior to Request-Code “E” Solution 2 Must perform ESTABA Request Code “L” before per- forming Request Code “E” Error 3 Invalid State-Code, enter a valid two character State Code Solution 3 Example, the mailing State Code for OHIO is OH. Error 4 Invalid Request-Code, code must be “A,” “E,” or “L” Solution 4 Put a “L” in line 1 column 7 Error 5 Invalid Next Page value, this ﬁeld must be a “+,” “-,” or Empty Solution 5 Self Explanatory Error 6 Invalid, please put an “X” to the left of your address Solution 6 Self Explanatory Error 7 Invalid, remove “X” from address above, or remove + or - from Next-Page ﬁeld Solution 7 Only one option can contain information. Error 8 Invalid, select “X” in a address above, or put + or - in Next-Page ﬁeld Solution 8 One option must be chosen.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "cf96e24ea33f00405e30c8a53b43df6e",
+    "text": "When an element of data is invalid a error message will be displayed on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e8ce30db867a72d5ecd986995c4e41ce",
+    "text": "The element that is invalid will display an asterisk to the right of the invalid element.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "727dc50567363ae129abef2e7a21b4be",
+    "text": "When an element of data is invalid a error message will be displayed on line 24. The element that is invalid will display an asterisk to the right of the invalid",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "918eccf930c90fa22e88fc33d8782f61",
+    "text": "2.3.81 ERROR MESSAGES Error 1 Invalid Command Code Modiﬁer, must be A, D, H, M, R, or S. Solution 1 Self Explanatory Error 2 Invalid, the Select Desired Action ﬁeld must contain a “D”, “U”, or “N” Solution 2 Self Explanatory Error 3 Invalid State-Code, please enter a valid 2 character state abbreviation Solution 3 Self Explanatory Error 4 Invalid Street-Suffix, please enter a valid suffix abbre- viation Solution 4 Self Explanatory Error 5 Invalid Street-Suffix, enter a valid 2 to 4 character suffix abbreviation Solution 5 Self Explanatory Error 6 Invalid Street-Direction, must be empty or N, W, E, S, NW, NE, SW, SE Solution 6 Self Explanatory Error 7 Invalid State-Code, must be a valid 2 character state abbreviation Solution 7 Self Explanatory Error 8 Invalid Data, Zip Code required: 99999-9999 or 99999 Solution 8 Self Explanatory Error 9 Invalid Zip-Cd Ext., extension ﬁeld must contain 4 numbers, or 4 spaces Solution 9 Self Explanatory Error 10 Invalid Zip-Code, Zip Code ﬁeld must contain numbers Solution 10 Self Explanatory",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "33c1e29902d678cbcff13d561dbfd825",
+    "text": "This Page Intentionally Left Blank",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "003d8f77a25edbec05a1590a151ee371",
+    "text": "2.3.81-1 (01-01-2011) Format, CC ESTAB — Address List",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4ccfc4e1b80b1d945ad69446b508bb2b",
+    "text": "Input Screen ESTABA, Request-Code L",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "08a565dd5519cad513df3ca0055b8cd3",
+    "text": "-2 I} il N Ll—zd I} e | al—-aJ | im0 I} oi1-02 | fi-cy12345678901234567890123456789012345678901234567890123456789012345678901234567850ESTABAE 4{STREET ADDRESS NUMBER} (STREET DIRECTTION) (STREET NAME) (STREET SUFFIX)\\ / / /A\\ / / /\\ / / /1600 s Pennsylvania RDDes Moines,WA 98198-0003/ / \\(CITY) (STATE} (ZIP CCDE)FA KRR KKK KKk KKk KRR KR KRR Rk R Rk R Rk R Rk R Rk R Rk Rk ok Rk ok Rk ok Rk ok Rk ok Rk ok Rk Rk K KK K Kk K KSTREET ADDRESS NUMBER> 5STREET NAME> 6 (STREET-NAME ONLY, PUT STREET-DIRECTION ANDSTREET-SUFFIX BELOW)(N,S,E,W, NW, NE, SW, SE) (DR, RD, ST, WAY, AVE, BLVD, etc..)STREET DIRECTION>_T7 STREET SUFFIX>_ 8CITY>, 9 ST>10 ZIP> 11{99999 or 99999-9999)D O R R R R e R R R R R R L E etSELECT DESIRED ADDRESS ACTION>12 (D=DELETE, U=UPDATE, N=NEW)(Line 24 is_ reserved for Informational screen messages)123456789012345678901234567890123456789012345678901234567890123456789012345678901-9 J..11=18 |...21-29 | 31-3% | 41-49 | 51-55 | 61-6% | 71-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3e485bef1cb2ab0bea73b055c2300fcd",
+    "text": "Command Code - Column",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "9c6725dc269a48ce4b5bc78b580ccab2",
+    "text": "through",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1d55a64ce32a27fb89be241e1ab36c5d",
+    "text": "must contain “ESTAB”. CC MODIFIER - Column",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "608da7867909befea6c775dd5d807809",
+    "text": "must be an “A”. REQUEST CODE - Column",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "c167b60e81c33fa88d31f4d37cff15df",
+    "text": "must be an “L”. STATE-CODE - Column",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "6201111b83a0cb5b0922cb37cc442b9a",
+    "text": "and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4f464ce52e0d2fe509c45ab69cba0dea",
+    "text": ", this ﬁeld must contain an two character State Code. Enter a two character State Code to see a list of all addresses from a given State. SELECT STREET ADDRESS - Column",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a8e923fef5c14c0ba26f4badde991daf",
+    "text": ", place an “X” in the Select-Street-Address ﬁeld, across from the Street Address you wish to select. NEXT PAGE NUMBER - Column",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "6a609f41c9cee5afa5b81b69809c7c53",
+    "text": ", to display next page of addresses enter a “+. ” To display previous page enter a “-.”",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d709c03d2949b4e1e53f443343886d6e",
+    "text": "NEXT PAGE NUMBER - Column 33, to display next page of addresses enter a “+. ” To display previous page enter a “-.”",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7c8598d082077c83665e1e9601ffe3c2",
+    "text": "Exhibit 2.3.81-2 (01-01-2011) CC ESTABA — Request",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "948f7df51bfc2f185bb5d068d341e875",
+    "text": "ESTABA Request-Code“L”",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "af7ecfbb92f823a7e18e6d452c861ec6",
+    "text": "1-9 | 11-19 | 21-29 | 31-39 | 41-49 | 51-59 | 61-€% | 71-8012345678901234567890123456789012345678901234567890123456789012345678901234567890T b b bM UIE WN R OWQ®-- o U W eey)R R0 RO oWK EOwoNISESTABALCA ADDRESSSTATUSX Civic Center PLZ , Santa Ana, CA 22701801 W Civic Center DR, Santa Rna, CR 2927011332 BRnacapa ST, Santa Barbara, CA 93101303 Water ST, Santa Cruz, CA 950606340 Variel , Woodland Hills, CA 91367SELECT IF ADDRESS NOT FOUND(x)3[))[)[)))[))))[)[)Page 2 of 5 Next Page>§ [PAGE USING \"+\" = NEXT CR \"-\" = BACK]TYPE \"X\" TO THE LEEFT OF DESIRED ADDRESS, OR SELECT NEXT PAGE USING \"+\" OR \"-\".O W@ o WM12245678001 224A57RAN1I2324A578AN1234567RON1224A567R80NT122A5TRONTI22A5678AND1234567R90",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3fb045ab5c5ee26145e732cdbd3e3b02",
+    "text": "TYPE \"X\"Page 2 of 5 Next Page>§ [PAGE USING \"+\" = NEXT CR \"-\" = BACK]TO _THE_LEFT OF DESIRED ADDRESS, OR SELECT NEXT PAGE USING \"+\"OR \"o123456789012345678901234567890123456789012345678901234567890123456789012345678901-911-19 | 21-29 | 31-39 | 41-49 | 51-59 | €1-6971-80",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "272600a06de377e0ff1ea7be58658fce",
+    "text": "1. Example of input: CC ESTABA (Request Code L) Address Listing.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d192b32ec5c9294ca9d0f60285f7a35d",
+    "text": "Exhibit 2.3.81-3 (01-01-2011) Input Format, CC ESTAB — Addresses",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "83b1622fdfc6827b0f35653747695db1",
+    "text": "Input Screen ESTABA, Request-Code E",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "97dc50362be6340ff9e87bfc5d703260",
+    "text": "123756769012345676901234567690123456789012345678601234567680012345676901234567890W@ WESTABAL_4 ACDRESSSTATUSCivic Center PLZ , Santa Ana, CA 92701801 W Civic Center DR, Santa Rna, CR 2927011332 BRnacapa ST, Santa Barbara, CA 93101303 Water ST, Santa Cruz, CA 950606340 Variel , Woodland Hills, CA 91367SELECT IF ADDRESS NCT FOUND(5)3[))[[))[)[))))))))Page 2 of 5 Next Page>6 [PAGE USING \"+\" = NEXT CR \"-\" = BACK]TYPE \"X\" TO THE LEET OF DESIRED ADDRESS, OR SELECT NEXT PAGE USING \"+\" CR \"-\".O @ o U WD e12345678901234567890123456789012345678901234567890123456789012345678901234567890",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "18680de614013f24b157fc5381d4992d",
+    "text": "Page 2 of 5 Next Page>6 [PAGE USING \"+\" = NEXT CR \" = BACK]TYPE \"X\" TO THE LEET OF DESIRED ADDRESS, OR SELECT NEXT PAGE USING \"+\" CR \"-\".123456789012345678901234567890123456789012345678901234567890123456789012345678901=9 l11=19 | 21-2% | .31-39 | _Al-49 1 .51-59 | _61-69 [ 71280",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "47f00bd279a6479ee3fc000fa24bb31a",
+    "text": "Exhibit 2.3.81-3 (Cont. 1) (01-01-2011) Input Format, CC ESTAB — Addresses",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "e40c8dd0ca3f03339c58691aae2fb1b3",
+    "text": "ESTABA Request-Code “E”",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "4e5c09fef0707c16629a8481721bfb53",
+    "text": "1-9 | 11-19 | 21-29 | 31-39 | 41-49 | 51-59 | 61-69 | 71-8012345678901234567890123456789012345678901234567890123456789012345678901234567890ESTABAED0099(STREET ADDRESS NUMBER) (STREET DIRECTTION) (STREET NAME) (STREET SUFFIX)A\\ / / /\\ / / /A\\ / / /1600 $ Pennsylvania RDDes Moines,WA 98198-0003/ / \\(CITY) (STATE) (zIP CODE)Kk Kk K kR kR K R K R K KRR KR KRR kR K R kR kK R Rk KR R KR kR Rk R K R K R Rk K RSTREET ADDRESS NUMBER>34STREET NAME>Clvic Center (STREET-NAME ONLY, PUT STREET-DIRECTION ANDSTREET-SUFFIX BELCW)STREET DIRECTION> STREET SUEFFIX>PLZ(N, S,E,W,NW, NE, SW, SE) (DR, RD, 8T, WAY, AVE, BLVD, etc..)CITY>Santa Ana ST>CA ZIP>92701-0011(99999 or 99995-9999)ke ek ko R Rk K Rk Rk ok kK Rk R Rk K Rk Rk R Rk Kk Rk ko ko R Rk R Rk Kk ko ko kKSELECT DESIRED ADDRESS ACTION»U (D=DELETE, U-UPDATE, N-=NEW)(Line 24 is reserved for Informaticnal screen messages)123456789012345678901234567890123456789012345678901234567890123456789012345678901-9 |.11=z19 |.21-29 | 31-39 | 41-49 | 51-59 | _61-69 | 71-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-081--2020-02-18.pdf",
+      "page_number": 13
+    }
+  }
+]

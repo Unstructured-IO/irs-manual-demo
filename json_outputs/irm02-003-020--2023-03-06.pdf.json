@@ -1,0 +1,848 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "13377de58032104c9dd2b8df3597cc31",
+    "text": "This transmits revised IRM 2.3.20, IDRS Terminal Responses, Command Code URINQ (URF).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1e04ac4271e26a0d03a06b174aeb7b1f",
+    "text": "LMSB, SB/SE, TE/GE, W&I.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9f190a6186ed522175a662d099a8f228",
+    "text": ") This database contains all IMF, BMF, EPMF and NMF remittances which received and cannot be positively identiﬁed. Each record within the database contains the UR Control Number, DLN, amount, type of payment, status",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9433e754c840e800b6ac844828c12e77",
+    "text": "(C) notice indicator, name, address, SSN/EIN (if known) and all available payment and follow-up information. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f2d793d501e5d0792baf0ab3def9ff24",
+    "text": ") Audience — LMSB, SB/SE, TE/GE, W (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "63af2538dea333b41117f650661d44f9",
+    "text": ") Policy Owner - Chief Information Officer (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5bb87509126c4d7ec372b1e3e7dd8ceb",
+    "text": ") Program Owner — IDRS (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ea88d3839be689e5dfe306b1ebdd5167",
+    "text": ") Primary Stakeholders — Unidentiﬁed remittances function within Wage Investment (W) Submission Processing (SP) Accounting units (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4d3187cbc258e4dc8c0687f0e8a93498",
+    "text": ") Program Goals — The objective of this IRM is to provide system mainte- nance, capability, speciﬁcations and guidance for using the various unidentiﬁed remittance and excess collections command codes for adding, researching applying payments to the IDRS Unidentiﬁed Remittance File (URF). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b5b019165eee68932ce6862f616c6706",
+    "text": ") The Unidentiﬁed Remittance File (URF) contains remittances which are received and cannot be positively identiﬁed. Command Code URINQ is to display an entire DC record from the Dishonored Check File. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1bf5813367e400920a681ee85c429138",
+    "text": ") The Director, Business Support, is the director responsible for the servicewide civil penalty program. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32bccd285f72365a4d17774904f37078",
+    "text": ") The Director, Internal Management, is the director responsible for the IDRS Command Code. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "7c3f3a95834c6acd4db31e18707b887b",
+    "text": ") Overall responsibility for civil penalty programs is assigned to OSP. OSP is matrix organization residing in the Business Support (Small Business/Self Employed) Function. OSP is charged with coordinating policy and procedures concerning the civil penalty program administration, ensuring consistency the penalty policy statement, reviewing and analyzing penalty information, searching penalty effectiveness on compliance trends, and determining appropriate action necessary to promote voluntary compliance. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "377bf29d19e649ce043f07862f44affd",
+    "text": ") Each and every taxpayer has a set of fundamental rights when dealing with IRS as provided in the Taxpayer Bill of Rights (TBOR). All employees handling penalty cases must do so in accordance with the TBOR as listed in IRC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a9eed9583ff65d80e3293d6ad2dada94",
+    "text": "(a)(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b41d4d8f900a83664e96619ee79d66fc",
+    "text": ") . The TBOR can also be found at Taxpayer Bill of Rights on irs.gov (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "27e8760c64c557660e66023680fb1e57",
+    "text": ") Every function in the IRS has a role in proper penalty administration. It is essential that each function conduct its operations with an emphasis on promoting voluntary compliance. Appropriate business reviews should be conducted to ensure consistency with the penalty policy statement ( Policy Statement",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e38975945f16ff9c678cd2665df74c1a",
+    "text": ") and philosophy. Attention should be directed to penalty program coordination between offices and functions to make sure that ap- proaches are consistent and penalty information is used for identifying and responding to compliance problems. URINQ (URF)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ef51e648dfc814b76990088c13114222",
+    "text": "page (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ff25be8668aebb297aa70ba5c3956035",
+    "text": "Primary Stakeholders — Unidentiﬁed remittances function within Wage and Investment (W) Submission Processing (SP) Accounting units",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "375ee6482d554abd476cb92e4b8beca3",
+    "text": "Program Goals — The objective of this IRM is to provide system mainte- nance, capability, speciﬁcations and guidance for using the various unidentiﬁed remittance and excess collections command codes for adding, researching and applying payments to the IDRS Unidentiﬁed Remittance File (URF).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "27e8760c64c557660e66023680fb1e57",
+    "text": ") Every function in the IRS has a role in proper penalty administration. It is essential that each function conduct its operations with an emphasis on promoting voluntary compliance. Appropriate business reviews should be conducted to ensure consistency with the penalty policy statement ( Policy Statement",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "25ef5bdd17dcb7ce9a6133211b2fab7d",
+    "text": ") and philosophy. Attention should be directed to penalty program coordination between offices and functions to make sure that ap- proaches are consistent and penalty information is used for identifying and responding to compliance problems.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "184a01296acd5fc949c8403e1d092bd2",
+    "text": "Controls (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "06e8b34411d3e2bf67583391f310efac",
+    "text": ") SACS controls all the IDRS user accesses and permissions. Information for Code URINQ (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "756e2da2fe533f5d11a0c7fa380d488d",
+    "text": ") It also contains, for information purposes only, a record of all doubtfully applied ES credits (TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ac3658ce3ec2b067b7515a9545a48beb",
+    "text": "). Each ES record will contain the taxpayer’s name, address, type of payment, SSN/EIN, tax period, received date, money amount, and the transaction DLN. The status code is ESAP. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "0dd2b0b12b782da8cca5f4d794b49f54",
+    "text": ") The database URF is maintained in IDRS with the use of several command codes (CC). Adding to or applying from the ﬁle requires two command codes. CC FMADD/FMAPL generates a format to be used in making these changes. CC URADD adds a record and, if requested, generates a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "2d145a2e33ca3e0235a66ba93096b728",
+    "text": "(C) notice. CC URAPL/UROUT subtracts or changes a record. CC ESAPL — enters an infor- mation record only. History of the UR record and status changes are recorded with all command codes. CC URENT can do one or more of the following: change record status, add follow-up information to a record, correct erroneous names and addresses, and/or generate a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "67fcb43a8f803aaeb652e63217cdcccc",
+    "text": "(C) notice. If a notice was previ- ously generated (by CC URADD or URENT), an information message so indicating will be printed on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1bf474f1379ef4e3bd1b2670aca26561",
+    "text": "of the screen. Erroneous records or amounts can be corrected or removed with CC UROUT. Refund applications are made with CC URREF. CC FMREF generates the format to be used in the URF Refund application command code. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "2c73afeded558455b15b72e6b71a1fde",
+    "text": ") Research of the URF is done with CC URINQ, and can be researched in three different ways: by amount of remittance, name control, or DLN. If the DLN is not known, adding the Area Office to one of the other data elements will narrow the search down from region wide to that area. There are",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a2553da7761ab362bee4a741bb2a81c8",
+    "text": "possible key combinations: (a) NAME-CTRL only, (b) ORIGINAL-AMT only, (c) NAME- CTRL and ORIGINAL-AMT, (d) NAME-CTRL and FILE-LOCATION-CD, (e) ORIGINAL-AMT and FILE-LOCATION-CD, (f) NAME-CTRL, ORIGINAL-AMT, and FILE-LOCATION-CD, and (g) UR-CTRL-NUM only. Code URINQ (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "feaaf4b660e9a085a5021b7fa810b5b4",
+    "text": ") Use this CC to request for display one or more records in the URF, based on the data elements input. This request can be completed with one, or the com- bination of three data elements: Name Control, Amount, and the UR Control Number. If the UR Control Number is not known, adding the File Location or Campus Code to one of the other data elements will narrow the search down from region wide to that area. An inquiry addressed to the name ﬁle or control number ﬁle produces the complete UR record(s). An inquiry addressed to the amount ﬁle produces only the name control(s) and the UR Control Number(s); further inquiry is necessary to produce the complete record. Code Response (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a5570d76a16f163d82d5af815252be11",
+    "text": ") Depends on what combination of money amount, name control, and Control number entered. a. When money amount (with or without a FILE-LOCATION-CODE or CAMPUS-CODE) is the only information entered. b. When the name control (with or without a FILE-LOCATION-CODE or CAMPUS-CODE or ORIGINAL-AMT-EDITED) is the only information entered, the display in Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "aca615843fcc037063fd52d368b37ddf",
+    "text": "Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d02b0c5246a5a04a837f598157758448",
+    "text": "will be shown. When another record is present for display, that record will begin on the next available print line following the preceding record. Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7f10293ee7f13330438c899f8b66be0a",
+    "text": "Q (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "fd66a0e68cb2eb47cac0a1e1df432efe",
+    "text": "SACS controls all the IDRS user accesses and permissions.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "95293fb822fc9f301e5b103613a36a38",
+    "text": "a. When money amount (with or without a FILE-LOCATION-CODE or CAMPUS-CODE) is the only information entered. b. When the name control (with or without a FILE-LOCATION-CODE or CAMPUS-CODE or ORIGINAL-AMT-EDITED) is the only information entered, the display in Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "aca615843fcc037063fd52d368b37ddf",
+    "text": "Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "dca32effa99e09a3565a5f1f76b12dc3",
+    "text": "will be shown. When another record is present for display, that record will begin on the next available print line following the preceding record.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "83126d55cd5cda3fa2d5d194ab48c6a1",
+    "text": "Solution: Put asterisk in the ﬁrst position (Beside name control you want displayed). Move cursor to 1st position of next line — then re-enter.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b8ea14324f67654be73f34686c15e1ce",
+    "text": "Note: Error messages will be displayed on line 21. Correct the data ﬁelds per error message and re-enter",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "2a02f46d0d56e6ad59d9fae6eb7bbeea",
+    "text": "Exhibit 2.3.20-1 (07-01-2011) Command Code URINQ",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "29cb8779bde99471b8a4d4669b4f9cd1",
+    "text": "Input Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "73b33ae153a94e9d63d1a9b561da9b54",
+    "text": "ORIGINAL-AMT-EDITED—Must include decimal and comma(s) when present. Blanks—if amount not known. OR",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "0cb3f063133a16b8ac7ac9e0c1367053",
+    "text": "UR-CTRL-NUM-EDITED NNNNN-NNN-NNNNN-N with the ﬁrst two numerics a valid FILE- LOCATION-CODE or CAMPUS-CODE for this region. May or may not be present (blanks when not present).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "cf3bea25697d8addc9b5c7de8aa00276",
+    "text": "ORIGINAL-AMT-EDITED—Must include decimal and comma(s) when present. Blanks—if amount not known. This can be used in combination with NAME-CTRL in Line 2 OR in combination with NAME-CTRL in Line 2 and valid FILE-LOCATION- CODE in Line 4.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b2e35df5e104e218aa845c62fba1c1e2",
+    "text": "FILE-LOCATION-CODE—Format NN (valid area) . May or may not be present (blanks when not present). See table below for valid Campus and File Location Codes. This can be used in combina- tion with NAME-CTRL in Line 2 and a blank line in Line 3 OR in combination with ORIGINAL-AMT- EDITED in Line 2 and a blank line in Line 3 OR in combination with NAME-CTRL in Line 2 and ORIGINAL-AMT-EDITED in Line 3",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "eb56a1e4e84cec7011115dad00cc65eb",
+    "text": "NOTE: At least one of the elements (2 to 4) must be present.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8e4d4101bb809cf7e5658c53696a38d9",
+    "text": "Campus Campus File-Location-Codes Atlanta 07 58, 59, 65, 69, 67 Andover 08 01, 02, 03, 04, 05, 06, 10, 12, 14, 16 Kansas City 09 36, 37, 39, 40, 41, 42 43, 44, 45, 46, 47, 48 Cincinnati 17 26, 27, 31, 34, 35, 38 Austin 18 20, 21, 50, 53, 71, 73, 74, 75, 76",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d4c3e4d3ff0bb44fcfe4845a16d2092f",
+    "text": "Brookhaven 19 11, 13, 22 Philadelphia 28 23, 25, 51, 52, 54, 55, 66, 98 Ogden 29 60, 78, 81, 82, 83, 84, 85, 86, 87, 88, 91, 92, 93 Memphis 49 56, 67, 61, 62, 63, 64, 72 Fresno 89 15, 24, 33, 68, 77, 94, 95",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "5be3f96c1c06fd34713e1eae07ba7322",
+    "text": "Terminal Response:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "df7522ade2b1be8623b7a225e04de513",
+    "text": "Error Response: Error messages will be displayed on line 21. Valid Response: See URAF-INQUIRY-SCREEN-RESPONSE AND URCF-INQUIRY-SCREEN-RESPONSE.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "b0b63b7a2efa68938bf6b97363f57395",
+    "text": "Exhibit 2.3.20-2 (01-01-2015) URCF-Inquiry-Screen-Response",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "6e0d5f2281ac9e614b825e11413cd7e7",
+    "text": "BASE-REC:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "746abf27a5405f90455de08e685e169f",
+    "text": "a. Output Display b. Record Element Description: Item Line Position Description and Validity 1 1 1–35 NAME-LINE-1 2 2 1–35 NAME-LINE-2 3 3 1–35 STREET-ADDR 4 4 1–34 CITY-STATE-ZIP 5 5 3–19 UR-CTRL-NUM-EDITED 6 5 21-22 UR-CAMPUS-CD 7 5 24–38 ORIGINAL-DOLLAR-AMT-EDITED 8 6 3-26 TRACE-ID-EDITED 9 7 3–10 RECVD-DT 10 7 12–23 TIN-FILE-SOURCE-EDITED 11 7 25-32 ENTRY-DT 12 7 34-43 EMPLEE-NUM 13 8 3–17 UR-BALANCE-AMT-EDITED 14 8 19–68 PAYMENT-INFO 15 9 3 UR-NOTICE-IND N—No 3731(C) notice was generated. Y—A 3731(C) notice was generated. 16 9 5–6 SOURCE-CD 17 9 8–11 STATUS-CD 18 9 13–14 TYPE-OF-PAYMENT",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "0f3d82fbf9900e0af0d2b1f4b9310fd4",
+    "text": "Note: When no data is available for NAME-LINE-2, STREET-ADDR, or CITY-STATE-ZIP, the remaining lines of information will move up accordingly.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "03b3cdeaa38b9ccc22926b6065389c4a",
+    "text": "b: Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "d6a8cca9f1521629edac7ef0561bd747",
+    "text": "b: Record Element Description: Item Line Position Description and Validity 1 1 1 REC-TYPE-CD—M 2 1 3–10 APPLICATION-DT 3 1 12–15 APPLICATION-NAME-CTRL 4 1 17–28 TIN-FILE-SOURCE-EDITED 5 1 30–39 EMPLEE-NUM 6 2 3–4 MFT-CD 7 2 6–11 TAX-PRD 8 2 13-15 PLAN-NUM 9 2 17–33 DLN-EDITED 10 2 35-36 DESIGNATED-PAYMENT-CD 11 3 3–5 PRIMARY-TRANS-CD 12 3 7–21 PRIMARY-TRANS-AMT-EDITED 13 4 3–5 SECONDARY-TRANS-CD—when present. 14 4 7–21 SECONDARY-TRANS-AMT-EDITED—whenpresent. 15 5 3–5 TERTIARY-TRANS-CD—when present. 16 5 7–21 TERTIARY-TRANS-AMT-EDITED—when present. 17 6 3–72 REMARKS",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "dc1a85c8d51bafa933b63d9b86f59e9e",
+    "text": "Exhibit 2.3.20-2 (Cont. 2) (01-01-2015) URCF-Inquiry-Screen-Response Item Line Position Description and Validity 1 1 1 REC-TYPE-CD—N 2 1 3–10 APPLICATION-DT 3 1 12–25 GENERAL-LEDGER-ACCT-NUM—when present. 4 1 27–34 LOCATION-CD-OR-23C-DT—when present. 5 1 36–45 EMPLEE-NUM 6 2 3–14 TIN-FILE-SOURCE-EDITED—when present. 7 2 16–21 TAX-PRD—when present. 8 2 23–28 TAX-FORM-NUM—when present. 9 3 3–17 APPLICATION-AMT-EDITED 10 4 3–72 RE-MARKS R-HISTORY: a. Output Display: b. Record Element Description: Item Line Position Description and Validity 1 1 1 REC-TYPE-CD—R 2 1 3–10 REFUND-DT 3 1 12–21 EMPLEE-NUM 4 1 28–42 REFUND-AMT-EDITED 5 2 3–14 TIN-FILE-SOURCE-EDITED—when present. 6 3 3–37 NAME-LINE-1 7 4 3–37 NAME-LINE-2—when present. 8 5 3–37 STREET-ADDR 9 6 3–36 CITY-STATE-ZIP F-HISTORY: a. Output Display: b. Record Element Description: Command Code URINQ (URF) 2.3.20",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "b26d4c13a96f9ea3f47d6468cf3d423b",
+    "text": "Exhibit 2.3.20-2 (Cont. 2) (01-01-2015) URCF-Inquiry-Screen-Response",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "6865efaa9a4b1faf4ed2ed82ba23367e",
+    "text": "Exhibit 2.3.20-2 (Cont. 3) (01-01-2015) URCF-Inquiry-Screen-Response",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "0b16b485991eff6a9d3cd6efc455a72b",
+    "text": "FOLLOW-UP-NARRATIVE",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "77fcf3e995b69c820e8bcee421590941",
+    "text": "Exhibit 2.3.20-2 (Cont. 4) (01-01-2015) URCF-Inquiry-Screen-Response",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "840e4a9067216e94735ef31997cdf100",
+    "text": "URCF-Inquiry-Screen-Response b. Record Element Description: Item Line Position Description and Validity 1 1 1 REC-TYPE-CD—A, C, G, J, K, O, Q, S, U, OR W 2 1 3–10 CHG-DT 3 1 12–22 A-C-G-J-K-O-Q-S-U-W-CHG-LITERAL 4 1 24–33 EMPLEE-NUM 5 2 3–37 OLD-ENT-INFO V-HISTORY: a. Output Display: b. Record Element Description: Item Line Position Description and Validity 1 1 1 REC-TYPE-CD—V 2 1 3–10 VOID-DT 3 1 12–17 VOIDED-LITERAL 4 1 19–33 VOID-AMT-EDITED 5 1 35–44 EMPLEE-NUM 6 2 3–37 REMARKS T-HISTORY: a. Output Display:",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "eee3e4bb601c1943fc47bfa0da87dbee",
+    "text": "b. Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "7c1edb87661d834f49c74d9844e6e249",
+    "text": "Exhibit 2.3.20-2 (Cont. 5) (01-01-2015) URCF-Inquiry-Screen-Response Item Line Position Description and Validity 1 1 1 REC-TYPE-CD—T 2 1 3–10 APPLICATION-DT 3 1 12–17 TRANSFER-LITERAL 4 1 19–33 TRANSFER-AMT-EDITED 5 1 35–44 EMPLEE-NUM 6 2 3–72 REMARKS Z-HISTORY: a. Output Display: b. Record Element Description: Item Line Position Description and Validity 1 1 1 REC-TYPE-CD—Z 2 1 3–10 AMT-CHG-DT 3 1 12–21 AMT-CHG-LITERAL 4 1 23–37 AMT-CHG-EDITED 5 1 38 SIGN-CHAR — + or – sign indicating increase or decrease to the original-amt-edited. 6 2 3–10 ORIGINAL-AMT-LITERAL 7 2 12–26 ORIGINAL-DOLLAR-AMT-EDITED 8 2 28–37 EMPLEE-NUM 9 3 3–37 RE-MARKS L-HISTORY: a. Output Display: b. Record Element Descriptions:",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "513b8fd6676ae3cd31008136068ef84a",
+    "text": "Exhibit 2.3.20-2 (Cont. 5) (01-01-2015) URCF-Inquiry-Screen-Response",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d52fa380d1ee1f9558df4abe8a3aa977",
+    "text": "SIGN-CHAR — + or – sign indicating increase or decrease to the original-amt-edited.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "182dbf6e35804eea5097549b5b82b6a5",
+    "text": "Exhibit 2.3.20-2 (Cont. 6) (01-01-2015) URCF-Inquiry-Screen-Response",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3db89272e77fd7d6b55b5ad0a64a1a25",
+    "text": "Terminal Response: The following display is generated when an amount only is input to CC URINQ. To display a particular record, place an asterisk in column one next to the chosen record and re-input.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "02339c578227f0df09c263a24d388972",
+    "text": "Exhibit 2.3.20-2 (Cont. 7) (01-01-2015) URCF-Inquiry-Screen-Response",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "2ef5a11012cb76c239d67682a58620cd",
+    "text": "Item Line Position Description and Validity 1 1 1–5 COMMAND-CD—CC URINQ 2 1 10–15 AMT-LITERAL 3 1 26–39 ORIGINAL-DOLLAR-AMT-EDITED 4 2–20 2–5 NAME-CTRL 5 2–20 7–23 UR-CTRL-NUM-EDITED",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "d91c7385f3e5f27b96da40743c8909b2",
+    "text": "This response is always displayed in a single line format even if only one record is available. The ﬁrst line is always displayed with each page. Upon selection of the special item in the listing, the complete URCF-BASE-REC and URCF-HIST-REC will be displayed on the screen. To select a special record for display, follow the procedure outlined below:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "2112030aeb5237df99e32d07328f8a94",
+    "text": "To retrieve a speciﬁc Unidentiﬁed Remittance record from the URCF",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-020--2023-03-06.pdf",
+      "page_number": 18
+    }
+  }
+]

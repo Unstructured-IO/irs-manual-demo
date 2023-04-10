@@ -1,0 +1,911 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "e9578c179aae580f5fe0e9df1b554be4",
+    "text": "This transmits revised IRM 2.3.27, IDRS Terminal Responses, Command Code ECREQ.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "b1f1cc15542cbcfa316de2161edc2f39",
+    "text": "2.3.27.1 Editorial changes were made to add internal controls.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "e18884437d919f763e9b383eae6ebc40",
+    "text": "LMSB, SB/SE, TE/GE, W&I",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "6845943a2050f47c7b994ecea45c8d14",
+    "text": "This IRM and the contained subsections provide the user the necessary infor- mation on how to use Command Code ECREQ",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c1632d3da1bbcb3d55b4c7a154288200",
+    "text": "Use Command Code ECREQ to request a screen format to input state em- ployment commission requests on IMF taxpayers present on the TIF (Taxpayer Information File) on the IDRS (Integrated Data Retrieval System).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9fcac9744388923d2b25aa9bb61b889a",
+    "text": ") Code ECREQ (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8ed0607884d3d63e1eb9396a20a761e1",
+    "text": ") Command Code ECREQ creates a record that will be sent to state agencies for potential levy sources. These records will be sent to each participating agency within the service center jurisdiction or only to the speciﬁc states select. Since the state’s records are updated quarterly, determine if you need to re-input the request. Command Code ECREQ request a screen format input state employment commission requests one of the following formats: ECREQ",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1193737a61c567917d6d2e6c7d23e688",
+    "text": ", ECREQP or ECREQM. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3d419b07b3cb0b1579429c8044a9d749",
+    "text": ") Precede CC ECREQ with CC LEVYS to avoid duplication of effort and to insure no levy source already exists. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "82ddd9f3b79a75ddba9b47eb7c47f20e",
+    "text": ") Command Code ECREQP requests produce a hardcopy listing. ECREQ, ECREQ",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f76321f50bec53c5beda350cb9a97d5f",
+    "text": ", or ECREQM requests will be updated to the TIF. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4990a28d0239deb265a217dc2058dd20",
+    "text": ") Command Code ECREQ with a blank, P or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "20a4ae601299ef1d3f23afae5b402fe1",
+    "text": "deﬁner will result in the ECREQ",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "b997905de4103367994c4e37bd2611d8",
+    "text": "format, (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6f1f55ef4a056faa93d14931f871249c",
+    "text": ") Command Code ECREQ with a deﬁner of M will result in the ECREQM (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "98517883c6b535b6f904e2f6d586a8dd",
+    "text": ") ECREQ",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "2b7bf18500cde1eefd064d43ccf2dc88",
+    "text": "and ECREQP will generate up to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7f2c4defd4e2b0f9589c539ccbe0bfd4",
+    "text": "separate taxpayer requests the states selected. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a7c1b0819c52ebb55a12e667f699d904",
+    "text": ") ECREQM will generate up to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3614bb3af3d3c15d8177bdad9ad39726",
+    "text": "separate taxpayer requests. One request each line of valid input will be sent to all states within the service center diction. Because of processing costs, avoid indiscriminate use of CC ECREQM. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "12a615af50aa9bcf3ab664409116147e",
+    "text": ") If you are inputting CC ECREQP, and you are not the originator of the EC request, enter the originator’s RECEIVER-EMPLOYEE-NUMBER on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "35f962a0e52745ee6933a502db9d1e67",
+    "text": ", positions",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6a4e5f6367079da68bebd61ecca714d2",
+    "text": ") You may enter both the primary and secondary SSNs on the same request, although only the primary SSN is required. The taxpayer name control is a required input. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ded9f968c09149e0d193c0b3fa81d275",
+    "text": ") FUNCTIONAL-AREA-CODE is an optional ﬁeld. Enter the correct value on",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "2896a6f32e92396f8a0c5601bff21318",
+    "text": ", position",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "b3642c353634fabf2a3af53406be0d46",
+    "text": ", if the request is not for Collection. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "b94f20ee13a3aa288baaef3b351bb309",
+    "text": ") Tabbing to the ﬁrst position of each input ﬁeld has been added. See record element description.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c600d2d4fa7e236366a1eb401f321bca",
+    "text": ") Responses For CC (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f3c7fee67043ba43c36aa3e1cbb4e929",
+    "text": ") Error messages will be displayed in inverse video on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6efbc32b3a2dd6a809c645266abf3693",
+    "text": "Correct the and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8c2f7af1afd55a37ae72387f60a19b5e",
+    "text": ") Error Messages: a. “CC-DEFINER INV”—The CC-DEFINER is not blank, M,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a415bac9a7748564d7fea6de0f0ca5dc",
+    "text": "or P. b. “PLEASE CORRECT INVALID DATA ON SCREEN”—all elements mined to be invalid on the request screen will be asterisk and displayed for correction and re-entry. All elements on the request screen deter- mined to be valid will not be returned, they will be processed and to the gendata tape. c. “ERROR ON WRITE TO GENDATA-NOTIFY CSA”—The request tions on the screen have not been written to tape. CSA should correct tape problem. Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e2ffdb0aa7f6c9194b85f4fab8a6458c",
+    "text": "F (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3e45096fabf93751cf516ed07ae27a12",
+    "text": "a. “CC-DEFINER INV”—The CC-DEFINER is not blank, M,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c85ca64ccdbcdce880661f00083f6d2d",
+    "text": "or P. b. “PLEASE CORRECT INVALID DATA ON SCREEN”—all elements deter- mined to be invalid on the request screen will be asterisk and displayed for correction and re-entry. All elements on the request screen deter- mined to be valid will not be returned, they will be processed and written to the gendata tape. c. “ERROR ON WRITE TO GENDATA-NOTIFY CSA”—The request transac- tions on the screen have not been written to tape. CSA should correct tape problem.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "6381f9a902e437a478291862b8132e0b",
+    "text": ") ECREQ Valid Response (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "83c62297275218b2cd6644a4753ab11d",
+    "text": ") If Command Code ECREQ (with a deﬁner of blank,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "db43a4f56f0b7e20ec06d2483c9debd8",
+    "text": ", P, or M) is input correctly, the format for ECREQ",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "1cde4f77de7e09af80e3ca265f9cd5f4",
+    "text": "or ECREQM will be generated. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "9efbea6ca6a8514240d7f7e8a19ec4ce",
+    "text": ") If ECREQ",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "fa8bd0d2115eec824337ee767331b1a0",
+    "text": ", ECREQP OR ECREQM data is input correctly, the input screen will be returned with the message “REQUEST COMPLETE” on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "9a1479754548cb718199e7c213c05dde",
+    "text": "If ECREQ5, ECREQP OR ECREQM data is input correctly, the input screen will be returned with the message “REQUEST COMPLETE” on line 24.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "33c1e29902d678cbcff13d561dbfd825",
+    "text": "This Page Intentionally Left Blank",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e64e9af325b8610b720a29ee28daf202",
+    "text": "Command Code ECREQ (1) Request Screen:",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "521f0e3f8fec0e6b4aad1e58880b9135",
+    "text": "CREQSRECEIVER-EMP-NUM>nnnnnnnnnn__ FUNCTIONAL-AREA-CD>nINnnn-nn-nnnn  WH-CTRL=vwWy  SECONDARY-SSH>nn-nn-nnnnALL-STATES>XL HA>NLL-STATe1NALL-STATES> We> N> TONDARY-SSH>SECONDARY-SSN>",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d4b66437018505f7f5f3075294d73394",
+    "text": "Exhibit 2.3.27-2 (Cont. 1) (07-01-2012) ECREQ5 Element Line Position Description and Validity 1 1 1–5 COMMAND-CD ECREQ 2 1 6 CC-DEFINER: 5 or P 3 2 7–23 LITERAL: RECEIVER-EMP-NUM 4 2 *24–33 RECEIVER-EMPLOYEE-NUM (used for nnnnnnnnnn or [slashb] will be input only if of the state info is other than the terminal 2 positions must be valid Service Center or Office code, within Service Center’s jurisdiction. eight positions may not be all zeroes. 5 2 38–56 LITERAL: FUNCTIONAL-AREA-CD 6 2 *57 FUNCTIONAL-AREA-CD (used for routing): 0=Collection (default value) 1=Criminal Investigation 2=Examination 3=Taxpayer Services 4–9=Reserved 7 5,7,11,15,19 1–4 LITERAL: TIN 8 3,7,11,15,19 *5–16 EDITED-TIN: nnn-nn-nnnn b 9 3,7,11,15,19 19–26 LITERAL: NAME-CTRL 10 3,7,11,15,19 *27–30 NAME-CTRL: vvvv 11 3,7,11,15,19 33–46 LITERAL: SECONDARY-SSN 12 3,7,11,15,19 *47–58 EDITED-SECONDARY-SSN: nnn-nn-nnn [slashb] or [slashb] 13 4,8,12,16,20 1–11 LITERAL: ALL-STATES 14 4,8,12,16,20 *12 ALL-STATES-IND: X or (input X if a request sent to all states) 15 5, 9, 13, 17, 21 1–3 LITERAL: State abbreviation 16 5,9,13,17,21 *4 INDV-STATE-IND-1: X or [slashb] 17 5,9,13,17,21 6–8 LITERAL: State abbreviation 18 5,9,13,17,21 *9 INDV-STATE-IND-2: X or [slashb] 19 5,9,13,17,21 11–13 LITERAL: State abbreviation 20 5,9,13,17,21 *14 INDV-STATE-IND-3: X or [slashb]",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "ff382b83170311ada8cf3aac12a47e8d",
+    "text": "Exhibit 2.3.27-2 (Cont. 1) (07-01-2012) ECREQ5",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7d60c0fad76d2a6f3812a88ebe7b8f1d",
+    "text": "RECEIVER-EMPLOYEE-NUM (used for routing): nnnnnnnnnn or [slashb] will be input only if the receiver of the state info is other than the terminal operator. First 2 positions must be valid Service Center or District Office code, within Service Center’s jurisdiction. Last eight positions may not be all zeroes.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "e700fa8197dc19c2bf29f5f2a7dda9fc",
+    "text": "0=Collection (default value)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "45c781848ae3a1e775824e40956edae3",
+    "text": "nnn-nn-nnn [slashb] or [slashb]",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "08e01efb9240371b70d0afa33ca34f9a",
+    "text": "LITERAL: ALL-STATES",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "b312389250452de6299809cde5e1fb8d",
+    "text": "ALL-STATES-IND: X or (input X if a request should be sent to all states)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "879d576b4735caefe42829391f5dd129",
+    "text": "LITERAL: State abbreviation",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "1fae1dd8d647769eada01ed5f1af1b65",
+    "text": "21 5,9,13,17,21 16–18 22 5,9,13,17,21 *19 23 5,9,13,17,21 21–23 24 5,9,13,17,21 *24 25 5,9,13,17,21 36–28 26 5,9,13,17,21 *29 27 5,9,13,17,21 31–33 28 5,9,13,17,21 *34 29 5,9,13,17,21 36–38 30 5,9,13,17,21 *39 31 5,9,13,17,21 41–43 32 5,9,13,17,21 *44 33 5,9,13,17,21 46–48 34 5,9,13,17,21 *49 35 5,9,13,17,21 51–53 36 5,9,13,17,21 *54 37 5,9,13,17,21 56–58 38 5,9,13,17,21 *59 39 5,9,13,17,21 61–63 40 5,9,13,17,21 *64 41 5,9,13,17,21 66–68 42 5,9,13,17,21 *69",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "f5ea48205f6602c702381902c93a703e",
+    "text": "Note: *Designates a tabbed element.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "f7967c26ab86adb554dfd037b6a8efc1",
+    "text": "CETVER-ENP-NUM> FUNWA-CTRL>  SECONDAR)il “smareWSECONDAR)L-STATESWe>v > SECONDARY-SSH>JiLL-srates>SECONDARYSECONDARY-SS>",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "80023b2f1e720d4ec27be30425ac2fa5",
+    "text": "Element Line Position Description and Validity 2 1–5 COMMAND-CD ECREQ 2 6 CC-DEFINER: 5 or P 2 7–23 LITERAL: RECEIVER-EMP-NUM 2 36–56 LITERAL: FUNCTIONAL-AREA-CD 3,7,11,15,19 1–4 LITERAL: TIN 3,7,11,15,19 19–26 LITERAL: NM-CTRL 3,7,11,15,19 33–46 LITERAL: SECONDARY-SSN 4,8,12,16,20 1–11 LITERAL: ALL-STATES 5,9,13,17,21 1–3 LITERAL: State abbreviation 10 5,9,13,17,21 6–8 LITERAL: State abbreviation 11 5,9,13,17,21 11–13 LITERAL: State abbreviation 12 5,9,13,17,21 16–18 LITERAL: State abbreviation 13 5,9,13,17,21 21–23 LITERAL: State abbreviation 14 5,9,13,17,21 26–28 LITERAL: State abbreviation 15 5,9,13,17,21 31–33 LITERAL: State abbreviation 16 5,9,13,17,21 36–38 LITERAL: State abbreviation 17 5,9,13,17,21 41–43 LITERAL: State abbreviation 18 5,9,13,17,21 46–48 LITERAL: State abbreviation 19 5,9,13,17,21 51–53 LITERAL: State abbreviation 20 5,9,13,17,21 56–58 LITERAL: State abbreviation 21 5,9,13,17,21 61–63 LITERAL: State abbreviation 22 5,9,13,17,21 66–68 LITERAL: State abbreviation 23 24 1–26 REQUEST COMPLETE",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "909b567ac9da13336bc1a3b1bbd0047a",
+    "text": "ER-ENP-NUN>W-CTRL “sTares>L5 WA N>r1v-000-00-2246% Wi-CTRLMILLJoLL-sTaTES>> WA > T WTNJoLL-sTates>[ Wa> ny>o>e0> W >FUNCTIONAL-AREA-CD>ONDARY-SSN>ONDARY-SSH>ONDARY-551>000-00-3812ONDARY-SSH>",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "a9ec991a2ecaed50a93288d22325a3f5",
+    "text": "ECREQ5 Element Line Position Description and Validity 1 2 1–5 COMMAND-CD ECREQ 2 1 6 CC-DEFINER: 5 or P 3 2 7–23 LITERAL: RECEIVER-EMP-NUM 4 2 38–56 LITERAL: FUNCTIONAL-AREA-CD 5 3,7,11,15,19 1–4 LITERAL: TIN 6 3,7,11,15,19 5–16 EDITED-TIN: (see note) 7 3,7,11,15,19 19–26 LITERAL: NM-CTRL 8 3,7,11,15,19 27–30 NAME-CTRL: (see note) 9 3,7,11,15,19 33–46 LITERAL: SECONDARY-SSN 10 3,7,11,15,19 47–58 EDITED-SECONDARY-SSN: (see note) 11 4, 8, 12, 16, 20 1–11 LITERAL: ALL-STATES 12 4, 8, 12, 16, 20 12 ALL-STATES-IND: (see note) 13 5,9,13,17,21 1–3 LITERAL: State abbreviation 14 5,9,13,17,21 4 INDV-STATE-IND-1: (see note) 15 5,9,13,17,21 6–8 LITERAL: State abbreviation 16 5,9,13,17,21 9 INDV-STATE-IND-2: (see note) 17 5,9,13,17,21 11–13 LITERAL: State abbreviation 18 5,9,13,17,21 14 INDV-STATE-IND-3: (see note) 19 5,9,13,17,21 16–18 LITERAL: State abbreviation 20 5,9,13,17,21 19 INDV-STATE-IND-4: (see note) 21 5,9,13,17,21 21–23 LITERAL: State abbreviation 22 5,9,13,17,21 24 INDV-STATE-IND-5: (see note) 23 5,9,13,17,21 26–28 LITERAL: State abbreviation 24 5,9,13,17,21 29 INDV-STATE-IND-6: (see note) 25 5,9,13,17,21 31–33 LITERAL: State abbreviation 26 5,9,13,17,21 34 INDV-STATE-IND-7: (see note) 27 5,9,13,17,21 36–38 LITERAL: State abbreviation 28 5,9,13,17,21 39 INDV-STATE-IND-8: (see note) 29 5,9,13,17,21 41–43 LITERAL: State abbreviation",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "47f7990d49b7c176268074e8f8b4369f",
+    "text": "Element Line Position 1 2 1–5 2 1 6 3 2 7–23 4 2 38–56 5 3,7,11,15,19 1–4 6 3,7,11,15,19 5–16 7 3,7,11,15,19 19–26 8 3,7,11,15,19 27–30 9 3,7,11,15,19 33–46 10 3,7,11,15,19 47–58 11 4, 8, 12, 16, 20 1–11 12 4, 8, 12, 16, 20 12 13 5,9,13,17,21 1–3 14 5,9,13,17,21 4 15 5,9,13,17,21 6–8 16 5,9,13,17,21 9 17 5,9,13,17,21 11–13 18 5,9,13,17,21 14 19 5,9,13,17,21 16–18 20 5,9,13,17,21 19 21 5,9,13,17,21 21–23 22 5,9,13,17,21 24 23 5,9,13,17,21 26–28 24 5,9,13,17,21 29 25 5,9,13,17,21 31–33 26 5,9,13,17,21 34 27 5,9,13,17,21 36–38 28 5,9,13,17,21 39 29 5,9,13,17,21 41–43",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "b9d85e5442685de9fc321743fa10f490",
+    "text": "Exhibit 2.3.27-4 (Cont. 2) (07-01-2012) ECREQ5",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "c14e0aa4af03de4de878514cc4a0093a",
+    "text": "A request transaction with one or more invalid elements will remain on the screen with an asterisk besides an invalid element(s).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "cfbdf19f18adc7541e1ad4bfaf3062e2",
+    "text": "RECETYER-ENP-NUonnnnnnnnnn“nn-nn-nannynan-an-nnny“nn-nn-nannyFUNCTIONAL-AREA-CDonNDARY-SSH>nnn-nn-nnnnyNDARY-SSH-nn-nn-nnnny{DARY-SSHnnn-nn-nnnyHDARY-SSInnn-nn-nnnnyRY-SSNonnn-nn-nnnnyCONDARY-SS-nnn-nn-nnnyECONDARY-SSHi>nnn-nn-nnnvECONDAR Y-SSH>nnn-nn-nnnnyHDARY-SS-nnn-nn-nnnnyNDARY-SS-nnn-nn-nnnnyNDARY-SSN-nan-nn-nnny.NDARY-SS-nan-nn-nnnny.ONDARY-SSH>nnn-nn-nnnnvCONDARY-SS-nnn-nn-nnnnyHDARY-SSH-nnn-nn-nnnnyHDARY-SSH>nnn-nn-nnnnyNDARY-SSnn-nn-nnnnyECONDARY-SSH>nnn-nn-nnnvECONDARY-SSHnnn-n-nnnnyNDARY-SSH-nnn-nn-nnnny.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "84fb20e4e568843b814dcd84fa161014",
+    "text": "Exhibit 2.3.27-5 (Cont. 1) (07-01-2012) ECREQM Element Line Position Description and Validity 1 1 1–5 COMMAND-CD ECREQ 2 1 6 CC-DEFINER: M 3 2 7–23 LITERAL: RECEIVER-EMP-NUM 4 2 *24–33 5 2 38–56 LITERAL: FUNCTIONAL-AREA-CD 6 2 *57 FUNCTIONAL-AREA-CD (used for routing): Values 0 — Collection (default value) 1 — Criminal Investigation 2 — Examination 3 — Taxpayer Services 4–9 — Reserved 7 3–22 1–4 LITERAL: TIN 8 3–22 *5–16 9 3–22 19–26 LITERAL: NM-CTRL 10 3–22 *27–30 NAME-CTRL: vvvv 11 3–22 33–46 LITERAL: SECONDARY-SSN 12 3–22 *47–59",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "0238ecffe789e275f7a8149c4ec1bcf2",
+    "text": "Exhibit 2.3.27-5 (Cont. 1) (07-01-2012) ECREQM",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "3d3540abcfe8cb78572ef5c11528c62f",
+    "text": "Element Line Position 1 1 1–5 2 1 6 3 2 7–23 4 2 *24–33 5 2 38–56 6 2 *57 7 3–22 1–4 8 3–22 *5–16 9 3–22 19–26 10 3–22 *27–30 11 3–22 33–46 12 3–22 *47–59",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "1b4d7f6d348d4b003406f50d01e626f6",
+    "text": "LITERAL: FUNCTIONAL-AREA-CD",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "6f122dc3b160d0e4cae1ee776e1c3430",
+    "text": "*Designates a tabbed element.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "e48766392c769f762085fef8651df88c",
+    "text": "VER-EMP-NAG> FUNCTIONAL-AREA-CD>WH-CTRL>  SECONDARY-SSH>WA-CTRL>  SECONDARY-SSH>WA-CTRL>  SECONDARY-SSHMi-CTRL>  SECONDARY-SSH>MA-CTRL>  SECONDARY-SSH>MA-CTRL>  SECONDARY-SSH>WA-CTRL>  SECONDARY-SSH>MA-CTR>  SECONDARY-SS>We-CTRL>  SECONDARY-SSH>WA-CTRL>  SECONDARY-SSH>WA-CTRL>  SECONDARY-SSH>MA-CTRL>  SECONDARY-SSH>WA-CTRL>  SECONDARY-SSH>MA-CTRL>  SECONDARY-SSH>WA-CTRL>  SECONDARY-SSH>MA-CTR>  SECONDARY-SSH>Ni-CTRL>  SECONDARY-SSH>WA-CTRL>  SECONDARY-SSH>WA-CTRL>  SECONDARY-SSH>SECONDARY-SSN>",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "2083f61fa3312bdc5c2bbd7fd080d10f",
+    "text": "Exhibit 2.3.27-6 (Cont. 1) (07-01-2012) ECREQM",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "6e9587d411c25c6131200459c8dd52f1",
+    "text": "Exhibit 2.3.27-7 (Cont. 1) (07-01-2012) ECREQM",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "de2ce546158f06a9915716fdadc41590",
+    "text": "A request transaction with one or more invalid elements will remain on the screen with an asterisk beside any invalid element.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "3f2dd5ba27c56769c2a0f3e1974e51b0",
+    "text": "Exhibit 2.3.27-8 (Cont. 1) (07-01-2012) ECREQM",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "48275a35e192713856ee38edcd3f2ade",
+    "text": "Note: A request transaction with one or more invalid elements will remain on the screen with an asterisk beside any invalid element.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-027--2023-02-14.pdf",
+      "page_number": 25
+    }
+  }
+]

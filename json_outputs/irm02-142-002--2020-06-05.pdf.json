@@ -1,0 +1,1307 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "da06ffb30ccaae8ce7bad62dc5944af4",
+    "text": "This PD provides the steps and activities for the management of the Enterprise IT Service Catalog.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "3f7814c6a3c3c59eb86d95b9b89bf5df",
+    "text": "ES-Service_Catalog_Management_Process-V1.0-9042013 Version 1.0",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "e6a3f366ea17a18d99db8db6907f31b0",
+    "text": "This PD is applicable to all IT Organizations, contractors, and other stakeholders having responsibility for offerings and requesting any changes to the Enterprise IT Service Catalog.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "ed5703eb5eae92e82cd744843aeecd4d",
+    "text": "Catalog Management Process and 2.142.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a5876266bfc28e4f5831b4b99b898753",
+    "text": "This document describes the formal process for implementing the requirements of the Service Catalog Management (SCM) process. It provides an operational deﬁnition of the major components of the process and how to perform each step in the process. This document also describes the logical arrangements of steps that are essential to successfully completing the process and achieving its desirable outcome.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1035931c85b7f57261643e6492e867fc",
+    "text": "This document describes the formal process for implementing the of the Service Catalog Management (SCM) process. It provides an operational deﬁnition of the major components of the process and how to perform each step in the process. This document also describes the logical arrangements of steps that are essential to successfully completing the process and achieving its desirable outcome.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d27048c831369bf99d54f9d3ea2fc453",
+    "text": "Overview – This IRM describes the formal process for managing the Enterprise Information Technology (IT) Service Catalog for the SCM process.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "af7808d8af892ed469d1ac57da24facb",
+    "text": "Purpose – This IRM contains procedural steps for SCM process owners, service catalog managers, service owners, Associate Chief Information Officer (ACIO) liaisons and frontline managers.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8779cbf14abc9e55a5cd951dd396a7c3",
+    "text": "Audience – IT organizations providing IT service offerings.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3865d725ee987a99fb584d883acbf188",
+    "text": "Program Owner – UNS is the program owner for SCM. Primary Stakeholders – The primary stakeholders are UNS, Enterprise tions (EOps), ACIO Strategy & Planning (S&P), Application Development Cybersecurity, and Enterprise Services (ES). Program Goals – This IRM provides the fundamental knowledge and proce- dural guidance to maintain the Enterprise IT Service Catalog. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "33e3e6e58b2d0c99ad465d1396ba61f8",
+    "text": ") A process is deﬁned as ″A set of related activities that accomplish a goal″. The document deﬁnes the process description, process goal and tives, role deﬁnitions, policies and other process related attributes. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b4772eb365f784f1b459dc807ab7986c",
+    "text": ") Service Catalog Management is the process to ensure that the Service Catalog is produced and maintained, containing accurate information on all operational services and those being prepared to be run operationally. Catalog Management provides vital information for all other Service ment processes: service details, status and the services interdependencies. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5de80eecac01a1e44faef35acffe51cb",
+    "text": ") The Service Catalog is a database or structured document with information about all available IT Services. The Service Catalog is the only part of the formation Technology Infrastructure Library (ITIL) Service Portfolio published customers, and is used to support the sale and delivery of IT Services. It includes information about deliverables, contact points, ordering and request processes. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e5ee4d05adcee69f7a34da0c14a37fca",
+    "text": ") The process goal describes a speciﬁc purpose or achievement toward the efforts of the process are directed. Each process has a speciﬁc focus when combined with the other processes, forms a comprehensive for delivering and managing services.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "800d6d8ae08d97ee6e15dc8185f3069a",
+    "text": "Program Owner – UNS is the program owner for SCM.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "35cee666f89a9feca536584cef85740d",
+    "text": "Primary Stakeholders – The primary stakeholders are UNS, Enterprise Opera- tions (EOps), ACIO Strategy & Planning (S&P), Application Development (AD), Cybersecurity, and Enterprise Services (ES).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "67bbb0331d2dad9d9012789a55e4b5fb",
+    "text": "Program Goals – This IRM provides the fundamental knowledge and proce- dural guidance to maintain the Enterprise IT Service Catalog.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ca0ba92f4e725b8ebb3f67d9afe4df0f",
+    "text": "2.142 Service Catalog Management",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a0101b9d971aadeae4160af6d776b6a8",
+    "text": "• To ensure that a current Service Catalog is developed, maintained meets the agreed functionality, usability, accessibility, and requirements of all those who need to use it. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9bce6f69bccd6060647257f9e276aee3",
+    "text": ") Process objectives describe material outcomes that are produced or by the process. The following is a list of objectives for this process: • To design, develop and maintain the Service Catalog and its • To ensure information contained in the Service Catalog is current for use and purpose. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9cf6e493924cb31506f0011a6f89296c",
+    "text": ") All proposed changes to this document must be submitted in writing, with porting rationale, to the User and Network Services (UNS), Service and Improvement (SPI), Service Level Management (SLM). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7df89ca4f17501de5c233074461099a8",
+    "text": ") Each process deﬁnes at least one role. Each role is assigned to perform speciﬁc tasks within the process. The responsibilities of a role are conﬁned the speciﬁc process. They do not imply any functional standing within the hierarchy of an organization. For example, the process manager role does imply the role is associated with or fulﬁlled by someone with functional agement responsibilities within the organization. Within a speciﬁc process, there can be more than one individual associated with a speciﬁc role. ally, a single individual can assume more than one role within the process.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "befd7837f52c4a72136b6d3c4d844dbc",
+    "text": "ensure that a current Service Catalog is developed, maintained and the agreed functionality, usability, accessibility, and performance of all those who need to use it.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d9f2be383d8b0854f34601e4e46ddb3c",
+    "text": "objectives describe material outcomes that are produced or achieved the process. The following is a list of objectives for this process:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3c63c5f2da06b29621abafb597eb2fce",
+    "text": "All proposed changes to this document must be submitted in writing, with sup- porting rationale, to the User and Network Services (UNS), Service Planning and Improvement (SPI), Service Level Management (SLM).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "78121a21fb7eb1126e001436725d894a",
+    "text": "Each process deﬁnes at least one role. Each role is assigned to perform speciﬁc tasks within the process. The responsibilities of a role are conﬁned to the speciﬁc process. They do not imply any functional standing within the hierarchy of an organization. For example, the process manager role does not imply the role is associated with or fulﬁlled by someone with functional man",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f5c8e9cac1bd64688da4cd4c01969bc8",
+    "text": "agement responsibilities within the organization. Within a speciﬁc process, there can be more than one individual associated with a speciﬁc role. Addition",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a0a56a1ea5e3944c69224b87706c8b30",
+    "text": "ally, a single individual can assume more than one role within the process.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ed5703eb5eae92e82cd744843aeecd4d",
+    "text": "Catalog Management Process and 2.142.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "50c6b86900a2253071f0a493f259ef90",
+    "text": "Name Description SCM Process Owner The Process Owner is account- able for the overall quality of the process, it is performed as docu- mented and is meeting its objectives. The Role’s responsi- bilities include sponsorship, design, review and continual im- provement of the Process and its Metrics. The role’s responsibilities include: • Deﬁnes appropriate policies and standards to be employed throughout SCM • Ensures that SCM is performed per the agreed and documented process and procedures • Communicates SCM infor- mation or changes as appropriate to ensure awareness • Sponsors, designs, and continually improves SCM and its metrics • Reviews opportunities for SCM enhancements and for improving the efficiency and effectiveness of the process",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "cf01531ac419e8cb6d4b3bcb51ca443b",
+    "text": "Service Catalog Manager The SCM Process Manager is responsible for the operational management of the process. The Process Manager’s responsibili- ties include planning and coordination of all activities required to execute, monitor and report on the process. The role’s responsibilities include: • Ensures all operational services and all services being prepared for operation are recorded and published within the Service Catalog • Works closely with Service Owners to ensure all the information within the Service Catalog is accurate and up to date • Responsible for monitoring the effectiveness of the Service Catalog and make recommendations for im- provement • Deﬁnes the use and location of Service Catalog items • Communicates SCM changes to the impacted stakeholders",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ed5703eb5eae92e82cd744843aeecd4d",
+    "text": "Catalog Management Process and 2.142.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4576544b99d494bd414c95f51bf54c74",
+    "text": "page Service Owner Accountable for the availability, performance, quality, and cost of one or more services. Uses the Service Catalog to set customer expectations. The role’s responsibilities include: • Responsible for obtaining ACIO approvals for any changes to their service offerings • Responsible for and delivery of a service within the agreed service levels • Responsible to the customer for the initiation, transition and ongoing maintenance and support of a service and account- able to the IT director or service management director for the delivery of the service • Responsible for producing quality, secure and resilient designs for new or improved service; this includes producing and maintaining all design documentation • Responsible for testing and validating new and changed service records • Responsible for monitoring incidents related to the service and coordinating efforts to improve it. • Responsible for negotiating service level objectives, Operational Level Agree- ments (OLAs) and Underpinning Contracts (UCs) associated with the service • Responsible for communi- cating service information to impacted customers",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "efbb029c9861b3486d80fb1aa32e2421",
+    "text": "2.142 Service Catalog Management ACIO Liaisons (SCM Working Are knowledgeable about the Group) SCM Process. Can be Service Providers, Service Owners, IT Support Staff or Service Customers. The role’s responsibilities include: • Responsible for monitoring in-ﬂight service catalog ini- tiatives within their own ACIO units and escalating issues as required to the Service Catalog Manager. • Responsible for actively identifying additional ACIO- speciﬁc service catalog initiatives and bringing the initiative into the SCM scope as necessary • Responsible for sharing information across their respective ACIO area to consolidate and collect feedback; comments and questions; and, escalation to the core team. • Responsible for facilitating “reach backs” into the ACIO areas for resources required to drive the design and execution of the SCM initiatives • Responsible for reviewing, prioritizing, and recom- mending SCM improvements by evaluat- ing improvement requests and providing prioritized recommendations to the core team • Responsible for communi- cating SCM information to their ACIO and Deputy ACIO • Responsible for ensuring collaboration with the line of business on Service Catalog requirements • Responsible for actively participating in the working group meetings",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "ed5703eb5eae92e82cd744843aeecd4d",
+    "text": "Catalog Management Process and 2.142.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "be571c9b12e951b7ce7b27c882f823a3",
+    "text": "Frontline Manager The Frontline Manager is respon- sible for reviewing and authorizing the RFC after it is submitted by the Service Owner. (1) Policies outline a set of plans or courses of action that are intended to inﬂuence and determine decisions or actions of a process. Policies provide an element of governance over the process that provides alignment to business vision, mission and goals. Process Management Statement: The SCM process will have a single Process Owner and a separate Process Manager, re- sponsible for implementation and ensuring adherence to the process. The process will be reviewed regularly to ensure that it continues to support the business requirements of the en- terprise. The process will be designed and developed based on Return on Investment (ROI) to the business. Process metrics will be focused on providing relevant information as opposed to merely presenting raw data. People Statement: Roles and responsibilities for the process must be clearly deﬁned and appropriately staffed with people having the required skills and training. The mission, goals, scope and importance of the process must be clearly and regularly communicated by upper management to the staff and business customers of IT. All IT staff (direct and indirect users of the process) shall be trained at the appropriate level to enable them to support the process.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "dfc438c79323f68232905987eeb1f624",
+    "text": "Policies outline a set of plans or courses of action that are intended to inﬂuence and determine decisions or actions of a process. Policies provide an element of governance over the process that provides alignment to business vision, mission and goals.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "167cf5c767d7e456037bda6f7084114c",
+    "text": "(06-05-2020) Program Management and Review",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "dfa5fb9f8b6d91e39edce20abf8dc524",
+    "text": "The SCM process will have a single Process Owner and a separate Process Manager, re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3c441bcd514e2d2d9d713d3f30d9367e",
+    "text": "sponsible for implementation and ensuring adherence to the process. The process will be reviewed regularly to ensure that it continues to support the business requirements of the en",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "194878a6c5820eb27c5652063c2b52d5",
+    "text": "terprise. The process will be designed and developed based on Return on Investment (ROI) to the business. Process metrics will be focused on providing relevant information as opposed to merely presenting raw data.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "2c5d1e1030d7e39af0b3c6899ad4aa0c",
+    "text": "process must be clearly deﬁned and appropriately staffed with people having the required skills and training. The mission, goals, scope and importance of the process must be clearly and regularly communicated by upper management to the staff and business customers of IT. All IT staff (direct and indirect users of the process) shall be trained at the appropriate level to enable them to support the process.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "b0e2b952c96331302be64bf1c822b7b3",
+    "text": "manner understand what they are supposed to do. Without that un",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "575d160bc72467272f176153841cb1d2",
+    "text": "derstanding SCM will not be successful. Modiﬁcations to the SCM process must be approved by the Process Owner. The design of the process must include appropriate inter",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "854b9a02103863aed36202349dab0a83",
+    "text": "faces with other processes to facilitate data sharing, escalation and workﬂow. The process must be capable of providing data to support real",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "363059d685773b8cc3aaab60839f3f54",
+    "text": "time requirements as well as historical/trending data for overall process improvement ini",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "6ab28a43f9c622a5fde94c3acfd51ead",
+    "text": "tiatives. The process must be fully documented, published and accessible to the various stake",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "2b18146c2b907cff6c4fcb96ea44146c",
+    "text": "holders of the process. The process will be reviewed on a periodic basis in order to ensure it continues to support organiza",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "2ca9adb88d4f5dce9fce49f425876dde",
+    "text": "tional goals and objectives (continuous improvement). The process must include Inputs, Outputs, Controls, Metrics, Activi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "2d2a30ca2e299885402cf2a4208fe5ba",
+    "text": "ties, Tasks, Roles and Responsibilities, Tool and Data requirements along with docu",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "cdfbb04a0dcadcd234030e4cffae478b",
+    "text": "mented process ﬂows. The process will be kept straight forward, rational, and easy to un",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "a668afe134e753b0a7f6bfe40a88062c",
+    "text": "derstand.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "ed5703eb5eae92e82cd744843aeecd4d",
+    "text": "Catalog Management Process and 2.142.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "e88ece46f9a96d30a80b70a621cc1c65",
+    "text": "All tools selected must conform to the enterprise architectural standards and direction. Existing in",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "4067568b54da67da0a5145b5883db566",
+    "text": "house tools and technology will be used wherever possible, new tools will only be entertained if they satisfy a business need that cannot be met by current in",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "88b290416302c880918932dadd67d9e4",
+    "text": "house tools. The selection of supporting tools must be process driven and based on the require",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "12b4c62f1fb184c1a8a68c8400309bfe",
+    "text": "ments of the business. Selected tools must provide ease of de",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "50cb8eb98e83efa1d25acf629f2063f5",
+    "text": "ployment, customization and use. Automated workﬂow, notiﬁcation and escalation will be deployed wherever possible to minimize delays, ensure consistency, reduce manual intervention and ensure appropriate parties are made aware of issues requiring their attention. The tools used by this process are the following: Knowledge Incident/Problem Service and Asset Management (KISAM)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "7a0ffbc1545565bf84b3f1be95ab06df",
+    "text": "The tools used by this process are the following:",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "f8826084fc380ff089beed1d3b18f3a7",
+    "text": "Technology and tools should be used to augment the process pabilities, not become an end themselves.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "c35a1e1cf03c01dfb0bff1cb8c53d83a",
+    "text": "10 2.142 Service Catalog Management Scope The scope of the SCM process. Includes identiﬁcation of what is included in and what is excluded from the SCM process. Change Management Policies Change Management policies and procedures. Management Reports The frequency and distribution for regularly produced management reports. (1) Metrics are used for the quantitative and periodic assessment of a process. They should be associated with targets that are set based on speciﬁc business objectives. Metrics provide information related to the goals and objectives of a process and are used to take corrective action when desired results are not being achieved and can be used to drive continual improvement of process effectiveness and efficiency. (2) Management will regularly set targets for process performance, gather quantiﬁ- able data related to different functions of the SCM process, and review that data to make informed decisions and take appropriate corrective action, if necessary. All Measurements will have a deﬁned data dictionary, map to the organizational strategic goals, and be documented in a Process Measurement Plan. The Process Measurement Plan template is available in the IT Process Asset Library (IT PAL). (1) The tailoring guidelines identify the allowable variations of the IT organization’s standard process as needed for adjustments (adding, deleting, modifying) Guidelines relative to speciﬁc operational or functional needs of another organization. Process tailoring is about roles and procedures, not the standard process or major activities deﬁned in this process. All tailoring request, with supporting rationale, must be submitted in writing to and approved by the SCM owner. (1) Terms/Deﬁnitions/Acronyms (1) Terms and Deﬁnitions Term Deﬁnition Critical Success Factor (CSF) Something that must happen if an IT service, process, plan, project or other activity is to succeed. Key Performance Indicators (KPIs) are used to measure the achievement of each CSF. Internal Revenue Manual Cat. No. 72726F (06-05-2020)",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "f7337da92d13a4dfd3f8db2cc70b6395",
+    "text": "Scope The scope of the SCM process. Includes identiﬁcation of what is included in and what is excluded from the SCM process. Change Management Policies Change Management policies and procedures. Management Reports The frequency and distribution for regularly produced management reports.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "337898e6c3d9a9bed2d9865257d846b0",
+    "text": "The tailoring guidelines identify the allowable variations of the IT organization’s standard process as needed for adjustments (adding, deleting, modifying) relative to speciﬁc operational or functional needs of another organization. Process tailoring is about roles and procedures, not the standard process or major activities deﬁned in this process. All tailoring request, with supporting rationale, must be submitted in writing to and approved by the SCM owner.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "ed5703eb5eae92e82cd744843aeecd4d",
+    "text": "Catalog Management Process and 2.142.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "627bc291fb39e6cba53a085518d0fe5b",
+    "text": "2.142.2 page 11 Fit for Purpose The ability to meet an agreed level of utility. Fit for purpose is also used informally to describe a process, conﬁguration item, IT service etc. that can meet its ob- jectives or service levels. Being ﬁt for purpose requires suitable design, implementation, control and maintenance. Fit for Use The ability to meet an agreed level of warranty. Being ﬁt for use requires suitable design, imple- mentation, control and maintenance. IT Service Management The implementation and manage- ment of Quality IT Services that meet the needs of the Business. IT Service Management is performed by IT Service Providers through an appropriate mix of people, Process and Infor- mation Technology. IT Service Provider A Service Provider that provides IT Services to Internal Customers or External Customers. KPIs A metric that is used to help manage an IT service, process, plan, project or other activity. KPIs are used to measure the achievement of CSFs. Many metrics may be measured, but only the most important of these are deﬁned as KPIs and used to actively manage and report on the process, IT service or activity. They should be selected to ensure that efficiency; effective- ness and cost effectiveness are all managed. Operational Level Agreement An agreement between an IT service provider and another part of the same organization. It supports the IT service provider’s delivery of IT services to Customers and deﬁnes the goods or services to be provided and the responsibilities of both parties.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "8e1f31a3ea8165d232dc90a9650cf4d9",
+    "text": "A metric that is used to help manage an IT service, process, plan, project or other activity. KPIs are used to measure the achievement of CSFs. Many metrics may be measured, but only the most important of these are deﬁned as KPIs and used to actively manage and report on the process, IT service or They should be selected to ensure that efficiency; effective",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "9a5b0e31dd629d915ac3712f5bf5f248",
+    "text": "ness and cost effectiveness are all managed.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "e4efa7641645c8cffb9400f3b059e649",
+    "text": "An agreement between an IT service provider and another part of the same organization. It supports the IT service provider’s delivery of IT services to Customers and deﬁnes the goods or services to be provided and the responsibilities of both parties.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "188ec9ad555b7303b6059ddb6f6d554b",
+    "text": "2.142 Service Catalog Management Responsible, Accountable, The Responsible, Accountable, Consulted, and Informed Consulted, and Informed (RACI) model is based on the principle that people act in one of four ways when executing a task. It accounts for the fact that more than one role may be active in performing a speciﬁc task while clearly deﬁning speciﬁc responsi- bilities for that role. While many roles may be involved in a task only one is Accountable for the results. The actions are: • R Responsible for the action (may do the task) • A Accountable for the action (including approval) • C Required to be Consulted on the action • I Required to be Informed of the action If a task does not have an Ac- countable role indicated, then the Responsible role is assumed to be accountable for the task. Request for Change A formal proposal for a change to be made. It includes details of the proposed change, and may be recorded on paper or electroni- cally. The term is often misused to mean a change record, or the change itself. Service A means of delivering value to customers by facilitating outcomes customers want to achieve without the ownership of speciﬁc costs and risks. The term ‘service’ is sometimes used as a synonym for core service, IT service or service package.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "9ffefd1ef884eb49c1fea940bd39fc80",
+    "text": "The Responsible, Accountable, Consulted, and Informed (RACI) model is based on the principle that people act in one of four ways when executing a task. It accounts for the fact that more than one role may be active in performing a speciﬁc task while clearly deﬁning speciﬁc responsi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "e4907ce8542e84cf47d9ffae1d2a140d",
+    "text": "bilities for that role. While many roles may be involved in a task only one is Accountable for the results. The actions are:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "f2eba5325e5b5059cbefbdbf30a6519b",
+    "text": "R Responsible for the action (may do the task)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "db49afa82b6ea091d13b19046d778374",
+    "text": "A Accountable for the action (including approval)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "770c9a69d4726e537129f412820c0d66",
+    "text": "C Required to be Consulted on the action",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "fe4661fd3ecb593c662a0f2c041ced3f",
+    "text": "I Required to be Informed of the action If a task does not have an Ac",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a366a0eaa781cbf40b6ce99a40f16bfb",
+    "text": "countable role indicated, then the Responsible role is assumed to be accountable for the task. A formal proposal for a change to be made. It includes details of the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "0c2dbdb719b1034b32d84cce9d5bb14d",
+    "text": "only one is Accountable for the results. The actions are:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "f2eba5325e5b5059cbefbdbf30a6519b",
+    "text": "R Responsible for the action (may do the task)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "db49afa82b6ea091d13b19046d778374",
+    "text": "A Accountable for the action (including approval)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "770c9a69d4726e537129f412820c0d66",
+    "text": "C Required to be Consulted on the action",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "fe4661fd3ecb593c662a0f2c041ced3f",
+    "text": "I Required to be Informed of the action If a task does not have an Ac",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "c9e0e0de6734726d0affd1f8c914c47a",
+    "text": "countable role indicated, then the Responsible role is assumed to be accountable for the task. A formal proposal for a change to be made. It includes details of the proposed change, and may be recorded on paper or electroni",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "dde6ace18f614b633617319e72e66304",
+    "text": "cally. The term is often misused to mean a change record, or the change itself. A means of delivering value to customers by facilitating outcomes customers want to achieve without the ownership of speciﬁc costs and risks. The term ‘service’ is sometimes used as a synonym for core service, IT service or service package.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "f2eba5325e5b5059cbefbdbf30a6519b",
+    "text": "R Responsible for the action (may do the task)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "db49afa82b6ea091d13b19046d778374",
+    "text": "A Accountable for the action (including approval)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "770c9a69d4726e537129f412820c0d66",
+    "text": "C Required to be Consulted on the action",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "fe4661fd3ecb593c662a0f2c041ced3f",
+    "text": "I Required to be Informed of the action If a task does not have an Ac",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "b8f3ad4371e70cf3920cf19fdf90531c",
+    "text": "countable role indicated, then Responsible role is assumed to be accountable for the task.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a05258b48d705ccaf845b1e360ffb268",
+    "text": "be made. It includes details of the proposed change, and may be recorded on paper or electroni",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "dde6ace18f614b633617319e72e66304",
+    "text": "cally. The term is often misused to mean a change record, or the change itself. A means of delivering value to customers by facilitating outcomes customers want to achieve without the ownership of speciﬁc costs and risks. The term ‘service’ is sometimes used as a synonym for core service, IT service or service package.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "ed5703eb5eae92e82cd744843aeecd4d",
+    "text": "Catalog Management Process and 2.142.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "0a62ce0480ec42a4db789cef975cf933",
+    "text": "2.142.2 page 13 Service Catalog A database or structured document with information about all live IT services, including those available for deployment. The service catalog is part of the service portfolio and contains in- formation about two types of IT service: customer-facing services that are visible to the business; and supporting services required by the service provider to deliver customer-facing services. Service Catalog Management The process responsible for providing and maintaining the service catalog and for ensuring that it is available to those who are authorized to access it. Service Owner A role responsible for managing one or more services throughout their entire lifecycle. Service owners are instrumental in the development of service strategy and are responsible for the content of the service. Service Provider An organization supplying services to one or more internal customers or external customers. Service provider is often used as an abbreviation for IT service provider. Stakeholder A person who has an interest in an organization, project, IT service etc. Stakeholders may be interested in the activities, targets, resources or deliverables. Stakeholders may include customers, partners, employees, shareholders, owners etc. Underpinning Contract A Contract between an IT Service Provider and a Third Party. The Third Party provides goods or Services that support delivery of an IT Service to a Customer. The Underpinning Contract deﬁnes targets and responsibilities that are required to meet agreed Service Level Targets in an SLA.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "35f4c90095b95a78bdfa3400c196453b",
+    "text": "A database or structured document with information about all live IT services, including those available for deployment. The service catalog is part of the service portfolio and contains in",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "ea65cb4b52b7c80b849df290dacb81ed",
+    "text": "formation about two types of IT service: customer",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "f15ac8514cf825a83857b091afcf8044",
+    "text": "facing services that are visible to the business; and supporting services required by the service provider to deliver customer",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "65b83b5edc3746adcae80b264fe79c1d",
+    "text": "facing services.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "c953eb91f23c4549384e1bb06f8fa512",
+    "text": "one or more services throughout their entire lifecycle. Service owners are instrumental in the development of service strategy and are responsible for the content of the service. An organization supplying services to one or more internal customers or external customers. Service provider is often used as an abbreviation for IT service provider. A person who has an interest in an organization, project, IT service etc. Stakeholders may be interested in the activities, targets, resources or deliverables. Stakeholders may include customers, partners, employees, shareholders, owners etc. A Contract between an IT Service Provider and a Third Party. The Third Party provides goods or Services that support delivery of an IT Service to a Customer. The Underpinning Contract deﬁnes targets and responsibilities that are required to meet agreed Service Level Targets in an SLA.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "be169a763666478929842cd66553962b",
+    "text": "A person who has an interest in an organization, project, IT service etc. Stakeholders may be interested in the activities, targets, resources or deliverables. Stakeholders may include customers, partners, employees, shareholders, owners etc.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "f21e339465c9ce911d745ab9aac7132f",
+    "text": "A Contract between an IT Service Provider and a Third Party. The Third Party provides goods or Services that support delivery of an IT Service to a Customer. The Underpinning Contract deﬁnes targets and responsibilities that are required to meet agreed Service Level Targets in an SLA.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "ff62f7c16eefd9d1548132dba1223ffa",
+    "text": "(1) Acronyms Acronyms Deﬁnition ACIO Associated Chief Information Officer CSFs Critical Success Factors EOps Enterprise Operations IPM Integrated Process Management IT Information Technology ITIL Information Technology Infrastruc- ture Library KISAM Knowledge, Incident/Problem, Service and Asset Mangement KPIs Key Performance Indicators OLA Operational Level Agreement RACI Responsible, Accountable, Consulted and Informed RFC Request for Change SCM Service Catalog Management SDP Service Design Package SLM Service Level Management SMPG Service Management Process Group SPI Service Planning and Improve- ment UC Underpinning Contract UNS User and Network Services",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "b726d632c8e0f02816bbb124771285dd",
+    "text": "Process training involves training all stakeholders about key processes that are crucial for an organization to deliver business objectives. Training provides clarity to employees on a set of procedures that needs to be carried out as part of the process and the best possible way to do them. List below the training resources available for this process:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "ed5703eb5eae92e82cd744843aeecd4d",
+    "text": "Catalog Management Process and 2.142.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "e2266c8c98bfde9cf74ae84825f5f1c3",
+    "text": "Service Catalog Management ProcessProcess InputsEnterprise IT ServiceFinalized EnterpriseRequest for Service———p{ Mservice CotalogCatalog Tempi Catelog Reportsatalog Template e atalog Reportsvrosess sevice scm20 scM 30START Publih Service Monitor serviceCatalog Change Catalo Catalog and ReportsReauest (CR) J g and Rep: service | &A Change ervice A ServiceCatalogService Improvement Change Management improvementManagementPian Management Policies PianWeticsPolicies iyi 1Continual \" Continualontinua Change Change Service Catalog ooService Measurement serviceMangement Management Management \"mprovement and Analysis Improvementa38 i2 Service Level service service Catalog Service& Level CatalogT Management oata UpdateL Agreement Data£Knowledge KnowiedgeManzgement ArticleDataKISAMKISAMKISAM",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "053ca8db9d411c35b7de02b30ab357cd",
+    "text": "Service Catalog Management Process",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "d1454f65796c1af81fd7c31b1532ccda",
+    "text": "Figure 2.142.2-1",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "5c1fdaec7cec45ae1facdd7fac7149f3",
+    "text": "Name Description Supplier Knowledge Article An article providing Service Owner written instructions or guidance on process or procedures on IT Services. Service Level An agreement Service Owner Agreement between the service provider and customer on aspects of an IT Service (i.e., quality, availability, responsibilities) Service Improvement A plan at improving Service Catalog Plan services and Manager processes, based on the results of service reviews and process evaluations. Enterprise IT Service A document that Service Owner Catalog Template contains IT Service attributes. Service Design Documentation that Service Owner Package contains IT Services requirements,diagrams,workﬂows,etc. SCM Reports Reports produced Service Catalog from SCM measures. Manager SCM Metrics A means to pinpoint Service Catalog gaps in processes or Manager documentation, high- lighting additional opportunities for op- erationalimprovement.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "60838ab6c6166fca2669f0edaa226d2a",
+    "text": "Each process produces tangible outputs. These outputs can take the form of products or data and can be delivered to a user or stakeholder, or, they can be used as inputs to other processes. Outputs are measurable in terms of quantity and quality.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "23b4e40813905d44f80bc7deb46a67ad",
+    "text": "Each process produces tangible outputs. These outputs can take the form of products or data and can be delivered to a user or stakeholder, or, they can used as inputs to other processes. Outputs are measurable in terms of quantity and quality.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "ed5703eb5eae92e82cd744843aeecd4d",
+    "text": "Catalog Management Process and 2.142.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "04c2c9f5fa53f7a9f4255e13f63faef2",
+    "text": "Name Description Recipient Updated Service An updated Service Service Catalog Catalog Catalog in KISAM Manager that encompasses all operational IT Services provided by IT. An Enterprise IT Service Catalog Template outlining the speciﬁcs of a service: description, availability, depen- dencies, service level, etc. Service Improvement A plan at improving Service Catalog Plan services and Manager processes, based on the results of service reviews and process evaluations.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "8e5e04bdda5edee0c90630547b2e9f17",
+    "text": "An activity is a major unit of work to be completed in achieving the objectives of the process. A process consists of a sequence of related activities that transforms inputs into outputs and performed by the roles deﬁned in the process. Activities are measurable in terms of efficiency and effectiveness. Identify the activities in the process and provide a brief description. The activi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "d1fced1bc371d4057db4bbdd39d739c5",
+    "text": "ties must correspond with the high",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "dfa6a167b6705f3bd84542580a72faff",
+    "text": "level process ﬂow diagram above.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "0430d05829b9a9ea489e903aace7b18c",
+    "text": "An activity is a major unit of work to be completed in achieving the objectives of the process. A process consists of a sequence of related activities that transforms inputs into outputs and performed by the roles deﬁned in the process. Activities are measurable in terms of efficiency and effectiveness. Identify the activities in the process and provide a brief description. The activi- ties must correspond with the high-level process ﬂow diagram above.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "14662954c6c38d7a30c653e9917b7439",
+    "text": "ID Name Description SCM 1.0 Process Service Information gathering for a Service Catalog Change Catalog entry consisting of the Request (CR) service deﬁnition and many important attributes of the service. For new services the information may be gathered from authorized sources such as the Service Owner and/or third-party Service Provider. For existing services this information may be available from the Service Design Package. SCM 2.0 Publish Service Changes are made to the Service Catalog Catalog, tested, validated, and made available to the eligible customers.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "b5cae6569c6c7f664c7dd534a452d767",
+    "text": "Reports KPIs are used to measure progress against the CSFs. (1) A procedure provides the step by step instructions, or tasks, in how to each activity in the process and usually applies to a single role that will be sponsible in performing the task. (1) ID Task Name and Descrip- Role RACI Duties tion Change SCM Deﬁne Service 1.1 The Service Owner works Service R/A Obtains ACIO with Subject Matter Owner approval and Experts (SMEs) to deﬁne complete their ACIO approved new required or changes to their templates. service offering and completes or updates the required templates per KM0048793. The Service Owner Adheres to develops and maintains Service Level required artifacts adhering Management, to the Service Level Man- Knowledge agement, Knowledge Management, Management, Design Co- and Change ordination, Service Management Portfolio Management processes for and Change Management required processes. service docu- mentation. SCM Submit Service Catalog 1.2 Change Request (CR) The Service Owner Service R Submit submits a change request Owner KISAM in KISAM to modify the IT change Service Catalog and request (CR) attaches the required with templates for review. completedrequiredtemplatesattached.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "ed5703eb5eae92e82cd744843aeecd4d",
+    "text": "Catalog Management Process and 2.142.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "a3ac7934a06bf410eba85f5b6e4cb3ff",
+    "text": "2.142.2 page 19 Submit CR for Frontline Manager’sapproval. If the Frontline Manager Frontline A Frontline does not approve, the CR Manager Manager is closed and an email is approves or sent to the requester with denies the the reason the CR was CR in the denied. KISAMChange Man- If the Frontline Manager agement approves, the CR moves module. to SCM 1.3 Review Service Catalog CR. SCM Review Service Catalog 1.3 CR The Service Catalog Service R/A Ensure that Manager reviews the CR Catalog the CR is to identify the type of Manager logged and change being request required (New, Change, Retire or documenta- Catalog Design Modiﬁca- tion attached. tion) and ensures documentation is attached. If the type of request is to Ensure that add a service that already the Service exists, the process moves Catalog does to SCM 1.4 Notify not contain Requester Service duplicate Already Exists. servicerecords. If the type of request is a Work with the New, Change, Retire or Service Catalog Design Modiﬁca- Owner to tion, the process moves obtain addi- to SCM 1.5 Gather tional Required Information or information SCM 1.6 Conduct about the Meetings to Review service. Service Catalog CR.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "b57b77a3b56d9e768f8fd699d34260fd",
+    "text": "2.142 Service Catalog If documentation is not Work with the complete or additional Service information is required, Owner on the the Service Catalog required Manager will work with documenta- the requester and the tion for process moves to SCM complete- 1.5 Gather Additional In- ness. formation. If documentation is complete and no addi- tional information is needed, the process moves to SCM 1.6 Conduct Meetings to Review Service Catalog CR. SCM Notify Requester Service 1.4 Already Exists If the type of CR is to add Service R/A The Service a service that is already Catalog Owner is in the catalog, the Service Manager notiﬁed of the Catalog Manager notiﬁes I existing the requester that the Service service service already exists, Owner record and where they can ﬁnd it, the CR is closes the CR and the closed. process ends. SCM Gather Additional Infor- 1.5 mation The Service Owner or Service R Provide addi- additional SMEs will be Owner tional required to provide addi- required in- tional information about formation. the service. At this point the Service Owner may withdraw and close the CR. The Service Catalog Service A Schedule Manager may setup Catalog meetings if meetings to ensure infor- Manager necessary. mation is completed for the design and build of the service. SCM Conduct Meetings to 1.6 Review Service Catalog CR",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "ed5703eb5eae92e82cd744843aeecd4d",
+    "text": "Catalog Management Process and 2.142.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "6eb5a78f68e1e0c84063461542c10b05",
+    "text": "page 21 The Service Catalog Service R/A The Service Manager establishes Catalog Catalog meetings with the Service Manager Manager Owner and ACIO Service schedules Catalog Liaisons to meetings review and approved or denied the CR, agree to the deﬁnition of the service and ensure there is enough information to support the service going being published. If the CR is denied, the Service C Provide CR is closed and the Catalog advice and process ends. Liaisons guidance as required. This may include performing all or some of the tasks. If the CR is approved, the Service C process moves to SCM Owner 1.7 Incorporate changes to the IT Service Catalog. SCM Incorporate changes to 1.7 the IT Service Catalog Depending on the type of Service A Update CR change to the Service Catalog activities with Catalog, the Service Manager meeting and Catalog Manager, Service approval Owner and ACIO Service date. Catalog Liaisons incorpo- rate the identiﬁed changes (New, Change, Retire or Catalog Design Modiﬁcation and/or identify service hierarchy). The Service Owner Service R Finalizes and ﬁnalizes the required Owner maintains the templates, Service Level required Agreement, Knowledge service docu- Article(s) and any addi- mentation. tional design Uploads the documentation accord- latest docu- ingly and updates the CR. mentation to the CR.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "b2f0adf5cab3e4bd5b2858f4c01160d6",
+    "text": "SCM Update Service Catalog / 1.8 Service Record (Paper Version) The Service Catalog Service R/A Ensure the Manager updates the Catalog paper version paper version (SharePoint Manager of the list) of the Service Service Catalog. Catalog is in sync with the ServiceCatalog in KISAM.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d6b7ea59d44d8e5e048bd62964b7190e",
+    "text": "Service Catalog Management Procedure - 1.0 Process Service Catalog Change Request (CR).",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "ed5703eb5eae92e82cd744843aeecd4d",
+    "text": "Catalog Management Process and 2.142.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "da1018f00e9de00051efc341fe39ce81",
+    "text": "Service Catalog Management Procedure — 1.0 Process Service Catalog Change Request (CR)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "47ba48f433c8b1d8dbcb89781c4043c2",
+    "text": "Service Catalog Management Procedure — 1.0 Process Service Catalog Change Request (CR)SER) NO- CRClosed /END Finalize RequiredTemplates / ServiceDesign Package. Required21| || vemplates/ service EML2 FrontlineH Design Package [P  Submit Service Manager Withdraw CR3 Catalog CR gpproved,g ££ Y2&scM1sA Gather AdditionalDefine SeviceInformationf fscM13NReview Service  [—| B& Catalog CR32o} New, vg crarge s any [ eRetire or& Information Conduct Meetings Incorporate chenges2 e of Change? roved? alog / Servics e of Charg Catalog Complete? \"] to Review service Aoproved YET o the IT service (:' ‘°’gd/(s: a54 Design Catalog CR Catlog ecord (Paper© Modification Version)aL Already Exists> L NO& scM 14Notify RequesterService Already CRClosed/ ENDExists[223= ®]@- v££ 2 yE 2| | sereteve Knowedge change s sers€ S || | Management Management Mznagement publh eniceEa",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "45e1a6c7daae2d0df228d5d3edbe3f72",
+    "text": "(1) ID Task Name and De- Role RACI Duties scription SCM Review Assessment 2.1",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "d521543ec5dbcade8e2899cdef7195a4",
+    "text": "2.142 Service Catalog Once EOPS does their Service R/A Ensure that the assessment, a task is Catalog change request created and assigned to Manager is in Assess & SCM for review. The Evaluate and Service Catalog Technical Autho- Manager reviews that rization phases assessment, updates for processing by and closes the task and EOps. moves the CR to Technical Authorization. If Technical Authoriza- tion is not approved, the CR goes back to Assess & Evaluate. If Technical Authoriza- tion is approved, the CR goes to Plan, Build and Test phase. SCM Test, Review and 2.2 Submit for Approval Once the change has Service R/A Ensure testing is been planned, designed Catalog successful and and built a task is Manager CR is submitted created to SCM for for approval. testing and review. The Service Catalog Service C Test, provide Manager works with the Owner feedback and Service Owner to test ensure require- the change. Any test ments have been errors or modiﬁcations met. are communicated back to the developers during the test phase until testing is successful. Once testing is success- Service Submit for ful, the Service Catalog Catalog Schedule & Manager updates, Manager Approval. reviews and closes the task.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "ed5703eb5eae92e82cd744843aeecd4d",
+    "text": "Catalog Management Process and 2.142.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "fa0eb2588e8b379ad42b1a2622bc0edf",
+    "text": "page The Service Catalog Email Service Manager Submits for Owner imple- Schedule & Approval. mentation date and to submit If approved, an Imple- knowledge article mentation task is information (if created for EOPS to applicable). implement and Knowledge Article task is created for the Service Catalog Manager to notify the Service Owner to submit any knowledge article information. If not approved, the CR goes back to Schedule & Approval phase. SCM Email Service Owner 2.3 Email the Service Service A Email Service Owner implementation Catalog Owner schedule and to submit Manager Knowledge Article infor- mation. Service R Submitting Owner KnowledgeArticleinforma-tion(ifapplicable),UserInstructions,etc.pertainingtotheservice. SCM Verify Implementation in 2.4 Production Once the change has Service A Ensure the been implemented by Catalog changes have EOPS in the production Manager been published environment, the in production and Service Catalog is accurate. Manager validates and notiﬁes the Service Owner that it is now available to their customers.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "c0cb5a7aa255fa714c41d95fa8a01aa8",
+    "text": "Notify Service Owner Service R Provide any ad- that the service is in Owner ditional production. information to its customers. SCM Update Service Catalog 2.5 / Service Record (Paper Version) The Service Catalog Service R/A Ensure the paper Manager updates the Catalog version of the paper version (Share- Manager Service Catalog Point list) of the Service is in sync with Catalog. the Service Catalog in KISAM. SCM Finalize Communica- 2.6 tions The Service Catalog Service R/A Ensure the com- Manager updates and Catalog munications publishes the communi- Manager page in Share- cations to the customers Point is updated and closes the CR. and CR is closed.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "1ffb2e635ce0d48afaba38d08d723654",
+    "text": "2.142.2.2.5.4 (06-05-2020)SCM2.0Publish Service Catalog Diagram",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "ed5703eb5eae92e82cd744843aeecd4d",
+    "text": "Catalog Management Process and 2.142.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "ed0bc2dc3d885b4b443b8d4572a39400",
+    "text": "Figure 2.142.2-3 (1) ID Task Name and De- Role RACI Duties",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "0475de828ed4bf644e39ae2fa13eec3f",
+    "text": "Service Catalog Management Procedure — 2.0 Publish Service Catalog",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "99def4f3bce264e7b3e16e6abc73e65e",
+    "text": "(1) ID Task Name and De- Role RACI Duties scription SCM Analyze Service 3.1 Catalog Reports",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "84bc72afa34628e8064d4299316dc0b2",
+    "text": "The Service Catalog Service R/A Ensure Service Manager periodically Catalog Catalog issues are (monthly, annually) Manager reviewed for reviews generated relevance and reports and metrics and possible improve- identiﬁes quality issues ments. Regular or areas of improve- reports are ments. produced and analyzed for dis- cussion with the Service Owner and SCM ACIO Liaisons. SCM Document Findings for 3.2 Review The Service Catalog Service R/A Identify improve- Manager documents Catalog ment opportunities ﬁndings for review with Manager and document the Service Owners ﬁndings for review and SCM ACIO with the Service Liaisons. Owner, SCM Owner/Managerand/orSCMACIOLiaisons. SCM Conduct Meetings to 3.3 Review Findings The Service Catalog Service R/A Establish Manager conducts Catalog meetings, brief meetings with the Manager members and Service Owner and/or provide input into SCM ACIO Liaisons to the Service review ﬁndings and Catalog SIP. establish a Service Im- provement Plan (SIP) if necessary. If a SIP isn’t needed, SCM C Provide input into the process moves to ACIO the Service SCM 3.1. Liaisons Catalog SIP. If a SIP is needed, the process moves to SCM 3.4. SCM Develop Service 3.4 Catalog Service Im- provement Plan (SIP)",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "ed5703eb5eae92e82cd744843aeecd4d",
+    "text": "Catalog Management Process and 2.142.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "b0f88bd9f7ff5b1245a8a797a0e56460",
+    "text": "The Service Catalog Service R/A Finalize Service Manager creates the Catalog Catalog SIP. SIP and reviews with Manager the Service Owner and/or SCM ACIO Liaisons and ﬁnalizes. SCM C Provide input into ACIO the Service Liaisons Catalog SIP. SCM Present to SCM 3.5 Process Owners / Managers The Service Catalog Service R/A Ensure the SCM Manager briefs man- Catalog Process Owners agement, Service Manager and/or SMPG are Owner and/or SMPG. briefed. The process moves to Ensure the 1.0 Process Service process moves to Catalog Change 1.0 Process Request (CR) with Service Catalog Service Catalog Change Request Manager being the (CR) and a CR is requester for improve- created. ment to the Service Catalog.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "657b4b91241ed4cba51c319e4bd10364",
+    "text": "2.142.2.2.5.6 (06-05-2020) SCM 3.0 Monitor Service Catalog and Reports Diagram",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "23d0ae0dbd34c8f2788444a0f1c0395d",
+    "text": "Service Catalog Management Procedure — 3.0 Monitor Service Catalog and Reports. Ve Rework NO&@ vcss scm31 scM 32 NO) Analyze Service Document Findings% Catalog Reports for Review®o 'y1Ssa vESScM33 vConduct Meetings PEYEYto Review Findings Devtibn sedceo Catalog2 Improvement PlanS s 15} scM3s253 Present to SCMS22 Process Owners /g3 Managers@ 2]&@2i5]S c& =séQ&8 SCM 1.0=] \" Continual process ServiceS8 Measurement seice | ————{ | catalogg8 and Analysis Improvement Change=]Ea Request (CR)",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "e476a91b47207397e6f0c166a37054c9",
+    "text": "Service Catalog Management Procedure — 3.0 Monitor Service Catalog and Reports",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "593454fe1d15ecee112b6b1ca20f5684",
+    "text": "Figure 2.142.2-4",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-142-002--2020-06-05.pdf",
+      "page_number": 34
+    }
+  }
+]

@@ -1,0 +1,3890 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "301092073a7ffcc9830b7047a077907a",
+    "text": "Exhibit 2.3.31-6 Line 7 thru 17, Status has wording to include 2 new values: PND REVIEW and CONF FRAUD and their deﬁnitions.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "35fd8bced84076d8d70f3861a28140d1",
+    "text": "Exhibit 2.3.31-10 Line 7, 14, 21 Status has wording to include 2 new values: PND REVIEW and CONF FRAUD and their deﬁnitions.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "06409600d39f8cde08dd03b265a779be",
+    "text": "EFFECT ON OTHER DOCUMENTS IRM 2.3.31, dated October 16, 2015, is superseded.",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "bfd6face1c91260b128d7fd36a76558f",
+    "text": "CFINK with Taxpayer SSN CFINK with Taxpayer EIN CFINK with CAF number CFINK with Taxpayer TIN and Tax Module Information CFINK with Taxpayer TIN, Tax Module, and CAF Number CFINKH (Mod History) with Taxpayer TIN, MFT, and Tax CFINKH (Rep History) with CAF Number CFINKS with SDLN CFINKT with Taxpayer TIN and CAF Number",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "e40e286726993d970cba40c3eb41b483",
+    "text": "RPINK with All Options KAFFQ with CAF Number Display KAFFQP Display KAFTQ with CAF Number KAFTQP Display",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 4
+    }
+  },
+  {
+    "element_id": "751814e93d2131fc038d75dd0f73e940",
+    "text": "Codes CFINK , RPINK, KAFFQ and KAFTQ for",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "70081e9189be5adf813cc14503fbcc04",
+    "text": ") This IRM section provides the instructions for the use of Centralized tion File (CAF) Inquiry command codes CFINK and RPINK. and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "69a0c1d6ff2df65bafe45586c240a55e",
+    "text": ") Purpose :These section provides instructions for inputting information to research the CAF database. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "96c779dd27f3533a73a755e0210e5483",
+    "text": ") Audience: IRS Tax Technicians and Account Management employees. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8f89d9ab98574f34fc2b48c547821ade",
+    "text": ") Policy Owner: The Director, W&I owns the policies contained herein. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "385ac4d9592322210242d7fd90607bb2",
+    "text": ") Program Owner: Wage & Investment(W&I) is responsible for the tion, procedures, and updates related to the program. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "16ff969816bb76898e04f373428e77d5",
+    "text": ") Primary Stakeholders: Wage & Investment (W&I), Large Business and national (LB&I), Small Business Self-Employed (SB/SE), Tax Exempt and Government Entities (TE/GE), and Enterprise Operations (EOPS) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "04cf69ebcf140e5cfc2c7c11ba3a34a7",
+    "text": ") Program Goals: These are the instructions for using the CAFInquiry IDRS command codes. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "26bc6acb23ab74714b435add2c6f1849",
+    "text": ") The Centralized Authorization File (CAF) is a computerized system of which houses authorization information from both powers of attorney and information authorizations. The CAF system contains several types of among them taxpayer and representatives records, tax modules and tions.: • Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ed321cfae016e9b864ed9ab323f00d04",
+    "text": ", Power of Atterney and Declaration of Representative, • Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9cff25d10edfa426c327ebe8da695291",
+    "text": ", Tax Information Authorization, • Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c55d3117cebba3526a68ac71109415ad",
+    "text": ", United Sates Estate (and Generation-Skipping Transfer) Return, • Oral Disclosure Consent (ODC), a non-written tax information tion, or • Third Party Designee (also known as Check-box authority). These authorizations may be submitted through paper submission via fax or mail or taxpayer contact directly with the Internal Revenue Service (IRS) for oral authorizations. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3fbcfcc6a548e8cdcb96be67e3e36683",
+    "text": ") Different types of authorization authority are: • Representative - An individual the taxpayer has authorized to the taxpayer before the IRS. • Appointee - An individual person or business entity the taxpayer appoints to receive and inspect conﬁdential tax return information verbally or in writing for the type of tax and years or periods speciﬁed by the taxpayer. • Third Party Designee - An individual person that has been to receive and inspect conﬁdential tax return information via or Check-box election on a tax return. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8eb7a77ceaea8f3a938895fe9f64afb0",
+    "text": ") The CAF database also contains: • Taxpayer name, Taxpayer Identiﬁcation Number (TIN), name control signature date • Third Party name, address, telephone number, fax number, name control, CAF number and status information (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "99a012d0f4306ddb8703217a51ab52ff",
+    "text": "Command Codes CFINK , RPINK, KAFFQ and KAFTQ for CAF Inquiry 2.3.31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1bb6961a764a0a1016a0232c06d5426d",
+    "text": "This IRM section provides the instructions for the use of Centralized Authoriza- tion File (CAF) Inquiry command codes CFINK and RPINK.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2e0e960ab3204127b1dce399c9984c81",
+    "text": "Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9ff0ceec80ada24a004b36e447761c35",
+    "text": ", Power of Atterney and Declaration of Representative, Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "486075bf093072829c3682cdb7b23fae",
+    "text": ", Tax Information Authorization, Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0b894fa6afc9206e3141d185552efbd9",
+    "text": ", United Sates Estate (and Generation-Skipping Transfer) Tax Return, Oral Disclosure Consent (ODC), a non-written tax information authoriza- tion, or Third Party Designee (also known as Check-box authority).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5753cbd622eb6b7eb049547bd5dc007c",
+    "text": "Representative",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "857eb2d99c0c558b5da75801c5bd752e",
+    "text": "An individual the taxpayer has authorized to the taxpayer before the IRS. Appointee",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "07a3b7467ff440d83df796906f6b0cb8",
+    "text": "An individual person or business entity the taxpayer appoints to receive and inspect conﬁdential tax return information verbally or in writing for the type of tax and years or periods speciﬁed by the taxpayer. Third Party Designee",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8e4a7d3b6375427e97f4c4d2ff771636",
+    "text": "An individual person that has been designated to receive and inspect conﬁdential tax return information via telephone or Check",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "aa74c9e3b7bd1c7d077024dd0d1d01b9",
+    "text": "box election on a tax return.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b4670bcf151e95d083ad1e297dc31071",
+    "text": "Taxpayer name, Taxpayer Identiﬁcation Number (TIN), name control signature date Third Party name, address, telephone number, fax number, name control, CAF number and status information",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "43f232aeec68ff4470832650536888d4",
+    "text": "Type of tax i.e., (MFT)(s) and tax period(s) Employee Plan number, if applicable Source Document Locator Number (SDLN) Authorization type, such as Form number Representation designation level(s), such as attorney or CPA Notice Indicator",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5766408315e1e2167789596575c74a6c",
+    "text": "either off or on Authority granted by taxpayer(s) to the representative(s), i.e., to third parties, substitute/add representatives, and/or sign return",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "84c408ce65d67bfb19a42e3a3bdbb722",
+    "text": "granted by taxpayer(s) to the representative(s), i.e., disclosure third parties, substitute/add representatives, and/or sign return",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9404485a363f58527c6cd5e4d5fd2769",
+    "text": "need corrective actions taken. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7edff6d384ca65fea1d0218faee3537b",
+    "text": ") Command Code Deﬁnitions: CFINK and RPINK are IDRS command codes used to query the contents of the CAF database. Preceding Command Codes are SUMRY, TXMOD. To research Accounts on the IDRS use CC SUMRY. TXMOD is then used to select the Taxpayer Account information. CFINK and RPINK and their various different formats are then entered to access several different screen displays of data.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "fef7f187847f6497906cf69c695a4aea",
+    "text": "2.3.31.1.3 (01-01-2019) Terms/Deﬁnitions/ Acronyms",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "b9c76c65d736de21d81b8331a29641b3",
+    "text": "Deﬁned Terms or Acronyms",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7c33363527304cf0a4b926f764503f78",
+    "text": "Word or acronym: Meaning: Example of use: ADDR Address Your address is in Detroit, Michigan ADD3P CAF CC that adds a Using ADD3P will add third party to the a third party to the database CAF database ATHLVL Authorization level of The authorization a third party used on level of this third party forms 2848 or 706 indicates she ﬁled as an attorney. AUTH Authorization level of On Form 706 there a third party used on are only 3 authoriza- forms 2848 or 706 tion levels used, Attorney, CPA or Enrolled Agent. BMF Business Master File The BMF data can be accessed on-line. CAF Centralized Authori- The CAF database zation File was not current. cc/CC Command Code The use of cc has sped up processing time. CD Code The zip-code was not ﬁlled in on the document.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d2612b8a48267b236022f7243f93925f",
+    "text": "Codes CFINK , RPINK, KAFFQ and KAFTQ for Inquiry 2.3.31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "5761d5dbb92af35514eac441dacbf63c",
+    "text": "CFINK(x) CAF CC that queries The CFINK cc is used the database (The x to view what data can be a deﬁner or a exists on the CAF space depending on database. the version of the CC desired.) CNTY County (used in the The county name was foreign address data) Wayne for Detroit. CONF FRAUD a CAF number status The Tax Examiner meaning conﬁrmed changed the status to fraud “conﬁrmed fraud” since her manager told her to. DB2 The type of database The CAF database is CAF exists on. a IBM DB2 one. EIN Employer Identiﬁca- The business tion Number Taxpayer identiﬁer is called an EIN. EPMF Employee Plan EPMF contains Master File various Employer Plans, used for their employees. EXT Extension number The telephone used with a number was 123-45- telephone number. 6789, with an ext of 123. FRM3P CAF CC that paints The third party I have the ADD3P screen to on this form does not add a third party to appear in my queries the database of CAF, so I will enter FRM3P to add this one. ID Identiﬁcation My SSN is an identiﬁ- cation number. IDRS Integrated Data IDRS only contains Retrieval System accounts being worked on, not all accounts the IRS maintains. IMF Individual Master File The IMF is considered a ﬁle of all Individual Taxpayers.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d2612b8a48267b236022f7243f93925f",
+    "text": "Codes CFINK , RPINK, KAFFQ and KAFTQ for Inquiry 2.3.31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "c4325924a7e64fe2a3c112151fbadf59",
+    "text": "MOD/UNM Modiﬁed or Unmodi- The Unmodiﬁed Form ﬁed for an indicator 2848 had no text from on Form 2848 the Taxpayer on a speciﬁc matter. N/C Name Control The name control is usually the ﬁrst 4 characters of the Tax- payer’s (IMF) last name. NAP National Account We check the NAP for Proﬁle every Taxpayer. NMF Non-Master File I am not sure what is maintained on the NMF. NO Number This number is long. NUM Number The CAF number is 9-digits. OPR Office of Professional OPR has oversight on Responsibility most third parties. PHO Phone as in I have no telephone telephone. number. PLN Plan as in report-plan The report/plan number. number was for a health plan for employees. PND REVIEW A CAF number status Criminal Investagators meaning pending are looking at this review CAF number for miss- use, we entered a “P” in status, which means Pending Review. POA Power of Attorney The POA was signed by the Taxpayer. PREREQ Prerequisite The prerequisite for CFINK in this case was INOLE. PROV Province, a The third party lived in component of a Ontario, which is a foreign address. province of Canada. PTIN a 9-alpha-numeric Not all third parties assigned to a Return have a PTIN. Preparer by the IRS.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "64621116ab842d3d7856fd76661e1fe4",
+    "text": "R/W Revoke or With- This indicator Revoke/ drawal, used in CAF Withdraw contained a processing to indicate X which means the who wanted the Taxpayer contacted deleting of an Autho- us to revoke this third rization. party authorization. RCT Receipts of a third The third party party. Will deﬁne receipts indicated he what indicators were can receive Taxpayer on a Form 2848/ Notices. 8821/706 REP Representative or The representative or third party. third party must always have a CAF number. REPN Representative A CAF number is number or CAF usually given to indi- number viduals, but sometimes a business obtains them also. REPORT PLAN Uniquely identiﬁes a The report/plan NUMBER particular employee number is part the pension plan (EPMF) way the CAF or an indication of a database stores report number (BMF). Taxpayer information Part of the identiﬁer so we can match MF for a Taxpayer. processing. RN/C Representative name The third party ‘s full control name was Jane Doe, so her rn/c was DOEx, where x is a space. RPINK CAF CC that queries RPINK is used to the database for a research existing third speciﬁc third party parties on the using the name (and database. optional other identi- fying components) SDLN Source Document The SDLN is useful in Locator Number the paper world to pull a CAF document from the Federal Records Center. TAXPRD Tax Period The tax period was 201912 TC Transaction Code CAF creates the Transaction Code = 960.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d2612b8a48267b236022f7243f93925f",
+    "text": "Codes CFINK , RPINK, KAFFQ and KAFTQ for Inquiry 2.3.31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "1110b9d359ab436afaef639b4ffdff1d",
+    "text": "TIA Tax Information Au- A Form 8821 title thorization name is TIA. TIN Taxpayer Identiﬁca- A TIN can be a SSN tion Number or EIN. TP Third Party A third party is another name for rep- resentative. TXMOD or TXMD Tax Module A Tax Module identiﬁ- ers are MFT, Tax Period and Report- Plan Number. TXPRD/TXPD Tax Period The tax period was 201912 UN/MOD Modiﬁed or Unmodi- The Unmodiﬁed Form ﬁed for an indicator 2848 had no text from on Form 2848 the Taxpayer on a speciﬁc matter. UNAVAIL Unavailable The CAF database is unavailable until noon today. UNDEL Undeliverable, as in This representative’s being mailable or not. copy of the Notice was sent back to the campus due to having an undeliverable address. Unpostable A transaction which The TC960 did not failed to match a post to IMF, according Master File Account to the IMFOL display, for various reasons. so it is considered an Usually because a UNPOSTABLE. business rule was not followed, but can be a programming issue also. UPNCF CAF CC that UPNCF is used to modiﬁes a CAF change the CAF number. number to some other unused value. UPRCF CAF CC that The UPRCF was modiﬁes third party used to change the data. third party address.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "fff51befc859acc3377fa0c4e8432a15",
+    "text": "Period and Report- Plan Number. TXPRD/TXPD Tax Period The tax period was 201912 UN/MOD Modiﬁed or Unmodi- The Unmodiﬁed Form ﬁed for an indicator 2848 had no text from on Form 2848 the Taxpayer on a speciﬁc matter. UNAVAIL Unavailable The CAF database is unavailable until noon today. UNDEL Undeliverable, as in This representative’s being mailable or not. copy of the Notice was sent back to the campus due to having an undeliverable address. Unpostable A transaction which The TC960 did not failed to match a post to IMF, according Master File Account to the IMFOL display, for various reasons. so it is considered an Usually because a UNPOSTABLE. business rule was not followed, but can be a programming issue also. UPNCF CAF CC that UPNCF is used to modiﬁes a CAF change the CAF number. number to some other unused value. UPRCF CAF CC that The UPRCF was modiﬁes third party used to change the data. third party address.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "ddd4c76e296e55fb2177b5a91121331d",
+    "text": "IDRS Terminal UPTCF CAF CC that The Taxpayer modiﬁes Taxpayer changed her name so data. UPTCF was entered to change the Taxpayer name on the database. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "245e55e9610d4b99c7498dd746dee8fc",
+    "text": ") The Centralized Authorization File (CAF) contains information regarding rizations that taxpayers have given third parties (“representatives, or reps”/ “appointees”) for various tax matters within their accounts. This information File used to determine whether an individual claiming to be a taxpayer’s rep/ Codes appointee is, in fact, authorized to represent or act on the taxpayer’s behalf, — to receive the information she/he requests. It can also be used to direct refunds and/or copies of notices and correspondence to third parties when thorized. The command codes (CCs) available for research are: • CC CFINK — See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "7a1a5ba32240b6becd657174ebee269c",
+    "text": "Command Code CFINK — and Use, and • CC RPINK — See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "b6208835baca984b927ef154bb0ba4fa",
+    "text": "Command Code RPINK — and Use. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "be53aea82837a6a3c186a9e9ea5b1911",
+    "text": ") This command code is used to research the CAF in any of several ways: • When CC CFINK is input with taxpayer information [i.e. Taxpayer CFINK ﬁcation Number (TIN), File Source, and TIN Type] only, a list of and Use present for the taxpayer will be displayed. • When CC CFINK is input with third party information (i.e. CAF File Source, and TIN Type) only, all information (e.g. Name and Address) present on the CAF for that third party will be displayed. • When CC CFINK is input with taxpayer information and module tion [i.e. Master File Tax Code (MFT), Tax Period, and Plan Number], authorizations present on the CAF for that module will be displayed. • When CC CFINK is input with taxpayer information, module and third party information , the speciﬁc details of the authorization be displayed. Note: After the conversion of CAF from UNISYS to IBM in",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "113761b2c917630c70fe356fd73899fb",
+    "text": ", signature dates are reﬂected as",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "6e230d2eaa48347623b586b99a7f2933",
+    "text": "This was a value placed in some records during the conversion process because no date was available. • If a complete match on the taxpayer, module, and third party is not made, appropriate error messages will be displayed. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "f123a44bbc3e8006ad9e062f0325cb27",
+    "text": "below. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "dfca5da56b8cdb627309e2aa5a45e17b",
+    "text": "Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "0de4c281b35e5f8ad9091a91aaedb42b",
+    "text": "contains a complete description of the command codes, used by the CAF Units only, for updates: KAFRM, KAFAD, UPTCF, UPRCF, UPNCF, FRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "4a937cef2d55eb5d85359f35f974dad9",
+    "text": "P, ADD",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "dc476be2e7b79ec6388e6998ab615a19",
+    "text": "P and KAFMC. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "f59b319cf1147e7e90669f53e8a8a130",
+    "text": ") Error Messages — line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "d0ecb53a41efec8606ac458d4ecac682",
+    "text": "— These messages result in no or partial CAF formation being displayed.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "89686b20c2b82dfba40cf0732de2eccd",
+    "text": "2.3 IDRS Terminal Responses UPTCF CAF CC that The Taxpayer modiﬁes Taxpayer changed her name so data. UPTCF was entered to change the Taxpayer name on the database. 2.3.31.2 (1) The Centralized Authorization File (CAF) contains information regarding autho- (01-01-2011) rizations that taxpayers have given third parties (“representatives, or reps”/ Centralized “appointees”) for various tax matters within their accounts. This information is Authorization File used to determine whether an individual claiming to be a taxpayer’s rep/ Inquiry Command Codes appointee is, in fact, authorized to represent or act on the taxpayer’s behalf, or CFINK and RPINK — to receive the information she/he requests. It can also be used to direct General Description refunds and/or copies of notices and correspondence to third parties when au- thorized. The command codes (CCs) available for research are: • CC CFINK — See IRM 2.3.31.3 Command Code CFINK — Description and Use, and",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "b606f110f3d3e9a95afcd9eb0e6fabd7",
+    "text": "2.3 IDRS Terminal Responses UPTCF CAF CC that The Taxpayer modiﬁes Taxpayer changed her name so data. UPTCF was entered to change the Taxpayer name on the database.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "cc082309daf40f453c72d037088564b5",
+    "text": "The Centralized Authorization File (CAF) contains information regarding autho- rizations that taxpayers have given third parties (“representatives, or reps”/ “appointees”) for various tax matters within their accounts. This information is used to determine whether an individual claiming to be a taxpayer’s rep/ appointee is, in fact, authorized to represent or act on the taxpayer’s behalf, or to receive the information she/he requests. It can also be used to direct refunds and/or copies of notices and correspondence to third parties when au- thorized. The command codes (CCs) available for research are:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8d0e029e7d03ca40a195b03df11127ed",
+    "text": ") The Centralized Authorization File (CAF) contains information regarding autho- rizations that taxpayers have given third parties (“representatives, or reps”/ “appointees”) for various tax matters within their accounts. This information is used to determine whether an individual claiming to be a taxpayer’s rep/ appointee is, in fact, authorized to represent or act on the taxpayer’s behalf, or to receive the information she/he requests. It can also be used to direct refunds and/or copies of notices and correspondence to third parties when au- thorized. The command codes (CCs) available for research are:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "809c1862979b2970d22cca308ac411ed",
+    "text": "CC CFINK — See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "06b72eb3eeac2ab01b7e3aafbc0ce262",
+    "text": "Command Code CFINK — Description and Use, and CC RPINK — See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "f29896b8c06be800e384f68a0e05a754",
+    "text": "Command Code RPINK — Description and Use.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "63b7f46fe0ddbfe336ae0d1cd68bc8d3",
+    "text": "command code is used to research the CAF in any of several ways: • When CC CFINK is input with taxpayer information [i.e. Taxpayer ﬁcation Number (TIN), File Source, and TIN Type] only, a list of present for the taxpayer will be displayed. • When CC CFINK is input with third party information (i.e. CAF File Source, and TIN Type) only, all information (e.g. Name and Address) present on the CAF for that third party will be displayed. • When CC CFINK is input with taxpayer information and module tion [i.e. Master File Tax Code (MFT), Tax Period, and Plan Number], authorizations present on the CAF for that module will be displayed. • When CC CFINK is input with taxpayer information, module and third party information , the speciﬁc details of the authorization will be displayed. Note: After the conversion of CAF from UNISYS to IBM in",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "113761b2c917630c70fe356fd73899fb",
+    "text": ", signature dates are reﬂected as",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "0f22f34fac5c0da871a518e996facc77",
+    "text": "This was a default value placed in some records during the conversion process because no date was available. • If a complete match on the taxpayer, module, and third party is not made, appropriate error messages will be displayed. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "f123a44bbc3e8006ad9e062f0325cb27",
+    "text": "below. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "dfca5da56b8cdb627309e2aa5a45e17b",
+    "text": "Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "0de4c281b35e5f8ad9091a91aaedb42b",
+    "text": "contains a complete description of the command codes, used by the CAF Units only, for updates: KAFRM, KAFAD, UPTCF, UPRCF, UPNCF, FRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "4a937cef2d55eb5d85359f35f974dad9",
+    "text": "P, ADD",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "1311e1a89a81d9ce429e83ea3f571a42",
+    "text": "P and KAFMC.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "a9fd00700ca5cbbd3a85a17f93564c4a",
+    "text": "This command code is used to research the CAF in any of several ways:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "855bc67c28b42099f5902f220668beff",
+    "text": "When CC CFINK is input with taxpayer information [i.e. Taxpayer Identi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "b3586dfc9052d293a40eeab8fb301627",
+    "text": "ﬁcation Number (TIN), File Source, and TIN Type] only, a list of modules present for the taxpayer will be displayed. When CC CFINK is input with third party information (i.e. CAF Number, File Source, and TIN Type) only, all information (e.g. Name and Address) present on the CAF for that third party will be displayed. When CC CFINK is input with taxpayer information and module informa",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "5a74e8a827a4ec34e529e29db76003b6",
+    "text": "tion [i.e. Master File Tax Code (MFT), Tax Period, and Plan Number], all authorizations present on the CAF for that module will be displayed. When CC CFINK is input with taxpayer information, module information, and third party information , the speciﬁc details of the authorization will be displayed.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "a578736eb387996a59f18371f2a29439",
+    "text": "Note: After the conversion of CAF from UNISYS to IBM in",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "88d919345939f24c78890184324a6791",
+    "text": ", some signature dates are reﬂected as",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "f4ec3e9d5742b3bb2af71bc936e2e24c",
+    "text": "This was a default value placed in some records during the conversion process because no date was available.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "80faf57235e97137eb3fc2e8af40c7d7",
+    "text": "If a complete match on the taxpayer, module, and third party is not made, appropriate error messages will be displayed. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "e25a098cf52f2d89469316d25249d752",
+    "text": "below. IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "dfca5da56b8cdb627309e2aa5a45e17b",
+    "text": "Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "0de4c281b35e5f8ad9091a91aaedb42b",
+    "text": "contains a complete description of the command codes, used by the CAF Units only, for updates: KAFRM, KAFAD, UPTCF, UPRCF, UPNCF, FRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "4a937cef2d55eb5d85359f35f974dad9",
+    "text": "P, ADD",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "1311e1a89a81d9ce429e83ea3f571a42",
+    "text": "P and KAFMC.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "58bf7820ca0346a8e8a6fdfaa98ce776",
+    "text": "Error Messages — line 24 — These messages result in no or partial CAF In- formation being displayed.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "99a012d0f4306ddb8703217a51ab52ff",
+    "text": "Command Codes CFINK , RPINK, KAFFQ and KAFTQ for CAF Inquiry 2.3.31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d74164530cfa753d84875e0a9809744e",
+    "text": "page ERROR MESSAGE REASON ACTION NO RECORD OF T/P You input a one-line Correct the TIN and ACCOUNT CFINK with a re-enter taxpayer TIN (SSN or —or— EIN) — there is no add the taxpayer. such taxpayer on the CAF. NO RECORDS You input a one-line Correct the CAF WERE FOUND THAT CFINK with a CAF number and re-enter MATCH YOUR number— the third —or— SEARCH CRITERIA party is not on the add the third party. CAF. NO DATA FOR You input a three-line Correct the CAF SPECIFIED REP CFINK requesting number and re-enter TAXPAYER ON CAF speciﬁc module infor- —or— mation including a add the third party. CAF number — the third party is not on the CAF. NO MODULES You input a two-line Correct the module PRESENT FOR CFINK requesting info and re-enter TAXPAYER speciﬁc module infor- —or— mation (by MFT, Tax add the module. Period, and Plan Number) — there is no such module for this taxpayer. NO RECORD OF You input a three-line Correct the TIN and TAXPAYER CFINK requesting re-enter ACCOUNT - REPRE- speciﬁc module/CAF —or— SENTATIVE ON CAF number information add the taxpayer. (probably as prereq for KAFAD) — the third party is on the CAF, but the taxpayer is not. REP HAS NO AU- You input a three-line Correct the MFT/TAX THORITIES FOR CFINK requesting PERIOD and re-enter THIS TAX PERIOD speciﬁc module/CAF —or— REP EXISTS ON number information add the authorization. CAF (probably as prereq for KAFAD) — the third party is on the CAF, but is not au- thorized for this module.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d05524518ec3e1faf1a73b2524ff6e9d",
+    "text": "ERROR MESSAGE REASON ACTION NO MODULES The taxpayer is on Correct the MFT/TAX PRESENT FOR the CAF but has no PERIOD and re-enter TAXPAYER authorizations. —or—addthe authorization. INVALID SSN/EIN The TIN is in the Correct the TIN and MUST BE NUMERIC incorrect format. re-enter. INVALID MFT CODE The MFT is missing Correct the MFT and or incorrect. re-enter. INVALID TAX The tax period is Correct the tax period PERIOD missing or incorrect. and re-enter. CAF DATABASE CAF database is not Contact CAF pro- NOT AVAILABLE AT accessible gramming staff in THIS TIME Detroit INVALID CAF The CAF number is Correct the CAF NUMBER incorrect number and re-enter INVALID SSN OR The TIN entered is Correct the TIN and EIN CFINK incorrect re-enter CAF NUMBER The CAF number is Re-enter command MUST BE ENTERED required for with CAF number command entered",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "8ef619a3319786b12e2f7b87512c4545",
+    "text": ") Command Code CFINK is a prerequisite for command code KAFRM, which requests the formats of the CAF input command codes, KAFAD, UPTCF, UPRCF, and UPNCF. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "91972a65375f48b7e1855042fdbc1930",
+    "text": ") Command Code CFINK input with the TIN and File Source; MFT and tax period (and plan in some instances); and CAF Number with File Source, be followed by a KAFRM. If the taxpayer is not on the database, KAFRM will bring back a KAFADT format, allowing for input of a taxpayer and his/her authorization If the taxpayer already exists on the database, KAFRM will bring back a KAFADM format, allowing for input of the taxpayer’s authorization (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "4c6c2ddac82da899953ea41dc5ff2153",
+    "text": ") Command Code CFINK input with the TIN and File Source may only be followed by a KAFRMT, provided a record for the Taxpayer is found on the CAF. This will bring back UPTCF format, allowing for update of taxpayer mation. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "0938296a5b39596a07580866e5a6effa",
+    "text": ") Command Code CFINK input with the CAF Number and File Source may followed by a KAFRMR, provided a record for the third party is found on CAF. This will bring back UPRCF format, allowing for update of third party formation. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "57a4c2bbdca2d64ea1ae778bcd03269a",
+    "text": ") CFINK input with the CAF Number and File Source may also be followed KAFRMN, provided a record for the third party is found on the CAF. This bring back UPNCF format, allowing a CAF number merge.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "830e736ccc8411645e30157a099f57b5",
+    "text": "Command Code CFINK input with the CAF Number and File Source may be followed by a KAFRMR, provided a record for the third party is found on the CAF. This will bring back UPRCF format, allowing for update of third party in-",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "24a3c6a9cc77869d0addded98591a055",
+    "text": "CFINK input with the CAF Number and File Source may also be followed by a KAFRMN, provided a record for the third party is found on the CAF. This will bring back UPNCF format, allowing a CAF number merge.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "99a012d0f4306ddb8703217a51ab52ff",
+    "text": "Command Codes CFINK , RPINK, KAFFQ and KAFTQ for CAF Inquiry 2.3.31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "5e4ae8e54e9603862c8d410e912ba08b",
+    "text": "MESSAGE REASON ACTION INVALID SSN/EIN SSN/EIN is either Correct the TIN and MUST BE NUMERIC missing, not numeric re-enter. or not in the correct format INVALID MFT CODE The MFT is missing Correct the MFT and or incorrect. re-enter. INVALID TAX The tax period is Correct the tax period PERIOD missing or incorrect. and re-enter. MATCHING No record of taxpayer Correct the TIN and TAXPAYER for entered TIN re-enter. RECORD NOT FOUND NO HISTORY Taxpayer has no RECORDS FOR history records THIS MFT AND TAX PERIOD PROBLEM GETTING Database error Contact CAF pro- TIMESTAMP gramming staff in Detroit. TIN VALIDATION The TIN entered is Correct the TIN and ERROR not valid re-enter. xxxxxxxx DB2 IS UN- The requested CAF Wait for a few minutes AVAILABLE - database is not and retry, if problem PLEASE TRY AGAIN available still exists, contact CAF programming staff in Detroit. ERROR: SELECT An error occurred Wait for a few minutes xxxxxxxxxxx CALL while trying to read and retry, if problem CAF SYSTEMS the CAF database. still exists, contact CAF programming staff in Detroit.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "16964cfee4c7f0fff43a35d44a9d50d3",
+    "text": "page 12 2.3 IDRS Terminal Responses MESSAGE REASON ACTION ERROR ON An error occurred Wait for a few minutes DECLARE OF while trying to read and retry, if problem xxxxxxx CALL the CAF database. still exists, contact SYSTEMS CAF programming staff in Detroit. OPEN ERROR An error occurred Wait for a few minutes xxxxxxxxxx CALL while trying to open and retry, if problem SYSTEMS the CAF database. still exists, contact CAF programming staff in Detroit. ERROR ON FETCH An error occurred Wait for a few minutes OF xxxxxxxxxx CALL while trying to and retry, if problem SYSTEMS retrieve data from the still exists, contact CAF database. CAF programming staff in Detroit. ERROR ON CLOSE An error occurred Wait for a few minutes OF xxxxxxxxxx CALL while trying to close and retry, if problem SYSTEMS the CAF database. still exists, contact CAF programming staff in Detroit. COSIGN DATA NOT POA co-signer is Contact CAF pro- FOUND - CALL indicated but no gramming staff in SYSTEMS taxpayer found Detroit. 2.3.31.3.5 (1) This command code is used to research information relating to a speciﬁc third (01-01-2010) party. The CAF number is entered and the current information is displayed on Command Code CFINKH the top portion of the screen on the ﬁrst page and history information on the (Rep History)— bottom half. Information on the history record that is different is highlighted. As Description and Use the information is paged through, the bottom half of data will be moved to the top half and the next history will be placed on the bottom with differences high- lighted. Beginning and ending dates are optional and may be used to narrow down the history displayed from the most recent to the oldest. If only a beginning date is entered, history from that date to present will be displayed. If both dates are entered, history will only display for that range of dates. 2.3.31.3.6 (1) Error Messages — These messages result in no or partial CAF Information (01-01-2010) being displayed. CFINKH (Rep History) — Terminal Responses MESSAGE REASON ACTION NO CURRENT No current data RECORD FOUND exists (could have",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d8dca26e86a4cfdc75eb405536a0e081",
+    "text": "MESSAGE REASON ACTION ERROR ON An error occurred Wait for a few minutes DECLARE OF while trying to read and retry, if problem xxxxxxx CALL the CAF database. still exists, contact SYSTEMS CAF programming staff in Detroit. OPEN ERROR An error occurred Wait for a few minutes xxxxxxxxxx CALL while trying to open and retry, if problem SYSTEMS the CAF database. still exists, contact CAF programming staff in Detroit. ERROR ON FETCH An error occurred Wait for a few minutes OF xxxxxxxxxx CALL while trying to and retry, if problem SYSTEMS retrieve data from the still exists, contact CAF database. CAF programming staff in Detroit. ERROR ON CLOSE An error occurred Wait for a few minutes OF xxxxxxxxxx CALL while trying to close and retry, if problem SYSTEMS the CAF database. still exists, contact CAF programming staff in Detroit. COSIGN DATA NOT POA co-signer is Contact CAF pro- FOUND - CALL indicated but no gramming staff in SYSTEMS taxpayer found Detroit.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d3c142a48247d89056d507323a8caf49",
+    "text": "This command code is used to research information relating to a speciﬁc third party. The CAF number is entered and the current information is displayed on the top portion of the screen on the ﬁrst page and history information on the bottom half. Information on the history record that is different is highlighted. As the information is paged through, the bottom half of data will be moved to the top half and the next history will be placed on the bottom with differences high",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "0ca855934b80154db8ae0c5f1f0e31b8",
+    "text": "lighted. Beginning and ending dates are optional and may be used to narrow down the history displayed from the most recent to the oldest. If only a beginning date is entered, history from that date to present will be displayed. If both dates are entered, history will only display for that range of dates.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "72e513ee33ccf0ec2cac7463a3945597",
+    "text": "2.3.31.3.5 (01-01-2010) Command Code CFINKH (Rep History)— Description and Use",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "f0cc3adb77f72e991f62a37013805c66",
+    "text": "date is entered, history from that date to present will be displayed. If dates are entered, history will only display for that range of dates.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "bc3b83083f71e512025e926ad98080a5",
+    "text": "— These messages result in no or partial CAF Information",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d58867abc4e16bfd2b31a5489a74d564",
+    "text": "MESSAGE REASON ACTION NO CURRENT No current data RECORD FOUND exists (could have FOR CAF NUM been merged) NO HISTORY Third party has no RECORDS FOUND history.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d2612b8a48267b236022f7243f93925f",
+    "text": "Codes CFINK , RPINK, KAFFQ and KAFTQ for Inquiry 2.3.31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "607e1a5ea49c1bb33aea02478da9eade",
+    "text": "page MESSAGE REASON ACTION NO HISTORY Third party has no Correct date(s) and RECORDS FOUND history for entered re-enter FOR DATE date(s) ENTERED INVALID CAF The CAF number is Correct the CAF NUMBER incorrect number and re-enter INVALID CAF NUM The CAF number is Correct the CAF MUST BE NUMERIC incorrect number and re-enter BEGINNING DATE The date entered Correct the date and MUST BE NUMERIC must be numeric and re-enter in the format mmddyyyy INVALID BEGINNING The month entered Correct the date and DATE - MONTH must be between 01 re-enter and 12 INVALID BEGINNING The day entered Correct the date and DATE - DAY must be between 01 re-enter and 31 ENDING DATE The date entered Correct the date and MUST BE NUMERIC must be numeric and re-enter in the format mmddyyyy INVALID ENDING The month entered Correct the date and DATE - MONTH must be between 01 re-enter and 12 INVALID ENDING The day entered Correct the date and DATE - DAY must be between 01 re-enter and 31 xxxxx HISTORY Problem with Third Wait for a few minutes DISTINCT CURSOR party database and retry, if problem - ERROR still exists, contact CAF programming staff in Detroit.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "91aa3b6fa9b2da802098a89ca9252f4c",
+    "text": "(1) Error Messages — No database information will be returned:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "8fa5eedb45bcb103b220c90c9f4cb6f5",
+    "text": "MESSAGE REASON ACTION PLEASE CORRECT SDLN is either Correct and re-enter. INVALID DATA missing, incomplete or not in the format nn-nnnn-nn-nnn-nn SDLN NOT FOUND SDLN entered does Correct and re-enter. ON DATABASE not exist AN SQL ERROR Could not access the Wait for a few minutes HAS OCCURED CAF database and retry, if problem CONTACT SYSTEM still exists, contact ADMINISTRATOR CAF programming staff in Detroit.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "059e6cea38fe80ce50cc35faf802cf51",
+    "text": "MESSAGE REASON ACTION PLEASE CORRECT SDLN is either Correct and re-enter. INVALID DATA missing, incomplete or not in the format nn-nnnn-nn-nnn-nn SDLN NOT FOUND SDLN entered does Correct and re-enter. ON DATABASE not exist AN SQL ERROR Could not access the Wait for a few minutes HAS OCCURED CAF database and retry, if problem CONTACT SYSTEM still exists, contact ADMINISTRATOR CAF programming staff in Detroit. (1) This command code is used to list the authorizations that a representative for a speciﬁed taxpayer. The TIN (either SSN or EIN) is entered along with Code CFINKT third party CAF Number. The taxpayer’s and third party’s names are and Use along with the third party’s contact information. Below the contact information are the authorizations by tax period. (1) Error Messages — Either partial or no database information will be returned: MESSAGE REASON ACTION INVALID SSN/EIN SSN/EIN is either Correct and re-enter. MUST BE NUMERIC missing, not numeric or not in the correct format CAF NUMBER CAF Number Correct and re-enter. MUST BE ENTERED required for this command code NO RECORD OF T/P Entered TIN does not Correct and re-enter. ACCOUNT exist on database NO MODULES There are no authori- PRESENT FOR zations for the TAXPAYER entered CAF Number and this TIN REP NOT FOUND The CAF number Correct and re-enter. entered is not on the database *** SELECT OF Could not access the Wait for a few minutes xxxxxxxxxxxx UN- CAF database and retry, if problem AVAILABLE still exists, contact CAF programming staff in Detroit.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "8b7d30f15f0d6de29797f74b185299a8",
+    "text": "— Either partial or no database information will be returned:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "c622a94d0186717bbef79737b8a702ee",
+    "text": "MESSAGE REASON ACTION INVALID SSN/EIN SSN/EIN is either Correct and re-enter. MUST BE NUMERIC missing, not numeric or not in the correct format CAF NUMBER CAF Number Correct and re-enter. MUST BE ENTERED required for this command code NO RECORD OF T/P Entered TIN does not Correct and re-enter. ACCOUNT exist on database NO MODULES There are no authori- PRESENT FOR zations for the TAXPAYER entered CAF Number and this TIN REP NOT FOUND The CAF number Correct and re-enter. entered is not on the database *** SELECT OF Could not access the Wait for a few minutes xxxxxxxxxxxx UN- CAF database and retry, if problem AVAILABLE still exists, contact CAF programming staff in Detroit.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "99a012d0f4306ddb8703217a51ab52ff",
+    "text": "Command Codes CFINK , RPINK, KAFFQ and KAFTQ for CAF Inquiry 2.3.31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "3f0325c998ffd7be87bfb3c2fd8bfed6",
+    "text": "page MESSAGE REASON ACTION *** ERROR ON Could not access the Wait for a few minutes SELECT OF CAF database and retry, if problem xxxxxxxxxxxx still exists, contact CAF programming staff in Detroit. xxxxx I/O error on CAF Wait for a few minutes CAFPWRS_CSR database and retry, if problem UNAVAILABLE still exists, contact CAF programming staff in Detroit. ERROR ON xxxxx I/O error on CAF Wait for a few minutes OF CAFPWRS_CSR database and retry, if problem still exists, contact CAF programming staff in Detroit. COSIGN DATA NOT POA co-signer is Contact CAF pro- FOUND - CALL indicated but no gramming staff in SYSTEMS taxpayer found Detroit.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "85964d000809fcad873f5ea58d77aeb0",
+    "text": "Caution: Unless the business name (or last name) itself is less than ten characters in length, RPINK will not work with less than ten.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "f95bdc66fee2277d38c086933ac8a0ec",
+    "text": "There are third party names on the CAF that were input incorrectly. After conversion to IBM, taxpayer and (non-business) third party name components are input in separate ﬁelds, virtually eliminating the potential for this problem. But you need to be mindful of the pre-existing situation",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "864f2e15907f5317d89ac600933632d0",
+    "text": "After conversion to IBM, taxpayer and (non-business) third party name components are input in separate ﬁelds, virtually eliminating the potential for this problem. But you need to be mindful of the pre-existing situation when doing your research. Also - if you enter any of the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "1e1274d960d26deb4adccca31aa3b808",
+    "text": "nd line optional ﬁelds - ﬁrst",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "5da7959f601d6c1001e380eb84bc033f",
+    "text": "digits of zip code,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "ac5bd67b061f4fada56418d5af9f6f31",
+    "text": "th &",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "ed0787a42feeee150a7563ffcc3c33ca",
+    "text": "th digits of zip code,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "56af4bde70a47ae7d0f1ebb30e45ed33",
+    "text": "st",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "db1156df22d7991d00d4cfba626d6451",
+    "text": "characters of street address - search will include these criteria in sequence. If there is a failure to on any criterion, you will get a message indicating that no record was found. To ensure you’ve covered all bases, it would be advisable to redo the RPINK with fewer criteria to ensure the third party is not on the database, possibly with some erroneous information.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "4e0079b1dc974a02e1ae926b22ed7353",
+    "text": "DUNLAP, WILSON",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "cae1ac015f3737f014f9db4835303794",
+    "text": "To ensure you’ve covered all bases, it would be advisable to RPINK both versions. If you ﬁnd the name you want but it’s entered incorrectly, make corrections via KAFRMR/UPRCF and proceed. For example, if you ﬁnd SMITH & SMITH was entered as SMITH (ﬁrst name) AND (middle name) SMITH (last name), enter SMITH & SMITH on the full name ﬁeld and clear out the ﬁrst, middle, and last names. Then proceed.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "507e5cf7493ff7b528b1feb358c7df3b",
+    "text": ") Optional search keys, in order, for CC RPINK are: a. Rep First Name (up to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "f4681dde20196efc1a8d2970a9210000",
+    "text": "characters) Note: Since conversion to the IBM, you may now enter any number of characters, up to ten (formerly only ﬁrst initial worked). b.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "c52e45ece417f0c35dd78aa3beaa6711",
+    "text": "st three digits of the ZIP code c.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "ac5bd67b061f4fada56418d5af9f6f31",
+    "text": "th &",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "c6d15d1a2bd9b029ec27d36f06e611bf",
+    "text": "th digits of the ZIP code d.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "cf8b33047dd3f0312ab6a9a279e3f94c",
+    "text": "st four characters of the street address Note: In the past, RPINK results may not have been sorted by ﬁrst name within last name. You may have seen SMITH JOE followed by SMITH JACK followed by SMITH JERRY on the screen. Since conversion to DB",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "45ac664f760d8b4f0a51adc6f6c5f8e9",
+    "text": ", RPINK results are sorted by ﬁrst name within last name. Researching multiple screens of RPINK results should be quicker.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "431bb82c8f69c0e828228f9709c7302b",
+    "text": "Since conversion to the IBM, you may now enter any number of characters, up to ten (formerly only ﬁrst initial worked).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "2f58b5489ad90500887eb6edc369dfed",
+    "text": "(01-01-2010)RPINK—Terminalresponses",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "d2612b8a48267b236022f7243f93925f",
+    "text": "Codes CFINK , RPINK, KAFFQ and KAFTQ for Inquiry 2.3.31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "129a54e6a4d056d8551ad421ad6602d8",
+    "text": "page MESSAGE REASON ACTION LAST NAME MUST No last name was Correct and reenter. BE INPUT FOR entered for search. SEARCH RPINK requires Last Name/BusinessNametobeentered. NO RECORDS No exact match could Change/Delete one of FOUND MATCHING be found on the CAF the search keys and YOUR SEARCH for the search keys reenter. CRITERIA given. LAST NAME IS NOT The last name was Correct and reenter. FORMATTED entered incorrectly — CORRECTLY most likely with an invalid character FIRST NAME IS The ﬁrst name was Correct and reenter. NOT FORMATTED entered incorrectly — CORRECTLY most likely with an invalid character. ZIP CODE IS The 1st three digits Correct and reenter. INCORRECT of the Zip Code were entered incorrectly — most likely with a non-numericcharacter. 2ND ZIP CODE IS The 4th and 5th Correct and reenter. INCORRECT digits of the Zip Code were entered incor- rectly — most likely with a non-numeric character. ADDRESS IS The 1st four charac- Correct and reenter. INCORRECT ters of the street address were entered incorrectly — most likely with an invalid character. FIRST ZIP CODE First zip must be Correct and reenter. MUST BE ENTERED entered when street or second zip entered.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "7855610f2e216f5b8c925469fc076691",
+    "text": "This command code is used by select employees of the Disclosure Office to request third party information to fulﬁll a Freedom of Information request.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "3064ac29fda1df2a665aa9418b1b1e07",
+    "text": "The request information will be stored by CAF, then processed the next business day by a batch run, output data will be received via Control-D.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "1cf171ce9503f9c78d69c08c44e2c816",
+    "text": "MESSAGE REASON ACTION THIS REQUEST CAF Number entered Correct the CAF ALREADY EXISTS has already been number and re-enter requested and is pending the process- ing step THIS CAF NUMBER CAF Number entered Correct the CAF DOES NOT EXIST does not exist on the number and re-enter ON DATABASE database",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "e4f194bf2922984cfdc3b5a6c6170262",
+    "text": "This command code is used by select employees of TIGTA to request third party information for speciﬁc investigations. • CC KAFTQ is input with third party information which is the CAF number and the letter R (which equates to: ﬁle source code of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "0d6cef7ca63dee6cea7871957787d000",
+    "text": "type of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "09441611efeea0385dd21802feee28df",
+    "text": ") • CC KAFTQ with the deﬁner P will return to the user any pending request(s), which are awaiting processing by the daily batch run. • The request information will be stored by CAF, then processed the business day by a batch run, output data will be received via See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "bfb2d508c65e681cc7a38b81b8798f61",
+    "text": "and Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "742c28f02526392e7161759b5241fd63",
+    "text": "for examples of screen Error Messages — Line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "795158e4fe18df6bf463c58420f9d3c0",
+    "text": "- These messages result in no request being processed:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "f9b09fbbfdb4861fdf6a7380e22920b1",
+    "text": "(01-01-2011) KAFTQ -- Description and Use",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "3064ac29fda1df2a665aa9418b1b1e07",
+    "text": "The request information will be stored by CAF, then processed the next business day by a batch run, output data will be received via Control-D.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "eea75c92c96848e7182362aa19f725a6",
+    "text": "Exhibit 2.3.31-14 and Exhibit 2.3.31-15 for examples of screen displays.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "d2612b8a48267b236022f7243f93925f",
+    "text": "Codes CFINK , RPINK, KAFFQ and KAFTQ for Inquiry 2.3.31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "fcf83e5a6ceac3f67aa660676cc55fa3",
+    "text": "MESSAGE REASON ACTION THIS REQUEST CAF Number entered Correct the CAF ALREADY EXISTS has already been number and re-enter requested and is pending the process- ing step THIS CAF NUMBER CAF Number entered Correct the CAF DOES NOT EXIST does not exist on the Number and re-enter ON DATABASE database",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "33c1e29902d678cbcff13d561dbfd825",
+    "text": "This Page Intentionally Left Blank",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "99a012d0f4306ddb8703217a51ab52ff",
+    "text": "Command Codes CFINK , RPINK, KAFFQ and KAFTQ for CAF Inquiry 2.3.31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "f6002aef9355df7927b41afa31a6bc26",
+    "text": "-12345678901234567890123456789012345678901234567890123456789012345678901234567890CFINK 999-99-9999(S SRQutput:123456789012345678901234567890123456789012345678901234567890123456789012345678901 2 3 4 5 6 7 8CFINK 999-99-9999NAME: X--------------------mmmmmm oo mm oo XN/C: X--XMF TAXPRD PLN RN/C REP-NUMBER SIGNDATE SDLN FORM LV RCTS AUTHSXX X----X 999X X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X—X X XX XXXXXX X----X 999X X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X—X X XX KXXXXXX X----X 999X X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X—X X XX XXXXXX X----X 999X X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X—X X XX XXXXXX X----X 999X X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X—X X XX XXXXXX X----X 999X X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X—X X XX XXXXX X----X 999X X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X—-X X XX XXXXX X----X 999X X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X—X X XX KXXXXXX X----X 999X X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X—X X XX XXXXXX X----X 999X X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X—X X XX XXXXXX X----X 999X X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X—X X XX XXXXXX X----X 999X X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X—X X XX XXXXXX X----X 999X X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X—X X XX XXXXXX X----X 999X X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X—X X XX XXXXXX X----X 999X X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X—-X X XX XXXXX X----X 999X X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X—X X XX KXXXXXX X----X 999X X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X—X X XX XXXX",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "7e7b4321fd11c7dccbe03b82157083a9",
+    "text": "123456789012345678901234567890123456789012345678901234567890123456789012345678901 2 3 4 5 6 7 8",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "4f0fdfccbd8f47a78872c8f6f1502924",
+    "text": "The table below contains a full list of the screen ﬁelds and their descriptions.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "36e6aa5d97535832824f31d209d1b386",
+    "text": "Input SSN Line 1 Command Code CFINK",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "016ede2a4032949a22b4ca63bd321037",
+    "text": "Exhibit 2.3.31-1 (Cont. 1) (01-01-2019) CFINK with Taxpayer SSN",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d8b0b8fc00c97864dbf130d7c6811d2f",
+    "text": "2.3.31-1 (Cont. 1) (01-01-2019) with Taxpayer SSN Line 1 TIN & ﬁle source & tin type SSN -- must be in one of the following formats: ([[slashb]]=blank)nnn-nn-nnnn[[slashb]] (Valid IMF) nnn-nn-nnnn* (Invalid IMF) nnn-nn-nnnnV (Valid BMF SSN) nnn-nn-nnnnW (Invalid BMF SSN)nnn-nn-nnnnN (NMF SSN) Output - 1-line (SSN ) Line 1 Command Code CFINK Line 1 TIN & ﬁle source & tin type SSN re-displayed from input screen. Line 2 NAME The full taxpayer name - up to 35 characters. For individuals , this ﬁeld is made up of FIRST-NAME, MIDDLE-NAME/INIT, LAST- NAME, and SUFFIX. For business entries, this ﬁeld will be the only place the name is displayed. Line 3 N/C Taxpayer name control Lines 7 thru 23 MF MFT - Master File Tax code (to which an authorization applies) Lines 7 thru 23 TAXPRD Tax Period - yyyymm format Lines 7 thru 23 PLN REPORT/PLAN NUMBER Used for all EPMF and some BMF modules (MFT 46 and 76). Lines 7 thru 23 RN/C Third party’s name control Lines 7 thru 23 REP-NUMBER Third party CAF number Lines 7 thru 23 SIGNDATE Taxpayer signature date from form",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "99a012d0f4306ddb8703217a51ab52ff",
+    "text": "Command Codes CFINK , RPINK, KAFFQ and KAFTQ for CAF Inquiry 2.3.31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "eb243824909965b26567025240b5875d",
+    "text": "2.3.31-1 (Cont. 2) (01-01-2019) with Taxpayer SSN Lines 7 thru 23 SDLN Source Document Locator Numbernn-nnnn-nn-nnn-nn format, where...nn=purge year - last 2 digits of the year in which the paper document is to be purged from the ﬁles; if form 2848 or 8821 then 7 years after sign date; if form 706 then 15 years after sign datennnn=control cycle - yyww format; not later than current cycle nn=document location office nnn=block series - numeric; 000- 999nn=sequence number - numeric; 00-99Note:Oral TIAs will show a ‘P’ after the SDLN Lines 7 thru 23 FORM Input form number - current valid form numbers are 2848, 8821, and 706. Older entries may contain 2848D, 56, or others. Lines 7 thru 23 LV Authorization level - mandatory for 2848 only A - Attorney B - Certiﬁed Public Accountant C - Enrolled Agent D - Bona ﬁde officer of the tax- payer’s organization E - Full-time employee of the tax- payer’s organization F - Member of the taxpayer’s immediate family (spouse, child, parent, sibling) G - Enrolled actuary H - Unenrolled return preparer I- Registered Return Preparer K - Student Attorney or CPA R -Enrolled Retirement Plan Agent (ERPA)",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "708ae2f44c4b04f1adda79745f741551",
+    "text": "2.3.31-1 (Cont. 3) (01-01-2019) with Taxpayer SSN Lines 7 thru 23 RCTS N = third party is authorized to receive copies of taxpayer corre- spondenceR=thirdparty is authorized to receive taxpayer’s refund check B = indicates blind trust - third party receives correspondence and refund; taxpayer receives neither Lines 7 thru 23 AUTHS ~or~ Acts authorized U = 2848 was unmodiﬁed M = 2848 was modiﬁed in some way other than sign, delegate and/or disclose to third party T = input by E-Services and contains modiﬁed form text S = modiﬁed to allow third party to sign returns for taxpayer D = modiﬁed to allow third party to re-delegate his/her authoriza- tionI=8821 coded for INSPECT Y= Taxpayer allows Rep to disclose to third parties Line 7 thru 23 STATUS Note: If third party is Pending Review, Conﬁrmed Fraud, disbarred, suspended, etc., that information will be displayed beneath the RCTS and AUTHS headers. If a third party in good standing this area will be spaces.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "6063b7eeecc1b37ecbc9107844bc5824",
+    "text": "N = third party is authorized to receive copies of taxpayer corre- spondenc",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "b7195711b5c40da7926a753baaf4902f",
+    "text": "=thirdparty is authorized to receive taxpayer’s refund check B = indicates blind trust - third party receives correspondence and refund; taxpayer receives neither U =",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "ff24ed5b781a8e6e9db886201001ec77",
+    "text": "was unmodiﬁed M =",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "7cc61544241660f48b5829035c0eee2c",
+    "text": "was modiﬁed in some way other than sign, delegate and/or disclose to third party T = input by E-Services and contains modiﬁed form text S = modiﬁed to allow third party to sign returns for taxpayer D = modiﬁed to allow third party to re-delegate his/her authoriza- tio",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "380918b946a526640a40df5dced65167",
+    "text": "=",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "82edf85325d6aabd64842e744555846f",
+    "text": "coded for INSPECT Y= Taxpayer allows Rep to disclose to third parties Note: If third party is Pending Review, Conﬁrmed Fraud, disbarred, suspended, etc., that information will be displayed beneath the RCTS and AUTHS headers. If a third party in good standing this area will be spaces.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "99a012d0f4306ddb8703217a51ab52ff",
+    "text": "Command Codes CFINK , RPINK, KAFFQ and KAFTQ for CAF Inquiry 2.3.31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "617eed173774968d3e1c4f664517b113",
+    "text": "it1 2 3 4 5 6 7 8123456789012345678201234567890123456789012345678901234567890123456789012345678901|CFINK 99-999999923Qutput:1 2 3 4 5 6 7 8123456789012345678201234567890123456789012345678901234567890123456789012345678901|CFINK 99-99999992 NAME: X - - - - mmmm oo mmm e e e X3 N/C: X--X45[MF TAXPRD PLN RN/C REP-NUMBER SIGNDATE  SDLN FORM LV RCTS AUTHS6l Ll Il .l...7 X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X XX XXXX8 X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X XX XKXX9 X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X XX XXXX10 X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X XX XXXX11 X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X XX XXXX12 X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X XX XXXX13 X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X XX XXXX14 X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X XX XKKX15 X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X XX XXXX16 X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X XX XXXX17 X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X XX XXXX18 X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X XX XXXX19 X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X XX XXXX20 X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X XX XXXX21 X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X XX XXXX22 X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X XX XKKX23|XX X----X 999K X--X 9999-99999R MM-DD-YYYY 99-9999-99-999-99 X XX XXXX24123456789012345678901234567890123456789012345678901234567890123456789012345678901 2 3 4 5 6 7 8",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "cb5c8ac9fd45b1a33965944ca2f542a8",
+    "text": "L123456789012345678901234567890123456789012345678901234567890123456789012345678901 2 3 4 5 6 7 8",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "4f0fdfccbd8f47a78872c8f6f1502924",
+    "text": "The table below contains a full list of the screen ﬁelds and their descriptions.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "fcf895d7ebc51b41c82a4bd2beb3a9c7",
+    "text": "Input EIN Line 1 Command Code CFINK Line 1 TIN & ﬁle source & tin type EIN -- must be in one of the following formats: ([[slashb]]=blank)nn-nnnnnnn[[slashb]] (BMF EIN) nn-nnnnnnnP (EPMF EIN) nn-nnnnnnnN (NMF EIN) Output - 1-line (EIN) Cat. No. 28144X (12-11-2018) Internal Revenue Manual Exhibit",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "2f15734bcae2ef1ab93a7e7a260aedd2",
+    "text": "Exhibit 2.3.31-2 (Cont. 1) (01-01-2019) CFINK with Taxpayer EIN",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "53aaffc13936d76ba43d967f6948a69f",
+    "text": "with Taxpayer EIN Line 1 Command Code CFINK Line 1 TIN & ﬁle source & tin type EIN re-displayed from input screen Line 2 NAME The full taxpayer name - up characters. For individuals , ﬁeld is made up of MIDDLE-NAME/INIT, LAST- NAME, and SUFFIX. For business entries, this ﬁeld will the only place the name is displayed. Line 3 N/C Taxpayer name control Lines 7 thru 23 MF MFT - Master File Tax code which an authorization Lines 7 thru 23 TAXPRD Tax Period - yyyymm format Lines 7 thru 23 PLN REPORT/PLAN NUMBER for all EPMF and some BMF modules (MFT 46 and 76). Lines 7 thru 23 RN/C Third party’s name control Lines 7 thru 23 REP-NUMBER Third party CAF number Lines 7 thru 23 SIGNDATE Taxpayer signature date Lines 7 thru 23 SDLN Source Document Locator Numbernn-nnnn-nn-nnn-nn format, where...nn=purge year - last 2 digits the year in which the paper document is to be purged the ﬁles; if form 2848 or 8821 then 7 years after sign date; form 706 then 15 years after datennnn=control cycle - yyww not later than current cycle nn=document location office nnn=block series - numeric; 999nn=sequence number - 00-99Note:Oral TIAs will show a",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "99a012d0f4306ddb8703217a51ab52ff",
+    "text": "Command Codes CFINK , RPINK, KAFFQ and KAFTQ for CAF Inquiry 2.3.31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "de5cb31af155a565612dcd792b810f0b",
+    "text": "Exhibit 2.3.31-2 (Cont. 2) (01-01-2019) CFINK with Taxpayer EIN Lines 7 thru 23 FORM Input form number - current valid form numbers are 2848, 8821, and 706. Older entries may contain 2848D, 56, or others. Lines 7 thru 23 LV Authorization level - mandatory for 2848 only A - Attorney B - Certiﬁed Public Accountant C - Enrolled Agent D - Bona ﬁde officer of the tax- payer’s organization E - Full-time employee of the tax- payer’s organization F - Member of the taxpayer’s immediate family (spouse, child, parent, sibling) G - Enrolled actuary H - Unenrolled return preparer I- Registered Return Preparer K - Student Attorney or CPA R -Enrolled Retirement Plan Agent (ERPA) Lines 7 thru 23 RCTS N = third party is authorized to receive copies of taxpayer corre- spondenceR=thirdparty is authorized to receive taxpayer’s refund check B = indicates blind trust - third party receives correspondence and refund; taxpayer receives neither Lines 7 thru 23 AUTHS U = 2848 was unmodiﬁed M = 2848 was modiﬁed in some way other than sign, delegate and/or disclose to third party T = input by E-Services and contains modiﬁed form text S = modiﬁed to allow third party to sign returns for taxpayer D = modiﬁed to allow third party to re-delegate his/her authoriza- tionI=8821 coded for INSPECT Y= Taxpayer allows Rep to disclose to third parties",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "0a915423548c9c9c21e453b1b3c6d73a",
+    "text": "Exhibit 2.3.31-2 (Cont. 2) CFINK with Taxpayer EIN",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "c9e976ef464efb91d3c2b8e266897364",
+    "text": "Input form number - current valid form numbers are",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "4aa9bfd2f175a94ad5a7cb321e1aea97",
+    "text": ", and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "2bb96b8b54b03705c3f91a2b36ffa8bd",
+    "text": "Older entries may contain",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "ff39c22b8434aae8aaafb4354992f473",
+    "text": "D,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "44f5fe0509b7ec25fe40ba3f07c6123c",
+    "text": ", or others. Authorization level - mandatory for",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "9f20c7d24e5c65497d93e2efc722a13f",
+    "text": "only A - Attorney B - Certiﬁed Public Accountant C - Enrolled Agent D - Bona ﬁde officer of the tax- payer’s organization E - Full-time employee of the tax- payer’s organization F - Member of the taxpayer’s immediate family (spouse, child, parent, sibling) G - Enrolled actuary H - Unenrolled return preparer I- Registered Return Preparer K - Student Attorney or CPA R -Enrolled Retirement Plan Agent (ERPA) N = third party is authorized to receive copies of taxpayer corre- spondenc",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "b7195711b5c40da7926a753baaf4902f",
+    "text": "=thirdparty is authorized to receive taxpayer’s refund check B = indicates blind trust - third party receives correspondence and refund; taxpayer receives neither U =",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "ff24ed5b781a8e6e9db886201001ec77",
+    "text": "was unmodiﬁed M =",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "7cc61544241660f48b5829035c0eee2c",
+    "text": "was modiﬁed in some way other than sign, delegate and/or disclose to third party T = input by E-Services and contains modiﬁed form text S = modiﬁed to allow third party to sign returns for taxpayer D = modiﬁed to allow third party to re-delegate his/her authoriza- tio",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "380918b946a526640a40df5dced65167",
+    "text": "=",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "4acf708b07aa78e2151bf712a7091dc2",
+    "text": "coded for INSPECT Y= Taxpayer allows Rep to disclose to third parties",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "bb0c3bdc7a8ba964452ef2eb36076f3e",
+    "text": "U =",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "ff24ed5b781a8e6e9db886201001ec77",
+    "text": "was unmodiﬁed M =",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "7cc61544241660f48b5829035c0eee2c",
+    "text": "was modiﬁed in some way other than sign, delegate and/or disclose to third party T = input by E-Services and contains modiﬁed form text S = modiﬁed to allow third party to sign returns for taxpayer D = modiﬁed to allow third party to re-delegate his/her authoriza- tio",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "380918b946a526640a40df5dced65167",
+    "text": "=",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "4acf708b07aa78e2151bf712a7091dc2",
+    "text": "coded for INSPECT Y= Taxpayer allows Rep to disclose to third parties",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "9e0e2b9a4a764ec9174c8a86fe7474df",
+    "text": "Lines 7 thru 23 STATUS Note: If third party is Pending Review, Conﬁrmed Fraud, disbarred, suspended, etc., that information will be displayed beneath the RCTS and AUTHS headers. If a third party in standing this area will be spaces.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "bec0045c297ecfea5e8cb761fc5a5324",
+    "text": "Note: If third party is Pending Review, Conﬁrmed Fraud, disbarred, suspended, etc., that information will be displayed beneath the RCTS and AUTHS headers. If a third party in good standing this area will be spaces.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "99a012d0f4306ddb8703217a51ab52ff",
+    "text": "Command Codes CFINK , RPINK, KAFFQ and KAFTQ for CAF Inquiry 2.3.31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "4f0fdfccbd8f47a78872c8f6f1502924",
+    "text": "The table below contains a full list of the screen ﬁelds and their descriptions.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "341303df33ac6d278dec8bce158142ac",
+    "text": "Input - CAF# Line 1 Command Code CFINK Line 1 CAF number& ﬁle source & tin CAF number-- must be the type following format: ([[slashb]]=blank) nnnn-nnnnnR (Third Party CAF number) Output - CAF# Line 1 Command Code CFINK",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "005d530daaa75b943677c2157dd31206",
+    "text": "Exhibit 2.3.31-3 (Cont. 1) (01-01-2019) CFINK with CAF number",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "649dd4483df7d276b84c34bc6232ea1a",
+    "text": "Line 1 CAF number& ﬁle source & tin CAF number re-displayed from type input screen Line 2 NAME The full third party’s name - up to 35 characters. For individuals , this ﬁeld is made up of FIRST- NAME, MIDDLE-NAME/INIT, LAST-NAME, and SUFFIX. For business entries, this ﬁeld will be the business name. Line 2 NAME CNTRL Third party’s name control Line 3 FIRST Third party’s ﬁrst name - maximum 20 characters (total of ﬁrst name, middle name, last name and suffix may not exceed 35) Line 4 MIDDLE Third party’s middle name - maximum 20 characters (total of ﬁrst name, middle name, last name and suffix may not exceed 35) Line 4 PTIN Third Party PTIN (9 characters) (Optional) Line 5 LAST Third party’s last name - maximum 20 characters (total of ﬁrst name, middle name, last name and suffix may not exceed 35) Line 6 SUFFIX JR, III, etc. - maximum 10 char- acters (total of ﬁrst name, middle name, last name and suffix may not exceed 35 characters. Note: Do not include any authori- zation level information (e.g. ATTY, EA, A, B, C, etc.) in this ﬁeld. That information does not belong in the THIRD PARTY record. Line 7 2ND NAME Third party’s 2nd name, often a business name Used in some instances to indicate multiple locations (i.e. “Location 2”) Line 9 STREET Third party’s street address, domestic or foreign",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "99a012d0f4306ddb8703217a51ab52ff",
+    "text": "Command Codes CFINK , RPINK, KAFFQ and KAFTQ for CAF Inquiry 2.3.31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "e821c307be968ecb356e4c087695c9b2",
+    "text": "Exhibit 2.3.31-3 (Cont. 2) (01-01-2019) CFINK with CAF number",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "1fac0129742615501a0b44095bf427df",
+    "text": "Line 10 CITY Third party’s city, domestic or foreign Line 10 PHONE & EXT Entry for Third party’s phone number, domestic or foreign. Extension may be present on domestic phone numbers. It is optional. Line 11 FAX Entry for Third party’s fax number, domestic or foreign. Line 11 STATE ~or~ PROV/CNTY Domestic address will have US state-codes (2 characters). Foreign addresses will have Province or County name (17 characters) (Optional). Line 11 ZIP ~or~ CD Third party’s domestic Zip code or Foreign Postal code. Line 12 COUNTRY Third party’s 2 character country code and 35 character country name is displayed. Line 12 Note: If correspondence addressed to the third party at this address has been returned by the USPS, then ’UNDELIVER- ABLE’, will appear to the left of COUNTRY",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "26d7dec8abdda40e65e37d0d4a562449",
+    "text": "Exhibit 2.3.31-3 (Cont. 3) (01-01-2019) CFINK with CAF number",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "6221a5d6e2e868b1a68cb2ac669024e7",
+    "text": "2.3.31-3 (Cont. 3) (01-01-2019) with CAF number Line 14 CAF STATUS Indicates third party’s practice status before the IRS GOOD STANDING - third party is authorized to represent the taxpayerDISBARRED - third party is not authorized to represent the taxpayerSUSPENDED - third party is not authorized to represent the taxpayerDECEASED - third party is not authorized to represent the taxpayerRETIRED - third party is not au- thorized to represent the taxpayer INELIGIBLE - third party is not authorized to represent the taxpayerPNDREVIEW - CAF number under review for possible fraud CONF FRAUD - Conﬁrmed Fraud usage of this CAF number. Line 14 FROM/UNTIL Date of an OPR/CAF Business disciplinary action may appear in these ﬁelds. Sometimes only one or the other are entered.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "99a012d0f4306ddb8703217a51ab52ff",
+    "text": "Command Codes CFINK , RPINK, KAFFQ and KAFTQ for CAF Inquiry 2.3.31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "97c80502291bbdaa71d72395cdb58bd9",
+    "text": "Exhibit 2.3.31-3 (Cont. 4) (01-01-2019) CFINK with CAF number",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "9799018b3b71e82f7d6a8ab6059a8960",
+    "text": "with CAF number Line 15 AUTH LEVELS ON CAF Displays all authorization levels the third party has on ﬁle, they represent the authorizations that this third party has associ- ated to them. If blank, the third party has no authorizations on CAF.Authorization level - mandatory for 2848 only A - Attorney B - Certiﬁed Public Accountant C - Enrolled Agent D - Bona ﬁde officer of the tax- payer’s organization E - Full-time employee of the taxpayer’s organization F - Member of the taxpayer’s immediate family (spouse, child, parent, sibling) G - Enrolled actuary H - Unenrolled return preparer I- Registered Return Preparer K - Student Attorney or CPA R -Enrolled Retirement Plan Agent (ERPA) Line 17 SDLN Source Document Locator Numbernn-nnnn-nn-nnn-nn format, where...nn=purge year - last 2 digits of the year in which the paper document is to be purged from the ﬁles; if form 2848 or 8821 then 7 years after sign date; if form 706 then 15 years after sign datennnn=control cycle - yyww format; not later than current cycle nn=document location office nnn=block series - numeric; 000- 999nn=sequence number - numeric; 00-99Note:Oral TIAs will show a ‘P’ after the SDLN Line 17 SIGN DATE Taxpayer signature date from form",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "07f020618273d1a644ac0cef76cfa8f3",
+    "text": "Displays all authorization the third party has on ﬁle, they represent the authorizations that this third party has associ- ated to them. If blank, the third party has no authorizations on CAF.Authorization level - mandatory for",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "4152463f4d4705fbe7018ac1d7f612d4",
+    "text": "only A - Attorney B - Certiﬁed Public Accountant C - Enrolled Agent D - Bona ﬁde officer of the tax- payer’s organization E - Full-time employee of the taxpayer’s organization F - Member of the taxpayer’s immediate family (spouse, child, parent, sibling) G - Enrolled actuary H - Unenrolled return preparer I- Registered Return Preparer K - Student Attorney or CPA R -Enrolled Retirement Plan Agent (ERPA) Source Document Locator Numbernn-nnnn-nn-nnn-nn format, where...nn=purge year - last",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "59bb68bbdbd01821a0029b79aa3c6101",
+    "text": "digits of the year in which the paper document is to be purged from the ﬁles; if form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "21af6f1260f927f5b9b3ff5ca4a5d194",
+    "text": "then",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "852a7da549dce6ab21404649fd2192e2",
+    "text": "years after sign date; if form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "21af6f1260f927f5b9b3ff5ca4a5d194",
+    "text": "then",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "a3fc95c31506e9559eac5f9727f37455",
+    "text": "years after sign datennnn=control cycle - yyww not later than current cycle nn=document location office nnn=block series - numeric;",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "6c5d4cb6aa3aa20e4ee2896333af62b7",
+    "text": "Exhibit 2.3.31-3 (Cont. 5) (01-01-2019) CFINK with CAF number",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "e333a99331b87bfdc96d51abc2ddaf86",
+    "text": "Line 17 FORM NUM Input form number - current valid form numbers are 2848, 8821, and 706. Older entries may contain 2848D, 56, or others. Line 20 COMMENTS Any comments that the CAF units have entered about the Third Party.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "99a012d0f4306ddb8703217a51ab52ff",
+    "text": "Command Codes CFINK , RPINK, KAFFQ and KAFTQ for CAF Inquiry 2.3.31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "034c3a93c564ef56620396b870a42f48",
+    "text": "Exhibit 2.3.31-4 (01-01-2019) CFINK with Taxpayer TIN and Tax Module Information",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "994d33793e1b9ad20266d40c7662c298",
+    "text": "Input format 1:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "67c50497e04226a12c57b04c44dfad6b",
+    "text": "Input format 2:1 2 3 4 5 6 7 8123456789012345678901234567890123456789012345678901234567890123456789012345678901[CFINK 99-9999999 03 201112 00023Output:1 2 3 4 5 6 7 8123456789012345678901234567890123456789012345678901234567890123456789012345678901 [ CFINK 999-99-99992 - TAXPAYER ----| MFT 99 TAX PRD 999999 PLAN 9993 -X4S| |=mmmmmm e AUTHORIZATION ---=--=-==-=--=--omommmmooooo o6 | REP NAME X-----------oommmmmmmmm oo X NAME CONTROL X—X7 | CAF NUMBER 9999-99999R CAF STATUS X------------ X8 | SDLN 99-9999-99-999-99 FORM NUM XXXX AUTH LEVEL X9 | SIGN DATE 99-99-9999 JURISDICTION XX ON RETURN X-X MF TRANS X-X10 | L-B-E NUMBER X------------ X UN/MOD X-X  NOTICE X-X11 | ---------- POA/TIA CO-SIGNER ---------- SIGNATURE X-X  REFUND X-X12 | TIN 999-99-9999 DELEGATE  X-X  BLIND TRUST X-X13 | NAME X----------===--------mooooooooooo X DISCLOSE  X-X14 AUTHORIZATION --------============—-ooooooooo |15 | REP NAME X--- X NAME CONTROL X—X16 | CAF NUMBER 9999-99999R CAF STATUS X------------ X17 | SDLN 99-9999-99-999-99 FORM NUM X—X AUTH LEVEL X18 | SIGN DATE 99-99-9999 JURISDICTION XX ON RETURN X-X MF TRANS X-X19 | L-B-E NUMBER X------------ X UN/MOD X-X  NOTICE X-X20 | m--mmmmme- POA/TIA CO-SIGNER ---------- SIGNATURE X-X  REFUND X-X21| TIN 999-99-9999 DELEGATE  X-X  BLIND TRUST X-X22 | NAME X---------ommmmmmmoooooooooooo X DISCLOSE  X-X23 | | m o m o oo o o -",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "20c5cdf711f951d94bc157072a524509",
+    "text": "Input format 2:",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "4f0fdfccbd8f47a78872c8f6f1502924",
+    "text": "The table below contains a full list of the screen ﬁelds and their descriptions.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "d01960d386447d001a92f94ca6a3b544",
+    "text": "Exhibit 2.3.31-4 (Cont. 1) (01-01-2019) CFINK with Taxpayer TIN and Tax Module Information",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "7fad6ffe54d0b8554137983356d99db9",
+    "text": "The full taxpayer name - up to 35 characters. For individuals , this ﬁeld is made up of FIRST-NAME, MIDDLE-NAME/INIT, LAST-NAME, and SUFFIX. For business entries, this ﬁeld will be the only place the name is displayed.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "99a012d0f4306ddb8703217a51ab52ff",
+    "text": "Command Codes CFINK , RPINK, KAFFQ and KAFTQ for CAF Inquiry 2.3.31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "354730378668b3b0b691296d28622234",
+    "text": "Exhibit 2.3.31-4 (Cont. 2) (01-01-2019) CFINK with Taxpayer TIN and Tax Module Information",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "abc6c78768ee05cb4cf16c6a717eb66e",
+    "text": "Line 7 &16 CAF NUMBER Third party CAF number Line 7 &16 CAF STATUS Indicates third party’s practice status before IRSGOOD STANDING - third party is represent the taxpayer DISBARRED - third party is not authorized represent the taxpayer SUSPENDED - third party is not authorized represent the taxpayer DECEASED - third party is not authorized represent the taxpayer RETIRED - third party is not authorized to represent the taxpayer INELIGIBLE - third party is not authorized represent the taxpayer PND REVIEW - CAF number underreview possible fraud CONF FRAUD - Conﬁrmed Fraud usage of CAF number. Line 8 & 17 SDLN Source Document Locator Number nn-nnnn-nn-nnn-nn format, where... nn=purge year - last 2 digits of the year in the paper document is to be purged from if form 2848 or 8821 then 7 years after sign if form 706 then 15 years after sign date nnnn=control cycle - yyww format; not later current cycle nn=document location office nnn=block series - numeric; 000-999 nn=sequence number - numeric; 00-99 Note:Oral TIAs will show a ‘P’ after the Line 8 & 17 FORM NUM Input form number - current valid form are 2848, 8821, and 706. Older entries may contain 2848D, 56, or others.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "973b203efaa65a52940f5c5f03537dff",
+    "text": "nn-nnnn-nn-nnn-nn format, where... nn=purge year - last",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "59bb68bbdbd01821a0029b79aa3c6101",
+    "text": "digits of the year in which the paper document is to be purged from the ﬁles; if form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "21af6f1260f927f5b9b3ff5ca4a5d194",
+    "text": "then",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "852a7da549dce6ab21404649fd2192e2",
+    "text": "years after sign date; if form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "21af6f1260f927f5b9b3ff5ca4a5d194",
+    "text": "then",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "b81834d9eb5cc84d7511ae9b3c797812",
+    "text": "years after sign date nnnn=control cycle - yyww format; not later than current cycle nn=document location office nnn=block series - numeric;",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "666e7b42e53457a5a34c9c7bbf6100c9",
+    "text": "nn=sequence number - numeric;",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "91cf0b09f845147dbfe03643fa3f9e0e",
+    "text": "Note:Oral TIAs will show a ‘P’ after the SDLN Input form number - current valid form numbers are",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "4aa9bfd2f175a94ad5a7cb321e1aea97",
+    "text": ", and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "83bfe36f96b52ea8c94049e143d17ada",
+    "text": "Older entries may",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "50fc93ba49379513f23fb218bde850e4",
+    "text": "Exhibit 2.3.31-4 (Cont. 3) (01-01-2019) CFINK with Taxpayer TIN and Tax Module Information",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "1fec6e09facdf14f230a62c97250a75c",
+    "text": "2.3.31-4 (Cont. 3) (01-01-2019) with Taxpayer TIN and Tax Module Information Line 8 & 17 AUTH LEVEL Authorization level - mandatory for 2848 only A - Attorney B - Certiﬁed Public Accountant C - Enrolled Agent D - Bona ﬁde officer of the taxpayer’s organization E - Full-time employee of the taxpayer’s organiza- tionF-Member of the taxpayer’s immediate family (spouse, child, parent, sibling) G - Enrolled actuary H - Unenrolled return preparer I- Registered Return Preparer K - Student Attorney or CPA R -Enrolled Retirement Plan Agent (ERPA) Line 9 & 18 SIGN DATE Taxpayer signature date from form Line 9 & 18 JURISDICTION 2 character state code of where the Third Party practices as an Attorney or CPA, for this authoriza- tion, if applicable Line 9 & 18 ON RETURN YES = POA was submitted with a tax return NO = POA was submitted separately or after July 2008 Line 9 & 18 MF TRANS Indicates if a transaction was attempted to be sent to Master File. Yes or No. Line 10 & 19 L-B-E Number License/Bar/Enrollment number, if applicable. Ap- plicable to designation levels: Attorney, CPA, Enrolled Agent, Enrolled Actuary, Enrolled Retire- ment Plan Agent. Line 10 & 19 UN/MOD UNM = 2848 was unmodiﬁed MOD = 2848 was modiﬁed in some way other than sign, delegate and/or disclose to third party TXT = input by E-Services and contains modiﬁed form text Line 10 & 19 NOTICE Indicates if authorized to receive copies of taxpayer notices (Yes or No) Line 11 & 20 SIGNATURE Indicates if third party allowed to sign returns for taxpayer (Yes or No) Line 11 & 20 REFUND Indicates if authorized to receive (but not negotiate) taxpayer’s refund checks (Yes or No) Line 12 & 21 POA/TIA CO-SIGNER TIN TIN of co-signer of CAF document (not necessarily joint ﬁler) Line 12 & 21 DELEGATE Indicates if authorized to delegate or substitute (Yes or No)",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "9514486fcb1401053624a43041f8e941",
+    "text": "Authorization level - mandatory for",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "fb95e823a56cbe9f2e94bb538d264ae0",
+    "text": "only A - Attorney B - Certiﬁed Public Accountant C - Enrolled Agent D - Bona ﬁde officer of the taxpayer’s organization E - Full-time employee of the taxpayer’s organiza- tio",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "af9eb06a17e2b5985ffc246c6396f78e",
+    "text": "-Member of the taxpayer’s immediate family (spouse, child, parent, sibling) G - Enrolled actuary H - Unenrolled return preparer I- Registered Return Preparer K - Student Attorney or CPA R -Enrolled Retirement Plan Agent (ERPA) Taxpayer signature date from form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "99a012d0f4306ddb8703217a51ab52ff",
+    "text": "Command Codes CFINK , RPINK, KAFFQ and KAFTQ for CAF Inquiry 2.3.31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "7277f74b855098eb80abb07e1ad4bcad",
+    "text": "Exhibit 2.3.31-4 (Cont. 4) (01-01-2019) CFINK with Taxpayer TIN and Tax Module Information",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "fc0e062c5f3f7ff258b9dce44a91b6bf",
+    "text": "Indicates whether module contains blind trust au",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "52fc1c5c419b3bfd2cd6444236568ae3",
+    "text": "thorization Name of co",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "b3f4ed95985533c17cee3ef8d7911f0b",
+    "text": "signer of CAF document (not neces",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "853e44bf5de05e476551024ac7099a4a",
+    "text": "sarily joint ﬁler) Indicates whether the taxpayer has given the Rep authorization to disclose information to another third party. (Yes or No)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "c7cbffc01c51ca74f4fd1b1c646f32ab",
+    "text": "Exhibit 2.3.31-5 (01-01-2019) CFINK with Taxpayer TIN, Tax Module, and CAF Number",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "994d33793e1b9ad20266d40c7662c298",
+    "text": "Input format 1:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "810615356d49845f2b25c2c07bcc5e5b",
+    "text": "W N e4 < > e 2 o I o12345678901234567890123456789012345678901234567890123456789012345678901234567890CFINK 999-99-999930 201212 0009999-99999R",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "bebff5027d29a60fdb07d1aeae5a327d",
+    "text": "Input format 2:—",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "4f0fdfccbd8f47a78872c8f6f1502924",
+    "text": "The table below contains a full list of the screen ﬁelds and their descriptions.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "99a012d0f4306ddb8703217a51ab52ff",
+    "text": "Command Codes CFINK , RPINK, KAFFQ and KAFTQ for CAF Inquiry 2.3.31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "ec414723e001b01b4a5a225409293ded",
+    "text": "Exhibit 2.3.31-5 (Cont. 1) (01-01-2019) CFINK with Taxpayer TIN, Tax Module, and CAF Number",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "76effd2e9426f16bd9176a1af86c5716",
+    "text": "Exhibit 2.3.31-5 (Cont. 2) (01-01-2019) CFINK with Taxpayer TIN, Tax Module, and CAF Number",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 46
+    }
+  },
+  {
+    "element_id": "78712efabc18de1d11384789726957c6",
+    "text": "Line 8 REP NAME The full third party name - up to 35 characters. This ﬁeld is made up of FIRST-NAME, MIDDLE- NAME/INIT, LAST-NAME, and SUFFIX. Line 8 NAME/CONTROL Third party name control Line 9 SECOND NAME Third party’s 2nd name, often a business name Used in some instances to indicate multiple locations (i.e. “Location 2”) Line 9 STATUS Indicates third party’s practice status before the IRSGOOD STANDING - third party is authorized to represent the taxpayer DISBARRED - third party is not authorized to represent the taxpayer SUSPENDED - third party is not authorized to represent the taxpayer DECEASED - third party is not authorized to represent the taxpayer RETIRED - third party is not authorized to represent the taxpayer INELIGIBLE - third party is not authorized to represent the taxpayer PND REVIEW - CAF number underreview for possible fraud CONF FRAUD - Conﬁrmed Fraud usage of this CAF number. Line 9 FROM/UNTIL Date of an OPR disciplinary action may appear in these ﬁelds. Sometimes only one or the other are entered. Line 10 PHONE Third party’s phone number (domestic or interna- tional) Line 10 FAX Third party’s FAX number (domestic or interna- tional) Line 11 STREET Third party’s street address (domestic or interna- tional) Line 11 CITY Third party’s city (domestic or international) Line 12 STATE/PROV/CNTY 2 character state code if address is domestic or province/county name if foreign. Line 12 ZIP/POSTAL CD Zip code is domestic or postal code if foreign Line 13 COUNTRY Third party’s 2 character ISO country code and 35 character country name is displayed.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 46
+    }
+  },
+  {
+    "element_id": "d2612b8a48267b236022f7243f93925f",
+    "text": "Codes CFINK , RPINK, KAFFQ and KAFTQ for Inquiry 2.3.31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "8b88bb5f16c0e3aa96862c3211b5d3ec",
+    "text": "Exhibit 2.3.31-5 (Cont. 3) (01-01-2019) CFINK with Taxpayer TIN, Tax Module, and CAF Number",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "16f54be564349f148a1b5c6247c21bab",
+    "text": "CFINK with Taxpayer TIN, Tax Module, and CAF Number Line 13 Note: If correspondence addressed to the third party at this address has been returned by the USPS, then ’UNDELIVERABLE’, will appear to the right of COUNTRY SOURCE DOCUMENT Line 15 SDLN Source Document Locator Number nn-nnnn-nn-nnn-nn format, where... nn=purge year - last 2 digits of the year in which the paper document is to be purged from the ﬁles; if form 2848 or 8821 then 7 years after sign date; if form 706 then 15 years after sign date nnnn=control cycle - yyww format; not later than current cycle nn=document location office nnn=block series - numeric; 000-999 nn=sequence number - numeric; 00-99 Note:Oral TIAs will show a ‘P’ after the SDLN Line 15 FORM-NUM Input form number - current valid form numbers are 2848, 8821, and 706. Older entries may contain 2848D, 56, or others. Line 15 ON RETURN YES = POA was submitted with a tax return NO = POA was submitted separately or after July 2008 Line 16 SIGN DATE Taxpayer signature date Line 17 POA/TIA CO-SIGNER TIN TIN of co-signer of CAF document (not necessarily joint ﬁler) Line 17 POA/TIA CO-SIGNER NAME Name of co-signer of CAF document (not neces- sarily joint ﬁler) AUTHORIZATION Line 19 AUTH LEVEL Authorization level - mandatory for 2848 only A - Attorney B - Certiﬁed Public Accountant C - Enrolled Agent D - Bona ﬁde officer of the taxpayer’s organization E - Full-time employee of the taxpayer’s organiza- tionF-Member of the taxpayer’s immediate family (spouse, child, parent, sibling) G - Enrolled actuary H - Unenrolled return preparer I- Registered Return Preparer K - Student Attorney or CPA R -Enrolled Retirement Plan Agent (ERPA)",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "6f308a8a23ee391a50e653f849d7cdaf",
+    "text": "Source Document Locator Number nn-nnnn-nn-nnn-nn format, where... nn=purge year - last",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "59bb68bbdbd01821a0029b79aa3c6101",
+    "text": "digits of the year in which the paper document is to be purged from the ﬁles; if form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "21af6f1260f927f5b9b3ff5ca4a5d194",
+    "text": "then",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "852a7da549dce6ab21404649fd2192e2",
+    "text": "years after sign date; if form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "21af6f1260f927f5b9b3ff5ca4a5d194",
+    "text": "then",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "b81834d9eb5cc84d7511ae9b3c797812",
+    "text": "years after sign date nnnn=control cycle - yyww format; not later than current cycle nn=document location office nnn=block series - numeric;",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "666e7b42e53457a5a34c9c7bbf6100c9",
+    "text": "nn=sequence number - numeric;",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "aa804f292c2bccf014252791d0bac4f9",
+    "text": "Note:Oral TIAs will show a ‘P’ after the SDLN",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "9514486fcb1401053624a43041f8e941",
+    "text": "Authorization level - mandatory for",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "fb95e823a56cbe9f2e94bb538d264ae0",
+    "text": "only A - Attorney B - Certiﬁed Public Accountant C - Enrolled Agent D - Bona ﬁde officer of the taxpayer’s organization E - Full-time employee of the taxpayer’s organiza- tio",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "faa72d2b47f50b5f7fae4ed62a311574",
+    "text": "-Member of the taxpayer’s immediate family (spouse, child, parent, sibling) G - Enrolled actuary H - Unenrolled return preparer I- Registered Return Preparer K - Student Attorney or CPA R -Enrolled Retirement Plan Agent (ERPA)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "d2746bf70112bc01d51c64c4b6aa83da",
+    "text": "Exhibit 2.3.31-5 (Cont. 4) (01-01-2019) CFINK with Taxpayer TIN, Tax Module, and CAF Number",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "9d89aa8e00ab5f672b3210be4c82f6fb",
+    "text": "Line 19 NOTICE Indicates if authorized to receive copies of taxpayer notices (Yes or No) Line 19 SIGN Indicates if third party allowed to sign returns for taxpayer (Yes or No) Line 20 UN/MOD UNM = 2848 was unmodiﬁed MOD = 2848 was modiﬁed in some way other than sign, delegate and/or disclose to third party TXT = input by E-Services and contains modiﬁed form text Line 20 REFUND Indicates if authorized to receive (but not negotiate) taxpayer’s refund checks Line 20 DELEGATE Indicates if authorized to delegate or substitute Line 21 MF-TRANS Indicates if a transaction was attempted to be sent to Master File Line 21 BLIND TRUST Indicates whether module contains blind trust au- thorization Line 21 DISCLOSE THIRD PARTY Indicates whether the taxpayer has given the Rep authorization to disclose information to another third party. (Yes or No) Line 22 JURISDICTION 2 character state code of where the Third Party practices as an Attorney or CPA, for this authoriza- tion, if applicable Line 22 L-B-E NUMBER License/Bar/Enrollment number, if applicable. Ap- plicable to designation levels: Attorney, CPA, Enrolled Agent, Enrolled Actuary, Enrolled Retire- ment Plan Agent.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "6081197c26ed5f14ea2a2ef243940944",
+    "text": "License/Bar/Enrollment number, if applicable. Ap",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "99ffce44e3d9204f2776f12fcafd4cb5",
+    "text": "plicable to designation levels: Attorney, CPA, Enrolled Agent, Enrolled Actuary, Enrolled Retire",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "1e9139fd238303f08890da47acf57e56",
+    "text": "ment Plan Agent.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "99a012d0f4306ddb8703217a51ab52ff",
+    "text": "Command Codes CFINK , RPINK, KAFFQ and KAFTQ for CAF Inquiry 2.3.31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "c0dd3ed478adf1bd96017df191294c4c",
+    "text": "3Output:1 2 3 4 5 6 7 8123456789012345678901234567890123456789012345678901234567890123456789012345678901 [ CFINKH666-55-4444 MFT 992 - TAXPAYER - TAX PRD 9----93 N/C X--X PLAN 9-94 =5 --X  EMP-NO 9- ---9 - -6 X N/C:X--X CAF NUMBER: 9999-99999R7 AUTH LEVEL: X/X------- X SDLN:99-9999-99-999-998 | PHO: 999-999-9999 X9999999999 SIGN DATE: 99-99-9999 FORM: X----X R/W: X9 | FAX: 011+999+99999+999999999 L/B/E NUM: X-------------- X DISCLOSE:  X-X10 ===0K JURISDICTION: XX ON RETURN: X-X MF TRANS: X-X11| ---------- POA/TIA CO-SIGNER ----------- UN/MOD: X-X  NOTICE: X-X12 TIN: 999-99-9999 SIGNATURE: X-X REFUND: X-X13 NAME: X--- DELEGATE: X-X BLIND TRUST:X-X14 =15 AUTH EFFECTIVE FROM X- --X  EMP-NO 9- -16 | REP NAME: X- --X N/C:X—-X CAF NUMBER: 9999-99999R17 | CAF STATUS: X AUTH LEVEL: X/X------- X SDLN: 99-9999-99-999-9918 | PHO: 999-999-9999 X9999999999 SIGN DATE: 99-99-9999 FORM: X----X R/W: W19 | FAX: 011+4999+99999+999999999 L/B/E NUM: X-------------- X DISCLOSE:  YES20 UNDELIVERABLE JURISDICTION: XX ON RETURN: NO MF TRANS: YES21| ---------- POA/TIA CO-SIGNER ----------- UN/MOD : UNM  NOTICE: YES22 TIN: 999-99-9999 SIGNATURE: NO REFUND: NO23 7 1 R X DELEGATE: YES  BLIND TRUST:NO24 PAGE 9-9 OF 9-9 -CFIPG 9-9",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "99dd9dd83ec0e5365fa2e7d35535c8b2",
+    "text": "table below contains a full list of the screen ﬁelds and their descriptions.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "65b5c56f3883115dea1ae40226b5d401",
+    "text": "Input - Tax Module History Line 1 Command Code CFINKH Line 1 TIN SSN or EIN -- must be in one of the following formats: ([[slashb]]=blank) nnn-nn-nnnn[[slashb]] (Valid IMF) nnn-nn-nnnn* (Invalid IMF) nnn-nn-nnnnV (Valid BMF SSN) nnn-nn-nnnnW (Invalid BMF SSN) nnn-nn-nnnnN (NMF SSN) nn-nnnnnnn[[slashb]] (BMF EIN) nn-nnnnnnnP (EPMF EIN) nn-nnnnnnnN (NMF EIN)",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "5b0cc617891720df84e12bcfd3531539",
+    "text": "Exhibit 2.3.31-6 (Cont. 1) (01-01-2019) CFINKH (Mod History) with Taxpayer TIN, MFT, and Tax Period",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 50
+    }
+  },
+  {
+    "element_id": "4054ad86081ccbc1cb630bba1a93cc63",
+    "text": "Input - Tax Module History Line 1 Command Code CFINKH Line 1 MFT MFT - Master File Tax code (to which an authori- zation applies) Line 1 Tax Period yyyymm format month ending the period of time the tax form covers Output - Tax Module History Line 1 Command Code CFINKH Line 1 TIN TIN entered on Input screen Line 1 MFT MFT - Master File Tax code (to which an authori- zation applies) Line 2 TAX PRD yyyymm format month ending the period of time the tax form covers Line 3 PLAN REPORT/PLAN NUMBER Used for all EPMF and some BMF modules (MFT 46 and 76). TAXPAYER Line 3 NAME The full taxpayer name - up to 35 characters. For individuals , this ﬁeld is made up of FIRST-NAME, MIDDLE-NAME/INIT, LAST-NAME, and SUFFIX. For business entries, this ﬁeld will be the only place the name is displayed. Line 3 N/C Taxpayer name control Line 5 & 15 AUTH EFFECTIVE This is the date range that the particular authoriza- FROM/TO tion is valid for. If this is the current authorization, the TO ﬁeld will display the word PRESENT Line 5 & 15 EMP NO This is the number of the employee who added/ updated information on this particular authorization. If this ﬁeld is zeroes, change was done in batch processing. Line 6 & 16 REP NAME The full third party name - up to 35 characters. This ﬁeld is made up of FIRST-NAME, MIDDLE- NAME/INIT, LAST-NAME, and SUFFIX. Line 6 & 16 REP N/C Third party name control Line 6 & 16 CAF NUMBER Third party CAF number",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 50
+    }
+  },
+  {
+    "element_id": "99a012d0f4306ddb8703217a51ab52ff",
+    "text": "Command Codes CFINK , RPINK, KAFFQ and KAFTQ for CAF Inquiry 2.3.31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "bdc7d308f09ab184e437db4fa9fedbe3",
+    "text": "Exhibit 2.3.31-6 (Cont. 2) (01-01-2019) CFINKH (Mod History) with Taxpayer TIN, MFT, and Tax Period",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "af5ce31f56f650a7a9391be503793d0b",
+    "text": "CONF FRAUD - Conﬁrmed Fraud usage of this CAF number. Authorization level - mandatory for",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "fb95e823a56cbe9f2e94bb538d264ae0",
+    "text": "only A - Attorney B - Certiﬁed Public Accountant C - Enrolled Agent D - Bona ﬁde officer of the taxpayer’s organization E - Full-time employee of the taxpayer’s organiza- tio",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "3dec1e69333cad9220ff4f6582705cf4",
+    "text": "-Member of the taxpayer’s immediate family (spouse, child, parent, sibling) G - Enrolled actuary H - Unenrolled return preparer I- Registered Return Preparer K - Student Attorney or CPA R -Enrolled Retirement Plan Agent (ERPA) Source Document Locator Number nn-nnnn-nn-nnn-nn format, where... nn=purge year - last",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "59bb68bbdbd01821a0029b79aa3c6101",
+    "text": "digits of the year in which the paper document is to be purged from the ﬁles; if form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "21af6f1260f927f5b9b3ff5ca4a5d194",
+    "text": "then",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "852a7da549dce6ab21404649fd2192e2",
+    "text": "years after sign date; if form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "21af6f1260f927f5b9b3ff5ca4a5d194",
+    "text": "then",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "b81834d9eb5cc84d7511ae9b3c797812",
+    "text": "years after sign date nnnn=control cycle - yyww format; not later than current cycle nn=document location office nnn=block series - numeric;",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "666e7b42e53457a5a34c9c7bbf6100c9",
+    "text": "nn=sequence number - numeric;",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "9514486fcb1401053624a43041f8e941",
+    "text": "Authorization level - mandatory for",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "fb95e823a56cbe9f2e94bb538d264ae0",
+    "text": "only A - Attorney B - Certiﬁed Public Accountant C - Enrolled Agent D - Bona ﬁde officer of the taxpayer’s organization E - Full-time employee of the taxpayer’s organiza- tio",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "faa72d2b47f50b5f7fae4ed62a311574",
+    "text": "-Member of the taxpayer’s immediate family (spouse, child, parent, sibling) G - Enrolled actuary H - Unenrolled return preparer I- Registered Return Preparer K - Student Attorney or CPA R -Enrolled Retirement Plan Agent (ERPA)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "6f308a8a23ee391a50e653f849d7cdaf",
+    "text": "Source Document Locator Number nn-nnnn-nn-nnn-nn format, where... nn=purge year - last",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "59bb68bbdbd01821a0029b79aa3c6101",
+    "text": "digits of the year in which the paper document is to be purged from the ﬁles; if form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "21af6f1260f927f5b9b3ff5ca4a5d194",
+    "text": "then",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "852a7da549dce6ab21404649fd2192e2",
+    "text": "years after sign date; if form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "21af6f1260f927f5b9b3ff5ca4a5d194",
+    "text": "then",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "b81834d9eb5cc84d7511ae9b3c797812",
+    "text": "years after sign date nnnn=control cycle - yyww format; not later than current cycle nn=document location office nnn=block series - numeric;",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "666e7b42e53457a5a34c9c7bbf6100c9",
+    "text": "nn=sequence number - numeric;",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "aa804f292c2bccf014252791d0bac4f9",
+    "text": "Note:Oral TIAs will show a ‘P’ after the SDLN",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "37aca67f675eaabfc805d3eb50a3a651",
+    "text": "Exhibit 2.3.31-6 (Cont. 3) (01-01-2019) CFINKH (Mod History) with Taxpayer TIN, MFT, and Tax Period",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "c108446b04dc6f26320b85e7e4e849ba",
+    "text": "Input - Tax Module History Line 1 Command Code CFINKH Line 8 & 18 PHO Third party’s phone number (domestic or foreign), and possibly extension (domestic only) Line 8 & 18 SIGN DATE Taxpayer signature date from form Line 8 & 18 FORM FORM: Input form number - current valid form numbers are 2848, 8821, and 706. Older entries may contain 2848D, 56, or others. Line 8 &18 R/W Revoke or Withdrawn Indicator, X= Taxpayer revoked the authorization W = Rep withdrew the authorization E = Employee change or error Line 9 & 19 FAX Third party’s FAX number (domestic or foreign) Line 9 & 19 L/B/E NUM License/Bar/Enrollment number, if applicable. Ap- plicable to designation levels: Attorney, CPA, Enrolled Agent, Enrolled Actuary, Enrolled Retire- ment Plan Agent. Line 9 & 19 DISCLOSE Indicates whether the taxpayer has given the Rep authorization to disclose information to another third party. (Yes or No) Line 10 & 20 Note: If correspondence addressed to the third party at this address has been returned by the USPS, then ’UNDELIVERABLE’, will appear to the left of JURISDICTION Line 10 & 20 JURISDICTION 2 character state code of where the Third Party practices as an Attorney or CPA, for this authoriza- tion, if applicable Line 10 & 20 ON RETURN YES = POA was submitted with a tax return NO = POA was submitted separately or after July 2008 Line 10 & 20 MF TRANS Indicates if a transaction was attempted to be sent to Master File Line 11 & 21 UN/MOD UNM = 2848 was unmodiﬁed MOD = 2848 was modiﬁed in some way other than sign, delegate and/or disclose to third party TXT = input by E-Services and contains modiﬁed form text Line 11 & 21 NOTICE Indicates if authorized to receive copies of taxpayer notices (Yes or No)",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "99a012d0f4306ddb8703217a51ab52ff",
+    "text": "Command Codes CFINK , RPINK, KAFFQ and KAFTQ for CAF Inquiry 2.3.31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "8e3a06f39c8fa7bd6d1594b5a1b51b00",
+    "text": "Exhibit 2.3.31-6 (Cont. 4) (01-01-2019) CFINKH (Mod History) with Taxpayer TIN, MFT, and Tax Period",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "1b432b28752398bb83f94b7b80623650",
+    "text": "Input - Tax Module History Line 1 Command Code CFINKH Line 12 & 22 POA/TIA CO-SIGNER TIN TIN of co-signer of CAF document (not necessarily joint ﬁler) Line 12 & 22 SIGNATURE Indicates if third party allowed to sign a return for the taxpayer (Yes or No) Line 12 & 22 REFUND Indicates if authorized to receive (but not negotiate) taxpayer’s refund checks (Yes or No) Line 13 & 23 POA/TIA CO-SIGNER NAME Name of co-signer of CAF document (not neces- sarily joint ﬁler) Line 13 & 23 DELEGATE Indicates if authorized to delegate or substitute (Yes or No) Line 13 & 23 BLIND TRUST Indicates whether module contains blind trust au- thorization (Yes or No)",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "5085525ba5ce55cff65e47ab084afc56",
+    "text": "Exhibit 2.3.31-7 (01-01-2019) CFINKH (Rep History) with CAF Number",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 54
+    }
+  },
+  {
+    "element_id": "f602b238f1531d8a989dc30a7f3c0382",
+    "text": "1 2 3 4 5 6 7 8123456789012345678901234567890123456789012345678901234567890123456789012345678901|CFINKH9999-99999R23Input 2:1 2 3 4 5 6 7 812345678901234567890123456789012345678901234567890123456789012345678901234567890-CFINKH9999-99999R 01012012 12312012",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 54
+    }
+  },
+  {
+    "element_id": "652afdbd645495e0be8bad4925209e31",
+    "text": "The Begin Date(MMDDYYYY) and End Date(MMDDYYYY) ﬁelds are optional. If only a Begin Date is speciﬁed, all history from the Begin Date to current date is displayed. If both Begin Date and End Date are speciﬁed, then the current record along with all history within the speciﬁed range will be displayed.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 54
+    }
+  },
+  {
+    "element_id": "4f0fdfccbd8f47a78872c8f6f1502924",
+    "text": "The table below contains a full list of the screen ﬁelds and their descriptions.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 54
+    }
+  },
+  {
+    "element_id": "99a012d0f4306ddb8703217a51ab52ff",
+    "text": "Command Codes CFINK , RPINK, KAFFQ and KAFTQ for CAF Inquiry 2.3.31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 55
+    }
+  },
+  {
+    "element_id": "59f73a2dcdc8aa10f0e0cdd37c030702",
+    "text": "Exhibit 2.3.31-7 (Cont. 1) (01-01-2019) CFINKH (Rep History) with CAF Number",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 55
+    }
+  },
+  {
+    "element_id": "5ccaa9408b83290aea119dddb25c28c3",
+    "text": "(Rep History) with CAF Number Input - CAF# History Line 1 Command Code CFINKH Line 1 CAF Number Third party CAF number followed by ‘R ’(ﬁle source code = 9 and tin type = 4). Format: nnnn- nnnnnR Line 1 Beginning Date (optional) If a beginning date is entered, only history equal or newer is displayed Format: mmddyyyy Line 1 Ending Date (optional) If an ending date is entered, the history that is displayed will fall in to the range of dates Format: mmddyyyy Output - CAF# History Line 1 Command Code CFINKH Line 1 CAF Number Third party CAF # entered on input screen Line 1 NAME The full third party name - up to 35 characters. This ﬁeld is made up of FIRST-NAME, MIDDLE- NAME/INIT, LAST-NAME, and SUFFIX or name. Line 1 NAME CNTRL Third party name control Line 2 & 14 FROM/TO Date range that this authorization is valid for Line 2 & 14 PGM/EMP PGM: Name of the program used when adding/ updating this third party data. EMP: This is the number of the employee who added/updated information on this particular third party. If this ﬁeld is zeroes, change was done in batch processing. Line 3 & 15 FIRST Third party’s ﬁrst name - maximum 20 characters (total of ﬁrst name, middle name, last name and suffix may not exceed 35) Line 3 & 15 PHONE Third party’s phone number, domestic or foreign. Extension may also be present on domestic numbers. Line 3 & 15 FORM FORM: Input form number - current valid form numbers are 2848, 8821, and 706. Older entries may contain 2848D, 56, or others. Line 4 & 16 MIDDLE Third party’s middle name - maximum 20 charac- ters (total of ﬁrst name, middle name, last name and suffix may not exceed 35) Line 4 & 16 FAX Third party’s FAX number, domestic or foreign",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 55
+    }
+  },
+  {
+    "element_id": "bca0c4037f70211d026fede9021f0d1c",
+    "text": "Exhibit 2.3.31-7 (Cont. 2) (01-01-2019) CFINKH (Rep History) with CAF Number",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 56
+    }
+  },
+  {
+    "element_id": "635db2728a403bdb8fba598191cd4b9a",
+    "text": "Line 5 & 17 SDLN Source Document Locator Number nn-nnnn-nn-nnn-nn format, where... nn=purge year - last 2 digits of the year in which the paper document is to be purged from the ﬁles; if form 2848 or 8821 then 7 years after sign date; if form 706 then 15 years after sign date nnnn=control cycle - yyww format; not later than current cycle nn=document location office nnn=block series - numeric; 000-999 nn=sequence number - numeric; 00-99 Note:Oral TIAs will show a ‘P’ after the SDLN Line 5 & 17 MERGE CAF# CAF number of third party who was merged to this third party Line 6 & 18 SUFFIX JR, III, etc. - maximum 10 characters (total of ﬁrst name, middle name, last name and suffix may not exceed 35 characters. Note: Do not include any authorization level infor- mation (e.g. ATTY, EA, A, B, C, etc.) in this ﬁeld. That information does not belong in the THIRD PARTY record. Line 6 & 18 SIGN DATE Third party signature date Line 6 & 18 MERGE DATE Date the third party merge took place Line 7 & 19 2ND NAME Third party’s 2nd name, often a business name Used in some instances to indicate multiple locations (i.e. “Location 2”) Line 7 & 19 MERGE PTIN PTIN of third party who was merged to this third party Line 8 & 20 STREET Third party’s street address, domestic or foreign Line 9 & 21 CITY Third party’s city, domestic or foreign on domestic, state & Zip codes will be to the right of CITY on foreign, postal code will be to the right of CITY Line 10 & 22 PROV/CNTY If foreign, province/county/territory name will be displayed to the left of COUNTRY Line 10 & 22 COUNTRY Third party’s 2 character country code along with the 35 character name is displayed.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 56
+    }
+  },
+  {
+    "element_id": "6603384c0f18fb5c5e4d97236c1caf6f",
+    "text": "CAF number of third party who was merged to this third party",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 56
+    }
+  },
+  {
+    "element_id": "99a012d0f4306ddb8703217a51ab52ff",
+    "text": "Command Codes CFINK , RPINK, KAFFQ and KAFTQ for CAF Inquiry 2.3.31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 57
+    }
+  },
+  {
+    "element_id": "27adc4f11adc399bcdaeafedad58215e",
+    "text": "Exhibit 2.3.31-7 (Cont. 3) (01-01-2019) CFINKH (Rep History) with CAF Number",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 57
+    }
+  },
+  {
+    "element_id": "133b5a82d65d4c1b82cb8c9a6a475a91",
+    "text": "(Rep History) with CAF Number Input - CAF# History Line 1 Command Code CFINKH Line 11 & 23 Note: If correspondence addressed to the third party at this address has been returned by the USPS, then ’UNDEL’, will appear to the left of CAF STATUS Line 11 & 23 CAF STATUS Indicates third party’s practice status before the IRSGOOD STANDING - third party is authorized to represent the taxpayer DISBARRED - third party is not authorized to represent the taxpayer SUSPENDED - third party is not authorized to represent the taxpayer DECEASED - third party is not authorized to represent the taxpayer RETIRED - third party is not authorized to represent the taxpayer INELIGIBLE - third party is not PND REVIEW - CAF number under review for possible fraud CONF FRAUD - Conﬁrmed Fraud usage of this CAF number. authorized to represent the taxpayer Line 11 & 23 Note:If the third party has been suspended, the date(s) of the suspension will display in the format mm/dd/yy to the right of the CAF STATUS",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 57
+    }
+  },
+  {
+    "element_id": "90edff029aac06d5f0dcea4d1b0c8651",
+    "text": "Note:If the third party has been suspended, the date(s) of the suspension will display in the format mm/dd/yy to the right of the CAF STATUS",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 57
+    }
+  },
+  {
+    "element_id": "9440682851962b61e2d82105829677f1",
+    "text": "Input:A 2 3 4 B 6 7 8123456789012345678901234567890123456789012345678901234567890123456789012345678901|CFINKS99-9999-99-999-9923Output:) 2 3 4 5 6 7 8123456789012345678901234567890123456789012345678901234567890123456789012345678901 | CFINKS2 [FSDLN:R99S9999=9929599=09 SIGN DATE: 99-99-9999 FORM NUM: XXXXXX3 | MODIFIED FORM CODE: X PURGE DATE: 99-99-9999LY e e s s s S S RS e T S E e S S TEE TS S SO E G S EE S S B 0 0 S £ S S S S S S S S S S S e e i XSl Vi ssconosssisso s mnise s Smiaie S B Ssins B S S S S 2 SR S SRS S S S S S S S e s X(Wl Vimmmmemmmsem s s s s s m s s s s s s s s s s s s s s s s s s S s e s s s S S e s e e XTNLIILLLLT T 7700077077771 777777777770777771711777777777777777711117177777178 TAXPAYER TIN TAXPAYER NAME9 DEG=LEI0=CEEL) IS S SIS S S SIS S S S S SIS S S S =S X10 9899209959999 X ————————————————————————————————— X11 PE=CEEEEgs - e e e R e s DS R R s D S S e12 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\13 | REP NUMBER REP NAME STATUS OPR DATE (S)14 | 9999-99999R 99/99/99-99/99/9915 [F28995990990R X e e S eSS Xle [B999929009C0R: 99/99/99-99/99/9917 [B289S599599R 99/99/99-99/99/9918 | 9999-99999R 99/99/99-99/99/9919 [FES9929909 90K 99/99/99-99/99/9920 [§2995299990R: 99/99/99-99/99/9921 [§29955909950R: 99/99/99-99/99/9922 [§9995299990R: 99/99/99-99/99/9923 [§9999299990R: 99/99/99-99/99/9924 PAGE 001 OF 002 -CFIPG 002",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 58
+    }
+  },
+  {
+    "element_id": "4f0fdfccbd8f47a78872c8f6f1502924",
+    "text": "The table below contains a full list of the screen ﬁelds and their descriptions.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 58
+    }
+  },
+  {
+    "element_id": "99a012d0f4306ddb8703217a51ab52ff",
+    "text": "Command Codes CFINK , RPINK, KAFFQ and KAFTQ for CAF Inquiry 2.3.31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 59
+    }
+  },
+  {
+    "element_id": "2781a87aa476323ca55e77258d997eb7",
+    "text": "Exhibit 2.3.31-8 (Cont. 1) (01-01-2019) CFINKS with SDLN",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 59
+    }
+  },
+  {
+    "element_id": "a2dcc28497b62732d3be51d6cb7e1fc0",
+    "text": "Exhibit 2.3.31-8 (Cont. 2) (01-01-2019) CFINKS with SDLN",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 60
+    }
+  },
+  {
+    "element_id": "97243489e2cd901908d7a19efa82defb",
+    "text": "with SDLN Input - SDLN Line 1 Command Code CFINKS Line 14 thru 23 STATUS Indicates third party’s practice status before the IRSUNDEL - Undeliverable - correspondence addressed to the third party at this address has been returned by the USPS GOOD - Good Standing, third party is authorized to represent the taxpayer DISB - Disbarred - third party is not authorized to represent the taxpayer SUSP - Suspended - third party is not authorized to represent the taxpayer DEC - Deceased, not authorized to represent the taxpayerRET-Retired - third party is not authorized to represent the taxpayer INELG - Ineligible - third party is not authorized to represent the taxpayer PNDING - CAF number under review for possible fraudCFRD - Conﬁrmed Fraud usage of this CAF number. Line 14 thru 23 OPR DATE(S) If the third party has been suspended, the date(s) of the suspension will display in the format mm/dd/yy",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 60
+    }
+  },
+  {
+    "element_id": "99a012d0f4306ddb8703217a51ab52ff",
+    "text": "Command Codes CFINK , RPINK, KAFFQ and KAFTQ for CAF Inquiry 2.3.31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "94a6695f924cd762a3a7dc1700443465",
+    "text": "Exhibit 2.3.31-9 (01-01-2019) CFINKT with Taxpayer TIN and CAF Number",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "89f88d5403ef13e5a0fc5e3b3644b6c6",
+    "text": "- TIN & CAF# 1 Command Code CFINKT 1 TIN SSN or EIN -- must be in one of the following formats: ([[slashb]]=blank) nnn-nn-nnnn[[slashb]] (Valid IMF) nnn-nn-nnnn* (Invalid IMF) nnn-nn-nnnnV (Valid BMF SSN) nnn-nn-nnnnW (Invalid BMF SSN) nnn-nn-nnnnN (NMF SSN) nn-nnnnnnn[[slashb]] (BMF EIN) nn-nnnnnnnP (EPMF EIN) nn-nnnnnnnN (NMF EIN) 1 CAF Number Third party CAF number followed by ‘R ’. Format: nnnn-nnnnnR (CAF #)",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "7e73e653c55ed4eaec42b71ff7b1b067",
+    "text": "Input - TIN & CAF# Line 1 Command Code CFINKT Line 1 TIN SSN or EIN -- must be in one of the following formats: ([[slashb]]=blank) nnn-nn-nnnn[[slashb]] (Valid IMF) nnn-nn-nnnn* (Invalid IMF) nnn-nn-nnnnV (Valid BMF SSN) nnn-nn-nnnnW (Invalid BMF SSN) nnn-nn-nnnnN (NMF SSN) nn-nnnnnnn[[slashb]] (BMF EIN) nn-nnnnnnnP (EPMF EIN) nn-nnnnnnnN (NMF EIN) Line 1 CAF Number Third party CAF number followed by ‘R ’. Format: nnnn-nnnnnR (CAF #)",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "587a5484b82281499d4f481a626c5f24",
+    "text": "Third party CAF number followed by ‘R ’. Format: nnnn-nnnnnR (CAF #)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "c3168bae43331cc536676f830fdb0cf4",
+    "text": "Exhibit 2.3.31-9 (Cont. 1) (01-01-2019) CFINKT with Taxpayer TIN and CAF Number",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 62
+    }
+  },
+  {
+    "element_id": "d2612b8a48267b236022f7243f93925f",
+    "text": "Codes CFINK , RPINK, KAFFQ and KAFTQ for Inquiry 2.3.31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "6244338beab71ae1c5650d0c80f2cbe8",
+    "text": "Exhibit 2.3.31-9 (Cont. 2) (01-01-2019) CFINKT with Taxpayer TIN and CAF Number Input - TIN & CAF# Line 10 thru 22 SIGNDATE Taxpayer signature date Line 10 thru 22 SDLN Source Document Locator Number nn-nnnn-nn-nnn-nn format, where... nn=purge year - last 2 digits of the year in which the paper document is to be purged from the ﬁles; if form 2848 or 8821 then 7 years after sign date; if form 706 then 15 years after sign date nnnn=control cycle - yyww format; not later than current cycle nn=document location office nnn=block series - numeric; 000-999 nn=sequence number - numeric; 00-99 Note:Oral TIAs will show a ‘P’ after the SDLN Line 10 thru 22 LVL Authorization level - mandatory for 2848 only A - Attorney B - Certiﬁed Public Accountant C - Enrolled Agent D - Bona ﬁde officer of the taxpayer’s organization E - Full-time employee of the taxpayer’s organiza- tionF-Member of the taxpayer’s immediate family (spouse, child, parent, sibling) G - Enrolled actuary H - Unenrolled return preparer I- Registered Return Preparer K - Student Attorney or CPA R -Enrolled Retirement Plan Agent (ERPA) Line 10 thru 22 RCT N = third party is authorized to receive copies of taxpayer correspondence R = third party is authorized to receive taxpayer’s refund check B = indicates blind trust - third party receives cor- respondence and refund; taxpayer receives neither Line 10 thru 22 AUTHS U = 2848 was unmodiﬁed M = 2848 was modiﬁed in some way other than sign, delegate and/or disclose to third party T = input by E-Services and contains modiﬁed form text S = modiﬁed to allow third party to sign returns for taxpayerD=modiﬁed to allow third party to re-delegate his/ her authorization I = 8821 coded for INSPECT Y = Disclosure to another third party",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "5a66362f7b14e9db1db6e68418493286",
+    "text": "2.3.31-9 (Cont. 2) (01-01-2019) with Taxpayer TIN and CAF",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "584b0fec9240a2f0868ba869ba571dce",
+    "text": "Line 10 thru 22 LVL Line 10 thru 22 RCT Line 10 thru 22 AUTHS",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "f97decde28a63c6412d1117cd4b10cbc",
+    "text": "Note:Oral TIAs will show a ‘P’ after the SDLN Authorization level - mandatory for",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "fb95e823a56cbe9f2e94bb538d264ae0",
+    "text": "only A - Attorney B - Certiﬁed Public Accountant C - Enrolled Agent D - Bona ﬁde officer of the taxpayer’s organization E - Full-time employee of the taxpayer’s organiza- tio",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "098b6b5ba9c7ad26bb11f742ea854a01",
+    "text": "-Member of the taxpayer’s immediate family (spouse, child, parent, sibling) G - Enrolled actuary H - Unenrolled return preparer I- Registered Return Preparer K - Student Attorney or CPA R -Enrolled Retirement Plan Agent (ERPA) N = third party is authorized to receive copies of taxpayer correspondence R = third party is authorized to receive taxpayer’s refund check B = indicates blind trust - third party receives cor- respondence and refund; taxpayer receives neither U =",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "ff24ed5b781a8e6e9db886201001ec77",
+    "text": "was unmodiﬁed M =",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "05adf8fc0338355309d4365f93e1dc6b",
+    "text": "was modiﬁed in some way other than sign, delegate and/or disclose to third party T = input by E-Services and contains modiﬁed form text S = modiﬁed to allow third party to sign returns for taxpaye",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "b3b0cb2bc32ee06ac195195d65f12edd",
+    "text": "=modiﬁed to allow third party to re-delegate his/ her authorization I =",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "5b0fa036782488501ef31a9fa3a781e2",
+    "text": "coded for INSPECT Y = Disclosure to another third party",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "2d04b0690501e8ecd85dab9237a2fa7c",
+    "text": "A - Attorney B - Certiﬁed Public Accountant C - Enrolled Agent D - Bona ﬁde officer of the taxpayer’s E - Full-time employee of the taxpayer’s organiza- tio",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "faa72d2b47f50b5f7fae4ed62a311574",
+    "text": "-Member of the taxpayer’s immediate family (spouse, child, parent, sibling) G - Enrolled actuary H - Unenrolled return preparer I- Registered Return Preparer K - Student Attorney or CPA R -Enrolled Retirement Plan Agent (ERPA)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "ce9ddf3e4ef4a39dfb538e83867f2a0a",
+    "text": "M =",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "05adf8fc0338355309d4365f93e1dc6b",
+    "text": "was modiﬁed in some way other than sign, delegate and/or disclose to third party T = input by E-Services and contains modiﬁed form text S = modiﬁed to allow third party to sign returns for taxpaye",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "80d385e8bebf26a0273c3282241d9258",
+    "text": "=modiﬁed to allow third party to re-delegate her authorization I =",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "5b0fa036782488501ef31a9fa3a781e2",
+    "text": "coded for INSPECT Y = Disclosure to another third party",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "2e3d9c257935bcec80208697afe2bb03",
+    "text": "Exhibit 2.3.31-9 (Cont. 3) (01-01-2019) CFINKT with Taxpayer TIN and CAF Number",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 64
+    }
+  },
+  {
+    "element_id": "adf6f48f13f81dc2367dad81d93bb1a8",
+    "text": "Input - TIN & CAF# Line 10 thru 22 Note: If there is something other than a blank (Good Standing) in the third party’s practice status, one of the following will be displayed in the RCT and AUTHS ﬁelds. DISBARRED - third party is not authorized to represent the taxpayer SUSPENDED - third party is not authorized to represent the taxpayer DECEASED - third party is not authorized to represent the taxpayer RETIRED - third party is not authorized to represent the taxpayer INELIGIBLE - third party is not authorized to represent the taxpayer PND REVIEW - CAF number under review for possible fraud CONF FRAUD - Conﬁrmed Fraud usage of this CAF number. Line 10 thru 22 CO-SIGNER TIN TIN of co-signer of CAF document (not necessarily joint ﬁler) Line 10 thru 22 N-C Name control of co-signer of CAF document (not necessarily joint ﬁler) Line 10 thru 22 Note: If there is more than 1 co-signer, an asterisk (*) will display next to the name control.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 64
+    }
+  },
+  {
+    "element_id": "7bedf7d1aa1b09072169d8aea817e6dc",
+    "text": "Note: If there is something other than a blank (Good Standing) in the third party’s practice one of the following will be displayed in the RCT and AUTHS ﬁelds. DISBARRED",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 64
+    }
+  },
+  {
+    "element_id": "83a5d8aaf97d11c2e5b9366237b32c9a",
+    "text": "third party is not authorized to represent the taxpayer SUSPENDED",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 64
+    }
+  },
+  {
+    "element_id": "a6cbe4fd0c9df7da501e6081af3a4e18",
+    "text": "third party is not authorized to represent the taxpayer DECEASED",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 64
+    }
+  },
+  {
+    "element_id": "ac651b4d7e23774d1f9cc3e5f6990a95",
+    "text": "third party is not authorized to represent the taxpayer RETIRED",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 64
+    }
+  },
+  {
+    "element_id": "e70576bd07fcda262e0c92ddeedeccda",
+    "text": "third party is not authorized to represent the taxpayer INELIGIBLE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 64
+    }
+  },
+  {
+    "element_id": "32eb3a7cd960598df617e05dca269b15",
+    "text": "third party is not authorized to represent the taxpayer PND REVIEW",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 64
+    }
+  },
+  {
+    "element_id": "3a48603048c5c8b6517eef8abcf0cdac",
+    "text": "CAF number under review for possible fraud CONF FRAUD",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 64
+    }
+  },
+  {
+    "element_id": "a693f52f645e670de5868a662dbd88a0",
+    "text": "Conﬁrmed Fraud usage of this CAF number.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 64
+    }
+  },
+  {
+    "element_id": "4f0fdfccbd8f47a78872c8f6f1502924",
+    "text": "The table below contains a full list of the screen ﬁelds and their descriptions.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 64
+    }
+  },
+  {
+    "element_id": "99a012d0f4306ddb8703217a51ab52ff",
+    "text": "Command Codes CFINK , RPINK, KAFFQ and KAFTQ for CAF Inquiry 2.3.31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 65
+    }
+  },
+  {
+    "element_id": "1119295b6994c51580cf899b15181ebe",
+    "text": "PINK with All OptionsInput:1. 2 3 4 56 7 8123456789012345678901234567890123456789012345678901234567890123456789012345678901|RPINK SMITHA, J23Output1 2 3 4 5 6 7 8123456789012345678901234567890123456789012345678901234567890123456789012345678901 | RPINK SMITHA230 |- —mmmmm- CAF NUMBER 0302-44967R - |4| NAME: JOHNE SMITHA PTIN:P111111115| SECOND NAME: PH:6 | STREET: 985 MICHIGAN FAX:7| CITY: WINDSOR,MI 48226-9999-999 STATUS: GOOD STANDING8 | COUNTRY: US910 | |=-mmmmmm e CAF NUMBER 0302-44968R -------------————----—————— |11 | NAME: JONA SMITHA PTIN:P1234567812 SECOND NAME: PH:13 STREET: 985 MICHIGAN FAX:14 (g WINDSOR, STATUS: GOOD STANDING15 COUNTRY : XX-UNKNOWN1617 | |-=--mmmmmmmm e CAF NUMBER 0302-44969R -------=-=---==--————~————~—~——- |18 | NAME: JONB SMITHA PTIN:19 SECOND NAME: PH:20 STREET: 985 MICHIGAN FAX:21 CTTY:: WINDSOR, ON STATUS: GOOD STANDING22 COUNTRY: CA-CANADA2324 PAGE 004 OF 010 -RPIPG 005",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 65
+    }
+  },
+  {
+    "element_id": "4f0fdfccbd8f47a78872c8f6f1502924",
+    "text": "The table below contains a full list of the screen ﬁelds and their descriptions.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 65
+    }
+  },
+  {
+    "element_id": "2609eb667c043d67de1722411cd72ed7",
+    "text": "Exhibit 2.3.31-10 (Cont. 1) (01-01-2019) RPINK with All Options",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "0d44df672882de3c03c9fb7f04dcba81",
+    "text": "Input Line 1 Command Code RPINK Output Line 1 Command Code RPINK Line 1 Third Party last name the ﬁrst 10 characters of the last name ﬁeld Line 3, 10, 17 CAF NUMBER Third party CAF number followed by ‘R ’. Line 4, 11, 18 NAME Full name of third party Line 4, 11, 18 PTIN Third party’s PTIN Line 5, 12, 19 SECOND NAME Third party’s 2nd name, often a business name Line 5, 12, 19 Third party’s telephone number, domestic or PH foreign Line 6, 13, 20 STREET Third party’s street address, domestic or foreign Line 6, 13, 20 FAX Third party’s FAX number, domestic or foreign Line 7, 14, 21 CITY The third party address data reﬂected is a string of the following, domestic or foreign, information: city name state cd or province/territory name zip or postal code Line 7, 14, 21 STATUS If database Practice Code is not spaces will show: ‘PNDING REVIEW’, ’CONFIRM FRAUD’, ‘RETIRED ’, ‘DECEASED’,‘DISBARRED’,‘SUSPENDED ’, or ’INELIGIBLE’. If ’SUSPENDED’ or ’CONFIRM FRAUD’ or ‘PNDING REVIEW’, date(s) of suspension may display underneath. Line 8, 15, 22 COUNTRY Third party’s 2 character country code and 35 character country name will be displayed.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "99a012d0f4306ddb8703217a51ab52ff",
+    "text": "Command Codes CFINK , RPINK, KAFFQ and KAFTQ for CAF Inquiry 2.3.31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 67
+    }
+  },
+  {
+    "element_id": "974ad8d992b6c3500f37afc34edfbb35",
+    "text": "[CNC IR e N E IS© @ oUW NINPUT without definer:1 2 3 4 567812345678901234567890123456789012345678901234567890123456789012345678901234567890KAFFO 9D090-9090090R |123456789012345678901234567890123456789012345678901234567890123456789012345678901 2 3 4 5OUTPUT without definer:1 2 3 4 566758812345678901234567890123456789012345678901.234567890123456789012345678201234567890KAFFQ: 9990-99G99RFOIA - REQUEST WILL BE PROCESSED ON THE NEXT BUSINESS DAY.123456789012345678901234567890123456789012345678901234567890123456789012345678%01 2 3 4 5658",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 67
+    }
+  },
+  {
+    "element_id": "777cfd4453f0c8dba05dee1c45c81f52",
+    "text": "INPUT without definer:1 -~",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 67
+    }
+  },
+  {
+    "element_id": "241c3ba21f76cb5323dbc60e85f9b8f1",
+    "text": "- kg -~ o ~ ~ ! =~45678901234567890123456789012345678901234567890123456789012345678901234567890N ABAG OB AOS . 1",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 67
+    }
+  },
+  {
+    "element_id": "20701183123bd82951dbd4d6b89063b4",
+    "text": "- <OUTPUT without definer:1 Ty",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 67
+    }
+  },
+  {
+    "element_id": "b0d62caba3b9931cfacd8a9b8b89773f",
+    "text": "© @ oUW NMU U L WilNout ucHricr.1 2 3 4 5 6 7 812345678901234567890123456789012345678901.234567890123456789012345678201234567890KAFFQ: 9990-99G99RFOIA - REQUEST WILL BE PROCESSED ON THE NEXT BUSINESS DAY.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 67
+    }
+  },
+  {
+    "element_id": "61255d34bee550825bd7e26f8fbbba20",
+    "text": "© O UT R W N",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 67
+    }
+  },
+  {
+    "element_id": "fd61285867fc4416603c5b896aee35c0",
+    "text": "INPUT using the definer P:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 68
+    }
+  },
+  {
+    "element_id": "0c061ec41b2570cb2c05de840f797f00",
+    "text": "OUTPUT using definer P:1 22 34567812345678901234567890123456789012345678901234567890123456789012345678901234567890KAFEQD1234567890123456789012345678901234567890123456782012345678901234567890123456789012 3344556677881234567689012345678901234567890123456789012345678901234567890123456789012345678%0KAFEQOPCAF NO39990-99909R9999999009999-99959RPENDING FOIA REQUESTS:THIRD PARTY NAME:JOHN DOEJANE DOEJILL DOE12345678901234567890123456789012345678901234567890123456789012345678901234567890O U W N",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 68
+    }
+  },
+  {
+    "element_id": "aa56184d94ecdfa4693ba9892493bea2",
+    "text": "1 234567812345678901234567890123456789012345678901234567890123456789012345678901234567890KAFEQD123456789012345678901234567890123456789012345678201234567890123456789012345678901 2NDIHTRHT riceinma Adafinar D-345678",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 68
+    }
+  },
+  {
+    "element_id": "cfc5b3fc5bb636a5471651c325ef63b6",
+    "text": "OUTPUT using definer P:1 23456781234567689012345678901234567890123456789012345678901234567890123456789012345678%0KAFEQOPCAF NO39990-99909R9999999009999-99959RPENDING FOIA REQUESTS:THIRD PARTY NAME:JOHN DOEJANE DOEJILL DOE1 A AACETAGNA D AACETOCNA D AT AONT D AACETOCNT DA TRONT T AACETOCNT P AACETQONA D AACET0GNO U W N",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 68
+    }
+  },
+  {
+    "element_id": "e39f33e10484f5129fc24330d6d2b07a",
+    "text": "OUTPUT using definer P:B -",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 68
+    }
+  },
+  {
+    "element_id": "e82f7536c663c7dffb41293ee239ec46",
+    "text": "L J123456789012345678901234567890123456789012345678901234567890123456789012345678901 2 3 4 5 6 7 8",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 68
+    }
+  },
+  {
+    "element_id": "99a012d0f4306ddb8703217a51ab52ff",
+    "text": "Command Codes CFINK , RPINK, KAFFQ and KAFTQ for CAF Inquiry 2.3.31",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 69
+    }
+  },
+  {
+    "element_id": "0102eb1fbb4919d21362f2e2c293604f",
+    "text": "INPUT without definer:H 2 3 4 567812345678901234567890123456789012345678901234567890123456789012345676901234567850KAFTQ 9999-99980R |123456789012345678901234567890123456789012345678901234567690123456789012345678901 2 3 4 5OUTPUT without definer:1 2 3 4 566578812345678901234567860123456789012345678501234567890123456785012345678901234567890KAFTQ 9999-99999RTIGTA REQUEST WILL BE PROCESSED ON THE NEXT BUSINESS DAY.123456789012345678901234567820123456789012345678901234567690123456789012345678901 2 3 4 56782324",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 69
+    }
+  },
+  {
+    "element_id": "5f3452c5d87736d99f208b75f13ed9e1",
+    "text": "INPUT without definer:. .",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 69
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 69
+    }
+  },
+  {
+    "element_id": "1a4224518a45781366a6c88e75c67a8d",
+    "text": "4 [ TIGTA REQUEST WELL BE PROCESSED ON 'THE NEXT BUSINESS DAY.123456789012345678901234567820123456789012345678901234567690123456789012345678901 2 3 4 5 6 7 g",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 69
+    }
+  },
+  {
+    "element_id": "7cc0f74bfd477af058c82b67f621cd0a",
+    "text": "Exhibit 2.3.31-14 (01-01-2011) KAFTQP Display",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 70
+    }
+  },
+  {
+    "element_id": "30cd8f20b2834edc24d66e07b9a3fd39",
+    "text": "INPUT using the definer P:1[ B N2 3456Fl8123456789012345676901234567890123456789012345678901234567890123456789012345678530KAFTOP12345678901234567689012345678901234567890123456789012345678901234567890123456783012 345658OUTPUT using definer P:1 2 3 4 5 6 7 812345678901234567890123456789012345678901234567890123456789012345678901234567890KAFPTOP PENDING TIGTA REQUESTE:CAF NO:899909-990909R9999-969090R9999-9009099RTHIRD PARTY NAME:JOHN DOREJANE ‘DORJILLDOE[ I S N1234567890123456789012345678901234567890123456789012345678901234567890123456789012 345658W WU W R",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 70
+    }
+  },
+  {
+    "element_id": "fd61285867fc4416603c5b896aee35c0",
+    "text": "INPUT using the definer P:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 70
+    }
+  },
+  {
+    "element_id": "fc6971e109a3250fd8a7796cd3612a2e",
+    "text": "1 2345678123456789012345676901234567890123456789012345678901234567890123456789012345678530KAFTOP[ B N1234567890123456768901234567890123456789012345678901234567890123456789012345678301 2OUTPUT using definer P:345658",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 70
+    }
+  },
+  {
+    "element_id": "69dabc9316853d79a84471dec385b9b6",
+    "text": "OUTPUT using definer P:1 )",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 70
+    }
+  },
+  {
+    "element_id": "8cb37a26a108bbc00adbe54896fd6bde",
+    "text": "OUTPUT using definer P:1 2[ I S N34565812345678901234567890123456789012345678901234567890123456789012345678901234567890RAFTOPCAF NO:899909-990909R9999-969090R9999-9009099RPENDING TIGTA REQUESTE:THIRD PARTY NAME:JOHN DOREJANE ‘DORJILLDOETORRAGRETRONT D RAGETRCONT 92 ERaTN0NT D ARELETRONT1 2 2AdRETR0ONT D RARATAGHT D RARETQGNT] DRACELTLONW WU W R",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 70
+    }
+  },
+  {
+    "element_id": "539076a60c9e847cc5d0abe4becfbec6",
+    "text": "W WU W R",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 70
+    }
+  },
+  {
+    "element_id": "d2ad0561d03df674a30348939f5bda70",
+    "text": "L “12345678901234567890123456789012345678901234567890123456789012345678901234567890 21 2 3 4 5 6 7 8",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-031--2018-12-11.pdf",
+      "page_number": 70
+    }
+  }
+]

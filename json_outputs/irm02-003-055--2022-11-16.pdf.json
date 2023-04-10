@@ -1,0 +1,1460 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "2a3136a022bb18eff985e299dbfa35bc",
+    "text": "(1) This transmits revised IRM 2.3.55, IDRS Terminal Responses, Command Codes ELFUP and ELFRQ.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1facecee31a8e8d63bee635586d23c81",
+    "text": "IRM 2.3.55.2 Update valid tax years: TY 2022 thru TY 2015, also valid for TRDB-R8453 records.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "12926890fe80a9ca3e7253c81f061a81",
+    "text": "IRM 2.3.55, dated December 16, 2021, is superseded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "35cbe4425ce1921b8e5da7306e27745f",
+    "text": "IT, LB&I, SB/SE, TE/GE, W&I.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "9dcbadcdba3856e3f99e65dd8bb6b849",
+    "text": "and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6418cbddddcd84dfb3afbd8876af4542",
+    "text": ") Purpose: (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b07c5357ec58703fff04153ef3741ab6",
+    "text": ") This transmits revised IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e93790e7bcbee08285128c974271a58c",
+    "text": ", IDRS Terminal Responses, Command Codes ELFUP and ELFRQ. Individual tax return data is transmitted electronically through the Modernized e-File (M",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4acc4ec9d55d5c663ea18297a6f0e9e9",
+    "text": ") System. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "639c3165a526533e7d0ff1ba20698bc0",
+    "text": ") Policy Owner: Wage and Investment (W&I) Business Operating Division (BOD). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b589e389947da45512cec932d276dd44",
+    "text": ") Program Owner: Information Technology (IT), Application Development Domain (AD), Submission Processing (SP), Document Perfection Branch (DP). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "212cae8bebc9fb3707a567d63b34cb55",
+    "text": ") Primary Stakeholders: Wage & Investment (W&I), Large Business and Inter- national (LB&I), Small Business Self Employed (SB/SE), and Tax Exempt and Government Entities (TE/GE). E-File help desk employees research Integrated Submission and Remittance Processing (ISRP) tax returns with Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "537472743b18a4af1ac11f172e7b0b10",
+    "text": "receipts, to capture data on the Tax Return Data Base (TRDB). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "936b37658e04d56b78685497f3ca59b1",
+    "text": ") Program Management and Review: The assigned team /section/ or business unit respectively named, Individual Master File Document Speciﬁc (IDOCSPEC), within the program owner’s authority must submit this manual annually to receive approval through the Internal Management Documents (IMD) Certiﬁcation process. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "57e3b3d70d928953290dc954e06a296f",
+    "text": ") Responsibilities: Information Technology (IT) Application Development (AD) responsible for the Operation and Maintenance of command codes ELFUP and ELFRQ procedures. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3c25e3c80385f34042d3742d84a52c7b",
+    "text": ") Program Controls: The processes included in this manual are reviewed annually to ensure accuracy and promote consistency. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3676ed0137885f33f611605cdf538310",
+    "text": ") Background: IDRS Command Codes change all applicable ELF programs and reports to recognize one (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "343ae1e64ef36cd6263b19ca7b14b1b5",
+    "text": ") current year and seven (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "245dbf13eebc1f05c98c4cc9d1827945",
+    "text": ") prior year processing for PY",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3ef79d62cec04149c9c64c22aeca19c4",
+    "text": "of Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4041569bd66e5cc3cd945a1e6221c47d",
+    "text": "receipts. However, BMF processing retired in PY",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "21dc5422067097f8cc159d9509f19e8f",
+    "text": "and all related Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "cc1314d33a9811f7080921b05b42b262",
+    "text": "receipts, until PY",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "30c65d32b3efd350fc578c6f90e28d92",
+    "text": ", will “only” process the one (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0ed5c17ffde70f9d50f916b22d240867",
+    "text": ") remaining prior Tax Year",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d4081025e162c664fc94d58f11e80c6a",
+    "text": "Modify Command Code ELFUP to accept and validate Action Code A , C , D and R updates for the current Tax Year",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6ebcf7234a30a3d32090e088f0214aec",
+    "text": "and prior Tax Years",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4aa9bfd2f175a94ad5a7cb321e1aea97",
+    "text": ", and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c48f7e1144783d41611cac684c3b8b95",
+    "text": ") Audience: IT, LB&I, SB/SE, TE/GE, W&I. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ff47c6be14cde1eba6b6d3b76b241c2d",
+    "text": ") Internal Controls, per",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9abd3984b78730b941e8023c2da786a4",
+    "text": ", Internal Management Documents (IMD) System. ELFUP (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "22646fab93a3356f217aa6e6d3720f8d",
+    "text": ") Command Code ELFUP is used to update TRDB-R",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "95685b4b41e1af069ebc55710bf8c0b8",
+    "text": "records. The ELFUP screen contains",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f6f830b5ecf2b28113306dba1ad2d6c7",
+    "text": "ﬁelds for which the user may input data See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "7859ea308a2680fcd9cb112b54d1aa78",
+    "text": "For each request entered, the user must provide the SSN, the list YEAR-DIGIT of requested History-File, and the action code. Valid tax years are TY",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "72241a1a4eb919aab662a1e0d3c6da38",
+    "text": ", TY",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "72241a1a4eb919aab662a1e0d3c6da38",
+    "text": ", TY",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "72241a1a4eb919aab662a1e0d3c6da38",
+    "text": ", TY",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "72241a1a4eb919aab662a1e0d3c6da38",
+    "text": ", TY",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "72241a1a4eb919aab662a1e0d3c6da38",
+    "text": ", TY",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "72241a1a4eb919aab662a1e0d3c6da38",
+    "text": ", TY",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "bfa98ffba09df9fd7253d9e466378b93",
+    "text": ", or TY",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "393e472d0530d15939bc6deaacff2c3c",
+    "text": ") Action Codes A, C, and D are used to update the TRDB-R",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5263ec670009aacd8320c6e7b55c756c",
+    "text": "records for Tax Years",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5a4ed51aea1ef27594876f468277b211",
+    "text": "thru",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a0f66bb1c148797b2e083f39add268d6",
+    "text": ") Action Codes A, C and D are no longer used to update the IMF History-File, however they are used to update the TRBDV database for Tax Year",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "87fc8e52bd27d94a5a205dcc29f5b22a",
+    "text": "and prior years. Codes ELFUP and ELFRQ",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ef51e648dfc814b76990088c13114222",
+    "text": "page (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "92807542d807fdb71407fa7227b4909c",
+    "text": "Program Owner: Information Technology (IT), Application Development Domain (AD), Submission Processing (SP), Document Perfection Branch (DP).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "22646fab93a3356f217aa6e6d3720f8d",
+    "text": ") Command Code ELFUP is used to update TRDB-R",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "95685b4b41e1af069ebc55710bf8c0b8",
+    "text": "records. The ELFUP screen contains",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f6f830b5ecf2b28113306dba1ad2d6c7",
+    "text": "ﬁelds for which the user may input data See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "7859ea308a2680fcd9cb112b54d1aa78",
+    "text": "For each request entered, the user must provide the SSN, the list YEAR-DIGIT of requested History-File, and the action code. Valid tax years are TY",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "72241a1a4eb919aab662a1e0d3c6da38",
+    "text": ", TY",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "72241a1a4eb919aab662a1e0d3c6da38",
+    "text": ", TY",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "72241a1a4eb919aab662a1e0d3c6da38",
+    "text": ", TY",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "72241a1a4eb919aab662a1e0d3c6da38",
+    "text": ", TY",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "72241a1a4eb919aab662a1e0d3c6da38",
+    "text": ", TY",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "72241a1a4eb919aab662a1e0d3c6da38",
+    "text": ", TY",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "bfa98ffba09df9fd7253d9e466378b93",
+    "text": ", or TY",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "393e472d0530d15939bc6deaacff2c3c",
+    "text": ") Action Codes A, C, and D are used to update the TRDB-R",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5263ec670009aacd8320c6e7b55c756c",
+    "text": "records for Tax Years",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5a4ed51aea1ef27594876f468277b211",
+    "text": "thru",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a0f66bb1c148797b2e083f39add268d6",
+    "text": ") Action Codes A, C and D are no longer used to update the IMF History-File, however they are used to update the TRBDV database for Tax Year",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f3fb0a0bee20fbae541e9aaa00015c43",
+    "text": "and prior years.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b084bcfa981f6e359d1c609579d47228",
+    "text": "Action Requested Action Code Required ADD the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "dc46f7182d421bf7d9375fdbc4841972",
+    "text": "DLN Record Action Code A CHANGE the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8233c83a98d78b1468d02f805fa33022",
+    "text": "DLN Record Action Code C DELETE the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "08d782b105f9d10e2709b4f51f788da5",
+    "text": "DLN Record Action Code D Figure",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "67c527705bb12df0b7f60f957bc7e76d",
+    "text": ") Command Code ELFUP with deﬁner “R” is used to replace the TRDB-R",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "2266631ec40b1f23edf501df0ab1de3a",
+    "text": "or IMF History File record with another SSN. The ELFUPR screen contains four ﬁelds to input data See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "90a7c4c0f288dd64578e4a7779908d2c",
+    "text": "For each request entered, the user must provide the Master File Code, the list year digit of the requested History-File, the current and the new SSN. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "507f8c0b9a50f613718f7307477e8dfb",
+    "text": ") ELFUPB is used for changing or deleting records on the BMF History-File. There are six ﬁelds on the screen See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "bf0303bd6659dc4d822780b7099497ee",
+    "text": "(ELFUPB Screen). ACTION-CODE values can be “ C” for change or “D” for delete. SRC an ﬁer for the requesting BMF system. The value can be “F” for Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f63660fd6a4da7e5a910f7049db33b57",
+    "text": "For Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "78e13d21ce75fb44d94a2e0b612cec78",
+    "text": ", the YEAR-DIGIT can be a prior processing year beginning ending in PY",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "dbb30d694f95ecc3d4c2be1d20f1c7dc",
+    "text": "EIN, the EIN number of the record that will be changed the BMF History-File. BS Indicator can be “",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1af4a528828468fcdb3618ce4423e575",
+    "text": "” for bought, “",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9aafcf1b5231821c330536787d35a8b2",
+    "text": "” for sold, or “",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "89724c0c711cec8c5f3ed112fd624ecb",
+    "text": "” neither. Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "fa09ed4692db79cf0772cc8a9d71150a",
+    "text": "-DLN, the DLN number of the Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ed825b3e87f529ed178940f30e7a22f9",
+    "text": "signature document that will replace the existing DLN on the BMF HISTORY-FILE. ACTION-CODE “C” requires all ﬁelds except BS Indicator to contain data. ACTION-CODE “ D” the Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5ebe75f14ccef577e00e9035edac874f",
+    "text": "-DLN and BS Indicator ﬁelds are optional all others are required. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "18d78cd9f3c791445784b75579ef823c",
+    "text": ") Command Code ELFRQ is used for requesting a RETURN CHARGEOUT, Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a46c00e07999a303a9d80e5f848b881b",
+    "text": "CHARGEOUT or RESEARCH REPORT for a particular TIN. Char- geouts are requested by entering the TIN, YEAR-DIGIT, ACTION CODE and SOURCE CODE. See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "aabe030dee52abfc096a4d1d87a4bc29",
+    "text": "for the ELFRQ screen. Action Requested Action Code Required Return Chargeout",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "dc62c61aa8b8b82eb1869845921e702d",
+    "text": "Chargeout",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5addf027c78ef01a745d761f2b071ca5",
+    "text": "Return DLN and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "272979ed76d68b7abd9578686f4f7fc4",
+    "text": "DLN Chargeout",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "0b0b15a4ac441695a54caf1415d3de93",
+    "text": "Research Report Only",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1f5be66894e5ef6a6919e1f6499a7c1e",
+    "text": "Figure",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "28eaef6d9f137b3da72408520a8a08db",
+    "text": "Figure 2.3.55-1",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "67c527705bb12df0b7f60f957bc7e76d",
+    "text": ") Command Code ELFUP with deﬁner “R” is used to replace the TRDB-R",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "2266631ec40b1f23edf501df0ab1de3a",
+    "text": "or IMF History File record with another SSN. The ELFUPR screen contains four ﬁelds to input data See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "90a7c4c0f288dd64578e4a7779908d2c",
+    "text": "For each request entered, the user must provide the Master File Code, the list year digit of the requested History-File, the current and the new SSN. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "507f8c0b9a50f613718f7307477e8dfb",
+    "text": ") ELFUPB is used for changing or deleting records on the BMF History-File. There are six ﬁelds on the screen See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "cc77347a94920b7091d1ce4c6daa3007",
+    "text": "(ELFUPB Screen). ACTION-CODE values can be “ C” for change or “D” for delete. SRC an identi- ﬁer for the requesting BMF system. The value can be “F” for Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4adddd376ceee2d9aca89e4cdff2c035",
+    "text": "users. For Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "cc0f024c2a2fdebcae9fa504bb1a68c4",
+    "text": ", the YEAR-DIGIT can be a prior processing year beginning and ending in PY",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "67e82bd313c340d3fa5767aa6f4fe967",
+    "text": "EIN, the EIN number of the record that will be changed on the BMF History-File. BS Indicator can be “",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1af4a528828468fcdb3618ce4423e575",
+    "text": "” for bought, “",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9aafcf1b5231821c330536787d35a8b2",
+    "text": "” for sold, or “",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8f9a38cc152340e9025b0f5fb021f289",
+    "text": "” for neither. Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "fa09ed4692db79cf0772cc8a9d71150a",
+    "text": "-DLN, the DLN number of the Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "11625d379f69772ef69d0eb8b6c7cbc1",
+    "text": "signature document that will replace the existing DLN on the BMF HISTORY-FILE. ACTION-CODE “C” requires all ﬁelds except BS Indicator to contain data. For ACTION-CODE “ D” the Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5ebe75f14ccef577e00e9035edac874f",
+    "text": "-DLN and BS Indicator ﬁelds are optional all others are required. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "18d78cd9f3c791445784b75579ef823c",
+    "text": ") Command Code ELFRQ is used for requesting a RETURN CHARGEOUT, Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "735c663b826399ace8906f52fc99001f",
+    "text": "CHARGEOUT or RESEARCH REPORT for a particular TIN. Char- geouts are requested by entering the TIN, YEAR-DIGIT, ACTION CODE and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "67c527705bb12df0b7f60f957bc7e76d",
+    "text": ") Command Code ELFUP with deﬁner “R” is used to replace the TRDB-R",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "2266631ec40b1f23edf501df0ab1de3a",
+    "text": "or IMF History File record with another SSN. The ELFUPR screen contains four ﬁelds to input data See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "b512cdb1a55703d2887a220259b9a16d",
+    "text": "For each request entered, the user must provide the Master File Code, the list year digit of the requested History-File, the current and the new SSN.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d711f244e826618c4dc29195f1765a56",
+    "text": "ELFUPB is used for changing or deleting records on the BMF History-File. There are six ﬁelds on the screen See Exhibit 2.3.55-3. (ELFUPB Screen). ACTION-CODE values can be “ C” for change or “D” for delete. SRC an identi- ﬁer for the requesting BMF system. The value can be “F” for Form 1041 users. For Form 1041, the YEAR-DIGIT can be a prior processing year beginning and ending in PY 2014. EIN, the EIN number of the record that will be changed on the BMF History-File. BS Indicator can be “1” for bought, “2” for sold, or “0” for neither. Form 8453-DLN, the DLN number of the Form 8453 signature document that will replace the existing DLN on the BMF HISTORY-FILE. ACTION-CODE “C” requires all ﬁelds except BS Indicator to contain data. For",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4e05e3829d7c684f620eba5cc38b4f22",
+    "text": "Command Code ELFRQ is used for requesting a RETURN CHARGEOUT, Form 8453 CHARGEOUT or RESEARCH REPORT for a particular TIN. Char- geouts are requested by entering the TIN, YEAR-DIGIT, ACTION CODE and SOURCE CODE. See Exhibit 2.3.55-4 for the ELFRQ screen.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "380d1ce13a4d6ab1dd2f2fa4fdc3a93d",
+    "text": "Action Requested Action Code Required Return Chargeout 1 8453 Chargeout 2 Return DLN and 8453 DLN Chargeout 3 Research Report Only 4",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "17e839d18e7406b59aef5d34308e5869",
+    "text": ") The SOURCE CODE consists of: • “ F” for requesting BMF Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f549e9de7f42b5925936756f5eb326c0",
+    "text": "infor- mation only. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "aae1c97a76704c8f9d4b946a0c22a456",
+    "text": ") The IMF Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1b3cfe9cac1c949d9c205e6430bf475e",
+    "text": "-OL DLN information for Tax Year",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "099b627d567c86b9097dd094caa34eb2",
+    "text": "and future years, if available, is obtained by using Command Code TRDBV or R",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3f9410241576967a27cc868d234d621c",
+    "text": "After the Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "50804abb25cca6359836e978ffb439bb",
+    "text": "-OL DLN is obtained, Command Code ESTAB is used to request the Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "54d8593122e8919d9887cf4f9cc395fb",
+    "text": "-OL from ﬁles.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "109c98e3221c099538243f7aa91d4e11",
+    "text": "ELFUP—Screen Element# Line# Column# Description 1 1 69–74 CURRENT-DATE (YYYYMMDD) 2 05–15 03 ELFUP-ACTION-CODE A, C, D 3 05–15 10 MASTER-FILE-SYSTEM-ID-CODE 4 05–15 16 YEAR-DIGIT - CURRENT YEAR (PY2023), ANY OF SEVEN PRIOR YEARS (PY2022 - PY2016) 5 05–15 21–23 SSN1 6 05–15 25–26 SSN2 7 05–15 28–31 SSN3 8 05–15 34–47 8453-DLN 9 05–15 50–63 RETURN-DLN 10 05–15 66–79 RETURN-DCN 11 19 48–49 ENTRY CODE 12 24 15–24 EMPLOYEE-NUMBER",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a7b6330e1baf6a4a577d438d33ee5f21",
+    "text": "Element# Line# Description 1 1 CURRENT-DATE (YYYYMMDD) 2 05–14 MASTER-FILE-SYSTEM-ID-CODE 3 05–14 YEAR-DIGIT - CURRENT YEAR (PY2023) ANY OF SEVEN PRIOR YEARS (PY2022 - PY2016) 4 05–14 SSN1 (CURRENT) 5 05–14 SSN2 (CURRENT) 6 05–14 SSN3 (CURRENT) 7 05–14 SSN1 (NEW) 9 05–14 SSN3 (NEW) 10 19 ENTRY CODE 11 24 EMPLOYEE NUMBER",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f4a4ce5fa6340a35aa5db0b4b6d31a6f",
+    "text": "mo",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "526e0087cc3f254d9f86f6c7d8e23d95",
+    "text": "Description",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f3b699a768817690c1a3f19b4bd3c5c5",
+    "text": "Element # Line # Column # Description 1 1 69-74 CURRENT DATE YYYYMMDD 2 5-18 3 ACTION-CODE C or 3 5-18 10 SRC F 4 5-18 16 YEAR-DIGIT: 1041- 4. 5 5-18 21-29 EIN 6 5-18 34 BS 1 for bought, 2 for sold, or 0 for neither 7 5-18 37-50 8453-DLN 8 19 48-49 ENTRY-CODE 8 24 15-24 EMPLOYEE NUMBER",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3e189037a441eebed4390f700ebd1f28",
+    "text": "ELFRQ—Screen",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-055--2022-11-16.pdf",
+      "page_number": 10
+    }
+  }
+]

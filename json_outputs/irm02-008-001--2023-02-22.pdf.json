@@ -1,0 +1,1055 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "acd50e38c12d5bddaa724fa887fea74e",
+    "text": "This transmits revised IRM 2.8.1, Audit Information Management Systems (AIMS), Introduction to AIMS REALTIME Processing .",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "0984928b085c24847b7b9b453001a647",
+    "text": "IRM 2.8.1 dated December 13, 2018, is superseded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "cf3abe6684ac1b5c37e095b175886b52",
+    "text": "This IRM is intended for the general use of IDRS system personnel from all four Business Operating Divisions (WI, SB, LB&I and TE) and Appeals accessing the Audit Information Management System.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "9dcbadcdba3856e3f99e65dd8bb6b849",
+    "text": "and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f442f3d41632f7a3c1dea8b057875b3f",
+    "text": ") Purpose: This IRM provides instructions for the use of the Audit Information Management System (AIMS) display terminals in the Campuses or Area Offices. These instructions provide explicit instructions for the use of command codes in entering and extracting data. AIMS is using the Integrated Data Retrieval System’s (IDRS) Security System. Detailed instructions for adminis- tering the IDRS Security System are included in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3d6984b97937bca248907e7a5b85f276",
+    "text": ", IDRS Security Controls. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "52c3feb81c4774408dfe64b2e69cb86e",
+    "text": ") Audience : The audience for this IRM section are users of the Audit Informa- tion Management System (AIMS). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a2631a0393db9712da9281636f62fec0",
+    "text": ") Policy Owner : Information Technology, Chief Information Officer. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ce35d2d988f65abd084de343b1ef9c7b",
+    "text": ") Program Owner : Information Technology, Applications Development, Compli- ance, Business Compliance Management System Branch AIMS Related Section. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "403893e4e7bc8995f126e2db35af5317",
+    "text": ") Primary Stakeholders: IDRS users from Appeals, LB&I, SB/SE, TE/GE and W&I (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3aeba65aa38b8e9682de3a81826aa7cc",
+    "text": ") During the summer of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d6ec288536e8091aaf350759f886b1c1",
+    "text": ", the Deputy Commissioner established a Task Force to identify ADP requirements of Compliance functions, and to make propriate recommendations to satisfy their needs. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5532b0dc61141c809893a868363c4d5d",
+    "text": ") As a result of that study, it was concluded that Examination had a need for new information management system. The study group recommended a terminal assisted Audit Information Management System (AIMS). A stand direct access terminal system was considered along with the enhancement IDRS. Enhancement of IDRS was determined to be clearly the best choice the Service. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "80011fdac5701d40f1110e6b4da9a3d4",
+    "text": ") This new system satisﬁed Examination Division’s current needs for accurate and timely inventory controls, better control of assessments and up-to-date management reports. The system traces examination results through ﬁnal termination of tax liability including Appeals and Tax Court. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1c2651baa76a375487d8d439d17a362f",
+    "text": ") After the successful implementation of AIMS for the Examination Division, control of returns in Appeals was added to AIMS. As of January",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0b11e23816b51ce8424952eb8b2e52c9",
+    "text": "of Exempt Organization returns was added and on October",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d70222207479f9e4ba67cd190277abc0",
+    "text": "control Employee Plan returns was added. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0a1843070ebd00a48953d5a63a173321",
+    "text": ") Headquarters AIMS Related Section is responsible for maintaining procedures related to AIMS programming. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "765b506d7fa0c0f417be825bea29b19a",
+    "text": ") .List of terms and deﬁnitions used throughout this IRM Section Acronyms Deﬁnition IDRS Integrated Data Retrieval System SSN Social Security Number EIN Employer Identiﬁcation Number to AIMS REALTIME Processing",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ef51e648dfc814b76990088c13114222",
+    "text": "page (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c73ac94c18272d58e051dd923ca62162",
+    "text": "with a #",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2476079165232db50fdb12694f5863bc",
+    "text": "Introduction to AIMS REALTIME Processing",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "dbacc94102d56b503f92799711227ce7",
+    "text": ".List of terms and deﬁnitions used throughout this IRM Section",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8bcd305776c1050347c900e1bdf9042f",
+    "text": "Acronyms Deﬁnition IDRS Integrated Data Retrieval System SSN Social Security Number EIN Employer Identiﬁcation Number",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "04fba16fb83e4e67ad03ade90a13069b",
+    "text": "DLN Document Locator Number TIN Taxpayer Identiﬁcation Number Resources (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "b624ea993e89b5ecff18c787561e8a07",
+    "text": ") EOD, IMF, BMF, EPMF, NMF, RCCMS, RGS. Content (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8b3b75d2182e436267a05c48f90f8b3b",
+    "text": ") The AIMS Data Base, Audit Information Management File, contains all the elements used by the AIMS System. System (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "39b9caeaa3d050f8a0773fd6df0a9eb1",
+    "text": ") The IDRS Security System is designed to provide protection for both the taxpayer and the IDRS user. The taxpayer must be protected from unauthor- ized disclosure of information concerning his/her account and unauthorized changes to it. The IDRS user must be protected from other personnel using his/her identiﬁcation to access or make changes to an account. of Taxpayer (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d4d23e43304981fbb00efe4c3d413cab",
+    "text": ") The greatest potential for unauthorized disclosure of tax information occurs when IDRS user employees handle telephone inquiries from taxpayers. Employees should exercise special precautions to identify the taxpayer or her authorized representative when answering such inquiries. In responding telephone inquiries, no tax return information may be given out unless it to a notice, billing, letter initiated by the IRS, or refund inquiry. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e923f4350abbe05d1c10889bd130f5bf",
+    "text": ") When responding to telephone inquiries about a tax account, the employee handling the inquiry should, at a minimum, obtain the taxpayer’s name, address and taxpayer identiﬁcation number (SSN or EIN). Recipients of should continue to ask enough questions to satisfy themselves that they speaking to the taxpayer. The following are types of information that might asked the caller: a. Document Locator Number (DLN), date or amount on notice or other document received. b. Date and/or amount of refund, adjustment, payment, or return. c. Type of notice or other communication received. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8200c36083d532bbde0224ffb04d85dc",
+    "text": ") If a caller is unable to furnish enough information to establish that he/she actually is the taxpayer, the employee should request that the caller ﬁnd out the information and call back. If the caller states he/she does not have the formation and cannot obtain it, the employee should advise the caller that written reply will be mailed to the taxpayer’s address of record. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a20bf08b06b5e5f6e581ee127ae4c89b",
+    "text": ") Employees should not provide Taxpayer Identiﬁcation Numbers over the telephone. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "0f0c4e61fb8381f07ae8556830761235",
+    "text": ") Walk-in taxpayers should not be given tax return information until they have properly identiﬁed themselves. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5337effaa95be64c03180aeb44ced3d5",
+    "text": ") Information concerning taxpayers will not be provided to third parties without written authorization from the taxpayer. For example, speciﬁc information cerning a client’s bill or notice will not be provided to third parties without",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "0bcaf702aa46cfe1ba25b52cc697c35c",
+    "text": "Audit Information Management System (AIMS)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "51a4ce0b9dd97b271a6d6087aac6f758",
+    "text": "2.8 Audit Information Management System (AIMS)",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "35016c4eb8b615176275417429e4eea0",
+    "text": "The AIMS Data Base, Audit Information Management File, contains all the data elements used by the AIMS System.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "22bb5fd53d837019b40395096eeaf149",
+    "text": "a. Document Locator Number (DLN), date or amount on notice or other document received. b. Date and/or amount of refund, adjustment, payment, or return. c. Type of notice or other communication received. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c2e8a10e1bff0e995649c131eced2f6b",
+    "text": ") If a caller is unable to furnish enough information to establish that he/she actually is the taxpayer, the employee should request that the caller ﬁnd the information and call back. If the caller states he/she does not have the formation and cannot obtain it, the employee should advise the caller that written reply will be mailed to the taxpayer’s address of record. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a20bf08b06b5e5f6e581ee127ae4c89b",
+    "text": ") Employees should not provide Taxpayer Identiﬁcation Numbers over the telephone. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7432ca4132d17bbea4982b2c3fce8294",
+    "text": ") Walk-in taxpayers should not be given tax return information until they properly identiﬁed themselves. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5337effaa95be64c03180aeb44ced3d5",
+    "text": ") Information concerning taxpayers will not be provided to third parties without written authorization from the taxpayer. For example, speciﬁc information cerning a client’s bill or notice will not be provided to third parties without",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d704f50ae74d43ab84e0f97b8a1f1d64",
+    "text": "Introduction to AIMS REALTIME Processing 2.8.1",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ec93cebecbc80b204fe662a82e24863e",
+    "text": "receipt of written authorization from the taxpayer. This is true even though the third party requesting information has possession of a copy of the bill or notice in question. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "46ac0f63d2a3b9a15eb99dd686713726",
+    "text": ") Written authorization from the taxpayer is not restricted to a power of attorney or to any speciﬁc form. The authorization must bear the taxpayer’s signature. Taxpayer Service employees will not request returns from campuses or Federal Records Center solely for veriﬁcation of the taxpayer’s signature. If there is serious doubt whether the signature on the authorization is the taxpay- er’s, offer to mail the information to the taxpayer’s address of record. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "558c8e570ccf73ad8bf8efd142f245f1",
+    "text": ") In walk-in contacts, if the third party has possession of a copy of the bill or notice in question, the written authorization should bear the taxpayer’s signature and give some indication that the third party is authorized to act for the taxpayer. In the absence of such a written authorization, the third party may only be furnished general information regarding the meaning of the bill notice. If the third party does not have possession of a bill or notice, the written authorization should bear the taxpayer’s name, address and signature and contain information peculiar to the taxpayer of which the third party would not generally be aware. For instance, if the letter or authorization describes a speciﬁc refund problem or inquiry with speciﬁc facts that only the taxpayer should be aware of, the third party may be given information regarding the refund. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "c59316b3bbd0404fdeaa4e62f00dc70a",
+    "text": ") In telephone contacts, Taxpayer Service personnel are restricted to the infor- mation they may furnish third parties in the absence of written authorization. Only general information regarding the meaning of a particular notice or letter may be given. Advise the third party to furnish a written authorization in order that information may be provided, or offer to call the taxpayer or mail informa- tion to the taxpayer’s address of record. Otherwise, no speciﬁc information related to the taxpayer or his/her account may be given. No information from IDRS, microﬁlm, or tax returns may be given to the third party. Naturally, infor- mation the third party offers may be accepted. For example, canceled check information may be accepted to initiate a payment tracer on a bill but no infor- mation relative to the balance due or nature of the assessment may be given. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "5a2edfd09866d2fa55adb7136d8402a1",
+    "text": ") When a third party makes a written inquiry, no information may be furnished without written authorization from the taxpayer. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "4ec4f4f0c94b78bb5271b63bfd38988b",
+    "text": ") It should be kept in mind that relatives are third parties and the rules outlined in this section apply to them. These rules do not apply to husband and wife when both sign a joint return. However, when a spouse has been claimed as dependent on a return (instead of ﬁling jointly) the dependent spouse may not be given information without written authorization from the taxpayer who signed the return. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "31c6801ebd7ab04f277bf2a1cb3c1335",
+    "text": ") It is essential that only properly authorized employees have access to command codes since IDRS terminals can be used to change taxpayers’ accounts. It is equally important that each employee be protected from other personnel using his/her identiﬁcation since the only record of the employee making the change will be computer generated from the entry code input by the operator. Proper use of Command Codes SINON and SINOF will provide necessary protection to the employee. However, an employee must properly safeguard his/her password in order to obtain the beneﬁts of the system. AIMS REALTIME Processing",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2530f50ca5c5f2f8686f889999050dea",
+    "text": "page Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ec93cebecbc80b204fe662a82e24863e",
+    "text": "receipt of written authorization from the taxpayer. This is true even though the third party requesting information has possession of a copy of the bill or notice in question. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "46ac0f63d2a3b9a15eb99dd686713726",
+    "text": ") Written authorization from the taxpayer is not restricted to a power of attorney or to any speciﬁc form. The authorization must bear the taxpayer’s signature. Taxpayer Service employees will not request returns from campuses or Federal Records Center solely for veriﬁcation of the taxpayer’s signature. If there is serious doubt whether the signature on the authorization is the taxpay- er’s, offer to mail the information to the taxpayer’s address of record. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3895f72977ea832afbabfe51d5b113c2",
+    "text": ") In walk-in contacts, if the third party has possession of a copy of the bill or notice in question, the written authorization should bear the taxpayer’s signature and give some indication that the third party is authorized to act for the taxpayer. In the absence of such a written authorization, the third party may only be furnished general information regarding the meaning of the bill or notice. If the third party does not have possession of a bill or notice, the written authorization should bear the taxpayer’s name, address and signature and contain information peculiar to the taxpayer of which the third party would not generally be aware. For instance, if the letter or authorization describes a speciﬁc refund problem or inquiry with speciﬁc facts that only the taxpayer should be aware of, the third party may be given information regarding the refund. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2ed8b25b09a18f42426a4975c2d89d6d",
+    "text": ") In telephone contacts, Taxpayer Service personnel are restricted to the infor- mation they may furnish third parties in the absence of written authorization. Only general information regarding the meaning of a particular notice or letter may be given. Advise the third party to furnish a written authorization in order",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3c042358f17fb2a4407f97b316653bf5",
+    "text": "receipt of written authorization from the taxpayer. This is true even though the third party requesting information has possession of a copy of the bill or notice in question.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d900fd7d19b7e0e963dac826c5902b88",
+    "text": ") It is essential that only properly authorized employees have access to command codes since IDRS terminals can be used to change taxpayers’ accounts. It is equally important that each employee be protected from other personnel using his/her identiﬁcation since the only record of the employee making the change will be computer generated from the entry code input by the operator. Proper use of Command Codes SINON and SINOF will provide necessary protection to the employee. However, an employee must properly safeguard his/her password in order to obtain the beneﬁts of the system.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "cb41aeee1f382afb2d6826a6e08241dd",
+    "text": "Access (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "1edc961ee5808c663d0855bccb06d2c5",
+    "text": ") IDRS users are authorized to access only those accounts required to accom- plish their official duties. IDRS users must not access their own or spouse’s account, the account of a friend, relative or co-workers, or any account in which they have a personal or ﬁnancial interest. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "1fbdce63a2d1fa7a1e72a72e22837334",
+    "text": ") Each IDRS user will be given a password and he/she is responsible for its security. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "5fd34e80e07398b63d92c6bd14fc1ee1",
+    "text": ") Any time a password is compromised, or even if an employee suspects that has been, he/she will notify the system Security Supervisor to obtain another password. An employee must request a new password if he/she forgets his/her current password. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "7d73b6af0193e80fdc2da01c57db922c",
+    "text": ") An employee must sign on IDRS before accessing or changing any account IDRS. The employee will accomplish this by inputting Command Code CC) SINON (see Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "6f8073a98812fa1288aeeb70c188abe5",
+    "text": ") that will verify whether or not the employee is thorized to use IDRS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "dd56f6fd0714a1074baa07164a18ac23",
+    "text": ") Immediately prior to signing on, the employee will press any key to determine if the “real-time” system and the terminal are operational. If the real-time happens to go down in the service center before completely inputting CC SINON, the employee should back space through the input. This will clear sign-on data from the screen. Upon receiving notiﬁcation that the system is available again, he/she may re-enter CC SINON. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "fa2404d0e8600c10cd05ff15452859ac",
+    "text": ") To sign on a terminal the employee will depress (F",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "24b4720da9d99372e6fff7abb4fd6e33",
+    "text": "). This generates the SINON format with the Production Training Indicator (PTI) which will be P. Next, the Social Security Number (can also use SEID to SINON vs. SSN) then the name data are input. The password is the last item input before pushing the XMIT key. To protect a password, the employee will tab the cursor to right of the indicator present on the screen. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8789d3e5adc87c873c8424da798c7404",
+    "text": ") Employees must use CC SINOF (see Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e9ae32cd513943e7fff94e2a2a70475a",
+    "text": ") whenever they are going to be away from the terminal (for example, going to lunch, break, or back to desk). Employees should stay signed on only when they are actively using the terminal or when they can see the terminal and anticipate using it again soon. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "44e3e9860346fe4c99a89d3b18e2f8a3",
+    "text": ") Proper use of Command Code SINOF provides employees complete security. If an employee does not SINOF, there is always a danger that someone else will use his/her terminal during his/her absence, and all the actions on the terminal will be recorded as being done by the original employee. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "44765cec3937d9b3ec94002b31ad9e72",
+    "text": ") If a user is signed on at a terminal and signs on at another terminal, the original terminal will automatically be deactivated. TPSF (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8ad63b91de53d5ec0b9e0eaaa8fa7f7d",
+    "text": ") The security system provides identiﬁcation and authorization for every terminal input. The Employee Proﬁle Security File (EPSF) contains signiﬁcant data required to recognize each employee authorized to use IDRS. The Terminal Proﬁle Security File (TPSF) includes terminal identiﬁcation to recognize each terminal in the IDRS.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f907bfad67bdac49143eed13d7fb36be",
+    "text": "Audit Information Management System (AIMS) Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "30a6f71662ef61a9e5f068a9184466aa",
+    "text": "B (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ed858095adc7701dcfcf5473eebbd27d",
+    "text": ") Any line marked with is for Official Use",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "0bcaf702aa46cfe1ba25b52cc697c35c",
+    "text": "Audit Information Management System (AIMS)",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d704f50ae74d43ab84e0f97b8a1f1d64",
+    "text": "Introduction to AIMS REALTIME Processing 2.8.1",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "af61f6f45c28002d763cc269156cd60e",
+    "text": ") In the EPSF there will be two proﬁles recorded, a production proﬁle and a training proﬁle. The production or training indicator in CC SINON determines which proﬁle is used. While operating in the training mode on production accounts, no actual updating of any IDRS data can be made. ALL command codes will be used in exactly the same manner as when in production mode. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "cf28b71567acf127a53de69f85d414e9",
+    "text": ") Trainees will be able to update a training account through real-time and then be able to recall the account to view the updated affect. Accounts may be restored to the original condition by two methods: a. by terminal input of CC RESTR to restore a speciﬁc module, an entire account, or an Audit Information Management File (AIMS) record. b. by daily (or periodic) restoration of the entire training ﬁle. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4d307a704a1d103b6d17826796fe899c",
+    "text": ") When an IDRS user is signed on in the Training Mode, the terminal will be au- thorized the same command codes as the user’s training proﬁle until he/she signs off.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4e7d82101510b8b9fb5439f5fb9a4f03",
+    "text": "When an IDRS user is signed on in the Training Mode, the terminal will be au- thorized the same command codes as the user’s training proﬁle until he/she",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8f97713eede7e056d60b6a66c6c861c5",
+    "text": "security lockout, the screen of the affected terminal will display the message “SECURITY LOCK ON THIS TERMINAL” and the terminal keyboard will lock. The operator will immediately notify the IDRS USR (Unit Security Representa- tive) who will initiate action to unlock the terminal.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "cbe1dfe03eae86b541b072eb99de7e09",
+    "text": ") Employees should always clear the screen when the terminal operation is completed. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a005c78d6dcdf065e60c067f81ac0db0",
+    "text": ") Employees should be sure to retrieve all prints if the terminal is connected to printer. If someone leaves a print in the printer, it should be placed in classiﬁed waste if the originator cannot be determined. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3ec19e84130582b39fefdfadac694d9c",
+    "text": ") IDRS terminals are programmed for real-time usage and are systematically deactivated at the end of each work day. Any input at a time not during the authorized time period will be recorded as a security violation. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "94cbcf2cb99f8241ce157e9a86dffb8a",
+    "text": ") Command Code RMODE authorizes an employee to use the command codes contained in his/her Training Proﬁle in a research mode. The research mode differs from production mode in that production ﬁles are accessed but not updated. It differs from training mode in that the training ﬁles are not accessed. The research mode is to be used only by the IDRS Control Group and the RPA Staff for researching production problems that can be resolved only by accessing production data. An Audit Trail Record will be produced for all inputs made in the research mode. In order to use the research capability, an employee must have CC RMODE in his/her Training Proﬁle, and input CC SINON with a Production/Training Indicator of R.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "bdd603f48db7f2a7eb0775923514ec6f",
+    "text": "IDRS terminals are programmed for real-time usage and are systematically deactivated at the end of each work day. Any input at a time not during the authorized time period will be recorded as a security violation.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "51a4ce0b9dd97b271a6d6087aac6f758",
+    "text": "2.8 Audit Information Management System (AIMS)",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "33c1e29902d678cbcff13d561dbfd825",
+    "text": "This Page Intentionally Left Blank",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "7ea75b839770f2c632a1eaff570bf978",
+    "text": "Use this command code to sign on to IDRS. An employee cannot be signed on in both training and production modes at the same time.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "c3f686e7bf77d4b970adeafdc443a69b",
+    "text": "page 8 2.8 Audit Information Management System (AIMS)",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "79f6711b82ae0d1eb34ec8acf80a32c1",
+    "text": "Exhibit 2.8.1-1 (Cont. 1) (01-01-2010) Command Code SINON",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "4560a30633f54b443a58dc53a1b40165",
+    "text": "b. Error Response: Displayed on Line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "9f376331706aafb404cb007f3740b49f",
+    "text": "INVALID PTI SECURITY VIOLATION. Production/Training Indicator is not P or T, or R. If R is input, CC RMODE must be in employee’s Training Proﬁle. See",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "c4b2896a2081395e282313d6683f07c8",
+    "text": ").",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "af25ca9abf7ff930e3c93c86a68ed48a",
+    "text": "SSN FORMAT INVALID SECURITY VIOLATION SSN is not all numeric.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "864ddebc0a249db07fa83559d20d09a4",
+    "text": "REQUEST DENIED SECURITY VIOLATION. This message is displayed for the following condi- tions.a.SINON request made at a time other than the authorized time or operation as recorded in the TPSF. b. Input SSN does not match c. Input SEID does not match d. Input password does not match e. Input name/or initial does not match",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "b9ba6721760f3a8f9d52c8e9df2cc28c",
+    "text": "PROFILE LOCKED SECURITY VIOLATION. Employee is attempting to sign-on when his/her employee proﬁle is locked. The proﬁle must be unlocked by the Security Officer before the employee can sign-on any terminal.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "593e04671c97d5f3ffe84f30ec07064c",
+    "text": "Use this command code to invalidate assigned entry code.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "57b91264403a03c7476dc6425588650c",
+    "text": "Input format for Command Code SINOF",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "cc9b6de15f546c7cc71990b5c9db0aa5",
+    "text": "Record Element Description for Command Code SINOF",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "01e8fadea7f50e9b2accc07a245ad017",
+    "text": "Valid response: REQUEST COMPLETED displayed on line 13.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-008-001--2023-02-22.pdf",
+      "page_number": 13
+    }
+  }
+]

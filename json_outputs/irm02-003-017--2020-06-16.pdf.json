@@ -1,0 +1,1208 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "9093a20a8b4c8387d1ebecb80b373dc1",
+    "text": "Added request code “A” to CC ESTAB - Request Codes table, see 2.3.17.5, Input Format Exhibit, see 2.3.17-1, and Request Codes Exhibit, see 2.3.17-4.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a33b7008e080dcf8f55e9b5a469c9ee5",
+    "text": "Large Business Small Business (LMSB), Small Business/Self-Employed (SB/SE), Tax Exempt/Government Entities(TE/GE), Wage & Investment (W&I).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "446e66040a6ca9c4ccacd30b3097634c",
+    "text": "Input Format, CC ESTAB—Document CC ESTAB—Local Site Message Input Format, CC ESTAB—Request Request Codes Multiple Document Requests",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "9d5b1576a609c4ab60739a3aa8ab3d2b",
+    "text": "ESTABD",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c5e36e8063359f17af666ed17bbc4d1b",
+    "text": ") The Document Request System, (IDRS), provides for computer printing of Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "23b6872171cb7547d9acb2f8c9b59bb7",
+    "text": ", Return Charge-Outs, requesting documents from Service and Federal Records Center returns ﬁles. These requests are initiated by Terminal inputs of CC ESTAB. After processing, these requests are sorted a manageable order and the Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8a06dcbabf08d924dc00832c239caa78",
+    "text": "is printed and forwarded for Document requests input through IDRS are the principal means for original documents, copies, and information from paper return ﬁles. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e00fd2d6e3dbb929768d162d6f760275",
+    "text": ") Purpose: This transmits revised IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "158dc89375b3db4afd5e9738c2bd132f",
+    "text": ", IDRS Terminal Responses, Command Code (CC) ESTABD. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "abc845e49c02e199cc5f745b5f166f9c",
+    "text": ") Audience: All IRS business units. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "79340726c484cedf25859678a9fa120d",
+    "text": ") Program Owner: Customer Service. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "17c539963ad530e0f81c9fb48a614fb7",
+    "text": ") Primary Stakeholders: Wage & Investment (W&I), Large Business and national (LB&I), Small Business Self-Employed (SB/SE), Tax Exempt and Government Entities (TE/GE). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1a323360c299fd557adc1c4b0a053976",
+    "text": ") Program Goals: This system manages data that was extracted from Corporate Account Data Stores (BMF, IMF, and EPMF) allowing IRS employees to take speciﬁc actions on taxpayer account issues and track of an account. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "bf17c4998b47f6a9e67ae50f1c05fedc",
+    "text": ") Ordinarily, document request inputs should contain the DLN of the document. The requestor should research the Taxpayer Information File for in order to obtain the DLN. However, provisions have been made for requests when the requestor does not know the DLN, if the requestor sufficient other information (e.g., TIN, tax period, form number, and name-control). The DLN may be obtained by researching the EKIF and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f4d9e75c2fa8038f3700592ba0efb240",
+    "text": ") The TIN, File Source, and Request Code will be stored for audit trail (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5e2730816a15126a12e57c535c24fa8e",
+    "text": ") When the complete DLN is unknown and it is needed for a tax return that been processed to a Master File, the request will be routed to the Master File for research. If the account/module has been removed from the Master File, a microﬁlm request will be generated and forwarded to the Microﬁlm Unit for research. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "242eee20be32374371d0156882012b25",
+    "text": ") CC ESTAB with CC Modiﬁers “M” (Microﬁlm Requests), “R” (Retired Update Requests), and “S” (SCRIPS Requests) are documented in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "16f7dc3618324c0910105819ce3e637f",
+    "text": ", IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "be441193471bcc80c67d3431f7222ce6",
+    "text": ", and IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a15a1b6736db74ec70bbd6ced89bf6d6",
+    "text": ", respectively. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1e578ab80e372b7c0f417c06a95a23c2",
+    "text": ") The following information is applicable to DLN look-ups that require Master research. a. If a DLN is found under a cross referenced TIN, the message “ UNDER” followed by the cross referenced TIN will be printed in the remarks section of the Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a9df52f3ac1d0d9e96a6465af52d96f7",
+    "text": "b. If there is no TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "279770f8ebb38404b36b3c758b656d0a",
+    "text": "present and a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "dfa9acbc8a08e514bf05b52bfdee09e4",
+    "text": "is extracted, the message “NO RECORD OF TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1067c8d068ca781bacbe9a2a52c8c5ec",
+    "text": "” will be printed in the remarks section. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c0f4ebb5885eb675eed0bd811dad7046",
+    "text": ") Under the following conditions a transcript will be issued for Master File look-ups in lieu of Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d6b1a3aebb1513843a740317226c2e71",
+    "text": "Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "31429bb6a56e67a0c74ea947a821fa16",
+    "text": "The Document Request System, (IDRS), provides for computer printing of Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0bfdf419ceb86a4038cb3db615a30e38",
+    "text": ", Return Charge-Outs, requesting documents from Service Center and Federal Records Center returns ﬁles. These requests are initiated by Terminal inputs of CC ESTAB. After processing, these requests are sorted into a manageable order and the Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4c17120fe1cd3aae5857a3e91f88ed70",
+    "text": "is printed and forwarded for service. Document requests input through IDRS are the principal means for obtaining original documents, copies, and information from paper return ﬁles.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "16ef6130097c8eed036160817c17f411",
+    "text": "2.3.17.2 (01-01-2009) General Information for CC ESTABD",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "75b39b14d812db64cc00440da84de95f",
+    "text": "IDRS Terminal a. There is no account on the Master File. b. The MFT/Tax period is present on the Master File, but does not DLN that qualiﬁes for extraction. c. The MFT/Tax period is not present on the Master File, but an entity is present. d. There is an irreversible TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c98caf7b9318cce58b257b6d42559b63",
+    "text": "or TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "daabbffbeb37997d4d7be2aa28f42e80",
+    "text": "in the module. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5837948db7465214c048b2e52d086a99",
+    "text": ") When a DLN look-up results in a full DLN that is to be serviced by other the requesting Service Center, that request will be forwarded by NCC to the Servicing Service Center for printing and processing of the Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4c2572072ac66055148fc1d77e5fb178",
+    "text": ") When a document request with a full DLN or partial DLN is to be serviced other than the requesting Service Center, the request will be sent to the Servicing Service Center via DOC batch program DOC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d8f6560117e3e3f774986ca968602411",
+    "text": ") Use this Command Code to enter requests for original paper documents, copies, information, etc. The kind of request made depends on the request Code ESTAB code input with CC ESTAB. Request Codes, are explained in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "cb7cd70c9cf34be10f649511f4dbba06",
+    "text": "(Request Codes for CC ESTAB) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d8c5013e1ccfee65ae2bd24731ea937d",
+    "text": ") Performing Command Code TXMOD or SUMRY immediately prior to ing Command Code ESTABD will result in some ﬁelds on the ESTABD being pre-ﬁlled. If available ESTABD will pre-ﬁll the TIN and MFT-CD. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "453489289ff60cbf0d2fc6dc07baf9c8",
+    "text": ") As of January",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3e0d484fccd845f481770e88901e83ab",
+    "text": ", in order to initiate an ESTAB request users are required to input the Command Code (column",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ce55f2a8f3cae40e29f754c8cc9dcbde",
+    "text": "), and CC modiﬁer",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "052054cade118996c89bca266cec1644",
+    "text": ") on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a0c375a5cc513729979827fe9c85955f",
+    "text": "of their IDRS terminal screen, then depress Enter/XMIT. CC ESTAB will display the requested screen, based on requester inputted (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "02bcc0700f93ce4147e4eace793a7801",
+    "text": ") If any element(s) of data are invalid, a message will display on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "db5302a5aa2a8b43221abbf646cf4a6f",
+    "text": "literals will display corresponding to the invalid element(s). Error messages Response for CC inconsistency messages are deﬁned in see IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "34c23787c32b261054fceefaba28b910",
+    "text": ", Command Code ESTAB—Error Messages, and see IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "203f81d1adf12c011b4b3172bdb86060",
+    "text": ", Command Code Consistency Messages. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "936a12cc57221c781fe2789ef207f23d",
+    "text": ") REQUEST COMPLETED—Displayed when CC ESTAB input meets all checks. Response for CC (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "cb9d238106e8c0e0d57953f58d700ff7",
+    "text": ") These are one character alphabetic codes inputted on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d80b2d62922d4ad170cdce7756df33c4",
+    "text": ", column",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "cc2d9174bdfb6541b8db7e235a377385",
+    "text": "of ESTABD. They are used to identify the type of request being made. The Codes for CC request codes are:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a9836adcd8bff9bcbec6aa960f9da77d",
+    "text": "There is no account on the Master File. The MFT/Tax period is present on the Master File, but does not contain DLN that qualiﬁes for extraction. The MFT/Tax period is not present on the Master File, but an entity is present. There is an irreversible TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c98caf7b9318cce58b257b6d42559b63",
+    "text": "or TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "dd02fd547a94019105b8b6e7ad0bbf57",
+    "text": "in the module.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "94d133194bc5556dae77e12c542ab7ec",
+    "text": "If any element(s) of data are invalid, a message will display on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8a83217ec87352c244cc1a7685205c92",
+    "text": "Error literals will display corresponding to the invalid element(s). Error messages and inconsistency messages are deﬁned in see IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "34c23787c32b261054fceefaba28b910",
+    "text": ", Command Code ESTAB—Error Messages, and see IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3cc19648c585daa860f60326e694a6ec",
+    "text": ", Command Code ESTAB— Consistency Messages.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "532ea12f53869277cf033c7508b77833",
+    "text": "2.3 IDRS Terminal Responses Request Purpose Code O Requests an original document. The word “ORIGINAL” is printed before the DLN on the Form 4251. Request Code O may be input for request for tax returns only, unless the requestor is authorized to receive the originals of documents other than tax returns. Refer to IRM 3.5.61, Files Management and Services. With this exception, use request codes C, K, P, or I for documents other than tax returns. P This request code causes the words “COPY-PAGE 1” to print below the DLN on Form 4251. It requests a copy of the ﬁrst page only of a return or other document. Q This request code causes the words “ID THEFT SCAN ” to print below the DLN on Form 4251. It requests scanned returns or other scanned documents associated with identity theft cases. R This code is used for reimbursable photocopy requests received from taxpayers. The words “REIM- BURSABLE COPY” are printed below the DLN on the Form 4251. S This request code is used for requesting the scanning of paper documents into CIS. The words “COR. IMAGING SYSTEM ” are printed below the DLN on the Form 4251. T This request code is used to recharge documents. The word “RECHARGE” is printed below the DLN on the Form 4251. W Indicates a request only for a W–2. The words “W–2 ONLY REQUEST” are printed below the DLN on FORM 4251. X This request code is used to request a print of an CIS scanned document. The words “CIS PRINT REQUEST” are printed below the DLN on the Form 4251.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "735340c982fb072ff56ce4774187643a",
+    "text": "UNIVERSAL, USE LOCAL SITE” will be displayed on line 24. This is the ﬁrst check of Command Code ESTAB with Command Code Modiﬁer “D”. Message This command code modiﬁer will not process Universal Access.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "727dc50567363ae129abef2e7a21b4be",
+    "text": "When an element of data is invalid a error message will be displayed on line 24. The element that is invalid will display an asterisk to the right of the invalid",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8b961f02d4d6158a8563786d8104026f",
+    "text": "ESTABD 2.3.17 ERROR MESSAGES Error 1 Invalid Command Code Modiﬁer, must be A, D, H, M, R, or S. Solution 1 Self Explanatory Error 2 Invalid MFT-Code, Please Input a valid MFT-Code Solution 2 Self Explanatory Error 3 Invalid, if MFT is “52” then Form-Num must be “706” or “706NA” Solution 3 Self Explanatory Error 4 Invalid TIN, the TIN is a required ﬁeld Solution 4 Input TIN Error 5 Invalid TIN, Please correct TIN Solution 5 Self Explanatory Error 6 Invalid Request-Code, Please enter a valid code Solution 6 Request-Codes are list above, See 2.3.17.5 Error 7 Invalid DLN, must be entered Solution 7 Input DLN Error 8 DLN failed validation, please correct DLN Solution 8 Self Explanatory Error 9 DLN failed validation, correct inconsistent DLN Solution 9 Invalid DLN, correct DLN and submit Error 10 Correct DLN, must be numeric with 3 hyphens: 00000- 000-00000-3 Solution 10 Self Explanatory Error 11 Invalid Partial DLN, Please correct Partial DLN Solution 11 A Partial DLN is the ﬁrst three digits of the DLN Error 12 Invalid Partial DLN must be numeric, and three digits Solution 12 Self Explanatory Error 13 You requested this DLN on MM/DD/CCYY to re- request wait 14 days from that date. Solution 13 Self Explanatory Error 14 Invalid Employee-Number, FLC not found Solution 14 Enter a valid FLC code (ﬁrst two digits of Employee number)/Reenter Error 15 Invalid Employee number, if entered must be numeric (all 10 digits) Internal Revenue Manual",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "eaadfcc5260b4e2e5a34a49d2d4e29da",
+    "text": "2.3 IDRS Terminal ERROR MESSAGES Solution 15 Self Explanatory Error 16 Invalid Form-Num, Form Number must start in left most position Solution 16 Self Explanatory Error 17 Invalid, if Form-Num is “706” or “706NA” then MFT must be “52” Solution 17 Self Explanatory Error 18 Invalid Tax-Period, if MFT is “52” then Tax-Period must be “000000” Solution 18 Self Explanatory Error 19 Invalid, when Tax-Period equals “000000”, MFT must be “52” Solution 19 Self Explanatory Error 20 Invalid Tax-Period, Tax-Period must be entered Solution 20 Enter tax period and Reenter Error 21 Invalid Tax Period, please correct Solution 21 Tax-Period must be entered as CCYYPP: (200612) Error 22 Invalid Tax-Period, Tax-Period must be numeric Solution 22 Self Explanatory Error 23 Invalid MFT, please enter a valid MFT Solution 23 Self Explanatory Error 24 Sorry ESTAB do not process MFT Code 88. (Transmit- tals) Solution 24 Self Explanatory Error 25 Invalid Plan Number, must be three numbers. Solution 25 Self Explanatory Error 26 Invalid, Name-Control must start in left most position Solution 26 Self Explanatory Error 27 Invalid Name-Control, ﬁrst character must be a letter or number Solution 27 Self Explanatory Error 28 Invalid Name-Control, second character must be a letter, number, &, or - Solution 28 Self Explanatory Error 29 Invalid Name-Control, third character must be a letter, number, &, or - Internal Revenue Manual Cat. No. 28130J",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3a7a176889468be3485e30134c04548d",
+    "text": "2.3.17 ERROR MESSAGES Solution 29 Self Explanatory Error 30 Invalid Name-Control, fourth character must be a letter, number, &, or - Solution 30 Self Explanatory Error 31 Invalid Nullify Indicator, must be “N” or empty. Solution 31 Self Explanatory Error 32 Invalid, only enter values in one of these ﬁelds, SC- Stop, ST-CD, or Addr-Num Solution 32 Self Explanatory Error 33 Invalid, Addr-Num changed from last known, empty Address-Lines 1 and 2 Solution 33 Self Explanatory Error 34 Invalid, must enter SC-Stop, State-Code or Addr-Num Solution 34 Self Explanatory Error 35 Invalid, input SC-Stop or Address-Lines, not both Solution 35 Self Explanatory Error 36 Invalid Addr-Num, ﬁnd address using ST-CD option Solution 36 Self Explanatory Error 37 Enter street/stop in address line 1, and enter city/state/ zip in address line 2 Solution 37 Self Explanatory Error 38 Add your Stop (after your address on Address-Line 1) Solution 38 Self Explanatory Error 39 Type “X” to the left of desired address or select NEXT PAGE using “+” or “-”. Solution 39 Self Explanatory Error 40 Invalid Address-Line-2, need “,” prior to State Code, Example: Fresno,CA 93710 Solution 40 Self Explanatory Error 41 Invalid SC-Stop, the last 2 characters of the STOP must be your State-Code Solution 41 Self Explanatory Error 42 Invalid Addr-Num, must contain at least 2 digits and start in left most position Solution 42 Self Explanatory",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "41791485bb35033d2ceb5e9014a95fe7",
+    "text": "ERROR MESSAGES Error 43 Invalid Addr-Num, enter State Code in ST-CD ﬁeld, remove Addr-Number. Solution 43 Self Explanatory Error 44 Wrong Addr-Num, enter State Code in ST-CD ﬁeld, remove Addr-Number. Solution 44 Self Explanatory Error 45 Invalid State-Code, enter a valid two character State Code Solution 45 Self Explanatory Error 46 Invalid SC-Stop, need a 2 character State Code after STOP: Ex. 9999 MI Solution 46 Self Explanatory Error 47 Invalid BOD/Area-Num, user must enter a numeric value, from 1 to 15 Solution 47 Self Explanatory Error 48 Invalid BOD/Area-Num, must be a value of 1 to 15 Solution 48 Self Explanatory Error 49 Invalid ESTAB request, use CC TRPRT to secure this electronic 1040 DOC Solution 49 Self Explanatory Error 50 BOD/Area-Num option 1 is reserved for SC employees using the above SC-Stop ﬁeld Solution 50 Self Explanatory Error 51 Invalid ESTAB request, see message on lines 19 - 22 above Solution 51 Self Explanatory Error 52 Sorry previous TIN not found, please enter manually Solution 52 Self Explanatory Error 53 (BOD/Area-Num changed to 1, 1 required for all SC employees) Solution 53 Self Explanatory Error 54 Invalid ESTAB request, use the EUP system to obtain this electronic document Solution 54 Self Explanatory",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "0863f5859f8df5d545fd065e023fc6f3",
+    "text": "Code ESTABD 2.3.17 page 9 ERROR MESSAGES Error 56 DLNs are only used for MeF intake purposes and do not go to Master File. Solution 56 Self Explanatory",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "217dbf91c679b48b67bd031be0890322",
+    "text": "2.3.17.9 (01-01-2008) Command Code ESTAB—ConsistencyMessages",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "c5829d1d9a7e6776208c28dc9ccec679",
+    "text": "2.3 IDRS Terminal Error Messages Error 1 Invalid, DOC Request Code is B, so serial number in the DLN must be zeroes. Solution 1 Correct and reenter Error 2 Invalid, DOC Request Code is T, so a full DLN is required. Solution 2 Correct and reenter Error 3 Invalid TIN not consistent with MFT. Solution 3 Correct and reenter Error 4 Invalid, TIN must be in EIN format, or remove Employee Plan NO. Solution 4 If Employee Plan Number is an item of input, correct the TIN and re-enter. If TIN is correct, remove the Employee Plan Number and re-enter. Error 5 Invalid, TIN is EPMF so Employee Plan Number is required. Solution 5 Change TIN to other than an EPMF TIN or add valid Employee Plan Number. Error 6 Invalid, partial DLN requires a Tax Period. Solution 6 If the Partial DLN is correct input the tax period and re-enter. Otherwise, enter the full DLN. Error 7 Invalid, Tax Period is not consistent with the MFT Code Solution 7 Correct as per IRM 2.3.17 and re-enter. Error 8 Invalid a partial DLN requires a Form Number. Solution 8 Enter Form Number or a full DLN. Error 9 Invalid MFT (valid are 01–06, 09–11, 29–30, 33–34, 36–37, 44, 50–52, 58, 60–64, 67 or 74). Solution 9 Correct and reenter Error 10 Invalid, need TIN or full DLN. Solution 10 Enter TIN or enter a full DLN. Error 11 Invalid, Employee-Plan-Num required with MFT code 74. Solution 11 Enter plan number or correct MFT. Error 12 Invalid, SC Code or DO Code is inconsistent with the YR-COUNT of the full DLN Solution 12 Enter correct Service Center Code or District Office Code in DLN or correct YR-COUNT of DLN Error 13 Invalid, TIN and Name Control are inconsistent.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "969f436ecc9f0eb79214e48c5588fab2",
+    "text": "Error Messages Solution 13 Enter correct TIN or Name Control. Error 14 Invalid, Either the TIN’s FS Code is “n”, or the DLN’s Tax Class Code is “ 6” Solution 14 Correct either the TIN’s File Source Code or the DLN’s or Partial DLN’s Tax Class Code. For NMF Document Request, use TIN’s File Source Code “N” and the DLN’s or Partial DLN’s Tax Class Code “6”.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "33c1e29902d678cbcff13d561dbfd825",
+    "text": "This Page Intentionally Left Blank",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "441459a9c67329bef0f35e516b43671e",
+    "text": "Exhibit 2.3.17-1 (07-01-2020) Input Format, CC ESTAB—Document Request",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "441459a9c67329bef0f35e516b43671e",
+    "text": "Exhibit 2.3.17-1 (07-01-2020) Input Format, CC ESTAB—Document Request",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "9d9c7364450539d1437cc9b0e6c5b100",
+    "text": "Input Screen ESTAB D",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "9beee3b7de009fb807abca90cea5bfba",
+    "text": "1-9 | 11-19 | 21-29 | 31-39 | 41-49 | 51-59 | 61-69 | 71-8012345678201234567890123456789012345678201234567890123456782012345678901234567890LSTABD3, 4DCN> 5 EMP. NUM> 6 MFT>_7 FORM NUM> 8TAX PERTIOD>, 9 EMP. PLAN NUM>_10 NAME CONTROL>_11Enter one of the following below: (SC-STOP) or (STATE-CODE) or (ADDRESS-NUMBER}SC STOP> 12 ST-CD>13 ADDR-NUM>_ 14ADDRESS LINE 1> 15 ADDR-STOP> 16ADDRESS LINE 2> 17REMARKS LINE 1> 18REMARKS LINE 2> 19 NEED K-17>20(Y/N}BOD/AREA NUM>21 MULTIPLE DOCUMENT REQUESTS>22 (Y/N)NOTE 1:BOD/AREA-NUMBER KEY:Service Center Employee1 = Campus EmployeeNon-Service Center Employee2 =2CI 7 = EXBM-SB/SE 12 = COLL-TEGE3 = TAS 8 = EXAM-TEGE 13 = COLL-W&I4 = Disclosure 9 = EXAM-W&I 14 = APPEALS5 = Customer Assistance 10 = COLL-LMSB 15 = OTHER6 = EXAM-LMSB 11 = COLL-SB/SENOTE 2:Never input Taxpayer address info in Address or Remarks Field.(Line 24 is reserved for Informational screen messages)123456789012345678901234567890123456789012345678901234567890123456789012345678901-9 1 11-19 | 21-29 | 2:M-29 | 41-4% | 51-59 | &1-69 | 71-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3d5938ad439d4a5d2e751648607a7c02",
+    "text": "siIMA = &,Never input Taxpayer address info in Address or Remarks Field.(Line 24 is reserved for Informational screen messages)123456789012345678901234567890123456789012345678901234567890123456789012345678901-911-19 21-29 31-39 41-49 51-59 61-6971-80",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "cf3d76870230e2e964badea2f2fbd000",
+    "text": "Exhibit 2.3.17-1 (Cont. 1) (07-01-2020) Input Format, CC ESTAB—Document Request",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "4d9b02f9705bd78620fe63aff89f6ec6",
+    "text": "When a right-hand bracket “]” is entered in the ﬁrst position of this ﬁeld, it indicates that the TIN was entered in the immediately preceding CC ACTON, ENMOD, REINF, SUMRY, or TXMOD, and that TIN will be displayed back to the screen. If the request requires research, that TIN will be used. It will also be printed on the Form 4251.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "710d5299560220623325e14eafdb690a",
+    "text": "NOTE: See IRM 2.3.17.7, Command Code ESTAB—Error Messages, for validity checks of the TIN INFORMATION FIELD. Also see IRM 2.3.17.8, Command Code ESTAB—Consistency Messages.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "bc602717f00ed351054748b9b4532133",
+    "text": "DOCUMENT REQUEST NUMBER FIELD- Must be entered. Must be in the format “ nnnnn-nnn-nnnnn-n” for standard 14 digit edited DLN. If the DLN is unknown enter ﬁrst three digits of DLN. (The ﬁrst two positions are the D.O. or S.C. Code, the third position is the Tax Class) If the request code is B, positions 14 and 15 of this ﬁeld be zeroes. Also see IRM 2.3.17.7, Command Code ESTAB—Error Messages, and see IRM 2.3.17.8, Command Code ESTAB—",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "419188454e5aa0846c7cba4a626e0407",
+    "text": "EMPLOYEE NUMBER- Optional. If omitted, the completed request will be routed to the terminal operator. Enter if the requester is than the terminal operator. Also see IRM 2.3.17.7, Command Code ESTAB—Error Messages.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "6da6189dcd4b4a57454c4d03da368353",
+    "text": "MFT- must be entered and must be in “nn” format. Whenever the MFT is “52”, then the Form Number must be entered either as “706” or “706NA”, and the Tax Period must be “000000”. See IRM 2.3.17.7 , Command Code ESTAB—Error Messages and see IRM 2.3.17.8, Command Code ESTAB—Consistency Messages.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "8d3fd28859bcd32c256417e292085081",
+    "text": "FORM NUMBER- If entered, use the Form Number of the document being requested. For requests that require Master File research, it must be a tax return that is processed to the Master File. When the Form Number is either “ 706” or “706NA”, then the MFT must be “ 52”, and the Tax Period must be “000000”.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "765ec473b4f8fecde0c7256ba3adf7f1",
+    "text": "Exhibit 2.3.17-1 (Cont. 2) (07-01-2020) Input Format, CC ESTAB—Document Request",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "f678835b93e02e17a370ad38913459e1",
+    "text": "Description and Validity",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "20238cbae31326544009aebda7c144fa",
+    "text": "NAME CONTROL- If entered, must meet standard validity See IRM 2.3.17.7., Command Code ESTAB—Error Messages.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "34d1ee7123647b2cc27f926650e995d0",
+    "text": "SERVICE CENTER STOP- If entered, must be used by Service Center employees only. It must contain the Service Center Stop of the requestor. Following the stop number, the two character State- Code of the requestor should be entered. The state abbreviation should be the last entry on that line. For example :FSC STOP 1234 CA. If an entry is made here items 14, 15, 16, 17, and 18 must be blank.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "f49684250aaf6a82305fd5c219f3c5f8",
+    "text": "STATE CODE- if entered, item 13 (SC Stop) must be blank. ST-CD is the two character State Code of the requestor address. After entering the requesters State Code and entering BOD/AREA-NUM (line 10, item 20) depress Enter/XMIT on your key board. ESTAB provide a list of addresses for the requester, follow instructions on line 24 of monitor.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "2f160b22b3ba57d7602ad51c8eb651cc",
+    "text": "ADDRESS-NUMBER- if entered, allows users to retain address in- formation when processing multiple successive ESTAB requests. If an entry is made here items 13, 14, 16, and 18 must be blank.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "98ceea6b109cd0747153561d7ccbd677",
+    "text": "REQUESTER ADDRESS LINE 1- If item 14 (SC Code) was used to obtain the requester’s address the Street address will appear on lines 6.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "3291f6a4c9a98e245a1dfb70f3ddc958",
+    "text": "REQUESTER STREET ADDRESS STOP- Put Street Address Stop here. If Street Address Stop is saved from previous ESTABD request it will be pre-ﬁlled when the ESTABD input screen appears.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "73f08570882c0ea53c32acddda06379e",
+    "text": "REQUESTER ADDRESS LINE 2- If item 14 (SC Code) was used to obtain the requester’s address the City, State, and Zip Code will appear on lines 7.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "948143b96e0ffb77218de33c50f10bce",
+    "text": "REMARK LINES- These lines should be used to provide additional information to the individual searching for your requested informa- tion. Whatever is input in these ﬁelds will print on the Form 4251 in the same format as it was inputted. Exceptions: Special Characters such as, “?”, “!”, “ ;”, and “=” will print as a blank space.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "a17e097e321bb6559f0e450e7a0d233f",
+    "text": "documents not in DLN order and kept on the Alpha File, use Taxpayer’s name and TIN in the Remarks line.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "dd3319c5a5d9d9a65c3f743d284623c5",
+    "text": "Exhibit 2.3.17-1 (Cont. 3) (07-01-2020) Input Format, CC ESTAB—Document",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "f678835b93e02e17a370ad38913459e1",
+    "text": "Description and Validity",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "6cc656d9a1a31cff72236094bd835388",
+    "text": "NEED K",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "0e2716d7ef8475feff1be909c136872d",
+    "text": "?- Must contain Y or N. Y(es) would result in the following statement printing of the form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "27d1fdd372fbba3879592fb1e6d8cf85",
+    "text": "“ Pull Sch K-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "3d56ab38bc039fdf881b735df1776831",
+    "text": "for this document”.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "17646283079df60831e63e3cc7b48bf4",
+    "text": "BOD/AREA NUMBER- Must be entered. Must be numeric. Valid codes are",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "9c6725dc269a48ce4b5bc78b580ccab2",
+    "text": "through",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "df89a9eb1c25facb0c069e132ae3c44a",
+    "text": "MULTIPLE DOCUMENT REQUESTS- Enter Y to make multiple document request against a single taxpayer account. When you transmit the request the ﬁelds for the additional requests will appear on the lower half of the screen.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "3b2d2a2c55591cc138da1c55fb0ed90b",
+    "text": "ESTABD do not support Universal Access.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "d021bccf6ccb40552bd3b9353ed816bf",
+    "text": "Exhibit 2.3.17-2 (01-01-2006) CC ESTAB—Local Site Message",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "2ec48a8910463678aa9c79ff5f2326c0",
+    "text": "ESTAB D output message, line 24",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "bb3f243691cafaf3858d1a8604d9ad17",
+    "text": "-3 | 11-19 | 21-2% | 31-3% | 4l-49 | E1-53 | &l-6% | 71-80123456780012 34567850123456 76901 25456 TR0 2545670501234 5678501 234567501 23486785003 w1 T O R 0 P b23Z4CC DEFINER HOT UNIVERSAL, TRE LOCAL BITEe IR o NALA4 be a0l Z 346 e 00 lE 345 E 7R R0 1 P 345670001 ZB4EeTR00 1234 L TR0 345678001234 5672301-% | ii-18 | FI-S | 3i-3a | 4i-4d | E1-88 | Bl-g5 | Fi-B0 |",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "13d5eb4d79e6b1ba0e25461ba0a89298",
+    "text": "<0 DEFINER NOT UNIVERSAL, USE LOCAL SITELE R4 Ee 7Rl 2345670301 3456 7E001 2345678301 2345670001 2240678001 2345678801234 567830I-5 T i1-18 | Fl-z3 | &i-35 | 4i-459 | El-85 | Bl-g5 |  7i-80 |",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "1c4dbb6d01f5a79c99d83810ac35f3c6",
+    "text": "Local site is the only available site for this command code modiﬁer. Do not use the Universal Access Code. Re-enter this screen immediately.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "1ce3fb0b3e7a710959fb66cdfb9beec5",
+    "text": "Exhibit 2.3.17-3 (01-01-2010) Input Format, CC ESTAB—Request",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "818192b5fbff40ffb7c9ea2447854d77",
+    "text": "ESTAB invalid indicators",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "f0c6ffafac79e80c2385fc2ac21ca8d3",
+    "text": "1-9 | 11-19 | 21-29 | 31-39 | 41-49 | 51-59 | 61-69 | 71-8012345678201234567890123456789012345678901234567850123456789012345678901234567890LSTABD3 4 *DCN> 5 * EMP. NUM> 6 * MFT> 7% FORM NUM> 8 *TAX PERIOD> 9 * EMP. PLAN NUM> 10%* NAME CONTROL> 11 *Enter one of the following below: (SC-STOP) or (STATE-CODE) or (ADDRESS-NUMBER}SC STOP> 12 * ST-CD>13% ADDR-NUM>_14%*ADDRESS LINE 1> 15 * ADDR-STOP> 16 *ADDRESS LINE 2> 17 *REMARKS LINE 1> 18 *REMARKS LINE 2> 19 * NEED K-17>N* (Y/N)BOD/AREA NUM>21% MULTIPLE DOCUMENT REQUESTS>N* (Y/N}NOTE 1:BOD/AREA-NUMBER KEY:Service Center Employee1 = Campus EmployeeNon-Service Center Employee2 =2CI 7 = EXBM-SB/SE 12 = COLL-TEGE3 = TAS 8 = EXAM-TEGE 13 = COLL-W&IL4 = Disclosure 9 = EXAM-W&I 14 = APPEALS5 = Customer Assistance 10 = COLL-LMSB 15 = OTHER6 = EXAM-LMSB 11 = COLL-SB/SENOTE 2:Never input Taxpayer address info in Address or Remarks Field.Line 24 is reserved for Informational screen messages123456789012345678901234567890123456789012345678901234567890123456789012345678901-2 | 11=1% | 21-2% | .31-39 | 41-4% | 51-59 | 61-69 | _71-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "9dbc85353321d6ae9399a2f749c56da6",
+    "text": "Never input Taxpayer address info in Address or Remarks Field.Line 24 is reserved for Informational screen messages123456789012345678901234567890123456789012345678901234567890123456789012345678901-2 | 11=1% | 21-2% | .31-39 | 41-4% | 51-59 | 61-69 | _71-80",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "4ae070b6a565702d5e770af9fc5e4939",
+    "text": "Input screen ESTAB D",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "bd2138139b60d1bf669de69ddccb933f",
+    "text": "1-9 | 11-19 | 21-29 | 31-3% 41-49 51-59 €1-69 1 71-8012345678201234567890123456782012345678901234567820123456789012345678901234567890TSTARDOO00-00-4320DCN>32212-945-60001-9 EMP. NUM>3234001800 MEFT>30 FORM NUM>1040TAX PERIOD>199812 EMP. PLAN NUM> NAME CONTROL>ANTSEnter one of the following below: (SC-STOP) or (STATE-CODE) or (ADDRESS-NUMBER)SC STCP>9999 MI ST-CD> ADDR-NUM>ADDRESS LINE 1> ADDR-STOP>NADDRESS LINE 2>REMARKS LINE 1>CLATM RECEIVED (06141988,REMARKS LINE 2> NEED E-1?> (Y/N)BOD/AREA NUM>01 MULTTPLE ESTAB REQUESTS> (Y/N)NOTE 1:BOD/AREA-NUMBER KEY:Service Center Employee1 = Campus EmployeeNon-Service Center Employee2 =2CI 7 = EXAM-SB/SE 12 = CCLL-TEGE3 = TAS 8 = EXAM-TEGE 13 = COLL-W&I4 = Disclosure 9 = EXAM-W&I 14 = APPEALS5 = Customer Assistance 10 = COLL-LMSB 15 = OTHER6 = EXAM-LMSB 11 = COLL-SB/SENOTE 2:Never input Taxpayer address info in Address or Remarks Field.Line 24 is reserved for Informational screen messagdes[200 oo G s W1212345678901234567890123456789012345678901234567890123456789012345676901234567890",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "9d7b7e9834367ff1e9d6ec38ea1767b6",
+    "text": "Exhibit 2.3.17-4 (Cont. 1) (01-01-2013) Request Codes",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "cf6054b7f9fc50ed51c0fe963e6008ad",
+    "text": "1-9 | 11-19 | 21-29 | 31-39 | 41-49 | 51-59 | 61-69 | 71-8012345678201234567890123456789012345678201234567890123456782012345678901234567890ESTABDR32-0000000DCN>32141-025-60000-2 EMP. NUM>3234001800 MFT>01 FORM NUM>941TAX PERIOD>199812 EMP. PLAN NUM> NAME CONTROL>BIRDEnter one of the following below: (SC-STOP) or (STATE-CODE) or (ADDRESS-NUMBER}SC STOP> ST-CD> ADDR-NUM>00227ADDRESS LINE 1>1008 Professional Blvd ADDR-STOP>ADDRESS LINE 2>Dalton,GA 30720REMARKS LINE 1>78601238RIRD, CUCUMBERREMARKS LINE 2> NEED K-12>N (Y/N}BOD/AREA NUM>02 MULTIPLE ESTAB REQUESTS>N (Y/N})NOTE 1:BOD/AREA-NUMBER KEY:Service Center Employee1 = Campus EmployeeNon-Service Center Employee2 =2CI 7 = EXBM-SB/SE 12 = COLL-TEGE3 = TAS 8 = EXAM-TEGE 13 = COLL-W&IL4 = Disclosure 9 = EXAM-W&I 14 = APPEALS5 = Customer Assistance 10 = COLL-LMSB 15 = OTHER6 = EXAM-LMSB 11 = COLL-SB/SENOTE 2:Never input Taxpayer address info in Address or Remarks Field.Line 24 is reserved for Informational screen messages12240 E7R0N 1 D 2AGETR0NT P 2AEETRONT P RARETRONT T 2ACRETEGNT1 2 AEETOCAT D22ACETIRGATI PALETRAN",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "c1e61c28e30672470dfcdf0e8e5ca2c8",
+    "text": "Oftentimes, the TIN is not known for a “block of documents” request. Only in those instances would the requestor dummy the TIN Information ﬁeld using the following guidelines.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "9c3995ddeec611f553c240d21b075359",
+    "text": "1-9 | 11-19 | 21-29 | 31-39 | 41-49 | 51-59 | 61-69 | 71-801234567890123456789012345678901234567890123456789012345678901234567890123456785%0[ N C SRESTARDB000-00-4321DCN>322 EMP. NUM>3234001800 MFT>30 FCRM NUM>1040TAX PERIOD>199812 EMP. PLAN NUM> NAME CONTROL>CATSEnter one of the following below: (3C-STOP) or (STATE-CODE) or (ADDRESS-NUMRER}SC STOP>9999 MI ST-CD> ADDR-NUM>ADDRESS LINE 1> ADDR-STOP>ADDRESS LINE 2>REMARKS LINE 1>3240156D0OG, ERMINEREMARKS LINE 2>TAXPAYER INQUIRY. NEED K-172> (Y/N}ROD/AREA NUM>01 MULTIPLE ESTAB REQUESTS>N (Y/N})NOTE 1:BOD/AREA-NUMBER KEY:Service Center Employee1 = Campus EmployeeNon-Service Center Employee2=2cCI 7 = EXAM-SB/SE 12 = COLL-TEGE3 = TAS 8 = EXAM-TEGE 13 = COLL-W&IL4 = Disclosure 9 = EXAM-W&I 14 = APPEALS5 = Customer Assistance 10 = COLL-LMSB 15 = OTHER& = EXBRM-LMSB 11 = COLL-SB/SENOTE 2:Never input Taxpayer address info in Address or Remarks Field.(Line 24 is reserved for Informational screen messages)",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "84ded0fa671ad1146d2be3d71b433882",
+    "text": "Exhibit 2.3.17-5 (01-01-2010) Multiple Document Requests",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "f4fbda06c6f360fccf3024188ad646d5",
+    "text": "Input screen ESTAB D Multiple Document Option",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "e35c4e34388e2b67039c8e2b6487ff47",
+    "text": "1-9 | 11-19 | 21-29 | 31-39 | 41-49 | 51-59 | 61-69 | 71-8012345678201234567890123456789012345678901234567850123456789012345678901234567890ESTABDRO00-00-4321DCN>072 EMP. NUM>3234001800 MFT>30 FCRM NUM>1040TAX PERIOD>199812 EMP. PLAN NUM> NAME CONTROL>CATSEnter one of the following below: (SC-STOP) or (STATE-CODE) or (ADDRESS-NUMBER}SC STCP>9999 MI ST-CD> ADDR-NUM>ADDRESS LINE 1> ADDR-STOP>ADDRESS LINE 2>REMARKS LINE 1>3240156D0G, ERMINEREMARKS LINE 2>TAXPAYER INQUIRY. NEED K-172> (Y/N}BOD/AREA NUM>01 MULTIPLE ESTAB REQUESTS>Y (Y/N})REQUEST-CODE FORM TAX PERIOD MET DLN>0 >1040 >199912 >30 >07211-111-11111-0>0 >1040 >200012 >30 >07211-111-11112-1>0 >1040 >200112 >30 >07211-111-11113-2>0 >1040 >200212 >30 >07211-111-11114-3>0 >1040 >200312 >30 >07211-111-11115-4>0 >1040 >200412 >30 >07211-111-11116-5>0 >1040 >200512 >30 >07211-111-11117-¢>0 >1040 >200612 >30 >07211-111-11118-7>0 >1040 >200712 >30 >07211-111-11119-8>0 >1099-MI >200712 >30 >07595-111-11122-8TRANSMIT REQUEST>(Line 24 is reserved for Informational screen messages)T A A AL T O ONT A A E O ONAm A AL EACONA R A AL E T OOMAIN AL E T ONRT P AAEET O ONT N AN ETOOM TN AL ETG AN",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "da7be5db2d23090cbf83f4b9361e5d62",
+    "text": "(Line 24 is reserved for Informational screen messages)T TYE e s123456789012345678901234567890123456789012345678901234567890123456789012345678901-2|..11=1% | 21-2% | 31-39 | 41-48 | 51-59 | _61-6971-80",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "311eee66d059240b1ab651c059754f5c",
+    "text": "For each additional document being requested complete the upper most available row within the Multiple document portion of the ESTAB D MULTIPLE REQUEST layout.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "b344d80e24a3679999fa964450b34bc2",
+    "text": "The",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "f28382d5cac367970646634876051ea3",
+    "text": "data ﬁelds of each row of the MULTIPLE DOCUMENT REQUEST has the same input require-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d8b481130fc573ed5ad6d868fbcdd738",
+    "text": "The 4 data ﬁelds of each row of the MULTIPLE DOCUMENT REQUEST has the same input as the corresponding ﬁelds on the upper portion of the ESTAB D request.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-017--2020-06-16.pdf",
+      "page_number": 26
+    }
+  }
+]

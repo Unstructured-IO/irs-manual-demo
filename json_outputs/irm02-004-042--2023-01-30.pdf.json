@@ -1,0 +1,974 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "b01472f6897f6cb4cec32e12ec03ce33",
+    "text": "This transmits revised IRM 2.4.42, IDRS Terminal Input, Command Code CCASG for Case Control Activity System",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "c9018fff55ff191a3744181bd0fae287",
+    "text": "IRM 2.4.42 has been revised to include Program, Scope and Objectives.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "9f2195fb3202ba78f7491d38c23d50fc",
+    "text": "IRM 2.4.42, dated April 23, 2020, is superseded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1e04ac4271e26a0d03a06b174aeb7b1f",
+    "text": "LMSB, SB/SE, TE/GE, W&I.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "282a029179e83e71e31d04fe1adfbc9d",
+    "text": "Command Code CCASG for Case Control Activity System 2.4.42",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "7afcb39b001e9e763174114e7272baf5",
+    "text": "Review and implementation of WRs and Updating the contents of this",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e5a9d9570283386177f14a7bb18a9c99",
+    "text": "(1) Program Reports: Control reports for DLY45(ITIF), DLY55(BTIF), and DLY65(ZTIF) for records processed can be found in EONS",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f3010ecf7198d8234f74af23914d5889",
+    "text": "The Case Control Activity System (CCA) command code has been designed for the use of Service Center personnel to assign, close and update cases on IDRS. The manual processing of the Adjustment Control Cards has been replaced with an automated system. The Case Control File (CCF) will contain case control information from Master File. Command Code CCASG will be used to assign, close, update and research cases on the CCF. The Taxpayer Information File (TIF) will be updated to reﬂect the updates performed on the CCF.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "761813c1269ef9da481613ca087fc8fe",
+    "text": "The following table lists the abbreviations unique to CCA:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "10ccdf86ba75207a1de03188c8b4b65d",
+    "text": "CCE Case Control File (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "774a8471a008d64dcf1b6f8a3ea68022",
+    "text": ") During Realtime, Command Code CCASG will perform the following functions: a. Command Code CCASG with a deﬁner ’F’ is used when an update is made to the CCF. This request will return a formatted screen that will allow a terminal user to batch (?) assign or close a range of cases, The number of cases allowed in each range can be from one to one thousand. b. Command Code CCASG with a deﬁner ’R’ is used when research is done on the CCF. This request will allow the terminal user to input a number and the response will be the corresponding data on the CCF. c. Validity checks will be performed to assure that the input data is accurate and consistent. If invalid conditions are present, the input data will be displayed and errors identiﬁed. When all ﬁelds are determined to be the CCF will be updated accordingly. d. Following the update of the CCF, a record will be generated for computer analysis during end of day processing. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "76a7c7c0fbc8ddc895a4143c8f2193b4",
+    "text": ") The Case Assignment Listing is generated. This listing will be used by Service Center personnel to identify what cases have been or will be assigned to the employee of the unit. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "93cef3bef574bdd20e86a276755c9381",
+    "text": ") The Unassigned Case Listing is generated. This listing will show cases that could not be assigned to a Service Center unit or employee. This may be to a lack of information needed to assign the cases to the unit or employee the proper information was not provided. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "58721fa757bc2246f16ba9e72c6bfe62",
+    "text": ") After Realtime, the control base on the TIF is updated or added. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4419e59e5f4ab507707c8d2c4db4c865",
+    "text": ") After Realtime, the CC CCASG UPDATE LISTING is generated. This listing indicate all cases which were updated with Command Code CCASG during Realtime that day. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "cad260486399cb2ca79559f732c8d394",
+    "text": ") Every week, the CCF is analyzed and updated. Cases are aged off the CCF once they have reached one of the following conditions: a. All units except DATC:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4f9b3682b3874a6e3a00ffd90b185c87",
+    "text": "days unassigned",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c83a37f96abed69118eb2f85978eb1eb",
+    "text": "days assigned b. DATC units:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4f9b3682b3874a6e3a00ffd90b185c87",
+    "text": "days unassigned",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3481b70262c0fd235e1b43688df93450",
+    "text": "months assigned Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1b80b83e3b8c1d315f2f502284d183ef",
+    "text": "C (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e8d3d0c6d67b5347e8a0fe551326590f",
+    "text": "a. Command Code CCASG with a deﬁner ’F’ is used when an update is made to the CCF. This request will return a formatted screen that will allow a terminal user to batch (?) assign or close a range of cases, The number of cases allowed in each range can be from one to one thousand. b. Command Code CCASG with a deﬁner ’R’ is used when research is done on the CCF. This request will allow the terminal user to input a case number and the response will be the corresponding data on the CCF. c. Validity checks will be performed to assure that the input data is accurate and consistent. If invalid conditions are present, the input data will be re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1605c1fe8948201caebe9c4127b24bab",
+    "text": "displayed and errors identiﬁed. When all ﬁelds are determined to be valid, the CCF will be updated accordingly. d. Following the update of the CCF, a record will be generated for computer analysis during end of day processing.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a5d421cb748dcc614ca7fa977e0d54e6",
+    "text": "(1) Every week, the CCF is analyzed and updated. Cases are aged off the CCF once they have reached one of the following conditions:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "0cc2650eb5fd4a3583350b8819cf2195",
+    "text": "2.4.42.10(01-01-2000) Weekly Analysis and Update",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "282a029179e83e71e31d04fe1adfbc9d",
+    "text": "Command Code CCASG for Case Control Activity System 2.4.42",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b927148968d9e52fd7eda9c20518b3a0",
+    "text": "Error Response—For an invalid request, the input screen will display an Error Message on the bottom of the screen.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "755e8e21d35fbfef02980449da31f14b",
+    "text": "Valid Response—The CCASG format for update is displayed on the screen. See Exhibit 2.4.42-2. for CCASGF Response Format.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "9139f5c44c4fa71f89beeb56c679c2a1",
+    "text": "The following data items must be input at all times unless the default values are used:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a0a6be05b029cc8b7edc2d4509a35519",
+    "text": "b. If using the default ﬁeld(s), then the contents of the default ﬁeld does not have to be entered on each line. One, two, three or all four of the default values may be used. For example, the default case number and status code can be used without using the default action code. Default values along with full line information is allowed on the same request. c. Cases that have been placed in Closed status (Status Code C) are only subject to further updating during that same day. Once CCA",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "0d1d33b270c30d7e8e96735fc3358456",
+    "text": "has been run, these cases may no longer be accessed via CCA processing. See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "e118c7252f3b4f983aa42e9919d5f217",
+    "text": "for CCASG Input Format.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "c65c69f0f4fb3cd4038a42e313650e29",
+    "text": "Warning messages: if any warnings were generated because of the CCASG request, one of the following warning numbers will appear in column 39. REQUEST COMPLETED will still appear on line 13. Listed below are the meanings of the warnings:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "46979c212dd62fe17ccdd6583d7d3d41",
+    "text": "WarningNo. Description 1 At least one case in this range has been previously assigned to an employee. All cases in the range have been updated. 2 The Low Case Control Number or the High Case Control Number was not found on the CCF. No updates were made for this range of case numbers. c. Error Messages: If any errors are present in the CCASG request, one of the following messages will be displayed on the bottom of the screen in",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "6324ce1aca1868c65b92b3256f47b10b",
+    "text": "Error Messages: If any errors are present in the CCASG request, one of the following messages will be displayed on the bottom of the screen in",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "1badd3aff9c3396cb78814de4e99fcfe",
+    "text": "The only required input is the Case Control Number to be researched. See Exhibit 2.4.42-5. for CCASGR Input Format.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "282a029179e83e71e31d04fe1adfbc9d",
+    "text": "Command Code CCASG for Case Control Activity System 2.4.42",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "6937ee29dd0b3cdc3a8b41c9149f30ff",
+    "text": "a. Valid Response: REQUEST COMPLETED —This message is returned on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "cde3f04037f81f1050e8f4f28354df33",
+    "text": "of the screen if no validation errors of the input CCASGR request are present and the case was found on the CCF. b. Valid Response CASE CONTROL RECORD NOT FOUND ON THE CCF The case to be researched was not on the CCF. c. Error Messages: If any errors are present in the CCASGR request, one of the following error messages will be displayed on the bottom of the screen in inverse video.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "260b9ec23e19d97acbf3e0606a93faab",
+    "text": "Error No. Description",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "855690ec4f2a36daa153a1f9cf1fd763",
+    "text": "COMMAND CODE DEFINER INVALID—Deﬁner must be an ’R’.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d74e212b0c4af678d1ed81060b001ab7",
+    "text": "PLEASE CORRECT INVALID DATA—The Cases Control Number should be all numerics except for position ﬁve which can be an ’A’ or ’B’. Correct data and re-input.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "33c1e29902d678cbcff13d561dbfd825",
+    "text": "This Page Intentionally Left Blank",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "282a029179e83e71e31d04fe1adfbc9d",
+    "text": "Command Code CCASG for Case Control Activity System 2.4.42",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "2f343666aaa88c44430b12e6ab8a2959",
+    "text": "Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "37e8e8b4d83a30fdfd80ee0593365f4b",
+    "text": "| T T T S TR T B |SO TERITZIA 09! g T 5Ty T T T",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3b6cfb788c83076df71e1bf97b6f7244",
+    "text": "gt L T T T o [ naef2vsseo0 2 s eo012 570012 s TR T STV S TSI TT TBEEEEESSSeosonE]",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "39f5a9d7fd81516187458fdbaa6d93bc",
+    "text": "Command Godo—GCASGCommand Gode Defner—isrkDetaut Caso ContotNumerDetaut Assgnes Emplyoe NumborDetaut Acton CodeDotaut Saus CodeLowGase Conto umerFigh Caso Contrl Number (ast e digs)Aesipes Empioyeo umberActonGode.Staws Cose",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "282a029179e83e71e31d04fe1adfbc9d",
+    "text": "Command Code CCASG for Case Control Activity System 2.4.42",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "2f343666aaa88c44430b12e6ab8a2959",
+    "text": "Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "688618a686908268ef67cc166def33d3",
+    "text": "PPPPPY YV ECEEEEEELEEEET)T T WS",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "fc17f1c1fb02b7ce6b1a3de3fb6218a9",
+    "text": "Exhibit 2.4.42-3 (Cont. 1) (01-01-2000) CCASG Request",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "fc17f1c1fb02b7ce6b1a3de3fb6218a9",
+    "text": "Exhibit 2.4.42-3 (Cont. 1) (01-01-2000) CCASG Request",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "8922bbf04df7ec131240b6029963f78b",
+    "text": "oescm",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "6d2e0f53ea4c1de0e40e06701e80dbe3",
+    "text": "ions Loyt Assanas Employos Numbor—use",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "424bc07690d485c2bc474b720cc8b304",
+    "text": "ttt ot",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "10f76699ce596aa54ddb501e97cece5c",
+    "text": "umare win & ok Sovic Canis Codo st o posions e",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "61cd2930fd89dc84946ac04e093fac98",
+    "text": "Wi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "92a652cb800e75df4f809a265f54ac39",
+    "text": "U o o crseninesc",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "f403a3d3ac1f3b1b3fd3eb4b01ab9bd8",
+    "text": "ot Acson Cooe",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "e518211466ee8c248f70016422be9cf3",
+    "text": "usa, s e mustbaone ot h ciwog:e esabion s nw contovaseo i i ooki U ——iniaa s",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d97286677862a3d390f01d53bee0d3c9",
+    "text": "Statua Co",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "bd8665b0d9b45adb2f9a13b94d1a51d4",
+    "text": "sod, s e mustbo e f e olowng.A Assgne, ey bing workode nomrshas s borgoo ot oplnaion",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "b2d8f7756539542cf8895b255b32d04f",
+    "text": "= Gihor'ong tam e",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "e253f337400a76199b7038e8a0874ce9",
+    "text": "Siepanat anon trm olay bk o",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "69c61a81c810f4ae70f95a56f9838061",
+    "text": "T VA i e o e i sereeninoseis ramace",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "2a69a539432ab33408718cbd10cdd869",
+    "text": "o ase Coms mber—Ti st oweseet o",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "c116463be6776f81d2e845b111edba3b",
+    "text": "s e i a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "4f69dd532490f3cf6d4013bbe9f98c7d",
+    "text": "lamer",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "ecf916ce88162e5fba2535682c1f1356",
+    "text": "o ovoray NOMBR its o o s donro amot |e ot e G vy",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "4c94485e0c21ae6c41ce1dfe7b6bface",
+    "text": "v",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "2791364a622d5d2f4b14505942998c7f",
+    "text": "DESCRIPTION & VALIDITY",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "282a029179e83e71e31d04fe1adfbc9d",
+    "text": "Command Code CCASG for Case Control Activity System 2.4.42",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "2f343666aaa88c44430b12e6ab8a2959",
+    "text": "Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "a69e68320f76abd49a1302d39fe56c0c",
+    "text": "-RTINS | 12 | n-d | i | 518 | eues | D0 || ¥ERYBEELEEEEEEE = oo oo",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "14cc4b7ef5f9d145b35bd3960e64b50b",
+    "text": "LINE ELEMENT POSITION DESCRIPTION 1–12 1–10 See Exhibit 2.4.42–3 2–12 13 41 Warning Number. 24 14 1–17 Request Completed message. This message is returned after a successful CCASG.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "da92e218ff8a928ae549dfb4a3c2262b",
+    "text": "LINE ELEMENT POSITION DESCRIPTION 1 1 1–5 Command Code—CCASG 1 2 6 Command Code Deﬁner—R 1 3 8–17 Case Control Number",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "282a029179e83e71e31d04fe1adfbc9d",
+    "text": "Command Code CCASG for Case Control Activity System 2.4.42",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "2f343666aaa88c44430b12e6ab8a2959",
+    "text": "Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "8b064e3dc390b14bd038cfad1f296351",
+    "text": "P e e T T I T est v e T £",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "f57699b566c89f6a898a6bd8d884c515",
+    "text": "LINE ELEMENT POSITION DESCRIPTION 1 1 1–5 Command Code—CCASG 1 2 6 Command Code Deﬁner—R 1 3 8–17 Case Control Number — This is the ten digit case control to be researched. 1 4 29 Status Code 2 5 7–16 Assignee Employee Number — This is either the unit number or the employee number to which the case is assigned. 2 6 27–39 Control Category 3 7 5–13 TIN 3 8 18 TIN Type 3 9 23 File Source Code 3 10 29–30 MFT Code 4 11 6–11 Tax Period 4 12 23–26 Name Control 4 19 38 Action Code 5 14 13–22 IRS Received Date 5 15 37 Follow-up-Code— ‘F’ indicated that this is a follow-up record; indicates that it is not a follow-up case record. 6 16 14–23 Action Employee Number — This is the employee who reassigned this case last. 7 17 12–14 Report number",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "ac3cb0567f0667eae353a08f3dd544c7",
+    "text": "Assignee Employee Number — This is either the unit number or the employee number to which the case is assigned.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "5683549a869a72ff6c5278f1b4635f51",
+    "text": "Follow-up-Code— ‘F’ indicated that this is a follow-up record; indicates that it is not a follow-up case record.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "a6ac6490844688996022082602951a98",
+    "text": "Error Messages are returned on line 24 when an invalid request is made.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "282a029179e83e71e31d04fe1adfbc9d",
+    "text": "Command Code CCASG for Case Control Activity System 2.4.42",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "df7a1cf543095e39bfa266652dc73d06",
+    "text": "CCASG request with default values used.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "a53c5f93df950766753d17e01664c6ee",
+    "text": "TEFE e e STE ) WP A W eB S SEEES®Sswsooe|5|",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "1432dad58d17cc10bef5decb8a2ced91",
+    "text": "This example uses all four default ﬁelds. All the cases will be an ‘establishment’ to the TIF (default action code of 1) in ‘assigned’ status (default status code of A). All cases, 8256110067 through 8256110077, 8256110155, 8256110200 through 8256110299 and 8256110456 (default case number 82561) will be assigned to the same employee (default assignee employee number 2833000052).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "f14b60472ef5f261d224e7d330999461",
+    "text": "CCASG request with and without default values.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "83414c3a942781d025ffe9f5634dbf5a",
+    "text": "[FEVEEEETEEEREE T auEEyST YT S, ST e N e e™EEEER AT bkl",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "8d7946b4c1ca511c88a21ce1f1294546",
+    "text": "This example uses three of the default ﬁelds, showing that the default values may be overridden. Cases 820021555 through 8200210570 (which override default case number 82072) will be ‘establishments the TIF (action code 1) in ‘assigned’ status (default status code A) assigned to employee 2833000099 (default assignee employee number). Cases 8207210800 through 8207210899 (default case number 82072) will be ‘updates to the TIF (action code 5) in ’closed’ status (status code C which override the default status code) assigned to employee 2833000099 (default assignee Employee number). Case 8207210968 will be an ‘establishment’ to the TIF in ‘assigned’ status and Assigned to employee 2834000004 (which overrides default assignee employee number 2833000099).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "282a029179e83e71e31d04fe1adfbc9d",
+    "text": "Command Code CCASG for Case Control Activity System 2.4.42",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "ee41d918d548c6bc75a67293d8cbd402",
+    "text": "2 Tuos Lo T Toace [oucar [ | near |lccas: o0 setas DEUEI ettt KTO-D e DR |8200210855 10570 2013000052 5B P 3 ———2« RS etsz R S TSI 3670%)B T vSEEEEEEESSeusose](EXEEETTS",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "fee625cbf863b9fe1133d45868809af8",
+    "text": "In this example a request is made to assign cases 8200210555 through 820021570 to employee 2833000052 as an ‘update’ to the TIF and in ‘assigned’ status. Cases 8200212200 through 8200212220 are assigned to employee 2833000099 as ‘establishments’ the TIF and in ‘assigned’ status. The request is processed and a ‘REQUEST COMPLETED’ message is returned.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "d305d3d400f9f0ad2e668ea69a75c7f8",
+    "text": "CCASG response with warnings.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "6f2f729cde9f091ed125d04c10e92cb0",
+    "text": "[EBNEBGESEREEEEE e vovsuune [z [ nae e [ as [ ae [ na ]S4T30 0456783072 4547853012 456785012 436 0124 S RO L2345 3023436785(ST D -O T - T",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "734fab41b153617c93309d2ec2553481",
+    "text": "In this example a request is made to assign cases 8200210555 through 8200210570 to employee 2833000052 as an ‘update’ to the TIF and in ‘assigned’ status. Cases 8200212200 through 8200212220 are assigned to employee 2833000099 as ‘establishments’ to the TIF and in ‘assigned status. The request is processed and a ‘REQUEST COMPLETED’ message is returned. However, input line 2 received a WARNING 1. This indicates that at least one case in the range of 8200210555–8200210570 was previous assigned to another employee. This warning does not prevent the assignments from made. Input line 3 also received a WARNING 2. This warning indicates that either the low case number (8200212200) or the high case number (8200212220) was not on the CCF. This warning does prevent any updates from occurring for input line 3.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-042--2023-01-30.pdf",
+      "page_number": 22
+    }
+  }
+]

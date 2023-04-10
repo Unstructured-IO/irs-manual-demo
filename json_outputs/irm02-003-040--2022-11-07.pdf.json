@@ -1,0 +1,1478 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "468a076318f71bbe85dbb8d4cb61460b",
+    "text": "This transmits revised IRM 2.3.40, IDRS Terminal Responses, Command Code PICRD.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "56dfe00a6f90dd88e36c6b806f20ab5b",
+    "text": "Changes update the Author, Symbols, Date, insert the Prior Revisions and the Signed by Information.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "00f670236ffa620fc1d948adc9e6d0e6",
+    "text": "LMSB, SB/SE, TE/GE, W& I",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "372cb34bbea1914bba0ac081004d0fd3",
+    "text": "Informational Messages Displayed After Computation Breakdown on the Screen",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "bc1695c36f4afdd9e48227949b05eb2f",
+    "text": ") This section provides speciﬁc instructions for research on the IDRS (Integrated Data Retrieval System) for the following types of Tax Module Records: • IMF – Individual Master File • BMF – Business Master File It gives step-by-step procedures for displaying explanations of the computation of Credit Interest on allowable refunds and offsets. Command Code PICRD access accounts on the TIF (Taxpayer Information File). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e00fd2d6e3dbb929768d162d6f760275",
+    "text": ") Purpose: This transmits revised IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c6116895268257cf9df75728cbb71a21",
+    "text": ", IDRS Terminal Responses, Command Code PICRD (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0ebbcbeffa4f84b4c70d93fe976b1712",
+    "text": ") Audience: All IRS business areas. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f1a7ccb1d85b58c7101036f313737e14",
+    "text": ") Program Owner: Customer Service (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9d71d80d010171865df8243031a46632",
+    "text": ") Primary Stakeholders: Wage & Investment (W&I), Large Business and Interna- tional (LB&I), Small Business Self-Employed (SB/SE), Tax Exempt and Government Entities (TE/GE). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c903d95da2ef63c5966c2b109056802f",
+    "text": ") Program Goals: This system manages data that was extracted from the Corporate Account Data Stores (BMF and IMF) allowing IRS employees to research Credit Interest taxpayer account issues. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9ad7024649b6546a687229f7b0ad2ff6",
+    "text": ") Command code PICRD displays explanations of the computation of Credit Interest (interest due the taxpayer) on allowable refunds and offsets. The putation uses only information accessed from the ITIF or BTIF tax module. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2838b7b89282b1e827e61fee6fae3592",
+    "text": ") Only tax periods subsequent to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f6e6b9c142466927b08dc075477eb89a",
+    "text": "will be considered. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2729371958454fb7d8015ae4fe45c51e",
+    "text": ") Command code PICRD will only attempt computation if master ﬁle has computed credit interest (TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "922f65f8935ee0748a4f4380eeccc579",
+    "text": ") on the tax module. Command code P",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a5e50808f24051b4272b61292ee251b4",
+    "text": "RD’s computation is basically a recompute of master ﬁle’s computation plus consid- eration of any qualiﬁed TIF pending transactions. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "850410ed863f8216bcad3255d7cdf6f9",
+    "text": ") The messages contained in See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5ca4205ec3a2008c27948087c46c0270",
+    "text": "are strictly informational. They help to explain how the interest was computed. It is possible to receive multiple messages. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2234c0cc28294222569d1c112f48f490",
+    "text": ") The command code will allow the TIN, MFT, tax period and name control to passed from a preceding command code such as TXMOD and other PINEX command codes; thus eliminating the requirement to always input the data the screen. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ddf8f6a923b5aa5dbde9df8055fe2239",
+    "text": ") The various screens for command code PICRD are shown in See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2a9ef7301f9becbeb5c384091a581f2b",
+    "text": "through See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5d90974f696446b60738b58cbf5f2f02",
+    "text": ", Penalty Handbook, provides guidance to all areas of the IRS for civil penalties imposed by the Internal Revenue Code (IRC). It sets forth general policy and procedural requirements for assessing and abating penalties, and it contains discussions on topics such as criteria for relief from certain penalties. PICRD",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3660315a9af3df255d8f19ab077e4797",
+    "text": "page",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "663ca3ee21ab25a801c0ee8e91f85790",
+    "text": "(1) This section provides speciﬁc instructions for research on the IDRS (Integrated Data Retrieval System) for the following types of Tax Module Records:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "47254e871fd3a85dc919ae5d66a3576d",
+    "text": "and Responsibilities (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1bf5813367e400920a681ee85c429138",
+    "text": ") The Director, Business Support, is the director responsible for the servicewide civil penalty program. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32bccd285f72365a4d17774904f37078",
+    "text": ") The Director, Internal Management, is the director responsible for the IDRS Command Code. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1207a6a80a6c14d729560a0123e83a2b",
+    "text": ") Overall responsibility for civil penalty programs is assigned to OSP. OSP matrix organization residing in the Business Support (Small Business/Self Employed) Function. OSP is charged with coordinating policy and procedures concerning the civil penalty program administration, ensuring consistency the penalty policy statement, reviewing and analyzing penalty information, searching penalty effectiveness on compliance trends, and determining appropriate action necessary to promote voluntary compliance. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "b50a64ec3601bb04412fae5c471754c7",
+    "text": ") Each and every taxpayer has a set of fundamental rights when dealing with IRS as provided in the Taxpayer Bill of Rights (TBOR). All employees penalty cases must do so in accordance with the TBOR as listed in IRC (a)(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "2e2e2a516449e1ade58639e25cf19a8e",
+    "text": ") . The TBOR can also be found at Taxpayer Bill of Rights on irs.gov. Management Review (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "27e8760c64c557660e66023680fb1e57",
+    "text": ") Every function in the IRS has a role in proper penalty administration. It is essential that each function conduct its operations with an emphasis on promoting voluntary compliance. Appropriate business reviews should be conducted to ensure consistency with the penalty policy statement ( Policy Statement",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4b18d4a511f368f090d6559166faad34",
+    "text": ")) and philosophy. Attention should be directed to penalty program coordination between offices and functions to make sure that ap- proaches are consistent and penalty information is used for identifying and responding to compliance problems. Controls (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "27fd74d0805b3ac36d3dd4ff8e4637ad",
+    "text": ") SACS controls all the IDRS user accesses and permissions. and Acronyms (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3438a707bc9e7726d442517ce9b54e37",
+    "text": ") Commonly used acronyms used within this IRM: Acronym Deﬁnition IMF Individual Master File BMF Business Master File (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "2149816fbde2aed386fab3aef2c71c66",
+    "text": ", Penalty Handbook, Introduction and Penalty Relief",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7eb5355e251f79665914f227b85403eb",
+    "text": "Commonly used acronyms used within this IRM:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "45130e5775f32e9ca938accbb9a479fa",
+    "text": "- IDRS Terminal Responses - Command Codes INTST, COMPA (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f35da41b069ae1ee2d6fba9bc603497e",
+    "text": "- IDRS Terminal Responses - Command Code PINEX (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a9f68d39533325ab5cbd22c2462ba0aa",
+    "text": "- IDRS Terminal Response - Command Code PIFTF (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9549dcbf96a94765f725f79914a900ba",
+    "text": "- IDRS Terminal Responses - Command Code PIVAR",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "abecee66bbab292a003ff56395a5378a",
+    "text": "INVALID MFT — The requested MFT code does not meet the standard validity",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "94ecb93714b5d474377636db3b8df7e2",
+    "text": "NO DATE OF DEATH ON MODULE — Tax module 52 0000 is missing DATE-",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a1c6b1b9459d9bfc430b2892db2df945",
+    "text": "NOTE : WHEN ANY ONE OF THE FOLLOWING MESSAGES IS DISPLAYED — THERE IS NO FURTHER PROCESSING. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "210b4406582db734e3155b3f36cf47c7",
+    "text": ") UNABLE TO COMPUTE — NO POSTED RETURN — There is no posted return associated with this speciﬁc tax module. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8dc5b3c35499edf7938ff13ff4b0ed44",
+    "text": ") UNABLE TO COMPUTE — CREDIT INTEREST COMPUTATION IS RE- STRICTED — Credit interest computation is restricted due to one of the following conditions: a. I Freeze on module b. TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "fbce120e385d69629b3a2faacd5593c1",
+    "text": "on module c. The net of transaction amounts of TC’s",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "6201111b83a0cb5b0922cb37cc442b9a",
+    "text": "and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ee26aff7f117cd06626cdf0ee5f174ff",
+    "text": "is less than zero d. TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "666bcb98001f2c7dca467d9bb5db5074",
+    "text": "on the module (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "2d1ef0b5bdd8a61e5235d6ba8fab5eaa",
+    "text": ") UNABLE TO COMPUTE — RIGHT HAND FREEZE CODE IS D — This code is designed to freeze refunds erroneously generated after the refund statute period is expired. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "343dfc6c9eb771394856331ec9a1c71d",
+    "text": ") UNABLE TO COMPUTE — NO TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8c0a094f20ce45a9cc25a6b237f9842b",
+    "text": "ON MODULE — Master File has not generated",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "de4048e1fc61bae1efe853044226556e",
+    "text": "transaction on this module. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f5f579d24fcfdd1046b6ea83543cdaf1",
+    "text": ") UNABLE TO COMPUTE — NET CREDIT INTEREST AMOUNT IS ZERO — The net transaction amounts of TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8571e71e9ce77d19372d13629ae37af2",
+    "text": "X’s is zero. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d0e1d0b2031f757db2fa566799ca5711",
+    "text": ") UNABLE TO COMPUTE OFFSET CREDIT INTEREST — MORE THAN ONE MASTER FILE INVOLVED — Both IMF and BMF are involved in offsets on module. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d44eced97178cd9aeec94ce1b2004dd8",
+    "text": ") UNABLE TO COMPUTE CREDIT INTEREST ON OFFSETS POSTED BEFORE JULY",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "0148ee40cb464f97837724bb5281a13f",
+    "text": "(CYCLE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "b53e70bc8bcc4ff443ff4ef555bfeb4d",
+    "text": ") — CC PICRD cannot compute credit interest on offsets posted before July",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "09442c898173648b39bbada2f75da142",
+    "text": ") UNABLE TO COMPUTE — INSUFFICIENT UNREVERSED CREDITS AVAILABLE — The total available credits dated by refund/offset date is less than the refund/offset principal amount. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "582bdd0c7b21024712bc66ce17fa83ae",
+    "text": ") NO UNREVERSED REFUNDS OR OFFSETS PRESENT ON MODULE — There are no refunds/offsets on the module or all refunds/offsets on module have been reversed. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "4ac73abd6540f044e5099abf714761c0",
+    "text": ") UNABLE TO COMPUTE — NO MATCHING TRANSACTION FOR REFUND OR OFFSET REVERSAL TRANSACTION — There is a refund/offset reversal transaction that doesn’t match a TC on the module. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "79826004873b5bc038b14bef77e0a69a",
+    "text": ") UNABLE TO COMPUTE — REVERSAL OF REFUND OR OFFSET WITH STRICTED INTEREST — Manually compute — computer unable to backout restricted interest processing. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "4c757884bd27c84cd3e37826443c26c8",
+    "text": ") NO CREDIT INTEREST ALLOWED. COMBAT ZONE TAXPAYER — Self ex- planatory. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f8a903ee41b81bfb4d3c266588809138",
+    "text": ") NO CREDIT INTEREST ALLOWED. UNPROCESSABLE RETURN — Self planatory.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d3149149fd6df9bf360b62fb59230f71",
+    "text": "IDRS Terminal Responses Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "7469f756a8fe77217ed98d22d12ac910",
+    "text": "X (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "0f0ff84cd22e220f39f1f49583e6a248",
+    "text": "NOTE : WHEN ANY ONE OF THE FOLLOWING MESSAGES IS DISPLAYED — THERE IS NO FURTHER PROCESSING.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "51e963d350c259c4dd820b07b7984504",
+    "text": "UNABLE TO COMPUTE OFFSET CREDIT INTEREST — MORE THAN ONE MASTER FILE INVOLVED — Both IMF and BMF are involved in offsets on the",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e6fa136694a6883aacad41f0d2befda9",
+    "text": ") UNABLE TO COMPUTE — NON-COMPUTE-CD IS XXX — XXX is a code the interest program indicating reason unable to compute credit interest — Notify RPA, and National Office Programmer. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a064b2b88d747e3628f7b63ad9f11780",
+    "text": ") UNABLE TO COMPUTE — ALL CREDITS HAVE EFFECTIVE DATE SUBSE- QUENT TO REFUND/OFFSET DATE — This condition is caused by bad on the TIF module. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3e4bb36fd5b02586ac8322471e3d09a4",
+    "text": ") UNABLE TO COMPUTE — TOO MANY TRANSACTIONS ON MODULE PROCESS — There are more than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "5fe8be34f2605c8bb5f4b568ebff29d4",
+    "text": "transactions on the module and computation process is unable to table them all. Messages After Breakdown Screen (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e4d2d342bca4e7ca50e139579415145d",
+    "text": ") ADDITIONAL INTEREST ALLOWED ONLY ON ADDITIONAL CREDITS REISSUED REFUND (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e64af38b5ea30dc6e55f0f680c604681",
+    "text": ") NO INTEREST ALLOWED ON PREASSESSMENT REFUND (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7c9bde1c1b10c4755850e6246058278b",
+    "text": "DAY PROCESSING CRITERIA MET (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "23270cb3a90446c4c77e5d33de296dee",
+    "text": ") INTEREST RESTRICTD ON NET OPERATING LOSS (NOL) AND CARRYBACK (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "2a81cf86aaefaf31a9aaa06bc5e0ff54",
+    "text": ") INT. NOT COMPUTED ON OVERPYMNT RESULTING FROM PYMNT PROCESSED AS CASH BONDS (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "2390696c073e01b2f3957ddcd7fb1340",
+    "text": ") NO ADDITIONAL INTEREST ALLOWED ON REISSUED REFUND (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8af321435159a5af7527ed913d54272a",
+    "text": ") MFT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "829e5b28af38ab3379fd0b4f3fd4f2f1",
+    "text": "OR",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7c7d75861137ba2930ad82417ce986c2",
+    "text": "AND UNREVERSED TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "0a726e7568cb2794d54ac3ac873a1819",
+    "text": "OR TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "f11eab744d5c9f6fa53bdf945e9ea098",
+    "text": "ON MODULE (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "95fc377bc6bf7b3b091c44f355ce911d",
+    "text": ") CREDIT DATE PRIOR TO REFUND DATE BUT LATER THAN INTEREST COMPUTATION DATE. NO INTEREST ALLOWED — This indicates a credit posted after the interest computation date but before the refund check date. We allowed the credit but did not pay interest on it. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4e2fcde00ffa2ed6b9ba45389737b8de",
+    "text": ") NO INTEREST ALLOWED. REFUNDED GASOHOL CREDITS OR A REBATE TO PURCHASER OF GAS OR OIL. — There is no interest allowable on refunded gasohol credits or on a rebate to a purchaser of gas or oil. This involves modules with MFT of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "573590442a7428fb5d862449bedefafd",
+    "text": "and TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "61da9b98233b5131a0f3db1e7df98a8d",
+    "text": "with block of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "2fe4235ed49a4649bd7e9dc45b16f1cc",
+    "text": "This indicates a credit posted after the interest computation but before the refund check date. We allowed the credit but did not pay Code PICRD",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "179674ce3c9f1958004c5cd1fb874054",
+    "text": ") ADDITIONAL INTEREST ALLOWED ONLY ON ADDITIONAL CREDITS FOR REISSUED REFUND (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e64af38b5ea30dc6e55f0f680c604681",
+    "text": ") NO INTEREST ALLOWED ON PREASSESSMENT REFUND (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7c9bde1c1b10c4755850e6246058278b",
+    "text": "DAY PROCESSING CRITERIA MET (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "23270cb3a90446c4c77e5d33de296dee",
+    "text": ") INTEREST RESTRICTD ON NET OPERATING LOSS (NOL) AND CARRYBACK (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "2a81cf86aaefaf31a9aaa06bc5e0ff54",
+    "text": ") INT. NOT COMPUTED ON OVERPYMNT RESULTING FROM PYMNT PROCESSED AS CASH BONDS (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "2390696c073e01b2f3957ddcd7fb1340",
+    "text": ") NO ADDITIONAL INTEREST ALLOWED ON REISSUED REFUND (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8af321435159a5af7527ed913d54272a",
+    "text": ") MFT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "829e5b28af38ab3379fd0b4f3fd4f2f1",
+    "text": "OR",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7c7d75861137ba2930ad82417ce986c2",
+    "text": "AND UNREVERSED TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "0a726e7568cb2794d54ac3ac873a1819",
+    "text": "OR TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "f11eab744d5c9f6fa53bdf945e9ea098",
+    "text": "ON MODULE (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "95fc377bc6bf7b3b091c44f355ce911d",
+    "text": ") CREDIT DATE PRIOR TO REFUND DATE BUT LATER THAN INTEREST COMPUTATION DATE. NO INTEREST ALLOWED — This indicates a credit posted after the interest computation date but before the refund check date. We allowed the credit but did not pay interest on it. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4e2fcde00ffa2ed6b9ba45389737b8de",
+    "text": ") NO INTEREST ALLOWED. REFUNDED GASOHOL CREDITS OR A REBATE TO PURCHASER OF GAS OR OIL. — There is no interest allowable on refunded gasohol credits or on a rebate to a purchaser of gas or oil. This involves modules with MFT of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "573590442a7428fb5d862449bedefafd",
+    "text": "and TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "79297b8ff332d5811d0d6bddbb48ccbc",
+    "text": "with block number of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1a24da1bdbd9b82c12517e26e482a4db",
+    "text": "This indicates a credit posted after the interest computation date but before the refund check date. We allowed the credit but did not pay interest on it.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "33c1e29902d678cbcff13d561dbfd825",
+    "text": "This Page Intentionally Left Blank",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "8c626c8c65509838ef75682b5a49fc9f",
+    "text": "Exhibit 2.3.40-1 (01-01-2000) Command Code PICRD Input Request Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "1126edb7a695c49d009d068a5f5f64c8",
+    "text": "Exhibit 2.3.40-2 (01-01-2000) Command Code PICRD Output Error Display",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "675fe6fde7571c2ea073d188142d5997",
+    "text": "= & T] 5: 2) ;I3 iE ;i :",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "b700af1ea8cebc91d82fb1f8854179aa",
+    "text": "B 5 W Y 5 T vST T (T WS T RT s S A S T S T g",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "30d3cca3df163c78c4aeb83a86f8e9d2",
+    "text": "Message to operator",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "68ca72b1f6ded0940fa5bc4a111bc514",
+    "text": "Line 24 will contain system paging information",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "aa43ca8622a474888056002223f1e89c",
+    "text": "Amount ﬁelds are depicted in the above screen graph and following element speciﬁcations with z’s and 9’s. This represents suppression of leading zeros.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "22ac4927852f895271a9eb244473c859",
+    "text": "ElementNumber Line Pos. Element Name Format 1 1* 1–7 Literal CINCOMP 2 1* 11–18 MF-MATCH-LITERAL “MATCH” or “MISMATCH” 3 1 31–32 B.O.D code vv 4 1 33–36 B.O.D client code vvv 5 1* 47–58 Edited TIN and File Source For BTIF: nnn-nn-nnnnW nnn-nn-nnnnV nn-nnnnnnn For ITIF: nnn-nn-nnnn nnn-nn-nnnn* 6 1* 61–62 MFT nn 7 1* 64–69 TAX-PRD yyyymm 8 1* 73–79 SCREEN-JULIAN-DT yyyyddd 9 2 1–19 LITERAL TOTAL PYMTS/ CREDITS 10 2 22–35 TOT-CREDITS-FOR-CR-INT zzz,zzz,zz9.99- 11 2 43–63 Literal TOTALREFUNDED/OFFSET 12 2 66–79 REFUND-OFFSET-TOTAL zzz,zzz,zz9.99- 13 4 38–44 Literal CREDITS 14 5 2–5 Literal CODE 15 5 16–24 Literal TRANS AMT 16 5 30–33 LITERAL DATE 17 5 45–48 Literal CODE 18 5 59–67 Literal TRANS AMT 19 5 73–76 Literal DATE 20 6** 1–2 Literal TC 21 6** 3–5 CREDIT-TC 999 22 6** 11–25 CREDIT-AMT zzz,zzz,zz9.99- Exhibit 2.3.40-4 Internal Revenue Manual Cat. No. 28152X (11-07-2022)",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "e2432b81a3a153bd22cdfb1290958ff4",
+    "text": "ElementNumber Line Pos. Element Name Format 23 6** 29–36 CREDIT-EFFECTIVE-DATE mmddyy 24 6** 44–45 Literal TC 25 6** 46–48 CREDIT-TC 999 26 6** 53–67 CREDIT-AMT zzz,zzz,zz9.99- 27 6** 71–78 CREDIT-EFFECTIVE-DATE mmddyy 28 9*** 35–47 Literal REFUND/OFFSET 29 10*** 2–5 Literal CODE 30 10*** 12–21 Literal REFUND AMT 31 10*** 25–28 Literal FROM 32 10*** 33–34 Literal TO 33 10*** 43–51 Literal PRINCIPAL 34 10*** 54–63 Literal INT FACTOR 35 10*** 69–78 Literal INT AMOUNT 36 11*** 1–2 Literal TC 37 11*** 3–5 REF-OFF-TRANS-CODE 999 38 11*** 7–20 REF-OFF-TRANS-AMT ZZZ,ZZZ,ZZ9.99 39 11*** 22–29 REF-OFF-TRANS-DATE mmddyy 40 12**** 1–4 CR-INT-RATE Z9.9 41 12**** 5 Literal % 42 12**** 22–29 CR-INT-COMPUTE-FROM-DT mmddyy 43 12**** 31–38 CR-INT-COMPUTE-TO-DT mmddyy 44 12**** 40–53 CR-INT-PRINCIPAL-AMT ZZZ,ZZZ,ZZ9.99 45 12**** 55–64 CR-INT-FACTOR .9999999999 46 12**** 66–79 CREDIT-INTEREST-AMT ZZZ,ZZZ,ZZ9.99 47 15***** 41–64 Literal CREDITINTERESTSUBTOTAL 48 15***** 66–79 CR-INT-ACCUM-FOR-THIS-R-O ZZZ,ZZZ,ZZ9.99 49 21****** 41–54 Literal TOTAL INTEREST 50 21****** 66–79 TOTAL-CREDIT-INTEREST ZZZ,ZZZ,ZZ9.99",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "685b998dbae664c5a915156ab74570b6",
+    "text": "ElementNumber Line Pos. Element Name Format 51 17+ 41–62 Literal REFUND/OFFSETREVERSED 52 17+ 76–79 CR-INT-ACCUM-FOR-THIS-R-O 0.00 53 19++ 41–62 Literal NO INTERESTED COMPUTED 54 19++ 76–79 CR-INT-ACCUM-FOR-THIS-R-O 0.00 NOTES * These elements will appear on the ﬁrst line of each output screen page. ** Line number is dependent on volume of credits. *** Line number is dependent on volume of credits and number of refunds/ offsets on the module. **** Line number is dependent on volume of interest rate changes. ***** Line number is dependent on volume of elements 38 through 44. Elements 45 and 46 will be 1 line below last element 44 for the particu- lar refund/offset. ****** Elements 47 and 48 will be 2 lines below element 45 and 46 of the last refund/offset on the module. + This literal is only put out if the refund/offset has been reversed. ++ This literal is only put out if interest is not computed on the refund. Line 24 will contain system paging information",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "1c6de1ab9670794cd9e1d76d5df20cfa",
+    "text": "These elements will appear on the ﬁrst line of each output screen page.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "fe5901c66dbae778a097639bd8eddef8",
+    "text": "Line number is dependent on volume of credits.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "5eeff304bd9876c9360023131c4cb9c9",
+    "text": "Line number is dependent on volume of interest rate changes.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "2a3dfdf245192c696fe04f2bfd6e141b",
+    "text": "Line number is dependent on volume of elements 38 through 44. Elements 45 and 46 will be 1 line below last element 44 for the particu- lar refund/offset.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "f997ab2294cf1ecc895e8e07a50a6200",
+    "text": "Elements 47 and 48 will be 2 lines below element 45 and 46 of the last refund/offset on the module.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "d3065143ac0aba36dddf7c368ddbd29e",
+    "text": "This literal is only put out if the refund/offset has been reversed.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "279716e60db227f7517528199c88f39a",
+    "text": "This literal is only put out if interest is not computed on the refund.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "68ca72b1f6ded0940fa5bc4a111bc514",
+    "text": "Line 24 will contain system paging information",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-040--2022-11-07.pdf",
+      "page_number": 18
+    }
+  }
+]

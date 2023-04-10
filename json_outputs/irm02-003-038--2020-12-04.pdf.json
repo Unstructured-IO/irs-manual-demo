@@ -1,0 +1,398 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "54d304f167f7d7514b33d6d31bb72ea4",
+    "text": "This transmits revised IRM 2.3.38, IDRS Terminal Responses, Command Code TXCMP.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d3f284fd20e5f0f89fe05a05cd4c23d9",
+    "text": ") Overview: This IRM section provides an overview of the TXCMP Code. Scope and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "dd097b0da9781e0c00d4cb05efa60113",
+    "text": ") Purpose: This IRM contains procedural steps for use of the TXCMP Command. Command Code TXCMP is used by IRS employees to individual income tax liability using the Tax Rate Schedules. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "532fa302ece1b54ef8065c3f552e5208",
+    "text": ") Audience: These procedures apply to IRS employees who are responsible the processing of TXCMP records. These employees are located in the following areas: Large & Medium-Sized Business, Small Business/Self- Employed, Tax-Exempt & Government Entity’s, and Wage & Investment. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "40ad248b3da336bd3a740350cf68585f",
+    "text": ") Policy Owner: The Chief Information Officer (CIO) is responsible for ing all aspects of our systems that operate the nation’s tax infrastructure. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2f93bb40c69c8c246a71bce035e2ab39",
+    "text": ") Program Owner: MITS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5e3047ee61b926fdbcf574ccacf4a59d",
+    "text": ") Primary Stakeholders: Large & Medium-Sized Business, Small Employed, Tax-Exempt & Government Entity’s, and Wage & Investment. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "26d91491094bbae96ed6434209881f7e",
+    "text": ") Program Goals: This IRM provides the fundamental knowledge and dural guidance for employees who work with TXCMP records. By following processes and procedures provided by this IRM, employees will process TXCMP records in a manner that follows IRS policy and procedures while promoting the best interests of the Government. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "7ee35f596effbaa8e89698cefa1330f9",
+    "text": ") Command Code TXCMP has the following error messages: • INVALID DEFINER—The Command Code deﬁner was not “R” or CC • DATA IN NON-INPUT FIELD—PLEASE CORRECT—The ﬁelds following the input data have to be blanks. • PLEASE CORRECT INVALID DATA—At least one of the input is invalid. An asterisk will appear after the invalid elements. Correct invalid condition and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "88cae23ebcbd27f203fcbc5c8e818a5c",
+    "text": ") Command Code with deﬁner “R” will generate an input screen format for TXCMP. CC (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c79808fdf57812d12cffe88e20b14948",
+    "text": ") Upon completion of the tax liability computation, tax due will appear on line As shown in See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "cdb4ee2aea69cc6a83331bbe96dc2caa",
+    "text": ".",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ae2d71a04b1aa622dc94db54f334b605",
+    "text": "Audience: These procedures apply to IRS employees who are responsible for the processing of TXCMP records. These employees are located in the following areas: Large & Medium-Sized Business, Small Business/Self- Employed, Tax-Exempt & Government Entity’s, and Wage & Investment.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "09281a142f997f77e4cfd2407107e338",
+    "text": "Policy Owner: The Chief Information Officer (CIO) is responsible for ing all aspects of our systems that operate the nation’s tax infrastructure.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f6acf366aac205b6dd20cf7eaf62f1fd",
+    "text": "Primary Stakeholders: Large & Medium-Sized Business, Small Business/Self- Employed, Tax-Exempt & Government Entity’s, and Wage & Investment.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4c0cd9c284689a4657fc3cc83781fd86",
+    "text": "INVALID DEFINER—The Command Code deﬁner was not “R” or blank. DATA IN NON",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c4ef751d4ac08303a5430e4c18f42b14",
+    "text": "INPUT FIELD—PLEASE CORRECT—The ﬁelds following the input data have to be blanks. PLEASE CORRECT INVALID DATA—At least one of the input elements is invalid. An asterisk will appear after the invalid elements. Correct the invalid condition and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "50d13820f42d2bdfc5530ab938b909d4",
+    "text": "enter.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c97c8ca865e37d5a58e483440df9108c",
+    "text": ") Command Code with deﬁner “R” will generate an input screen format for TXCMP. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c79808fdf57812d12cffe88e20b14948",
+    "text": ") Upon completion of the tax liability computation, tax due will appear on line As shown in See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "cdb4ee2aea69cc6a83331bbe96dc2caa",
+    "text": ".",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "33c1e29902d678cbcff13d561dbfd825",
+    "text": "This Page Intentionally Left Blank",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7c44f9db41262e7379ccbc3bc04f04d0",
+    "text": "Input Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "cc6c681de9ae9e573f61564d09997fb7",
+    "text": "Record Element Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2af0016d28ec95959c578ac3f73d197e",
+    "text": "Item Line Position(s) Description 1 1 1–5 COMMAND CODE—TXCMP 2 1 6 CC-DEFINER—R or blank",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "7caac02bb83387ed62077b5fb04fdca9",
+    "text": "Exhibit 2.3.38-2 (01-01-2001) Command Code TXCMPR",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "fca97e6ca7c3261ff230b2567139f758",
+    "text": "Response Screen",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8450293ae5c96aa52ed5bca48e186494",
+    "text": "oHONMP N OO0oHNMmMYNNOS OO",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "cc6c681de9ae9e573f61564d09997fb7",
+    "text": "Record Element Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "13f47739319f8884212d1f1729a9e99c",
+    "text": "Item Line Position Description 1 1 1–5 COMMAND CODE—TXCMP 2 2 1–4 Literal—YYYY 3 3 1 Literal—F 4 4 1–18 Literal—$$$$$$$$$$$$$$$$$$",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "0c217db7162b144246ac86eb85f2cddb",
+    "text": "Input Screen",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8d259a7ecab5dbf1995c90112da6e272",
+    "text": "HOoJonsWwN e(=]",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "cc6c681de9ae9e573f61564d09997fb7",
+    "text": "Record Element Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "11d408f689ee32ae7132d04fd93e5a84",
+    "text": "Item Line Position Description 1 1 1–5 Literal—TXCMP 2 2 1–4 Tax-Year—must be one of the following, 2018 ,2019 or 2020. 3 3 1 Filing Status—values are 1 = Single 2 = Married ﬁling jointly 3 = Married ﬁling separate 4 = Head-Of-Household 5 = Surviving spouse 4 4 1–18 Taxable Income—dollars & cents, edited and left justiﬁed",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "182685d0826d2f238678f50ff149dd7c",
+    "text": "Exhibit 2.3.38-4 (01-01-2001) Command Code TXCMP",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "fca97e6ca7c3261ff230b2567139f758",
+    "text": "Response Screen",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "6ab715f4a86af44d9be5cb1a12714ab0",
+    "text": "NOUEE W=0 oNouhwN RB0 oo",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "4dafbbb5051257d362626fe620a92a74",
+    "text": "Item Line Position Description 1 1 1–5 Command Code—TXCMP 2 2 1–4 Tax-Year 3 3 1 Filing Status 4 4 1–18 TAXABLE INCOME 5 7 1–6 Literal = TAX IS 6 7 8–19 Tax Liability",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-003-038--2020-12-04.pdf",
+      "page_number": 10
+    }
+  }
+]

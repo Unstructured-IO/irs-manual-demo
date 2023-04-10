@@ -1,0 +1,3647 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9f012a7c593777b8173bf7427c00235",
+    "text": "A revision of IRM 5.12.2 has been done in order to clarify the instructions for Do Not File and Defer filing Notices of Federal Tax Lien.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "706a255f13313985d503491d70b42d51",
+    "text": "MATERIAL CHANGES",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "86edc3747ec42939f234d698eff62eff",
+    "text": "Added throughout, as appropriate, reference to the mirrored Shared Responsibility Payment (SRP) Master File Tax Code (MFT) 65 assessment.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "e9b34ddd2ad90fa88de67be813ead557",
+    "text": "Update references and corrected typos, as appropriate, throughout.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "d3e7d5dd32e54e95efe7978c6836f788",
+    "text": "Add IRM 5.12.2.4.2(2) in new Do Not File subsection an example in (2)(a) to clarify considerations for unable to locate corporations or Limited Liability Companies (LLC).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "949c05a94f90ee66647f950fd408087e",
+    "text": "Add IRM 5.12.2.4.2(3) in new Do Not File subsection an exception in (3)(e) for certain identity theft",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "202cf5cd7db5d06805a7418d0f9694bf",
+    "text": "Revise IRM 5.12.2.5.3, NFTL “Do Not File” and Filing Deferral Determination Approvals to include all Individual Master File (IMF) and Business Master File (BMF) MFT in the approval process as well as removing Territory Manager approval requirement.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "63d13385d591fe67364728e94343e00a",
+    "text": "This material supersedes IRM 5.12.2 dated January 1, 2015.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "0ffaefde3f2fee0985c5f7e4faf253b7",
+    "text": "SBSE and W&I Collection, Centralized Lien Operation, and Appeals",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "714502ee31a0d83b9a86f526dedddc0f",
+    "text": ") Federal tax liens exist by operation of law. The purpose of this IRM is to provide instructions for making the determination of whether to file a notice of the lien’s existence (i.e., a Notice of Federal Tax Lien (NFTL)) and the NFTL filing criteria. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "08d1a2bb007078fb3f09d0da15767299",
+    "text": "for an introduction to federal tax liens and the lien program. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1498716044187f4b41b55671673349fa",
+    "text": "for an in-depth discussion of the federal tax lien and lien priorities. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "dae3b43a4139c3ba96e5f23684f7e4e6",
+    "text": ") A Notice of Federal Tax Lien filing determination is the decision whether to file an NFTL; defer the filing of an NFTL, or not to file an NFTL. Determination criteria are found in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3a50a13216e4b6641051852b82c9ccad",
+    "text": "If the determination decision is to file a lien notice, filing thresholds and criteria are found in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "cc2e15310a1b6a7e8dbc9e02caa871ee",
+    "text": "If the tion decision is to defer or not file, those criteria are found in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9e69784fe5efe66550ea2a9019b3a143",
+    "text": ") The Service is required to make reasonable efforts to contact the taxpayer before filing an NFTL. The efforts to contact the taxpayer are to advise that an NFTL may be filed if full payment is not made when requested. Issuance of statutory assessment notice and the balance due notices sent during the col- lection process constitute reasonable efforts as each of these notices provide",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4f6252b527a7cce36c2197340e6a1a62",
+    "text": "or more days for the taxpayer to pay the liability in order to avoid additional penalty and interest charges. Exception: For modules manually accelerated (i.e. not systemically accelerated)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6296c5cd26ffdacf644a1e21c144df00",
+    "text": "A Notice of Federal Tax Lien filing determination is the decision whether to file an NFTL; defer the filing of an NFTL, or not to file an NFTL. Determination criteria are found in IRM 5.12.2.3. If the determination decision is to file a lien notice, filing thresholds and criteria are found in IRM 5.12.2.6. If the tion decision is to defer or not file, those criteria are found in IRM 5.12.2.4.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5eb673fad8e15d41e5ce5e78c9ad98c6",
+    "text": "penalty and interest charges. For modules manually accelerated (i.e. not systemically directly into inventory thus by-passing some notice streams, issue Letter",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d70623700adae5ad934410d1587f45a0",
+    "text": ", Accounts Outstanding - Payment Request to allow the taxpayer the opportunity both to pay the liability and be made the revenue officer assignment. The Letter",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "42250b3cf96073558754bfe22326f4c5",
+    "text": "is not needed Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9ea42a6aa66019dca89c982c45eb3f6b",
+    "text": ", Prompt Assessment Billing Assembly has been issued a jeopardy or prompt assessment. While the notices sent in the notice stream are sufficient for filing an NFTL, generally when an NFTL has not been previously filed the revenue officer’s determination with respect to the filing of the NFTL will be done in with the initial actual contact or initial attempted contact. Contact (request full payment) may be made by: a. field contact (preferably). In situations where attempts at personal have been unsuccessful, the case history should be documented ingly. b. telephone. c. mailing a notice or letter to the last known address (when appropriate). See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "bf9b92359708ca1e4a18a661f6145e85",
+    "text": "for “last known address” description. Examples of notices and publications that advise taxpayers that an NFTL be filed include but are not limited to: Publication",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "79e0024c53183ba88714f4ef4f0882f0",
+    "text": "(IRS Collection Process), CP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d77b9f17a2ce4fab92a4e9c4d7929e41",
+    "text": "(Reminder Notice - Balance Due), CP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5adb400fb9fbf94e1964b0d0c5a284e2",
+    "text": "(Balance Due - Urgent Notice), CP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "cd896205bdebb64b2c2b0129dad57b80",
+    "text": "(Installment Agreement Default Notice) , Letter",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9edbd6a4267dee615a18f16472d70512",
+    "text": "(Final Notice - Notice of Intent to Levy and Notice of Your Right",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5784117192b7961e26e89928556702f1",
+    "text": "For modules manually accelerated (i.e. not systemically accelerated) directly into inventory thus by-passing some notice streams, issue Letter",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ac604f4e4c1b3b35307d93a50980fae6",
+    "text": ", Accounts Outstanding - Payment Request to allow the taxpayer the opportunity both to pay the liability and be made aware of the revenue officer assignment. The Letter",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f1a2e31eaffc16bc42a94031243053c4",
+    "text": "is not needed where a Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "7e77d815ba469908a510c55fcf309c03",
+    "text": ", Prompt Assessment Billing Assembly has been issued for a jeopardy or prompt assessment.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "48439bd8f0fcd9db721cf4e65dca5f20",
+    "text": ") While the notices sent in the notice stream are sufficient for filing an NFTL, generally when an NFTL has not been previously filed the revenue officer’s determination with respect to the filing of the NFTL will be done in conjunction with the initial actual contact or initial attempted contact. Contact (request for full payment) may be made by:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6d27e2b7a88b8efbe07b80d11d204c1b",
+    "text": "a. field contact (preferably). In situations where attempts at personal contact have been unsuccessful, the case history should be documented accord- ingly. b. telephone. c. mailing a notice or letter to the last known address (when appropriate). See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "275a453db448a1f9a60f9615623807ba",
+    "text": "for “last known address” description.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a8033f55080ff1daa0680744da56faa3",
+    "text": "mailing a notice or letter to the last known address (when appropriate). See IRM 5.11.1.3.2.1 for “last known address” description.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1747bbc4181a28304c3b647f50abeb54",
+    "text": "v. CP 523 (Installment Agreement Default Notice) ,",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b1bb4e33cf7293a1d20dcaa9f9c13cab",
+    "text": "iv. Letter 1058 (Final Notice - Notice of Intent to Levy and Notice of Your Right to a Hearing),",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e52d03fe7d830ce0d89df98f10b0265c",
+    "text": "vi. ACS letter LT-39 (Reminder Notice), and",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8feea620f20b2af5661c7b98bc16630e",
+    "text": "If full payment is not received during initial contact, explain to the taxpayer that a notice of the lien may be filed. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ac84196ffd2c9dbcf787b3abe141a8b3",
+    "text": "for notice filing criteria. Explain the possible effects of the NFTL filing on normal business operations and their credit rating.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f320edfd1334d8017ddae13e8ad6cec5",
+    "text": "Explain the possible effects of the NFTL filing on normal business operations and their credit rating. Reminder: When giving a deadline for a taxpayer response, take into providing adequate time for that response. See also IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "b7f5106849425bbfcb05adee32cd56b9",
+    "text": ") and IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a1c36b6cd420bb339df7b8ab2656a04f",
+    "text": "). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1de36820a903b0d2cafdb3e5ded1e5ed",
+    "text": ") If the taxpayer disagrees with the proposed notice filing, advise the taxpayer their right to appeal under the Collection Appeals Program (CAP). Also to the taxpayer their right to request a Collection Due Process (CDP) under Internal Revenue Code (IRC) §",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "2045f53e57bbd2668aa074e9c29030d4",
+    "text": "once the notice has been filed. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "887cb438277206e4c3bb7344c516409a",
+    "text": ") The Notice of Federal Tax Lien (NFTL) filing determination is a process of deciding whether to file, defer, or not file an NFTL. If the decision is to file, Tax then follow the filing criteria and thresholds found in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9bfc2d6dd081492c3bc85bfa8c69a4c7",
+    "text": "If the thresholds are not met, then the decision may need to be revisited once the (Pre-filing thresholds are met. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "61f2194fe02cf1ffe92d790ae146e66e",
+    "text": ") IRC §",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "cc5be3dd3ba7c333b7e8397a6c6c5425",
+    "text": "requires the IRS to ensure collection actions, including the decision to file an NFTL, balance the need for efficient collection of the tax legitimate concerns of the taxpayer that actions be no more intrusive than necessary. To that end, review the factors contained in this IRM section and related subsections to reach the appropriate decision. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4bbb34e877de1f5d63790855c2e16083",
+    "text": ") Filing determination considerations are listed below. It is not an all-inclusive but it, as well as this IRM as a whole, provides guidance for the varying cir- cumstances experienced when working with taxpayers. a. Taxpayer compliance history: See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "b21d2d4920423603e739181a1e62f19f",
+    "text": ", Field Collecting - Resolution-directed Approach to Casework. b. Taxpayer qualification for a determination exception: See IRM Determination Requirement Exceptions. c. Protection of the government’s interest, including exigent circumstances; where the filing of an NFTL is necessary to protect the those interests: See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "53bfecdb857ea733a1c06eda8ad8d617",
+    "text": ", Introduction to Liens, and IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a062eb2c82e9bea4064b740437deb928",
+    "text": ", Purpose Effect of Filing Notice. d. Taxpayer qualification for a determination that an NFTL filing will collection: See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "024c8761d9179b647cece7dce9ad3cbd",
+    "text": "), Defer Criteria. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "b2bad8f0f05fba2e9bc925a4743c729f",
+    "text": ") An NFTL filing determination is not required on Guaranteed/Streamlined Installment Agreements or In-Business Trust Fund Express Agreements. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "485270f7f002b12ef734d2a7bf92614e",
+    "text": ") If a revenue officer finds that an NFTL determination is needed for a Exceptions Guaranteed/Streamlined Installment Agreement to protect the government’s interest (such as in the case of an impending bankruptcy, or other exigent cumstances), follow the instructions in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e236899fe5edc349dc0b64013c10b5ba",
+    "text": ", Determination Requirements and IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "487dbbebb84acc1da739f85e7de369fa",
+    "text": ", NFTL Filing Criteria. Also, an NFTL nation decision to file may be made on In-Business Trust Fund Agreements necessary to protect the government’s interest, such as: Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "86be9a55762d316a3026c2836d044f5f",
+    "text": "K",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "dd7c25e42f451359ed08a899ba818b2a",
+    "text": "Reminder: When giving a deadline for a taxpayer response, take into consideration providing adequate time for that response. See also IRM 5.12.2.2(1)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4371da9a7628d251f128cd20bcadf762",
+    "text": "Taxpayer compliance history: See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "103fc77128121911cec60e0c34e62560",
+    "text": ", Field Collecting Procedures - Resolution-directed Approach to Casework. Taxpayer qualification for a determination exception: See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1ad47b8373cf1faa997251158b758cc9",
+    "text": ", Determination Requirement Exceptions. Protection of the government’s interest, including exigent circumstances; where the filing of an NFTL is necessary to protect the those interests: See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "53bfecdb857ea733a1c06eda8ad8d617",
+    "text": ", Introduction to Liens, and IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "034773615f2aa76198e1107794bfe366",
+    "text": ", Purpose and Effect of Filing Notice. Taxpayer qualification for a determination that an NFTL filing will hamper",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ec0f1ef1e1b4a6854ab5c771cd7dd364",
+    "text": "An NFTL filing determination is not required on Guaranteed/Streamlined Installment Agreements or In-Business Trust Fund Express Agreements.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3238a7c1825baaf0ec11bbf57627f444",
+    "text": "If a revenue officer finds that an NFTL determination is needed for a Guaranteed/Streamlined Installment Agreement to protect the government’s interest (such as in the case of an impending bankruptcy, or other exigent cir- cumstances), follow the instructions in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e236899fe5edc349dc0b64013c10b5ba",
+    "text": ", Determination Requirements and IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "000cf410e807e14e084591a261d75fba",
+    "text": ", NFTL Filing Criteria. Also, an NFTL determi- nation decision to file may be made on In-Business Trust Fund Agreements if necessary to protect the government’s interest, such as:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "bee43f5d1bb35fc5b6434a99a8cb8f73",
+    "text": "Reminder: Where an NFTL filing determination is not required, but a decision to file an NFTL has been made, document the justification in the case history including the manager’s concurrence.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "850830c7510506413ffd60c33f2e112a",
+    "text": "Do not make an NFTL filing determination decision on Master File Tax Code (MFT) SRP/MFT 35 modules or the mirrored SRP/MFT 65 modules.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "06d94fcfcff0dbc4ac3275bfee729f34",
+    "text": "Note: MFT 35, tax class 6 is still used on Non-Master File (NMF) for returns Forms 1065.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "5676a2af6c759304efe303e75f0366db",
+    "text": "NFTL filing determinations must be made on all balance due cases including reactivated balance due cases within established time frames.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2cb23a89bb1bfbdbe6cdf11a131a3a68",
+    "text": "a. The NFTL filing determination is due",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "aec334ea9403d98bc3781888b7b42000",
+    "text": "calendar days from the initial attempted contact or initial actual contact date, whichever date is earlier. b. The request for NFTL filing or the appropriate non-filing documentation must be prepared within",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "edc922372e457e09430b328e6bd86afa",
+    "text": "calendar days of initial attempted contact or initial actual contact, with the taxpayer or taxpayer rep- resentative. c. If the revenue officer fails to make a timely initial or attempted contact, the NFTL determination is due",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b30c45ce617ac41b7602f2a8f7a6f7d8",
+    "text": "calendar days from the date the initial contact was actually due. The revenue officer will document the ICS history with the reason for making the NFTL filing determination prior to taxpayer contact.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "67244ab216346632908a6dd992be966a",
+    "text": "Taxpayers Residing in Foreign Countries",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2cb23a89bb1bfbdbe6cdf11a131a3a68",
+    "text": "a. The NFTL filing determination is due",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "aec334ea9403d98bc3781888b7b42000",
+    "text": "calendar days from the initial attempted contact or initial actual contact date, whichever date is earlier. b. The request for NFTL filing or the appropriate non-filing documentation must be prepared within",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "c09344c1876edcf39c0968c732cdd739",
+    "text": "calendar days of initial attempted contact or initial actual contact. c. The NFTL determination is due",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "c44023630e7175af44aabdd71a87ea09",
+    "text": "calendar days from the date the initial contact was actually due if the revenue officer fails to make a timely initial or attempted contact.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "0f00f90643cffea1f2ce36fb9d13412c",
+    "text": "The NFTL filing determination is due 30 calendar days from the initial attempted contact or initial actual contact date, whichever date is earlier. The request for NFTL filing or the appropriate non-filing documentation must be prepared within 30 calendar days of initial attempted contact or initial actual contact. The NFTL determination is due 30 calendar days from the date the initial contact was actually due the revenue officer fails to make a timely initial or attempted contact.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ebe8d50772f2299c8fe965c1683d4b50",
+    "text": "See IRM 5.1.10.3, Initial",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "c54bb692f45a69643cdff04e9079ad8c",
+    "text": "Additional assessments (usually balance due modules) are often made and then assigned to a case on ICS after the initial contact is made or the initial",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d8866907349948128907e818a6058502",
+    "text": "contact due date. On these additional assessments, the documentation for request of NFTL filing, non-filing, or deferral (as appropriate) must be prepared the sooner of:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "bb5a7a13f1f25be3c6098f23e0951dd4",
+    "text": "Within 30 days of assignment to the ICS inventory as an IDRS Bal Due, Next calendared touch on the case.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "318225495c53f1e0190b6b6e8caf931d",
+    "text": "Note: If a pre-assessed module is created on ICS, the NFTL determination is due within thirty days of assessment. Note: See also IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "a1c36b6cd420bb339df7b8ab2656a04f",
+    "text": "). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "51b6f7f616dc952b43fd16b632bf8923",
+    "text": ") An NFTL filing determination will be made, if the taxpayer has not: a. made full payment, b. qualified for an exception to the NFTL filing determination requirement (IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "2d1db8af5c65e099624355170446529f",
+    "text": "and IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "2b71a9c84d29a3aaba416119bdb65149",
+    "text": "), or c. made other security arrangements (such as a bond) to satisfy the liability. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3c38741078a18bdbcf94081088ff9de2",
+    "text": ") When making a determination to file an NFTL, consider whether issuance of the L-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "4aa7f496d18f7287f25f7b3ab49e9e34",
+    "text": "is also warranted, if it was not sent previously. For Example: Issuance of the L-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8fa5d73809dcec4c66764f546421b083",
+    "text": "is appropriate when a taxpayer has been given a deadline and was advised of levy action for failure to comply. This action should only occur when an L-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d78b4d05a5e7ad51dfd7f96119569282",
+    "text": "was not previously issued for the module(s) in question. Note: By issuing the L-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3d69304965e0e63b1626b4859da217a9",
+    "text": "at the same time the NFTL is being filed, the will receive CDP hearing rights for the NFTL and levy concurrently. If the taxpayer chooses to exercise their CDP rights, both the NFTL and levy issues can and should be addressed together in Appeals. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "a8f89c88e4ff0aa0a5308e10dc32fab2",
+    "text": ") The taxpayer’s filing and payment compliance should always be considered when the non-filing or deferring of a Notice of Federal Tax Lien is being deter- mined. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "99f953d89fb6c9aa84646db1aff41f6b",
+    "text": ") The extension of the Determination Date for a lien notice filing is not the as deferring the filing of the NFTL. The Lien “Notice Filing” Determination extension is used only when a determination cannot be made prior to the NFTL filing determination due date. Refer to IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "82609e32c82feb87852b2fde353e2b10",
+    "text": ", Initial Contact Time Frames, for established time frames and IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f85d27c405e3b5cae8b178f593511c2d",
+    "text": ", Targeted Inventory Levels, for instances in which timely initial and follow-up contact frames may be waived. Although not specifically mentioned in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "5ce11c6c8b118af21fe23457c08846e2",
+    "text": "or IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3d350be209c3654ce0fdeef61c4dca75",
+    "text": "other situations may warrant an NFTL filing determination extension. These situations are generally only applicable when the revenue officer has had no contact with the taxpayer. Potential situations may include: a. Inventory is assigned and the revenue officer is placed on a detail assign- ment. b. Inventory is assigned and the revenue officer is attending training. c. Inventory is reassigned or transferred to the revenue officer. d. The revenue officer is out due to illness or planned leave. Example: This is an example of when it is appropriate to extend the NFTL filing determination date: A revenue officer receives five new Bal Due cases",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "6241b195a279a96a83e35bbe717c7f7a",
+    "text": "Note: If a pre-assessed module is created on ICS, the NFTL determination is due within thirty days of assessment.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "740b864a7624e4164eb7bf546d1a717b",
+    "text": "Note: See also IRM 5.12.2.6(2).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "190cb519df2df1e0d6b153cbc657531c",
+    "text": "(3) An NFTL filing determination will be made, if the taxpayer has not:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "89f7ff076aa57b3975d7402b192d2565",
+    "text": "a. made full payment, b. qualified for an exception to the NFTL filing determination requirement (IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "2d1db8af5c65e099624355170446529f",
+    "text": "and IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "2b71a9c84d29a3aaba416119bdb65149",
+    "text": "), or c. made other security arrangements (such as a bond) to satisfy the liability. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3c38741078a18bdbcf94081088ff9de2",
+    "text": ") When making a determination to file an NFTL, consider whether issuance of the L-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "4aa7f496d18f7287f25f7b3ab49e9e34",
+    "text": "is also warranted, if it was not sent previously. For Example: Issuance of the L-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8fa5d73809dcec4c66764f546421b083",
+    "text": "is appropriate when a taxpayer has been given a deadline and was advised of levy action for failure to comply. This action should only occur when an L-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "52c43e8e2f4437a3f078e86994272aba",
+    "text": "was not previously issued for the module(s) in question.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "157e2c13126f0c91701689559666f815",
+    "text": "(5) The taxpayer’s filing and payment compliance should always be considered when the non-filing or deferring of a Notice of Federal Tax Lien is being",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "82e68c599ba6f9e21a226f3e6a0c9047",
+    "text": "The extension of the Determination Date for a lien notice filing is not the same as deferring the filing of the NFTL. The Lien “Notice Filing” Determination Date extension is used only when a determination cannot be made prior to the NFTL filing determination due date. Refer to IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "82609e32c82feb87852b2fde353e2b10",
+    "text": ", Initial Contact Time Frames, for established time frames and IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "c3282d3138f720358ce3692b0352b3bf",
+    "text": ", Targeted Inventory Levels, for instances in which timely initial and follow-up contact time frames may be waived. Although not specifically mentioned in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "5ce11c6c8b118af21fe23457c08846e2",
+    "text": "or IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "fa6b6d03f20a438bae2547941247e7f1",
+    "text": "other situations may warrant an NFTL filing determination extension. These situations are generally only applicable when the revenue officer has had no contact with the taxpayer.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "2f6ddc1444b31db84a0e68ff2e4c6555",
+    "text": "5.12.2.3.3 (10-14-2013) Determination Date Extension",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "007d2de2bf9ddde9df865b83c44db868",
+    "text": "a. Inventory is assigned and the revenue officer is placed on a detail ment. b. Inventory is assigned and the revenue officer is attending training. c. Inventory is reassigned or transferred to the revenue officer. d. The revenue officer is out due to illness or planned leave.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ad5c24e9bf57d283ee55604a55ee7acf",
+    "text": "Example: This is an example of when it is appropriate to extend the NFTL filing determination date: A revenue officer receives five new Bal Due cases on Monday 4/11/2011. The NFTL filing determination due date on ICS is",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4d9912f15ba8fa17edf9f90000ca9a0f",
+    "text": "The revenue officer is assigned a long term detail and is to report on Monday",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "23e62ec0f47a88d156240724400d9d2c",
+    "text": "and will not return to their POD until Monday",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "038ccbb4b2c6d2c15060c195dc1b88d4",
+    "text": "In this situation the NFTL filing determination date may be extended for a reasonable time frame allowing the RO to make an appropriate determination.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "14e299753de2c36e29a8d558ab465657",
+    "text": "5/22/2011. The revenue officer is assigned a long term detail and is to report on Monday 4/25/2011 and will not return to their POD until Monday 6/13/2011. In this situation the NFTL filing determination date may be extended for a reasonable time frame allowing the RO to make an appropriate determination.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1e83fea07d631b2cb85de90b61873e8f",
+    "text": "Reminder: Make an appropriate history entry explaining why the initial contact was not timely.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a125a37091177766e2c98f1761f50e55",
+    "text": ") When considering the non-filing or deferring of an NFTL determine if the taxpayer is in filing and payment (Federal Tax Deposits, estimated tax payments, notice accounts, etc.) compliance. You should also consider: a. The use of a collateral agreement (see IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8a42c08a9564c712a8af482e4979d1e0",
+    "text": "for additional informa- tion). b. Whether filing the NFTL then using a subordination of the NFTL for loan and financing situations is appropriate in lieu of not filing an NFTL (see IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "862f13f6f8246f9a7909f837882f9bf4",
+    "text": "). c. Whether filing the NFTL then using a discharge of the property for removing specific property from the Federal Tax Lien is appropriate in of not filing an NFTL (see IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a1c36b6cd420bb339df7b8ab2656a04f",
+    "text": "). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "2b3da74280b7efccb0b70845e4673017",
+    "text": ") The filing of an NFTL may affect a taxpayer’s credit rating, but this alone is sufficient reason to withhold filing the NFTL. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "efc2cdee85ac7b7887f7b4a6b677f12f",
+    "text": ") A decision to not file or defer the filing of an NFTL must be supported by a history entry that clearly states why filing an NFTL is not appropriate. An exception to this would be where a typically expected action is taken (e.g. aggregate unpaid balance of assessments (UBA) is less than $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b1ec7076864c955e071e565795a9a54e",
+    "text": "or balance to be reflected on the NFTL is less than $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "86b5fa695d59fd4707c611a9b564528b",
+    "text": "). Here the action is documented in the case history but the rationale does not need to be mented. In these circumstances the non-typical action’s rationale would be explained in the case history. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d3477bd7bbe8a892c502ad1d8f4e7fa1",
+    "text": ") When the decision to not file or defer the filing of an NFTL is made the revenue officer should ensure that the ICS NFTL filing determination field is properly updated on the case summary screen for each module. Update the Notice of Lien filing Determination in ICS by choosing: (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "fd317ca500ee328fc7f4b9cee1f1300a",
+    "text": ") “Lien Not to be Filed” when the decision is to not file a Notice of Tax Lien, or (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "803f7feab2a905c5f0d75333f74db18c",
+    "text": ") “Defer Lien Filing” when the decision is to defer. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "2553a71a01a48a01d891232a64c6ce9e",
+    "text": ") Choose “do not file” when there is no reason to believe NFTL filing will be required in the future (pending full abatement, decedent with no estate, (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b1994f8c0699ff518b2c5b770bf92484",
+    "text": ") In general, NFTLs should not be filed when: a. The taxpayer is a defunct corporation or LLC (where the LLC is liable) whose assets have been previously liquidated. Note: A determination that the assets have been liquidated is not the same as inability to find assets. The RO must have specific information indicating a senior creditor has taken possession of all assets or all assets have liquidated.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "da5761f51f785b71da2c4863891167b6",
+    "text": "a. The use of a collateral agreement (see IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8a42c08a9564c712a8af482e4979d1e0",
+    "text": "for additional informa- tion). b. Whether filing the NFTL then using a subordination of the NFTL for loan and financing situations is appropriate in lieu of not filing an NFTL (see IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "862f13f6f8246f9a7909f837882f9bf4",
+    "text": "). c. Whether filing the NFTL then using a discharge of the property for removing specific property from the Federal Tax Lien is appropriate in of not filing an NFTL (see IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "c4b2896a2081395e282313d6683f07c8",
+    "text": ").",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "ede6336c2894bfb3c06eefda0a21fb35",
+    "text": "5.12.2.4.1 (10-14-2013) Integrated Collection System (ICS) Documentation When Deferring the Filing an NFTL or Choosing “Do Not File”",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "00eb0b177150e72366d5ef12955e5897",
+    "text": "Choose “do not file” when there is no reason to believe NFTL filing will be required in the future (pending full abatement, decedent with no estate, etc.).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "f64e83e97ba8b631437f2441a3139b64",
+    "text": "Note: A determination that the assets have been liquidated is not the same as an inability to find assets. The RO must have specific information indicating that a senior creditor has taken possession of all assets or all assets have been",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "894487e55da559678a44042b1ffd514d",
+    "text": "Specific information also includes: verifying the taxpayer is unable to locate (*see IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "c7fc6f51c0532285d0360f729ca8f87c",
+    "text": ", Unable to Locate and Unable to Contact); no assets have been located; and there is no indication that the remains in business. b. The taxpayer is deceased and there are no known assets in an estate. NFTLs should not be filed in the following circumstances: a. The taxpayer is a corporate entity or LLC (where the LLC is liable) that has gone through a liquidating bankruptcy or receivership regardless of dollar amount. Document the proceeding number in the case history. b. When a non-paying officer has been assessed the Trust Fund Recovery Penalty (TFRP) and an adjustment to the TFRP is pending because the assessment has been paid by another officer. c. There is an indication that the liability has been satisfied or that credits available to satisfy the liability. d. The taxpayer is in bankruptcy and the NFTL relates to liabilities incurred before the taxpayer filed for bankruptcy. Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "6c398d921e7a5253659c65047cc66c90",
+    "text": "(a) of the Bankruptcy Code imposes an automatic stay that prohibits all creditors from taking certain collection actions against debtors in bankruptcy. Consult or Counsel to determine if an NFTL may be filed after the automatic stay ends. e. There is genuine doubt as to the validity of the liability (for example, as- sessments made against victims of identity theft; see IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "b97c1b3a26811df7102a374fc5ddde8f",
+    "text": "Identity Theft for Collection Employees and IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "864e4d7115eaa6499101408bc0631de9",
+    "text": ", Identity Theft and Liens. But the revenue officer must document the taxpayer’s justification and the method of resolution i.e., payment tracer, amended return, credit transfer etc.)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d4db5d384bba23b3ad0e6941e197f514",
+    "text": "Reminder: MFT 35, tax class 6 is still used on NMF for partnership returns Forms 1065.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "77bcfca5a5f6c7f63e6e67a71a204d03",
+    "text": ") The revenue officer will withhold filing the NFTL if the taxpayer has entered into a collateral agreement with the Service as provided in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "fc07d86d1ba2e29e44f2eb74b8819ff4",
+    "text": "Revenue officers should document their case files and consult with Advisory to ensure legal sufficiency. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3f4d9b72d83028664820aae4eb83d6be",
+    "text": ") A taxpayer may submit a faxed request for non-filing of the NFTL if the revenue officer has made contact with the taxpayer by phone or in person. The revenue officer should document the case history with the date of contact and the taxpayer’s rationale. The revenue officer should also retain the faxed document in the case file.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "b0fd59ed9d508bf1ef8ee48cdd3f5a6d",
+    "text": "Use deferral when the decision to delay filing will be revisited (e.g., doubt as to liability pending taxpayer documentation or Form 911 submission).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "4183bbca92f7579cfaed82100e339c4f",
+    "text": "When a taxpayer alleges Return Preparer Fraud, temporarily defer filing any new Notice(s) of Federal Tax Lien for those modules where the as- sessment may be a result of that fraud. See Interim Guidance 1214-0086, Reissuance of Interim Guidance: Return Preparer Fraud or Misconduct, any successor Interim Guidance, or IRM once the guidance has been incorporated. It is important to recognize the potential for adverse impact on a taxpayer who is a victim of Return Preparer Fraud.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "56e606afb3d35ee1da7749e568bb254f",
+    "text": "Example: When a taxpayer alleges Return Preparer Fraud, temporarily defer filing any new Notice(s) of Federal Tax Lien for those modules where the as- sessment may be a result of that fraud. See Interim Guidance SBSE-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "5b21cd16ae8015ee2539448519bd6e97",
+    "text": ", Reissuance of Interim Guidance: Return Preparer Fraud or Misconduct, any successor Interim Guidance, or IRM once the guidance has been incorporated. It is important to recognize the potential for adverse impact on a taxpayer who is a victim of Return Preparer Fraud.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "b6dd48f1c31574d12ac26f36eaca1d93",
+    "text": "Taxpayer Advocate Service (TAS) cases may be initiated because of a potential notice of lien filing. TAS will notify the revenue officer when a Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "ae0f4477e2d4feb793dfcba77c5091d1",
+    "text": ", Request for Taxpayer Advocate Service Assistance (and Ap- plication for Taxpayer Assistance Order) has been received and when has been resolved. The revenue officer may also initiate a request for TAS assistance on behalf of the taxpayer. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "92d7bf9b82297b385ef7a78a9867cd5d",
+    "text": "When a revenue officer determines to defer the filing of an NFTL, the action must be supported by an Integrated Collection System (ICS) history entry clearly states why filing an NFTL is not proper at that time. The entry must include a follow-up date by which the revenue officer expects the requested information and/or payment or the date the NFTL will be filed. A decision may be made to defer the filing of an NFTL when the revenue officer can substantiate with reasonable certainty and supported with tation from the taxpayer, that filing the NFTL will hamper collection. The determination to defer filing the NFTL because it will hamper collection must part of an agreed resolution between the RO and the taxpayer that deferral both facilitate collection and be in the best interest of the government and the public. In general a hamper collection determination could apply in the following situations: (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "af81105455babd322836161e15ea2ace",
+    "text": ") A viable business, which factors account receivables, proposes a reason- able resolution with supporting documentation. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "6a591e32489fd2d414fffeca5afd7ef7",
+    "text": ", Subordination to Factoring Agreements for more information on factoring. (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "51a53880f29382f1ff6a999458a96979",
+    "text": ") A viable business, which operates on a floor plan, proposes a reasonable resolution with supporting documentation.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "96b3dbc486edae43b0b4fdab08167282",
+    "text": "Taxpayer Advocate Service (TAS) cases may be initiated because of a potential notice of lien filing. TAS will notify the revenue officer when a Form 911, Request for Taxpayer Advocate Service Assistance (and Ap- plication for Taxpayer Assistance Order) has been received and when it has been resolved. The revenue officer may also initiate a request for TAS assistance on behalf of the taxpayer. See IRM 5.12.1.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "0e3f27ac4c2e3f3f420ac8b4442ec819",
+    "text": "When a revenue officer determines to defer the filing of an NFTL, the action must be supported by an Integrated Collection System (ICS) history entry that clearly states why filing an NFTL is not proper at that time. The entry must include a follow-up date by which the revenue officer expects the requested information and/or payment or the date the NFTL will be filed.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "253d639a4e87378e95670d51faa1202b",
+    "text": "clearly states why filing an NFTL is not proper at that time. The entry must also include a follow",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8dfeffeeae408955a2ffaa9c969f4e43",
+    "text": "up date by which the revenue officer expects the requested information and/or payment or the date the NFTL will be filed. A decision may be made to defer the filing of an NFTL when the revenue officer can substantiate with reasonable certainty and supported with documen",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "ccf03d281047af24b07f435d77847ba9",
+    "text": "tation from the taxpayer, that filing the NFTL will hamper collection. The determination to defer filing the NFTL because it will hamper collection must be part of an agreed resolution between the RO and the taxpayer that deferral will both facilitate collection and be in the best interest of the government and the public. In general a hamper collection determination could apply in the following situations:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "a0ec1ff22b659610fcf5e590b34f6716",
+    "text": "(cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "af81105455babd322836161e15ea2ace",
+    "text": ") A viable business, which factors account receivables, proposes a reason- able resolution with supporting documentation. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "6a591e32489fd2d414fffeca5afd7ef7",
+    "text": ", Subordination to Factoring Agreements for more information on factoring. (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "51a53880f29382f1ff6a999458a96979",
+    "text": ") A viable business, which operates on a floor plan, proposes a reasonable resolution with supporting documentation.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "110b82b2b5efe2ef2614c84aaea420ef",
+    "text": "Example: Automobile dealerships may use floor-plan financing to acquire their inventory of vehicles.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "a0ec1ff22b659610fcf5e590b34f6716",
+    "text": "(cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "1132150ace7dca2d3b07e08b5b7d0422",
+    "text": ") A viable business, which would lose its revolving account receivables the filing of an NFTL, proposes a reasonable resolution with supporting documentation. (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "4daee7a00b4a6ea34cc51510878813ea",
+    "text": ") When a taxpayer is near closing on refinancing a property to secure from the home in order to pay his tax liability and the filing of the NFTL prohibit closing the loan. (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "0e4ef93d0de3031b4eb4f54c606e8a80",
+    "text": ") When a taxpayer alleges the assessment may be a result of Payroll Service Provider fraud and the filing of the NFTL may affect the ability to secure funds to full pay or fund an offer in compromise, see",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8f6bb0ae5d40af91959c502c06188fcc",
+    "text": ", Initial Contact with a Client of a Third-Party Payer. Examples when it is appropriate to defer the filing of an NFTL: a. During a field visit on",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "96bfc43675efe0d52992c9330e0a932b",
+    "text": "to a “Not for Profit” taxpayer you are asked not to file an NFTL and consider an in-business installment agreement. It is explained that if an NFTL is filed, state funding, which the principal funding source for the entity, will be eliminated and the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "f7cf62c42536e1b1416797624150a4c4",
+    "text": "During a field visit on 5/01/2011 to a “Not for Profit” taxpayer you are asked not to file an NFTL and consider an in-business installment agreement. It is explained that if an NFTL is filed, state funding, which the principal funding source for the entity, will be eliminated and the",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "75eda8628da6e3c96e2d7863dbd3b028",
+    "text": "taxpayer will not be able to make installment payments. You agree to defer filing the NFTL and request appropriate documentation from the entity be sent to you by",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "d0cae0b31116b9a279e14bf052cbe91e",
+    "text": "and you will consider the IA . On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8b04c41d27a92e89bf0a41252a4ec045",
+    "text": "you receive the documents and are able to document a reasonable certainty that the NFTL would hamper collection of the liability and determine to defer the NFTL and place the taxpayer in a manually monitored IA. You inform the taxpayer of the IA and the condition that an NFTL will be filed if the taxpayer defaults on the installment agreement. b. During a field visit to a taxpayer who is in the business of selling vacation time shares, you determine that the tax liability cannot be paid immedi- ately and that in all likelihood an installment agreement may resolve the unpaid balance. However, in order to obtain the funds to make the install- ment payments and pay other operating expenses, the taxpayer must sell accounts receivable to a factor on a weekly basis. The factor also requires that the taxpayer gives a security interest in all current and future accounts receivable. Filing an NFTL in this case would end the factoring arrangement. You agree to defer the filing of the NFTL provided the taxpayer provides a copy of the contract, and remains cooperative and compliant. You inform the taxpayer that not complying with the provi- sions will result in your immediate filing of the NFTL. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "7b6899683afb5b31b80cefc198e3c456",
+    "text": ") Examples when it is not appropriate to defer the filing of an NFTL: a. A taxpayer or representative request for a filing deferral is reasonably de- termined to be an attempt to delay or avoid collection or ensure a bankruptcy petition filing before an NFTL (e.g. applying for an Installment Agreement (IA) but meeting the criteria found in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "fafd3882d7ef6acfac9ab7a6b883cb1a",
+    "text": "), Install- ment Agreement Requests Made to Delay Collection Action). History notations are required in these instances. b. During a field visit, the taxpayer informs you that they are planning to purchase a new car or possibly lease one to replace their current vehicle and the filing of the NFTL will negatively affect their credit. They ask you to not file the NFTL. You ask if the car is essential to generate income to assist in the payment of the liability. The taxpayer informs you that the car is not essential for them to generate income. It would be appropriate to an NFTL in this case. c. During a field visit on",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "5f9f847c695939861539809e0d1eee6e",
+    "text": "a taxpayer informs you that he has applied for a loan to pay the liability and other operating expenses of the business and requests that you do not file an NFTL. He explains that the loan agreement has a clause which indicates any additional lien notice filings will cause the proposed agreement to be null and void. You agree to defer filing an NFTL if the taxpayer supplies you with back up documentation for the completed financial statement and loan agreement from his financial institution by",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "bfad445f1d543adef4f3ed5293311d65",
+    "text": "and become current with all federal tax deposits (FTD). You also inform the taxpayer that if the documents are not received by the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "441408952938888a35146975d4ecab7c",
+    "text": "th, you will file the NFTL. You return to your office on Monday",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "9b42001c26c544938485272d918185c2",
+    "text": "and document your case history with the reason why you deferred filing the NFTL and schedule a follow up date of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "aace37504d17b45fd1b55eda8fb762e8",
+    "text": "On Monday",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "f8a6a162e19c9c6548dd51bd8d012b78",
+    "text": "you still have not received the documentation from the taxpayer or confirmation of the FTD payments. Since the taxpayer did not meet the specified deadline it is appropriate to file the Notice of Federal Tax Lien at this time without further contact with the taxpayer. d. After returning to the office from a field visit the previous day you have determined to file an NFTL because the taxpayer did not make full payment and was not in compliance. The taxpayer calls you and asks that Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "86be9a55762d316a3026c2836d044f5f",
+    "text": "K",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "75eda8628da6e3c96e2d7863dbd3b028",
+    "text": "taxpayer will not be able to make installment payments. You agree to defer filing the NFTL and request appropriate documentation from the entity be sent to you by",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "d0cae0b31116b9a279e14bf052cbe91e",
+    "text": "and you will consider the IA . On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "ad985204187546971f8dfcf40bc4980d",
+    "text": "you receive the documents and are able to document a reasonable certainty that the NFTL would hamper collection of the liability and determine to defer the NFTL and place the taxpayer in a manually monitored IA. You inform the taxpayer of the IA and the condition that an NFTL will be filed if the taxpayer defaults on the installment agreement. b. During a field visit to a taxpayer who is in the business of selling vacation time shares, you determine that the tax liability cannot be paid immedi- ately and that in all likelihood an installment agreement may resolve the unpaid balance. However, in order to obtain the funds to make the install- ment payments and pay other operating expenses, the taxpayer must sell accounts receivable to a factor on a weekly basis. The factor also requires that the taxpayer gives a security interest in all current and future accounts receivable. Filing an NFTL in this case would end the factoring arrangement. You agree to defer the filing of the NFTL provided the taxpayer provides a copy of the contract, and remains cooperative and compliant. You inform the taxpayer that not complying with the provi- sions will result in your immediate filing of the NFTL. Examples when it is not appropriate to defer the filing of an NFTL:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "a3d4a78ccee25fa7c314b7013a6bb476",
+    "text": "you not file the NFTL because she is selling her home to full pay the liability and avoid enforcement actions. You tell the taxpayer that the NFTL is going to be filed to protect the Government’s interest in the home. The taxpayer tells you that the sale will not go through because of the NFTL. You then tell the taxpayer that a Release of NFTL can be issued at the time full payment is made at the sale. e. After your initial analysis of a BMF taxpayer you plan to visit in the field tomorrow, you determine that in addition to owing several",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "16490fa16b9c047e99c75a92149ca518",
+    "text": "liabilities exceeding the notice filing threshold, there are several unfiled",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "1831736fb01dac92898057babe844ab8",
+    "text": "returns, and FTDs have not been made for the current quarter. During your field visit the taxpayer informs you that they are currently under contract to sell their rights to a patent for a product they developed and the sale will more than pay the liability and the amount they estimate will be owed for the delinquent returns. The taxpayer tells you that part of the agreement for sale is that there can be no liens associated with the patent and asks that you do not file an NFTL prior to the sale in",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "8dd154126e7c01a0d49ca1e65960a541",
+    "text": "days. You review the contract and confirm the taxpayer’s claim that sale of the patent is scheduled in",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "63d97cf2c493190d31973c70b5677bc7",
+    "text": "days. You tell the taxpayer that the lien exists because they owe taxes whether a notice of the lien’s existence is filed or not but that you will defer the filing of the NFTL if they file all delinquent returns and pay all delinquent FTD within",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "dcac48e59f743055465b738f18ab5855",
+    "text": "days. This is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "e2ace862af7b1933ee41709baf359a3d",
+    "text": "days prior to the sale. The taxpayer agrees that they can file the returns and make all FTD payments due and owing for the current quarter within the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "4c5e42a8942fe37714300f265056b5b0",
+    "text": "days. On the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "2844cd4ff75566888c5b5554b1e6c99e",
+    "text": "th day you receive all delinquent returns but do not receive any of the promised FTD payments due and owing for the current quarter. A follow-up phone call to the taxpayer finds that they have gone on vacation. You made a timely lien notice filing determination within",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "14c90ee8793396ea1c26d9bb9becc873",
+    "text": "days of your field call, deferring filing of the NFTL to correspond with the deadline agreed upon by the taxpayer. Since the taxpayer did not fulfill their agreed upon obligation, further deferral of the NFTL filing in this situation would not be appropriate. f. During a field visit to the representative’s office, she informs you that filing an NFTL will embarrass the taxpayer in their business community. A tax- payer’s embarrassment alone is not a reason to defer filing the NFTL. In this case it would be appropriate to file the NFTL, unless the POA can document that the NFTL would hamper the payment of the liability. g. During a field visit to an IMF taxpayer you request full payment of the $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "f341c594605785bcff9bf932323920fd",
+    "text": "liability. The taxpayer tells you that he is negotiating a sale of his home (primary residence) but there is only $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "a1d736c3ddf34ebb9c5d0704b80cd3ed",
+    "text": "of equity so he can’t full pay even with the sale. He asks that you not file the NFTL because it will ruin the sale. You ask the taxpayer to supply you with the appropriate documents (these may vary by location) to confirm his statement. He says he cannot. In this situation it would be appropriate to file the NFTL and inform the taxpayer that he may request a discharge of the specific property when he is prepared to close the sale.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "a0540fd9af9e1fd32e6b698e003917d5",
+    "text": "The following sections identify when approvals are needed for determination date extensions, and for filing, non-filing, or filing deferral determinations.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "ce410e02c2d0eb95f250c249db3813af",
+    "text": "(10-14-2013) Approvals Relating to Determinations",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "ca701daa7215b1931b6b2678c7d6b31a",
+    "text": ") Group manager approval is required for all RO decisions to extend the time frame for making a determination to file an NFTL on all IMF and BMF Date cases in which the known aggregate assessed or to be assessed balance Approval be greater than $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "23648804c0b15ed5e07713a41d6879cf",
+    "text": "The extension of the NFTL filing determination date not the same as deferring the filing of the NFTL. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "64877df0121b7451e4811fdce255c2cc",
+    "text": ") A determination to file an NFTL by revenue officers below GS-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "f5511c79f1ef35f4328d39779f650f73",
+    "text": "must be approved by the manager prior to the NFTL being filed. Filing (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "aae39a1180f46705d669929fabd72df4",
+    "text": ") If authorized by the group manager, GS-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "373cec82eb05fb1a52971c7461b71e8e",
+    "text": "and above revenue officers may Approvals approve the NFTL filing determination for revenue officers below GS-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "acd56eefd9629aa83ec1e8d2609ea55d",
+    "text": "and initiate the ICS NFTL request. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "046fc9c487a506aebdc30c576025cda9",
+    "text": ") APPROVAL EXCEPTIONS where managerial approval is not required: a. NFTL reflecting a balance of less than $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "20733f1f56b7e64a0a8672b4fa495ffb",
+    "text": ", “Do-Not-File” and b. Additional assessment(s) on a case where the same supporting factors Deferral apply as on a previously approved Do Not File (DNF) or Deferral Approvals nation decision, c. Cases that meet the, “In general NFTLs should not be filed when:...”, criteria outlined in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "ad0abb76c5f05d22cf6cafdfaecc2508",
+    "text": "), d. Cases that meet the, “NFTLs should not be filed in the following circum- stances:...”, criteria outlined in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "bc0377f38eac87771b423e6245539234",
+    "text": "), and e. Cases that meet the Streamlined Installment Agreement criteria outlined IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "8a534130559a6e4be5493ba9bc811313",
+    "text": ") REQUIRED APPROVALS: Group Manager Approval on all IMF and BMF cases,➤not meeting any above listed exceptions in paragraph (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "178acfca31afb204647e222500e0fb7f",
+    "text": "), ➤ but meeting any below listed criteria: a. Known aggregate assessed or to be assessed balance will be greater than $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "e3630bfdff0c0e4a5b4f23c62de419fc",
+    "text": ", b. Additional assessments when the aggregate balance on the case $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d6db116fc349564d84e8002b35d0173d",
+    "text": "and none of the exceptions in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "768fe8fbadca4b271f9457e69d5499fc",
+    "text": ") above apply, c. IMF or BMF cases with",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "086f5a0e87c1e58513b3a02e726539c9",
+    "text": "or more modules, and d. NFTL filing is deferred or not filed for more than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "a60b16ff2fbc20ab7554cb723e792e90",
+    "text": "days from initial or last TP contact. Note: This includes situations where the revenue officer is waiting for either",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3b71f61f2c3f422c0dbf0263b0692568",
+    "text": "a. NFTL reflecting a balance of less than $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "6a246896f0cacc8ef9e3a0a398d393a4",
+    "text": ", b. Additional assessment(s) on a case where the same supporting factors apply as on a previously approved Do Not File (DNF) or Deferral nation decision, c. Cases that meet the, “In general NFTLs should not be filed when:...”, criteria outlined in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "ad0abb76c5f05d22cf6cafdfaecc2508",
+    "text": "), d. Cases that meet the, “NFTLs should not be filed in the following circum- stances:...”, criteria outlined in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "bc0377f38eac87771b423e6245539234",
+    "text": "), and e. Cases that meet the Streamlined Installment Agreement criteria outlined IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "abe5aa8cbefeed64863c679b42961f9d",
+    "text": "REQUIRED APPROVALS: Group Manager Approval on all IMF and BMF cases,➤not meeting any above listed exceptions in paragraph (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "178acfca31afb204647e222500e0fb7f",
+    "text": "), ➤ but meeting any below listed criteria: a. Known aggregate assessed or to be assessed balance will be greater than $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "e3630bfdff0c0e4a5b4f23c62de419fc",
+    "text": ", b. Additional assessments when the aggregate balance on the case $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d6db116fc349564d84e8002b35d0173d",
+    "text": "and none of the exceptions in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "768fe8fbadca4b271f9457e69d5499fc",
+    "text": ") above apply, c. IMF or BMF cases with",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "086f5a0e87c1e58513b3a02e726539c9",
+    "text": "or more modules, and d. NFTL filing is deferred or not filed for more than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "044b8a7b9572ca227d0da5b1d7641c24",
+    "text": "days from initial or last TP contact.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3b71f61f2c3f422c0dbf0263b0692568",
+    "text": "a. NFTL reflecting a balance of less than $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "6a246896f0cacc8ef9e3a0a398d393a4",
+    "text": ", b. Additional assessment(s) on a case where the same supporting factors apply as on a previously approved Do Not File (DNF) or Deferral nation decision, c. Cases that meet the, “In general NFTLs should not be filed when:...”, criteria outlined in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "ad0abb76c5f05d22cf6cafdfaecc2508",
+    "text": "), d. Cases that meet the, “NFTLs should not be filed in the following circum- stances:...”, criteria outlined in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "bc0377f38eac87771b423e6245539234",
+    "text": "), and e. Cases that meet the Streamlined Installment Agreement criteria outlined IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "8a3b04b43720b3bba5cff6e322128262",
+    "text": "a. Known aggregate assessed or to be assessed balance will be greater than $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "006feeff026a7bbbf946200b52094ef8",
+    "text": ", b. Additional assessments when the aggregate balance on the case exceeds $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d6db116fc349564d84e8002b35d0173d",
+    "text": "and none of the exceptions in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "768fe8fbadca4b271f9457e69d5499fc",
+    "text": ") above apply, c. IMF or BMF cases with",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "086f5a0e87c1e58513b3a02e726539c9",
+    "text": "or more modules, and d. NFTL filing is deferred or not filed for more than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "044b8a7b9572ca227d0da5b1d7641c24",
+    "text": "days from initial or last TP contact.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "0d6000362511a1732c6848376b530e3b",
+    "text": "Note: This includes situations where the revenue officer is waiting for either actions by or documentation from a taxpayer.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3a9d66e823b148fb0a65027ab7a713b0",
+    "text": "Note: Territory Manager approval is no longer required.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "5d5786e2e147f7cc4e6b17e4b4ed0589",
+    "text": ") Group manager approval should be noted in the ICS history. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "6c147d8c7de68b20e034120d9433e3d2",
+    "text": ") All determinations to DEFER the filing of an NFTL must have a calendared follow-up to revisit the NFTL determination should the taxpayer fail to properly resolve the delinquency. In most cases, the calendared follow-up will corre- spond with an established deadline. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "5b788311fba860d7cb499a68a8a75c9c",
+    "text": ") In general, an NFTL should be filed in the following situations:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "18261b23c2720dcdd3df311566276f4e",
+    "text": "For the purposes of this section, “unpaid balance of assessments” (UBA) means the total balance of all unpaid and assessed tax periods for the taxpayer.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "f064595b4cef2ee86742502d92ca45f6",
+    "text": "If Then the aggregate UBA is file an NFTL $10,000 or more Note: Determine the need to file an NFTL when there are additional assessments. an installment agreement file an NFTL. See IRM 5.14.5 (IA) does not meet stream- Reminder: For an IA meeting stream- lined, guaranteed, or in- lined, guaranteed, or in- business trust fund express business trust fund criteria express criteria see IRM 5.12.2.3.1 an open account with an file an NFTL. aggregate UBA of $10,000 or more is being reported as currently not collectible a case involving both the NFTL filing may be delayed to assessed and unassessed include both period types on the periods will be reported NFTL. currently not collectible Note: You may also choose to file an NFTL on the current assess- ments and wait for the unassessed periods to be assessed, and then file for those periods as well. there is property not being file an NFTL to protect the govern- administered in a Federal ment’s interest unless doing so is bankruptcy or state insol- currently stayed by the proceeding vency proceeding the taxpayer resides outside file an NFTL. Contact requirements the U.S. and has known are waived. assets Note: Prior to requesting that a taxpayer be placed on the Treasury Enforcement Commu- nications System (TECS), file an NFTL even though the taxpayer resides outside the US and has no known assets in the US. Procedures concerning TECS are discussed in IRM 5.1.8.8.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "cbcaf1502f43bcb6fb009c15b3f1b919",
+    "text": "waived. Prior to requesting that a taxpayer be placed on the Treasury Enforcement Commu- nications System (TECS), file an NFTL even though the taxpayer resides outside the US and has no known assets the US. Procedures concerning TECS are discussed in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "221f271423ad37e60fa0b2b9a0cac736",
+    "text": "Note: Even though there is no mandatory NFTL filing requirement prior to service of a Notice of Levy, before levying the Service should consider, for purposes of lien priority, filing an NFTL.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "43a978df39e295e6fe146ad96d8b3cf4",
+    "text": "Note: Generally NFTLs will not be filed when the UBA is less than $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "1338eecb74a9c2a1bf84943c6214658f",
+    "text": ", but they may be filed if they will protect the government’s interest, such as in case of an impending bankruptcy or other exigent circumstances. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "c7f32fe43618e03359f93ab110885230",
+    "text": ") Except in rare circumstances, an NFTL should not be filed when the balance be reflected on the NFTL is less than $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "3778eae0fba35218679aaddefd341f92",
+    "text": "(remember, an NFTL can modate",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "f564572671e3502eb92476c6aa4d6601",
+    "text": "statutory liens). If the case facts indicate that immediate filing of an NFTL will prevent loss to the government (e.g., taxpayer is dissipating the NFTL may be filed. Notate the circumstance in the case history. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "2efd5c7c697a41d7e6348e71650c90de",
+    "text": ") Accrued interest and penalties added to tax must be collected during the limi- tation period for collecting the tax. Therefore, an NFTL may be filed on accruals only modules where all assessed liabilities have been full paid while keeping in mind that NFTLs should not be filed when the balance to be reflected on the NFTL is less than $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "868b32d0d22196d237676a8672ebebb8",
+    "text": "The tax liability’s collection period does not apply to bad checks, fraud penalty or certain other penalties that may carry a separate collection statute expiration date. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "7e6fd6bc016afa9503f4cae2323baf2b",
+    "text": ") Preparing the NFTL General Instructions. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "75cec3806d037bc2c6d357a3caa8c7ab",
+    "text": ") Examples of when it is appropriate to file an NFTL are listed below: a. After your initial analysis of a law firm with three quarters of Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "ba74e66ae680057a20aaf63b5e72d681",
+    "text": "li- abilities totaling $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "f50288b371a46b6c0cf687944412e7bb",
+    "text": ", you determine that all notices requesting payment have been sent. You then make a field visit on Tuesday",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "043615308206d37b143a61c0c82bdae4",
+    "text": "to the taxpayer at the last known address. The office has a sign saying it is closed for that day so you leave a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a0d4634efda67016ad74ea92795b9899",
+    "text": "(Field Contact Card) with Publication",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "6201111b83a0cb5b0922cb37cc442b9a",
+    "text": "and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "361883131816f126bd64bc52f7a2ad32",
+    "text": "in a sealed envelope under the door. The calling card instructs the taxpayer to contact you by Friday",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "6668bb799588469f64b25a6dfe9f684f",
+    "text": "close of business on Wednesday",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "fc0f7847f65c7d1fe93e4d3dc9eb313f",
+    "text": "you have still not received any communication from the taxpayer. In this situation it is appropriate to file the NFTL. b. During a field visit to a self-employed taxpayer you request full payment the tax liability of $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "33e2529de3e77b2abf9fc477fad8d6e3",
+    "text": "As part of your compliance check you also inform the taxpayer that they are not current with their estimated tax payments, and they must make those payments as well. The taxpayer makes payment for a portion of the tax liability ($",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "f18d6d319f3ecd090c465cf3995232cc",
+    "text": ") and tells you they will make their $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a549c35f7ed81e62d1fd746adfc397aa",
+    "text": "in late estimated tax payments in",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a781c79bc1e104d50b2401aa92153369",
+    "text": "days. The taxpayer provides a financial statement which shows they have equity in assets that will full pay the liability however the income would not support any short term or streamlined installment agreement. In this situation it would be appropriate to file an NFTL. The RO advises the taxpayer that the NFTL will be filed and provides the taxpayer with information lien subordinations and discharges.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "3dccb367daaaf0f1c93455c6e41f7ee3",
+    "text": "Generally NFTLs will not be filed when the UBA is less than $10,000, but they may be filed if they will protect the government’s interest, such as in the case of an impending bankruptcy or other exigent circumstances.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "2defccd03c7ca4c09216123778c2d3b9",
+    "text": "be reflected on the NFTL is less than $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a882c0772a5ecd1fa4d03093ff5c7437",
+    "text": "(remember, an NFTL can accom- modate",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "7395f5621dbe021613d11b3b231d67e2",
+    "text": "statutory liens). If the case facts indicate that immediate filing of an NFTL will prevent loss to the government (e.g., taxpayer is dissipating assets), the NFTL may be filed. Notate the circumstance in the case history. Accrued interest and penalties added to tax must be collected during the limi- tation period for collecting the tax. Therefore, an NFTL may be filed on accruals only modules where all assessed liabilities have been full paid while keeping in mind that NFTLs should not be filed when the balance to be reflected on the NFTL is less than $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "1d56ad6a8b484cca1c3bef0455bb0a91",
+    "text": "The tax liability’s collection limitation period does not apply to bad checks, fraud penalty or certain other penalties that may carry a separate collection statute expiration date. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d5ca11b9ba072d04b66eed83af7cfd5d",
+    "text": ") Preparing the NFTL General Instructions.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "374de6bcfe632a56df25208eefa4abbf",
+    "text": "a. After your initial analysis of a law firm with three quarters of Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "ba74e66ae680057a20aaf63b5e72d681",
+    "text": "li- abilities totaling $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "f50288b371a46b6c0cf687944412e7bb",
+    "text": ", you determine that all notices requesting payment have been sent. You then make a field visit on Tuesday",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "043615308206d37b143a61c0c82bdae4",
+    "text": "to the taxpayer at the last known address. The office has a sign saying it is closed for that day so you leave a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a0d4634efda67016ad74ea92795b9899",
+    "text": "(Field Contact Card) with Publication",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "6201111b83a0cb5b0922cb37cc442b9a",
+    "text": "and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "361883131816f126bd64bc52f7a2ad32",
+    "text": "in a sealed envelope under the door. The calling card instructs the taxpayer to contact you by Friday",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "fc8586078389fa1bcd28c3b696a6c8b6",
+    "text": "By close of business on Wednesday",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "2fe6c82b8a6c4e3c971575fe79136785",
+    "text": "you have still not received any communication from the taxpayer. In this situation it is appropriate to file the NFTL. b. During a field visit to a self-employed taxpayer you request full payment of the tax liability of $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "33e2529de3e77b2abf9fc477fad8d6e3",
+    "text": "As part of your compliance check you also inform the taxpayer that they are not current with their estimated tax payments, and they must make those payments as well. The taxpayer makes payment for a portion of the tax liability ($",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "f18d6d319f3ecd090c465cf3995232cc",
+    "text": ") and tells you they will make their $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a549c35f7ed81e62d1fd746adfc397aa",
+    "text": "in late estimated tax payments in",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "fc2fbe94aaab4b900802e5ae25ca61a6",
+    "text": "days. The taxpayer provides a financial statement which shows they have equity in assets that will full pay the liability however the income would not support any short term or streamlined installment agreement. In this situation it would be appropriate to file an NFTL. The RO advises the taxpayer that the NFTL will be filed and provides the taxpayer with information regarding",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a7c01960e6ce54191c62ee280c24b5b6",
+    "text": "Follow the chart below for NFTL filing when the taxpayer’s account contains SRP/MFT 35, SRP/MFT 65, or MFT 43 assessments.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "5ebd5fee3afc68d65ce70cafbc2f95d5",
+    "text": ") When a manual NFTL is prepared (using ICS Templates), managers will ensure that the first five numbers of an SSN have been redacted and sign NFTL for revenue officers below GS-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "09dbce4113564563a2b9abdb42822b42",
+    "text": "The NFTL may also be signed by a revenue officer at the appropriate grade level. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "3c1f9a188c558417f399f50ac449b2cc",
+    "text": ") In all cases document the case file. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "589a4938d66c1f60fb9bbe3695d842ce",
+    "text": ") Managers of revenue officers below GS-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "2d24c3bd18fd67b2afcb765976d23532",
+    "text": "are required to: a. review the taxpayer’s information, b. verify there are no SSNs included on the name or address lines and any manually prepared NFTL redacts the first five numbers of the SSN, c. verify the balance due, and d. affirm that the lien notice filing is appropriate given the taxpayer’s stances, considering the amount due and the value of the property or rights to property. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "1580b8432dc521b7858d7462f5696e89",
+    "text": ") In all cases, revenue officers must document the following information: a. A summary of any information the taxpayer provides that may affect decision to file a lien notice, b. If the taxpayer provided information, the employee is to explain their review of the information and findings, and c. Verification that the amount is owed, e.g., the balance has been on IDRS.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "5a2aad13447c45e3f9ccd7756c53c71d",
+    "text": "When a manual NFTL is prepared (using ICS Templates), managers will ensure that the first five numbers of an SSN have been redacted and sign the NFTL for revenue officers below GS-9. The NFTL may also be signed by a revenue officer at the appropriate grade level.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "271db925c405b1d89d3afeb35d17c292",
+    "text": "a. A summary of any information the taxpayer provides that may affect the decision to file a lien notice, b. If the taxpayer provided information, the employee is to explain their review of the information and findings, and c. Verification that the amount is owed, e.g., the balance has been on IDRS.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm05-012-002--2015-11-09.pdf",
+      "page_number": 18
+    }
+  }
+]

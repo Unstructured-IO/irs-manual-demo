@@ -1,0 +1,560 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1fd35338b61345a16c1fe9b5e55f6274",
+    "text": "This transmits revised IRM 2.3.36, IDRS Terminal Responses, Command Code SCFTR.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "bc2e349de5aed94079b7bfbc2d2a4426",
+    "text": "IRM 2.3.36 Made annual changes such as Effective dates throughout this IRM.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "994354143d24dcf6bdbcd5769e9c9255",
+    "text": "Distribution - You have received a copy of this IRM section because you are on the Distribution List for IRM 2.3, IDRS Terminal Responses. Each chapter has its own catalogue number used for ordering and distributing purposes. You may adjust the subsequent distribution of this chapter to meet your office’s needs by adjusting your quarterly IMDDS Order Point Summary Report (IMR02).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "590605862d88f500b88e802fb61686a4",
+    "text": "EFFECT ON OTHER DOCUMENTS",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "9ccfb51d2f2bb3fd0fa33530a97c344e",
+    "text": "IRM 2.3.36, dated December 13, 2011 , is superseded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "4a6d1bf9ccb2ccc60ca96cd42f2fd8d5",
+    "text": "LMSB, SBSE, TEGE, and W&I.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "ab173023dbcbd7c92a899234c1af4930",
+    "text": "Exhibits 2.3.36-1 2.3.36-2 2.3.36-3 2.3.36-4 2.3.36-5 2.3.36-6 2.3.36-7",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "bbc5ce05348368c8c9b38dde468503ce",
+    "text": "SCFTR Request Format and Report Elements SCFTR Screen Display Format SCFTRH Screen Display Format SCFTRH Screen Display Report Elements SCFTRR Request Format and Report Elements SCFTRR Screen Display Format SCFTRR Screen Display Report Elements",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "14671b5161d7c36226875de99524b5fa",
+    "text": "The on-line SCCF ﬁle is updated nightly from batch processing and continu- ously from on-line adjustments with Command Code SCFAJ.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d55638a83654a9b4c2fde328d94ac118",
+    "text": "Command Code SCFTR is unrestricted and should be used by all technicians in place of the printed SCCF transcript and Historic SCCF transcript.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e678a164083d5f9ea18751b7e95700e0",
+    "text": "Enter Command Code SCFTR, followed by the Master File System Code, the block DLN (without hyphens), and the entry code. See Exhibit 2.3.36-1.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "880d8cb3a4983e7eb45ae6f2f5ed2398",
+    "text": "a. If the request contains an invalid master ﬁle code or other than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1e6cd1e2196b3aee421109b43a991316",
+    "text": "numerics in the DLN, the response is the message “Invalid Request”. Overlay the correct data and retransmit. b. If the DLN is not on the open or historic SCCF for the requested master ﬁle, the response is the message “No Record of DLN”. Check to be sure the request was entered properly before assuming that the record you wanted is actually not on the ﬁle.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "aca615843fcc037063fd52d368b37ddf",
+    "text": "Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3b966313c59b673dda8b8b13d5381a20",
+    "text": "for instructions on reading the transcript. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d64ef17a17e1abf2ea24742c4b6b79fb",
+    "text": ") If the DLN is on the Historic SCCF (up to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "92c180b7c350520219ca890d79607d72",
+    "text": "prior calendar years), the response will be an abbreviated transcript showing only the DLN, block status H, and the cycle that the block was removed to the Historic. In addition, a pre-formatted Command Code SCFTR record with Deﬁner H is displayed on the ﬁrst line, with instructions on how to transmit the request for reactivation of the Historic record. See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "fca7b871a0af4506bed505a0a31084a7",
+    "text": "a. If all you needed was proof that the block had been processed or the cycle in which SCCF processing had been completed, overlay with another command code and transmit. b. If more research is needed, transmit the SCFTRH record. The immediate response is shown in Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b7c50de4d4eacd376c72ea272f616b57",
+    "text": "c. A reactivation request will be processed to the SCCF historic tape, and the complete record should be available the next day. See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8923088e89520e7dd32d0103f2c113df",
+    "text": "d. The reactivated record will remain on the SCCF data base for at least two weeks. e. If processing has been delayed or if the request is for a very old SCCF module, it may be up to a week before the record becomes available. If the record is not available when expected, the same SCFTRH request can be entered again.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ecf8b1be33f559b3c6a5da13c72e0b41",
+    "text": ") SCFTR Output Screen (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e599e2252e25542cf14013a74d00bc50",
+    "text": ") The displayed transcript is a complete record of all SCCF activity currently on the ﬁle. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f132cdc1b588ed1803814b380d58d145",
+    "text": ") Each page of the transcript displays up to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "0b081e3042d0d55e7683e52271847847",
+    "text": "control records. Use normal paging procedures to see the rest of a multi-page transcript. Each control ﬁle module will hold up to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f743328049237f4fe330e374a980ffbe",
+    "text": "records on",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "2467db3053b2f8e7b4ddbd7bb41f2a87",
+    "text": "pages.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e303967d190e04b68af755b2beb2005c",
+    "text": "The displayed transcript is a complete record of all SCCF activity currently on",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8156529b3c41827b8d7488babd99f2f4",
+    "text": "sfEa e T B",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "228566ba21ef694c219548bca4e9f72e",
+    "text": "RNT",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "9a7891155da66e5de62506bc6a50209d",
+    "text": "oo our 1| sasfainina [13brotr wmeRzon",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "c55dd5a4ff07d67af175306b74f6772e",
+    "text": "TTen tiorvison, cowmmor. sre TwscRieT ov 1821 o= [ Boot aucsR R T E T e mer ED )5w [ o) et (EmESl  ome ) Rwomol  me 1s 18 (Al W (B eLsssl  ma ) cooomel B 1e COCUL Um0 2 L) D1 N[serovse 41 10 )",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "9d1168c582679467309d9bdb443af183",
+    "text": "Exhibit 2.3.36-2 (Cont. 1) (01-01-2022) SCFTR Screen Display Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "c7b84fb95d31f54a4b5308dd5621312c",
+    "text": "i [oommcras P TI e e I e P R -e s ssccx-oun o | sasfusmas (550 cocmm cocae e Ep— ¢ formfowms i bu, 5, |wer, Res, tRe ocR/CTKFOR S —— sters e or oocunerss [commonrmnonomawont | 6 |isesa| amr |soian A G so [comonrmmmecomr | e [se-er] ws |uns com o Hamei [comormmwmonn | 6 [saors| 2w e cous oF sovianR 7 fioess| awme [ maes assim oFi [Sommrie s cn T [ SBl ety | 7 [ 383 |ooan e cams",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e96f5cd92de8f49e877c728d21845ca8",
+    "text": "[contror-rits-Resser-com T e oconmmor-rzs mesecrmomer | 7 [s2-3s| 22 [oorsax e cmvesconmmon-izs ssronsc-crene | o [2n-as|vermm | o cveus m waren xlcono- 12z -oeueTs-com o [sesa) sconteor-sizs oesememomer | 8 [35-52{ 317 {oorsa s cmims(ConTRoL 1Lz Go0p- ot HI e|CowTRDL - F1LE Q0D AT B [525) 3wy [oowwan awo cavrsS R ceaemon. e s | 557 303S anosciss; BiockFRoce-macou, beLiTe)s o, meivssr, Go0o/ |Eeonosmseron-coos scm 13 o.1,2,3, e caramcR's, sos,|Aoovsm Toceassa)",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "f134a68140365526d676e01635db0da8",
+    "text": "Exhibit 2.3.36-2 (Cont. 3) (01-01-2022) SCFTR Screen Display Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "f035a1141c2fcad4b8aa4424ef660788",
+    "text": "Eisiaos1 oermmoes0 [ro-coom scuman 150,12, ek GaTA/mcR'é, Bos,o [Rm— s cunes 17 o, s, |surrass wpur, s,e32  [coumocmecorn-somce-cooe  [smer 15 (a0, [acep,mon, car, uce pmse-w25, | sovias, REgoTRED,e [commmorenapostionts  [orvam) |21z fvervono |me vare o suiiaw oame30 [commorpnaposting-cveis  [o(vam)|29-3a|vevsce [ prevo sepereving el35 [ssock-socoum-coorr o cunsy 3635 2002 Ske sevras-wER oo 4242 3e37 [coumo-pria-postine-mee s [o(m) |aa-6a| 3(m17 [oortan ne covtee [wmsoccom oo 6277 o435 (i seao o 5 ine | 32-75| B3ra eLuEs NowBE p eERER oty Do | acdn  [cocham totaron",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "34d89e70990b09007a373fb57dcfea90",
+    "text": "H TRANSCRIPT  CY [Bs ) DATE [ Eee TET ox5 .8 Ts T A e Umo =y« = 1Za|merovee o1 s )",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "db9dea0944a0cc4b14f0a4d0046aad52",
+    "text": "Exhibit 2.3.36-4 (01-01-2022) SCFTRH Screen Display Report Elements",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "839b36d8104864cbe73a0f594f7939ef",
+    "text": "scemmu-wassaoe-sro 5 | 8-s5{ss tam) 56| mmcumss o sencervaers|B e e 12 [1e20fsetme",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "ea034731d8432e08918ca23e5de8af0e",
+    "text": "Exhibit 2.3.36-5 (01-01-2022) SCFTRR Request Format and Report Elements",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "fc257383af5d90b81bd1727388ccff23",
+    "text": "s s",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "bfd4edf389301cdfaad09a878e9e314e",
+    "text": "Exhibit 2.3.36-7 (01-01-2022) SCFTRR Screen Display Report Elements",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "0b147910b3336dfb243d2c233cc27d4b",
+    "text": "B B & -RP POL EREEER O",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-036--2021-12-17.pdf",
+      "page_number": 16
+    }
+  }
+]

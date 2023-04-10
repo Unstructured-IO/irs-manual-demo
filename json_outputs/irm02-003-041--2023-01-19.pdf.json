@@ -1,0 +1,1019 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "f1737492bb33928edd38b9e4151f0bd4",
+    "text": "This transmits revised IRM 2.3.41, IDRS Terminal Responses, Command Code PIEST.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a328baf4b3e7259c1d5dc2481a23c32c",
+    "text": "Added the required Internal Controls Section 2.3.41.1.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1e04ac4271e26a0d03a06b174aeb7b1f",
+    "text": "LMSB, SB/SE, TE/GE, W&I.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "ccd2af056d346042b6582b0939c45318",
+    "text": "Command Code PIEST Input Request Format Command Code PIEST Output Error Display Command Code PIEST Output Explanation Display",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "392531c41b85d67d10e63c8244bc5065",
+    "text": "Scope and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0bde5434d46ce5bfe49631f303df64cb",
+    "text": ") CC PIEST is use to display estimated tax penalty on a tax module residing the Taxpayer Information File (ITIF and BTIF only). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0d9086fd52994326b9262cc987f2cb54",
+    "text": ") Purpose : This transmits revised IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "284233a7a9000d09a3cd09ec653209d9",
+    "text": ", IDRS Terminal Input, Command Codes PIEST (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0f062fba69610fadc1d346e78aa1a661",
+    "text": ") Audience : All IRS business areas. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "49a67d7146bb16d7d88743d4a34c6d05",
+    "text": ") Policy Owner : The Chief Information Officer (CIO) is responsible for oversee- ing all aspects of our systems that operate the nation’s tax infrastructure. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0e7064599091fce5b203c4a53fb8910b",
+    "text": ") Program Owner : Account Services, which is under the Director, Internal agement (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "326a2e54dd116e5d0decf2c60a66cb38",
+    "text": ") Primary Stakeholders : Wage & Investment (W&I), Large Business and national (LB&I), Small Business Self-Employed (SB/SE), Tax Exempt and Government Entities (TE/GE), and Enterprise Operations (EOPS) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d02531019c32afc4a96b7a76d583ad28",
+    "text": ") Program Goals : This IRM provides the fundamental knowledge and proce- dural guidance for employees who work penalty on IDRS. By following the processes and procedures provided by this IRM, employees will process taxpayer estimated tax penalty explanation in a manner that follows IRS and procedures while promoting the best interests of the Government. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1b24db8e1633376f25744d763411961e",
+    "text": ") Command Code PIEST was developed to provide taxpayers an estimate penalty explanation imposed by the Internal Revenue Code (IRC). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "fcb6a55e1d0b6065d794f93ceb7f1d59",
+    "text": ", Penalty Handbook, provides guidance to all areas of the IRS for civil penalties imposed by the Internal Revenue Code (IRC). It sets forth general policy and procedural requirements for assessing and abating penalties, and it contains discussions on topics such as criteria for relief certain penalties. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1bf5813367e400920a681ee85c429138",
+    "text": ") The Director, Business Support, is the director responsible for the servicewide civil penalty program. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32bccd285f72365a4d17774904f37078",
+    "text": ") The Director, Internal Management, is the director responsible for the IDRS Command Code. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "7c3f3a95834c6acd4db31e18707b887b",
+    "text": ") Overall responsibility for civil penalty programs is assigned to OSP. OSP is matrix organization residing in the Business Support (Small Business/Self Employed) Function. OSP is charged with coordinating policy and procedures concerning the civil penalty program administration, ensuring consistency the penalty policy statement, reviewing and analyzing penalty information, searching penalty effectiveness on compliance trends, and determining appropriate action necessary to promote voluntary compliance. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "377bf29d19e649ce043f07862f44affd",
+    "text": ") Each and every taxpayer has a set of fundamental rights when dealing with IRS as provided in the Taxpayer Bill of Rights (TBOR). All employees handling penalty cases must do so in accordance with the TBOR as listed in IRC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a9eed9583ff65d80e3293d6ad2dada94",
+    "text": "(a)(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "35fb61c3cf39ba2503e89f69bd15bae9",
+    "text": ") . The TBOR can also be found at Taxpayer Bill of Rights on irs.gov Code PIEST",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3660315a9af3df255d8f19ab077e4797",
+    "text": "page",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "676919ee0dc6d8776e6c0e389fe0b4e8",
+    "text": "Policy Owner : The Chief Information Officer (CIO) is responsible for oversee- ing all aspects of our systems that operate the nation’s tax infrastructure.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "fc30e9a784e2470f667b1d697bb77135",
+    "text": "Program Owner : Account Services, which is under the Director, Internal Man-",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3297aae7ab2f60b18e91684811d75e69",
+    "text": "Command Code PIEST was developed to provide taxpayers an estimate tax penalty explanation imposed by the Internal Revenue Code (IRC).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "18a4dc993ae273f14daee7cc10a89152",
+    "text": "Commonly used acronyms used within this IRM",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "2bde71906b525cbb02b4c3101fa862d9",
+    "text": "Acronym Deﬁnition PIEST Penalty and Interest Estimate Tax Explanation ITIF Individual Taxpayer Information File BTIF Business Taxpayer Information File",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1c684d6fc6c3a78eaa8d653747449724",
+    "text": ", Penalty Handbook, Introduction and Penalty Relief (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "74eac52ea63edf3cd333c6dbe7e7375c",
+    "text": "- IDRS Terminal Responses - Command Codes INTST, ICOMP, and COMPA (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f3b0f9c3c72ed2112257119a7acfa04e",
+    "text": "- IDRS Terminal Responses - Command Code PICRD (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a9f68d39533325ab5cbd22c2462ba0aa",
+    "text": "- IDRS Terminal Response - Command Code PIFTF (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "eea16cb91fa82cb66d222baee63fcade",
+    "text": "- IDRS Terminal Responses - Command Code PIVAR (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4278ac34ea0e14f9ac9e673a5adc6f9c",
+    "text": ") Command code PIEST displays explanations of the computation of Estimated Tax Penalty. The computation uses only information accessed from the ITIF BTIF tax module. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "2838b7b89282b1e827e61fee6fae3592",
+    "text": ") Only tax periods subsequent to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7326cac14c0ef8aed0112368df5d0c2b",
+    "text": "and MFT’s",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f62a4e208af9bd91bb1892b7e7d95924",
+    "text": "and will be considered. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "43e46b66a08ef23f16369339e3adce41",
+    "text": ") For BTIF modules, only those that have a return posted cycle",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "419143b86ad0e0953da9cac804338140",
+    "text": "and sequent can be considered for computation since the ESTIMATED-TX-BASE- AMT and other required elements were not extracted to the BTIF before then. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "bcd2be2a4a9a736638075f79b303a0b1",
+    "text": ") Special processing was added for ITIF tax periods",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9c6725dc269a48ce4b5bc78b580ccab2",
+    "text": "through",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5c90e607319d12d7da6a550e44103dd1",
+    "text": "grant a partial waiver of estimated tax penalty for those persons with wages who would have normally been assessed penalty. For tax periods",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d952ecda68ccf141efec10b87cfed18e",
+    "text": "beyond, normal penalty criteria will be applied.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "0ca5673b99667ed933d78500582c85ac",
+    "text": "For a complete computation, the module must not contain any of the restrictive conditions speciﬁed in the list of messages in See IRM 2.3.41.2.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2036c7702b3d54c204e638a919c9c8b3",
+    "text": "TXPD — The tax period input does not meet the standard validity",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "4cb36ba1c83068f5ac4a605941b39287",
+    "text": "ACCOUNT NOT ON TIF — The requested TIN does not match an account on",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f07b98b0c90900df71869bfffb2afd30",
+    "text": "ENTITY INDICATOR RECORD NOT ON TIF — There was no TIF Section TIF–02 on the tax module. Bad data on the module.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8b1c4f04024be55fcdf5b5c030d8994c",
+    "text": ") REQUESTED TXPD MATCHES DUMMY MODULE ON TIF — The requested module is a dummy module. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "eda9195792ee63f8624a8ac4281f90bb",
+    "text": ") REQUESTED TXPD MATCHES MEMO MODULE ON TIF — The requested module is a memo module. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "a890a2929b1748418c4f53c1066b89cd",
+    "text": ") UNABLE TO COMPUTE — NO POSTED RETURN ON TAX MODULE — There is no posted return associated with this speciﬁc tax module. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "343dfc6c9eb771394856331ec9a1c71d",
+    "text": ") UNABLE TO COMPUTE — NO TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "6621d47681b608e38c69045d704fb84d",
+    "text": "ON MODULE ON TAX MODULE — Master ﬁle has not assessed estimated tax penalty on module. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "90c2b0062dab8e6be55a2985070ecc78",
+    "text": ") UNABLE TO COMPUTE — RESTRICTED TC ON MODULE — Estimated penalty was manually assessed. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f66871cae63faea4fe983c440db60643",
+    "text": ") UNABLE TO COMPUTE — NET OF TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "6581063ea2f1a714b458e5419bcd728f",
+    "text": "IS ZERO — Net amount qualifying transaction and its reversals is greater than zero. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "4c2cfd6eebb3120cef65efcee8e18e49",
+    "text": ") UNABLE TO COMPUTE — REVERSED TRANSACTION NET AMOUNT IS GREATER THAN ZERO — The reversal amount is greater than the amount being reversed. Bad data on the tax module. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "fdff54e418f05954250e45c75a43ce45",
+    "text": ") UNABLE TO COMPUTE — MODULE SHOWS NO PENALTY IS DUE — explanatory (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "7ff04e1ee996d0f2ce1384cfb98cfa18",
+    "text": ") UNABLE TO COMPUTE — TOO MANY QUALIFYING TRANSACTIONS MODULE TO PROCESS — Self explanatory (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d7e668754d4cf023624b4b8089b0be1b",
+    "text": ") UNABLE TO COMPUTE — PROGRAM ERROR CODE XX — NOTIFY N.O. PROGRAMMER — Self Explanatory (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "5ac205b545b34542515daf1d22e0c9ec",
+    "text": ") UNABLE TO COMPUTE — ESTIMATED TAX BASE AMT ON RETURN RECORD IS ZERO — This usually indicates an old module prior to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d4ecb81cfedf98830a244d70c2bd2edd",
+    "text": "and the tax base amount was not extracted to the TIF. If the tax period is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "4b796687f46d0c3c62bff8a779404518",
+    "text": ", this would indicate bad data on the module and the Campus Control Staff should be notiﬁed. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "032004a493edda414804b81c5cd0cafb",
+    "text": ") UNABLE TO COMPUTE — BMF RETURN POSTED PRIOR TO CYCLE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "87b27b4ca042986b093525c36671149b",
+    "text": "— Necessary data for computation of estimated tax penalty is not available for extraction to the TIF from master ﬁle for returns posted prior to July,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e08d551bb998147308aa413b7eb93a0e",
+    "text": ") BMF ACCESS RESTRICTED — Employee is not authorized to access BMF accounts. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "1a4dd287ec46f37d1d6397b5579f5fc1",
+    "text": ") IMF ACCESS RESTRICTED — Employee is not authorized to access IMF accounts.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "dcdf7e3476d5b38628340e785b605921",
+    "text": "Exhibit 2.3.41-1 (01-01-2003) Command Code PIEST Input Request Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e4271d1d448610c247e159fee5cf4ea6",
+    "text": "1214357",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "99233efa0a892f65bae60aaaeab0cf8b",
+    "text": "Exhibit 2.3.41-2 (01-01-2003) Command Code PIEST Output Error Display",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "c6ef67c66612ef5928412665a3ed3572",
+    "text": "prerT",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "84636c9e69ff54b8d2557812d537cd78",
+    "text": "Exhibit 2.3.41-3 (01-01-2006) Command Code PIEST Output Explanation Display",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "84636c9e69ff54b8d2557812d537cd78",
+    "text": "Exhibit 2.3.41-3 (01-01-2006) Command Code PIEST Output Explanation Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "fecf9992d27e974d4467ebb8e44b02cc",
+    "text": "IlE24]TTYTT T Y PV CTR T S YT YT YT Y TR T TR YT T",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "fae4714c4f3b3d23b4e6b9dace2b5b07",
+    "text": "0323486769 01216 143012 145672302214",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "899c1dc19beb1e92363743067e1b3c94",
+    "text": "Amount ﬁelds are depicted in the above screen graph and following element speciﬁca- tions with z’s and 9’s. This represents suppression of leading zeros.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "6e86e399655ed7e8911cbb79c3825882",
+    "text": "Exhibit 2.3.41-3 (Cont. 1) (01-01-2006) Command Code PIEST Output Explanation Display",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "5e5fae4a0603d7975aaf78232bb3bd2f",
+    "text": "zzz,zzz,zz9.99",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "3bbadfb5406dfab7234d947918df7ff2",
+    "text": "Exhibit 2.3.41-3 (Cont. 2) (01-01-2006) Command Code PIEST Output Explanation",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "2928e63b05780379cec142a6bfbafdf1",
+    "text": "ELEMENTNUMBER LINE POS. ELEMENT NAME FORMAT 11 2 35–62 Literal PRIOR YEAR ESTAX BASE AMOUNT 12 2 65–78 PRIOR-YR-EST-BASE-AMT 13 3# 1–23 Literal AMT DUE 1ST INSTALLMENT 14 3 27–40 INSTAL-DUE-AMT 1 zzz,zzz,zz9.99 15 3 42 FARMER-FISHERMAN-DISPLAY-CD Blank or “F” 16 4## 1–23 Literal AMT DUE 2ND IN- STALLMENT 17 4## 27–40 INSTAL-DUE-AMT –2 zzz,zzz,zz9.99 17A 4### 47–63 Literal ‘LARGE CORPORA- TION’ 18 5## 1–23 Literal AMT DUE 3RD IN- STALLMENT 19 5## 27–40 INSTAL-DUE-AMT –3 zzz,zzz,zz9.99 20 6## 1–23 Literal AMT DUE 4th INSTALL- MENT 21 6## 27–40 INSTAL-DUE-AMT –4 zzz,zzz,zz9.99 20 6## 1–23 Literal AMT DUE 5th INSTALL- MENT 21 6## 27–40 INSTAL-DUE-AMT–5 zzz,zzz,zz9.99 22 7 1–10 Literal PMTS RECVD 23 7** 15–17***47–49*** TRANS-CD nnn 24 7** 20–27***52–59*** TRANS-DT mmddyyyy 25 7** 29–42***61–74*** TRANS-AMT zzz,zzz,zz9.99 26 8**** 1–12 Literal COMPUTATIONS 27 8**** 15–21 Literal FROM DT 28 8**** 24–28 Literal TO DT 29 8**** 32–46 Literal INSTALL BAL DUE",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "c4aee8d1e0307fca20063fdd6be52c3f",
+    "text": "AMT DUE 4th INSTALL- MENT",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "65c05692518cd4b5e0fe3a5229867394",
+    "text": "Exhibit 2.3.41-3 (Cont. 3) (01-01-2006) Command Code PIEST Output Explanation Display",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "9f6e8ae3c877156f5177b648427d1a87",
+    "text": "Code PIEST Output Explanation Display ELEMENTNUMBER LINE POS. ELEMENT NAME FORMAT 30 8**** 52–55 Literal RATE 31 8**** 67–73 Literal PENALTY 32 9**** 15–22 EST-TX-FROM-DT mmddyyyy or literal, see **** below 33 9**** 26–33 EST-TX-TO-DATE mmddyyyy or literal, see **** below 34 9**** 35–48 EST-TX-UNDERPAYMENT-AMT zzz,zzz,zz9.99 or literal, see **** below 35 9**** 53–62 EST-TX-PNLTY-RATE-FACTOR .nnnnnnnn or blank 36 9**** 65–78 EST-TX-PNLTY-FOR-TBL-ENTRY zzz,zzz,zz9.99 or blank 36A 15$ 15–39 Literal ‘4TH QUARTER EXCEPTION MET’ 37 16***** 30–42 Literal TOTAL PENALTY 38 16***** 52–65 PINEX-EST-TAX-PNLTY-AMT zzz,zzz,zz9.99 39 17****** 30–48 Literal MASTER FILE PEN AMT 40 17****** 52–65 TX176-177-NET-AMT zzz,zzz,zz9.99 15A 3 47–71 Literal PERCENTAGE OF FORGIVENESS 15B 3 73–74 EST-TX-FORGIVENESS-PERCENT nn 15C 3 75 Literal % 41 18+ 11–23 AMT-WAIVED-LIT “ AMOUNT WAIVED” 42 18+ 26–39 PINEX-EST-TAX-PNLTY-AMT-WAIVED zzz,zzz,zz9.99 43 18+ 42 Literal “=” 44 18+ 45–58 PINEX-EST-TAX-PNLTY-AMT zzz,zzz,zz9.99 45 18+ 61 Literal “X” 46 18+ 64–65 EST-TX-FORGIVENESS-PERCENT nn 47 18+ 66 Literal “%” 48 19++ 11–21 NET-PENALTY-LIT “ NET PENALTY” 49 19++ 26–39 PINEX-EST-TAX-NET-PNLTY-AMT zzz,zzz,zz9.99 50 19++ 42 Literal “(” 51 19++ 43–74 Literal “ TOTAL PENALTY LES AMOUNT WAIVED”",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3dfad2432589a3c385a35a93824c0986",
+    "text": "Exhibit 2.3.41-3 (Cont. 4) (01-01-2006) Command Code PIEST Output Explanation Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "fbe417be2075d1d4d55269191b55d09c",
+    "text": "screen. If FARMER-FISHERMAN-DISPLAY-CD is present, literal will read “INSTALLMENT AMT DUE”(Positions",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "7bbf2eca8f63f616895b0a46c55c4a65",
+    "text": ") because Farmer-Fisherman are only required to pay one installment for estimated tax.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "a9076c11a2b5fe37cc91cf2ef7a13528",
+    "text": "These elements will not be present if the FARMER-FISHERMAN-DISPLAY-CD, is signiﬁ- cant. All remaining lines will begin on line 4 (PMTS-RECVD, etc.).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "76269096eeadc95305640c4cfa618361",
+    "text": "Number of lines is dependent on volume of credits.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "f4df10c25f6f8bce9449f0fe9e09fc4b",
+    "text": "Presence of data is dependent on volume of credits.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "c07b0015d45de7c7009101a7c806c322",
+    "text": "Line number is dependent on the volume of items 13, 14 and 15 and number of compu- tations needed (minimum of 4 for IMF non-Farmer/Fisherman). If taxpayer meets an exception replace items 22 through 24 with the literal “vvv QUARTER EXCEPTION MET” where vvvv = 1ST, 2ND, 3RD or 4TH as appropriate for the quarter and blank out elements 25 and 26.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "ae88a75fa42b2b79029dd0d817cf00fa",
+    "text": "Floating line—display 2 lines below last computation line.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "ea86c23a6b2a3d8f73f75d7eaa52230e",
+    "text": "This value represents the net of all TC17X amounts computed by Master File. The literal and the amount will only appear if there is an ESCOMP MISMATCH screen.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "75b9177a2ab707d620b26213d9a279c9",
+    "text": "Floating line — display 2 lines below the total penalty line.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "ec9580c76584f8216dffc45133b70fcb",
+    "text": "Line 24 will contain system paging information if multiple screens are output.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "43940f6e593e21b4504e0ed80a12b819",
+    "text": "NOTE: Elements 15A–C, 31–42, and +, ++ were added temporarily due to the waiver regarding estimated tax penalty processing (due to new W–4 form).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-041--2023-01-19.pdf",
+      "page_number": 15
+    }
+  }
+]

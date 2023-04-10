@@ -1,0 +1,2027 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "442c01f0c1111317fc5c964b42e453e0",
+    "text": "This transmits revised Internal Revenue Manual (IRM) 2.5.5, System Development, Guidelines for Preparing Program Requirements Packages (PRPs).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "9cb80d7d59b7949e1ddfbd273cf915d7",
+    "text": "Effect on Document, Added IRM 2.5.5 dated 11-24-2020 is superseded",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "72114ee4074a9f4f92fb9fa758ae4f47",
+    "text": "2.5.5.4, Changed title from Program Requirement Package Responsibilities to Program Requirement Package Advantages",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "2b6253af485e156216ca79e5452a2b74",
+    "text": "Added Figure 2.5.5-1, Example of PRP",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "9fa5bd595417bb25347bc9d765b0ba3a",
+    "text": "Added Exhibit 2.5.5-1, Acronyms/Terms and included BEARS, Business Entitlement Access Request System",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "f3b17eebc2bb75dc8e2273b5c0f3ac37",
+    "text": "Added Exhibit 2.5.5-1, Acronyms/Terms and included BEARS, Business Entitlement Access Request",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "c08b25e5efb1e0e1a28a4e9ce1508b85",
+    "text": "Added Exhibit 2.5.5-2, Terms/Deﬁnitions and included “Business Entitlement Access Request System” and the description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "724cc9c0632abe82067fdbfc4c025d19",
+    "text": "IRM 2.5.5 dated 11-24-2020 is superseded, and supplements IRM 2.5.1 System Development.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1e40feedb6d8e174d473a369b3da23fd",
+    "text": "AUDIENCE",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "cd20f2b020de4d2ae01878c5523fc2b2",
+    "text": "The audience intended for this transmittal is personnel responsible for engineering, developing, or maintaining agency software systems identiﬁed in the Enterprise Architecture. This engineering, development, and maintenance include work performed by Information Technology government employees, and contractors supporting agency Information Technology contracts.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "da5ed353eaa5cd58335201e143d566f9",
+    "text": "Guidelines for Preparing Program Requirements Packages (PRPs)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "b01535085b830a839f5a846fffdc992e",
+    "text": "Program Scope and Objectives",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "78ec940908548d2c2bd051b0387231cc",
+    "text": "Guidelines for Preparing Program Requirements Packages (PRPs) 2.5.5",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8224e0f0106f36e5dcd2d57570ee4336",
+    "text": ") Scope : This manual dictates the responsibilities, and standard instructions preparing Program Requirement Packages (PRPs) for the data processing systems. These guidelines are limited to those activities involved in the prepa- ration, compilation, approval, coordination, and analysis of Program Requirements Packages. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e1ba5f669811e731943091964b336b7b",
+    "text": ") Purpose : The guidelines in this manual are limited to those activities involved in the preparation, compilation, approval, coordination, and analysis of PRPs. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6c39a1a38531f47afed760d332b71c9c",
+    "text": ") Audience : The primary users of this IRM are: IT Management, System Analysts, Developers, Engineers, and System Administrators maintaining agency software systems identiﬁed in the Enterprise Architecture. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1e83bf833bad1d20b66130a1165991f5",
+    "text": ") Policy Owner : The Chief Information Officer is the Policy Owner. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a8176502a76d074f8cb909b9b010b998",
+    "text": ") Program Owner : The Director, Technical Integration Office works in partner- ship with technical experts responsible for the administration, implementation of procedures, and updates related to the system Program Requirement Packages (PRPs) compliances. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b36c05ff1b10bf61da87f4e2febd79c6",
+    "text": ") Primary Stakeholders : The primary stakeholders are all government, and personnel working on government related contracts that use PRPs as a means for their current enterprise architecture. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e11ff84c02680046994a0782c0427f0d",
+    "text": ") Program Goals : The objective for this program is to ensure the appropriate procedures are accomplished during PRP process, and all stakeholders agree with the requirements. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1f91035de473e9b42230e4b1febc7803",
+    "text": ") Programming Requirement Packages are instructions deﬁning how speciﬁc processes will be executed for system applications, and is written by programmers/developers in a technical format. Normally the programmer/ developer must have: a. An extensive knowledge of Submission Processing procedures. b. A general knowledge of diverse IRS transactions for system type codes relevant to programming. c. Knowledge of how to process and gather all artifacts such as: ﬂowcharts, system production, and Program Requirements Packages. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "acf1a02da118556d10392cb18d54baae",
+    "text": ") A Program Requirements Package (PRP) refers to terminal input/output data speciﬁcations, related data processing criteria required for the development, and documentation of computer programs. (PRPs)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3660315a9af3df255d8f19ab077e4797",
+    "text": "page",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4b40c78ae368c93ff19ec794bf991204",
+    "text": "Purpose : The guidelines in this manual are limited to those activities involved in the preparation, compilation, approval, coordination, and analysis of PRPs.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "07118e8e1d94998b10289a2019b470f9",
+    "text": "a. An extensive knowledge of Submission Processing procedures. b. A general knowledge of diverse IRS transactions for system type codes relevant to programming. c. Knowledge of how to process and gather all artifacts such as: ﬂowcharts, system production, and Program Requirements Packages.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4307f09295c10b6f117e2a1a2cbe12ba",
+    "text": ") Treasury Inspector General Tax Administration (TIGTA) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4ea21fa1b82364d184df2c415449a213",
+    "text": ") Federal Information Security Modernization Act (FISMA) of (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "dbc26e2a52a3fa9481e8321ac6b5bcf8",
+    "text": ") Taxpayer First Act (TFA) legislation (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "759712b0c19638a8acbcaf419259cf69",
+    "text": ") Government Accountability Office (GAO)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3fdc207f9bc6a26c969877e8029116b2",
+    "text": "st Century Integrated Digital Experience Act (IDEA), December",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "b2c4a8ddd095504d89477cbb8fb089b6",
+    "text": ") Presidential American Technology Council,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "172c2d930732087cbc6ff656f9d3e4b6",
+    "text": ") Director of Office of Management and Budget (OMB) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "337373511e8817a63207c2da704f01ea",
+    "text": ") Secretary of Commerce for Modernization of Federal IT (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "2909ab6552aa5002836dbe7ab196b743",
+    "text": ") Federal Information Processing Standards (FIPS) Pub",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d6a47d52cb43eb86e19b365b23eb52da",
+    "text": ", Guidelines for Security of Computer Applications (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "472601d3bfbaaff99a646729498b3af1",
+    "text": ") Federal Information Processing Standards (FIPS)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "49543780c9b14fbb798f065170827bf2",
+    "text": ", Minimum Security Re- quirements for Federal Information and Information Systems, March",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ada5c40ebb0a74478e7fbbec0152d138",
+    "text": ") Clinger-Cohen Act (CCA)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5af9eec2d890429432b49d86c7d4fbbc",
+    "text": ", Title",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "23999441917f895eb17049dc158a95ce",
+    "text": ") Cybersecurity, Associate Chief Information Officer (ACIO) : The Cybersecu- rity ACIO reports directly to the Chief Information Officer (CIO); ensures the Service’s compliance with federal statutory, legislative and regulatory require- ments governing measures to assure the conﬁdentiality, integrity and availability of IRS electronic systems, services and data. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3a675e904a14e220edf443b4eeab1193",
+    "text": ") Director, Cybersecurity : Directs and oversees the IRS IT Security program accordance with the Federal Information Security Management Act (FISMA) with the goal of delivering effective and professional customer service to business units, and support functions within the IRS. These procedures are done as the following: a. Provide valid risk mitigated solutions to security inquisitions. b. Respond to incidents quickly, and effectively in order to eliminate risks/ threats. c. Ensure all IT security policies and procedures are actively developed, and updated. d. Provide security advice to IRS constituents, and proactively monitor IRS robust security program for any required modiﬁcations or enhancements. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "04d8dc11e95fddc5bb513397b7ec46b7",
+    "text": ") Enterprise Operations (EOps), Associate Chief Information Officer (ACIO) The Enterprise Operations (EOps) ACIO reports directly to the Chief Informa- tion Officer (CIO), and supports the mainframe and server environment by providing efficient, cost-effective, secure and highly reliable server and mainframe services for all IRS business entities and taxpayers. a. Director, Enterprise Server Division : Leads the management and support of mainframe technologies, and deﬁnes how an enterprise-wide data environment will organize, identify, share, reuse and correlate data. b. Director, Enterprise Operations (EOps), Data Management Services & Support (DMSS) : Directs and oversees reliable database and storage operations by pioneering improvements in data services. Other responsi- bilities are as follows: Plan, build, operate, and maintain the IRS’s data management technologies/processes(cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "97301e3c42ad92aeef0343aee1de1e8e",
+    "text": ")Ensurelevel",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6201111b83a0cb5b0922cb37cc442b9a",
+    "text": "and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "60f80b6b33c951d0f51b0fd2cb8179a0",
+    "text": "support is administered to address customer database requirements (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5139f346a817c82540bea47d8c3f3942",
+    "text": ") Enterprise Services, Associate Chief Information Officer (ACIO) : The En- terprise Services, Associate Chief Information Officer (ACIO) reports directly the Chief Information Officer (CIO), and is responsible for strengthening tech-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f96747c3542394248a841f09315b3547",
+    "text": "Systems Development Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "459e96b79ef9cd4de47c2fac6b116b82",
+    "text": "M (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "55e41916be91aca2966d0db044f2ad9a",
+    "text": ") Any line marked with",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e72833c4d4ab54f03e5109ae1333479a",
+    "text": "21st Century Integrated Digital Experience Act (IDEA), December 2018",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "51c8de3757316e8d423552b43cdd8d45",
+    "text": "Federal Information Processing Standards (FIPS) 200, Minimum Security Re- quirements for Federal Information and Information Systems, March 2006",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d3cfa93a3ff6297351be275df764a88f",
+    "text": "business units, and support functions within the IRS. These procedures are done as the following: a. Provide valid risk mitigated solutions to security inquisitions. b. Respond to incidents quickly, and effectively in order to eliminate risks/ threats. c. Ensure all IT security policies and procedures are actively developed, and updated. d. Provide security advice to IRS constituents, and proactively monitor IRS robust security program for any required modiﬁcations or enhancements. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "04d8dc11e95fddc5bb513397b7ec46b7",
+    "text": ") Enterprise Operations (EOps), Associate Chief Information Officer (ACIO) The Enterprise Operations (EOps) ACIO reports directly to the Chief Informa- tion Officer (CIO), and supports the mainframe and server environment by providing efficient, cost-effective, secure and highly reliable server and mainframe services for all IRS business entities and taxpayers. a. Director, Enterprise Server Division : Leads the management and support of mainframe technologies, and deﬁnes how an enterprise-wide data environment will organize, identify, share, reuse and correlate data. b. Director, Enterprise Operations (EOps), Data Management Services & Support (DMSS) : Directs and oversees reliable database and storage operations by pioneering improvements in data services. Other responsi- bilities are as follows: Plan, build, operate, and maintain the IRS’s data management technologies/processes(cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "97301e3c42ad92aeef0343aee1de1e8e",
+    "text": ")Ensurelevel",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6201111b83a0cb5b0922cb37cc442b9a",
+    "text": "and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "60f80b6b33c951d0f51b0fd2cb8179a0",
+    "text": "support is administered to address customer database requirements (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6db56355f2a748b8d133364f6c9d0cea",
+    "text": ") Enterprise Services, Associate Chief Information Officer (ACIO) : The En-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c606bfbd1f82c2dbeef14640184b2517",
+    "text": "a. Provide valid risk mitigated solutions to security inquisitions. b. Respond to incidents quickly, and effectively in order to eliminate risks/ threats. c. Ensure all IT security policies and procedures are actively developed, and updated. d. Provide security advice to IRS constituents, and proactively monitor IRS robust security program for any required modiﬁcations or enhancements.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ed97078600eea1870326bad519c008d9",
+    "text": "a. Director, Enterprise Server Division : Leads the management and support of mainframe technologies, and deﬁnes how an enterprise-wide data environment will organize, identify, share, reuse and correlate data. b. Director, Enterprise Operations (EOps), Data Management Services & Support (DMSS) : Directs and oversees reliable database and storage operations by pioneering improvements in data services. Other responsi- bilities are as follows: Plan, build, operate, and maintain the IRS’s data management technologies/processes(cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "97301e3c42ad92aeef0343aee1de1e8e",
+    "text": ")Ensurelevel",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6201111b83a0cb5b0922cb37cc442b9a",
+    "text": "and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "2866c5540ede85b823098d1b760f4b2f",
+    "text": "support is administered to address customer database requirements",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "78ec940908548d2c2bd051b0387231cc",
+    "text": "Guidelines for Preparing Program Requirements Packages (PRPs) 2.5.5",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b817e5388a65eb8ac8641f65fd9a90b7",
+    "text": "Applications Development (AD) : AD is responsible for building, testing, deliv",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "375db3454bef5c6ca89b2d3141dab740",
+    "text": "ering, and maintaining integrated information applications systems, e.g., software solutions, to support modernized systems and production environment to achieve the mission and objectives of the Service. Additional, AD is respon",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "84d26a0965a39422aded954a0740734d",
+    "text": "sible for the following:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2859b4b7c8c434cc9c1019b33469b6f9",
+    "text": "software solutions, to support modernized systems and production environment to achieve the mission and objectives of the Service. Additional, AD is respon",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ddc013cd3bb0c6efeeb47ff96f94f7a9",
+    "text": "sible for the following: a. AD works in partnership with customers to improve the quality, and deliver changes to IRS information systems products and services. b. Establishes and maintains rigorous contract and ﬁscal management, oversight, quality assurance, and program risk management processes ensure that strategic plans and priorities are being met. c. Maintains the effectiveness and enhance the integration of IRS installed base production systems and infrastructure while modernizing core business systems and infrastructure. d. Provides quality assessment/assurance of deliverables and processes. Application Development’s chain of command is the following: a. Commissioner : Oversees and provides overall strategic direction for the IRS. The Commissioner’s and Deputy Commissioner’s main focus is for the IRS’s services programs, enforcement, operations support, and orga",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "0c2853336856af765874dfc5aa8a376d",
+    "text": "nizations. Additionally, the Commissioner’s vision is to enhance services for the nation’s taxpayers, balancing appropriate enforcement of the nation’s tax laws while respecting taxpayers’ rights. b. Deputy Commissioner, Operation Support (DCOS) : Oversees the op",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "68a1c623fdb779b15554d8894c4fbac7",
+    "text": "erations of Agency",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "22e94b5075450bd5d0de8079b8b81ce7",
+    "text": "Wide Shared Services: Chief Financial Officer, Human Capital Office, Information Technology, Planning Programming and Audit Oversight and Privacy, and Governmental Liaison and Disclosure. c. Chief Information Officer (CIO) : The CIO leads Information Technology, and advises the Commissioner on Information Technology matters, manages all IRS IT resources, and is responsible for delivering and main",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f6eb34aa8c483a01c724a72b1648c106",
+    "text": "taining modernized information systems throughout the IRS. Assisting the Chief Technology Officer (CTO) is the Deputy Chief Information Officer for Operations. d. Application Development (AD) Associate Chief Information Officer (ACIO) : The AD ACIO reports directly to the CIO; oversees and ensures the quality of: building, unit testing, delivering, and maintaining integrated enterprise",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "16a89d56aa07dbf5642412dfbc416b8a",
+    "text": "wide applications systems to support modernized and legacy systems in the production environment to achieve the mission of the Service. e. Deputy AD Associate CIO (ACIO) : The Deputy AD ACIO reports directly to the AD ACIO, and is responsible for: Leading all strategic priorities to enable the AD Vision, IT Technology Roadmap and the IRS future state Executive planning, and management of the development organization which ensures all ﬁling season programs are developed, tested, and delivered on",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "8012340d09b889a93bef50241c195aa6",
+    "text": "time and within budget",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "28c539621353ed8e3eb9f2749942ebf8",
+    "text": "AD works in partnership with customers to improve the quality, and deliver changes to IRS information systems products and services. Establishes and maintains rigorous contract and ﬁscal management, oversight, quality assurance, and program risk management processes to ensure that strategic plans and priorities are being met. Maintains the effectiveness and enhance the integration of IRS installed base production systems and infrastructure while modernizing core business systems and infrastructure. Provides quality assessment/assurance of deliverables and processes.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "66945d1f8e6a88886e3729579dbd8627",
+    "text": "Application Development’s chain of command is the following:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "cd0f44ba9ed34d0e920a0166aad4bd45",
+    "text": "a. Compliance Domain b. Corporate Data Domain c. Customer Service Domain d. Data Delivery Service (DDS) Domain e. Delivery Management; Quality Assurance (DMQA) Domain f. Identity & Access Management (IAM) Organization Domain g. Internal Management Domain h. Submission Processing Domain i. Technical Integration Organization (TIO) Domain (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "842dc28cce986837e548ce487af1f51d",
+    "text": ") Director, Compliance : Provides executive direction for a wide suite of ance domain focused applications, and oversee the IT Software Development organization to ensure the quality of production ready applications. a. Directs and oversees a uniﬁed cross-divisional approach to compliance strategies needing collaboration pertaining for the following: • Abusive tax avoidance transactions needing a coordinated response • Cross-divisional technical issues • Emerging issues • Service-wide operational procedures (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8d79daca5bdd00f76d025fd72d5638dc",
+    "text": ") Director, AD Corporate Data : Directs and oversees the provisioning of au- thoritative databases, refund identiﬁcation, notice generation, and reporting. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "147062ee146ed3ed258bfaa2209e73b2",
+    "text": ") Director, Customer Service : Directs and oversees Customer Service for service and communication with internal and external customers and providing taxpayers with self-service online capabilities. a. Customer Service Domain’s applications and systems provide: Tax law assistance Taxpayer education Access to taxpayer account data Maintenance of modernized information systems that meet the cus- tomer’s needs for researching, updating, analyzing, and managing taxpayer accounts b. Services to internal and external customers are provided through ﬁve primary means: Centralized Contact Centers (for telephone, written, and electronic inquiries) Self-service applications (via the telephone and Internet) Field Assistance (for walk-in assistance) Web Services Management of Taxpayer Accounts (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3db76770f895cc37a0f3a00983c461a3",
+    "text": ") Director, Data Delivery Services : Oversees and ensures the quality of data with repeatable processes in a scalable environment. The Enterprise Data Strategy is to transform DDS into a data centric organization dedicated to deliver Data as a Service (Da",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "644fb473a6e5d3a605733b2b3bdda864",
+    "text": ") through: • Innovation - new methods, discoveries • Renovation - streamline or automate • Motivation - incent and enable individuals (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "033c0b4a63f6333a5fd41a85bb1215f5",
+    "text": ") Director, Delivery Management & Quality Assurance (DMQA) :",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f96747c3542394248a841f09315b3547",
+    "text": "Systems Development Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "459e96b79ef9cd4de47c2fac6b116b82",
+    "text": "M (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "98e0b0ab8828cf80d639fce74c91bf79",
+    "text": "Directs and oversees a uniﬁed cross-divisional approach to compliance strategies needing collaboration pertaining for the following:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "c531a32daef905c559f1a83dc3389e4d",
+    "text": "Director, AD Corporate Data : Directs and oversees the provisioning of au- thoritative databases, refund identiﬁcation, notice generation, and reporting.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "c739adc192f214687c8c5e9f9b38a5f0",
+    "text": "a. Customer Service Domain’s applications and systems provide: Tax law assistance Taxpayer education Access to taxpayer account data Maintenance of modernized information systems that meet the cus- tomer’s needs for researching, updating, analyzing, and managing taxpayer accounts b. Services to internal and external customers are provided through ﬁve primary means: Centralized Contact Centers (for telephone, written, and electronic inquiries) Self-service applications (via the telephone and Internet) Field Assistance (for walk-in assistance) Web Services Management of Taxpayer Accounts Director, Data Delivery Services : Oversees and ensures the quality of with repeatable processes in a scalable environment. The Enterprise Data Strategy is to transform DDS into a data centric organization dedicated to deliver Data as a Service (Da",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "df366940a7105f7c814ea5120100f4bc",
+    "text": ") through: • Innovation - new methods, discoveries • Renovation - streamline or automate • Motivation - incent and enable individuals Director, Delivery Management & Quality Assurance (DMQA) :",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "78ec940908548d2c2bd051b0387231cc",
+    "text": "Guidelines for Preparing Program Requirements Packages (PRPs) 2.5.5",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "ae0768d0e1659c5fd249c386e0adc09b",
+    "text": "• Executes the mission of DMQA by ensuring AD has a coordinated, cross-domain, and cross-organizational approach to delivering AD systems and software applications • Reports to the AD ACIO, and chairs the AD Risk Review Board • Chairperson, Conﬁguration Control Board • Government Sponsor, Conﬁguration Control Board, see IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "24e2207f919782bae6a393a74d32ed57",
+    "text": "System Development • For additional information concerning AD roles, see IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "0f38e71051bb08630d156e29ec5f8034",
+    "text": "System Development (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "bcafca5f2651b42244b110e94e4477c2",
+    "text": ") Director, Identity & Access Management (IAM) Organization : Provides oversight and direction for continual secure online interaction by veriﬁcation and establishing an individual’s identity before providing access to taxpayer information “identity prooﬁng” while staying compliant within federal security requirements. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "57a047653746889fe25b447deb0a7892",
+    "text": ") Director, Internal Management : Provides oversight for the builds, tests, eries, refund identiﬁcation, notice generation, and reporting. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "160f7183c2d7b286745debf58844adbf",
+    "text": ") Director, Submission Processing : Provides oversight to an organization of over",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "65c08702c37d9e99e45444f03947fd3b",
+    "text": "employees, comprised of: a headquarters staff responsible for veloping program policies and procedures, ﬁve W&I processing centers, and seven commercially operated lockbox banks. Responsible for the processing more than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8a4942bb9949902e0c8af2d2467101e2",
+    "text": "million individual and business tax returns through both elec- tronic and paper methods. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3b8e9e7f1771564c45fcc61be46ab7d1",
+    "text": ") Director, Technical Integration Organization : Provides strategic technical organization oversight ensuring applicable guidance, collaboration, consolida- tion of technical integration issues, and quality assurance for the Applications Development portfolio. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "5af0e6685b59aea27125322733f13567",
+    "text": ") Program Reports : IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "09b2806cb856ae07ee545ffcf66d0715",
+    "text": "Submission Processing, Work Planning and Control, Reports Team Instructions for Work Planning and Control, which is used in conjunction with IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8316df5738129fbea6b401e3d357e150",
+    "text": "Submission Processing, Work Planning and Control, Production Control and Performance Reporting. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "63fe3ac0368d96e2cd8d8dc64a39dfe5",
+    "text": ") Program Effectiveness : Managerial Reviews, and the Embedded Quality Submission Processing (EQSP) are tools and agency strategies for meeting performance outcomes such as elimination of redundancy, improving the quality of Master ﬁles. (PRPs)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3660315a9af3df255d8f19ab077e4797",
+    "text": "page",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "6aa343858a355e8987bfecd431629eb6",
+    "text": "Executes the mission of DMQA by ensuring AD has a coordinated, cross-domain, and cross-organizational approach to delivering AD systems and software applications Reports to the AD ACIO, and chairs the AD Risk Review Board Chairperson, Conﬁguration Control Board Government Sponsor, Conﬁguration Control Board, see IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "9ec608eb816e8e3b9c240ff7265dc93a",
+    "text": "System Development For additional information concerning AD roles, see IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "23decceb583eaaf8159df7222180799c",
+    "text": "System Development",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "febbcb2ff16de25bf3c200f9338a6521",
+    "text": "Director, Internal Management : Provides oversight for the builds, tests, deliv- eries, refund identiﬁcation, notice generation, and reporting.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "49813cf4465197447639b49da9f01655",
+    "text": ") NIST SP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "1fc5fdcf12723108e9786faf5fbf11a3",
+    "text": "Rev",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "022c8b6969ed9c64f684107923cba32a",
+    "text": "Data Engineering, Naming Data Element(s)/Objects(s) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0351deb26d7c69f7ed1359d0e31a725b",
+    "text": "Information Technology, System Development Note: This IRM establishes the Information Technology, System Development program for the IRS (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3896496237b1d794c79f3a6f99113eb0",
+    "text": "Business Planning and Risk Management, Uniﬁed Work Request (UWR) Process (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "905efb088edc517ecb43b95c69a73a56",
+    "text": "Campus Document Services, Individual Master File (IMF) Control Unpostables (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "ec8f16d8f1e3e432d070a924aaf87898",
+    "text": "Submission Processing, Work Planning and Control, Reports Team Instructions for Work Planning and Control (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "1f548c1bd12e577d67020d25acec3020",
+    "text": "Submission Processing, Work Planning and Control, Production Control and Performance Reporting",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3896496237b1d794c79f3a6f99113eb0",
+    "text": "Business Planning and Risk Management, Uniﬁed Work Request (UWR) Process (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "cee7e434b8aa4dd023f11c0928740ad0",
+    "text": "Campus Document Services, Individual Master File (IMF) Entity Control Unpostables (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "ec8f16d8f1e3e432d070a924aaf87898",
+    "text": "Submission Processing, Work Planning and Control, Reports Team Instructions for Work Planning and Control (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "1f548c1bd12e577d67020d25acec3020",
+    "text": "Submission Processing, Work Planning and Control, Production Control and Performance Reporting",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3f82f5a1b91bf6e9ffaa697fb31dd103",
+    "text": "Security, Policy and Guidance (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "22a4ff08c04e49e4d6a7c82b8864025a",
+    "text": "Security, Privacy and Assurance, Privacy and Information Protec- tion",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "24b1843280e76748712a0f19b724a02e",
+    "text": "a. Keeps track of all modules of software project or program. b. Maintenance is normally easier. c. Programmers other than the key developer can understand all aspects of software. d. Improves the overall quality of the work product. e. Ensures knowledge is decentralized, and minimizes the learning effort if seasoned personnel leave the job quickly. The responsible personnel for updating, maintaining, and tracking the PRPs",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "e55b79a8e3327b59254eed52c41cf245",
+    "text": "The responsible personnel for updating, maintaining, and tracking the PRPs are the System Analyst, System Developer and DMQA for Product Assurance.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "78ec940908548d2c2bd051b0387231cc",
+    "text": "Guidelines for Preparing Program Requirements Packages (PRPs) 2.5.5",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "e1f077ce091677e0f5bedb4eb7407f4c",
+    "text": "Management & Assurance Program Office (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "476c74db878801e946ce833b7d1e8380",
+    "text": ") DMQA supports the delivery of high-quality services by assuring the product adhere to the standards of organizational policies, and customer expectation. For more information see, IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "2ee0119b3c0fc292cefe2c091535c9ec",
+    "text": "System Development, Quality Assurance (QA).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "4d6eb408a08a16d28f4373161e44b460",
+    "text": "### ########",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "ea26779eb86e538b4cff97ac5d590966",
+    "text": "2.5.5.3.2(12-16-2021) PRP Page Number",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "87023a5fa5de2cb85f36fd1ae968f3ee",
+    "text": "2.5.5.3.3(12-16-2021) PRP Subsections",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "78ec940908548d2c2bd051b0387231cc",
+    "text": "Guidelines for Preparing Program Requirements Packages (PRPs) 2.5.5",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d24a1f1dea7075251962a9f97035a46f",
+    "text": "2.5.5.3.3.2(12-16-2021) Subsection 01 2.5.5.3.3.3(12-16-2021) Subsection 02 Guidelines for Preparing Program Requirements Packages (PRPs) 2.5.5 page 9 ##### ###### # # ## #### ######### ####### ######## ####### ## # # ## ### ###### Cat. No. 30743M (12-16-2021) Internal Revenue Manual 2.5.5.3.3.3",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "195ed2f69b4ad0793438a54b60b50a5d",
+    "text": "2.5.5.3.3.2(12-16-2021) Subsection 01",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "28fe27039d08cd2da50351c826fa81eb",
+    "text": "Subsection 01 2.5.5.3.3.3(12-16-2021) Subsection 02 ######### ####### ######## ####### ## # # ## ### ######",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "c5560e96c63bc21b9c8c2fa8c90a74d9",
+    "text": "2.5.5.3.3.3(12-16-2021) Subsection 02",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d442f6f2964432a592c1271530c1f2c4",
+    "text": "2.5.5.3.3.4(12-16-2021) Subsection 03",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "f21d601cbd064c761d40f733606f203e",
+    "text": "2.5.5.5(12-16-2021) Record Element Speciﬁcations",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "1eda2ee8cf77323a7eb88e5a586a9cf9",
+    "text": "2.5.5.5.2 (12-16-2021) Record Element Name",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "2d888bc793c6997eae3e8cb10c9a41e9",
+    "text": "2.5.5.5.3(12-16-2021) Abbreviation",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "78ec940908548d2c2bd051b0387231cc",
+    "text": "Guidelines for Preparing Program Requirements Packages (PRPs) 2.5.5",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "91ea05b875d0d6d26a344670feae8b51",
+    "text": "2.5.5.5.8(12-16-2021) Valid Range of Codes or Values",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "8ecb864cbc53dc605fe6409fd2a0ad7d",
+    "text": "2.5.5.6.2(12-16-2021) PRP - Other Rules",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "78ec940908548d2c2bd051b0387231cc",
+    "text": "Guidelines for Preparing Program Requirements Packages (PRPs) 2.5.5",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "7963f12f3c96957964090b1a733b6f07",
+    "text": "Acronyms Terms ACIO Coordinator Acting Chief Information Officer Coordinator BEARS Business Entitlement Access Request System (BEARS) BMF Business Master File BPRM Business Planning and Risk Management CRL Core Record Layout EDSG Enterprise Data Standard and Guidelines EO Exempt Organization EPMF Employee Plan Master File FISMA Federal Information Security Modernization Act FOIA Freedom of Information Act GAO Government Accountability Office IDEA Integrated Digital Experience Act IRAF Individual Retirement Account Master File IMF Individual Master File ISRP Integrated Submission and Remittance Processing ITIL Information Technology Infrastructure Library PoRa Portfolio Rationalization PRP Program Requirement Package RES Record Element Speciﬁcation TFA Taxpayer First Act NMF Non-Master File UNS User & Network Services WRMS Work Request Management System",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "57931fe80b6100d11326fdb3fca66531",
+    "text": "Represents a number of systems such as Business Master File Pre- Posting (BMF PRE-POSTING), Business Master File Posting and Analysis (BMF ANALYSIS), BMF Discriminant Function Inventory (BMF DIF INV), Business Master File On-Line (BMFOL), Exempt Or- ganizations Extracts (EXMPTORG), Business Master File Reports (BMF REPORTS), and Business Master File Outputs (BMF OUTPUTS). You can ﬁnd these systems within the Business Account Processing Application Area.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "6fdda6d38a969ddc4b2d0ae508271e8c",
+    "text": "Represents a number of systems such as Business Master File Pre",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "01188919c80e5649fa4c502e72d3b755",
+    "text": "Posting (BMF PRE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "3f340876e5e545cf6c104134a1907ba9",
+    "text": "POSTING), Business Master File Posting and Analysis (BMF ANALYSIS), BMF Discriminant Function Inventory (BMF DIF INV), Business Master File On",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "949f891ae0b7dd1be973ebacf4e09e0d",
+    "text": "Line (BMFOL), Exempt Or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "862d3bcc0059161d72775eb06c9cc1b9",
+    "text": "ganizations Extracts (EXMPTORG), Business Master File Reports (BMF REPORTS), and Business Master File Outputs (BMF OUTPUTS). You can ﬁnd these systems within the Business Account Processing Application Area.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "cc86131904b5b3ecc42fed92808e8f54",
+    "text": "Mark-up that dictates how primary record information is displayed",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "3d2325786a876e53c3da0628d95dd7a7",
+    "text": "BPRM supports IRS IT through demand and risk management, managing Enterprise Intake and leveraging the Integrated Release Plan and other repeatable processes to support risk-based decisions. As IT investments are put into play with intended outcomes, these variables are shared with the Investment and Portfolio Management and Oversight Division. BPRM also provides Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "bd78d04fc68f4fa6a7647759c538f7f7",
+    "text": "Compliance and Accessibility, re- quirements engineering, audit oversight, and Enterprise Life Cycle support across a diverse range of IT initiatives. This group shares demand and risk factor data and processes across IT, and speciﬁ- cally integrates demand processes and data.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "5a1e72fc5a9544a9b1ce9fc652c00511",
+    "text": "Enterprise Services, Solution Engineering Division, Data Engineering Branch is responsible for Data Governance of Naming and Design Rules and implementation, Strategic Planning and Alignment, Quality Management, Architecture Management and Transparency Manage- ment.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "ed8c7c46543bd1e0adb9fa5cfeb7688b",
+    "text": "DocIT is a web-based electronic document management system powered by the enterprise standard tool Documentum. DocIT is the replacement system for Hummingbird DM, which was retired and shut down on February 29, 2008. The tool provides documentation control for IT projects. DocIT manages over half a million internal project documents within the IRS for over 4,000 customers. The system is administered by the Server Support and Services Division (SSSD) within Enterprise Operations (EOps).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "30094e0bec0046da8f925ebda9575f3d",
+    "text": "Do",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "c09614292b11c146e0d999e6dd384ab6",
+    "text": "T is a web-based electronic document management system powered by the enterprise standard tool Documentum. Do",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "e92b9d72c1f2fc1035b66db2b3e85a40",
+    "text": "T is the replacement system for Hummingbird DM, which was retired and shut down on February",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "38fa64f006df9828494995d3b09260b1",
+    "text": "The tool provides documentation control for IT projects. Do",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "54234a978d270c5f4293088fe9bdb448",
+    "text": "T manages over half a million internal project documents within the IRS for over",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "3731bb95aa3e0d79f184072813a0b904",
+    "text": "customers. The system is administered by the Server Support and Services Division (SSSD) within Enterprise Operations (EOps).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "78ec940908548d2c2bd051b0387231cc",
+    "text": "Guidelines for Preparing Program Requirements Packages (PRPs) 2.5.5",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "61e10c60eb36eb69fae22d627d86c901",
+    "text": "Exhibit 2.5.5-2 (Cont. 1) (12-16-2021) Terms/Deﬁnitions",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "7ea80c4936807472df506f88e9f1e1b5",
+    "text": "EDSG is the framework for development and modiﬁcation of the names, deﬁnitions and other metadata for classes, attributes, and data models. In addition to prescribing format, data standards also establish a required level for the correctness, consistency, and com",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "36903d24ee921b131cfc12778649b070",
+    "text": "pleteness of these Data Element(s)/Objects. Guidelines are recommendations and instructions for the successful implementation of enterprise data standards. Data standards and guidelines are followed any time a Data Element(s)/Object(s) is/are created or modiﬁed. Multiple data standards and guidelines apply at the same time for a particular Data Element(s)/Object(s).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "86318ad812610a46e8341163079c9d77",
+    "text": "Represents a number of systems such as: Employee Plans Master File Extracts & Reports (EPMF EXTRACTS), Employee Plans Master File On-Line (EMFOL, EPMFOL), Employee Plans Master File Outputs (EPMF OUTPUTS), Employee Plans Master File Posting and Analysis (EPMF ANALYSIS), and Employee Plans Master File Pre-Posting (EPMF PRE-POSTING, EPMF INPUTS).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "9190d8fd502c3dff61bccb07bec0dc2c",
+    "text": "The General Accounting Office (GAO) is responsible for establishing Statewide accounting policies and procedures, managing the Arizona Financial Information System (AFIS), administering the Statewide Payroll through the Human Resources Information Solution (HRIS), preparing the Statewide Financial Reports, and providing technical assistance and other management advisory services.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "322c1c2a34d2c03bcc4fbe1cfe324f9b",
+    "text": "The IT Infrastructure Library (ITIL) is a library of volumes describing a framework of best practices for delivering IT services.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "4145c7dbde04b7a18a9f33f91b7ce662",
+    "text": "The Integrated Submission and Remittance Processing (ISRP) System transcribes and formats data from paper returns/documents/ vouchers for input into the Generalized Mainline Framework (GMF) and other systems by key entry operators. It also captures check images for archiving. Transaction Management System (TMS) is a COTS product that is an integral part of ISRP.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "150c7d186bfd7f218e319da4e4781b04",
+    "text": "Portfolio Rationalization (PoRa) is an IT Applications Development (AD) effort managed by the Technical Integration Organization (TIO) branch’s Technical Advisory group (TAG). The objective of PoRa is to reduce AD’s application footprint by helping identify, plan, execute and report opportunities which reduce legacy source code, consoli- date functionality, modernize technologies and support AD priorities.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "11b8341f79c253cc150621b2b6329c55",
+    "text": "UNS supplies and maintains all deskside technology, provides work- station software standardization and security management, inventories data-processing equipment, and conducts annual certiﬁ- cation of assets. UNS also provides an IT Service Desk as the single point of contact for reporting IT issues.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "4770e2c58a307744bae172dd6b88f380",
+    "text": "This process focuses on collecting requests for IT products and services from IT into a single ﬂexible system using a common set of processes and procedures. BPRM is responsible for the oversight of the IRS IT demand management program and the UWR process. The primary goal of the program is to register all demand for IT products and services, and provide transparency for data driven decision making for resource commitments. This includes collecting all related detailed business requirements to enable IT suppliers to properly review, assign, analyze, and respond (approve/deny) to the request. The IT supplier will also cost and schedule for the imple- mentation and/or delivery of any agreed upon IT products or services.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "78ec940908548d2c2bd051b0387231cc",
+    "text": "Guidelines for Preparing Program Requirements Packages (PRPs) 2.5.5",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "9fbe0cedaf19167d2f0f66f590b93c71",
+    "text": "Exhibit 2.5.5-3 (12-16-2021) Application Systems Using PRPs",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "ccf7c062ae55cd75a408c005f532b7a3",
+    "text": "##### ### ##### ##### ## # # #### ### #### ### ### #### #### ##### #### ### #### ##### #### ##### ###",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "c6cc1d0e58c9ef197196d2b2fb6373e9",
+    "text": "#### ##### #### ### #### ## # # #### #### #### ### #### #### ##### ### #### ### ### #### ##### ### ### ###",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "78ec940908548d2c2bd051b0387231cc",
+    "text": "Guidelines for Preparing Program Requirements Packages (PRPs) 2.5.5",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "1bf9a8ebb1ce043e5d308d5b71de456b",
+    "text": "Exhibit 2.5.5-3 (Cont. 2) (12-16-2021) Application Systems Using PRPs",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "54063a90265425c81ab883f576f425d7",
+    "text": "#### #### #### ### #### ### #### #### #### #### #### ##### #### ### ### #### #### #### #### ####",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "78ec940908548d2c2bd051b0387231cc",
+    "text": "Guidelines for Preparing Program Requirements Packages (PRPs) 2.5.5",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "10e73de91bbb62e6a13790646ba8eb7f",
+    "text": "Exhibit 2.5.5-3 (Cont. 4) (12-16-2021) Application Systems Using PRPs",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "10e73de91bbb62e6a13790646ba8eb7f",
+    "text": "Exhibit 2.5.5-3 (Cont. 4) (12-16-2021) Application Systems Using PRPs",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "78ec940908548d2c2bd051b0387231cc",
+    "text": "Guidelines for Preparing Program Requirements Packages (PRPs) 2.5.5",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "7ed65f80f3f7837044acdb7e22e9299d",
+    "text": "Exhibit 2.5.5-3 (Cont. 6) (12-16-2021) Application Systems Using PRPs",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "64de86ebfca99c4b685ffaaf520eec8a",
+    "text": "Application Systems Using PRPs #### #### ##### #### ## # # #### #### #### #### #### ### ### #### ## # # ### ### ### ### #### ##### ####",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "78ec940908548d2c2bd051b0387231cc",
+    "text": "Guidelines for Preparing Program Requirements Packages (PRPs) 2.5.5",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "8b725830203f7b9416f540967bb24388",
+    "text": "Exhibit 2.5.5-3 (Cont. 8) (12-16-2021) Application Systems Using PRPs",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "8bf88a44b698b4c7c365e0a97b2472fa",
+    "text": "Application Systems Using PRPs #### #### #### #### ## ## # #### #### ### ### ###",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-005-005--2021-12-16.pdf",
+      "page_number": 29
+    }
+  }
+]

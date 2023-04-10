@@ -1,0 +1,3260 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "48d8ff19f5029db7d30ec58a24f216bd",
+    "text": "This IRM has been revised to comply with the updated",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1e04ac4271e26a0d03a06b174aeb7b1f",
+    "text": "LMSB, SB/SE, TE/GE, W&I.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "9b278aec351ca78c0e729f2c590668fa",
+    "text": "MFREQ and RECON",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4652702cd94916d0a77076fc3ca60e6b",
+    "text": ") Overview This IRM section provides an overview of procedures for MFREQ and RECON command codes. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "87e7310a55918e478405dff968ad3a75",
+    "text": ") Use command code MFREQ with DEFINERS “C” or “D” or RECON to an entity module or a tax module and its related entity data when case is not required. These command codes are not valid for non-Master File accounts. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "25a2361f0a1a25218fe6a9ffba428e7a",
+    "text": "for input instructions. a. MFREQ with DEFINER “D” will bring the module data from Master File IDRS approximately two weeks from the time of the request. b. MFREQ with DEFINER “C” will download the module data from CFOL IDRS while the user is waiting online. The real module must not be on the IDRS database (TIF). The module will be extracted to the TIF via the Weekly TIF Update routines approximately two weeks after the request. c. The RECON command code will download the module data from to IDRS while the user is waiting online only when the module on the CFOL has an update in a cycle later than the last extract cycle of the module on IDRS. A real module must already exist on IDRS. The will be extracted from Master ﬁle to the TIF again via the Weekly TIF Update batch routines approximately two weeks after the request is d. Files that can be accessed include IMF, BMF, and EPMF. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1ba8a39871702fca6f84a876a07823e0",
+    "text": ") Use Command Code ACTON to request Master File Data when an entity and/or tax module needs to be established on the TIF and also needs to be controlled. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "49c6bb7fbb9306c26a6900b27650d574",
+    "text": "for ACTON input instructions. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "cfa259326d5af3f0ed28ea0e67153fe1",
+    "text": ") ACTON generates a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "33b9fbd0f41e463c6d25b84c1beec74d",
+    "text": "only when establishing a dummy entity or tax module on the TIF or when updating the name control on a dummy entity. If the requested entity and/or tax module is already present on the TIF and a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5c40ec9cff7586bebbd83bac1f23e863",
+    "text": "must be generated, use MFREQ or RECON, which generates a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "bdd8173d589a2a9396a84772cf93a57f",
+    "text": "for every accepted input. This characteristic provides a means of obtaining IMF, BMF, or EPMF update records in the event a previous update to IDRS contains incorrect or missing information. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d9576894a1858caaa70f07f4209bbc84",
+    "text": ") Other Command Codes generate TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9daec300e2d40e5adbc4cd17fec14d83",
+    "text": "’s under certain circumstances. of these Command Codes are ENREQ, EOREQ, FRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e54a84b172b88c4ebeb81ed5cfbb6793",
+    "text": ", and FRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8cce37117f99c7ed9ad6b55913d7fc4b",
+    "text": ") Purpose This IRM section provides instructions for inputting MFREQC, MFREQD and RECON requests. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6789182c615debf4f25775eefda513cf",
+    "text": ") Audience These procedures apply to IRS employees designated to CFOL taxpayer modules to IDRS for the following Business Operating Divisions: LB&I, SB/SE, TE/GE, W&I. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "04c8868d3a020517dcdd36661c6206c0",
+    "text": ") Policy Owner The Chief Information Officer (CIO) is responsible for ing all aspects of our systems that operate the nation’s tax infrastructure. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "96bb17b938a8f73abef5d903f30f4016",
+    "text": ") Program Owner MITS (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "7282510ff8ab683cd7dd5a7ce097b5bd",
+    "text": ") Primary Stakeholders LB&I, SB/SE, TE/GE, W&I (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5e7af558d28860db04192df15103a872",
+    "text": ") Program Goals This IRM provides the fundamental knowledge and guidance for emplyees who are designated to download CFOL taxpayer modules to IDRS. By following the processes and procedures provided by IRM, employees will be able to download CFOL taxpayer account data in",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "58a1d7f9d7e35e7f163ebd8b5b26425e",
+    "text": "Codes MFREQ and RECON 2.3.10",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0cdbe0aa1da5bec4c75acd005e59d456",
+    "text": "MFREQ with DEFINER “D” will bring the module data from Master File IDRS approximately two weeks from the time of the request. MFREQ with DEFINER “C” will download the module data from CFOL to IDRS while the user is waiting online. The real module must not be on the IDRS database (TIF). The module will be extracted to the TIF again via the Weekly TIF Update routines approximately two weeks after the request. The RECON command code will download the module data from CFOL to IDRS while the user is waiting online only when the module on the CFOL has an update in a cycle later than the last extract cycle of the module on IDRS. A real module must already exist on IDRS. The module will be extracted from Master ﬁle to the TIF again via the Weekly TIF Update batch routines approximately two weeks after the request is Files that can be accessed include IMF, BMF, and EPMF.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "237cef7aa3ceb2973510e3467d518f01",
+    "text": "(5) Other Command Codes generate TC 902’s under certain circumstances. Some of these Command Codes are ENREQ, EOREQ, FRM34, and FRM77.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "38219fb0501d86af81ffb959811e26da",
+    "text": "guidance for emplyees who are designated to download CFOL taxpayer modules to IDRS. By following the processes and procedures provided by this IRM, employees will be able to download CFOL taxpayer account data in Real-",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2e8ce575f5867603490505776fe548a3",
+    "text": "time to IDRS in a manner that follows IRS policy and procedures while promoting the best interests of the Government. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "34d6f57b64e599cab81d94b4c3b38b14",
+    "text": ") Generation of a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9929585a74ae2e67e6a15791be6414a7",
+    "text": "to the Master File for MFREQ with DEFINER “D” causes the requested module data, if present on the Master File, to be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3b5c21d9c8f48b36fba3574bdce530bc",
+    "text": "extracted and loaded into IDRS approximately two weeks after the MFREQ other TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6c7d514cbc0bc26e8c533f475123dcb5",
+    "text": "generating command is input. If a TIF module is not present, MFREQ (D) or ACTON input will establish a “dummy ” module so that all",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "249b17a55f6c5e0d0715022fecd2858a",
+    "text": "transactions will be retained. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1a07104e2c98bef721df008acb043a6d",
+    "text": ") A TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "0a24b0b7d5b67e9adc374a58c7713aee",
+    "text": "for MFREQ with DEFINER “C” or RECON request will be to the Master File for every module placed on IDRS. a. A real module must not be present on IDRS when using MFREQ with DEFINER “C”. A module will only be placed on IDRS when it is on CFOL. b. A real module must be present on IDRS when using the RECON A module is only placed on IDRS when the update cycle date of the CFOL module is more current than the module on IDRS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "0168a504bbb30f608f35bcd2c427f8e1",
+    "text": ") At the Master File, a segment on the account will be marked to indicate modules are on IDRS. Master File postings to the modules will generate update records from the Master File to IDRS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "06997dbfe6a713bfe5501bb4b826c157",
+    "text": ") If the Master File does not contain the module requested by the TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5e8c1a1424120dd4dc7245b58aef0b8b",
+    "text": ", the input TIN is present, IDRS will receive a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "cfd8dc141ef92b29d889d7394cf5867a",
+    "text": "with a Doc Code",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "534a8646a09df6d552c756cd939ac40c",
+    "text": ") If a requested tax module is on a retention register, the Removal DO Code display on IDRS as part of the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9cdbf71be35ee2e3116b22f653f4f16b",
+    "text": "transaction. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "35d095cc6688d023af5c142b310b2dcb",
+    "text": ") If the requested TIN is not present on the Master File, IDRS will receive a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "71c8679bbea5b2bc2acdf87aa4b18258",
+    "text": "with a document code equal to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "68c1ee3f14785658205403adff23d96d",
+    "text": "posted to the entity section. A TC transaction will also appear on the tax module on IDRS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "773102c9dab174ff7478d69e593310d5",
+    "text": ") Modules that have been requested with a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f488aa9f92173aecd7ef801334c16157",
+    "text": "will remain on IDRS for three weeks unless other action establishes a different retention period. IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "dfca5da56b8cdb627309e2aa5a45e17b",
+    "text": "Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "24f640cc79e0f4da9bfc80b9f0444275",
+    "text": "for a discussion of retention criteria. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6d326145905f8c1dfa604a614a962d0a",
+    "text": ") All ﬁll-ins for data ﬁelds are required on input with the exception of the plan number, which is required for all EPMF tax module requests, and for BMF Terminal module requests when the MFT is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6863067eb0a2c7499425c6c189b2c88b",
+    "text": "See",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e50be50884917bfb4535d0c15c00ced5",
+    "text": "for the description and validity of input ﬁelds. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e7a87a380568eadc834c4bbec51e0a6b",
+    "text": ") When requesting an entity module only, use MFT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "709c85d5a5db74a445333083e5bbc90d",
+    "text": "and tax period (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7d1655d4c038899f56b664388fd2dcbc",
+    "text": ") If the name control is not known, substitute “AAAA” for IMF valid accounts, “WXYZ” for IMF invalid accounts, or substitute any four alpha characters BMF or EPMF accounts. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9b153d98a4e720dbfef06db4f541df90",
+    "text": ") See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8275b317c178ba28ba95cdca0b0e8346",
+    "text": "for sample inputs. Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a25513c7e0f6eaa80a3337ee18081b9e",
+    "text": "U",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "de950296c1c1bef9a1f4ea3e3f6e7b96",
+    "text": "time to IDRS in a manner that follows IRS policy and procedures while promoting the best interests of the Government.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "37585617c9b6f5882298dd12eba78fce",
+    "text": "If the Master File does not contain the module requested by the TC 902, but the input TIN is present, IDRS will receive a TC 904 with a Doc Code 99.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "58a1d7f9d7e35e7f163ebd8b5b26425e",
+    "text": "Codes MFREQ and RECON 2.3.10",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "e7c9156aa512557290b66bbfbf8d2128",
+    "text": "If questions arise print the screen and contact the User Support for more information. a. ACCESS TO CFOL DENIED WHILE IN TRAINING/RESEARCH The production training indicator located from the Security Information record depicts that user is operating in the training or research mode. Access to the CFOL is denied. b. ACCOUNT TEMPORARILY UNAVAILABLE — RETRY The system ERR-RB-CODE =",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "829e5b28af38ab3379fd0b4f3fd4f2f1",
+    "text": "OR",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "490fcd1a0544e21cd42ba1509417ec9c",
+    "text": "Contact CSA. c. CFOL FILE NOT AVAILABLE The CFOL is not available, try again If still not available, contact CSA. d. COMMAND CODE INVALID — COMMAND CODE MUST BE OR “RECON” Either MFREQ or RECON can be requested by this system. e. COMMAND CODES MFREQ(C) & RECON INVALID DURING",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ba01529eaa16b92b44ddb6c4e897e79e",
+    "text": "The command codes MFREQ(C) and RECON will result in live downloads, and therefore, are not allowed during the dead cycles. f. CYCLE DATE INVALID — CANNOT USE RECON OR MFREQ(C) DURING CYCLES",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "fc65e0e6b56297e8f43ee56b944e656a",
+    "text": "Cannot use MFREQ with DEFINER “ C” or RECON during dead cycles (cycles",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "9c6725dc269a48ce4b5bc78b580ccab2",
+    "text": "through",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "604cc34d18956697e2fd8a772e9c8871",
+    "text": ") while the CFOL is converted to the new format. g. DATA BASE ERROR IN REAL-TIME IDRS UPDATE PROCESS — NOTIFY CSA A database error has occurred while attempting to an IDRS account with CFOL data. h. DATA IN NON INPUT FIELD Data is present in a non-input ﬁeld. For example, the name control was not preceded by or was not followed by blank. i. DB",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "5aa4c1ff96d695740fabaf625772a4bd",
+    "text": "UNAVAILABLE — TRY AGAIN IN",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "502840906ce35d05aaac7d12d01a4859",
+    "text": "MINUTES — IF STILL UN- AVAILABLE, CONTACT CSA The CFOL Data Base is down. Try again a few minutes. If still unavailable call CSA who will contact the staff at ECC-MTB. j. DEFINER IS NOT ALLOWED WITH RECON REQUEST No DEFINER is allowed for RECON requests. A DEFINER can only be used with MFREQ requests. Use MFREQ with DEFINER “D” to bring an account from File to IDRS in approximately two weeks from the time of request or use DEFINER “C” to bring an account from CFOL to IDRS while the user is waiting online. k. DEPART ERROR ABORT — NOTIFY CSA An error was encountered trying to update the database (IDRS). Make a screen print, including and notify a CSA. l. ENTITY MUST BE ON IDRS FOR RECON REQUEST When requesting entity data only, the real account must be on IDRS for a RECON request. m. ENTITY MUST NOT BE ON IDRS FOR MFREQ(C) REQUEST The real account must not reside on IDRS when using command code n. FILE SOURCE INVALID WITH COMMAND CODE Accounts with the requested ﬁle source cannot be processed by MFREQ.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "277b43789fa141ec1ae33babbb319824",
+    "text": "o. FORMAT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "360955a29e0b184afbd8d561f68dd278",
+    "text": "FOLI SCREEN The requested tax module did not exist on CFOL, but existing tax modules can be viewed through the command",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "79311739bfcff85690c5f6fce2c62845",
+    "text": "FOL(I), where x = I, B or E. p. FORMAT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "db7c7fdaee8dddf26d5e1bea64b86518",
+    "text": "FOLM SCREEN The account was on the Master File but on CFOL. A",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "69eef02410f40c213653aa8ff4298ba4",
+    "text": "FOL(M) command code, where x = I, B OR E, will bring the account from the Master File to CFOL followed by a MFREQ(C) the following day to bring the account from CFOL to IDRS. q. INVALID DEFINER FOR ICPRQ — DEFINER MUST BE I, R, OR D Use ICPRQ with DEFINER “I” or “R” or “D”. The DEFINER “I” will systemically request a MFREQ(C). The DEFINER “R” will systemically request a RECON. The DEFINER “D” will systemically request a MFREQ(D). r. INVALID DEFINER FOR MFREQ — DEFINER MUST BE “D” OR “C” Use MFREQ with DEFINER “D” or “C”. The DEFINER “D” will create a dummy TIN in Real-Time while the user is waiting online and issue a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "483afb31bd3f87d9f3c2edda1b8ae099",
+    "text": "which will bring the full account from Master File to IDRS in approxi- mately two weeks from the time of the request. The DEFINER “C” will download the critical taxpayer data for the input tax period from CFOL to IDRS in Real-Time while the user is waiting online and issue a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "c44c885a7b2cdb45c2e67268a7968606",
+    "text": "which will bring the full account from Master File to IDRS in approximately two weeks from the time of the request. s. INVALID OUTPUT CODE RETURNED FROM DOWNLOAD — Notify CSA The output code on the account returned from DOWNLOAD was valid. It must be “E",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "9e6657b3583330c32c723656fe8f94dd",
+    "text": "”, “N",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ff0218093c1066e112e6558fc5a778ee",
+    "text": "”, or “N",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d82c280f735cc435be6cc8254a56caca",
+    "text": "”. This is an internal check within the program. Please contact CSA. t. MFREQ(C) AND RECON ARE NOT AVAILABLE AT THIS TIME (SYS- SC-CD NOT=",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "411de792590931ce5c73bc744222d876",
+    "text": ") AND FLAG OF SIR NOT =",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "555f01291113d5e3f617cb83c44bf67b",
+    "text": "--PROGRAMMER-PERSON AND NOT =",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "1526f5e429c56b6da367d5596dd56ba5",
+    "text": "--SAT- PERSON). Contact CSA. u. MFT INCONSISTENT WITH TIN The MFT is inconsistent with the TIN. v. MFT INVALID The MFT is invalid — check input. w. MODULE TOO LARGE FOR REALTIME DOWNLOAD -- USE The requested tax module exceeds",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "64c7c807fe4e17d3336ddc33ac8f414e",
+    "text": "bytes in the MESSAGE- LENGTH OF CDMR-INIT-INFO. MFREQ has set FX-STATUS to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d104953e6b736534c44b303041fc7202",
+    "text": "use MFREQ(D) to create a dummy TIN in Real-Time. An automatic TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f25e76eb97db3c1f6490a5012b86d839",
+    "text": "will be issued by the MFREQ(D) that will trigger the full account to download from Master File to IDRS in approximately two weeks. x. NAME CONTROL INVALID The name control is invalid — check input. y. NAME CONTROL MISMATCH WITH TIF The input name control does match the TIF name control. z. NAME CONTROL REQUIRED The name control is a required input ﬁeld; if unknown, follow instructions in",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ffde23aa57e7321f0bbdf43874ead71b",
+    "text": ") above. aa. NETWORK COMMUNICATION ERROR #",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "4c716ff77cf021d5c98ffa02257fa76e",
+    "text": "NO LINK TO MCC TRY AGAIN OR NOTIFY CSA (FX-STATUS=",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "24cf8189421c9ad2146c5b3000efa2e6",
+    "text": "SET BY FXFERX) Notify ab. NETWORK COMMUNICATION ERROR #",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "30fa35b2add25abc61a521010f75dae5",
+    "text": "NO RESPONSE FROM MCC TRY AGAIN OR NOTIFY CSA (FX-STATUS=",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "bdad16e28869b56a0791fb138cf31d94",
+    "text": "SET BY FXFERX) Notify CSA. ac. NETWORK COMMUNICATION ERROR #",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "02da78e46384d325044b5999cf0fa46b",
+    "text": "MCB/DATA BLOCK ERROR TRY AGAIN OR NOTIFY CSA (FX-STATUS=",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "0d54eb2401a676962518cb491d80c319",
+    "text": "SET BY FXFERX) Notify CSA. ad. NETWORK COMMUNICATION ERROR # nn Various error values and messages may appear here. Try again. If condition persists, make a of the screen and notify CSA. (nn =",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "a3bc13cac7adb6546f259d0f3994c020",
+    "text": "excluding",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "565e964ffecc1885b51c5307afdf70bd",
+    "text": ") ae. NO",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "093b2a57b6d3423831c60a22a29d25ca",
+    "text": "IFnn — AREA NOT AVAILABLE File temporarily unavailable. Enter again later. (x = I, B or Z) (nn =",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "7358de0253fe09c700c1e268d5741064",
+    "text": ") Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "a25513c7e0f6eaa80a3337ee18081b9e",
+    "text": "U",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "58a1d7f9d7e35e7f163ebd8b5b26425e",
+    "text": "Codes MFREQ and RECON 2.3.10",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "248758409e0335efdc311d93e8894675",
+    "text": "af. PLAN NUMBER INVALID The EPMF plan number must be in the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "9d064b25a50ca607acc4a4a1bd90b991",
+    "text": "BMF plan numbers must be in the range of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3e2231851b162be5a3d8ca0a7f2c7bec",
+    "text": "when equals",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d457cf78743f88a32456ca53df23ec0f",
+    "text": ", in the range of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "bda050585a00f0f6cb502350559d7553",
+    "text": "—",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b813d142c6c9aa283dd7c6a0ad63927a",
+    "text": "when MFT equals",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4f7a6c519ce3bd936a2e0fb0115a68f7",
+    "text": ", the range of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "bda050585a00f0f6cb502350559d7553",
+    "text": "—",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b813d142c6c9aa283dd7c6a0ad63927a",
+    "text": "when MFT equals",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d457cf78743f88a32456ca53df23ec0f",
+    "text": ", in the range of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "bda050585a00f0f6cb502350559d7553",
+    "text": "—",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b813d142c6c9aa283dd7c6a0ad63927a",
+    "text": "when MFT equals",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7ff59dd0f958f0204bd6885e8ab120bc",
+    "text": ", or in the range of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "bda050585a00f0f6cb502350559d7553",
+    "text": "—",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b813d142c6c9aa283dd7c6a0ad63927a",
+    "text": "when MFT equals",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d8fb7cfff2ac3934d4d9ea2fe8a217a8",
+    "text": "(or zeroes if the tax period is less than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d6f2072671ab1837d6bcc70f5c665770",
+    "text": "). ag. PLAN NUMBER NOT ALLOWED FOR THIS TAX MODULE The tax module request does not support the input of a plan number — check input. ah. PLAN NUMBER NOT ALLOWED WITH ENTITY ONLY REQUEST entity only request does not support the input of a plan number — input. ai. PLAN NUMBER ONLY ALLOWED WITH BMF TAX MODULES MFT EQUALS",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "0034efe9396c4160e6b36adc61a4bb9b",
+    "text": ", AND ALL EPMF TAX MODULES The input of a plan number is inconsistent with other than EPMF accounts, and BMF accounts when MFT is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "28e2a602d4390e0d0f2779e01ba1b2a3",
+    "text": "aj. PLAN NUMBER REQUIRED The plan number must be input when re- questing an EPMF tax module, or a BMF tax module when MFT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1106c200f212a96b611c036dcfb8d8b5",
+    "text": "ak. PLEASE WAIT—REQUEST is BEING PROCESSED The MFREQ/ RECON program has temporarily been deactivated. Processing will continue when reactivated. al. REMOTE ACCESS NOT ALLOWED WITH CC MFREQ OR RECON remote request is not allowed. PID has been rerouted. The request be local. am. REPORT NUM MUST BE ZEROES OR MUST BE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e8150c40ae29372dabb70316675db4e8",
+    "text": "FOR",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "829e5b28af38ab3379fd0b4f3fd4f2f1",
+    "text": "OR",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "f68a3240b15ba72fbd66077aa2741048",
+    "text": "The report number was invalid. It must be zeroes or for MFT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "129d8ddf8eb105bd72a12ea57c0bcdf5",
+    "text": "an. REPORT NUM MUST BE ZEROES OR MUST BE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "38822b0c55021582325c970214aaffc1",
+    "text": "FOR The report number was invalid. It must be zeroes or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "62293d9157a6184a410b6e9ef598506b",
+    "text": "for MFT ao. SEVERE ERROR HAS OCCURRED — CONTACT CSA Self tory. ap. SYSTEM I/O ERROR--NOTIFY CSA Unusual error condition Make a screen print if possible, and contact the CSA. aq. TAX MODULE MUST BE ON LOCAL IDRS FOR RECON REQUEST When requesting a speciﬁc tax module with a RECON request, the tax module must reside on IDRS. ar. TAX MODULE MUST NOT BE ON LOCAL IDRS FOR MFREQ(C) REQUEST When requesting a speciﬁc tax module using the MFREQ command code with DEFINER “C”, the real tax module must not on IDRS. as. TAX PERIOD INCONSISTENT WITH MFT The tax period is with the MFT. at. TAX PERIOD INVALIDThe input tax period is invalid. Note: The TAX PERIOD must be less than or equal to the current and month plus one year. au. THE CFOL FILE IS NOT AVAILABLE, TRY AGAIN IN",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "f4ccc94957d1a7966c43714994ba2324",
+    "text": "MINUTES. IRM CFOL is not accessing the TBMFSHDW DB",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a95ac024b13818ec744979833f7deb9d",
+    "text": "table so it is the DB",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "89e2a88fe7e63eb64ec4e594b751e433",
+    "text": "loads need to be run against the TBMFPRD database and a bind may be needed on both GETENTDB and XETBMFDB. Notify to contact the CFOL Production DBA. Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "26ee6bb48b20ae7d3fb4b39b5607a6d5",
+    "text": "THE CFOL FILE IS NOT AVAILABLE, TRY AGAIN IN",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "fb89b8b6b80d387c1bf86313025e63b6",
+    "text": "MINUTES. SEE IRM CFOL is not accessing the TBMFSHDW DB",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "89b573c5b182002555bc2c67ba3351b6",
+    "text": "table so it is possible the DB",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "12f7be10a1c1232c93eb855a00da4991",
+    "text": "loads need to be run against the TBMFPRD database and a bind may be needed on both GETENTDB and XETBMFDB. Notify CSA to contact the CFOL Production DBA.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "0d6b75e177b0dd5db15b666f1bebcf0d",
+    "text": "THE CFOL FILE IS NOT AVAILABLE, TRY AGAIN IN 5 MINUTES. SEE IRM CFOL is not accessing the TBMFSHDW DB2 table so it is possible the DB2 loads need to be run against the TBMFPRD database and a bind may be needed on both GETENTDB and XETBMFDB. Notify CSA to contact the CFOL Production DBA.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "0f7640f624f435caf6aa20a4afeb77a3",
+    "text": "av. THIS TAX MODULE DOES NOT EXIST. IMFOLI WILL BRING THE MODULES THAT DO EXIST The requested tax module does not exist CFOL — check input, then research IMFOLI, then notify CSA if still exists. aw. THIS TIN DOES NOT EXIST The account does not exist at Master The user may wish to research the TIN or create a new account if necessary. ax. TIN INVALID The input TIN is invalid or inconsistent with the input ﬁle source. ay. YOU ARE NOT PROFILED TO ACCESS BMF User does not have access to IDRS Business Master File. az. YOU ARE NOT PROFILED TO ACCESS IMF User does not have access to IDRS Individual Master File. ba. YOU HAVE THE MOST CURRENT DATA Based on the latest Master File extract date, the most current update information for the requested account already exists on IDRS. Terminal Response — System Error. System error messages are displayed inverse video beginning in position",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "a164874d615ef4d8269cc04059123fc0",
+    "text": "of line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "4c2ea4acccedc48252523f856afa4013",
+    "text": "System errors reﬂect a problem relating to the availability of a ﬁle or an error with a common tine. In many cases a CSA should be notiﬁed, and a print made of screen",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "2d4f5ad5f20d6efd4e0b040f8e448e5a",
+    "text": "Terminal Response — System Error. System error messages are displayed in inverse video beginning in position",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "a164874d615ef4d8269cc04059123fc0",
+    "text": "of line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "e0b506f829458920ce6b9c903a1641a2",
+    "text": "System errors reﬂect a problem relating to the availability of a ﬁle or an error with a common subrou- tine. In many cases a CSA should be notiﬁed, and a print made of screen input and response if possible, to aid in pinpointing and correcting programming or data base problems. See the Error Messages section of IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "dfca5da56b8cdb627309e2aa5a45e17b",
+    "text": "Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "ecd3ece05d51132e7450073236e2c1c9",
+    "text": ", for deﬁnitions of these messages and corrective actions.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "12284e871c901a924847c17c2ff3605a",
+    "text": "Codes MFREQ and RECON 2.3.10 page 2.3.10-1 (01-01-2015) Input Format",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "1931b56bcd106b3588e591865889fc33",
+    "text": "Input Format Command Code MFREQ/RECON",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "c604f87f32b5b3f8873bc7b2766f2aa3",
+    "text": "ine 24 is erved for error or_“ri t_complete”12345678901234567890123456 78901 78901 1234567890123456 7890123456 78901-19 1-29 31- 41-49 51-59 61-69 71-80",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "cc6c681de9ae9e573f61564d09997fb7",
+    "text": "Record Element Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "e4b921826fe00e5bac1226b3eaa366dc",
+    "text": "Exhibit 2.3.10-1 (Cont. 1) (01-01-2015) MFREQ Input Format",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "58ac3b8d65c302d8f7196a462b8274b7",
+    "text": "Input Format Element Line Position Description and Validity 1 1 1–5 Command Code — “MFREQ” or “RECON” 2 1 6 DEFINER — Must be “D” or “C” for MFREQ command code or blank for RECON command code. The DEFINER “D” will extract the module from Master File approximately two weeks from the date of request. The DEFINER “C” will be used to extract the module from CFOL (if present) while the user is waiting online. 3 1 7–18 TIN and Display File Source Field 3.1 1 7–16 EIN (nn-nnnnnnn) — See Standard Validity Criteria, IRM 2.3.8. 3.2 1 17 Display File Source (EIN format) — Must be “P” or blank and be consistent with the TIN. 3.1 1 7–17 SSN (nnn-nn-nnnn) — See Standard Validity Criteria, IRM 2.3.8. 3.2 1 18 Display File Source (SSN format) — Must be “*”, “V”, “W”, or blank and be consistent with the TIN. 4 2 1–2 MFT Code — See Standard Validity Criteria, IRM 2.3.8. Use 00 to request an entity module. 5 2 4–9 Tax Period — Must be in YYYYMM format and be consistent with the MFT. Use 000000 to request an entity module. 6 2 11–14 Name Control — See Standard Validity Criteria, IRM 2.3.8. Also, this ﬁeld must be preceded by and followed by a blank. If the name control is unknown: (a) Enter “AAAA ” for IMF valid. (b) Enter “WXYZ ” for IMF invalid. (c) Enter any four alpha characters for BMF. (d) Enter any four alpha characters for EPMF.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "2db21312ef704ea075586e17aaede63e",
+    "text": "blank. If the name control is unknown: (a) Enter “AAAA ” for IMF valid. (b) Enter “WXYZ ” for IMF invalid. (c) Enter any four alpha characters for BMF. (d) Enter any four alpha characters for EPMF.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "58a1d7f9d7e35e7f163ebd8b5b26425e",
+    "text": "Codes MFREQ and RECON 2.3.10",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "f0e2dd959c744a832797e7ba1046a9c8",
+    "text": "Exhibit 2.3.10-1 (Cont. 2) MFREQ Input Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "e729581a9d1498875922daecf0b40c22",
+    "text": "Input Format Element Line Position Description and Validity 7 2 16–18 Plan Number — Must be input for EPMF modules and must be in the valid range 001–999. Must also be input for BMF modules where MFT = 46 or 76, and must be in the valid range 000–999, or where MFT = 74 or 75 with a valid range of 001–999, or where MFT = 84 with a valid range of 100–999 or zeroes, or where MFT = 85 or 86 with a valid range of 100–499 or zeroes, or where MFT = 68 with a valid range of 001—999, or zeroes if the MFT 68 tax period is less than 200201). Use 000 to Request Entity module. Note 24 1–70 Line 24 is reserved for error messages or “request complete” message.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "f678835b93e02e17a370ad38913459e1",
+    "text": "Description and Validity",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "bcb27a91da071e1a51d9bf2303c096f6",
+    "text": "Description and Validity Plan Number — Must be input for EPMF modules and must be in the valid range",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "6ce4e619fcb2a2459c628cbf22d36353",
+    "text": "Must also be input for BMF modules where MFT =",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "6ab5bf8572d47c1d137c36b20db86bcc",
+    "text": ", and must be in the valid range",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "e2306df716bb2c1c083fd07d24674086",
+    "text": ", or where MFT =",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "f9fca56ec2dc77e465beb2a5270a0fb4",
+    "text": "with a valid range of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "e2306df716bb2c1c083fd07d24674086",
+    "text": ", or where MFT =",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "f9fca56ec2dc77e465beb2a5270a0fb4",
+    "text": "with a valid range of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3d84d07e90cfa28b54f4f2b0b9a3e14e",
+    "text": "or zeroes, or where MFT =",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "f9fca56ec2dc77e465beb2a5270a0fb4",
+    "text": "with a valid range of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3d84d07e90cfa28b54f4f2b0b9a3e14e",
+    "text": "or zeroes, or where MFT =",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "f9fca56ec2dc77e465beb2a5270a0fb4",
+    "text": "with a valid range of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "bda050585a00f0f6cb502350559d7553",
+    "text": "—",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "8007035dac5a0aba929ec3970781601f",
+    "text": ", or zeroes if the MFT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "03338489244c5ba59fd48c2499965f0e",
+    "text": "tax period is less than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "bdba5b37e7583b58fb8b43cf05cb33e8",
+    "text": "). Use",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "8e974b691367c585690813d04d5c4ba5",
+    "text": "to Request Entity module.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "78a4adc4e496ff9a975ed1769330897f",
+    "text": "Exhibit 2.3.10-2 (01-01-2005) MFREQ/RECON Sample Inputs",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "1554272e95246cb3ec23e625af5cbed2",
+    "text": "BMF EIN example:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "141d66bc9efd460a3a301d0375482746",
+    "text": "|MFREQD",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "b3ca4564ffa430290da1ac5b44860720",
+    "text": "SANP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "be0c47feff102462d4faf70576439241",
+    "text": "(Line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "c40f46a4886b24fa0c497a68c7a03c55",
+    "text": "is reserved for error messages or “Reguest Complete \" message)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "62b67e1f685b7fef51102005dddd2777",
+    "text": ">",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "62b67e1f685b7fef51102005dddd2777",
+    "text": ">",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "62b67e1f685b7fef51102005dddd2777",
+    "text": ">",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "62b67e1f685b7fef51102005dddd2777",
+    "text": ">",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "62b67e1f685b7fef51102005dddd2777",
+    "text": ">",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "62b67e1f685b7fef51102005dddd2777",
+    "text": ">",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "62b67e1f685b7fef51102005dddd2777",
+    "text": ">",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "867f37855e97bdf401fe23e02666a0c4",
+    "text": "] (Line 24 is reserved for error messages or “Reguest Complete \" message)123456789012345678901234567890123456789012345678901234567890123456789012345678901-9 > 11-19 > 21-29 > 31-39 > 41-49 > 51-59 > 61-69 > 71-80",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "8d60a4f9e446e20eddbdfb72c04d5be7",
+    "text": "|MFREQC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "de5a6f78116eca62d7fc5ce159d23ae6",
+    "text": "V",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "cbe5cfdf7c2118a9c3d78ef1d684f3af",
+    "text": "|",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3c380600b2899cf8a412b95753d74863",
+    "text": "WILL",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "be0c47feff102462d4faf70576439241",
+    "text": "(Line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "c40f46a4886b24fa0c497a68c7a03c55",
+    "text": "is reserved for error messages or “Reguest Complete \" message)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "b4fe151e413445357b1c0935e7cf04a4",
+    "text": "£",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "97e65f471471b1f32a880120ad0a94b0",
+    "text": "BMF valid SSN example (name control unknown):",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "62b67e1f685b7fef51102005dddd2777",
+    "text": ">",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "cbe5cfdf7c2118a9c3d78ef1d684f3af",
+    "text": "|",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "0a9ae395ae9d70d33c59abb8d934c98d",
+    "text": "{RECON",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "fcb5f40df9be6bae66c1d77a6c159688",
+    "text": "W",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "cbe5cfdf7c2118a9c3d78ef1d684f3af",
+    "text": "|",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "1e91a9e263e1666097661497085a4add",
+    "text": "aaoq",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d7852cd0d2453e8c9b71b61cad642369",
+    "text": "Line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "92f044ab2f478f03f4e98c273cacf9c2",
+    "text": "is reserved for error mess: or_“Ri t Complete ” message__(Line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "535923e7248c64baeac97a7f1ab98ef8",
+    "text": "is reserved for error messages or ‘Request Complete \" message)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "63ff09858f11bb6d9c69022735f1334a",
+    "text": "24 Line 24 is reserved for error mess: or_“Ri t Complete ” message__(Line 2 is reserved for error messages or ‘Request Complete \" message)123456789012345678901234567890123456789012345678901234567890123456789012345678901-9 11-19 21-29 31-39 41-49 51-59 61-69 71-80",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "8e82b707a0a00e5e5dfc78086a72e06d",
+    "text": "BMF and EPMF example with plan number:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "52af3d32d1f3cf7060a6db26baeae790",
+    "text": "2.3.10-2 (Cont. 1) (01-01-2005) Sample Inputs",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "141d66bc9efd460a3a301d0375482746",
+    "text": "|MFREQD",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "5c62e091b8c0565f1bafad0dad593427",
+    "text": "P",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "a9534ff30902e2052c2057df2c58ca8e",
+    "text": "SAMP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "d7852cd0d2453e8c9b71b61cad642369",
+    "text": "Line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "197fb71f4d635d7d3462011a51ab64d6",
+    "text": "is reserved for error messages or “R Complete ™ message",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "f4840706689cb571c553cb6322fcd563",
+    "text": "s (Line 24 is reserved for error messages or “Request Complete \" message)123456789012345678901234567890123456789012345678901234567890123456789012345678901-9 11-19 21-29 31-39 41-49 51-59 61-69 71-80",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "2b81494967e47747e1b19b73481d32a0",
+    "text": "IMF valid SSN example (name control unknown):",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "da3ccf9a1e388f249c2ff54e575a24d5",
+    "text": "|RECON",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "cbe5cfdf7c2118a9c3d78ef1d684f3af",
+    "text": "|",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "63c1dd951ffedf6f7fd968ad4efa39b8",
+    "text": "AAAA",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "be0c47feff102462d4faf70576439241",
+    "text": "(Line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "0b34d5172df3af04c9a6a4205990eb57",
+    "text": "is reserved for error messages or “Request Complete \" message)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "62b67e1f685b7fef51102005dddd2777",
+    "text": ">",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "62b67e1f685b7fef51102005dddd2777",
+    "text": ">",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "62b67e1f685b7fef51102005dddd2777",
+    "text": ">",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "62b67e1f685b7fef51102005dddd2777",
+    "text": ">",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "62b67e1f685b7fef51102005dddd2777",
+    "text": ">",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "62b67e1f685b7fef51102005dddd2777",
+    "text": ">",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "62b67e1f685b7fef51102005dddd2777",
+    "text": ">",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "78e6aeef58191c237b4916636fa72396",
+    "text": "(Line 24 is reserved for error messages or “Request Complete \" message)123456789012345678901234567890123456789012345678901234567890123456789012345678901-9 > 11-19 > 21-29 > 31-39 > 41-49 > 51-59 > 61-69 > 71-80",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "8d60a4f9e446e20eddbdfb72c04d5be7",
+    "text": "|MFREQC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "684888c0ebb17f374298b65ee2807526",
+    "text": "*",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "cbe5cfdf7c2118a9c3d78ef1d684f3af",
+    "text": "|",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "7deee3931255197f3472066a4ac328a7",
+    "text": "SMIT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "be0c47feff102462d4faf70576439241",
+    "text": "(Line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "0b34d5172df3af04c9a6a4205990eb57",
+    "text": "is reserved for error messages or “Request Complete \" message)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "90fec1225c451a84d4de3912783041fa",
+    "text": "(Line 24 is reserved for error messages or “Request Complete \" message)123456789012345678901234567890123456789012345678901234567890123456789012345678901-9 11-19 21-29 31-39 61-49 51-59 | 61-69",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-010--2020-12-04.pdf",
+      "page_number": 15
+    }
+  }
+]

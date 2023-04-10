@@ -1,0 +1,974 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "daf300289d65eb3241704ed4d1bc4d8e",
+    "text": "This transmits revises IRM 2.120.9 Hardware Analysis and Design (HAD)/System Conﬁguration Validation (SCV) dated March 14, 2022 due to 508 compliance mandated requirement.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "83eb6cd7767d37967fbbf8b013a4c7c2",
+    "text": "IRM 2.120.9 dated March 14, 2022 is superseded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "7fa171b741cc2db64087bef6d2fb1783",
+    "text": "The design process is applicable to all Enterprise Life Cycle (ELC) projects, Information Technology (IT) organizations, contractors, and other stakeholders having responsibility for Hardware Analysis and Design (HAD)/System Conﬁguration Validation (SCV) activities.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "da7ef8614dbde53e138f5f6e25887e98",
+    "text": "Nancy Sieger",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "614e79e69d15e6961625ebac5928495f",
+    "text": "Hardware Analysis and Design (HAD)/System Conﬁguration Validation (SCV)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "b01535085b830a839f5a846fffdc992e",
+    "text": "Program Scope and Objectives",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "ffdcf730fbd60ca425c6114887e1d7a6",
+    "text": "Hardware Analysis and Design (HAD)/System Conﬁguration Validation (SCV) 2.120.9 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9dcbadcdba3856e3f99e65dd8bb6b849",
+    "text": "and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f6e36252b7d17b65222427594dbe004c",
+    "text": ") Overview - This IRM describes the formal process implementing the require- ments of the Hardware Analysis and Design (HAD) /System Conﬁguration Validation (SCV), speciﬁes steps and procedural tasks that all IT projects need to complete the design phase. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3e93773f847f0ef4997512460b6e1f9a",
+    "text": ") Purpose - This IRM contains procedural steps to successfully select hardware/ software for projects. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "68f592442dfbbc8161f0ecbc1d93e235",
+    "text": ") Audience - This process description is applicable to all Enterprise Life Cycle (ELC) projects, Information Technology (IT) organizations, contractors, and other stakeholders having responsibility for hardware and software design ac- tivities. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "aa178654c2afa466a25fbe2139cdb212",
+    "text": ") Policy Owner - The Associate Chief Information Officer (ACIO), Enterprise Services. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0d56619927ee572675f42573e590de82",
+    "text": ") Program Owner - Solution Engineering Division (SE), which is under the Infor- mation Technology (IT), Enterprise Services (ES). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "25e622742de7c92939c6a1c927aae9b0",
+    "text": ") Primary Stakeholders - Information Technology project team members are the primary stakeholders for the Hardware Analysis and Design (HAD)/Service Conﬁguration Validation (SCV). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2a55c8d625e0358d304f4a99bb9fac15",
+    "text": ") Program Goals - The Program goals of the Hardware Analysis and Design (HAD)/ Service Conﬁguration Validation (SCV) process is to have all related design work documented during the design phase. . (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "114c246c1b660996e32344a48d4c080a",
+    "text": ") A process is deﬁned as “A set of related activities that accomplish a common goal”. The process deﬁnition laid out in this document divides these activities into tasks, each of which have a complete set of attributes deﬁned such as data, tool speciﬁcations and the role(s) responsible for executing the tasks. The document also includes process goal and objectives, metrics, role deﬁni- tions, policies and other process related attributes. Description (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8b699988d07f1ec62b43e178d73c944a",
+    "text": ") The Hardware Analysis and Design (HAD)/System Conﬁguration Validation (SCV) process describes the activities required to produce the content that is documented within the Government Equipment List (GEL) and provides the operational deﬁnition of the major components within the designs. This descrip- tion speciﬁes, in a complete, precise and veriﬁable manner, the requirements, design and behavioral characteristics of the HAD/SCV process. The HAD/SCV Process Description is a documented expression of a set of activities performed to achieve a given purpose. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "7a49f4b17fa1aacacebfc77a43489b64",
+    "text": ") The process goal describes a speciﬁc purpose or achievement toward which the efforts of the process are directed. Each process has a speciﬁc focus and when combined with the other processes, forms a comprehensive framework for delivering and managing services. GELs developed through the HAD/SCV process are reviewed by Solution En- gineering, contain all the information required during the acquisitions process and are submitted timely. (SCV)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ef51e648dfc814b76990088c13114222",
+    "text": "page (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "cd83bfc6801a3bf9be017f7a01d274d5",
+    "text": "The Hardware Analysis and Design (HAD)/System Conﬁguration Validation (SCV) process describes the activities required to produce the content that is documented within the Government Equipment List (GEL) and provides the operational deﬁnition of the major components within the designs. This descrip- tion speciﬁes, in a complete, precise and veriﬁable manner, the requirements, design and behavioral characteristics of the HAD/SCV process. The HAD/SCV Process Description is a documented expression of a set of activities performed to achieve a given purpose.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "48c148f75bb64c969c17d59604c34a7a",
+    "text": ") Process objectives describe material outcomes that are produced or achieved by the process. The following is a list of objectives for this process: • Minimize the time to acquire equipment for project needs • Provide an accurate understanding of the actions required by projects more efficiently support the Enterprise Life Cycle (ELC) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "46d7b2df2c27a2ba958b6a1f10b3274a",
+    "text": ") All proposed changes to this document must be submitted in writing, with sup- porting rationale, to the Enterprise Services, Solution Engineering, Process Maturity branch. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "438d96f7fa5f657f36b48738358aed33",
+    "text": ") Each process deﬁnes at least one role. Each role is assigned to perform speciﬁc tasks within the process. The responsibilities of a role are conﬁned to the speciﬁc process. They do not imply any functional standing within the hierarchy of an organization. For example, the Process Manager role does not imply the role is associated with or fulﬁlled by someone with functional man- agement responsibilities within the organization. Within a speciﬁc process, there can be more than one individual associated with a speciﬁc role. Addition- ally, a single individual can assume more than one role within the process although typically not at the same time. Many roles are involved in the HAD/ SCV process. This section deﬁnes the roles used throughout this document in terms of their responsibilities.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "56031663384e82e4a18230673c54f2f2",
+    "text": "Process objectives describe material outcomes that are produced or achieved by the process. The following is a list of objectives for this process:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "aeeeabdd57695f8e9b496204027f701f",
+    "text": "All proposed changes to this document must be submitted in writing, with sup- porting rationale, to the Enterprise Services, Solution Engineering, Process",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7e75d9f11bbfa80e99d8c62cc26f0e64",
+    "text": "Role Description Deﬁnition of Responsibility Engineering Lead • Reviews the Change Authority’s decision, annotates acceptance or rejection of the decision, and returns the updated request for change • Originate HAD/SCV content for submission Engineering Team • Completes the veriﬁcation steps Project Manager • Verify the HAD/SCV document meets technological requirements",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "239ba55b6fe1940b40fcfc0e643dda1c",
+    "text": ") Policies outline a set of plans or courses of action that are intended to inﬂuence and determine decisions or actions of a process. Policies provide an element of governance over the process that provides alignment to business vision, mission and goals.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "767b9811b9e4e4e991a111dab0dda684",
+    "text": "Hardware Analysis and Design (HAD)/System Conﬁguration Validation (SCV) 2.120.9",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "cfbbd0a00306e93cf2b97685b2863a90",
+    "text": "Roles and responsibilities for the process must be clearly deﬁned and appropriately staffed with people having the required skills and training. The mission, goals, scope and importance of the process must be clearly communicated by upper management to the staff and business customers of IT. All IT staff (direct and indirect users of the process) shall be trained at the appropriate level to enable them to support the process.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3515798cbfa4fb90bb66c90ee096f8bf",
+    "text": "Modiﬁcations to the HAD/SCV process must be approved by the Process Owner. The design of the process must include appropriate interfaces with other processes to facilitate data sharing, escalation and workﬂow. The process must be capable of providing data to support real",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "88f1217dd4591484f3aa879c4992534e",
+    "text": "time requirements as well as historical/trending data for overall process improve",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "93d6b6f68a25175e4def43bb0132e556",
+    "text": "ment initiatives. The process must be fully documented, published and accessible to the various stakeholders of the process. The process will be reviewed on a periodic basis in order to ensure it continues to support organizational goals and objec",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "4ef7d6903cbbd90c7aa9e2609e628687",
+    "text": "tives (continuous improvement). The process must include Inputs, Outputs, Controls, Metrics, Activities, Tasks, Roles and Responsibilities, Tool and Data re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "64143f5de2b7e36903fc69ecf611e6c4",
+    "text": "quirements along with documented process ﬂows. The process will be kept straight forward, rational, and easy to understand.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f270974bee7b9309bf7bd59cea9e3bd4",
+    "text": "TechnologyandTools: Statement: All tools selected must conform to the enterprise ar- chitectural standards and direction. Existing in-house tools and technology will be used wherever possible, new tools will only be entertained if they satisfy a business need that cannot be met by current in-house tools. The selection of supporting tools must be process driven and based on the requirements of the business. Selected tools provide ease of deployment, customization and use. Automated workﬂow, notiﬁca- tion and escalation will be deployed wherever possible to minimize delays, ensure consistency, reduce manual intervention and ensure appropriate parties are made aware of issues requiring their attention. The tools used by this process are the following: • HAD/SCV Template • Pre-Coordination Checklist • HAD/SCV waiver, if applicable Rationale: Technology and tools should be used to augment the process capabilities, not become an end themselves. 2.120.9.1.5(01-13-2023) Program Control (1) Activities involved in ensuring a process is predictable, stable, and consistently operating at the target level of performance. 2.120 Solution Engineering",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8289972aa316243e025ab60424927d73",
+    "text": "Technologyan",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "89e0b3bbf7e9b58cc8ab2ff464450827",
+    "text": "ools: Statement: All tools selected must conform to the enterprise ar- chitectural standards and direction. Existing in-house tools and technology will be used wherever possible, new tools will only be entertained if they satisfy a business need that cannot be met by current in-house tools. The selection of supporting tools must be process driven and based on the requirements of the business. Selected tools provide ease of deployment, customization and use. Automated workﬂow, notiﬁca- tion and escalation will be deployed wherever possible to minimize delays, ensure consistency, reduce manual intervention and ensure appropriate parties are made aware of issues requiring their attention. The tools used by this process are the following: • HAD/SCV Template • Pre-Coordination Checklist • HAD/SCV waiver, if applicable Rationale: Technology and tools should be used to augment the process capabilities, not become an end themselves.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "c3032ada4ac74fec9ee26a938eab018b",
+    "text": "Activities involved in ensuring a process is predictable, stable, and consistently operating at the target level of performance.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f8f2bf79dfa2a0f4b5d898943b55e62a",
+    "text": "Process controls represent the policies and guiding principles on how the process will operate. Controls provide direction over the operation of processes and deﬁne constraints or boundaries within which the process must operate.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "767b9811b9e4e4e991a111dab0dda684",
+    "text": "Hardware Analysis and Design (HAD)/System Conﬁguration Validation (SCV) 2.120.9",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "05d1e424dfb1d403eb7749747eaa88a6",
+    "text": "Name Description Engineering Policy (Directive) The project will include in its Engineer- ing Plan either by inclusion or reference, planning materials specifying how the following will be accomplished: • Execution Engineering Process • Obtaining needed resources to perform Engineering Process • Control of work products required by the Management Process • Engagement of stakeholders affected by the HAD/SCV Process • Monitoring and Controlling of the Management Process • Collection of Management Process measures • Review of Management Process Measures • Establishment of the Manage- ment Process within the project’s deﬁned process • Submission of Lessons Learned and process improvement sug- gestions from the execution of Management Process • Recency of signature (every 3 years) • Annual reviews Scope All projects will follow the Hardware Analysis and Design Software Conﬁgu- ration and Validation process to perform HAD/SCV and associate activi- ties in accordance to this policy. 2.120.9 page 5",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b1c4fde1be5584bc08b7dec57c5fd0c2",
+    "text": ") Metrics are used for the quantitative and periodic assessment of a process. They should be associated with targets that are set based on speciﬁc business objectives. Metrics provide information related to the goals and objectives of a process and are used to take corrective action when desired results are not being achieved and can be used to drive continual improvement of process effectiveness and efficiency. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8246f5fbf1693787c57c0455bf11e3ca",
+    "text": ") Management will regularly set targets for process performance, gather quantiﬁ- able data related to different functions of the HAD/SCV process, and review that data in order to make informed decisions and take appropriate corrective action, if necessary. All Measurements will have a deﬁned data dictionary, map to the organizational strategic goals, and be documented in a Process Mea- surement Plan. The Process Measurement Plan template is available in the IT PAL .",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b093b1f8d3beb83c8fa37d35f8fa1cbb",
+    "text": "Metrics are used for the quantitative and periodic assessment of a process. They should be associated with targets that are set based on speciﬁc business objectives. Metrics provide information related to the goals and objectives of a process and are used to take corrective action when desired results are not being achieved and can be used to drive continual improvement of process effectiveness and efficiency.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4dbecac0e587302512300b87c9c028b4",
+    "text": "Management will regularly set targets for process performance, gather quantiﬁ- able data related to different functions of the HAD/SCV process, and review that data in order to make informed decisions and take appropriate corrective action, if necessary. All Measurements will have a deﬁned data dictionary, map to the organizational strategic goals, and be documented in a Process Mea- surement Plan. The Process Measurement Plan template is available in the IT",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "c3c40b893b82ea4ff48451e8b0cdcc18",
+    "text": "Acronyms Description ACIO Assistant Chief Information Officer ELC Enterprise Life Cycle ITM Integrated Talent Management EOPs Enterprise Operations ES Enterprise Services GEL Government Equipment List IT Information Technology ITSM Information Technology Service Management PAL Process Asset Library SE Solution Engineer ROI Return on Investment",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "ffdcf730fbd60ca425c6114887e1d7a6",
+    "text": "Hardware Analysis and Design (HAD)/System Conﬁguration Validation (SCV) 2.120.9 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "0eee6b6f878953ba93fd315a05577994",
+    "text": ") Training (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8a69940f77e5a9af0b187f4fd9dd1f80",
+    "text": ") Process training involves training all stakeholders about key processes that are crucial for an organization to deliver business objectives. Training provides clarity to employees on a set of procedures that needs to be carried out as part of the process and the best possible way to do them.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "34789490926eb5db6a2343c2a11c3635",
+    "text": ") Process Workﬂow (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "855f8360a6577da15067dead82522286",
+    "text": ") A process workﬂow consists of Activities and Tasks, Inputs and Outputs, Roles, and Flow Diagrams. It describes the tasks, procedural steps, organizations or people involved, required input and output information, and tools needed for each step of the process.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "453543dc0567f05ebf653bee31782e25",
+    "text": ") (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "f7969c763a75e5d5cd8cb16dc78f1a7d",
+    "text": "Harcwars Aneiyss anc Desgn (HAD) | System Configursiion Valisten (SCV)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "ffdcf730fbd60ca425c6114887e1d7a6",
+    "text": "Hardware Analysis and Design (HAD)/System Conﬁguration Validation (SCV) 2.120.9 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "4635788237eebb4c0ef8d4380eab6c09",
+    "text": "Process inputs are used as triggers to initiate the process and to produce the desired outputs. Users, stakeholders or other processes provide inputs. The following is a list of inputs for this process:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "c079fb2c69847dcaad69297bd8d185c8",
+    "text": "Name Description Supplier Customer Service Request Customer service request via Solution Engineering Front Door (SEFD) Project Manager Funding Authoriza- tion Funding Data Strings Project Manager Simpliﬁed Design Speciﬁcation Report (SDSR) Physical design speciﬁcations based on customer require- ments Engineer(s)",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "8e5e04bdda5edee0c90630547b2e9f17",
+    "text": "An activity is a major unit of work to be completed in achieving the objectives of the process. A process consists of a sequence of related activities that transforms inputs into outputs and performed by the roles deﬁned in the process. Activities are measurable in terms of efficiency and effectiveness. Identify the activities in the process and provide a brief description. The activi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d1fced1bc371d4057db4bbdd39d739c5",
+    "text": "ties must correspond with the high",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "dfa6a167b6705f3bd84542580a72faff",
+    "text": "level process ﬂow diagram above.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "4323ba0b8cea8a649929a474ed660329",
+    "text": "ID Name Description HAD/SCV1.0 Conduct pre-coordination meeting with project • Clarify objectives • Assign roles • Establish action items HAD/SCV2.0 Perform HAD/SCV • Execution of the HAD/ SCV • Verify the physical design • Complete the GEL template HAD/SCV3.0 Develop the checklist • Describe equipment proposed for procure- ment • Establish a budget",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "75040ebc419e1b406aa7e6c1ac4a2164",
+    "text": "HAD/SCV4.0 Review all the documen- tation in accordance with the ELC • Disposition HAD/SCV HAD/SCV5.0 Document the HAD/SCV • Discussion of each line item • Address any action item(s) presented • Review of action items to resolve • Notation of any changes • Validate completeness HAD/SCV6.0 Review the HAD/SCV and get approvals by all stakeholder(s) • Review completed document for possible discrepancies • Circulate the completed document 2.120 Solution Engineering",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "927b2177bf39abf80a5f8f17b71a9807",
+    "text": "HAD/SCV4.0 Review all the documen- tation in accordance with the ELC • Disposition HAD/SCV HAD/SCV5.0 Document the HAD/SCV • Discussion of each line item • Address any action item(s) presented • Review of action items to resolve • Notation of any changes • Validate completeness HAD/SCV6.0 Review the HAD/SCV and get approvals by all stakeholder(s) • Review completed document for possible discrepancies • Circulate the completed document 2.120.9.2.5(01-13-2023) Procedure (1) Procedure 2.120.9.2.5.1(01-13-2023) HAD/SCV 1.0: Conduct pre-coordinationmeetingwithproject (1) ID Task Name and De- scription Role RACI Duties HAD/SCV1.1 Clarify objec- tive(s) ProjectManager R Ensure that design concept is clear and concise HAD/SCV1.2 Assign roles EngineeringLead R Advise team members of their functional positions HAD/SCV1.3 Establish actionitem(s) ProjectManager R Determine speciﬁc needs to be met",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "e11cbf912f9862966b09c8ac70f93d08",
+    "text": "ID Task Name and De- scription Role RACI Duties HAD/SCV1.1 Clarify objec- tive(s) ProjectManager R Ensure that design concept is clear and concise HAD/SCV1.2 Assign roles EngineeringLead R Advise team members of their functional positions HAD/SCV1.3 Establish actionitem(s) ProjectManager R Determine speciﬁc needs to be met",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "880da8a5ed991f0fd3e7311aac043941",
+    "text": "Note: RACI is a responsibility matrix that describes the participation by various roles in completing the tasks or deliverables for a project or business process. RACI is derived from the four key responsibilities typically used:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "b244cfab07a2a411dccc0a2aec7ee84c",
+    "text": "R esponsible – The person that is assigned to do the work A ccountable – The person that makes the ﬁnal decision and has ultimate ownership. C onsulted – The person that must be consulted before a decision or action is taken. I nformed – The person that must be informed that a decision or action has been taken",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "be16b68f0b3a098d22771637f6ce0caf",
+    "text": "Hardware Analysis and Design (HAD)/System Conﬁguration Validation (SCV) 2.120.9 page 11",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "0504852d654f4b83ced40eae0f72343f",
+    "text": "Diagram Figure 2.120.9-2 2.120.9.2.5.3(01-13-2023) HAD/SCV 2.0 Perform HAD/SCV (1) ID Task Name and Descrip-tion Role RACI Duties HAD/SCV2.1 Execution of the HAD/SCV Engineer-ingTeam R Conﬁrm the speciﬁc characteristics of the project HAD/SCV2.2 Verify the physicaldesign Engineer-ingLead R/A Project initiation begins HAD/SCV2.3 Complete the GEL template Engineer-ingTeam R Finalization of the project",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "6b47aaeb26424c657a187e3e7557c197",
+    "text": "ID Task Name and Descrip-tion Role RACI Duties HAD/SCV2.1 Execution of the HAD/SCV Engineer-ingTeam R Conﬁrm the speciﬁc characteristics of the project HAD/SCV2.2 Verify the physicaldesign Engineer-ingLead R/A Project initiation begins HAD/SCV2.3 Complete the GEL template Engineer-ingTeam R Finalization of the project",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "cd21139ad2960a4bf624745621ce9ee7",
+    "text": "Note: *RACI is a responsibility matrix that describes the participation by various roles in completing the tasks or deliverables for a project or business process. RACI is derived from the four key responsibilities typically used:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "4b28b40cb3d8c81096707a0e34c4c6a9",
+    "text": "R esponsible – The person that is assigned to do the work. A ccountable – The person that makes the ﬁnal decision and has ultimate ownership. C onsulted – The person that must be consulted before a decision or action is taken. I nformed – The person that must be informed that a decision or action has been taken.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "808df1cdbb56ae8e2412ff27cb2f4f7e",
+    "text": "Figure 2.120.9-3 2.120.9.2.5.5(01-13-2023) HAD/SCV 3.0 Develop the checklist (1) ID Task Name and De- scription Role RACI Duties HAD/SCV3.1 Describeequipmentproposedforprocure-ment Engineer-ingTeam R List the items needed and possible alterna- tives HAD/SCV3.2 Establish a budget ProjectManager R/A Finalize cost of the project",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "4854599e25447d31bd1d3df178d4984f",
+    "text": "(1) ID Task Name and De- scription Role RACI Duties HAD/SCV3.1 Describeequipmentproposedforprocure-ment Engineer-ingTeam R List the items needed and possible alterna- tives HAD/SCV3.2 Establish a budget ProjectManager R/A Finalize cost of the project",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "cd21139ad2960a4bf624745621ce9ee7",
+    "text": "Note: *RACI is a responsibility matrix that describes the participation by various roles in completing the tasks or deliverables for a project or business process. RACI is derived from the four key responsibilities typically used:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "bb7a737fd0cb1e3857f018bf6f569d23",
+    "text": "R esponsible – The person that is assigned to do the work. A ccountable – The person that makes the ﬁnal decision and has ultimate ownership. C onsulted – The person that must be consulted before a decision or action is taken. I nformed – The person that must be informed that a decision or action has been taken",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "767b9811b9e4e4e991a111dab0dda684",
+    "text": "Hardware Analysis and Design (HAD)/System Conﬁguration Validation (SCV) 2.120.9",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "8230b8ad31f26a4fccb648a737c810f7",
+    "text": "Figure 2.120.9-4 2.120.9.2.5.7(01-13-2023) HAD/SCV 4.0 Review all documentation in accordance with Enterprise Lifecycle (ELC) (1) ID Task Name and Descrip-tion Role RACI Duties HAD/SCV4.1 Ensure docu- mentation is in alignment with ELC ProjectManager R Forward the ﬁnalized GEL to customer Note: *RACI is a responsibility matrix that describes the participation by various Validation (SCV) 2.120.9 page 13",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "13d550849b1a4b71653b6eb7afe8d1e8",
+    "text": "Review all in with Lifecycle (1) ID Task Name and Descrip-tion Role RACI Duties HAD/SCV4.1 Ensure docu- mentation is in alignment with ELC ProjectManager R Forward the ﬁnalized GEL to customer",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "cd21139ad2960a4bf624745621ce9ee7",
+    "text": "Note: *RACI is a responsibility matrix that describes the participation by various roles in completing the tasks or deliverables for a project or business process. RACI is derived from the four key responsibilities typically used:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "4b28b40cb3d8c81096707a0e34c4c6a9",
+    "text": "R esponsible – The person that is assigned to do the work. A ccountable – The person that makes the ﬁnal decision and has ultimate ownership. C onsulted – The person that must be consulted before a decision or action is taken. I nformed – The person that must be informed that a decision or action has been taken.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "aafcebacfd533369f0e31ea84602c130",
+    "text": "worscvao",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "eac578aa37d5b671b5732699d4b6f5c3",
+    "text": "(1) ID Task Name and Descrip- tion Role RACI Duties HAD/SCV5.1 Discussactionitem(s) Engineer-ingTeam R Analyze the recom- mended items HAD/SCV5.2 Addressconcerns Engineer-ingLead R Clarify needs and discuss possible reso- lutions HAD/SCV5.3 Reviewactionitem(s) Engineer-ingTeam R Ensuring that all concerns have been addressed and will be settled HAD/SCV5.4 Notation of changes Engineer-ingLead R Documentation of possible alterations needed HAD/SCV5.5 ValidateComplete-ness Engineer-ingLead R Validating process steps 1-5 for completeness",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "cd21139ad2960a4bf624745621ce9ee7",
+    "text": "Note: *RACI is a responsibility matrix that describes the participation by various roles in completing the tasks or deliverables for a project or business process. RACI is derived from the four key responsibilities typically used:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "4b28b40cb3d8c81096707a0e34c4c6a9",
+    "text": "R esponsible – The person that is assigned to do the work. A ccountable – The person that makes the ﬁnal decision and has ultimate ownership. C onsulted – The person that must be consulted before a decision or action is taken. I nformed – The person that must be informed that a decision or action has been taken.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "767b9811b9e4e4e991a111dab0dda684",
+    "text": "Hardware Analysis and Design (HAD)/System Conﬁguration Validation (SCV) 2.120.9",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "b6f6c9048d5d177c9e264203419a4a63",
+    "text": "Figure 2.120.9-6 2.120.9.2.5.11(01-13-2023) HAD/SCV 6.0 Review HAD/SCV and get stakeholder approval (1) ID Task Name and De- scription Role RACI Duties HAD/SCV6.1 Review completeddocumentfordiscrep-ancies Engineer-ingLead R Ensure accuracy of infor- mation within GEL HAD/SCV6.2 SolutionDesign Engineer-ingLead R Design detail components HAD/SCV6.3 Circulatecompleteddocumen-tation ProjectManager R/A Forward documentation to respective parties",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "57323defcce67dcf0afa98f1ef306d61",
+    "text": "ID Task Name and De- scription Role RACI Duties HAD/SCV6.1 Review completeddocumentfordiscrep-ancies Engineer-ingLead R Ensure accuracy of infor- mation within GEL HAD/SCV6.2 SolutionDesign Engineer-ingLead R Design detail components HAD/SCV6.3 Circulatecompleteddocumen-tation ProjectManager R/A Forward documentation to respective parties",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "cd21139ad2960a4bf624745621ce9ee7",
+    "text": "Note: *RACI is a responsibility matrix that describes the participation by various roles in completing the tasks or deliverables for a project or business process. RACI is derived from the four key responsibilities typically used:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "4b28b40cb3d8c81096707a0e34c4c6a9",
+    "text": "R esponsible – The person that is assigned to do the work. A ccountable – The person that makes the ﬁnal decision and has ultimate ownership. C onsulted – The person that must be consulted before a decision or action is taken. I nformed – The person that must be informed that a decision or action has been taken.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "3ddf649abce7131db1f367805bd302cc",
+    "text": "eo/scveoe sy e ot",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-120-009--2023-01-13.pdf",
+      "page_number": 20
+    }
+  }
+]

@@ -1,0 +1,3845 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "268d6490b14f1100ce515fe3dfeb5ed4",
+    "text": "The following outlines changes made to IRM 2.4.28, IDRS Terminal Input, Command Codes STAUP, STATI and STATB.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "f762121f4a878da27143bf08c57a07ae",
+    "text": "IRM Subsection Description IRM 2.4.28.7.1, CC STAUP, STATI, STATB Input Items Revisions to paragraph (7): • Converted paragraph (e) to a bullet list for clarity. • Converted paragraph (f) to a bullet list for clarity. IRM 2.4.7.3, CC STAUP, STATI, STATB Tax Module Re- quirements (IMF, BMF, IRAF) • Revised paragraph (4) items (a), (e), and (h) to reﬂect process changes allowing Field Collection (ICS) to request Status 22 when the current Status is 26. (2) Editorial Changes: #### ### #### ##### ## ######",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "ccdf802ca701dbea09e1061b58df4ed2",
+    "text": "Added the title of the IRM subsections to citation;",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "6e8782c791ce3c54e953e59c9f1f5102",
+    "text": "Changed “latest (most current)” or “latest” to “current” for clarity;",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a4b7d733f9dfb3bd018b6903bc73bb4b",
+    "text": "Changed “earliest (oldest)” to “oldest” for clarity;",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "415c33e6481b176558f0db373a32a292",
+    "text": "The terms “Assignment Code” and “Branch Group code” are used throughout for consistency. Prior versions had varied uses of Number or Num or CD and different capitalizations;",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "c978a59e5dc3692411cfcdab01079387",
+    "text": "LB&I, SB/SE, TE/GE, W&I.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "b01535085b830a839f5a846fffdc992e",
+    "text": "Program Scope and Objectives",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "1c60733b2e51ee670da06daa598f2dfa",
+    "text": "CC STAUP Command Code Deﬁner “I” CC STATI, STATB Format Screen Output CC STATI, STATB Input CC STAUP Command Code Deﬁner “S” CC STATI, STATB Valid Screen Output CC STATI, STATB Error Screen Output CC STAUP Screen Error Present",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "4f37016b03e7153eb69adb5d689da94e",
+    "text": "Command Codes STAUP, STATI and STATB 2.4.28 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9dcbadcdba3856e3f99e65dd8bb6b849",
+    "text": "and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8e123098c4c234503cdeed5d2eb2186a",
+    "text": ") Purpose: This IRM section describes IDRS Terminal Input Command Code STAUP. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "abc845e49c02e199cc5f745b5f166f9c",
+    "text": ") Audience: All IRS business units. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ad2aac325a5b9f65f3f232af13303736",
+    "text": ") Program Owner: Account Services, which is under the Director, Internal Man- agement (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "19463fcfd62f20878ff268be7d9d7be9",
+    "text": ") Primary Stakeholders: Wage & Investment (W&I), Large Business and Inter- national (LB&I), Small Business Self Employed (SB/SE), and Tax Exempt and Government Entities (TE/GE) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "13b9645e6c352936cfc26c3fa059ff7f",
+    "text": ") Program Goals: This IRM provides the fundamental knowledge and proce- dural guidance to allow a user to request IDRS status updates. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "46ed9ad02a3ea8d55801866bd3edae11",
+    "text": ") Status update requests are accomplished via Command Code STAUP. The command code is used for modules that are or have been balance due modules. Command Code STAUP is valid for IMF, BMF, IRAF, and NMF. Command Code STAUP can update certain IDRS statuses real-time or request that a speciﬁc status and notice be issued during a weekly update. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2c7a9e2c842ecf803162ea40a79e8774",
+    "text": ", CC STAUP Notice Requests. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "278365371c775f0b6da2ea57987ffad8",
+    "text": ") Input of Command Code STAUP causes a history item to be generated in the Action History Section of the tax module. The history item contains the current date, the terminal operator employee number, the Action History Source Code and the activity code STAUP nnnn . (nnnn = the status requested plus the number of cycles delay, if present, requested by the terminal operator.) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d4388669de68f0466c2893d8a7bb6d81",
+    "text": ") Input of Command Code STAUP also causes the tax module’s IDRS status update real-time. The module updates to either status",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d0156801159cc267338acd550ecfdcbb",
+    "text": ", status",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "09d9a81edd51af2fe4ce7be69abfc33e",
+    "text": ", or the status requested as appropriate. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0b7bc4a30384b076367eeb403944b060",
+    "text": ") In addition to updating statuses, STAUP has the capability of updating assign- ments in the Entity Case Assignment Section and marking the last issued CP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "dfe5aeb33e8f5b01092ef8b4af22a8cb",
+    "text": "notice as destroyed in the Notice History Section. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "406046378e7017d6ed6376e2525b9b96",
+    "text": ") Command Code STAUP will not process modules with MFT Codes",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6201111b83a0cb5b0922cb37cc442b9a",
+    "text": "and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "72fb552240839a7b568f7849c55da4c4",
+    "text": "Also, modules with MFT Code",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3a6f5c4b2c94c1a0ebe8c9e74c9660f3",
+    "text": "and EO-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8eec599dbac0188d0b1c2440aba92787",
+    "text": "- STATUS-IND =",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "bcacbf0ada587e50f6976b4c8fd0643a",
+    "text": "will not be processed. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "666b8d45bb94f0ae56402bf25943986a",
+    "text": ") Command Code STAUP will process MFT Code",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "acbaa8184aa7ebde0db27dd1c15e11f5",
+    "text": "for the new Annual Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "734a72e13adbdb1065d7efb15c8471e3",
+    "text": "of the Quarterly Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2e9b176ff2c7bf3f8bcbcd2b3be08634",
+    "text": "which has MFT-CD =",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b2b6dd2eecd45c3be1f139fc75f7db5d",
+    "text": "for a BMF TIN Account. The MFT-CD",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "859dd3ce7aa5f417f8083d790cbd0c4f",
+    "text": "will also be processed for an NMF Account, See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "11482437fb303f211e0a132853580c21",
+    "text": ", CC STAUP NMF Status Update Request, when executing CC STAUP and CC STATB. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b73d1e2c1423403ccb73f15e40e1fe89",
+    "text": ", Field Collection Procedures - Collection Inventory, provides an overview of the systemic collection inventory routing systems. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9c9045191dd913dd25664b9c5d20e1bf",
+    "text": ") Applications Development is responsible for the maintenance of Command Code STAUP. Codes STAUP, STATI and STATB",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ef51e648dfc814b76990088c13114222",
+    "text": "page (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c73ac94c18272d58e051dd923ca62162",
+    "text": "with a #",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d03c77ee53829d4730aefb23ea42ab0b",
+    "text": "Purpose: This IRM section describes IDRS Terminal Input Command Code",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3d068d2a0af0c8d11ec89d43b9e1af7d",
+    "text": "Program Goals: This IRM provides the fundamental knowledge and proce- dural guidance to allow a user to request IDRS status updates.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "220fb73518e9128c462bb771cd748545",
+    "text": "Input of Command Code STAUP causes a history item to be generated in the Action History Section of the tax module. The history item contains the current date, the terminal operator employee number, the Action History Source Code and the activity code STAUP nnnn . (nnnn = the status requested plus the number of cycles delay, if present, requested by the terminal operator.)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "00d8d44e4862d4f7f085a42ede5b0176",
+    "text": "IRM 5.1.20, Field Collection Procedures - Collection Inventory, provides an overview of the systemic collection inventory routing systems.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0251c0b51dd336dc13c45baba1a87f07",
+    "text": "2.4.28.1.4(01-01-2023) Program Management and Review (1) Command Code STAUP validates the user input and provides either a “Request Completed” message or Error Codes, prompting the user to correct the information. 2.4.28.1.5(01-01-2023) Program Controls (1) SACS controls all IDRS user accesses and permissions. 2.4.28.1.6(01-01-2023) Terms/Deﬁnitions/Acronyms (1) Commonly used Acronyms in this IRM. Acronym Meaning BMF Business Master File CC Command Code CSED Collection Statute Expiration Date FC Field Collection EPMF Employee Plan Master File IDRS Integrated Data Retrieval System IMF Individual Master File IRAF Individual Retirement Account File NMF Non-Master File TC Transaction Code TIF Taxpayer Information File",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6beeff6e0216c9b61dea089a446c53d3",
+    "text": "Command Code STAUP validates the user input and provides either a “Request Completed” message or Error Codes, prompting the user to correct the information.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "bb7c4f51edc3397e8ca7da7d97972ac2",
+    "text": "Acronym Meaning BMF Business Master File CC Command Code CSED Collection Statute Expiration Date FC Field Collection EPMF Employee Plan Master File IDRS Integrated Data Retrieval System IMF Individual Master File IRAF Individual Retirement Account File NMF Non-Master File TC Transaction Code TIF Taxpayer Information File",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7062167af3f66fe4634defc4160e22ba",
+    "text": ") By requesting a notice status, STAUP will interrupt, delay, accelerate or skip routine notice issuance. If a notice is requested, the number of cycles delay before issuance of the notice is required. An automatic status delay update to the next sequential notice status, or a request to mark the last issued CP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "dc888f81583729abc8fd2ef7bb3801df",
+    "text": "notice as destroyed and request another can be requested for IMF, BMF, and IRAF (not NMF) cases. If the module qualiﬁes for issuance of the notice requested, the weekly update will cause the notice to issue when the number of cycles delay has expired. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "aaa6bc14443f4f69c7900a416672f447",
+    "text": ") The statuses (notices) progress as follows:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "2cb19721b203cf1f8b5c1492919fd899",
+    "text": "2.4.28.2(01-01-2023) CC STAUP Notice Requests",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "b727b683521d75d598702c3da0703ae4",
+    "text": "Command Codes STAUP, STATI and STATB 2.4.28 page 3",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "8b370860e459101056f8e91c6ddea3a2",
+    "text": "(3) If the status requested is a notice status, the status generated by CC STAUP will be as follows:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "34c065928271108481db5f35b160e646",
+    "text": "The weekly analysis will generate the appropriate notice and status when the number of cycles delay input has expired, or earlier depending on control base information.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ba91a7e06a8aff92ff6cc03b1482c478",
+    "text": "The weekly analysis will generate the appropriate notice and status when the number of cycles delay input has expired, or earlier depending on control base",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b848ee614ed431c9e660076aff9d8c5e",
+    "text": "number of cycles delay input has expired, or earlier depending on control base information. a. If the requested number of cycles delay is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "64f5891ca52852e88ea7cfa8505c9aa9",
+    "text": ", the delay is not affected by the absence, presence, or status of any control base. The delay is released when the input number of cycles lapse. b. If the requested number of cycles delay is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "bb4d8c9d6f05419d6c023c3843dd139f",
+    "text": ", the delay may be released earlier depending on control base information as follows: After weeks delay, if there is at least one open control base, release the delay after the full number of cycles input or, if there is no open control base, look to release the delay the later of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "259184727d7cbfd5fb59f3b60fa46143",
+    "text": "weeks after input (status cycle +",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "0d180ec8749ee61f59f9f60b4354265d",
+    "text": "), or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "4aa5bb4e0ecdc49787613447509bd8b2",
+    "text": "weeks from the most recently closed control base. c. Deﬁne “minimum number of cycles delay” as the number of cycles the STAUP will delay the notice regardless of the absence, presence, or status of any control base. It is also the earliest the delay will release. The value of minimum is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3599903b510ade696b418e0a6f962ad1",
+    "text": "d. Deﬁne “balance of cycles delay” as the number of cycles over the minimum delay, during which the delay may be released depending on control base information. e. Deﬁne “maximum number of cycles delay” as the total number of cycles input. It is equal to the minimum number of cycles delay + the balance of cycles delay. f. Control bases do not extend the delay past the maximum number of cycles requested.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "be542318431b54bd6e410533ff750f09",
+    "text": ") A request to mark the CP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "b1a538aeab5df9f6007ce69232a364a7",
+    "text": "notice as destroyed (“D”) will cause the Notice Suppress Code for the latest CP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "b261c04b01136d1de83fef6cd965fb4c",
+    "text": "entry in the Notice History Section to updated to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "5543e9fe87129ba484c8b572b7aaa8ca",
+    "text": "A request to mark the notice as destroyed and to request another (“R”) will cause the Notice Suppress Code to be updated as above, and will be treated like a status request",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "11e194ee903d1453570e741a02954e99",
+    "text": ") Command Code STAUP will only prevent an erroneous IDRS notice if it is input by the Friday before the erroneous notice is scheduled to generate (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "cdd090e6c4e27fc8fee0b31ea424b660",
+    "text": "days prior to the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "c39dd6504664906fc077364e75d6082d",
+    "text": "C date). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "7a40b609f3c6c83dc91120a831837139",
+    "text": ") The command code STAUP with a deﬁner of “I” must be input prior to using the command code STATI (deﬁner blank) initially. The prerequisite will return format screen with literals displayed on lines",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "951dcee3a7a4f3aac67ec76a2ce4469c",
+    "text": "&",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "5a9c4f3a73a944a13478dd51024cf4e6",
+    "text": "(See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "74e56053b4f4b2555e9009ffe17eb7b9",
+    "text": ", STATI, STATB Format Screen Output). The terminal will then be ready for status update requests. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "aff8216cbd45929a08c227482d509152",
+    "text": ") The command code STAUP with a deﬁner of “B” must be input prior to using the command code STATB (deﬁner blank) initially. The prerequisite will return format screen with literals displayed on lines",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "951dcee3a7a4f3aac67ec76a2ce4469c",
+    "text": "&",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "5a9c4f3a73a944a13478dd51024cf4e6",
+    "text": "(See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "74e56053b4f4b2555e9009ffe17eb7b9",
+    "text": ", STATI, STATB Format Screen Output). The terminal will then be ready for status update requests. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "eb84558f9d6711814704e55226e5a849",
+    "text": ") Each input ﬁeld of the format screen will be preceded by a > symbol. The cursor will move automatically to the next ﬁeld when ﬁeld input is completed by use of the tab key. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "b05b557fa915bfdb9acb0e61dd6afd05",
+    "text": ") The Status Request ﬁeld of the format screen will display an asterisk signifying automatic default to the next sequential status unless overwritten by a speciﬁc status request. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "51b0d0cae11319fc068fce922f2dee50",
+    "text": ") STATI and STATB both accept up to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ebbd20b55b904ae0aeb60279567bfb78",
+    "text": "lines of input, one tax module to a Every screen line will be validated and processed. If all input is valid and no errors occur, the screen will be returned with “ STATI” or “STATB” on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "01faa76a32ff36990481404e5aeedbaf",
+    "text": ", literals on lines",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "951dcee3a7a4f3aac67ec76a2ce4469c",
+    "text": "&",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "fd17ab921b09456d7645e27f354f1c04",
+    "text": "and “REQUEST COMPLETED” on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3871a8b90bc9a43f093283859712b878",
+    "text": ") If a deﬁner other than I, B, or S is erroneously input, the screen will be returned with the message “INVALID DEFINER” on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "0008fc9c5c23a4f9215fbc1151402d68",
+    "text": "The exception deﬁner “F”, which if erroneously input will return the message “DEFINER F INVALID - PLEASE USE I OR B.” Any status update request inputs on lines through",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "6e536d22b036262220b81a174756d893",
+    "text": "will not be processed and will be redisplayed. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "977aef90f91d1937fc9fb8977eb30919",
+    "text": ") If a data item on a screen line is in error or invalid, the item in error and an error code at the end of the screen line will be displayed in inverse video. to three alpha characters may appear as error codes for a screen line (See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "25ae361cb801cfe12d56cd356683479d",
+    "text": ", CC STAUP, STATI, STATB Error Codes for an explanation of error codes.) The message “PLEASE CORRECT INVALID DATA” will be displayed on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "1118c514e44641fe7f7f38be7be0a03c",
+    "text": "All valid input lines will have been processed and will disappear from the screen. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "99706b1c47f7e34d7196ac23112b7102",
+    "text": ") A repeat indicator (“R”) may be input in the second position of screen lines through",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f4186e4efb6bbc0e2cea9049dc27b357",
+    "text": "This will indicate that the TIN and File Source and possibly other information from the prior line will be repeated on the “R” line. The position each data item on the line will be checked. If it is blank, the data from the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "06351e7d3637c408c680718c3e1b2d5d",
+    "text": "IDRS Terminal",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "0502c2b613582d9de4d2283395adfdb1",
+    "text": "STATI and STATB both accept up to 17 lines of input, one tax module to a line. Every screen line will be validated and processed. If all input is valid and no errors occur, the screen will be returned with “ STATI” or “STATB” on line 1, the literals on lines 2 & 3 and “REQUEST COMPLETED” on line 24.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "c6ed6cdc2b0bd4f27c285fd89a3ffbe8",
+    "text": "Command Codes STAUP, STATI and STATB 2.4.28 page 5",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "cca17c50d75fa3d865e52695407b3a59",
+    "text": "preceding line will be used. Thus the terminal operator will have to input only the Tax Period, Status Requested, Number of Cycles Delay and those items which differ from the previous line.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a0f321bfd27de364cf283af4f1c60c9f",
+    "text": "preceding line will be used. Thus the terminal operator will have to input the Tax Period, Status Requested, Number of Cycles Delay and those items which differ from the previous line. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1ee56a4b82dd8f1f749996937284dd6a",
+    "text": ") STAUP with a “S” deﬁner will accept a single line of input using only the requested status and number of cycles delay. To use STAUP in this manner (See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3ddb0b5bd83dd395120ece9291444d1f",
+    "text": ", CC STAUP Command Code Deﬁner “S”), the command code TXMOD will be a prerequisite. The TIN must also be present on line Invalid data or entries will be handled the same way as multiple inputs, all ﬁelds being displayed. Error codes at the end of the screen line and erroneous data ﬁelds will be displayed in inverse video. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8059c91111f321c4574728ba131323e5",
+    "text": ") The ﬁrst ﬁeld on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "62fc06df1c9cfbf78f00d1eb81d6ff28",
+    "text": "(Positions",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "951dcee3a7a4f3aac67ec76a2ce4469c",
+    "text": "&",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b1a9fa1a86a4be67384539367a0b8987",
+    "text": ") is multi-functional. If the input is than or equal to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "debfcdad03181c59b25a888ef70e8053",
+    "text": ", an automatic status delay update to the next sequential status for the displayed number of cycles is being requested (not allowed NMF cases). If the value in this ﬁeld is greater than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "48398a718c3641b2b3c879260e53963d",
+    "text": ", the request is for update to that speciﬁc status for the number of cycles displayed in the next ﬁeld. STATI, Checks (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b3c5a59d89973a61bb8cdfe55b8113f1",
+    "text": ") Following are the validity checks for CC STAUP, STATI and STATB input status update requests, and Tax Module requirements. STATI, Items (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "924586dfb3489ceea00bbe93f5bdb984",
+    "text": ") The TIN must be a valid TIN. If the TIN is valid it is checked for consistency with the ﬁle source, if present. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "5341cfdaa89a0ab51d669347d91a10bc",
+    "text": ") If using STATI, all the accounts processed must be IMF. If using STATB, of the accounts processed can be IMF. IMF and non-IMF accounts can not processed in the same batch. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7721a57947bafd15c082a030d9e08599",
+    "text": ") The Name Control must match the name control on the TIF. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4a6e7d8191f803b0eb55bd4279ac11b5",
+    "text": ") The employee must be proﬁled to access the IMF/non-IMF account requested. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4a55ec1567125fd4bf33a75875ff0e3c",
+    "text": ") The MFT and Tax Period must be valid, and consistent with each other and with the TIN. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1c0f78e634a1801ebc274f2ef87fb047",
+    "text": ") The Status Requested and Number of Cycles Delay will be checked for input line as described below.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1ee56a4b82dd8f1f749996937284dd6a",
+    "text": ") STAUP with a “S” deﬁner will accept a single line of input using only the requested status and number of cycles delay. To use STAUP in this manner (See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "18bd7666610af7d41a3d3964f2d31fab",
+    "text": ", CC STAUP Command Code Deﬁner “S”), the command code TXMOD will be a prerequisite. The TIN must also be present on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "90fb7e97117f93aee74deb6857b9bda9",
+    "text": "Invalid data or entries will be handled the same way as multiple inputs, all data ﬁelds being displayed. Error codes at the end of the screen line and erroneous data ﬁelds will be displayed in inverse video. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8059c91111f321c4574728ba131323e5",
+    "text": ") The ﬁrst ﬁeld on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "62fc06df1c9cfbf78f00d1eb81d6ff28",
+    "text": "(Positions",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "951dcee3a7a4f3aac67ec76a2ce4469c",
+    "text": "&",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "de3fa7e8f73708918913ed39f3e1e0be",
+    "text": ") is multi-functional. If the input is less than or equal to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "f44d6e33758c7dd7bcb824e6e988c636",
+    "text": ", an automatic status delay update to the next sequential status for the displayed number of cycles is being requested (not allowed for NMF cases). If the value in this ﬁeld is greater than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "42b67ead8fee0945c657b68b12f5adb7",
+    "text": ", the request is for",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "924586dfb3489ceea00bbe93f5bdb984",
+    "text": ") The TIN must be a valid TIN. If the TIN is valid it is checked for consistency with the ﬁle source, if present. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "bbc3cc5eb86840366d4f2ac58d3e51e9",
+    "text": ") If using STATI, all the accounts processed must be IMF. If using STATB, none of the accounts processed can be IMF. IMF and non-IMF accounts can not processed in the same batch. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7721a57947bafd15c082a030d9e08599",
+    "text": ") The Name Control must match the name control on the TIF. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4a6e7d8191f803b0eb55bd4279ac11b5",
+    "text": ") The employee must be proﬁled to access the IMF/non-IMF account requested. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4a55ec1567125fd4bf33a75875ff0e3c",
+    "text": ") The MFT and Tax Period must be valid, and consistent with each other and with the TIN. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "9189c49056ac7b8eab3aa972f32518e1",
+    "text": ") The Status Requested and Number of Cycles Delay will be checked for each",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8a54c9f5fe49b9ceccc7db5ad7ea1584",
+    "text": "2.4 IDRS Terminal Input #### ##### #### #### ## ## ######## ### # ## ##### #",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9ebcc6e6de636517c2199e2a35054559",
+    "text": "2.4.28.7.2(01-01-2023) CC STAUP IMF, BMF, IRAF Status Update Request",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "73710e590f5ecc0f5f88a7d9a594c388",
+    "text": "Command Codes STAUP, STATI and STATB 2.4.28 page 7",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "e6b59edba6eacd9281cce2343601dd11",
+    "text": "BMF, (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "75eb5ada86b2013413c9d4b81e940f57",
+    "text": ") A request will not be accepted for a module created or updated via the online MFREQ or RECON process. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8af2c135a7511d9c8758301a25a8af8b",
+    "text": ") If the request is for an automatic status delay update to the next sequential status, the current IDRS status must not be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3d30020b1863441a64e786bdc72745e9",
+    "text": ", or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8854ea0e62ee715934fc90b27fcdeb36",
+    "text": ") If the requested status is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "72674a8be5b83b09710773eccdc9240a",
+    "text": ", module must meet the following con- ditions: a. Master File ﬁrst notice status (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "cfe2dbebdb5db44a15a50c4a6ab58aef",
+    "text": ") must be present on the module. b. Number of cycles must be present. The valid range for the number of cycles is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "9c6725dc269a48ce4b5bc78b580ccab2",
+    "text": "through",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "f0e1eb64e91c36d317456692fa452ddf",
+    "text": "c. If the current Master File status is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "cf87a5f0081f19ed015c0d26c395d8ab",
+    "text": ", the current date plus the number of cycles entered must be subsequent to the return due date. d. The status request must be equal to or later than the last notice issued. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "998f26ab18a40c668cf962e6c031ea62",
+    "text": ", CC STAUP Notice Requests for notice progression. f. The current IDRS status must not be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "70c734f8b01f4ccd0f77feea453c1f01",
+    "text": "(except with COLL-CLOSING-CD",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "a6f8b2a1272ef3da826824b9711e1cb5",
+    "text": ") or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8854ea0e62ee715934fc90b27fcdeb36",
+    "text": ") If the requested status is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "76ee4debbb9de5db27cccf1ee65c7fe3",
+    "text": ": a. The current IDRS status must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "4a372ad4b8a13b80a7e179233acf21a0",
+    "text": "b. Master File ﬁrst notice status (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "a81c9251334163eafa8a50c10dbf4a89",
+    "text": ") must be present. c. Number of cycles must be present with the requested status. The valid range for the number of cycles is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "9c6725dc269a48ce4b5bc78b580ccab2",
+    "text": "through",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "2be8ded43aa5b9662e5296ff6b434e56",
+    "text": "d. If the current Master File status is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "52532fb9feb9c57ffe609aa73f878bb9",
+    "text": ", the current date plus the number of cycles entered must be subsequent to the return due date. e. The number of cycles entered must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "e48f4fdaf3bc2e06fd9d819e50bd60ec",
+    "text": "if the current IDRS status is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3d30020b1863441a64e786bdc72745e9",
+    "text": ", or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "cf081e29ce7541ffe19b737922f23e04",
+    "text": "g. The current IDRS status cannot be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "0c368cd9254995abd7e295489117bd71",
+    "text": "If the request is for an automatic status delay update to the next sequential status, the current IDRS status must not be 22, 24, 26, 48, or 50.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d218e5d52102494e78a615d1e541b40d",
+    "text": "b. Number of cycles must be present. The valid range for the number of cycles is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "9c6725dc269a48ce4b5bc78b580ccab2",
+    "text": "through",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "f0e1eb64e91c36d317456692fa452ddf",
+    "text": "c. If the current Master File status is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "cf87a5f0081f19ed015c0d26c395d8ab",
+    "text": ", the current date plus the number of cycles entered must be subsequent to the return due date. d. The status request must be equal to or later than the last notice issued. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d14954f12d0cf403536afad64b93cb6e",
+    "text": ", CC STAUP Notice Requests for notice progression.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "2ce585b3d88cbc9ea6ccd704486407ee",
+    "text": "The current IDRS status must not be 14, 22, 24, 26, 41-46, 60, 71, 72 (except with COLL-CLOSING-CD 76/77) or 91.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "eb943ea57105730edf0f4381f5b3743e",
+    "text": "The current IDRS status cannot be 60.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "ab3003df1e30c31c744e4c8c514ff758",
+    "text": "j. If the current IDRS status is 72, then the COLL-CLOSING-CD must be 76",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "dd12feb65ab38319233debd1c4b2acf3",
+    "text": "If the requested status is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "76ee4debbb9de5db27cccf1ee65c7fe3",
+    "text": ": a. The current IDRS status must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "888837c727ae8d202e596bc0a69ccdb8",
+    "text": "b. The number of cycles entered must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "168a0c53cac2b75d2294a15fef986be6",
+    "text": "or blank. c. Master File ﬁrst notice status (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "0ba146df280bc5a19b0df3e7f1f9faab",
+    "text": ") must be present. d. If the current Master File status is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "5e179cbcf939da8ad683f810a1c068fd",
+    "text": ", the current date plus the number of cycles entered must be subsequent to the return due date.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "23e0993b3d761640d69ccd6b9063bf0a",
+    "text": "a. The number of cycles must not be entered. b. A TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "ee118349ba6adf7c44e7afe5f0e6a6e5",
+    "text": "without a subsequent TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "3d30020b1863441a64e786bdc72745e9",
+    "text": ", or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "80d0a04624ee8fc1a31d26303d3646a8",
+    "text": "must be present in the module. c. Master File ﬁrst notice status (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "0b6833c64225b062f0072dd2fe4c7146",
+    "text": ") must be present.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "f805b319ed8ac68adb7856a6475538e5",
+    "text": "a. The number of cycles must not be entered. b. The current IDRS status must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "3c88b0c5ad158563026f2a1920e63c91",
+    "text": "c. A TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "ee118349ba6adf7c44e7afe5f0e6a6e5",
+    "text": "without a subsequent TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "777f276131ba59145d9e56cb7465b89a",
+    "text": ", respectively, must be present in the module, or a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "ee118349ba6adf7c44e7afe5f0e6a6e5",
+    "text": "without a subsequent TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "9099ce6ea19956131d80b182fc5d6a24",
+    "text": "must be present in the entity.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "23c12a3087452abd5cf1324db3374535",
+    "text": "MF First Notice status (19 or 21) must be present on the module.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "4f37016b03e7153eb69adb5d689da94e",
+    "text": "Command Codes STAUP, STATI and STATB 2.4.28 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "f470c807da05fb6be549be80f323114c",
+    "text": "The last CP 504 notice must have been issued in the past two cycles. The number of cycles must be blank.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "5d8761a4027bee274b5a0b170a5e4bc0",
+    "text": "Listed below are the module requirements for NMF that must be met before the status update request is accepted.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3def0401f1e890d5b764d1f04ded341d",
+    "text": "If the requested status is 12 The number of cycles must not be entered. If the requested status is 23 The number of cycles must not be entered If the requested status is 26 The number of cycles must not be entered If the requested status is 29 The number of cycles must not be entered If the requested status is 89 No restrictions apply at this time.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "25487137f815fcba3360fb6c4b6dbb13",
+    "text": "And (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "8c765e7e134f4f794c0d08c1bc0817f0",
+    "text": ") All data items on a screen line will be validated and processed. When a has been correctly processed, it is blanked out. If all input lines are processed correctly, a blank screen will be returned with the message “REQUEST COMPLETED-(SC Abbreviation).” The service center abbreviation is that service center the request was routed to. If a data item is invalid, that item an error message (signiﬁed by an alpha character) will be displayed in video. Up to three error messages (characters) can be displayed at the end a line. An error in one line will not prevent processing of further lines; all on the screen will be processed. The screen will be returned with all of the error lines moved up to the top of the screen. An error message “PLEASE CORRECT INVALID DATA-(SC Abbreviation).” The service center abbreviation of the service center the request was routed to will appear on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "0eddb637351140d76c1a9bc3a4cf516b",
+    "text": "of screen. If it is intended that the erroneous line is not to be re-input, then it must be blanked out Line (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "b09db0117b54a5f47a565d694f00d1d6",
+    "text": ") No data may be input on lines",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "31f241cb49ab0ced646e0fc0bf69a44c",
+    "text": "If data is input on lines",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "c1bc82f6827f1e7dc9bca5252b789901",
+    "text": ", the will return the message “DATA INVALID ON LINES",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "71fc7fb68f940d459b3c40b493bec0ef",
+    "text": "” Lines",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "5f258dc416ef1c6f2c76c22cc8edeccb",
+    "text": "through will not have been processed. Line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "cb18d0c3e1c491022e1ad666a64ce875",
+    "text": "will be used only for returning screen messages to the terminal operator. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "68647309074a4112ba6a93faf84d60d0",
+    "text": ") The typical messages returned to the terminal operator and their meanings are: a. REQUEST COMPLETED-(SC Abbreviation) — all data validated and processed. b. PLEASE CORRECT INVALID DATA-(SC Abbreviation) — an error been detected in one or more input lines. (Invalid ﬁelds and an error code at the end of the input line will appear in inverse video.) For de- scription of error codes See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "1c154ebd62e908efb0d9f86f63a33e72",
+    "text": ", CC STAUP, STATI, STATB Error Codes. c. INVALID DEFINER — a deﬁner other than “I”, “B”, “S”, or “F” has used. d. DEFINER F INVALID — PLEASE USE I OR B -deﬁner “F” has been used. e. NO DATA INPUT — no input on Lines",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "9c6725dc269a48ce4b5bc78b580ccab2",
+    "text": "through",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "6fa2a358c575d99b6fefcdd1e0e37d61",
+    "text": "f. DATA INVALID ON LINES",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "80aa7b98eb5dc61a185e6bf7e9066ebc",
+    "text": "— data is present on lines",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "a0c9b7143d50fce1e29c2e9953fbb4b5",
+    "text": "Codes (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "28379b9fecc0c365d991b2d4763bf4bb",
+    "text": ") All elements of data from the input screen will be validated. If any data is invalid, the entire line of input will be displayed for potential operator correc- tion. The error ﬁeld will display in inverse video, and an error code will be displayed as an alpha character following the erroneous input line. Up to alpha error codes may be shown on each line where an error condition is covered. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "2feda7514c1f2fafd9d5e6a1df79e079",
+    "text": ") Following are the meanings and conditions for each error code.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "06351e7d3637c408c680718c3e1b2d5d",
+    "text": "IDRS Terminal",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3f0fd19c8cf4aadb16e3aae213c78920",
+    "text": "All data items on a screen line will be validated and processed. When a line has been correctly processed, it is blanked out. If all input lines are processed correctly, a blank screen will be returned with the message “REQUEST COMPLETED-(SC Abbreviation).” The service center abbreviation is that of the service center the request was routed to. If a data item is invalid, that item and an error message (signiﬁed by an alpha character) will be displayed in inverse video. Up to three error messages (characters) can be displayed at the end of a line. An error in one line will not prevent processing of further lines; all lines on the screen will be processed. The screen will be returned with all of the error lines moved up to the top of the screen. An error message “PLEASE CORRECT INVALID DATA-(SC Abbreviation).” The service center abbreviation of the service center the request was routed to will appear on line 24 of the screen. If it is intended that the erroneous line is not to be re-input, then it must be blanked out",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "b0e89e05ca4b9d5f8ef789c4ab57e303",
+    "text": "(01-01-2023) CC STATI, STATB Line 24 Messages",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "b0ce73cb28f72b8406e1b60cc04c4c4d",
+    "text": "The typical messages returned to the terminal operator and their meanings",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "1c66fdc5bdc914fd10172e6baa31bea9",
+    "text": "Command Codes STAUP, STATI and STATB 2.4.28 page 11",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "7d6f291ed20302cc0696d991ff9c4ae5",
+    "text": "Error Condition TIN/FILE SOURCE INVALID —",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "8c57e0dd54fe4379ffa40bc08d07e7ef",
+    "text": "The TIN or File Source is invalid or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "e3f2ddf48dd86f16059ddc27abea971e",
+    "text": "File Source indicates an EPMF account or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "f7484b4c49f9e4174c15cc0cc0bdaccd",
+    "text": "TIN or File Source not present on screen input or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "dceadeb907b5a3833b99e8a60c7a3b3d",
+    "text": "IMF/BMF Access Restricted or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "749b93a2abad54e1083e218b24956332",
+    "text": "An attempt was made to process a Non-IMF account through STATI or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "b242cf06d57f8231cfd2bd7f635f3094",
+    "text": "An attempt was made to process an IMF account through STATB. NAME CONTROL INVALID —",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "cef50bc1e79c2424ec22c023a3eb7a14",
+    "text": "The Name Control is invalid or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "334f98d639577008b3d9386e6041faaf",
+    "text": "Name Control not present on screen input or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "dcaec145032cbbb4b58f19258350065e",
+    "text": "Name Control does not match TIF Name Control. MFT/TAX PERIOD INVALID —",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3485239e72700f5edac19df74067545f",
+    "text": "MFT or Tax Period is invalid or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "90b6f3ecf8ca8e94aa75aa9adcce7fa6",
+    "text": "MFT or Tax Period not present on screen input or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "9b7d19f8ec1b44dde0c4b0f3ff5ec335",
+    "text": "MFT or Tax Period inconsistent with TIN or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "2e39fdca38c1dc0ec35376fc28bd5376",
+    "text": "MFT not processed by CC STAUP. ACCOUNT NOT IN FILE —",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "0545d07a78665ce8078c88f91f47bc3e",
+    "text": "No Basic Entity present on TIF (No data ﬁelds will be in inverse video) or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "4b6a41dc16eee9638c126e26be1881ce",
+    "text": "6 An attempt was made to process an IMF account through STATB.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "60520110ed29fa44910ca9753959d9cc",
+    "text": "1 No Basic Entity present on TIF (No data ﬁelds will be in inverse video) or",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "0545d07a78665ce8078c88f91f47bc3e",
+    "text": "No Basic Entity present on TIF (No data ﬁelds will be in inverse video) or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "9941b3e9f496cc68fc1822b81632eca6",
+    "text": "Account is dummy or memo account. TAX PERIOD NOT IN FILE —",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "f977cc4591aac69e439289289be28821",
+    "text": "Tax Period not present on TIF (No data ﬁelds will in inverse video) or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "312f2c20dc0ecabe109c625a5941c8e5",
+    "text": "Tax Period is for memo or dummy module or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "8ce3af575d1f425ffb709b0de56735b7",
+    "text": "Tax Period was created or updated via online MFREQ or RECON process. REQUESTED STATUS INVALID —",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "0c6df99924d1d4546ff685664b706133",
+    "text": "Status requested is not an appropriate status or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "cf93fc01d47c191c8d913c4b34219221",
+    "text": "Status requested is other than those speciﬁed or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "49a66f98dd92b8f37458b1f936cf924e",
+    "text": "Status requested is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "6ba4a47116cdabeb04aad9771a3f4f38",
+    "text": "and current IDRS status is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3d30020b1863441a64e786bdc72745e9",
+    "text": ", or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "8612c0ebd725e4f49b6ecb26178117b5",
+    "text": "4 MF ﬁrst notice not found for Status requests 20, 51, 56, 58, 71, 22, 24 or 26 (IMF, BMF, IRAF) or",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "ae0ead19d4573ee032ae18e76642ef80",
+    "text": "Error Condition",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "eac355cbec598ae0ea39f72fda4f45bc",
+    "text": "Status request is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a76c1ccea85b7e8de3745e988c7a80a2",
+    "text": "and current IDRS status is not",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "49a66f98dd92b8f37458b1f936cf924e",
+    "text": "Status requested is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "86d674faf261606eddc96975a3baaa7b",
+    "text": "and File Source is NMF or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a4f75598231ddc02f512b3927d32f74c",
+    "text": "Status History Record not present on TIF (No data ﬁelds will be in inverse video) or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "0ab4708b4642f850d51cd0c98d88b86f",
+    "text": "Automatic next sequential notice status is requested and File Source is NMF or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "5c6dd2587a7c6ec8bc01ca95c29bba2e",
+    "text": "Request to mark CP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "fc56f813af5474bdf1e40a2c4763ba53",
+    "text": "notice as destroyed and request another (“R”) and the current IDRS status is not",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "b1fce03b272b7a4f89f0d07254124ade",
+    "text": "Request is to mark CP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "0d7f0d01870b717f35f3bb629e7c6b62",
+    "text": "notice as destroyed (either “R” or “D”) and the CP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "c9c4f073345d4225a6b4338d9fb3ac0f",
+    "text": "notice was not issued in the last",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "4a1f7f6ba75cda1f93ea15af9f0deb0e",
+    "text": "cycles.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "eac355cbec598ae0ea39f72fda4f45bc",
+    "text": "Status request is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "09abe061b3d6f0b8c541d4b87c328129",
+    "text": ", or * (the next se- quential notice status) and the MFT Code is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "8f23dc98e737207af0b0edc700fba0b8",
+    "text": "NUMBER OF CYCLES —",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "2b427911ccbc0e422724299887ad4d09",
+    "text": "Requested Status update requires an entry in the number of cycles ﬁeld and the ﬁeld is blank or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "92e232d184b4ac5a835bd6beecf2579f",
+    "text": "Number of cycles is present but is not in the valid range (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a6f8b2a1272ef3da826824b9711e1cb5",
+    "text": ") or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "1144f97260e3ca1d20b029871550173e",
+    "text": "Number of cycles is present but is invalid for the status update requested or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "eac355cbec598ae0ea39f72fda4f45bc",
+    "text": "Status request is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a76c1ccea85b7e8de3745e988c7a80a2",
+    "text": "and current IDRS status is not",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "49a66f98dd92b8f37458b1f936cf924e",
+    "text": "Status requested is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "86d674faf261606eddc96975a3baaa7b",
+    "text": "and File Source is NMF or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a4f75598231ddc02f512b3927d32f74c",
+    "text": "Status History Record not present on TIF (No data ﬁelds will be in inverse video) or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "ef155013cf3cd040f3a4ccd3f05cfc55",
+    "text": "11 Status request is 20, 54, 56, 58, or * (the next se- quential notice status) and the MFT Code is 82 or 83.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "7a7452edbedc3654e956d2192b778ba0",
+    "text": "1 Requested Status update requires an entry in the number of cycles ﬁeld and the ﬁeld is blank or",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "376d1200af3114031500b76a51d5fdf1",
+    "text": "1 Update status requested is the exact duplicate of a status update requested that week or",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "50828d9b29bb6492bff05640e8ffc5d5",
+    "text": "1 MF status is 19 or 21, but the current date plus the number of cycles delay requested is not later than the return due date.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "da93aae07670abd9953e59aec82d38af",
+    "text": "NEXT STATUS INVALID",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a38462d0d853e47aefb296bc6b8ae70c",
+    "text": "Command Codes STAUP, STATI and STATB 2.4.28 page 13",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "0fa3538ee546e8660afb84605aa68c94",
+    "text": "3 Status request is 22, 24, or 26 but the current status is 60 or",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "7bfd0e1875fa482954cfbc0f176760f4",
+    "text": "Service Center Status History Record is not present on TIF (No data ﬁelds will be in inverse video) or Status request is * (the next sequential notice status) and current IDRS Status is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "dfe54bd71a8750b574cf0bd3c37a9901",
+    "text": "or Status request is * (the next sequential notice status) and current IDRS Status is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3d30020b1863441a64e786bdc72745e9",
+    "text": ", or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "eac355cbec598ae0ea39f72fda4f45bc",
+    "text": "Status request is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "ca732c1b9b0e6aeb8ee8c334f2c2080a",
+    "text": "but the current MFT is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "bc4a028354abbea8ac95383f781261ea",
+    "text": "STATUS REQUIRES TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "a38d90799c724820e3ca4887a0a2e2e2",
+    "text": "— Status requested is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "826f885a4a731ed4b59fd97146909940",
+    "text": "and the module does not",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "14b9b3cf53a273dd2e30878a86214195",
+    "text": "1 Status requested is 71 and the module does not have an unreversed TC 480 present.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "f402408277c415c491b308da951086fc",
+    "text": "1 NMF status requested is 12, 23, or 29 and the module balance is not consistent with the requirements for that status.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "c1bbf19ff3855241b7327fa8d4a4ba43",
+    "text": "ASSIGNMENT CODE INVALID",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3b6eccc48ac088bdb6a927237afefbc5",
+    "text": "Entity Case Assignment Record is not present on the TIF (No data ﬁelds will be in inverse video) or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "4e865080b38d6589915d9a3f88453b65",
+    "text": "Error Code Error Condition R RESERVED page 14 2.4 IDRS Terminal Input ## ## ## ## ### # # ## ### #### ### ## ## ## ## ## ## #### ## 2.4.28.9 Internal Revenue Manual Cat. No. 28219N (12-01-2022)",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "4f37016b03e7153eb69adb5d689da94e",
+    "text": "Command Codes STAUP, STATI and STATB 2.4.28 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "08778ee09168f420cb92f9d740b9e0e7",
+    "text": "Code Error Condition ACTION HISTORY —",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "f4fd558a2a9c37e688b14e00c021a728",
+    "text": "This action history record cannot be added due systemic problem. (Status update has been done.) CASE ASSIGNMENT PROBLEM —",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "55e1589961c01906b6dd37d827f8c8e0",
+    "text": "The assignment code cannot be updated due to systemic problem. (Status update has been done.) READ OR WRITE TO FILE ERROR, TRY AGAIN LATER FILE NOT OPENED, TRY AGAIN LATER Command code initialization invalid Command Code TXMOD did not immediately precede Command Code STAUP. INDICATES A SYSTEM ERROR No update has been done. Re-input data or contact CSA.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "f4fd558a2a9c37e688b14e00c021a728",
+    "text": "This action history record cannot be added due systemic problem. (Status update has been done.) CASE ASSIGNMENT PROBLEM —",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "6644fa71e7574cd078bc5b7a7367603c",
+    "text": "The assignment code cannot be updated due to systemic problem. (Status update has been done.) READ OR WRITE TO FILE ERROR, TRY AGAIN LATER",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "fff1e2d6da0da00169d73beae08c2e7b",
+    "text": "No update has been done. Re-input data or contact a CSA.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "33c1e29902d678cbcff13d561dbfd825",
+    "text": "This Page Intentionally Left Blank",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "7c44f9db41262e7379ccbc3bc04f04d0",
+    "text": "Input Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "cc6c681de9ae9e573f61564d09997fb7",
+    "text": "Record Element Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "a427c65ed700216160a4d5d7bc36b858",
+    "text": "Exhibit 2.4.28-2 (01-01-2011) CC STATI, STATB Format Screen Output",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "e41aa489139b60c2890df425c7754083",
+    "text": "This is the screen that will be returned when the “I” or “B” deﬁner is used.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "08bb5d408d7095fe239089f58bb82807",
+    "text": "S5 crc asomTwTTm T Tomd WL REQ v CbE",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "cc6c681de9ae9e573f61564d09997fb7",
+    "text": "Record Element Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "16ebeabe48d8e65dd9a327f05cace4c7",
+    "text": "Exhibit 2.4.28-2 (Cont. 1) (01-01-2011) CC STATI, STATB Format Screen Output",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "9cc358405149db607ff830a16f0b4b21",
+    "text": "DESCRIPTION",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "c0e412ef81564f16f68dee5391d285ba",
+    "text": "1. The symbol “=” represents the “>” that will actually appear on the display screen.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "7c44f9db41262e7379ccbc3bc04f04d0",
+    "text": "Input Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "8016acde4717d0f8cd1f547a256ab3ed",
+    "text": "2345670901 234567890123456 1891123456 76901 2345678901 53456 789012 34867890123486785¢",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "69c8edb0c7fcdef7365a1e83ef0b0614",
+    "text": "Command Codes STAUP, STATI and STATB 2.4.28 page 21",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "3f848ab3440c4a071b80cad63a790895",
+    "text": "Exhibit 2.4.28-3 (Cont. 1) (01-01-2011) CC STATI, STATB Input",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "38705a070cc87e5dbd0edd9ca84f04f6",
+    "text": "CC STATI, STATB Input ITEM LINE POSITION DESCRIPTION 1 1 1–5 Command Code - STATI or STATB 2 5–20 2 Repeat indicator = R 3 4–20 6–15 EIN = nn-nnnnnnn or 6–16 SSN = nnn-nn-nnnn 4 4–20 16 (EIN) File Source = *, V, N, P, X, W, or blank or 17 (SSN) 5 4–20 21–22 MFT code = nn 6 4–20 27–32 Tax Period = yyyymm 7 4–20 36–39 Name Control = a/n/e/blank 8 4–20 45–46 Status request = nn or * for next sequential status or D for marking last CP 504 notice as destroyed or R for marking last CP 504 notice as destroyed requesting another 9 4–20 50–51 Number of cycles delay = 00 through 15, or blank 10 4–20 56–59 Assignment code = nnnn, or blank",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "c3225a796f1eb1fddab9a3294f7c35d3",
+    "text": "Number of cycles delay = 00 through 15, or blank",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "6de730cc720ab55acee97dc003bf9d46",
+    "text": "Assignment code = nnnn, or blank",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "d95e8815c5bc7204e89141efcf1e24f9",
+    "text": "Exhibit 2.4.28-4 (01-01-2011) CC STAUP Command Code Deﬁner “S”",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "7c44f9db41262e7379ccbc3bc04f04d0",
+    "text": "Input Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "cc6c681de9ae9e573f61564d09997fb7",
+    "text": "Record Element Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "7f70540a6afc24498026c1e8694064bb",
+    "text": "ITEM LINE POSITION DESCRIPTION 1 1 1–5 Command Code - STAUP 2 1 6 Deﬁner - S 3 1 7-16 EIN = nn-nnnnnnn or 7-17 SSN = nnn-nn-nnnn 4 2 1–2 Cycle or Status Request - R or D or nn (00 - 15) an automatic update to the next sequential status for the number of cycles displayed on this ﬁeld or (more than 15) a requested status for the number of cycles displayed on the next ﬁeld 5 2 4–5 Number of Cycles Delay — 00 through 15 or blank Exhibit 2.4.28-4 Internal Revenue Manual Cat. No. 28219N (12-01-2022)",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "7cb52d82f9d9c74922d447d3b10ccc8c",
+    "text": "SSN = nnn-nn-nnnn",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "33b0503ba1437e95c60981abae9848dc",
+    "text": "Cycle or Status Request - R or D or nn (00 - 15) an automatic update to the next sequential status for the number of cycles displayed on this ﬁeld or (more than 15) a requested status for the number of cycles displayed on the next ﬁeld",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d7d084c3fbfae03d24c3f87ca484a727",
+    "text": "Command Codes STAUP, STATI and STATB 2.4.28 page 23",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "662289f46d152cd1162fada2f27a6237",
+    "text": "Exhibit 2.4.28-5 (01-01-2011) CC STATI, STATB Valid Screen Output",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "7c06e38e6ef289bd24c54cf38e34367f",
+    "text": "Output Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "c45425203212a93d4c0037240fc946a2",
+    "text": "123956709012345678901 23456 7690123456 7090123456 T690123436 7890123456 7850123456765. TerD WL R DLk CO0E 5oSt conviemen",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "b4f06027e3f5caa63c0df036df331a48",
+    "text": "RyRt = = = e e",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "cc6c681de9ae9e573f61564d09997fb7",
+    "text": "Record Element Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "e9b8cae022b06e7ac3ae3aa037e4121c",
+    "text": "Exhibit 2.4.28-5 (Cont. 1) (01-01-2011) CC STATI, STATB Valid Screen Output",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "26730dcb53c44fdd793fe4037faaf549",
+    "text": "Unless the entry code is entered before line 24 any data or message appearing on line 24 must be blanked out.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "deb11ce43b5d56300dabedb7f33f4503",
+    "text": "Command Codes STAUP, STATI and STATB 2.4.28 page 25",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "b9937a03d80e98ebb858218f980a27d5",
+    "text": "Exhibit 2.4.28-6 (01-01-2023) CC STATI, STATB Error Screen Output",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "7c06e38e6ef289bd24c54cf38e34367f",
+    "text": "Output Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "9cc358405149db607ff830a16f0b4b21",
+    "text": "DESCRIPTION",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "9bc9e0bcbe93464067d5258b38441e51",
+    "text": "Message = “PLEASE CORRECT INVALID DATA” With Service Center Abbreviation",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "cb5de7d226615165849fe4a4286255bc",
+    "text": "The erroneous input item(s) will be displaced in inverse video along with an alpha error code(s) at the end of the line also in inverse video. Valid input lines will be processed and blanked out. Invalid lines will be moved to the top of the screen.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "7c06e38e6ef289bd24c54cf38e34367f",
+    "text": "Output Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "3f79bb7b435b05321651daefd374cdc6",
+    "text": "e",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "1e9af2af5650e7a215141b6473d101ec",
+    "text": "R e e e e e e )",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "cc6c681de9ae9e573f61564d09997fb7",
+    "text": "Record Element Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "e22db09a63087939a3ecc2325a261ca8",
+    "text": "ITEM LINE POSITION DESCRIPTION 1 1 1–5 Command Code - STATI or STATB 2 2–3 1–60 Literal screen lines 3 4–20 1–59 Input screen lines 4 24 2–24 Error message — “NO INPUT” or “DATA INVALID ON LINE 21–24” or “DEFINER F INVALID - PLEASE USE I OR B” or “INVALID DEFINER”",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "c40578b08db9e4f628d89ac87b30c47a",
+    "text": "Screen lines 2 through 20 will be redisplayed, but no data will have been processed.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-028--2022-12-01.pdf",
+      "page_number": 30
+    }
+  }
+]

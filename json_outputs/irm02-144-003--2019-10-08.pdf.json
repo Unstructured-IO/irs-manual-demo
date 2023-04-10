@@ -1,0 +1,929 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "10442a7a34df28907c4e0b44860e28d7",
+    "text": "2.144.3 Service Capacity Management Process dated September 23, 2015 is superseded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "c73012c40477b3c176572b044e5ef917",
+    "text": "The Service Capacity Management Process is applicable to all ACIO (Associate Chief Information Officer) areas with responsibility for Capacity management.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "89aaf336c23119bbf24e24fbb68ca672",
+    "text": "Capacity Management 2.144.3",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "763ae720262df12c979783fadab2bab7",
+    "text": ") Overview - This IRM is directed to organizations that will build, monitor, maintain, tune and upgrade Services that support the businesses and their Scope and mission. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5ae2309785e8e3881a92142b19f2a05b",
+    "text": ") Purpose - This to provide guidance to support the mission by efficiently taining the Service infrastructure. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3c837aa22bc86ea4b6ba4593214e52cc",
+    "text": ") Audience - This process is directed to all organizations that have to monitor and maintain the Service environments. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "295debd33633be03ba7d5b8cb44b8b35",
+    "text": ") Policy Owner - The ACIO of Enterprise Services (ES). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0904fee7bee3102273387c3a079d8260",
+    "text": ") Program Owner -Will be the Director of Solutions Engineering (SE) located within the ES ACIO organization (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "45fb73b67ea54d9a901f09c2cd6d95c4",
+    "text": ") Primary Stakeholders - Will be organizations that have responsibility to maintain the IRS capacity infrastructure. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3279628170b9f8bf0689309047b26454",
+    "text": ") Program Goal - To deliver and maintain the most cost effective and capacity infrastructure( i.e., hardware, software, applications and operating systems, etc.) to the business stakeholders to help ensure their support of IRS mission is met. . (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4b8a43e8ed65ed077912696372dfe428",
+    "text": ") A process is deﬁned as “A set of related activities that accomplish a goal”. The process deﬁnition laid out in this document further breaks down these Activities into Tasks, each of which have a complete set of attributes deﬁned such as data and tool speciﬁcations and the role(s) responsible for executing the tasks. The document also includes process goal and metrics, role deﬁnitions, policies and other process related attributes. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e479b7ccf68c2580724ca205c321d213",
+    "text": ") The Service Capacity Management process translates business needs and plans into requirements for service and IT infrastructure, ensuring that the Description future business requirements for IT services are quantiﬁed, designed, and implemented in a timely fashion. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3fe43221ac81ff4069fb35085a0717c2",
+    "text": ") The process goal describes a speciﬁc purpose or achievement toward the efforts of the process are directed. Each process has a speciﬁc focus when combined with the other processes, forms a comprehensive for delivering and managing services. [State the goal of your process] • To manage, control and predict the performance and capacity of tional services. This includes initiating proactive and reactive action ensure that the performances and capacities of services meet their agreed targets (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "fa55d588e8cfeb0a8c0dad10ebb7bcdb",
+    "text": ") Process objectives describe material outcomes that are produced or by the process. The following is a list of objectives for this process: [List the objectives of your process]. • To provide Capacity Service Level Targets and metrics to the Level Management Process in order for them to be incorporated Service Level Agreements and into a Business Capacity Plan",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ee2256abbbfae0680ce3ec163259cee4",
+    "text": "Audience - This process is directed to all organizations that have responsibility to monitor and maintain the Service environments.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "68fab307b2ef00b27fd6ba31e97587fb",
+    "text": "To manage, control and predict the performance and capacity of opera",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e195735f5a7524aaad9d651864b1abeb",
+    "text": "tional services. This includes initiating proactive and reactive action to ensure that the performances and capacities of services meet their agreed targets",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "60665655c0df2affae4f648049ce3b4c",
+    "text": "To provide Capacity Service Level Targets and metrics to the Service Level Management Process in order for them to be incorporated into Service Level Agreements and into a Business Capacity Plan",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "913f3ca06b63481913f1732b237a1cad",
+    "text": ") All proposed changes to this document should be submitted in writing, with supporting rationale, to the Solution Engineering, Front door email:*IT Engi- neering Customer Support (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6a026320796a2bf1a7c9cbed1ee2db30",
+    "text": ") Each process deﬁnes at least one role. Each role is assigned to perform speciﬁc tasks within the process. The responsibilities of a role are conﬁned to the speciﬁc process. They do not imply any functional standing within the hierarchy of an organization. For example, the process manager role does not imply the role is associated with or fulﬁlled by someone with functional man- agement responsibilities within the organization. Within a speciﬁc process, there can be more than one individual associated with a speciﬁc role. Addition- ally, a single individual can assume more than one role within the process although typically not at the same time.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "90126e7e61f0314d99e7299e0f6dd00c",
+    "text": "Name Description Capacity Manager • Ensures process procedures are followed • Represents interests of Capacity Man- agement at meetings and functions • Receives and acquires Higher Authority support as needed • Veriﬁes and adjusts parameters used in the planning process • Adds and reviews system life cycle performance design criteria and pro- duction acceptance tests • Recommends resource re-allocations • Ensures that the Capacity Plan is current and that it tracks business growth and trends Capacity Analyst • Produces Capacity Plan with a forecast far enough ahead to take account of changes in IT capacity that comply with business plans and IT plans • Documents the need for Hardware, Software, and Service upgrades or additional equipment, based on SLRs, cost constraints, reliability and avail- ability • Produce regular management reports including current usage of Services, expected trends and forecasts • Responsible for Capacity Manage- ment documentation",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "fff973ea5da3de730d8e1d344394889b",
+    "text": "Higher Authority • Approve resources to meet capacity requirements • Review and recommend capacity im- provement recommendations • Review summary performance infor- mation describing capacity • Act as the ﬁnal point of escalation for capacity issues Operational Manager • Provide ongoing maintenance of Con- ﬁguration Items (CI) which affects their operation and institute measures to keep them operating at peak per- formance • Assist in describing the service chains associated with service provisioning • Participate in discussions of capacity • Meeting Operational Level Objectives and explaining variances from targets. Business Stakeholders • Negotiate capacity targets and sign-off on targets in Operational and/or Service Level Agreements • Review capacity performance against target and participate in preparation and recommendation of any remedial actions • Participate in preparation and review of Capacity Plan • Provide information on capacity Service Manager • Ensures that services are operational • Reviews Capacity Plans",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "9748dea6394cab22fd2472c0b68f184b",
+    "text": "Provide ongoing maintenance of Con",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "942e635764b2f062c44378f84e9dcf9f",
+    "text": "ﬁguration Items (CI) which affects their operation and institute measures to keep them operating at peak per",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "58625bc1ead28aea186c78412db118fd",
+    "text": "formance Assist in describing the service chains associated with service provisioning Participate in discussions of capacity Meeting Operational Level Objectives and explaining variances from targets.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d6d9e655ff667979a73e04500d5332b4",
+    "text": "Negotiate capacity targets and on targets in Operational and/or Service Level Agreements Review capacity performance against target and participate in preparation and recommendation of any remedial actions Participate in preparation and review of Capacity Plan Provide information on capacity",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2306cc6b4685723551d6473afc0110e1",
+    "text": "2.144.3.1.4 (10-08-2019) Program Management and Review",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "dfc438c79323f68232905987eeb1f624",
+    "text": "Policies outline a set of plans or courses of action that are intended to inﬂuence and determine decisions or actions of a process. Policies provide an element of governance over the process that provides alignment to business vision, mission and goals.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "aff2726067f7d236ded7166e44055c16",
+    "text": "Process Management Statement: The Service Capacity Management process will have a single Process Owner and a separate Process Manager responsible for implementa- tion and ensuring adherence to the process. The process will be reviewed regularly to ensure that it continues to support the business requirements of the enterprise. The process will be designed and developed based on ROI to the business. Process metrics will be focused on providing relevant information as opposed to merely pre- senting raw data. People: Statement: Roles and responsibilities for the process must be clearly deﬁned and appropriately staffed with people having the required skills and training. The mission, goals, scope and impor- tance of the process must be clearly and regularly communicated by upper management to the staff and business customers of IT. All IT staff (direct and indirect users of the process) shall be trained at the appropriate level to enable them to support the process. Rationale: It is imperative that people working in, supporting or interacting with the process in any manner understand what they are supposed to do. Without that understanding Service Capacity Management process will not be successful.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ae4296ac3fbbfdfb7ae648299b924ea8",
+    "text": "The Service Capacity Management process will have a single Process Owner and a separate Process Manager responsible for implementa",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "49f56693aacff55d82034e9a98b45b34",
+    "text": "tion and ensuring adherence to the process. The process will be reviewed regularly to ensure that it continues to support the business requirements of the enterprise. The process will be designed and developed based on ROI to the business. Process metrics will be focused on providing relevant information as opposed to merely pre",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e5fdf43b19b006a2b5f06b3d41ed5d0b",
+    "text": "senting raw data.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "1dad3270cde153a5a6d099a587fbec90",
+    "text": "Roles and responsibilities for the process must be clearly deﬁned and appropriately staffed with people having the required skills and training. The mission, goals, scope and impor",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "fc72b94ad7053d3ad5b04ebf92224b10",
+    "text": "tance of the process must be clearly and regularly communicated by upper management to the staff and business customers of IT. All IT staff (direct and indirect users of the process) shall be trained at the appropriate level to enable them to support the process. It is imperative that people working in, supporting or interacting with the process in any manner understand what they are supposed to do. Without that understanding Service Capacity Management process will",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "09c9594cf953f583dc1b7230eabe8843",
+    "text": "It is imperative that people working in, supporting or interacting with the process in any manner understand what they are supposed to do. Without that understanding Service Capacity Management process will not be successful.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e2be7b1eb2118e817eb69e47303db0f2",
+    "text": "page 5 Process: Statement: Modiﬁcations to the Service Capacity Management process must be approved by the Process Owner. The design of the process must include appropriate interfaces with other processes to facilitate data sharing, escalation and workﬂow. The process must be capable of providing data to support real-time requirements as well as historical/trending data for overall process improvement initiatives. The process must be fully documented, published and accessible to the various stakeholders of the process. The process will be reviewed on a periodic basis in order to ensure it continues to support organizational goals and objectives (continuous im- provement). The process must include Inputs, Outputs, Controls, Metrics, Activities, Tasks, Roles and Responsi- bilities, Tool and Data requirements along with documented process ﬂows. The process will be kept straight forward, rational, and easy to under- stand. Rationale: The process must meet operational and business requirements.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "26ed703551d6a4c894411baabd6a59dd",
+    "text": "Modiﬁcations to the Service Capacity Management process must be approved by the Process Owner. The design of the process must include appropriate interfaces with other processes to facilitate data sharing, escalation and workﬂow. The process must be capable of providing data to support real",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1cdca87f01b4de33eeb22734b21be89c",
+    "text": "time requirements as well as historical/trending data for overall process improvement initiatives. The process must be fully documented, published and accessible to the various stakeholders of the process. The process will be reviewed on a periodic basis in order to ensure it continues to support organizational goals and objectives (continuous im",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "92c5729b644efe74f7eb9bf0ce5173bf",
+    "text": "provement). The process must include Inputs, Outputs, Controls, Metrics, Activities, Tasks, Roles and Responsi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "6db3f4a6587f204667eeaa1ac9fb49e5",
+    "text": "bilities, Tool and Data requirements along with documented process ﬂows. The process will be kept straight forward, rational, and easy to under",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a166b537ee78d9b0e4bd01371a854302",
+    "text": "stand. The process must meet operational",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "944f557c69109440d3c99fee97dcdd9e",
+    "text": "Technology and Tools: Statement: All tools selected must conform to the enterprise architectural standards and direction. Existing in-house tools and technology will be used wherever possible, new tools will only be enter- tained if they satisfy a business need that cannot be met by current in- house tools. The selection of supporting tools must be process driven and based on the requirements of the business. Selected tools must provide ease of deployment, custom- izing and use. Automated workﬂow, notiﬁcation and escalation will be deployed wherever possible to minimize delays, ensure consistency, reduce manual intervention and ensure appropriate parties are made aware of issues requiring their attention. The tools used by this process are the following: • . Rationale: Technology and tools should be used to augment the process capabilities, not become an end themselves.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "e88ece46f9a96d30a80b70a621cc1c65",
+    "text": "All tools selected must conform to the enterprise architectural standards and direction. Existing in",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "cae300f79640b228453b85a12512ef88",
+    "text": "house tools and technology will be used wherever possible, new tools will only be enter",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d6883ea5001cc53e8878de168dcbc536",
+    "text": "tained if they satisfy a business need that cannot be met by current in",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "c5549697a338e71b0ef66cf5adf99753",
+    "text": "house tools. The selection of supporting tools must be process driven and based on the requirements of the business. Selected tools must provide ease of deployment, custom",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "22d71e71b7bf5ef836c835e2120ced91",
+    "text": "izing and use. Automated workﬂow, notiﬁcation and escalation will be deployed wherever possible to minimize delays, ensure consistency, reduce manual intervention and ensure appropriate parties are made aware of issues requiring their attention. The tools used by this process are the following:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "cdb4ee2aea69cc6a83331bbe96dc2caa",
+    "text": ".",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "c3032ada4ac74fec9ee26a938eab018b",
+    "text": "Activities involved in ensuring a process is predictable, stable, and consistently operating at the target level of performance.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "f8f2bf79dfa2a0f4b5d898943b55e62a",
+    "text": "Process controls represent the policies and guiding principles on how the process will operate. Controls provide direction over the operation of processes and deﬁne constraints or boundaries within which the process must operate.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9eb83f382be93adeb1fe578e0b148bae",
+    "text": "[Identify and provide a brief description of your process controls. See below].",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "4072636b89e887b2198f6573e09a0e7a",
+    "text": "Name Description Capacity Management Business Capacity Management is a Policy required activity mandated by the IRS CTO Scope Business Capacity Management process is limited to all ACIO areas with responsibility for Capacity Management",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "e51248773b9a3f59f75fe3ad6e5fe45a",
+    "text": "Management",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "96ae7459ce16c8b4fc2c2e0e616ee2d2",
+    "text": "page Process Metric Business Capacity Process Monitors will continuously verify to what degree the Business Capacity Management Process is being used. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "14718109368f681e30ea6a23abbbb2a3",
+    "text": ") Metrics are used for the quantitative and periodic assessment of a process. They should be associated with targets that are set based on speciﬁc objectives. Metrics provide information related to the goals and objectives of process and are used to take corrective action when desired results are not being achieved and can be used to drive continual improvement of process effectiveness and efficiency. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "b9ec0db51613419131ec8b472b0abb2c",
+    "text": ") Management will regularly set targets for process performance, gather able data related to different functions of the Service Capacity Management] process, and review that data in order to make informed decisions and take appropriate corrective action, if necessary. All Measurements will have a deﬁned data dictionary, map to the organizational strategic goals, and be mented in a Process Measurement Plan. The Process Measurement Plan template is available in the IT PAL. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "83c4a2af1730226a311db5ae4854e67c",
+    "text": ") The tailoring guidelines identify the allowable variations of the IT standard process as needed for adjustments (adding, deleting, modifying) relative to speciﬁc operational or functional needs of another organization. Process tailoring is about roles and procedures, not the standard process or major activities deﬁned in this process. All tailoring request, with supporting rationale, must be submitted in writing to and approved by the Service Capacity Management process owner. [Enter tailoring guideline instructions]. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "1c5561597e0d34534feabbb5c66fad8f",
+    "text": ") Terms/Deﬁnitions/Acronyms (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "4b46bb4a78985d6faa42378c66b15df1",
+    "text": ") Terms and Deﬁnitions [Enter terms and deﬁnitions identiﬁed in this document. See example below]. Term Deﬁnition Business Capacity Man- A strategic capacity management process agement done when decisions to expand or contract the infrastructure are made due to expected changes in demand by the business (addition of new applications, new infrastructure, etc.). Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "9292c05e023904e26b6bad476f496424",
+    "text": "page 7 Process Metric Business Capacity Process Monitors will continuously verify to what degree the Business Capacity Management Process is being used.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "b093b1f8d3beb83c8fa37d35f8fa1cbb",
+    "text": "Metrics are used for the quantitative and periodic assessment of a process. They should be associated with targets that are set based on speciﬁc business objectives. Metrics provide information related to the goals and objectives of a process and are used to take corrective action when desired results are not being achieved and can be used to drive continual improvement of process effectiveness and efficiency.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "e5693aa5c5af25788e23d0281f11ae62",
+    "text": "2.144.3.1.6 (10-08-2019)Terms/Deﬁnitions/Acronyms",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7bc81ab88a2e1d87f24ec7116c8f00a1",
+    "text": "[Enter terms and deﬁnitions identiﬁed in this document. See example below].",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3262bd6d36f24ead8bacf374e8e37521",
+    "text": "Term Deﬁnition Business Capacity Man",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "415b67e60b5c6e278c2ee9f2e2cc2a31",
+    "text": "A strategic capacity management process agement done when decisions to expand or contract the infrastructure are made due to expected changes in demand by the business (addition of new applications, new infrastructure, etc.).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8391cefc7c4d2f153b485f80516e729e",
+    "text": "RACI The RACI model is based on the principle that people act in one of four ways when executing a task. It accounts for the fact that more than one role may be active in performing a speciﬁc task while clearly deﬁning speciﬁc responsibilities for that role. While many roles may be involved in a task only one is Accountable for the results. The actions are: R Responsible for the action (may do the task) A Accountable for the action (including approval) C Required to be Consulted on the action I Required to be Informed of the action If a task does not have an Accountable role indicated then the Responsible role is assumed to be accountable for the task. Service Level A service-level agreement is part of a Agreement service contract where the level of service is formally deﬁned. In practice, the con- tracted delivery time (of the service) or performance. Service level manage- A set of practices for IT service manage- ment ment (ITSM) that focus on aligning it services with the needs of the business Service Level Require- A statement from a customer to a service ments provider describing their service expecta- tions. It includes the requirements of the customer from the service provider (1) Acronyms",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "00d5714e068277b020c7ef8f34d7bca8",
+    "text": "The RACI model is based on the principle that people act in one of four ways when executing a task. It accounts for the fact that more than one role may be active in performing a speciﬁc task while clearly deﬁning speciﬁc responsibilities for that role. While many roles may be involved in a task only one is Accountable for the results. The actions are: R Responsible for the action (may do the task) A Accountable for the action (including approval) C Required to be Consulted on the action I Required to be Informed of the action If a task does not have an Accountable role indicated then the Responsible role is assumed to be accountable for the task. Level A service",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "0cf611a609137942d38166eaf34fe4af",
+    "text": "level agreement is part of a service contract where the level of service is formally deﬁned. In practice, the con",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "4894a2357fdb7a93e6418af410551a09",
+    "text": "tracted delivery time (of the service) or performance. level manage",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "e7e07ec2af5016bf8d59d73b94eadd47",
+    "text": "A set of practices for IT service manage",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "a9639e1eefb46330912be643140ae3af",
+    "text": "ment (ITSM) that focus on aligning it services with the needs of the business Level Require",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "92c8119f3342045d495f93424e39c561",
+    "text": "A statement from a customer to a service provider describing their service expecta",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "a14088e5151033afbaf68f40bab9ea6e",
+    "text": "tions. It includes the requirements of the customer from the service provider",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "301f390cf225fb90cf0794cf9b49f4be",
+    "text": "The RACI model is based on the principle that people act in one of four ways when executing a task. It accounts for the fact that more than one role may be active in performing a speciﬁc task while clearly deﬁning speciﬁc responsibilities for that role. While many roles may be involved in a task only one is Accountable for the results. The actions are: R Responsible for the action (may do the task) A Accountable for the action (including approval) C Required to be Consulted on the action I Required to be Informed of the action If a task does not have an Accountable role indicated then the Responsible role is assumed to be accountable for the task. A service",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "0cf611a609137942d38166eaf34fe4af",
+    "text": "level agreement is part of a service contract where the level of service is formally deﬁned. In practice, the con",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "0bfeb6d2166795c0748ca6de3b4637dc",
+    "text": "tracted delivery time (of the service) or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "44a858b2516e7eb4a8b4247fcaccde36",
+    "text": "[Identify and list the acronyms and deﬁnitions identiﬁed in this document. example below].",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "1d1d8e3008324f1a5f46473551e4c730",
+    "text": "Acronyms Description CCap Service Capacity Management CI Conﬁguration Item CMMI Capability Maturity Model Integration CMIS Capacity Management Information system ES Enterprise Services IPM Integrated Process Management IRM Internal Revenue Manual IRS Internal Revenue Service",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "822007bb68e8425fb4fed46145a5952d",
+    "text": "IT Information Technology ITIL Information Technology Infrastructure Library ITSM Information Technology Service Manage- ment PAL Process Asset Library PBA Patterns of Business Activity PD Process Description PMI Project Management Institute RACI Responsible, Accountable, Consulted and Informed ROI Return on Investment SLA Service Level Agreement SLM Service Level Management SLR Service Level Requirements",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "b726d632c8e0f02816bbb124771285dd",
+    "text": "Process training involves training all stakeholders about key processes that are crucial for an organization to deliver business objectives. Training provides clarity to employees on a set of procedures that needs to be carried out as part of the process and the best possible way to do them. List below the training resources available for this process:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "0af8520c649d548d66096695cb99de3f",
+    "text": "Figure 2.144.3-1",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3635f38201e7ff64baabc2f6916851fd",
+    "text": "Information onlyinterfaceConnect toprocess step orexternal Process",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "89aaf336c23119bbf24e24fbb68ca672",
+    "text": "Capacity Management 2.144.3",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "5b41f8998330b3b5da71045a637acc42",
+    "text": "[Complete process input table. See examples below].",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "12d7a76a1e2cad7099952809f0963d4a",
+    "text": "Change Information Capacity Manage- Change Management (Request for Change) ment is responsible process for assessing the impact of all proposed changes on the performance of infrastructure and services being provided. Performance Infor- Current and historical Capacity Management mation performance and utili- Information System zation information for (CMIS) IT services and IT infrastructureServices. Conﬁguration Man- Conﬁguration data on Conﬁguration Man- agement System the Services, agement System (CMIS) Information services and relation- (CMIS) ships. Workload / Opera- Information about job IT Operations team tional Information schedules, opera- tional tasks, and services dependen- cies. Patterns of Business An analysis of the Demand Management Activity (PBA) workload showing how this varies according to demand.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "60e709e3d58b13f7ca425f17bb8abb39",
+    "text": "Each process produces tangible outputs. These outputs can take the form of products or data and can be delivered to a user or stakeholder or they can be used as inputs to other processes. Outputs are measurable in terms of quantity and quality.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "bd8e3bc1d030d3fb88696c8632a029ce",
+    "text": "Each process produces tangible outputs. These outputs can take the form of products or data and can be delivered to a user or stakeholder or they can be used as inputs to other processes. Outputs are measurable in terms of",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "ff627b7c0631e1b808e609f22c769215",
+    "text": "[Complete process output table. See example below].",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "2cbfae421dc9d51c5321e0d2350e95a7",
+    "text": "Name Description Recipient Services Perfor- Reports on the per- • Capacity mance, Information formance of Services Manager and Reports using data in the • Business CMIS. Stakeholders • OperationalManager",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "2ef992b35f497312d7e0a9c7ef743a72",
+    "text": "Workload Analysis Reports providing • Capacity and Reports information about Manager workloads that can • Operational be used for modeling, Manager application sizing, • Business and capacity Stakeholders planning. Ad Hoc Capacity and Performance and Uti- • Capacity Performance Reports lization reports Manager generated on an as • Operational needed basis, Manager typically in response • Business to capacity issues. Stakeholders Forecasts and Pre- Reports used to plan • Capacity dictive Reports capacity changes and Manager operatively identify • Operational potential capacity Manager issues. • BusinessStakeholders",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "8e5e04bdda5edee0c90630547b2e9f17",
+    "text": "An activity is a major unit of work to be completed in achieving the objectives of the process. A process consists of a sequence of related activities that transforms inputs into outputs and performed by the roles deﬁned in the process. Activities are measurable in terms of efficiency and effectiveness. Identify the activities in the process and provide a brief description. The activi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d1fced1bc371d4057db4bbdd39d739c5",
+    "text": "ties must correspond with the high",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "dfa6a167b6705f3bd84542580a72faff",
+    "text": "level process ﬂow diagram above.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "a6ad52f46800c858bf49b25ba5bad09c",
+    "text": "(1) The tasks and roles for each activity are the following for this process are following: There can only be 1 Role that is Responsible for a Task. ID Task Name and Role RACI Description SCAP Review Operational • Capacity Manager • R 1.1 Level Agreements • Capacity Analyst • C with respect to SLA • Operational • C and Service manager • C Catalog review • Business Stake- results holders SCAP Share review • Capacity Manager • R 1.2 results with SLM • Capacity Analyst • C (1) ID Task Name and Role RACI Description SCap Assess service per- • Capacity Manager • R 2.1 formance data with • Capacity Analyst • C respect to current • Operational • C capacity manager • C • Business Stake- holders SCap2.2 Develop recom- • Capacity Manager • R mendations to • Capacity Analyst • C rectify capacity • Operational • C shortages as manager • C needed • Business Stake- holders Figure 2.144.3-2 (1) ID Task Name Role RACI and Descrip- tion SCap Analyze • Capacity Manager • R 3.1 workload dis- • Capacity Analyst • C tribution • Operational Manager • I acrosscurrent com- ponents",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "0057e637c243ad37b7fbb525a5e07c65",
+    "text": "The tasks and roles for each activity are the following for this process are the following: There can only be 1 Role that is Responsible for a Task.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "2e7ec359b16c28b9b9a19100cc2de768",
+    "text": "Task Name and Role RACI Description Review Operational • Capacity Manager • R Level Agreements • Capacity Analyst • C with respect to SLA • Operational • C and Service manager • C Catalog review • Business Stake- results holders Share review • Capacity Manager • R results with SLM • Capacity Analyst • C",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "0573639f899e7a4b1d0f5824a8373a48",
+    "text": "2.144.3.2.5.2 (10-08-2019) SCAP 2.0 Assess Service Performance and Capacity",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "35d4120d2164c668505b413f94a5589a",
+    "text": "2.144.3.2.5.3 (10-08-2019) SCAP 3.0 Manage Workload",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "0c131199177236e47634b938bff4cfbd",
+    "text": "SCap Analyze • Capacity Manager • R 3.2 workload dis- • Capacity Analyst • C tribution • Operational Manager • I trends SCap Recommend • Capacity Manager • R 3.3 adjustments • Capacity Analyst • C to workload • Operational Manager • C schedules • Business Stakeholders • C SCap Approve rec- • Capacity Manager • A 3.4 ommended • Capacity Analyst • C adjustments • Operational manager • C • Business Stakeholders • C SCap Make adjust- • Capacity Manager • C 3.5 ments • Capacity Analyst • C • Operational manager • R",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-144-003--2019-10-08.pdf",
+      "page_number": 20
+    }
+  }
+]

@@ -1,0 +1,3917 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "f8b42243304b0f85c43837096919fa33",
+    "text": "Editorial changes were made to reﬂect the new year date of January 1, 2020. Revising to add internal controls.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "168caa4279fe683193ba4e9b36f48a8b",
+    "text": "IRM 2.4.37, dated December 2, 2011, is superseded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1e04ac4271e26a0d03a06b174aeb7b1f",
+    "text": "LMSB, SB/SE, TE/GE, W&I.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "f212a6f3d9cec3e7625bde8c2c571d19",
+    "text": "Program Scope and Objectives Refund Delay Notice Terminal Response Command Code NOREF",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "84a66be5cc2b4e787ea9cf4b65998a7c",
+    "text": "General terminal messages appearing on screen line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "bc481da096fd319f1651fab0e375760a",
+    "text": "Speciﬁc line error messages appearing on screen lines",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "0617204cc2bcbf14ba6f6237d0744ced",
+    "text": "Error Reason Codes Input Format Command Code NOREFC Input Format Command Code NOREFM Input Format Command Code NOREFE Input Format Command Code NOREFD Input Format Command Code NOREFP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "8116daf13b76d2b952b885b9409ffb4c",
+    "text": "NOREF Overview",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "cd51030d238973ed8039ba9c454f4ade",
+    "text": ") The Refund Intercept Request File (RIR) contains information regarding erroneous refunds that have been generated and are scheduled to be to taxpayers or direct deposited electronically. RIR records are stored in the RIR data base through IDRS using command code (CC) NOREF. These records also obtain data to create these records from transcripts and RIR records are accumulated in the RIR data base for an entire refund Batch programs drain the RIR data base at the end of a refund cycle and create various output. At this time the RIR data base is updated and new refund cycle value. For this reason, only RIR records for the new cycle, including subsequent cycle information for IMF paper and electronic refunds, may be stored in the RIR data base. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "21cffb05579873020b4b440acd0896cd",
+    "text": ") Use CC NOREF to input RIR records and store them in the RIR data base (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9f1530f993656d77b8e18f51daebea97",
+    "text": ") NOREF incorporates features from CC ACTON to process case control (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "149c18afde3e3c00749d9a3a2696b67e",
+    "text": ") A valid input of CC SUMRY, CC ENMOD or CC TXMOD must precede each NOREF input request. Account identiﬁcation data is stored in terminal and need not be re-entered as part of the NOREF request. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ef18cf85ee809d936f0c929efc320330",
+    "text": ") NOREF allows certain data items to be defaulted on input by entering an asterisk. The program will substitute a predetermined value for the data element before processing the request. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ace13f055e32796a8d22d59708b0bbaf",
+    "text": ") When NOREF is input with a CC deﬁner of “D” (NOREFD), a record will be produced which deletes a matching, previously input, request record created with NOREF. Use NOREFD to delete records input earlier the same or quent cycles only. NOREFD is not valid for NOREFE or NOREFP at this (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "7454d7b3cb74a5e16a62ad7f38470cb5",
+    "text": ") When NOREF is input with a CC deﬁner of “M” (NOREFM), a record will be produced to update the Refund Information File, showing that on a input NOREF, the check was “missed” by the RDO, and the taxpayer’s was sent out. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ae84f225eb995c8480f4e3b0defa4cd1",
+    "text": ") When NOREF is input with a CC deﬁner of “E” (NOREFE), a record will be produced to update the Refund Information File showing that an electronic direct deposit refund will be intercepted. (For IMF accounts only.) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a7d79a2211f3c3127a3b29e89d468d46",
+    "text": ") When NOREF is input with a CC deﬁner of ″P″ (NOREFP), a record will be produced to update the Refund Information File showing that a paper elec- tronic refund generating from another center will be intercepted. (For IMF accounts only.) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "bcc5e824b0249ca703f007ff6754f3da",
+    "text": ") Generally, the research sequence prior to the input of NOREF will be the of SUMRY followed by TXMOD. TXMOD input is not necessary, however, if SUMRY shows that the account is not on the TIF. a. When a SUMRY request yields the message “NO DATA AVAILABLE”, verify that the TIN and ﬁle source are correct to prevent the generation a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "359197c4828d47ac01f2f7eb328d8ff4",
+    "text": "containing erroneous account data, and then proceed to a NOREF request. b. If SUMRY shows that the requested tax module is present on the TIF, TXMOD must be re-entered before controlling the module with NOREF the error message “INITIATE TXMOD” will result. This is to direct the aminer’s attention to possible control or other pertinent information in module.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ebb1c32d079809252c25b70afebfff56",
+    "text": "The Refund Intercept Request File (RIR) contains information regarding erroneous refunds that have been generated and are scheduled to be mailed to taxpayers or direct deposited electronically. RIR records are stored in the RIR data base through IDRS using command code (CC) NOREF. These records also obtain data to create these records from transcripts and notices. RIR records are accumulated in the RIR data base for an entire refund cycle. Batch programs drain the RIR data base at the end of a refund cycle and create various output. At this time the RIR data base is updated and contains new refund cycle value. For this reason, only RIR records for the new refund cycle, including subsequent cycle information for IMF paper and electronic refunds, may be stored in the RIR data base.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "24cc041a66257eb6ae95447156a6ca49",
+    "text": "When a SUMRY request yields the message “NO DATA AVAILABLE”, verify that the TIN and ﬁle source are correct to prevent the generation of a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d8f3c4a8b496fbf7c2cb4f07d366277e",
+    "text": "containing erroneous account data, and then proceed directly to a NOREF request. If SUMRY shows that the requested tax module is present on the TIF, TXMOD must be re-entered before controlling the module with NOREF or the error message “INITIATE TXMOD” will result. This is to direct the ex- aminer’s attention to possible control or other pertinent information in the module.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3a634d7e6fbc87e391fd528cbbe62c51",
+    "text": "When a SUMRY request is made and there is only one tax module present for an account, the SUMRY request returns a TXMOD display of that module. If this is not the desired tax module, input TXMOD for the MFT, plan number and the tax period desired. This will result in a SUMRY display. Now input NOREF re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "0a7c706e60db0a413fa48e9a7f21b683",
+    "text": "entering the MFT, tax period of the module to be controlled, and the taxpayer’s name control.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e7b3c28f49913a711ada84d491266413",
+    "text": "Enter case control data for CC NOREF, CC NOREFP or CC NOREFE on screen lines",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6201111b83a0cb5b0922cb37cc442b9a",
+    "text": "and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "738d5c2932aa378bff1ccc4fbdc4d443",
+    "text": "in ﬂoating ﬁeld format. Separate each ﬁeld on these lines from the prior ﬁeld by a comma. Embedded blanks are illegal and will result in an error message (usually “FORMAT ERROR nn”). Field order is speciﬁc, but some ﬁelds are optional. When an optional data item is omitted from a line of input the ﬁeld breaker “,” must be input unless there will not be another element following the omitted element on that line. See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9480c87daa1af06062a1e92be83b2fa1",
+    "text": "for de- scription and validity of case control ﬁelds.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "db6a571def707dee7da13564307b6383",
+    "text": "a. When entering CC NOREF, CC NOREFE, or CC NOREFP, the control sequence number on screen line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7ee3bc9184fc8dbb258d301e9b77c43d",
+    "text": "must be entered as C# or Cnn. The case status code cannot be C. b. When entering NOREFD which deletes a NOREF record stored in the RIR data base, the control sequence number must be entered as Cnn. NOREFD will not establish a new control base. The case status code for NOREFD must be entered as C. c. When entering NOREFM, the control sequence number may be entered as C# or Cnn. Any valid case status code, including C, may be entered. However, once a NOREFM is entered with case status code C, it cannot be deleted with NOREFD. Therefore all NOREFM’s should be input last at the end of a week’s processing in case there is a NOREF, NOREFP or NOREFE on the same tax module during the same week. d. The activity code for NOREF, NOREFE, NOREFP, NOREFM and NOREFD consists of the current or subsequent refund cycle immediately followed by an “N”, “T”, “E”, F , “C”, M , or “P”. The “N”, “T”, or “P” character for CC NOREF indicates whether the data being entered on IDRS is obtained from a notice, transcript, or other source, such as a phone call, for paper checks only. The activity code for NOREFD must consist of the current refund cycle followed by a “C” for “deletion” from the RIR. The activity code for NOREFM must consist of the current refund cycle followed by an “M” for “missed” check. The Activity-Code for NOREFE must consist of the refund cycle followed by an “E” for Elec- tronic Direct Deposit Filing. The Activity-Code for NOREFP must consist of the refund cycle followed by a ’F’ for paper refunds. e. Screen line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "30005a4be6a3b0538a7d349a5f7ab972",
+    "text": "consists of the ASSIGNEE-EMPLEE-NUM and the IRS- RCVD-DATE. These ﬁelds when input with an asterisk will substitute the employee number of the terminal operator and the current date. f. A NOREF request will generate the characters RR in front of the activity code stored on the tax module. A NOREFD request will generate the characters RD in front of the activity code stored on the tax module. A NOREFM request will generate the characters RM in front of the activity code stored on the tax module. A NOREFE request will generate the characters RE in front of the Activity Code stored on the Tax Module. A NOREFP request will generate the characters RP in front of the Activity Code stored on the Tax Module. Enter the amount of the refund to be stopped on screen line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "2173572b038b21b38499c5aca9b20ce5",
+    "text": "for BMF only. If",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e18814fe37e9696bcd20ea9818306894",
+    "text": "Enter the amount of the refund to be stopped on screen line 5 for BMF only. If the account is an “Entity Only” account, any amount greater than .00 will be",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8116daf13b76d2b952b885b9409ffb4c",
+    "text": "NOREF Overview",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "7498eddd67063a7b891a4d09b1148def",
+    "text": "page accepted. However, if a tax module already exists on the TIF, the amount entered must match the TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a16199c30d418ea60e3f099d9cb912d6",
+    "text": "corresponding to the refund to be stopped. If the wrong amount is entered, or if no TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "c6c7c3deeb06121c89c4e4de6cbb0d93",
+    "text": "is present, NOREF will return an error message. (See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "670f7ca5845be554641fb5d7c30017b3",
+    "text": ")). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a250cae240d0acf9a1861da42bef5d4a",
+    "text": ") Enter an error reason code on screen line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ea7201ca064b9ae63d17e988e8afb5e9",
+    "text": "This ﬁeld is to indicate the a refund is being intercepted. This code will be displayed in the case control section of the TXMOD after the cycle, and will be printed on the report generated by the batch programs. For a list of these error reason codes, See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "583eb15762eefed7f03bc336f90a0ca9",
+    "text": ") When entering NOREFD or NOREFM, it is necessary to input only screen",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "4aa9bfd2f175a94ad5a7cb321e1aea97",
+    "text": ", and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "8a6992f8c4dbfac589f59d78bd98b517",
+    "text": ") When entering NOREFE , it is necessary to input screen lines",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "6201111b83a0cb5b0922cb37cc442b9a",
+    "text": "and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "97f4db11cb6a99c4248e5193eb7da4f4",
+    "text": ") When entering NOREFP , it is necessary to input screen lines",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2f7067934f0ccea8beb211c03fc2d8e4",
+    "text": ") If the taxpayer’s refund is merely being delayed, you may advise him or her the delay by sending a notice or letter. In these cases, enter an “L” on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "c8ea32bf3ee41abf6d9a137f7f8fcf4e",
+    "text": "(CC NOREF only with no deﬁner) in column",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "48ce15a63ef75e0d925c4529c83757b5",
+    "text": "immediately after the error reason code. The NOREF response screen will be an LPAGE screen, formatted to send a simple",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "dabae21acd961fe200e91089c6eb94d3",
+    "text": "C letter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "69248f1d704c3e7565cec8022823b826",
+    "text": ") In most cases all that will be required to generate the letter will be to enter “[ and your entry code and transmit LPAGE. However, in some centers you may have to enter a signature-title code, and/or the two signature-title ﬁll-ins. with your Service Center Letter Technician at IDRS User Support. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "dec8fbd574b11ed0cad31cb74322f0c1",
+    "text": ") In the case of dummy accounts(NOREFP or NOREFE), enter the taxpayer’s name and mailing address on the LPAGE screen, then move the cursor to end of the ﬁll-in section and enter “[ ]” and your entry code and transmit. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b853e8f98e27a51ff0f58c9176348986",
+    "text": ") For further information on Correspondex requests, and a description of CC LPAGE ﬁelds and validities, see IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "dfca5da56b8cdb627309e2aa5a45e17b",
+    "text": "Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "bfb2d508c65e681cc7a38b81b8798f61",
+    "text": "and Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "e97848c4c7af8fedc858febe48b4e9f2",
+    "text": ") For a sample of the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "996ef4a870fdfe109f1d2f39cde61ffc",
+    "text": "C letter, see the IDRS Correspondex, Document #",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "86ed30c3d1a717cf573fb0319e6390ca",
+    "text": ") This Refund Delay Notice feature may only be used with a plain NOREF, not with NOREFE, NOREFP or NOREFM. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "8ae1cebc2ca977f431f2c1daed5cbc97",
+    "text": ") While NOREFD done anytime before the weekly cutoff will delete a NOREF request, it will not stop the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3f3fb2ab33d9e4be633a458051b03a61",
+    "text": "C letter from going out. To stop a letter, use LPAGD. It is important to note that LPAGD must be done during the same day’s real time as the original letter request in order to delete the letter. For further information, see IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "dfca5da56b8cdb627309e2aa5a45e17b",
+    "text": "Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "bfb2d508c65e681cc7a38b81b8798f61",
+    "text": "and Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "061349b9d677967c54a8d29e66b802e3",
+    "text": ") A valid NOREF request will cause the generation of a response consisting of the screen exactly as input with a message containing the literals “COMPLETED NOREF BOD-CD CLIENT-CD”. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ebbe297b96ca043dd4c218fa097e6c30",
+    "text": ") A valid NOREF request with the “L”, or Refund Delay Notice option selected line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "cac38f87f1de3c8152f3cc417cdea25d",
+    "text": "will cause the generation of a response consisting of the CC LPAGE screen with most ﬁelds ﬁlled in for the user. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "382fa07236a4542cd33729aedcdfa83c",
+    "text": "above for Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "277802d8041e6ea16191c73c81e06acf",
+    "text": "Code NOREF Overview 2.4.37",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3b2a07ce44fac57e4dc60fc9e9c66c97",
+    "text": "accepted. However, if a tax module already exists on the TIF, the amount entered must match the TC 846 corresponding to the refund to be stopped. If the wrong amount is entered, or if no TC846 is present, NOREF will return an error message. (See IRM 2.4.37.3.1(31)).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "9be2a57915574c87c259f857948c2089",
+    "text": "details. Line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f0264ef17f7cd3e981649f9d3390c589",
+    "text": "of the LPAGE screen will have the message “COMPLETED NOREF FINISH",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "7793c0d205fc4a5108e7a21820501e08",
+    "text": "C REQUEST AND XMIT” (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8bb67f069328ee07895042610ca1f2d1",
+    "text": ") A valid delete request NOREFD will cause the generation of a response con- sisting of the screen exactly as input with a message containing the literals “COMPLETED NOREFD”. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "2c366d643b6e45928ecc9dbd92c915f0",
+    "text": ") A valid NOREFM request will cause the generation of a response consisting the screen exactly as input with a message containing the literals “COMPLETED NOREFM BOD-CD CLIENT-CD”. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "4c676f6e0bcb79f7aa1d1db75d52ee9e",
+    "text": ") A valid NOREFE request will cause the generation of a response consisting the screen exactly as input with a message containing the literals “COMPLETED NOREFE BOD-CD CLIENT-CD”. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "4ade266c43f1fbcfde1e3514b0fd09ea",
+    "text": ") A valid NOREFP request will cause the generation of a response consisting the screen exactly as input with a message containing the literals “COMPLETED NOREFP BOD-CD CLIENT-CD”. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ccb7f80c6b82677258ee11cbae71966c",
+    "text": ") If an error is encountered processing a NOREF, NOREFE, NOREFD, or NOREFM Request, processing stops (although validity checking of ﬁelds may continue) and an appropriate message or messages are displayed to operator. No part of a request is processed once an error is encountered in any portion of the request. a. Certain general errors cause the display of a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "db8f271c9906836b2640380c5d54ae3a",
+    "text": "character error in inverse video on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "90d248914d57d1e4694c94b4581a01d9",
+    "text": "These messages are listed below (See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "97cb33e2b4fa6e915f8e79b500d41f7b",
+    "text": "). b. Error messages applying to a speciﬁc line of input, are displayed beginning in position",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "eb8702629e41605131c503e8dd8f6b80",
+    "text": "of screen lines",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ecc142a2f6913006f288db5c02912698",
+    "text": "These messages are in See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "5af6021657786b3c7316d759ad51d741",
+    "text": "below, and are accompanied by the line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "10aa578e3b02d219fcf877263ca5b2c3",
+    "text": "error message: “CORRECT ALL ERRORS AND TRY AGAIN.” (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f0baa2827b216f4063033cbc4178e684",
+    "text": ") ACCOUNT MUST BE IMF OR BMF. IMF and BMF taxpayer accounts are for CC NOREF.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "2b2c7de5da5629b0a500d8924843959d",
+    "text": "Certain general errors cause the display of a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "db8f271c9906836b2640380c5d54ae3a",
+    "text": "character error in inverse video on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "90d248914d57d1e4694c94b4581a01d9",
+    "text": "These messages are listed below (See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "2d71d56e477216315df24b2db25a750d",
+    "text": "). Error messages applying to a speciﬁc line of input, are displayed beginning in position",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "eb8702629e41605131c503e8dd8f6b80",
+    "text": "of screen lines",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "9b07b7543eacdd8c85e76211b4909cf3",
+    "text": "These messages are listed in See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "5af6021657786b3c7316d759ad51d741",
+    "text": "below, and are accompanied by the line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "875d263b85f67c45947fa9a9c92df5d8",
+    "text": "error message: “CORRECT ALL ERRORS AND TRY AGAIN.”",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "383cce2d30e6d42d2c647a33a279343a",
+    "text": ") ACCOUNT MUST BE IMF OR BMF. IMF and BMF taxpayer accounts are for CC NOREF. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "6b9e125821b895ee97702e9885563246",
+    "text": ") ACCOUNT TEMPORARILY UNAVAILABLE—RETRY. Requested account is temporarily unavailable, retry in a few minutes. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "04e7055cbf52667b016eba216c435d4d",
+    "text": ") CHECK DIGITS NOT ALLOWED TO BUILD ACCT. A valid name control be supplied when an account is to be built on the TIF. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "6cc547bb42f1df8188df30f2f5f2ef29",
+    "text": ") COMMAND CODE DEFINER INVALID. The Command Code deﬁner must “D”, “M”, “E”,“P” or blank with CC NOREF. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "523bb8fd62c7baea70a4fbfdd6b1a620",
+    "text": ") COMPLETED NOREF BOD-CD CLIENT-CD. This message indicates that a NOREF record has been stored in the RIR. BOD-CD and CLIENT-CD ﬁelds are ﬁlled by TIF",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "6e225d49e4bd895f13942923b7aaca2a",
+    "text": "Data may or may not be present. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "13590164529a5de8a0f1d99cccd293e7",
+    "text": ") COMPLETED NOREFD BOD-CD CLIENT-CD. This message indicates that NOREF record, previously stored in the RIR, has now been deleted. and CLIENT-CD ﬁelds are ﬁlled by TIF",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "6e225d49e4bd895f13942923b7aaca2a",
+    "text": "Data may or may not be present. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "711a1995de7cb9f0e8770c7b8e67bad2",
+    "text": ") COMPLETED NOREFE BOD-CD CLIENT-CD. This message indicates that Electronic Direct Deposit record has been stored in the RIR. BOD-CD and CLIENT-CD ﬁelds are ﬁlled by TIF",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "c6ba26ebbf1d605a9037b524a0dcf769",
+    "text": "Data may or may not be present.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8116daf13b76d2b952b885b9409ffb4c",
+    "text": "NOREF Overview",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "0f26774cd4514650169f3e6fe08b3419",
+    "text": ") COMPLETED NOREFP BOD-CD CLIENT-CD. This message indicates that paper refund has been stored in the RIR. BOD-CD and CLIENT-CD ﬁelds ﬁlled by TIF",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "6e225d49e4bd895f13942923b7aaca2a",
+    "text": "Data may or may not be present. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4dc5795b54f8c0972e333bfa015c764f",
+    "text": ") COMPLETED NOREFM BOD-CD CLIENT-CD. This message means that a record has been stored to indicate that the RDO missed pulling a check on NOREF input during a previous cycle. BOD-CD and CLIENT-CD ﬁelds are ﬁlled by TIF",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "6e225d49e4bd895f13942923b7aaca2a",
+    "text": "Data may or may not be present. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "ba0db77e9f359e101b644f68489a39ea",
+    "text": ") CORRECT ALL ERRORS AND TRY AGAIN. This message on screen line accompanies all error messages on lines",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "97ef1cb6d6fd18ae344e034088f57155",
+    "text": ") DATA IN NON-INPUT FIELD. Data is present in a non-input ﬁeld. For the name control was not preceded by or followed by a blank. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8c6f2f5a074f18a8cbb262f29f375866",
+    "text": ") DEPART ERROR ABORT—NOTIFY RPA. An error encountered trying to update the data base (TIF or RIR). Make a screen print including the TIN and notify an RPA. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "26ea05cda551dc9d41721a9ffb103ad7",
+    "text": ") DMS ERROR-nnnnnn/nnnn—NOTIFY RPA. Error encountered trying to TIF or RIR data base. Make screen print, record account TIN, and notify an RPA. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "452b842ec5d44035ddd765fa32c282a0",
+    "text": ") DUPLICATE RIR-RECORD. A duplicate record has already been input and currently stored in the RIR. (A NOREF, NOREFE, NOREFP and a on the same tax module during the same cycle are duplicates to the RIR Base.) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "c9278c0a4626a4b048058d086bef3871",
+    "text": ") ERROR TIF-nn/NOTIFY CONTROL GROUP. An unprocessable condition encountered in a TIF record. Make a screen print, record TIN of account notify Control Group. Subsequently, a TIFEDIT should be done and the National Office notiﬁed immediately. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "21ff8e5e4bf6887042847d2724d70fbf",
+    "text": ") FILE SOURCE INVALID WITH CC NOREF. NOREF can be used to IMF and BMF accounts only. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "44113a2fda9ec881f4fb6b6e568038f5",
+    "text": ") IMPROPER INITIALIZATION. NOREF was preceded by an invalid input of SUMRY, ENMOD or TXMOD. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32af1edc9d66b9ece7dedd89f742c343",
+    "text": ") IMPROPER NOREF-REQUEST. Command code must be NOREF. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "274a44bc39ee19c4ddfe9703084cd4b9",
+    "text": ") INITIATE SUMRY TXMOD OR ENMOD. The prior command code was than SUMRY, TXMOD or ENMOD. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "dafb2c5a8f4ca1fce857fd6d73319d69",
+    "text": ") INVALID NOREFD/NOREFM-REQ. The only valid deﬁners are “D” and “M”. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "166071ac22da5778d49be2672c1c6978",
+    "text": ") MFT INCONSISTENT WITH TIN. The MFT is not consistent with the TIN. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4bde2e4674e30984edcef27231a0cf2d",
+    "text": ") MFT INVALID. MFT did not pass standard validity checks. Input valid MFT. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a56656c813f369b4ae59a0384ea5fbc5",
+    "text": ") MFT MISMATCH WITH STORED DATA. The screen input MFT does not match the MFT stored by CC TXMOD. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "54e3f0cb15a62e428a9fdb16182b04c0",
+    "text": ") MFT MUST BE INPUT. The MFT must be input on the NOREF screen if prior command code is other than TXMOD. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "45a2ee3fd949808ce265e3f4c9b217ce",
+    "text": ") NAME CONTROL INVALID. The name control will not pass standard check. Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "277802d8041e6ea16191c73c81e06acf",
+    "text": "Code NOREF Overview 2.4.37",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "bdeae118865ecfaafc2197139702ad6c",
+    "text": "DMS ERROR-nnnnnn/nnnn—NOTIFY RPA. Error encountered trying to TIF or RIR data base. Make screen print, record account TIN, and notify an",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e20b798120ac42ccad033ff1ab8779a5",
+    "text": "NAME CONTROL INVALID. The name control will not pass standard validity",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "5170437ba2e16f68cfb3bb61bf5bb5cb",
+    "text": ") NAME-CTRL MISMATCH WITH TIF. The input name control does not the TIF name control. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "8d2b389517c75f7fff5d6a23a25be01e",
+    "text": ") NAME-CTRL MUST BE INPUT TO BUILD ACCT. A name control must be supplied on the screen in order for CC NOREF to build a TIF account. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "5215c1deb6327e7f4d85fb0c2d3a17b2",
+    "text": ") NOREF REQUEST INVALID FOR ENTITY MOD. CC NOREF cannot be to process requests for entity updates (MFT =",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "a1c36b6cd420bb339df7b8ab2656a04f",
+    "text": "). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0949a261e02ea7f727a0c094ad60a996",
+    "text": ") NO MATCHING TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "c26e99304e7658f584b26a96a2603ad7",
+    "text": "REFUND AMOUNT ON TIF. Either the TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "609debd5bb68db971a7093c3beb7fbdf",
+    "text": "is present on this account, or the amount input on screen line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "1806a3d5248b30e028585eb3702ecd19",
+    "text": "does not the refund amount on the TIF. Check the TXMOD for the correct amount of check to be stopped. (BMF only). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3dbb41946056c79ff9bdc0ad47a0a048",
+    "text": ") NO TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0cdda12904093478e79bd6719901422e",
+    "text": "PRESENT ON TIF. There is no TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d36dc628e04aa0b2bc28b60e926969bb",
+    "text": ", or any other posted action record present on the TIF. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "059fe7fc6ed3301108f55bb8648a6cb8",
+    "text": ") NO RIR-RECORD MATCH. There is no matching, previously input, NOREF record stored on the RIR to be deleted by a NOREFD request. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "55d0ffe4da0a797496bb36ea23b7c4e1",
+    "text": ") NO XTIFn—AREA NOT AVAILABLE. The requested TIF area is Input requests for accounts with TIN’s ending in different digits. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "4bec16b343235764c2c44fac0f6568e3",
+    "text": ") PLAN NUMBER INCONSISTENT WITH TIN. A plan number is present for a non-EPMF account. This ﬁeld must be left blank for CC NOREF. (This ﬁeld located on screen line one positions",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "453543dc0567f05ebf653bee31782e25",
+    "text": ") (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "bc7cd4cc0c94a156cb4775d500ae443a",
+    "text": ") PLEASE CORRECT ACCT NAME-CTRL. A “HISTORY ONLY” account is present on the TIF with a name control “AAAA” or “WXYZ”; therefore the payer’s correct name control must be supplied on the NOREF input screen that a request for Master File Data (TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "1e41ce986b04d36aec32179e6ecb84d5",
+    "text": ") can be generated with the name control (“AAAA” or “WXYZ” won’t suffice for screen input name (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "74c645de05884a1edb1b74e78c8ba593",
+    "text": ") PLEASE INPUT CORRECT NAME-CTRL. No name control was entered on the NOREF screen and the TIF account is a “HISTORY ONLY” account, therefore the name control must be supplied. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "374e330009f43931456cfc7a1b5c99d3",
+    "text": ") SCREEN INFORMATION INCOMPLETE. No processable data was entered the screen. If a NOREF request is being processed, case control data must present with refund amount (BMF ONLY) and area office code ﬁelds. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "e3dccafa986bac1dac01bb1e171ea7e6",
+    "text": ") STORED TIN INVALID—NOTIFY CONTROL GROUP. The TIN stored in terminal memory by the prior command is invalid. Repeat prior command make screen print (to record TIN), and notify Control Group. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "90abe607a2cdf8bb611a6bc537eb5070",
+    "text": ") TAX PERIOD INCONSISTENT WITH MFT. The tax period is not consistent with the MFT. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "8a46036617df5f9ff502acf71b7b5c5e",
+    "text": ") TAX PERIOD INVALID. The tax period will not pass standard validity check. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "b51dacc076b18d0ac581657a04870ee7",
+    "text": ") TAX PERIOD MISMATCH WITH STORED DATA. The screen input tax does not match the tax period stored by CC TXMOD. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "917831aad5ef6b88b4f187304ed97fda",
+    "text": ") TAX PERIOD MUST BE INPUT. The tax period must be input on the screen if the prior command code is other than TXMOD. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "72dffc0d498dfabb406ea32c7fd4911b",
+    "text": ") TAX PRD MUST BE WITHIN",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9541c1aad8e7cf5c457d2013c89c6e64",
+    "text": "YR OF CYCLE. Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "6da43b944e494e885e69af021f93c6d9",
+    "text": "J",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "e47c7e3c0b16aeefbe73c44a4d4c68b0",
+    "text": "NO RIR-RECORD MATCH. There is no matching, previously input, NOREF record stored on the RIR to be deleted by a NOREFD request.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "b8db0b981ce021a8eedacb0c9c93083f",
+    "text": "NO XTIFn—AREA NOT AVAILABLE. The requested TIF area is Input requests for accounts with TIN’s ending in different digits.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "277802d8041e6ea16191c73c81e06acf",
+    "text": "Code NOREF Overview 2.4.37",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "03fbe82f53223119b8c2a5d27e48c74b",
+    "text": ") TIFNAME CONTROL INVALID. Name control did not pass standard validity check. Input valid name control (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "4810f1b9754761bd4ee67011efc53fa5",
+    "text": ") XRIR AREA NOT AVAILABLE. The BRIR data base area or the IRIR data area is down. Notify an RPA. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8af56870281749718084450ca87d3f47",
+    "text": ") ’SXPASS SERVER TIMED OUT’. Status of XPASS between the client and server application. When this message occurs, re-input NOREF again. If system returns another error message ’DUPLICATE RIR RECORD’, then means that the RIR database was updated. You will then need to do Command Code TXMOD and ACTON to establish a Control Base for that record. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "e06185a858e1f2630ff65fc8375e9a38",
+    "text": ") ’SXPASS SERVER UNAVAILABLE’.. Status of XPASS between the client server application. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d5175c68ff1c7226a1ea747c461eeb24",
+    "text": ") ’SXPASS ERROR’.. Status of XPASS between the client and server tion. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "cfcc68fa7187273a1cbe291dc49068de",
+    "text": ") ’XPASS ERROR’.. Status of XPASS between the client and server (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "a981a13d7c40b12b9c53aa39adcfa3ec",
+    "text": ") ’FLC INCONSISTENT WITH CONTROLLING ACCT* FLC must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "2e6f9bc47e2c44f12cba637085663a7e",
+    "text": "and controlling account must be Philadelphia’s, or Austin’s service center code. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "ba6041261e58e897bf8b58cdab81b683",
+    "text": ") ’FLC INCONSISTENT WITH FOREIGN ACCT* .FLC must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "75910810da69a121783d7ab7b863ae9a",
+    "text": "or or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "2d823c1f381786e238d3f4af53134538",
+    "text": ") ’FLC INCONSISTENT WITH DOMESTIC ACCT* When the account is domestic, the FLC must not be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "2188808ac2fcbb2af34a56c6e35d1788",
+    "text": ") ’VALID REFUND-SCH-NUM NOT ON TAX MODULE’. The REFUND-SCH- NUM has not been updated to the TIF",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8457cd09d9d4e3d64cb7f33bb7506b01",
+    "text": "record. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "afa99afd34a87ce71ee172de5e61f8d1",
+    "text": ") ’NO TAX MODULE ON TIF’. No TAX-MODULE was found with a regular NOREF and no deﬁner. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "9706708c5d16d34968ecd8fd28f42d5e",
+    "text": ") ’NO MATCHING TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "c27e5af6179236015fa07114f4ba105b",
+    "text": "CYCLE ON TIF’. Current cycle must match TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "f70acecdc05317f10bfff9662ad394e4",
+    "text": "cycle on TIF",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d17b5575cc8d494cff8a229eab4a01d6",
+    "text": ") ’FILE LOCATION CD IS INCONSISTENT WITH ZIP-CD’. Zip-Cd must be blanks with File-Location-Cds",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "6201111b83a0cb5b0922cb37cc442b9a",
+    "text": "and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8852e5fdaba0727433c15580ae189501",
+    "text": ") ’NO FOREIGN NAME/COUNTRY-CODE MATCH’. There was no country match in the foreign name/country code table. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "666af38eeb0ec9065205d92825224e7e",
+    "text": ") ZIP-CODE NOT ALLOWED must be blanks. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "f5d9a07ec64cf69c937c1ca238884932",
+    "text": ") ACCT NOT ON TIF. The action being requested requires that the account present on the TIF (e.g., control base update “C",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "dad3f72924dcae664dabf3814a8e0bed",
+    "text": "” or “C",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "9bb8e75d9b37bd1ae7dc07b1fe10cf5d",
+    "text": "” etc.) on (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "ee7b63ea075d97e140ed74da946f9a3e",
+    "text": ") ACTION REQUESTED NOT VALID FOR MEMO-ACCOUNT. The action requested is not valid for a memo account. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "daf6fe707a2b4d5200cf3caf53e40344",
+    "text": ") ACTIVITY-CD REQ. The current refund cycle must be input immediately followed by “N”, “T”, or “P” for BMF ACCOUNTS. Current and subsequent cycles may be input and followed by “N”, “T”, “P”, E or “F” for IMF ACCOUNTS. Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "df7cb572fb568c5c854e8927e871015e",
+    "text": "INCONSISTENT WITH DOMESTIC ACCT* When the account is the FLC must not be 66 or 98 or 20 or 21 or 60 or 78.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "538b3692932458c633d6a476c8a6c487",
+    "text": ") ADDCTRL ERR nn. An error was encountered in the ADDCTRL subroutine; make print, record TIN and notify Control Group. The numbers returned in error message have the following meanings: a.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "ebe9a0bbb0595d4a8817ff52bd242142",
+    "text": "=CONTROL-SEQ-NUM invalid b.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "4cef81cdad373c13951856e63d9e318b",
+    "text": "=ACTION-DATE invalid c.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "0ecb60b8fe0c9f86b33022adf95839ed",
+    "text": "=ACTION-EMPLEE-NUM invalid d.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "0a00c3a5757e8b9ff5450882cef7ae56",
+    "text": "=CONTROL-BASE-SOURCE-CD invalid e.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "ff76c86325187b8b13bbae9340a0550c",
+    "text": "=ACTIVITY—invalid f.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "42fb94bd41a7670e2dfe172181bb56d5",
+    "text": "=CASE-STATUS-CD invalid g.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "d2a563bebac2db709da4a5e2a0a21141",
+    "text": "=CONTROL-CATEGORY invalid h.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8ff4782c158616385d1400db1c63bc7d",
+    "text": "=ASSIGNEE-EMPLEE-NUM invalid i.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "43aa9362c3d6204c1a17fdc9e55ebe05",
+    "text": "=IRS-RCVD-DATE invalid j.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "9e1300a20c4b48d8ec012da405a59481",
+    "text": "=Section is full k.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "d0c1e37a020cecc1eb3cd43122140da3",
+    "text": "=SECT-ID invalid l.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "7077c5dddfbf1753f6170b1bc645eb89",
+    "text": "=CONTROL-SEQ-NUM not found m.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "2f3d86ffad8fcb581b7a70bc76214cda",
+    "text": "=CONTROL-HIST-COUNT and groups present in section are ible n.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "46c59b44a38759bdfe8422b7c3272a5d",
+    "text": "=Value of the NEW-SECT-ID is set invalid or is inconsistent with the presence of the record o.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "a712f4092c6982f2875def4d3d8bbb7f",
+    "text": "=Value of the OPEN-CONTROL-BASE-COUNT is not numeric. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "7dab8eab15365b918ec40185e4f7a2dd",
+    "text": ") CASE-STAT INV. The CASE-STATUS-CD contains an invalid character. For NOREF/NOREFE/NOREFP request, valid characters are “A”, “B”, “M”, “S” blank. For a delete request (NOREFD), the valid character is “C” and is required. For a Missed-Check request (NOREFM), the valid characters are “B”, “M”, “S” or “C”. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "f9c28e74568c93995c8428be77c59cff",
+    "text": ") CASE-STAT REQ. Input of a CASE-STATUS-CD is required to establish a control base. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "1d735499973b2f83079ae41ec4c70446",
+    "text": ") CATEGORY INV. The CONTROL-CATEGORY contains invalid characters. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "54fd262d38fc9546d6b816f806bd308d",
+    "text": ") CATEGORY REQ. The CONTROL-CATEGORY is required to establish a control base. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "efa853535e75eebf113d3ad61f61af35",
+    "text": ") CONTROL-SEQUENCE-NUMBER REQUIRED. A CONTROL-SEQ-NUM be input as part of each case control request via NOREF. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "5a15288c625323865f1fa0a09226d899",
+    "text": ") CTRL NOT ON TIF. An open control base with a sequence number corre- sponding to the CONTROL-SEQ-NUM on the screen cannot be found. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "eef5d2ac3a70ac6ad29c462b4ce9b809",
+    "text": ") CURRENT AND SUBSEQUENT CYCLE ONLY ensures only current and sequent cycle data is allowed for IMF paper. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "2a529bd58ea3592de72c889a864e5971",
+    "text": ") CYCLE MISMATCH. The refund cycle input on the IDRS screen does not match the current refund cycle stored in the RIR , BMF accounts only. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "164787aabe1e3a49fdb073243207db50",
+    "text": ") CYCLE YEAR INVALID ensures the cycle on the database is current. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "edab8e7562142527f8cf273ad4a53a86",
+    "text": ") CYCL FORMAT INV. The refund cycle input on the IDRS screen is not or contains embedded blanks. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "7506e4c237322daba8e2b3f0470e1174",
+    "text": ") DATA INCOMPLETE. Insufficient data is present to process a request for a control base update. At least one of the optional ﬁelds must be input. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "d46174766e813f9ceb7e998998cd7c81",
+    "text": ") EMPLEE-NUM-INV. The ASSIGNEE-EMPLEE-NUM contains invalid charac- ters. Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "6da43b944e494e885e69af021f93c6d9",
+    "text": "J",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "69c8c54abf8a7459944b37c3f2944ece",
+    "text": "CONTROL-SEQUENCE-NUMBER REQUIRED. A CONTROL-SEQ-NUM must be input as part of each case control request via NOREF.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "11dfcbc73860d8536e4965a3585d840f",
+    "text": "NOT ON TIF. An open control base with a sequence number to the CONTROL-SEQ-NUM on the screen cannot be found.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "83140eee992ec2dc538756f8f2bc6208",
+    "text": "CYCLE MISMATCH. The refund cycle input on the IDRS screen does not match the current refund cycle stored in the RIR , BMF accounts only.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8b5bf0baa8472216ec9c06d896e32ed1",
+    "text": "DATA INCOMPLETE. Insufficient data is present to process a request for a control base update. At least one of the optional ﬁelds must be input.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "7bb0f85748054b68d5aec77d6713fdf3",
+    "text": ") EMPLEE-NUM REQ. The input of an ASSIGNEE-EMPLEE-NUM on screen line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "ec11f255ef057344954811b46418c8e6",
+    "text": "is required to establish a new control base. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "7d70e42852908a21b015694769859ef4",
+    "text": ") EMPLEE-NUM ZERO. The last six characters of must be other than zero. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "1f8b8fe7e966923b8fdb8d6c381ba095",
+    "text": ") FORMAT ERROR. A format error message is generally returned when the program cannot properly interpret the data on a line. Either the data followed by a comma and there is not another element following it on the or the data element is followed by a blank space and there is additional present on the line. Also, embedded blanks in a data ﬁeld can cause the eration of this error. In addition this error can be generated when the last on a line is too long. See list below for values format errors. a. FORMAT ERROR CONTROL-SEQUENCE-NUMBER b. FORMAT ERROR ACTIVITY-CODE c. FORMAT ERROR CASE-STATUS-CODE d. FORMAT ERROR CONTROL-CATEGORY e. FORMAT ERROR EMPLOYEE-NUMBER f. FORMAT ERROR IRS-RECEIVED-DATE (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "c432f8b4fae94c8b9c1fe8f6962b1528",
+    "text": ") ERR-CD REQ/INV. You must input a two digit code, showing the reason refund is being intercepted. See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "7d2987e66cf35d686153baa64c296ab3",
+    "text": "for a list of valid codes their meanings. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "5d27fefa947de8a82a7e9edde7e0d0f2",
+    "text": ") FUTURE DATE. The IRS-RCVD-DATE entered on the screen is later than current date. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "effb349feb1acc90a0fcf2a302551f36",
+    "text": ") IMF DATA ONLY WITH NOREFE OR NOREFP*. Only data entered in the data format is acceptable for NOREFE or NOREFP. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "aed645fdb45207f0be118a4c4c245526",
+    "text": ") INDICATOR MUST BE BLANK OR L . (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3436318322fca7f38e38767a79a72cd7",
+    "text": ") Initiate TXMOD. CC TXMODA must be entered prior to establishing a new control base if the tax module is present on the TIF. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "fbeefda885d515958973aefdf48c3cd9",
+    "text": ") INV ERR-CD. A two digit number from valid values listed under See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "4220d11c7d1b8600dc2288da3854ac46",
+    "text": ") INV-DATA. Must be a valid service center code or blanks. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "9a6a889586a80b09089e30f981a823e9",
+    "text": ") INVALID CYCLE ensures the cycle is valid. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "dc875d25bade5d25532f2bc53febdae0",
+    "text": ") INVALID FILE-LOCATION-CD. The two digit code input is not a valid FILE- LOCATION code. Only nationwide validity is checked. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d4a8e42153117a5a143b9390cb521206",
+    "text": ") KEY-CHARACTER NOT EQUAL TO “C”. The KEY-CHAR entered in the position of the screen line is invalid (Must be C). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "5a80f38865569a49ab0451f0fe24de1c",
+    "text": ") L OPTION NOT ALLOWED WITH NOREFx. You may only enter an “L” to a letter to the taxpayer with a plain NOREF, not with NOREFE, NOREFD, NOREFP or NOREFM. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "741a0ce405ee319e27bb513e1c124102",
+    "text": ") LENGTH ERROR. The data element in question contains too few or too characters. For speciﬁc elements affected see error message (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "6d02f0ee190ddc25dd064ddf34d9b152",
+    "text": ") above. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d4809ce351a813eff1094ceefe7048e4",
+    "text": ") LETTER INDICATOR MUST BE L OR BLANK. To automatically send the taxpayer a Refund Delay Notice or Letter, enter an “L”. Otherwise, leave ﬁeld blank. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d6b1a3aebb1513843a740317226c2e71",
+    "text": "Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "139bcc7daa37010700758d061d6e767b",
+    "text": "LENGTH ERROR. The data element in question contains too few or too many characters. For speciﬁc elements affected see error message (21) above.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "2a8489c04a433fc8bdc58f4f78230e1e",
+    "text": "IDRS Terminal (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d492d4a3b5f501b5e082046190b5596d",
+    "text": ") MEMO MOD. The action requested is not valid for a memo tax module. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "021d1cb239048fa55e277047a8632cd4",
+    "text": ") MOD NOT ON TIF. The requested action requires that the tax module be present on the TIF (e.g., control base update “C",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "9e3f37bae132a67fba2d806da3883616",
+    "text": "”). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "7caba5e4c94636aefebd0af7eafe2b59",
+    "text": ") MUST BE CURRENT CYCLE ensures the cycle is current when deﬁners “M”, or “C” are used. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "b0e681afde4726cf44be2a25073513c3",
+    "text": ") N-P-OR-T-CD INV. Valid characters are “N”, “P”, or “T” and must be immediately following the refund cycle. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "1aeda8b2762dc80810cf0f28dc896a06",
+    "text": ") NO MATCH SEQNUM. A “Cnn” was input on the screen, indicating that a control base update is desired but an open control base with a matching sequence number is not present on the TIF. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "cd320f49a47bbe00b6c345be17b5bf9e",
+    "text": ") OLD RCVD-DATE. The IRS-RCVD-DATE is more than one year prior to the current date. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "9b317f0f3fa6645361e29cd3b27540be",
+    "text": ") RCVD-DATE INV. Received date invalid. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "5a4b5ce7268cbc0ee15795f7281e88a5",
+    "text": ") RCVD-DATE REQ. An IRS Received Date must be input when establishing new control base (C#). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "64b93e3f6a6b49b708b93e3a18c9aa2a",
+    "text": ") REC NOT ON CONTROL BASE. A control base update (Cnn) was but there is no control record (TIF",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "253023362b2ab9b1789fd5997971b710",
+    "text": ") on the TIF. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "38e16b2df622e4f5f4a2f63633f3ad49",
+    "text": ") REFUND AMOUNT NOT ALLOWED FOR IMF ACCOUNTS. Enter AMOUNT for BMF accounts only. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "f146b44a6ac171d3159f577d8b9c656e",
+    "text": ") REFUND-AMT INV. The input on screen line ﬁve must be input in position Valid characters are decimal, commas and numerics. The maximum input ten digits and the left most character cannot be a comma. BMF ONLY. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "458126baf93d720a0b8580b1bc1894f8",
+    "text": ") RFDL UPDT INV. An attempt was made to change the control category of open control base from “RFDL” to another category. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "b9355be7f3e0343f913b99ebefc413b9",
+    "text": ") Routing Transit Number (RTN) REQ/INV. Must input",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "aec68bb87fe0be3249e6c98ae69bdcb1",
+    "text": "digits with NOREFE. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "034455438dc7f718e7f6a5a2fef6e14f",
+    "text": ") RTN INVALID. Must be numeric. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "2f4c97d08a899401b4eb36338e23fb6e",
+    "text": ") “SEND BLANK LINE”. Screen line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "7a79183cc12b9f600a18a33b941d5184",
+    "text": "(Zip-code line) must be blank for NOREFM. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "aedb390062ba949bee0b2c8efe78d776",
+    "text": ") SEQ-NUM INV. The screen input CONTROL-SEQ-NUM contains invalid acters; must be “C#”, “C#-”, or “Cnn”. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "a982b1ceb86dbdb4b0b077c99baff160",
+    "text": ") SEQUENCE-NUMBER-FIELD-BREAKER REQUIRED. Commas are between ﬁelds on this line. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "4612cccbda3e6abf3e683b30186ea201",
+    "text": ") SEQUENCE NUMBER REQUIRED. Must be entered. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "a48a26c0435f66ed17eb4499c5d65e50",
+    "text": ") TIF-nn FULL. The TIF record in question is full and no more groups can be appended. Make a screen print, record the TIN, and notify the CONTROL GROUP. Subsequently, a TIFEDIT should be done for the account and the National Office should be notiﬁed immediately. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "c24eaf5c6921e48cc0dcb2bd68b5f4d9",
+    "text": ") USE E W/NOREFE. When using the deﬁner “E”, (NOREFE), you must put immediately following the cycle in the Activity Code ﬁeld. Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "6da43b944e494e885e69af021f93c6d9",
+    "text": "J",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "eaea38e7d0bf60347fad40d29a7e4c86",
+    "text": "USE E W/NOREFE. When using the deﬁner “E”, (NOREFE), you must put “E” immediately following the cycle in the Activity Code ﬁeld.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "277802d8041e6ea16191c73c81e06acf",
+    "text": "Code NOREF Overview 2.4.37",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "1baf96057979622e77fc2cf1cd88b3ee",
+    "text": ") USE F W/NOREFP. When using the deﬁner “P”, (NOREFP), you must put immediately following the cycle in the Activity Code ﬁeld. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "d260da8b0939a4ee47054099ecd59b6b",
+    "text": ") USE C W/NOREFD. When using the deﬁner “D”, (NOREFD), you must put immediately following the cycle in the Activity Code ﬁeld. Case Status must be a “C” when deleting a record from the database during the current cycle. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "45bdc5204259759c4e5830282ef9e1de",
+    "text": ") USE M W/NOREFM. When using the deﬁner “M”, (NOREFM), you must “M” immediately following the cycle in the Activity Code ﬁeld. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "8e5f10dcce4210df1ec6c7c8ad5f5fe7",
+    "text": ") INVALID CYCLE; VALID CYCLES ARE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "c3bd7d9e8b2caee8082be02695f8268e",
+    "text": "TO",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3be404eceef26b87f619ea785b356259",
+    "text": "Message states the cycles when an incorrect cycle was input. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "faca5fa8282e34749778d76ab2a7ff81",
+    "text": ") ZIP-CD NOT ALLOWED MUST BE BLANKS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "d3dd513408dd7edd6676ddae4e6e2894",
+    "text": ") SEQUENCE NUMBER/INVALID. When inputting a delete request the control sequence number must be input corresponding to an existing control base.SEQUENCE NUMBER/INVALID. When inputting a delete (NOREFD), the control sequence number must be input corresponding to existing open control base. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "231af5827edd6abad2ba5ae2001246fa",
+    "text": ") RTN NOT ALLOWED. RTN not allowed for NOREFP.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "96f2123c63ee89179707c7b6f31071b9",
+    "text": "USE F W/NOREFP. When using the deﬁner “P”, (NOREFP), you must put “F” immediately following the cycle in the Activity Code ﬁeld.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "5ebb67bb218aa4757d727a9b934bc1de",
+    "text": "M W/NOREFM. When using the deﬁner “M”, (NOREFM), you must put immediately following the cycle in the Activity Code ﬁeld.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "7cac5e731ce80cd9116879838e932606",
+    "text": "SEQUENCE NUMBER/INVALID. When inputting a delete request (NOREFD), the control sequence number must be input corresponding to an existing open control base.SEQUENCE NUMBER/INVALID. When inputting a delete request (NOREFD), the control sequence number must be input corresponding to an",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "33c1e29902d678cbcff13d561dbfd825",
+    "text": "This Page Intentionally Left Blank",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "9f2002ffcb7481a98b5c4987bd8a2626",
+    "text": "Exhibit 2.4.37-1 (01-01-2012) Input Format Command Code NOREF",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "e3a02a68d66f2601c3ca1ee4764f3bf3",
+    "text": "o e e e 8 B R e |i1 -9Poi1-1221-23:i31-36§41-49| =1-54 § §i-f3 | TF1-79 [L 133340e7en )23 5ETEe 0103387300 11400 TES0 S340ETeR0 34567800 a3 08730012 3456TE00 Hi1 IHOREPE 3P45!1 ! ! 116 1141T 4iE-16g 1[0j||§||RN RS NN (DU W DU W1-8P 31-1%21-23]3139'4:-49{ E1-59 | 61-63 1 71-79 [",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "a5ca816f072789baceb211605fb8b706",
+    "text": "2.4.37-1 (Cont. 1) (01-01-2012) Format Command Code NOREF ELEMENT LINE POSITION 1 1 1–5 2 1 6 3 1 7–8 MFT 4 1 10–15 Tax 5 1 17–20 Name 6 2 1–3 “C#” the Cnn 7 2 5–11 by a 8 2 13 Case when 9 2 15–18 10 3 1–10 10 must 11 3 12–19 IRS than year with 12 4 1–12 **",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "8c5464d046ce5f7dbf464e100a1028cb",
+    "text": "Exhibit 2.4.37-1 (Cont. 1) (01-01-2012) Input Format Command Code NOREF",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "1d3c41cdf2f9947506b72c34246ec5b6",
+    "text": "Case Status Code—Must be A,B,M or S when using NOREF; required with “C#”; Optional with “Cnn”.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "669c31366827110beaba0f07aea0b6f9",
+    "text": "Control Category—Must be on list of approved codes (See Document Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "9d9273633a88b247bbaa4f7d63bc392d",
+    "text": "Integrated Data Retrieval System (IDRS)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "91c776b9630aba73a27e998d1cabaf65",
+    "text": "Category Codes) http://serp.enterprise.irs.gov/databases/irm.dr/current/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "56373a6deff09a9d98d951ca242965d2",
+    "text": "dr/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "343677762813eaeb65704cc8d9e96f7a",
+    "text": "ch",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "a627ef0bd7222b32849dda02c7d0e113",
+    "text": "htm;requiredwith“C#”;optionalwith“Cnn”",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "becef4859ee0d62d679b575ac8dadba2",
+    "text": "Assignee Employee Number—must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "f73d6edd713a0e9588e2b3f9d628d3d2",
+    "text": "numerics, the ﬁrst ﬁve characters must be a valid Employee Number; an asterisk “*” in this ﬁeld will generate the terminal operator’s employee number; required with “C#”, optional with “Cnn”",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "c4d3087a213977c49cd6d909d672a6bf",
+    "text": "IRS Received Date—Must be MMDDYYYY format, cannot be later than the current date or more than one year earlier than the current date; an asterisk “",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "900ea19d9723f369ea59d69aa65df24f",
+    "text": "” in this ﬁeld will generate the current date; required with “C#”, with “Cnn”",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "6415b9c2e017bf98350837a8fc4d0044",
+    "text": "Exhibit 2.4.37-1 (Cont. 2) Input Format Command Code NOREF",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "06d850cc2878b44aa55e2c6b6188f774",
+    "text": "DESCRIPTION AND VALIDITY",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "a45798c8ebcf7a2c19c5f2cb931277ae",
+    "text": "Refund Amount—The total amount of the refund to be intercepted is entered here. Data will be input in position",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "fd2987c5cfdcde9590ee4cd1331eb4d9",
+    "text": "and may extend to position",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "94b33688d1dc55a71bd3e772a7f6a6ce",
+    "text": "This ﬁeld must be greater than “.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "97289f3f8f19885d22ecaca555dfdb8f",
+    "text": "”, and must match the refund amount on the TIF. Valid characters are numerics, period (.) and comma (,). Enter REFUND- AMOUNT for BMF accounts only. FILE-LOCATION-CD: A valid two digit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "fa9d50ed5d8667df723e163f7ecc3fa2",
+    "text": "Error-Reason-Code—Enter a two digit numeric code indicating the reason the refund is being stopped. For a list of codes & their meanings, See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "1bf163f269ae847bcc1f7d9fe26c27cb",
+    "text": "Letter",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "59f03d642b41e22f4575061e817f9e87",
+    "text": "Request",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "59b5ad0589fff332566b4009f5edfa08",
+    "text": "Indicator — Enter an “L” here if you wish to send a Letter or Refund Delay Notice to the taxpayer.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "fb309a15b6db7c213ccd6a4170e56842",
+    "text": "Exhibit 2.4.37-2 (01-01-2012) Error Reason Codes",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "9c5d5d0bb777c54f4627a6d92c4e7896",
+    "text": "These codes are required input on line 7 of the IDRS screen. They will be printed in the case control section of the TXMOD, following the refund cycle and the N-P-OR-T-CODE, and will also print out on the weekly reports generated by the batch programs.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "5d027f4d0e7174730f88d7f5aac9581b",
+    "text": "Employee Business Expenses",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "db074c8c49d5717049caa13a07611208",
+    "text": "Total Adjustments to",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "f6bed868f14454d325a023612b208f84",
+    "text": "2.4.37-2 (Cont. 1) (01-01-2012) Reason Codes 32 Adjusted Gross Income 34 Tax Computation 36 Credit for the Elderly 37 Child Dependent Care 38 Investment Credit 39 Foreign Tax Credit 43 Total Credits 44 Self Employment Tax 45 Minimum Tax or Alternative Tax 47 Social Security Tax 48 Tax on IRA 50 Other Credits of Taxes 51 Withholding 52 Estimated Tax Payments 53 EIC 54 Amount Paid with Form 4868 55 Excess SS Tax on RRTA Tax 56 Tax on Special Fuels & Oils 58 Total Payments 75 Taxable Income 76 Schedule A 77 Credit Elect 78 Payment with Return 79 Incorrect Tax 80 Manual Refund 81 Refund Stop Request 82 Bad Check 83 FTD Payments 84 Misapplied Credit 85 Correspondence with Taxpayer 86 Assessment to Post 87 Duplicate Filing",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "8b509131c2e34e6fb4b4e7c4246dd974",
+    "text": "Exhibit 2.4.37-2 (Cont. 1) (01-01-2012) Error Reason Codes",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "8b509131c2e34e6fb4b4e7c4246dd974",
+    "text": "Exhibit 2.4.37-2 (Cont. 1) (01-01-2012) Error Reason Codes",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "19fc6c3c6084829f88bf0f439e2cd539",
+    "text": "Exhibit 2.4.37-2 (Cont. 2) (01-01-2012) Error Reason Codes",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "89fa7a24b54886d93eb0fa982c7fc68b",
+    "text": "Exhibit 2.4.37-3 (01-01-2012) Input Format Command Code NOREFC",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "89fa7a24b54886d93eb0fa982c7fc68b",
+    "text": "Exhibit 2.4.37-3 (01-01-2012) Input Format Command Code NOREFC",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "027fb5c677a5e5b4cf64f15cb6b5e3da",
+    "text": "1-g 11-18 |113 O | 21-29 | 31-39 | 41-49 | 51~59 | 61-63 | 71-79 iP 112345678001234567800123456780012345678001234567800123456780012345678901234567890t1 1 ! i i ! i112 ! 1 ! | 2131 i i ! ! 314 3 ! i i ! 415 1 ! { | | St6 |4 ! | ! ! 16174 | i 1 17[0 ! ! ! ! 18191 ! 1 | 9110} i i ! ! 110P11 i NOREFC no longer exist. | | i111121 i 1 i 12P13y ! | i i 13114} i i i I 1141151 ! i | I 15116 ! ! i ! 1ie1171 i | | 17{18} I i ! i i3119 H i | ! 191201 i ! ! i 01214 | i | | 1211224 ! 1 ! i 22t23 ] | | i ! 123f24} i i i ! 124L 1123456780012 345670001334 5678001234567800123456768001294567800123456780012 34567600bt 1i-9 11-18 1 21-3% 1 31-38 41-48 | §1-59 6l-68 1 7Ti-79",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "08a0207cacf733306ec894f1d1ac4ac0",
+    "text": "Exhibit 2.4.37-4 (01-01-2012) Input Format Command Code NOREFM",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "c0f8201280e49aa1e8b4258e12a42189",
+    "text": "[ T e T T S m = m S mm e — = === i1-9 i 11-19 § 21-33 31-35% | 41-49 51-59 | ®i-69 | 71~-79 i1123456780012 3456789012345678001234567600123456780012345678001234567890123456789011 JNOREFM 3 |4 5 i i i1zie, T .18, 8 i ! ! t iz31 10 f, 11 { i I | i34 | | i i 1451 2 1 i ! i is3 | i | i 167 i ! | | 178 1 1 i ! i ig9 1 i | | i10} | ! ! i 1101111 ! 1 i i 131112§ 1 i i i 11212§ 1 1 ! f i 113114§ { ! 1 | 114151 { I i i | 115164 i i i i 116171 | i i i 11718§ { I ! i 118181 | i i i 11920} i ! § i ! 120211 | i i i i212z ] | 1 i i 12z23} 1 | ! i 12324} | P13 1 i 124112345678090123456789012345678001234567809012345678901334567800123456780012345678090 |' PR 1 1440 1 491_a8: 1 4140 1 A4%_a0 1 Ei_ea 1 101 1m0 T",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "b334f1d1e2dbd1c3f2f674cdd3c85223",
+    "text": "- T L sttt - T112 3456?83012345878901234567391}12 345 b?BQG 12345 S?SQOH 3456'1890 12345 S'TEQCI 12345678807 |i i-g8 | 31-13 | 21-29 | 31-39 | 41-49 | 51-59 | &1-69 | 7i-79 L",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "dd2f6464016b7161185142ee2a937be5",
+    "text": "Exhibit 2.4.37-4 (Cont. 1) (01-01-2012) Input Format Command Code",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "1590a6d8b176e8b84f90c40af3746419",
+    "text": "ELEMENT LINE POSITION 1 1 1–5 2 1 6 3 1 7–8 4 1 10–15 5 1 17–20 6 2 1–3 7 2 5–11 8 2 13 9 2 15–18 10 3 1–10 11 3 12–19 LEAVE LINE 4 BLANK 12 5 13 24 1–45",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "06d850cc2878b44aa55e2c6b6188f774",
+    "text": "DESCRIPTION AND VALIDITY",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "c88006df6a3b979d0bfc4a53bea8aa69",
+    "text": "Command Code—“NOREF” Command Code Deﬁner—“M” Required for Missed- Check Request MFT Code—See standard validity criteria (IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "dfca5da56b8cdb627309e2aa5a45e17b",
+    "text": "Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "9d609e12162817afd4b7126f130ea8d9",
+    "text": "; Required) Tax Period—See standard validity criteria (IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "dfca5da56b8cdb627309e2aa5a45e17b",
+    "text": "Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "620b819f84389d969cc4e557c60d51bb",
+    "text": "); Required Name Control—Must pass standard validity check",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "dfca5da56b8cdb627309e2aa5a45e17b",
+    "text": "Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "ddc87f90e88b7961d4fe5c42b98cc5f8",
+    "text": "); Required Control Sequence Number—Must be “C#” for the lishment of a new control base or “Cnn” (nn =",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "f7bc1202107d4357fcdc7301b6535d97",
+    "text": ") for the update of an existing base. Activity Code—Must input the current refund cycle followed by a “M”; Required. Case Status Code—Must be A, B, C, M or S; with “C#”, Optional with “Cnn” Control Category—Must be on list of approved codes (See Document",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "640a606b6777a10debab4a310ee7b735",
+    "text": ", Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "a4e67512e498d842d78b8416dc5a523e",
+    "text": "Integrated Data Retrieval System (IDRS) -",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "137730d3ddb6926cf441dc957a28e64e",
+    "text": "Category Codes) serp.enterprise.irs.gov/databases/irm.dr/current/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "56373a6deff09a9d98d951ca242965d2",
+    "text": "dr/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "343677762813eaeb65704cc8d9e96f7a",
+    "text": "ch",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "6ccff53496842e9457ab08aeee86c897",
+    "text": "htmrequiredwith“C#”,optionalwith“Cnn”",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "e4d246224aa05bf37eacfa5a841c5a15",
+    "text": "Name Control—Must pass standard validity check (IRM 2.3 Section 8); Required",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "c4df766c1a4f45fca49fa50910d0e1ee",
+    "text": "Activity Code—Must input the current refund cycle followed by a “M”; Required.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "4a3d3fc18c5c00a9134c9263d336220b",
+    "text": "Case Status Code—Must be A, B, C, M or S; Required with “C#”, Optional with “Cnn”",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "ab68fe8e63262da5e1c60a9ee0efbfbf",
+    "text": "Assignee Employee Number—Must be 10 numerics, the ﬁrst ﬁve characters must be a valid Employee Number; an asterisk “*” in this ﬁeld will generate the terminal op- erator’s employee number; required with “C#”, optional with “Cnn”",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "e99fe3295ef023666fb119508d5899ac",
+    "text": "IRS Received Date—Must be MMDDYYYY format, cannot be later than the current date or more than one year earlier than the current date; an asterisk “*” in ﬁeld will generate the current date; Required with “C#”, optional with “Cnn”",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "31259722a31187cc4fe2334cbde81e98",
+    "text": "Error Messages—See Section 37.3.1.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "f350f1b29d5d5163ff2c1bb610b8bc31",
+    "text": "Exhibit 2.4.37-5 (01-01-2012) Input Format Command Code NOREFE",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "187d27388f2d68b85de53f74b9229517",
+    "text": "i i-3 | 11-19 Z1-39 } 31-39 41-49 | 51-58 | £i~-583 Fi-74 1112345678901234567800123456T890123456750012345678001234567300123456780901234567890 11 INOREFE 3 |4 5 i i it2318, 1 .8 9 i i iz3 10 I, 11 i i 134 ] i i i 14| I ' ! 156 [12 ] i i 167 113 ] i ! 178 114 i i i ie9 115 ! | i 9104 | i i {1011} t i 1 111121 ! { ! i1z131 t i i 11314] | ! i 114151 ] i i i1z16} ] i i jLE17} I I i 11718] ! ! ! 11819} ! i i 119204 | { | 12021} i ! i izt2z | I ! 122231 I ! i {2324] l 16 ! ! 12411234567890123456780012345678001234567800123456758001234567890123456789012 345678901i 1-8 i i1-18 21-29 | 31-3%9 41-49 51-5% |  61-68 71-19 i",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "8b7803e8f3f330903b26df4803320b57",
+    "text": "Exhibit 2.4.37-5 (Cont. 1) (01-01-2012) Input Format Command Code NOREFE",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "84083a32bc475ecf853bbda8c4682cbe",
+    "text": "ELEMENT LINE POSITION 1 1 1–5 2 1 6 3 1 7–8 4 1 10–15 5 1 17–20 6 2 1–3 7 2 5–11 8 2 13 9 2 15–18 10 3 1–10 11 3 12–19 4 5 12 6 1–2 13 7 1–2",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "06d850cc2878b44aa55e2c6b6188f774",
+    "text": "DESCRIPTION AND VALIDITY",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "31dca369f99f9dc4003267642783b74b",
+    "text": "Command Code Deﬁner—Must be E; Required for tronic direct deposit request (IMF accounts only)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "3e2fb7477e2cb85314230e4b99652e0b",
+    "text": "Tax Period—See Standard Validity Criteria (IRM 2.3 Section 8); Required",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "a6524dea74ff01ffa0d4268c93bf7063",
+    "text": "Name Control—must pass standard validity check (IRM 2.3 Section 8); Required",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "fcd426da9d0f2f8f08a406b0bf68574f",
+    "text": "Control Sequence Number—must be “C#” for the lishment of a new control base or “Cnn” (nn = 01–99) for the update of an existing base. “C#” and Cnn are valid for NOREF.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "a91ca5936a95c8ed38a47964098a5368",
+    "text": "Activity Code—must input a valid refund cycle followed by an “E”. Required.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "d7b347ae53319ad7db89d60d35d8d141",
+    "text": "Case Status Code—Must be A,B,M or S when using NOREFE; required with “C#”;",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "5962a31cc753ec31f36e3263c79d22bc",
+    "text": "Assignee Employee Number—must be 10 numerics, the ﬁrst ﬁve characters must be a valid Employee Number; asterisk “*” in this ﬁeld will generate the terminal opera- tor’s employee number; required with “C#”, optional with “Cnn”",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "c9e1ef0c98f010ac2132c8f0b763c66a",
+    "text": "IRS Received Date—Must be MMDDYYYY format, cannot be later than the current date or more than one year earlier than the current date; an asterisk “*” in this ﬁeld will generate the current date; required with “C#”, optional with “Cnn”",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "5befaf99c07bb3cb577e1253321e10c8",
+    "text": "Error-Reason-Code—Enter a two digit numeric code indicating the reason the refund is being stopped. For a list of codes & their meanings, see Exhibit 2.4.37–2.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "753bfdd89596028715c16df8b7f488b5",
+    "text": "Exhibit 2.4.37-5 (Cont. 2) (01-01-2012) Input Format Command Code NOREFE",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "06d850cc2878b44aa55e2c6b6188f774",
+    "text": "DESCRIPTION AND VALIDITY",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "a5948318ccdb3f718ef6f2ebd5a4b19b",
+    "text": "Routing Transit Number (RTN). Is required input NOREFE. ORSC—Originating Service Center (e.g. FSC, ANSC...or blanks).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "5b703312f8a747d08d4af0856e3f7d43",
+    "text": "I11234567680012345670800123456789012345678901234567800123456789012345676001234567890INOREFD 3!11i2i13|145i617g12110i1111zi13i14115i1i|ii1i1i!ii|!|i1ii!i!i117iig11ei20121122123EL ]|]!!!124113345678901234567890123456789012345678001234567800123456789012345678501234567890§ii",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "39f92150eccf497f5b13bd7aeebfc866",
+    "text": "Exhibit 2.4.37-6 (Cont. 1) (01-01-2012) Input Format Command Code NOREFD",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "90692fc2f7139d4d154a7106375c08ed",
+    "text": "ELEMENT LINE POSITION 1 1 1–5 2 1 6 3 1 7–8 4 1 10–15 5 1 17–20 6 2 1–3 7 2 5–11 8 2 13 9 2 15–18 10 3 1–10 11 3 12–19 12 24 1–45",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "c9f48177e851ec9a0a18795251e8fe46",
+    "text": "Name Control—must pass standard validity check (IRM 2.3 Section 8); required",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "8515dc5faf98b7268c04066a2cf938a3",
+    "text": "Control Sequence Number—must be “C#” for the estab- lishment of a new control base or “Cnn” (nn = 01–99) for the update of an existing base. “C#” and Cnn are valid for NOREF. Cnn is valid for NOREFD. Required.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "176c0f9df3eeaaeb7bddf75a75877200",
+    "text": "Activity Code—must input the current refund followed by a “C” (NOREFD) required.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "45f728ec7e190d189f02030864ebcad9",
+    "text": "Case Status Code—Must be C when using NOREFD; required",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "dfff7360d3f9188bcab66b9d5c1d6191",
+    "text": "Assignee Employee Number—must be 10 numerics, the ﬁrst ﬁve characters must be a valid Employee Number; an asterisk “*” in this ﬁeld will generate the terminal op- erator’s employee number; required with “C#”, optional with “Cnn”",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "c9e1ef0c98f010ac2132c8f0b763c66a",
+    "text": "IRS Received Date—Must be MMDDYYYY format, cannot be later than the current date or more than one year earlier than the current date; an asterisk “*” in this ﬁeld will generate the current date; required with “C#”, optional with “Cnn”",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "54b9285643d484574ff103b79b8157ba",
+    "text": "Exhibit 2.4.37-7 (01-01-2012) Input Format Command Code NOREFP",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "c2f758cd85bc42e9eb155b7bd80133e1",
+    "text": "L.t 1i-8 {11~ 1 2128 1 3139 | 41-43 | 51-5Q | 61~68 | 71-79 [| 1123456789012345678901234567800123456789012345678901234567800123456780012345678801 |11 [NOREPE 3 14 5 ! ! ! i | i1 112 {6, 7 .8, 9 1 | i ! | iz 113 4 10 .11 i | ! i ! i314 1 ] i i ! ! 4115 § ! i { i5 116 112 i ! ! ! ! i6 117 113 ! ! i ! 71(L] ! ! i | 1819 114 ! ! i | 181110} i i { ! 11014131} i | ! ] | f11d112 ] ! ! i ] | P12113} i ] { ] I 11314114} i I i ! i1441151 ! i f 1 i15¢1161 ! I ! ! ! j1st1871 ] | ! ! ] 1171118 1 i ! 1 ! 1181118 ] i ! | 11841201 | I i | 2oy121} ! | ] i | iz1l122} ! 1 { | 12211231 1 ! ! i i I 1231124} i 15 | | i2414L f123456780012345678001234567800123456760012345679001234567890123456760012345678901 ||t 1i-9 11-18 21-29 1 31-38 41-49 | 51-58 | 61-89 | 71-79 ol",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "3cccac7f6ed3188a47ca350685da7b11",
+    "text": "Exhibit 2.4.37-7 (Cont. 1) (01-01-2012) Input Format Command Code NOREFP",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "06d850cc2878b44aa55e2c6b6188f774",
+    "text": "DESCRIPTION AND VALIDITY",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "84083a32bc475ecf853bbda8c4682cbe",
+    "text": "ELEMENT LINE POSITION 1 1 1–5 2 1 6 3 1 7–8 4 1 10–15 5 1 17–20 6 2 1–3 7 2 5–11 8 2 13 9 2 15–18 10 3 1–10 11 3 12–19 4 5 12 6 1–2 13 7 1–2",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "a6524dea74ff01ffa0d4268c93bf7063",
+    "text": "Name Control—must pass standard validity check (IRM 2.3 Section 8); Required",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "39e7bc2bfb79db13a3d099aa4aa37da9",
+    "text": "Sequence Number—must be “C#” for the estab- of a new control base or “Cnn” (nn = 01–99) the update of an existing base. “C#” and Cnn are",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "ef675f6f8565a22b6c83acb949106692",
+    "text": "Activity Code—must input a valid refund cycle followed by a “F”. Required.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "604ff423691ab2f72e066d382547917c",
+    "text": "Case Status Code—Must be A,B,M or S when using NOREF; required with “C#”;",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "64d523ebddf0b02e8703ff25b2ac6e4b",
+    "text": "Control Category—Must be on list of approved codes (See Document 6209, Section 14 Integrated Data Retrieval System (IDRS) - 9 Category Codes) http:// serp.enterprise.irs.gov/databases/irm.dr/current/6209.dr/6209ch14.9.htm;requiredwith“C#”;optionalwith“Cnn”",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "d8fd4ec7c7d161e8cc7069a0c518cd3a",
+    "text": "Assignee Employee Number—must be 10 numerics the ﬁrst ﬁve characters must be a valid Employee Number; an asterisk “*” in this ﬁeld will generate the terminal op- erator’s employee number; required with “C#”, optional with “Cnn”",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "c9e1ef0c98f010ac2132c8f0b763c66a",
+    "text": "IRS Received Date—Must be MMDDYYYY format, cannot be later than the current date or more than one year earlier than the current date; an asterisk “*” in this ﬁeld will generate the current date; required with “C#”, optional with “Cnn”",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "6fee63df3bbe163dd0ca4e1510a9a47d",
+    "text": "Error-Reason-Code—Enter a two digit numeric code indicating the reason the refund is being stopped. For a list of codes & their meanings, See Exhibit 2.4.37-2.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "e44b961de4f2d6efb88e7411abd4ac00",
+    "text": "Exhibit 2.4.37-7 (Cont. 2) Input Format Command Code",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "06d850cc2878b44aa55e2c6b6188f774",
+    "text": "DESCRIPTION AND VALIDITY",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "e3f29fc3ed6e0eeb923c9c633fb26b91",
+    "text": "Error Message— See IRM 2.4.37.3.1.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-037--2020-04-22.pdf",
+      "page_number": 33
+    }
+  }
+]

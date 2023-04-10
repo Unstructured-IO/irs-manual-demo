@@ -1,0 +1,92 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-004--2020-03-23.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "85846cd8e5cfd3b60940cc220098bef5",
+    "text": "All IDRS users.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-004--2020-03-23.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "c6995ec30c1e2ebb44c866ac529a152a",
+    "text": "Chief Information Officer",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-004--2020-03-23.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-004--2020-03-23.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "15d91b773457424aa776619a7b5525bc",
+    "text": "2.4.4.1 (1) This section provides speciﬁc instructions for IDRS (Integrated Data (03-23-2020) System) Command Code MESSG Program Scope and (2) Purpose: Instructions on the use of IDRS Command Code MESSG. Objectives (3) Audience: All IDRS users. (4) Program Owner: Enterprise Operations, Enterprise Server Division (5) Primary Stakeholders: All IDRS users. (6) Program Goals: This Command Code displays the contents of the online MESSG ﬁle to provide information tor IDRS users. 2.4.4.2 (1) This section provides instructions for the use of the IDRS MESSG command (01-01-2010) code. MESSG displays the message ﬁle. General Information for (2) The message ﬁle provides information to all IDRS users. The ﬁle can be read CC MESSG by all users; however, only those persons designated may update the ﬁle. message ﬁle content and the maximum number of pages on the message ﬁle are determined by the campus management. 2.4.4.3 (1) Valid Responses — Message ﬁle content begins to be displayed beginning (01-01-2006) line 2. Terminal Responses for (2) Error Responses — Displayed on line 24. CC MESSG Message Meaning NO MESSAGE AVAILABLE No pages were present on the message ﬁle. Contact the computing center DBA to reload the ﬁle.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-004--2020-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "7362487526493c8158271649d04b09f9",
+    "text": "Message Meaning NO MESSAGE AVAILABLE No pages were present on the message ﬁle. Contact the computing center DBA to reload the ﬁle.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-004--2020-03-23.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "33c1e29902d678cbcff13d561dbfd825",
+    "text": "This Page Intentionally Left Blank",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-004--2020-03-23.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "dac9061cd4b7c1e8e5eb00ee3ae1458d",
+    "text": "CC MESSG Input Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-004--2020-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "cb8795d2097fd37d0b8c9f8ac509aa47",
+    "text": "Record Element Description for Command Code MESSG",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-004--2020-03-23.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f43b3a5ac92b04980f7f061354bd9587",
+    "text": "MESSG nn Item Line Position Description and Validity 1 1 1–5 MESSG 2 1 7-8 nn. This is an optional ﬁeld for direct page access",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-004--2020-03-23.pdf",
+      "page_number": 7
+    }
+  }
+]

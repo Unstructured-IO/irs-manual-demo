@@ -1,0 +1,2189 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "e5327ca0edcf6a5ef601c9753f447cf9",
+    "text": "Revised content to address agile, lean, and traditional methods of requirements",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "f81e1a71e00d3bc9adc8077ad516d28d",
+    "text": "The Requirements Engineering Process is applicable to all Information Technology (IT) organizations, contractors, and other stakeholders having responsibility for developing IT business processes.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "332ecbaf5440827e214a5b533d714de6",
+    "text": "Requirements Engineering Process",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "11194efe353bdf445d886a8fc6d3d658",
+    "text": ") This document describes the formal process for implementing the of the Requirements Engineering (RE) process. It provides an operational and nition of the major components of the process and how to perform each the process. This document also describes the logical arrangements of that are essential to successfully completing the process and achieving its desirable outcome. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c14f3739304d1c9407757f15c0b7c550",
+    "text": ") Purpose - The purpose of this process is to establish the Requirements neering Program Office’s (REPO) authority and responsibility for the execution, and oversight of the Requirements Development and Management process areas, hereafter referred to as RE. This process expectations for REPO to support the establishment and advancement of RE discipline, and the expectations of all Programs and Projects that or maintain systems within the Internal Revenue Service (IRS). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e8531adb9a06d63b82163f52224d1163",
+    "text": ") Audience - The Requirements Engineering Process is applicable to all tion Technology (IT) organizations, contractors, and other stakeholders responsibility for developing IT business processes. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "20bf5fe434f20781c5fbf6801f910d77",
+    "text": ") Policy Owner - REPO under Business Planning and Risk Management (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8546f9f8ea92b47b733ae5a035d2cf4e",
+    "text": ") Program Owner - REPO is responsible for the development, and maintenance, of this process. Approval of this process, including rests with the REPO Office. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6fc023d59cc78e5255791ca71ba1be75",
+    "text": ") Primary Stakeholders - All programs and projects that develop or maintain systems are required to perform requirements engineering processes and sociated activities in accordance with this process. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b7ea6ac88068378019c36899a1bc1325",
+    "text": ") Program Goals - REPO is responsible for deﬁning, developing, updating, institutionalizing the RE discipline to facilitate program/project of quality requirements that accurately reﬂect the needs of the business and customers. The RE discipline includes, but is not limited to, requirements tation, deﬁnition, and management leveraging traditional and agile methods, lean principles, supported by model-based approaches, business rules, ization, and textual-based requirements. This process, along with REPO training, guidance, coaching, material, and tools, supports all deﬁned Enter- prise Life Cycle (ELC) paths at the IRS. . (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4b8a43e8ed65ed077912696372dfe428",
+    "text": ") A process is deﬁned as “A set of related activities that accomplish a goal”. The process deﬁnition laid out in this document further breaks down these Activities into Tasks, each of which have a complete set of attributes deﬁned such as data and tool speciﬁcations and the role(s) responsible for executing the tasks. The document also includes process goal and metrics, role deﬁnitions, policies and other process related attributes. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "828d532931c7af6981e3d64bfe0d5c08",
+    "text": ") Although couched here with the constraints as a “process”, at its most essential, RE is focused on discovering what it is that should be developed (and not how it should be developed). RE will usually result in one or more work products being produced. These products, taken together, represent software’s speciﬁcation. These work products, however, do not have to be formal written documents — indeed, the work products can be a set of a mathematical speciﬁcation, a collection of use cases or user stories, or a software prototype. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6a5658144c9cce627c3c58006e635f85",
+    "text": "Owner - REPO under Business Planning and Risk Management",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "924a4fb544795b951a2e4347e1748d9a",
+    "text": "A process is deﬁned as “A set of related activities that accomplish a common goal”. The process deﬁnition laid out in this document further breaks down these Activities into Tasks, each of which have a complete set of attributes deﬁned such as data and tool speciﬁcations and the role(s) responsible for executing the tasks. The document also includes process goal and objectives, metrics, role deﬁnitions, policies and other process related attributes.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9b2198b47fb3116b3558bff6029c70c5",
+    "text": "Although couched here with the constraints as a “process”, at its most essential, RE is focused on discovering what it is that should be developed (and not how it should be developed). RE will usually result in one or more work products being produced. These products, taken together, represent the software’s speciﬁcation. These work products, however, do not have to be formal written documents — indeed, the work products can be a set of models, a mathematical speciﬁcation, a collection of use cases or user stories, or even a software prototype.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d2cde48263e63f1b5cffe08470de0a84",
+    "text": "Requirements (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "b87e82f9c1247fc5afcc6b48441b3d1f",
+    "text": ") The process goal describes a speciﬁc purpose or achievement toward the efforts of the process are directed. Each process has a speciﬁc focus when combined with the other processes, forms a comprehensive for delivering and managing services. The Requirements Engineering Program Office’s RE Methodology seeks to provide a tailorable set of techniques and approaches that upholds industry best practices and principles for capturing what needs to be developed. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1c60a967dd3df23ba3377b31838cff46",
+    "text": ") Process objectives describe material outcomes that are produced or by the process. The following is a list of objectives for this process: • A clear understanding between the business and developers on needs to be built. • Prioritized needs/requirements based on achieving the business tives. • Requirements captured and baselined in a form appropriate to the velopment activity inclusive of many forms such as business rules, models, user stories, visualizations, and others. • Sufficiently deﬁned requirements to support development and • Requirements change mechanisms that facilitate implementation minimal overhead. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8fb41d66e42567b3c2b155d2a67a6b09",
+    "text": ") All proposed changes to this document must be submitted in writing, with porting rationale, to the Requirements Engineering Program Office (REPO). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "41c9a81b9cf2c83df97912b131b1ee8c",
+    "text": ") Each process deﬁnes at least one role. Each role is assigned to perform speciﬁc tasks within the process. The responsibilities of a role are conﬁned the speciﬁc process. They do not imply any functional standing within the hierarchy of an organization. For example, the process manager role does imply the role is associated with or fulﬁlled by someone with functional agement responsibilities within the organization. Within a speciﬁc process, there can be more than one individual associated with a speciﬁc role. ally, a single individual can assume more than one role within the process although typically not at the same time. Name Description Project Manager • Allocates project resources to perform requirements activities. • Ensures adequate RE training. • Oversees approval of RE-related Data Item Descriptions and Certiﬁcations. Business Owner (May • Owns the business process and also serve as Product provides insight into business archi- Owner in Agile if des- tecture. ignated to do so) • Provides business objectives, needs, and priorities. • Validates requirements.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "fbb36e71c871ed47d925e80ec95ea27c",
+    "text": "2.110 Requirements Engineering",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "56031663384e82e4a18230673c54f2f2",
+    "text": "Process objectives describe material outcomes that are produced or achieved by the process. The following is a list of objectives for this process:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e2d299cf2b2dc00c86ad601fd2035b98",
+    "text": "A clear understanding between the business and developers on what needs to be built. Prioritized needs/requirements based on achieving the business tives. Requirements captured and baselined in a form appropriate to the de",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f35f209968f67d7a8e9d8c03b1f21972",
+    "text": "velopment activity inclusive of many forms such as business rules, models, user stories, visualizations, and others. Sufficiently deﬁned requirements to support development and testing. Requirements change mechanisms that facilitate implementation with minimal overhead.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6c1e67573f79f71bd4cd3eaabb226209",
+    "text": "All proposed changes to this document must be submitted in writing, with sup- porting rationale, to the Requirements Engineering Program Office (REPO).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6a026320796a2bf1a7c9cbed1ee2db30",
+    "text": ") Each process deﬁnes at least one role. Each role is assigned to perform speciﬁc tasks within the process. The responsibilities of a role are conﬁned to the speciﬁc process. They do not imply any functional standing within the hierarchy of an organization. For example, the process manager role does not imply the role is associated with or fulﬁlled by someone with functional man- agement responsibilities within the organization. Within a speciﬁc process, there can be more than one individual associated with a speciﬁc role. Addition- ally, a single individual can assume more than one role within the process although typically not at the same time.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c9a312e5bdf06bc5d97387336749f762",
+    "text": "Name Description Project Manager • Allocates project resources to perform requirements activities. • Ensures adequate RE training. • Oversees approval of RE-related Data Item Descriptions and Certiﬁcations. Business Owner (May • Owns the business process and also serve as Product provides insight into business archi- Owner in Agile if des- tecture. ignated to do so) • Provides business objectives, needs, and priorities. • Validates requirements.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d0edc0c8ed78d23dd3921ead11f559eb",
+    "text": "Engineering Process 2.110.2 page 3 Name Description Requirements • Responsible for the collection of re- Manager quirements. • Ensures adherence to proper deﬁni- tion of requirements components. • Understands proper use of require- ments repositories and the REPO standard. • Maintains conﬁguration management principles for requirements compo- nents. • Maintains consistency in release allo- cation to requirements. • Creates baselines of the repository and baseline reports. • Veriﬁes trace relationships complete- ness and appropriateness. • Communicates requirements manage- ment standards to project members. • Provides input to the requirements plan. • Performs impact assessments. • Coordinates requirements estimation and metric activities. • Monitors status and provides requirements-related status reporting to management. Development Team • Performs as cross-functional group of people that completes all aspects of work. • Supports impact analysis, requirement deﬁnition, decomposition, and man- agement. • Performs veriﬁcation activities. • Supports validation activities with the Business and/or Product Owner and any other subject matter experts. • Execute associated scrum team re- sponsibilities when in an agile approach.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "953166a1d84c33f906638dfe1b4b44d1",
+    "text": "Performs as cross",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f59f9fd67a05c2ecec8ef0a40a995c87",
+    "text": "functional group of people that completes all aspects of work. Supports impact analysis, requirement deﬁnition, decomposition, and man",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "65fa046da47a85482913ae7fbb46869d",
+    "text": "agement. Performs veriﬁcation activities. Supports validation activities with the Business and/or Product Owner and any other subject matter experts. Execute associated scrum team re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b8f11793d23770dac2c3604ec41b83ad",
+    "text": "sponsibilities when in an agile approach.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "239ba55b6fe1940b40fcfc0e643dda1c",
+    "text": ") Policies outline a set of plans or courses of action that are intended to inﬂuence and determine decisions or actions of a process. Policies provide an element of governance over the process that provides alignment to business vision, mission and goals.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a3993875c08ddb7eb65f9bd7ca787ace",
+    "text": "2.110.2.1.4 (08-13-2019) Program Management and Review",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "fece772d845fdb7b1a3d45cecebcad49",
+    "text": "Process Management Statement: The RE process will have a single Process Owner and a separate Process Manager responsible for implementation and ensuring adherence to the process. The process will be reviewed regularly to ensure that it continues to support the business requirements of the enter- prise. The process will be designed and developed based on ROI to the business. Process metrics will be focused on providing relevant informa- tion as opposed to merely presenting raw data. People: Statement: Roles and responsibilities for the process must be clearly deﬁned and appropriately staffed with people having the required skills and training. The mission, goals, scope and importance of the process must be clearly and regularly communicated by upper man- agement to the staff and business customers of IT. All IT staff (direct and indirect users of the process) shall be trained at the appropriate level to enable them to support the process. Rationale: It is imperative that people working in, supporting or interacting with the process in any manner understand what they are supposed to do. Without that understanding RE will not be suc- cessful. Process:",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "39035a83499fdd55bebfe704e25d5520",
+    "text": "The RE process will have a single Process Owner and a separate Process Manager responsible for implementation and ensuring adherence to the process. The process will be reviewed regularly to ensure that it continues to support the business requirements of the enter",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d75ddbd04d3debe981b119d7905f1565",
+    "text": "prise. The process will be designed and developed based on ROI to the business. Process metrics will be focused on providing relevant informa",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "4c393a00b37392d99f984ff1e0a039ef",
+    "text": "tion as opposed to merely presenting raw data.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "a3e134ca7aec05568a3c78d212748afa",
+    "text": "Roles and responsibilities for the process must be clearly deﬁned and appropriately staffed with people the required skills and training. The mission, goals, scope and importance of the process must be clearly and regularly communicated by upper man",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "7c7351a0142faa3af43586e778d79e2c",
+    "text": "agement to the staff and business customers of IT. All IT staff (direct and indirect users of the process) shall be trained at the appropriate level to enable them to support the process. It is imperative that people working in, supporting or interacting with the process in any manner understand what they are supposed to do. Without that understanding RE will not be suc",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "93fe04007f95e4c24095d96947fdcec5",
+    "text": "cessful.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "672d2826865f527df038b7502ecb5932",
+    "text": "Engineering Process 2.110.2 page Process Management Statement: Modiﬁcations to the RE process must be approved by the Process Owner. The design of the process must include appropriate interfaces with other processes to facilitate data sharing, escalation and workﬂow. The process must be capable of providing data to support real-time requirements as well as historical/trending data for overall process improvement initiatives. The process must be fully documented, published and accessible to the various stakeholders of the process. The process will be reviewed on a periodic basis in order to ensure it continues to support organizational goals and objec- tives (continuous improvement). The process must include Inputs, Outputs, Controls, Metrics, Activities, Tasks, Roles and Responsibilities, Tool and Data requirements along with docu- mented process ﬂows. The process will be kept straight forward, rational, and easy to understand. Rationale: The process must meet operational and business requirements. Technology and Tools:",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a1bb344df8a0dd7c5bda314974072c29",
+    "text": "Modiﬁcations to the RE process must be approved by the Process Owner. The design of the process must include appropriate interfaces with other processes to facilitate data sharing, escalation and workﬂow. The process must be capable of providing data to support real",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a455129aa8b570eda4c74bb884d49806",
+    "text": "time requirements as well as historical/trending data for overall process improvement initiatives. The process must be fully documented, published and accessible to the various stakeholders of the process. The process will be reviewed on a periodic basis in order to ensure it continues to support organizational goals and objec",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1158783c62bad36137cdb93c35665fe3",
+    "text": "tives (continuous improvement). The process must include Inputs, Outputs, Controls, Metrics, Activities, Tasks, Roles and Responsibilities, Tool and Data requirements along with docu",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "62593073691dbef696c06482c731b374",
+    "text": "mented process ﬂows. The process will be kept straight forward, rational, and easy to understand. The process must meet operational and business requirements.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "821a8e1d07896a58a85cd286368d0750",
+    "text": "Process Management Statement: All tools selected must conform to the enterprise architectural standards and direction. Existing in-house tools and technology will be used wherever possible, new tools will only be enter- tained if they satisfy a business need that cannot be met by current in-house tools. The selection of supporting tools must be process driven and based on the requirements of the business. Selected tools must provide ease of deployment, customization and use. Automated workﬂow, notiﬁcation and escalation will be deployed wherever possible to minimize delays, ensure consistency, reduce manual interven- tion and ensure appropriate parties are made aware of issues requiring their attention. The tools used by this process are the following: • Collaborative Lifecycle Manage- ment Rational Doors Next Generation • Collaborative Lifecycle Manage- ment Rational Team Concert • Collaborative Lifecycle Manage- ment Rational Quality Manager • IBM System Architect • Microsoft Visio • Justinmind • Rational Publishing Engine • Rational Reporting for Develop- ment Intelligence Rationale: Technology and tools should be used to augment the process capabilities, not become an end themselves.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "e88ece46f9a96d30a80b70a621cc1c65",
+    "text": "All tools selected must conform to the enterprise architectural standards and direction. Existing in",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "cae300f79640b228453b85a12512ef88",
+    "text": "house tools and technology will be used wherever possible, new tools will only be enter",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d6883ea5001cc53e8878de168dcbc536",
+    "text": "tained if they satisfy a business need that cannot be met by current in",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "29c47b624037bcf4a5c120f38ab21511",
+    "text": "house tools. The selection of supporting tools must be process driven and based on the requirements of the business. Selected tools must provide ease of deployment, customization and use. Automated workﬂow, notiﬁcation and escalation will be deployed wherever possible to minimize delays, ensure consistency, reduce manual interven",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "bc925218dc4891cfbfab05565bcf439c",
+    "text": "tion and ensure appropriate parties are made aware of issues requiring their attention.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "1a7c4378019b19f5396998df87d92b51",
+    "text": "the requirements of the business. Selected tools must provide ease of deployment, customization and use. Automated workﬂow, notiﬁcation and escalation will be deployed wherever possible to minimize delays, ensure consistency, reduce manual interven",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9670058537e4cafea08c21c87bf56e10",
+    "text": "tion and ensure appropriate parties made aware of issues requiring their attention.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "4d4187b9e2448bc4999c64db47fc212a",
+    "text": "Collaborative Lifecycle Manage",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "ee3c035b7a1f56a9eac88bd1a645e192",
+    "text": "ment Rational Doors Next Generation",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "4d4187b9e2448bc4999c64db47fc212a",
+    "text": "Collaborative Lifecycle Manage",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "99a66fe04da430fd6004bbc3b9eb4c69",
+    "text": "ment Rational Team Concert",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "4d4187b9e2448bc4999c64db47fc212a",
+    "text": "Collaborative Lifecycle Manage",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "8b33a2a998349b8c198b9b9613043b4c",
+    "text": "ment Rational Quality Manager",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "ad254570e66e28b687c5524d206356bd",
+    "text": "IBM System Architect",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9bece0dc10545daf6f8a95908b6f8bef",
+    "text": "Microsoft Visio",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "1fdaf7ac709a7cab396c47fdca68495d",
+    "text": "Justinmind",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "656a71bb528c10d591d792d111c81986",
+    "text": "Rational Publishing Engine",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "469f9e2f9980132fb72a5010c1416068",
+    "text": "Rational Reporting for Develop",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d633efec840036a196f96b878524c3b0",
+    "text": "ment Intelligence Technology and tools should be used",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "f8f2bf79dfa2a0f4b5d898943b55e62a",
+    "text": "Process controls represent the policies and guiding principles on how the process will operate. Controls provide direction over the operation of processes and deﬁne constraints or boundaries within which the process must operate.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "b2ef02d1ddf9e24bf9747f6311336c95",
+    "text": "Description Capability Maturity Model Integration (CMMI) is a process level improvement training and appraisal program. Administered by the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "cce4b4cd025b0d2bd4aaf3fedce97b82",
+    "text": "CMMI Institute, a subsidiary of ISACA, it was developed at Carnegie Mellon Univer- sity (CMU). It is required by many United Institute, States Department of Defense (D",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "b1fc08af6126d00f18c13e7912e3d58c",
+    "text": ") and Uni- U.S. Government contracts, especially in software development. CMU claims CMMI can be used to guide process improvement across a project, division, or an entire orga- nization. The highest priority is to satisfy the Principles, customer through early and continuous delivery of valuable software. Welcome changing requirements, even late in devel- opment. Agile processes harness change for the customer’s competitive advantage. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale. Business people and developers must work together daily throughout the project. Build projects around motivated individuals. Give them the environment and support what they need and trust them to get the job done. The most efficient and effective method of conveying information to and within a devel- opment team is face-to-face conversation. Working software is the primary measure of progress. Agile processes promote sustain- able development. The sponsors, developers, and users should be able to maintain a constant pace indeﬁnitely. Con- tinuous attention to technical excellence and good design enhances agility. Simplicity--the art of maximizing the amount of work not done--is essential. The best architectures, requirements, and designs emerge from self-organizing teams. At regular intervals, the team reﬂects on how to become more effective, then tunes and adjusts its behavior accordingly.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "6e0bdbd83117bbf047ba147542bcb6ac",
+    "text": "Description Capability Maturity Model Integration (CMMI) is a process level improvement training and appraisal program. Administered by the CMMI Institute, a subsidiary of ISACA, it was developed at Carnegie Mellon Univer- sity (CMU). It is required by many United States Department of Defense (D",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "6a58e958d56b46e6c8be9ebcc9b01f8a",
+    "text": ") and U.S. Government contracts, especially in software development. CMU claims CMMI can be used to guide process improvement across a project, division, or an entire orga- nization.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "0ec2e9f3256874381e5e651f3dfcbd25",
+    "text": "The highest priority is to satisfy the customer through early and continuous delivery of valuable software. Welcome changing requirements, even late in devel",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3554700c031dc2a871c25c0c1b906fb6",
+    "text": "opment. Agile processes harness change for the customer’s competitive advantage. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale. Business people and developers must work together daily throughout the project. Build projects around motivated individuals. Give them the environment and support what they need and trust them to get the job done. The most efficient and effective method of conveying information to and within a devel",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "0aa5e4b0fb1bb08f75e79f7710b4b97d",
+    "text": "opment team is face",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "663ea1bfffe5038f3f0cf667f14c4257",
+    "text": "to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "387f7e0e47cd76a88ff5ebb889e9b652",
+    "text": "face conversation. Working software is the primary measure of progress. Agile processes promote sustain",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "b02b97c3989767b62a15281fe4f862e6",
+    "text": "able development. The sponsors, developers, and users should be able to maintain a constant pace indeﬁnitely. Con",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "1b2e93dc257e57f21fcd7053af57b941",
+    "text": "tinuous attention to technical excellence and good design enhances agility. Simplicity",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "aec5f586b85bc82875d874cf904efc4d",
+    "text": "the art of maximizing the amount of work not done",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "428d4dac83589eac131538227929fc34",
+    "text": "is essential. The best architectures, requirements, and designs emerge from self",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "f29e3a6a6d8b638de5800c223c9ba341",
+    "text": "organizing teams. At regular intervals, the team reﬂects on how to become more effective, then tunes and adjusts its behavior accordingly.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "ccc5595c09b30252253a58f51b888c26",
+    "text": "Agile Manifesto, Values, and Principles, 2001",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "743402844e412df01c1fe73426eca124",
+    "text": "Name Description Lean Principles, 2000- Specify value from the standpoint of the end 2018 customer by product family. Identify all the steps in the value stream for each product family, eliminating whenever possible those steps that do not create value. Make the value-creating steps occur in tight sequence so the product will ﬂow smoothly toward the customer. As ﬂow is introduced, let customers pull value from the next upstream activity. As value is speciﬁed, value streams are identiﬁed, wasted steps are removed, and ﬂow and pull are introduced, begin the process again and continue it until a state of perfection is reached in which perfect value is created with no waste. (1) Metrics are used for the quantitative and periodic assessment of a process. They should be associated with targets that are set based on speciﬁc business",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "1f281294d989be17b4f02761cd23b946",
+    "text": "Description Specify value from the standpoint of the end customer by product family. Identify all the steps in the value stream for each product family, eliminating whenever possible those steps that do not create value. Make the value",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "dd5944615c55b4ff4f907343befd3afc",
+    "text": "creating steps occur in tight sequence so the product will ﬂow smoothly toward the customer. As ﬂow is introduced, let customers pull value from the next upstream activity. As value is speciﬁed, value streams are identiﬁed, wasted steps are removed, and ﬂow and pull are introduced, begin the process again and continue it until a state of perfection is reached in which perfect value is created with no waste.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "aac3216763c0fb13ce68af57f9660639",
+    "text": ") Metrics are used for the quantitative and periodic assessment of a process. They should be associated with targets that are set based on speciﬁc objectives. Metrics provide information related to the goals and objectives of a process and are used to take corrective action when desired results are not being achieved and can be used to drive continual improvement of process effectiveness and efficiency. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "085e6fd73fe85cbaf766a4745a674d8d",
+    "text": ") Management will regularly set targets for process performance, gather able data related to different functions of the RE process, and review that data in order to make informed decisions and take appropriate corrective action, if necessary. All Measurements will have a deﬁned data dictionary, map to the organizational strategic goals, and be documented in a Process Measurement Plan. The Process Measurement Plan template is available in the IT PAL. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "851cac7560cad4207672a9cdd81d23b0",
+    "text": ") The tailoring guidelines identify the allowable variations of the IT organization’s standard process as needed for adjustments (adding, deleting, modifying) relative to speciﬁc operational or functional needs of another organization. Process tailoring is about roles and procedures, not the standard process or major activities deﬁned in this process. All tailoring request, with supporting rationale, must be submitted in writing to and approved by the RE owner. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "4a5a4c9efbb140ece3f03d84351d6113",
+    "text": ") This process may be tailored to meet speciﬁc project requirements. The tailoring must identify all tailoring decisions that fall outside the adaptability built into the current products and processes adopted from REPO standards and explain the rationale and impact of each. Key REPO artifacts (e.g., re- quirements plan, business system report) body text and appendices are able capture most tailoring and rationale. Tailoring outside provided adaptability must be approved by REPO. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "87fda692d4dc7b60762581e207ebf24a",
+    "text": ") Terms/Deﬁnitions/Acronyms",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "7e4388b64a847f3fa94b4d2849058080",
+    "text": "Engineering Process 2.110.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "67f9fbdf2e86be2b98d1be5741215d67",
+    "text": "Term Deﬁnition Method A set of software development principles em",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "b26b3e5ed3155dde1026d59ad3336e18",
+    "text": "phasizing ongoing collaboration between the customer and the self",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "61d52573a9020f2484b092cc667ab088",
+    "text": "organizing, cross",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "521c018ae1e3286ed5f8a083a184a6f3",
+    "text": "functional delivery teams. Agile promotes early and frequent value delivery, empowerment, frequent value delivery, technical excellence, and process adaptability throughout the life",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "82be9487fec976a50a17873027a47195",
+    "text": "cycle of the project. There are several speciﬁc agile methods and practices. A work product created by a process or procedure step (e.g., plans, design speciﬁca",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "f0c4386196a8245b49cde0ba67010013",
+    "text": "tions). Baselines are a part of the conﬁguration man",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "8800b5d5b43118cd24611415727a3f39",
+    "text": "agement process and help control the solution as it is produced. A baseline establishes what versions of what work products comprise the solution at a speciﬁc point in the life cycle. As mentioned previously, work products that are conﬁguration items are placed under conﬁgura",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "69177e3aa5b087150912d73719f5c903",
+    "text": "tion management control when they are approved. The solution, however, may contain many different work products of different types—source code, documentation, tests, manuals, etc.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "18a4679b63d25a58b0a7e6614489b609",
+    "text": "each with its own version or revision number. The baseline identiﬁes those work products included in the solution and the applicable version or revision of each. The Knowledge, Incident/Problem, Service and Asset Management (KISAM) Tool is the official defect reporting tool for the IRS. The core idea of lean is to eliminate/reduce non",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "cd42404d52ad55ccfa9aca4adc828aa5",
+    "text": "value",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "8b89a48a23b7f5638a464e3c8dfd2c4f",
+    "text": "added activities (termed ″wastes″) and thus increase customer value. A collection of activities that begin with inputs and produce outputs.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "8ce7538543bbb551568b4705d9a9442b",
+    "text": "A set of software development principles em",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "b26b3e5ed3155dde1026d59ad3336e18",
+    "text": "phasizing ongoing collaboration between the customer and the self",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "61d52573a9020f2484b092cc667ab088",
+    "text": "organizing, cross",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "521c018ae1e3286ed5f8a083a184a6f3",
+    "text": "functional delivery teams. Agile promotes early and frequent value delivery, empowerment, frequent value delivery, technical excellence, and process adaptability throughout the life",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "4b278bb67b6dbeef1ef05afa6ada6ffd",
+    "text": "cycle of the project. There are several speciﬁc agile methods and practices.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "f9c2da70334000cd9358e6c6c2c74709",
+    "text": "Baselines are a part of the conﬁguration man",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "8800b5d5b43118cd24611415727a3f39",
+    "text": "agement process and help control the solution as it is produced. A baseline establishes what versions of what work products comprise the solution at a speciﬁc point in the life cycle. As mentioned previously, work products that are conﬁguration items are placed under conﬁgura",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "69177e3aa5b087150912d73719f5c903",
+    "text": "tion management control when they are approved. The solution, however, may contain many different work products of different types—source code, documentation, tests, manuals, etc.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "dd512fd92df0c30af652200d491e22c7",
+    "text": "each with its own version or revision number. The baseline identiﬁes those work products included in the solution and the applicable version or revision of each.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "036d85f3dfc6e7cf5676f207810a3cf0",
+    "text": "Requirements Engineering Process 2.110.2 page 11 Term Deﬁnition Veriﬁcation Ensures that each step in the process of building the solution components yield the right products. Visualization Visualization is the process by which project teams assemble visual models to represent the desired features (i.e., requirements) of a user interface. Visualization is a collaborative approach that allows stakeholders to deﬁne requirements, describe how they appear on a screen, and demonstrate how they interact with other requirements on that screen or across screens. Visual requirements reduce the de- pendency on text requirements while providing a clearer, shared vision of the desired end state. Visualizations are not intended to evolve into fully functional solutions but are meant to help users visualize requirements and take into account the user experience of the ﬁnal product. 2.110.2.1.6.2 (1) Acronyms and deﬁnitions identiﬁed in this document. (08-13-2019)Acronyms Acronyms Description RACI Responsible, Accountable, Consulted, and Informed RE Requirements Engineering REPO Requirements Engineering Program Office 2.110.2.1.7 (1) Sources that were used to develop and/or support this process. (08-13-2019) • Agile Central Hub Website - An enterprise level, cross-functional initia- Related Resources tive established to support the coordination, integration, and progression of agile efforts to enable an efficient and effective IRS transformation. It provides a forum for online training, guidance, open sharing, improve- ment communities, outreach to the Agile Central Team, and other information. • Agile Manifesto, Values, and Principles, 2001 • Capability Maturity Model Integration CMMI for Development, Version 1.3, CMU/SEI-2010-TR-033, Software Engineering Institute, Carnegie Mellon University, 2010 • Lean Principles, 2000-2018 • Requirements Engineering Program Office (REPO) Website – Provides",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "4efe3d080d2e493cbafbf41fa69c355c",
+    "text": "page 11 Term Deﬁnition Veriﬁcation Ensures that each step in the process of building the solution components yield the right products. Visualization Visualization is the process by which project teams assemble visual models to represent the desired features (i.e., requirements) of a user interface. Visualization is a collaborative approach that allows stakeholders to deﬁne requirements, describe how they appear on a screen, and demonstrate how they interact with other requirements on that screen or across screens. Visual requirements reduce the de- pendency on text requirements while providing a clearer, shared vision of the desired end state. Visualizations are not intended to evolve into fully functional solutions but are meant to help users visualize requirements and take into account the user experience of the ﬁnal product.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "d4b06300199de0483732faaba754c230",
+    "text": "Deﬁnition Ensures that each step in the process of building the solution components yield the right products. Visualization is the process by which project teams assemble visual models to represent the desired features (i.e., requirements) of a user interface. Visualization is a collaborative approach that allows stakeholders to deﬁne requirements, describe how they appear on a screen, and demonstrate how they interact with other requirements on that screen or across screens. Visual requirements reduce the de",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "17c61d66084712d69bb3d6b64cfe9933",
+    "text": "pendency on text requirements while providing a clearer, shared vision of the desired end state. Visualizations are not intended to evolve into fully functional solutions but are meant to help users visualize requirements and take into account the user experience of the ﬁnal product.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "11bbd2edad78a84be4bf479998a26c56",
+    "text": "Acronyms and deﬁnitions identiﬁed in this document.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "8d371b746e6c2d1bec1cc0e35df210aa",
+    "text": "Acronyms Description RACI Responsible, Accountable, Consulted, and Informed RE Requirements Engineering REPO Requirements Engineering Program Office",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "84397a2f8afbf4e42064bf74ca1151ba",
+    "text": "Agile Central Hub Website - An enterprise level, cross-functional tive established to support the coordination, integration, and of agile efforts to enable an efficient and effective IRS transformation. provides a forum for online training, guidance, open sharing, ment communities, outreach to the Agile Central Team, and other information. Agile Manifesto, Values, and Principles,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "8b07a614c936604b936e8619f0050fbf",
+    "text": "Capability Maturity Model Integration CMMI for Development, Version",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "cf02f4ff1d000a94a5204ec44b9968b4",
+    "text": ", CMU/SEI-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "719b32c912da2d4df4cb2453c69f6d8d",
+    "text": "-TR-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "2706523f853ce40886b79de82c5443e6",
+    "text": ", Software Engineering Institute, Carnegie Mellon University,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "fa11efb733333e217b53981685937781",
+    "text": "Lean Principles,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "95225275695f947494541addd24fef6c",
+    "text": "Requirements Engineering Program Office (REPO) Website – requirements engineering guidance and templates by ELC path, Requirements Engineering Library, training and information",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "6772ead18f16aca61997ef45bc01d258",
+    "text": "Requirements Engineering Program Office (REPO) Website – Provides requirements engineering guidance and templates by ELC development path, Requirements Engineering Library, training and information",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "070773b50f5740751a8c866a9658cf8e",
+    "text": "sharing, RE Tools information, REPO service offerings for project support, and access to the REPO Front Door.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "bc46b5ab80d4aa28dbd18f47efd47c86",
+    "text": "Process training involves training all stakeholders about key processes that crucial for an organization to deliver business objectives. Training provides clarity to employees on a set of procedures that needs to be carried out as part of the process and the best possible way to do them. List below the training resources available for this process:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "84e9fc5dcb812a4c9a031001cdc3c246",
+    "text": "clarity to employees on a set of procedures that needs to be carried out as part of the process and the best possible way to do them. List below the training resources available for this process: • Agile Central Hub Website - An enterprise level, cross-functional initia- tive established to support the coordination, integration, and of agile efforts to enable an efficient and effective IRS transformation. provides a forum for online training, guidance, open sharing, improve- ment communities, outreach to the Agile Central Team, and other information. • Agile Manifesto, Values, and Principles,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "1e8a8a984de17f5ec2c1ca7a45a67c09",
+    "text": "• Capability Maturity Model Integration CMMI for Development, Version",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "cf02f4ff1d000a94a5204ec44b9968b4",
+    "text": ", CMU/SEI-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "719b32c912da2d4df4cb2453c69f6d8d",
+    "text": "-TR-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "2706523f853ce40886b79de82c5443e6",
+    "text": ", Software Engineering Institute, Carnegie Mellon University,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "c4f0079b18eee5a12d379dcf1869ddbe",
+    "text": "• Lean Principles,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "f93dcf6e6e96232088bf02ae4b5d6cad",
+    "text": "• Requirements Engineering Program Office (REPO) Website – Provides requirements engineering guidance and templates by ELC path, Requirements Engineering Library, training and information sharing, RE Tools information, REPO service offerings for project support, and access to the REPO Front Door. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "7283f5eeb924a9921708ff1e0f187860",
+    "text": ") A process workﬂow consists of Activities and Tasks, Inputs and Outputs, and Flow Diagrams. It describes the tasks, procedural steps, organizations or people involved, required input and output information, and tools needed for each step of the process. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "174cda6e0f838ac343e7d711e59dab2b",
+    "text": ") Proper RE execution is not necessarily a process represented by a ﬂow but instead a set of fundamentals that help achieve a desired result. The RE process is represented as a whole in the diagram below where many occur almost simultaneously in high-functioning teams. Different events may trigger all or only part of the activities seen below. Any inputs or outputs are presented as ones that supply or result most often from execution of the ties as a whole. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "527494a6e0785d9c30003be54408a2e8",
+    "text": "training resources available for this process: • Agile Central Hub Website - An enterprise level, cross-functional initia- tive established to support the coordination, integration, and of agile efforts to enable an efficient and effective IRS transformation. It provides a forum for online training, guidance, open sharing, improve- ment communities, outreach to the Agile Central Team, and other information. • Agile Manifesto, Values, and Principles,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "1e8a8a984de17f5ec2c1ca7a45a67c09",
+    "text": "• Capability Maturity Model Integration CMMI for Development, Version",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "cf02f4ff1d000a94a5204ec44b9968b4",
+    "text": ", CMU/SEI-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "719b32c912da2d4df4cb2453c69f6d8d",
+    "text": "-TR-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "2706523f853ce40886b79de82c5443e6",
+    "text": ", Software Engineering Institute, Carnegie Mellon University,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "c4f0079b18eee5a12d379dcf1869ddbe",
+    "text": "• Lean Principles,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "8fd4f86d7c260efb4fb6605d43a73aee",
+    "text": "• Requirements Engineering Program Office (REPO) Website – Provides requirements engineering guidance and templates by ELC development path, Requirements Engineering Library, training and information sharing, RE Tools information, REPO service offerings for project support, and access to the REPO Front Door.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "bab10a46caf05a4b65de01f2ecb339d8",
+    "text": "each step of the process. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "f4e168683e4941c3429fdff0dad8c432",
+    "text": ") Proper RE execution is not necessarily a process represented by a ﬂow but is instead a set of fundamentals that help achieve a desired result. The RE process is represented as a whole in the diagram below where many activities occur almost simultaneously in high-functioning teams. Different events may trigger all or only part of the activities seen below. Any inputs or outputs are presented as ones that supply or result most often from execution of the activi- ties as a whole.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "5988a793431d43b17bf9b6d38cbde193",
+    "text": "Activities Occur Continuously During DevelopmentInitiated by Project Events",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3703580d6dd0c5990d8478ed9f6f41c6",
+    "text": "Figure 2.110.2-1 (1) Process inputs are used as triggers to initiate the process and to desired outputs. Users, stakeholders or other processes provide following is a list of inputs for this process: Name Description Supplier Initiating Events Initiators of work can include but Business Owner are not limited to work requests, change requests, KISAM Tickets, or even conversational inputs such as sprint review/ planning, and ongoing collaboration with the business. In general, these initiating events",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "f26d181a698bb4a85b884a13d430ff45",
+    "text": "Validate andGather Needs RefineRequirementsManage Prioritize andAnag AllocateRequirements RequirementsFigure 2.110.2-1",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "82b609ff61b6ab9c9de06bc8207b843f",
+    "text": "(1) Process inputs are used as triggers to initiate the process and to produce the desired outputs. Users, stakeholders or other processes provide inputs. The following is a list of inputs for this process: Name Description Supplier Initiating Events Initiators of work can include but Business Owner are not limited to work requests, change requests, KISAM Tickets, or even conversational inputs such as sprint review/ planning, and ongoing collaboration with the business. In general, these initiating events can be summarized as any ex-",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "4635788237eebb4c0ef8d4380eab6c09",
+    "text": "Process inputs are used as triggers to initiate the process and to produce the desired outputs. Users, stakeholders or other processes provide inputs. The following is a list of inputs for this process:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "476d0abfc61e48cdc1da44b9345dc508",
+    "text": "Description Supplier Initiators of work can include but Business Owner are not limited to work requests, change requests, KISAM Tickets, or even conversational inputs such as sprint review/ planning, and ongoing collaboration with the business. In general, these initiating events can be summarized as any ex- pression of need.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "fbb36e71c871ed47d925e80ec95ea27c",
+    "text": "2.110 Requirements Engineering",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "cde781a5fb98f5c5148087dbb43628cb",
+    "text": "2.110.2.2.3 (1) Each process produces tangible outputs. These outputs can take the form of (08-13-2019) products or data and can be delivered to a user or stakeholder, or, they can be Outputs used as inputs to other processes. Outputs are measurable in terms of quantity and quality. Name Description Recipient Deﬁned Scope Predominately reserved for new Business Owner or major development, in which major system inputs, outputs, system, and organizational inter- faces are identiﬁed. End-state visions and major development constraints are also a part of the scope deﬁnition. Captured Requirements Requirements can exist in many Development Team Business forms whether textual, rule- Owner based, models-driven, or visual. Captured requirements implies that they are incorporated into the project/program’s require- ments repository but can also exist in associated tools. Inter- mediate project storyboard representation is also included. Captured requirements are also grouped into baselines in con- junction with the other activities such as allocation and prioritiza- tion. Established Priorities The Business establishes the Development Team Business priorities to achieve the business Owner objectives. The development team may also have technical dependencies which drive what work may need attention and allocation. Though not true priori- ties, they do inﬂuence what needs to be accomplished, so they are being placed into this output of general priorities.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "60838ab6c6166fca2669f0edaa226d2a",
+    "text": "Each process produces tangible outputs. These outputs can take the form of products or data and can be delivered to a user or stakeholder, or, they can be used as inputs to other processes. Outputs are measurable in terms of quantity and quality.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "8594471c3d530549d82823d9eec6e01c",
+    "text": "forms whether textual, rule",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "d89e34dc0f55bce04c69adad1ab4c877",
+    "text": "based, models",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "15306b7415f53bdca2340def73613ce8",
+    "text": "driven, or visual. Captured requirements implies that they are incorporated into the project/program’s require",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "9d65bb71442d023997d5f7a93f59c698",
+    "text": "ments repository but can also exist in associated tools. Inter",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "5f6bebebecec0d244f228e6d00df304d",
+    "text": "mediate project storyboard representation is also included. Captured requirements are also grouped into baselines in con",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "75e15e92d2940341fca9a2130a5121f8",
+    "text": "junction with the other activities such as allocation and prioritiza",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "a946266d9fd98270ee56ddf2e8972a44",
+    "text": "tion.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "77a7554ab33bfc9d82b5c2be16444dd5",
+    "text": "The Business establishes the priorities to achieve the business objectives. The development team may also have technical dependencies which drive what work may need attention and allocation. Though not true ties, they do inﬂuence what needs to be accomplished, so they are being placed into this output of general priorities.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "d63ce415a94d92b1ae38541b6f5eb0c0",
+    "text": "Requirements Engineering Process 2.110.2 page 15 Name Description Recipient Validated Requirements Similar to establishing priorities, Development Team Business validation is needed by the Owner business to conﬁrm the mutual understanding that what will be developed will satisfy the business objectives. Demonstra- tions as seen in visualizations, and walk-throughs of systems and models are ideal, though pure documentation may also suffice. Like the other activities, validation should start before coding, and continue throughout the development process. Monitored Progress Monitoring progress based on Development Team Requirements the size and complexity of the Manager requirements is fundamental and occurs in all development ap- proaches. The monitored data not only supplies information about the current work effort but is used to improve future work effort estimations and predictabil- ity. Captured Trace Relationships Trace relationships are not pre- Development Team Requirements scribed but should naturally fall Manager out of artifacts needed by the project and the need for under- standing how they relate to others (e.g., a test case is naturally associated with require- ment being tested). Trace relationships are also captured in the requirement repository and can include referential asso- ciations. Allocations for Production Requirements may be allocated Business Owner Development to a current release, sprint, or Team Requirements Manager other work partition; allocated to a future release or allocated to a product backlog for future con-",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "95827fab910b983e4ecd8fd04fcb686e",
+    "text": "Monitoring progress based on the size and complexity of the requirements is fundamental and occurs in all development ap",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "b721e140a64b46aa5cf64d3133e9fba1",
+    "text": "proaches. The monitored data not only supplies information about the current work effort but is used to improve future work effort estimations and predictabil",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "7546d5eca6bfadf205f1ad930b1573d0",
+    "text": "Development Team Requirements Manager",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "f45724c5f7f54e27ed8b6d26b229a048",
+    "text": "Trace relationships are not pre",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "c8e44ee32995f68086642df2876100cc",
+    "text": "scribed but should naturally fall out of artifacts needed by the project and the need for under",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "2d36a9e2d47848097221d18ceec15582",
+    "text": "standing how they relate to others (e.g., a test case is naturally associated with require",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "711637614a04842ddafda419a6446504",
+    "text": "ment being tested). Trace relationships are also captured in the requirement repository and can include referential asso",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "7f96a50c2f7474d3417d76665d6bc725",
+    "text": "ciations.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "78b52eeb1231978611a7875f1f8bf065",
+    "text": "Requirements may be allocated to a current release, sprint, or other work partition; allocated a future release or allocated to product backlog for future con",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "c5c1eeef146d6b5f5991f59bd566ea2a",
+    "text": "sideration and prioritization.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "fbb36e71c871ed47d925e80ec95ea27c",
+    "text": "2.110 Requirements Engineering",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "8e5e04bdda5edee0c90630547b2e9f17",
+    "text": "An activity is a major unit of work to be completed in achieving the objectives of the process. A process consists of a sequence of related activities that transforms inputs into outputs and performed by the roles deﬁned in the process. Activities are measurable in terms of efficiency and effectiveness. Identify the activities in the process and provide a brief description. The activi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "d1fced1bc371d4057db4bbdd39d739c5",
+    "text": "ties must correspond with the high",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "dfa6a167b6705f3bd84542580a72faff",
+    "text": "level process ﬂow diagram above.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "a879790ff31a87b0328fbce73f5e583e",
+    "text": "Description Business needs can be gathered from many sources. It may be from documents such as an IRM, or from conversations with the business. Even a bug recorded as a test case expresses a “need” to correct the system. Project should be open to a variety of possible need expressions. Needs may or may not initially be at a level of decom",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "4262f989d47f60512ba3504df8b669ea",
+    "text": "position to support development. Decomposition to fully understand business logic as business rules, and other details are often gathered during development cycle, performed iteratively, and conducted at a point in development when they are needed for better efficiency. Validation conﬁrms that what has been un",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "5f6ecbe0a0975375f181048b285d3759",
+    "text": "derstood and deﬁned by the development team will meet the objectives of the business. Validation is performed by the business, but often assisted by the devel",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "dd63e753421591a7d86a60bcedbcd768",
+    "text": "opment team by walking through models, incremental system builds, and other mechanisms. Validation should begin early in the lifecycle and continue as an ongoing activity throughout development. Validation is not the same as testing – see REPO guidance for more on validation. Reﬁne",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "4fe05da331005e88ab3708e4d5b63695",
+    "text": "ments are included in this activity as validation often results in new or modiﬁed requirements, though it agreeably overlaps with Gathering Needs. Managing requirements includes a variety",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "90542124f23f2efa34064d2848e50a9a",
+    "text": "ID Name NA Gather Needs NA Validate and Reﬁne Requirements NA Manage Requirements",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "a4863724f4fe29a2a72bbfd996721a27",
+    "text": "Business needs can be gathered from many sources. It may be from documents such as an IRM, or from conversations with the business. Even a bug recorded as a test case expresses a “need” to correct the system. Project should be open to a variety of possible need expressions. Needs may or may not initially be at a level of decom",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "2d2f13abf21a8b4c672557016f1a7e00",
+    "text": "position to support development. Decomposition to fully understand business logic as business rules, and other details are often gathered during development cycle, performed iteratively, and conducted at a point in development when they are needed for better efficiency.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "e912c7cf40c294fac3e7e9dd2c8e8fb7",
+    "text": "Validation conﬁrms that what has been un",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "5f6ecbe0a0975375f181048b285d3759",
+    "text": "derstood and deﬁned by the development team will meet the objectives of the business. Validation is performed by the business, but often assisted by the devel",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "dd63e753421591a7d86a60bcedbcd768",
+    "text": "opment team by walking through models, incremental system builds, and other mechanisms. Validation should begin early in the lifecycle and continue as an ongoing activity throughout development. Validation is not the same as testing – see REPO guidance for more on validation. Reﬁne",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "a79639cccd6520cabbe101bb8d606e71",
+    "text": "ments are included in this activity as validation often results in new or modiﬁed requirements, though it agreeably overlaps with Gathering Needs.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "1344ff465ef9ba446e0b9b7cb792699a",
+    "text": "Managing requirements includes a variety of results that are often contingent upon each other. As a fundamental, managing requirements starts with capturing require",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "27599a92c56c107e857e486e6f01e00d",
+    "text": "ments and related artifacts with trace relationships in the requirements With that information, the project can leverage data to monitor and control progress, perform estimations, and create baselines. This activity overlaps and often happens concurrently with Gathering Needs, Prioritization, and Allocation.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "4e867c4e5e8bf84124b88da56c912379",
+    "text": "Requirements Engineering Process 2.110.2 page 17 ID Name Description NA Prioritize and Allocate Requirements The Business establishes the priorities to achieve the business objectives. The devel- opment team may also have technical dependencies which drive what work may need attention and allocation. Though not true priorities, they do inﬂuence what needs to be accomplished, so they are being placed into this activity of prioritizing. Requirements are allocated to a current release, sprint, or other work partition; allocated to a future release or allocated to a product backlog for future consideration and prioritization. Like the other activities, prioritizing and allocation overlaps with the other activities, and often occurs both con- currently and iteratively throughout development. 2.110.2.2.5 (1) The tasks described for each activity should not be viewed as a ﬂow of steps (08-13-2019) that once executed result in the desired outcome; but instead, tasks that work Procedure in conjunction with other tasks in the same activity, and most often invoke other tasks from other activities in a variety of combinations that vary between project development approaches, development environments, requirement initi- ating events, and other inﬂuencing factors. (2) The requirements engineering discipline does not lend itself to a procedural nature that is universally applicable to all projects. In accordance with REPO guidance, and in alignment with the developmental direction of the IRS, projects should NOT attempt to view RE procedurally or as a sequence of steps to follow; but instead, a body of best practices and guidelines that a project can draw upon to produce the most efficient deﬁnitional solution for ad- dressing the widely diverse universe of IRS development efforts. 2.110.2.2.5.1 (1) Task Name and Description: Collaborate with Business Owner. (08-13-2019)GatherNeeds ID Role RACI Duties NA Development Team R Collaboration with the Business Owner to harvest needs on a scheduled or ad-hoc basis. NA Business Owner C Makes themselves available and prepared to provide information on an on-going basis.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "14fd802aa5ba07e70131b4819c0eb60f",
+    "text": "ID Name Description NA Prioritize and Allocate Requirements The Business establishes the priorities to achieve the business objectives. The devel- opment team may also have technical dependencies which drive what work may need attention and allocation. Though not true priorities, they do inﬂuence what needs to be accomplished, so they are being placed into this activity of prioritizing. Requirements are allocated to a current release, sprint, or other work partition; allocated to a future release or allocated to a product backlog for future consideration and prioritization. Like the other activities, prioritizing and allocation overlaps with the other activities, and often occurs both con- currently and iteratively throughout development.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "ddddefae4af4dd956f9a3958ecea3625",
+    "text": "Description The Business establishes the priorities to achieve the business objectives. The devel",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "90a18c0b3975e6f86951e9fca9eb4db2",
+    "text": "opment team may also have technical dependencies which drive what work may need attention and allocation. Though not true priorities, they do inﬂuence what needs to be accomplished, so they are being placed into this activity of prioritizing. Requirements are allocated to a current release, sprint, or other work partition; allocated to a future release or allocated to a product backlog for future consideration and prioritization. Like the other activities, prioritizing and allocation overlaps with the other activities, and often occurs both con",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "71d9225f810a4317ffb714ffb5306060",
+    "text": "currently and iteratively throughout development.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "2fb015c9b8375ae30416c545021e4ea9",
+    "text": "in conjunction with other tasks in the same activity, and most often invoke other tasks from other activities in a variety of combinations that vary between project development approaches, development environments, requirement initi- ating events, and other inﬂuencing factors. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "56d67e5b2cf385b9b8a6a87d0ad0945d",
+    "text": ") The requirements engineering discipline does not lend itself to a procedural nature that is universally applicable to all projects. In accordance with REPO guidance, and in alignment with the developmental direction of the IRS, projects should NOT attempt to view RE procedurally or as a sequence of steps to follow; but instead, a body of best practices and guidelines that a project can draw upon to produce the most efficient deﬁnitional solution for ad- dressing the widely diverse universe of IRS development efforts.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "11e1981c4bc694656ca5aff4093085cb",
+    "text": "ID Role RACI Duties NA Development Team R Collaboration with the Business Owner to harvest needs on a scheduled or ad-hoc basis. NA Business Owner C Makes themselves available and prepared to provide information on an on-going basis.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "f4a059eeab0706c365e9361f2936908a",
+    "text": "Task Name and Description: Collaborate with other Stakeholders.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "4b1ea68799f6f9b8eed98f71496b3e9c",
+    "text": "page 18 2.110 Requirements Engineering ID Role RACI Duties NA Business Owner R Identiﬁes other Stakeholders including organi- zations and systems with whom the development may need to exchange informa- tion. Is also involved in the conversation as needed.Note:The responsible person can vary depending upon the stakeholder. NA Development Team I Participates in the information gathering; par- ticularly ensuring technical needs are discovered. (3) Task Name and Description: Gather information from relevant and authori- tative documented sources (e.g., IRMs, Legislation). ID Role RACI Duties NA Development Team R Combs through official source documentation and uses requirements analysis techniques to harvest information. NA Business Owner A Provides known sources to the development and serves to interpret material. (4) Task Name and Description: Formulate and/or Decompose needs into ap- propriate artifacts such as process models, business rules and rule sets. ID Role RACI Duties NA Requirements Manager R Leads the analysis and execution of decompo- sition, or direct utilization, leveraging industry and REPO best practices and guidelines. NA Development Team C Participates in the decomposition to include technical considerations when pertinent, and for general familiarization of business decom- position model for implementation into the application architecture. NA Business Owner I Provides input into the business aspects of the decomposition.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "86b1ccdfc0eb5771ac229ecb8b94bfdf",
+    "text": "ID Role RACI Duties NA Business Owner R Identiﬁes other Stakeholders including organi- zations and systems with whom the development may need to exchange informa- tion. Is also involved in the conversation as needed.Note:The responsible person can vary depending upon the stakeholder. NA Development Team I Participates in the information gathering; par- ticularly ensuring technical needs are discovered. (3) Task Name and Description: Gather information from relevant and authori- tative documented sources (e.g., IRMs, Legislation). ID Role RACI Duties",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "f06cb88238a2434e211b85b251c4bba7",
+    "text": "Task Name and Description: Gather information from relevant and authori- tative documented sources (e.g., IRMs, Legislation).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "4f10ca2263f35dcd402ab901c3e88a70",
+    "text": "ID Role RACI Duties NA Development Team R Combs through official source documentation and uses requirements analysis techniques to harvest information. NA Business Owner A Provides known sources to the development and serves to interpret material.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "568bba22e08abceb451138b2ce2af19b",
+    "text": "Task Name and Description: Formulate and/or Decompose needs into ap- propriate artifacts such as process models, business rules and rule sets.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "47b2fbba6d0df99cee93d9fb0b08f04f",
+    "text": "ID Role RACI Duties NA Requirements Manager R Leads the analysis and execution of decompo- sition, or direct utilization, leveraging industry and REPO best practices and guidelines. NA Development Team C Participates in the decomposition to include technical considerations when pertinent, and for general familiarization of business decom- position model for implementation into the application architecture. NA Business Owner I Provides input into the business aspects of the decomposition.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "ca97c8ee58596eb7973e2c5783079197",
+    "text": "Requirements Engineering Process 2.110.2 page 19 ID Role RACI Duties NA Requirements Manager R Provides primary input in the repository either directly or via consultation to the Business and/or Development Team on the correct utili- zation of artifacts, attributes, and traceability. Recording needs also includes the capture of artifact attributes. NA Development Team I Can also manage capture of requirements in- formation. NA Business Owner A Often tasked and assumes responsibility of their own requirements capture in the reposi- tory; again, in alignment with the standards overseen by the Requirements Manager. 2.110.2.2.5.1.1 (1) Refer to Main Process Diagram 2.110.2.2.1. (08-13-2019)Cross-Functional Flow Diagram 2.110.2.2.5.2 (1) Task Name and Description: Conﬁrm deﬁned requirements and associated (08-13-2019) models (inclusive of rules) for satisfaction of business objectives. Validate and Reﬁne Requirements ID Role RACI Duties NA Business Owner R, A Responsible for validating that the require- ments will satisfy the business objectives. NA Development Team A Some technical requirements may be better validated by the development team, but still ultimately are concurred with and owned by the Business Owner. (2) Task Name and Description: Facilitate walkthrough and understanding of deﬁned models and requirements (inclusive of rules). (3) ID Role RACI Duties NA Development Team R, C Guides the walkthrough of the validation by the Business Owner. (4) Task Name and Description: Incorporate reﬁnements to requirements as a result of validation activities.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "2f90a8e091ab2445f677aae87c306444",
+    "text": "Engineering Process 2.110.2 page ID Role RACI Duties NA Requirements Manager R Provides primary input in the repository either directly or via consultation to the Business and/or Development Team on the correct utili- zation of artifacts, attributes, and traceability. Recording needs also includes the capture of artifact attributes. NA Development Team I Can also manage capture of requirements in- formation. NA Business Owner A Often tasked and assumes responsibility of their own requirements capture in the reposi- tory; again, in alignment with the standards overseen by the Requirements Manager.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "9447cfc5de86ce71f9dcf83c200aa55e",
+    "text": "Task Name and Description: Conﬁrm deﬁned requirements and associated models (inclusive of rules) for satisfaction of business objectives.",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "9447cfc5de86ce71f9dcf83c200aa55e",
+    "text": "Task Name and Description: Conﬁrm deﬁned requirements and associated models (inclusive of rules) for satisfaction of business objectives.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "6c401f6bb2d097a2bb34ff20c17a30ec",
+    "text": "ID Role RACI Duties NA Business Owner R, A Responsible for validating that the require- ments will satisfy the business objectives. NA Development Team A Some technical requirements may be better validated by the development team, but still ultimately are concurred with and owned by the Business Owner. (2) Task Name and Description: Facilitate walkthrough and understanding of deﬁned models and requirements (inclusive of rules). (3) ID Role RACI Duties NA Development Team R, C Guides the walkthrough of the validation by the Business Owner. (4) Task Name and Description: Incorporate reﬁnements to requirements as a",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "012857b48cac2489965996522382fcd3",
+    "text": "ID Role RACI Duties NA Business Owner R, A Responsible for validating that the require- ments will satisfy the business objectives. NA Development Team A Some technical requirements may be better validated by the development team, but still ultimately are concurred with and owned by the Business Owner.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "81e57ecc8ef627456b063acfc75c8b73",
+    "text": "ID Role RACI Duties NA Development Team R, C Guides the walkthrough of the validation by the Business Owner.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "de254be52d04bbd527e19db95477f803",
+    "text": "page 20 2.110 Requirements ID Role RACI Duties NA Requirements Manager R Validation may result in reﬁnement and changes that are still well-within scope but help achieve the desired result. The reﬁne- ments are captured by whoever is performing the Requirements Manager role whether that be a dedicated Requirements Manager, the Business Owner, or a member of the Develop- ment Team. NA Business Owner C Reﬁnements are concurred by the Business Owner. NA Development Team C Development Team participates in reﬁnement and concurrence for consistent understanding across the project. 2.110.2.2.5.2.1 (1) Refer to Main Process Diagram 2.110.2.2.1. (08-13-2019)Cross-Functional Flow Diagram 2.110.2.2.5.3 (1) Task Name and Description: Track progress. (08-13-2019)ManageRequirements ID Role RACI Duties NA Requirements Manager R Tracks progress as measured through the ac- complishment of requirements. This equates to the measuring tangible results and outcomes. It is not necessarily tied to traditional work breakdown structure style scheduling, and cost tracking. This progress tracking may also be handled by Scrum Masters and can take on many different forms. The tracking also includes process improvement and course cor- rections that can result from tracked observations, and often folds back into the other activities. NA Project Manager A Ultimately accountable for the project progress, and delivery of the product being tracked. NA Business Owner I Informed of progress regularly and can react to any needed course corrections. NA Development Team I Not only informed of progress, but also con- tributes directly to the state of developed items to feed progress tracking.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "de87ce8a5b38f756c045ac64502dbe71",
+    "text": "ID Role RACI Duties NA Requirements Manager R Validation may result in reﬁnement and changes that are still well-within scope but help achieve the desired result. The reﬁne- ments are captured by whoever is performing the Requirements Manager role whether that be a dedicated Requirements Manager, the Business Owner, or a member of the Develop- ment Team. NA Business Owner C Reﬁnements are concurred by the Business Owner. NA Development Team C Development Team participates in reﬁnement and concurrence for consistent understanding across the project.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "6064a596e7da38b032739e26e40494c6",
+    "text": "ID Role RACI Duties NA Requirements Manager R Tracks progress as measured through the ac- complishment of requirements. This equates to the measuring tangible results and outcomes. It is not necessarily tied to traditional work breakdown structure style scheduling, and cost tracking. This progress tracking may also be handled by Scrum Masters and can take on many different forms. The tracking also includes process improvement and course cor- rections that can result from tracked observations, and often folds back into the other activities. NA Project Manager A Ultimately accountable for the project progress, and delivery of the product being tracked. NA Business Owner I Informed of progress regularly and can react to any needed course corrections. NA Development Team I Not only informed of progress, but also con- tributes directly to the state of developed items to feed progress tracking.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "2a2e9b43cf145d2083752e3b1284873a",
+    "text": "Task Name and Description: Track volatility and/or scope creep.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "3d453e4c03171272af92fcfa6ab0ba2c",
+    "text": "(2) Task Name and Description: Track volatility and/or scope creep. ID Role RACI Duties NA Requirements Manager R Volatility and scope creep can be identiﬁed and measured in a variety of ways depending upon the project’s approach to development and is often folded into the development cycle; as is particularly the case on agile projects. Identiﬁcation, or recognizing when volatility and scope creep has occurred, is assumed as part of this tracking task. Changes can sometimes exceed the scope tolerance of the project, and therefore need to be tracked and measured so tolerance exceedance can be identiﬁed. The tracking also includes process improvement and course corrections that can result from tracking observations, and often fold back into the other activities. These forms of identiﬁcation and tracking are integral to one another that is the responsibility of whoever is performing the Requirements Manager role. NA Business Owner A The business needs to be informed of volatility and scope creep impacts that can jeopardize the project and business objectives. NA Project Manager I Informed of progress regularly and can react to any needed course corrections. NA Development Team I Not only informed of progress, but also con- tributes directly to the state of developed items to feed progress tracking.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "564faa602565768ce781a3578a53781f",
+    "text": "Volatility and scope creep can be identiﬁed and measured in a variety of ways depending upon the project’s approach to development and is often folded into the development cycle; as is particularly the case on agile projects. Identiﬁcation, or recognizing when volatility and scope creep has occurred, is assumed as part of this tracking task. Changes can sometimes exceed the scope tolerance of the project, and therefore need to be tracked and measured so tolerance exceedance can be identiﬁed. The tracking also includes process improvement and course corrections that can result from tracking observations, and often fold back into the other activities. These forms of identiﬁcation and tracking are integral to one another that is the responsibility of whoever is performing the Requirements Manager role.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "913ff0d949c63cf2ab9cad231fa6b541",
+    "text": "Task Name and Description: Manage changes to requirements.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "5e0b622d7929a2a155113c4b6d856003",
+    "text": "ID Role RACI Duties NA Business Owner R The business is responsible for ensuring that objectives are still in the forefront even with changes; and therefore, accountable for imposing changes that can jeopardize the project. As with other activities and tasks, this strongly dovetails and is performed in conjunc- tion with Prioritization, Allocations, and Gathering of Needs. NA Requirements Manager A Facilitates estimation and overall impact analysis of changes, and ensures changes and impacts are captured properly in the re- quirements repository according to REPO guidance.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "5437c7262633aa1481f017bf25f745e6",
+    "text": "page 22 2.110 Requirements Engineering ID Role RACI Duties NA Development Team C Contributes to the determination of impacts and estimates of any changes. NA Project Manager I Informed of impacts and estimates. The Project Manager also takes this information and ensures consistency is applied to other project-related plans. (4) Task Name and Description: Ensure end-to-end traceability. ID Role RACI Duties NA Requirements Manager R Responsible for ensuring all participants are tracing artifacts in a minimal fashion to other artifacts. May or may not physically apply trace relationships. Performs audits and checks of trace relationships. NA Development Team C May share responsibility of trace relationship capture and integrity. NA Business Owner C May share responsibility of trace relationship capture and integrity. 2.110.2.2.5.3.1 (1) Refer to Main Process Diagram 2.110.2.2.1. (08-13-2019)Cross-Functional Flow Diagram 2.110.2.2.5.4 (1) Task Name and Description: Prioritize needs. (08-13-2019)Prioritizeand Allocate Requirements ID Role RACI Duties NA Business Owner R Prioritizes the captured needs for achieving the business objectives. This directly inﬂuences allocation to development cycles and releases. NA Development Team C Provides technical dependencies to the Business Owner that do not directly inﬂuence business priorities, but does often inﬂuence the sequence of development, and subsequently inﬂuence the allocation of requirements to de- velopment cycles and releases. NA Requirements Manager I Helps capture priorities consistently in the re- quirements repository.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "b204f658e5a683d4c6518e36d94d2640",
+    "text": "22 2.110 Requirements Engineering ID Role RACI Duties NA Development Team C Contributes to the determination of impacts and estimates of any changes. NA Project Manager I Informed of impacts and estimates. The Project Manager also takes this information and ensures consistency is applied to other project-related plans. (4) Task Name and Description: Ensure end-to-end traceability. ID Role RACI Duties NA Requirements Manager R Responsible for ensuring all participants are tracing artifacts in a minimal fashion to other artifacts. May or may not physically apply trace relationships. Performs audits and checks of trace relationships. NA Development Team C May share responsibility of trace relationship capture and integrity. NA Business Owner C May share responsibility of trace relationship capture and integrity.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "67ba4d7a82b1ee6f523da8c3aa3f63c2",
+    "text": "ID Role RACI Duties NA Development Team C Contributes to the determination of impacts and estimates of any changes. NA Project Manager I Informed of impacts and estimates. The Project Manager also takes this information and ensures consistency is applied to other project-related plans.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "554fa7977c6b068d4ea4476b3f38df5f",
+    "text": "Name and Description: Ensure end-to-end traceability.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "361439ff521af523973dc57fb7aaf899",
+    "text": "ID Role RACI Duties NA Requirements Manager R Responsible for ensuring all participants are tracing artifacts in a minimal fashion to other artifacts. May or may not physically apply trace relationships. Performs audits and checks of trace relationships. NA Development Team C May share responsibility of trace relationship capture and integrity. NA Business Owner C May share responsibility of trace relationship capture and integrity.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "6b49a1364cd2bb89f2a72e4a21d72505",
+    "text": "ID Role RACI Duties NA Business Owner R Prioritizes the captured needs for achieving the business objectives. This directly inﬂuences allocation to development cycles and releases. NA Development Team C Provides technical dependencies to the Business Owner that do not directly inﬂuence business priorities, but does often inﬂuence the sequence of development, and subsequently inﬂuence the allocation of requirements to de- velopment cycles and releases. NA Requirements Manager I Helps capture priorities consistently in the re- quirements repository.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "328ebcf8f76f2bbc55a2278fe53d7ee3",
+    "text": "Task Name and Description: Allocate needs to development and releases.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "ce9f8de26cae75ff30f5f16e1d06c33c",
+    "text": "ID Role RACI Duties NA Requirements Manager R Based on priorities, and with consideration of dependencies, requirements are allocated to development cycles and releases. Other allo- cations such as those to people or organizations are typically handled through artifact attributes and can occur during this allocation activity, when needs are gathered, or even other activities. NA Business Owner A Makes the allocation decision and may apply the allocation physically in the repository. NA Development Team I Informed of what has been put into the devel- opment pipeline. NA Project Manager I Informed of what has been put into the devel- opment pipeline. Note: There is also allocation to such things like parts of the architecture and design; this is handled through traceability.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-110-002--2019-08-13.pdf",
+      "page_number": 27
+    }
+  }
+]

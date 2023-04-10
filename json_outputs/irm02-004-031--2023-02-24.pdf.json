@@ -1,0 +1,2117 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "24c114c245c7f78c1df29426be6dbb0d",
+    "text": "This transmittal reinstates 2.4.31, IDRS Terminal Input, Command Code LEVY.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "650a5a1de3dd3b4f7cc4999e1f78e88b",
+    "text": "Editorial changes were made to reﬂect the new year date of January 1, The addition of 2 address lines to the database has required a modiﬁcation to some of the displays.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a72c59499d4a056f66f1687c885f74bb",
+    "text": "IRM 2.4.31, dated December 2, 2011, is superseded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "8d053557778564fed9be8f2aa7c7fd67",
+    "text": "Large Business and International (LB&I), Small Business Self-Employed (SB/SE), Tax Exempt and Government Entities (TE/GE), Wage &Investment (W&I)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "c6995ec30c1e2ebb44c866ac529a152a",
+    "text": "Chief Information Officer",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "9dcbadcdba3856e3f99e65dd8bb6b849",
+    "text": "and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e00fd2d6e3dbb929768d162d6f760275",
+    "text": ") Purpose: This transmits revised IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "78a5476a0bf5d6082cd2455a60e4ba82",
+    "text": ", IDRS Terminal Responses, Command Code LEVY (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "abc845e49c02e199cc5f745b5f166f9c",
+    "text": ") Audience: All IRS business units. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6592c90923daf219acdb3af05e05a454",
+    "text": ") Program Owner: Account Services (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2c8f2e05e2389e9118b273e65bf9ca5c",
+    "text": ") Primary Stake Holders: LMSB, SB/SE, TE/GE, W&I (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "046fd43e37b1e811b92e802179ac8e59",
+    "text": ") Program Goals: IDRS utilizes only the TIF for the storing of all levy sources. All levy sources can be individually researched (LEVYS) and/or deleted (LEVYD) during real-time. The levy source type can be determined by referring to the LEVY-LITERAL ﬁeld on the screen display.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "401fe6f4f3e01315159659808b318574",
+    "text": "DESCRIPTION OF SOURCE",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4acd956e4eaebbec3912693143a8b1e4",
+    "text": "Real-time levy sources can be researched (LEVYS), added/entered (LEVYE, LEVYM), deleted (LEVYD) or update/revised (LEVYR) during real-time.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "51a4fbd4f418f87f7e9a939a9dfb9ee5",
+    "text": "Information Returns Master File levy sources are posted to the TIF through systemic levy processing. These sources can only be researched and/or deleted and/or the address revised only through real-time pro- cessing. They cannot be entered or otherwise revised through real-time.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6d43618fece6b8b53a7e8494f443a97a",
+    "text": "Employment Commission levy sources are posted to the TIF through systemic levy processing. These sources can only be researched and/or deleted and/or the address revised only through real-time processing. They cannot be entered or otherwise revised through real-time.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "02686431c7cc2908abe408eab5291ab0",
+    "text": "Federal Tax Deposit levy sources are posted to the TIF through systemic levy processing. These sources can only be researched and/or deleted and/or the address revised only through real-time processing. They cannot be entered or otherwise revised through real-time.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "bb64b3bd848f8630694ed020016901c8",
+    "text": "Electronic Filing levy sources are posted to the TIF through systemic levy processing. ELF sources can only be researched and/or deleted and/or the address revised through real-time processing. They cannot be entered or otherwise revised through real-time.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "07af162716a346088f9972892ee72c28",
+    "text": "Remittance Processing System levy sources are posted to the TIF through systemic levy processing. These sources can only be researched and/or deleted and/or address revised only through real-time processing. They cannot be entered or otherwise revised through real-time.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "247e2b9ef43daae03ba54d4622c359d4",
+    "text": "Federal Contractor levy sources are posted to the TIF through systemic levy processing. These sources can only be researched and/or deleted and/or the address revised only through real-time processing. They cannot be entered or otherwise revised through real-time.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "bcd553d672ce5b40459a3aee4fae0a8c",
+    "text": "Defense Manpower Data Center levy sources are posted to the TIF through systemic levy processing. These sources can only be researched and/or deleted and/or the address revised only through real-time pro- cessing. They cannot be entered or otherwise revised through real-time.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "401fe6f4f3e01315159659808b318574",
+    "text": "DESCRIPTION OF SOURCE",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f2e9249cae6775c0e4d1ec6babe19b8e",
+    "text": "Defense Manpower Data Center Federal Employees (Civil Service) are posted to the TIF through systemic levy processing. These sources can only be researched and/or deleted and/or the address revised only through real-time processing. They cannot be entered or otherwise revised through real-time.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "1bef115a31b303bc24951f1099a4edbb",
+    "text": "Defense Manpower Data Center Federal Employees (Civil Service Retired) are posted to the TIF through systemic levy processing. These sources can only be researched and/or deleted and/or the address revised only through real-time processing. They cannot be entered or otherwise revised through real-time.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "759c98a714e3ce1a317164bf8becb4d9",
+    "text": "USPS (United States Postal Service) Employees are posted to the TIF through systemic levy processing. These sources can only be researched and/or deleted and/or the address revised only through real-time pro- cessing. They cannot be entered or otherwise revised through real-time.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "8838a6c2aabe40de1d11903136984c22",
+    "text": "FPLP (Federal Payment Levy Program) sources are posted to the TIF through systemic levy processing. These sources can only be researched and/or deleted and/or the address revised only through real-time pro- cessing. They can not be entered or otherwise through real-time.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3496f3243aeb072f9c259e27347caa3b",
+    "text": ") This IRM and the contained subsections provide the user the necessary infor- mation on how to use Command Codes LEVYS, LEVYE, LEVYM, LEVYR, LEVYD",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "86e2278ba1eb2a7d60f300f21ad12ca0",
+    "text": "Command code LEVYS will display the TIF levy sources in priority order as",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "4a4dd0d361685eff9007dfcc95127f1b",
+    "text": "Command code ENMOD (See 2.3.15) may be used to see if levy source data is present on the TIF. The LEVY-SOURCE-INDICATOR will display “ LEVY SRCE PRESENT” otherwise nothing is noted on ENMOD.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "6018150ff1e3332789d7a7685346dc45",
+    "text": "Levy sources can be updated on the TIF at MCC (IMF) and TCC (BMF) only.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "5137635ce691f9545c7ef7b3eae238d4",
+    "text": ") Command code LEVYE is used to establish levy source information on IDRS for a particular Taxpayer Identiﬁcation Number. If the levy source being added exceeds ﬁfteen, LEVYE will prioritize the sources currently on the TIF deleting the lowest priority and adding the higher priority. Each levy source entered must be unique. Command code LEVYE supports the use of the “tab” function. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8c634875cc05a9df6d5c1f22ed89a8d0",
+    "text": ") Command code LEVYM is used to provide a screen used to establish three new levy sources on IDRS for a particular Taxpayer Identiﬁcation Number at one input request. LEVYM will provide a screen with three blank real-time formats for levy source entries and a command code/deﬁner of LEVYE. Further processing is through LEVYE. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "72ff659ab2f2e1be35c9ec616943a2f7",
+    "text": ") Command code LEVYR is used to revise levy source information on IDRS a particular Taxpayer Identiﬁcation Number. The LEVY-SOURCE-NUMBER required as displayed by the LEVYS output screen. Command code LEVYR supports the use of the “tab” function. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a194ad03f899871e16382e6cdfa3eaa0",
+    "text": ") Command code LEVYD is used to delete levy source information on IDRS a particular Taxpayer Identiﬁcation Number. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "41bfaa44e4138708de43e0d517a7f4f6",
+    "text": ") Whenever command codes LEVYE, LEVYM LEVYR, or LEVYD are success- fully executed a ENT-ACTION-HIST-GROUP entry is generated showing command code, date, and employee number. IDRS/ACS: (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d92976625f75824121f78bbf02a3e310",
+    "text": ") Levy sources can be deleted from the TIF at MCC (IMF) AND TCC (BMF) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1ce5c62ad2ad3199af0aa040b30d20c5",
+    "text": ") Eliminate duplicates —careful review of duplicates should be done to assure that these sources are in fact duplicates and not just different accounts at same location. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "12d7128478b300ff9eef2d956985b34f",
+    "text": ") TIF levy sources that have the lowest priority should be deleted ﬁrst. Carefully review levy sources, if the correct money amount indicator (LEVY-FORM-CD on a RT source only) can be determined use command code LEVYR to revise levy source information on the IDRS RT source. Otherwise, use command code LEVYD to delete levy source information on IDRS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "cad3649c2c35de6d2f3a80187961df31",
+    "text": ") IRMF levy sources should be deleted in order of priority, with CTR sources having the lowest priority. These are “IR” levy sources which are denoted by money amount indicator of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "2c3b7b400ce562f3f6aae3ba6adb8a48",
+    "text": "on lines",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "50bc66c33bbb6a59c23a4ebc59c5dde7",
+    "text": "in positions",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "f57ba04f61afbc8738d23a805567b8c5",
+    "text": "and document type of “C” on lines",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e993ff6f47dea2d2fa901d86c542d12d",
+    "text": "in position",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "51f597159fab5be8e6585dcda941d331",
+    "text": "IRMF other sources will have the next lowest priority. • Currency Transaction Reports (IRMF) then • Dividends (IRMF other sources); then • Non-employee comp (IRMF other sources); then •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d7751bd67e5a4eb4a5f80c7fc06e7c41",
+    "text": "R, and Wages sources (IRMF); then • Interest (IRMF); then Note: Judgement must also be used to determine which sources should be deleted. (E.G. IRMF Interest has highest priority but if your interest has $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e7dde30693336941a12d21031de7d825",
+    "text": "as a source amount and your source amount for wages is $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8c4f662af5dc53471da58835abd4b3b6",
+    "text": "you may want to delete the Interest source rather than the Wage.) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "369b57e48053f8cb6b3d58561b0ab8e0",
+    "text": ") IRMF other sources —These are “IR” levy sources which are denoted by money amount indicators of either “",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "9eec4b9717263755832ebdd091bf57eb",
+    "text": ", Code LEVY",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "ef51e648dfc814b76990088c13114222",
+    "text": "page (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1ffbf820c22f2baff8c17d9682e86cc7",
+    "text": "with a # Only",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "5995841cf3d8b6db34e491a6feef1099",
+    "text": "Currency Transaction Reports (IRMF) then Dividends (IRMF other sources); then Non-employee comp (IRMF other sources); then",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "2b8fefa993737e0a60beffa51ac13987",
+    "text": "R, and Wages sources (IRMF); then Interest (IRMF); then",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "0d80c4bdb4614909af847f1148dda89e",
+    "text": "IRMF other sources —These are “IR” levy sources which are denoted by money amount indicators of either “008, 021, 022, 023, 025, 050, 051, 088,",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0d6ffbc20d51fe2c3bb830e23ac1aa90",
+    "text": "” on lines",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "50bc66c33bbb6a59c23a4ebc59c5dde7",
+    "text": "in positions",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d0a14f237dbc76a209eeadcea28b869d",
+    "text": "and a document type of either “",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0d6ffbc20d51fe2c3bb830e23ac1aa90",
+    "text": "” on lines",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "e993ff6f47dea2d2fa901d86c542d12d",
+    "text": "in position",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d2dde64822f65f8888d166f0c4d0cf65",
+    "text": ") The following are next in priority for deletion: • EF—Electronic Filing sources. • RT—Real-time Wage sources. • FR—DMDC Retired Federal Employees or • DM—Defense Manpower Data Center levy sources or • FE—DMDC Federal Employees levy sources or • PS—United States Postal Service Employees levy sources. • RP—Remittance Processing levy sources or • FT—Federal Tax Deposit levy sources. • EC—Employment Commission levy sources. • RT—Real-time Non-wage sources. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "60bb2167aca6fe73806ca38a3601504e",
+    "text": ") FP—Federal Payment Levy Program sources would be next in priority to be deleted. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "f0c927d1049edb47a811b565b2f4f1d5",
+    "text": ") FC—Federal Contractor levy sources—are last to be deleted. These levy sources are denoted by a money amount indicator of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "2c3b7b400ce562f3f6aae3ba6adb8a48",
+    "text": "on lines",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "50bc66c33bbb6a59c23a4ebc59c5dde7",
+    "text": "in positions",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0292aac0d3449663f61fd124787efddd",
+    "text": ") VALID RESPONSE: If no errors are present, one of the following valid response messages will be displayed in inverse video on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d692fdcaa0b56a030e15ca94072bd610",
+    "text": "or line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9cd00c4e0abc29888f986c1953e7db61",
+    "text": "all command codes except LEVYS. The following are valid response messages: a. REQUEST COMPLETED-RT LEVY SOURCE ADDED —This message appears when multiple levy sources are displayed on the screen and a successful real-time update has occurred. (LEVYE) b. REQUEST PROCESSED-LOWPRIORITY SOURCES DELETED —Data entered on the screen is valid. Sources that were lowest in priority were not added to the TIF. The TIF has been updated with the new informa- tion. (LEVYE) c. REQUEST PROCESSED-DUPLICATE ENTRIES DROPPED —Data entered on the screen is valid. Any duplicates were not posted to the The TIF has been updated with the new information. (LEVYE) d. REQUEST COMPLETED-LEVY SOURCE(S) REVISED —This message appears when multiple levy sources are displayed on the screen and a successful real-time levy source update has occurred. Screen will be blanked out. (LEVYR) e. REQUEST COMPLETED —This message appears when levy sources have been successfully deleted. (LEVYD) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "362c792787a3b1ca39806d80ed516968",
+    "text": ") INVALID RESPONSE: If any errors are present, one of the following error messages will be displayed in inverse video on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d692fdcaa0b56a030e15ca94072bd610",
+    "text": "or line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "00093f285f4c99ca94732d7ea2eadb9a",
+    "text": "The following are valid error messages: a. COMMAND CODE INVALID FOR AIMS —File source was input with a value of “D”. b. COMMAND CODE INVALID FOR CAF —File source was input with a value of “R”. c. COMMAND CODE INVALID FOR EPMF —File source was input with a value of “",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "73a14fb1a3f05bf1fb8f455b903bb5d2",
+    "text": "”.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "5a9cac8264d51756a2101964f2feec87",
+    "text": "IDRS Terminal Input",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0405438d92ab908c46ffe4183ad6b941",
+    "text": "059 or 144” on lines 3 or 10 in positions 5–7 and a document type of either “1,2,3,4 or 9” on lines 3 or 10 in position 21.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "aa3d34d186e8ad18c6a9b3be3dce146a",
+    "text": "EF—Electronic Filing sources. RT—Real",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "162e1f56297bfe0305f9770756c8d5dc",
+    "text": "time Wage sources. FR—DMDC Retired Federal Employees or DM—Defense Manpower Data Center levy sources or FE—DMDC Federal Employees levy sources or PS—United States Postal Service Employees levy sources. RP—Remittance Processing levy sources or FT—Federal Tax Deposit levy sources. EC—Employment Commission levy sources. RT—Real",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "e4576240af1215318c15a9579a520bcb",
+    "text": "time Non",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9ce1760755ed0f16b6648f021aab514b",
+    "text": "wage sources.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "4bc8e83103246bbf7642dc835a95ac97",
+    "text": "messages: a. REQUEST COMPLETED-RT LEVY SOURCE ADDED —This message appears when multiple levy sources are displayed on the screen and successful real-time update has occurred. (LEVYE) b. REQUEST PROCESSED-LOWPRIORITY SOURCES DELETED —Data entered on the screen is valid. Sources that were lowest in priority not added to the TIF. The TIF has been updated with the new informa- tion. (LEVYE) c. REQUEST PROCESSED-DUPLICATE ENTRIES DROPPED —Data entered on the screen is valid. Any duplicates were not posted to the The TIF has been updated with the new information. (LEVYE) d. REQUEST COMPLETED-LEVY SOURCE(S) REVISED —This message appears when multiple levy sources are displayed on the screen and successful real-time levy source update has occurred. Screen will be blanked out. (LEVYR) e. REQUEST COMPLETED —This message appears when levy sources have been successfully deleted. (LEVYD) INVALID RESPONSE: If any errors are present, one of the following error messages will be displayed in inverse video on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d692fdcaa0b56a030e15ca94072bd610",
+    "text": "or line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3865ed2b3f09d93a3793306cdb0b98ed",
+    "text": "The are valid error messages: a. COMMAND CODE INVALID FOR AIMS —File source was input with value of “D”. b. COMMAND CODE INVALID FOR CAF —File source was input with a value of “R”. c. COMMAND CODE INVALID FOR EPMF —File source was input with value of “",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "73a14fb1a3f05bf1fb8f455b903bb5d2",
+    "text": "”.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "c27d1c3f2afd80bfb19f1c7971f7f591",
+    "text": "COMMAND CODE INVALID FOR AIMS —File source was input with a value of “D”. COMMAND CODE INVALID FOR CAF —File source was input with a value of “R”. COMMAND CODE INVALID FOR EPMF —File source was input with a value of “",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "73a14fb1a3f05bf1fb8f455b903bb5d2",
+    "text": "”.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "4cd55ce78b4184114ec5bdeda89dd711",
+    "text": "d. COMMAND CODE INVALID FOR NMF —File source was input with a value of “N”. e. INVALID TIN —TIN and ﬁle source did not meet standard validity criteria. Correct and re-enter. f. ACCOUNT NOT ON FILE —There is no information on the TIF for the TIN and ﬁle source input. g. NAME CONTROL MISMATCH WITH TIF—Name control does not match name control in the BASIC-ENT-REC on the TIF. Correct and re-enter. h. INVALID NAME CONTROL —Name control does not meet standard validity criteria. Correct and re-enter. i. NO CURRENT SOURCES ON THE TIF-INPUT SCREEN PROVIDED — Blank LEVYE screen will be provided. j. ?-UNRECOGNIZABLE TIF LEVY SOURCE —Money amount indicator and/or document type do not meet standard validity criteria. Delete source from IDRS with command code LEVYD, or correct source on IDRS with command code LEVYR. k. EMPLOYEE NUMBER nnnnnnnnnn INVALID —An attempt was made to access an account on the TIF with an employee number that is invalid. Correct and re-enter. l. EMPLOYEE nnnnnnnnnn NOT PROFILED FOR BTIF ACCESS —An attempt was made to access a BTIF account by an employee not proﬁled for BTIF access. m. EMPLOYEE nnnnnnnnnn NOT PROFILED FOR ITIF ACCESS —An attempt was made to access an ITIF account by an employee not proﬁled for ITIF access. n. EMPLOYEE nnnnnnnnnn PROFILED FOR RESEARCH ONLY —Employee may research TIF account. Employee denied access to LEVYD, LEVYE, and LEVYR. o. (Service center #",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "573205d5a09cf6fd9c7a88456b44ace7",
+    "text": ") IS THE CONTROLLING LOCATION FOR ACCOUNT- NOT (ALN ) —Levy sources can be updated on the TIF at MCC (IMF) and TCC (BMF) only. Employee at MCC is denied access to LEVYD, LEVYE, and LEVYR if account is on TIF at TCC. Do a remote access of the account at TCC using LEVYS.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "338b3ea07201c71b1bfc31c62bc142aa",
+    "text": ") TIN MISMATCH WITH CSTT STORED DATA —TIN and ﬁle source did not match TIN and ﬁle source stored in the SIR from the previous command code. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "74736a1c089bd644738373fcb4590172",
+    "text": ") INITIATE LEVYS —Command code LEVYS must be done prior to any other LEVY command code. Input the command code LEVYS and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "e62867b5ed04162f9079bcb6a0b983b4",
+    "text": ") NUMBER LINE FORMAT ERROR —Incorrect format of source numbers on TIF. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d887896f6e72e7af2cba87ade437bd22",
+    "text": ") SOURCE NUMBER MISSING —LEVY-SOURCE-NUMBER is not present or incorrect. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "65a7537c7e3d89e1613520b996284201",
+    "text": ") LEVY SOURCE NOT PRESENT ON TIF —Levy source is not present on the TIF. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "07f0cfb8238c6acd0ab76f8593720169",
+    "text": ") DUPLICATE SOURCE NUMBERS ENTERED —The same levy source number appears more than once. Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "042b07e7aa45c1a380a8056b0af1d93d",
+    "text": ") INVALID SOURCE NUMBER —Levy source numbers not in valid range of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "9c6725dc269a48ce4b5bc78b580ccab2",
+    "text": "through",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "e12242e7e441469eb91956f0f274d09c",
+    "text": "TIN MISMATCH WITH CSTT STORED DATA —TIN and ﬁle source did not match TIN and ﬁle source stored in the SIR from the previous command code.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "6bb56458eebe6557df7f3c29b30dc854",
+    "text": "2.4.31.2.1(01-01-2012) CC LEVYD ERROR MESSAGES:",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "4dce93dbaf01c5646681d588b8fb5980",
+    "text": "INITIATE LEVYS —Command code LEVYS must be done prior to any other LEVY command code. Input the command code LEVYS and re-enter.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "44b5b2852f9975cbba7644d9f4eaa030",
+    "text": "INVALID SOURCE NUMBER —Levy source numbers not in valid range of 1",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "7152fd018baee67261ba30bdc8b3fba0",
+    "text": ") TIN MISMATCH WITH CSTT STORED DATA —TIN and ﬁle source did not match TIN and ﬁle source stored in the SIR from the previous command (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "74736a1c089bd644738373fcb4590172",
+    "text": ") INITIATE LEVYS —Command code LEVYS must be done prior to any other LEVY command code. Input the command code LEVYS and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "be6395f360d650f3c64970ffa560dbf9",
+    "text": ") INCONSISTENCY BETWEEN COMMAND CODE AND SCREEN INPUT correct levy source format is not being used for a LEVYE input. Check deﬁner and re-enter information. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "ae76ba6c1fcfdba3bed09956a8b2b79d",
+    "text": ") INVALID LEVY SOURCE —Invalid levy source has been entered. Correct re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "a9c07054ce3106cd24698071c1309952",
+    "text": ") INVALID WAGE EARNER CODE —WAGE-EARNER-CD is other than “P” or “S” for IMF account or other than “P” for BMF account. Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "533a26d442c4884407f317872a4b0865",
+    "text": ") FIRST NAME LINE INVALID OR BLANK —First position is blank. Correct re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "03c9fa247a5ab96537ab13da2ba85a1a",
+    "text": ") ILLEGAL CHARACTERS PRESENT ,>, =, [,]—The ﬁrst name line, second name line, street address, city/state or zip code contains one or more illegal characters. Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "d6b424eee6b47c336859460c135de6b9",
+    "text": ") CITY, STATE AND ZIP ARE REQUIRED —The city, state and zip ﬁelds are blank. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "210ff0fc6236e4243644e004e4efc9ca",
+    "text": ") INVALID ADDRESS-PLEASE CORRECT —When CZALL was called to the MAJOR-CITY-CODE an error of “",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "82a03842290d065bc2362539a87ee88a",
+    "text": "” was returned denoting an error in street address or major city not expanded. Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "6a6ec3808de23a1c45a9e61d8c217670",
+    "text": ") CITY INVALID OR BLANK-PLEASE CORRECT —ﬁrst position is blank or exceeds",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "1b3caa35069f4a5f038b2ea8f5f20e8d",
+    "text": "characters. Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "db231500272b1bf6a23682c189703f50",
+    "text": ") COMMA REQUIRED FOLLOWING CITY —A comma is necessary following city when a major city code is not used but the entire city name is input. Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "383f2b2fb30905d5609aae854cde284f",
+    "text": ") NO SECONDARY-TIN ALLOWED ON BMF LEVY SOURCES —Address changes only. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "130abc73ef45b44df82bb4ef31ed09da",
+    "text": ") STREET ADDRESS REQUIRED FOR MAJOR CITY —Street address not entered on speciﬁed line. Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "35b5e8dff764aaad4592c2aed57abf7d",
+    "text": ") STATE INVALID OR BLANK-PLEASE CORRECT —State is not present, is preceded by a comma, or is not a valid",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "f74814b1f7315a7673f503e76f737f10",
+    "text": "-digit state code. Correct and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "4a74667a3849d53ccd14eba4f1cdffea",
+    "text": ") ZIP CODE INVALID OR BLANK —One or more digits of the zip code are not numeric, not preceded by a ’(’ or zip code is not within the range of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "99a2493bc7ad151855d5ea2dbd901ea7",
+    "text": "Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "0d70209a937a83538c7555b0489e91f2",
+    "text": ") MAJOR CITY CODE AND ZIP ARE NOT INCONSISTENT —CSZALL has returned an indicator stating that the city code and zip are in error. Correct or both and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "4eea1863fa1e48c4b6febd8381dc773b",
+    "text": ") INVALID MAJOR CITY CODE-PLEASE CORRECT —Major two digit City is not valid. Enter city name and two digit state code abbreviation and zip code.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "06351e7d3637c408c680718c3e1b2d5d",
+    "text": "IDRS Terminal",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "e12242e7e441469eb91956f0f274d09c",
+    "text": "TIN MISMATCH WITH CSTT STORED DATA —TIN and ﬁle source did not match TIN and ﬁle source stored in the SIR from the previous command code.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8bb9bc26858a02a66e8d4bf82d01ebd2",
+    "text": "INVALID WAGE EARNER CODE —WAGE-EARNER-CD is other than “P” or “S” for IMF account or other than “P” for BMF account. Correct and re-enter.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "9d4178aeacf756526daa9182ea3761c8",
+    "text": "STATE INVALID OR BLANK-PLEASE CORRECT —State is not present, is not preceded by a comma, or is not a valid 2-digit state code. Correct and re-enter.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "4e5d0b223289a3c61f1ffbb81e15e10d",
+    "text": "INVALID MAJOR CITY CODE-PLEASE CORRECT —Major two digit City Code is not valid. Enter city name and two digit state code abbreviation and zip",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "754cc6af5610a51559431eae8d7f816e",
+    "text": ") ONLY RT LEVY SOURCES CAN BE ENTERED —An attempt to post a levy source to the TIF that is not a Real-time source has been made. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "9c13b157105e76b30af25c3492043cb2",
+    "text": ") DUPLICATE LEVY SOURCES ENTERED —An attempt was made to add a levy source already present on the TIF. Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d006235be598f30902d28d32f607ec4e",
+    "text": ") INVALID TIN —TIN and ﬁle source did not meet standard validity criteria. Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "338b3ea07201c71b1bfc31c62bc142aa",
+    "text": ") TIN MISMATCH WITH CSTT STORED DATA —TIN and ﬁle source did not match TIN and ﬁle source stored in the SIR from the previous command code. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "ff017c336f2149b68a23e0ff21d1f785",
+    "text": ") INVALID NAME CONTROL —Name control does not meet standard validity criteria. Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "60a4787572c02856d3c91692f92933ab",
+    "text": ") NAME CONTROL MISMATCH WITH TIF —Name control does not match control in the BASIC-ENT-REC on the TIF. Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "74736a1c089bd644738373fcb4590172",
+    "text": ") INITIATE LEVYS —Command code LEVYS must be done prior to any other LEVY command code. Input the command code LEVYS and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "5b6def4ff80c2c820ebf005880e90fdd",
+    "text": ") ACCOUNT NOT ON FILE —There is no information on the TIF for the TIN ﬁle source input. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "251549cda9ef1bc41d31cb1326d7a052",
+    "text": ") INCONSISTENCY BETWEEN COMMAND CODE AND SCREEN INPUT —The correct levy source format is not being used for a LEVYR input. Check deﬁner and input information and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "7e45ecbf6242663431be7c7b1c7f785e",
+    "text": ") LEVY SOURCE NOT PRESENT ON TIF —Levy source is not present on the TIF. Use LEVYE to input source. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "4246c746ef3427603438e387111dd688",
+    "text": ") LEVY SOURCE NUMBERS REQUIRED FROM LEVYS SCREEN —The source numbers assigned by LEVYS and displayed on the output screen (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "74caac7bd4aac19d1c9b986a5471fdbe",
+    "text": "through denoting the screen position of levy sources) are required on input to LEVYR for prioritization purposes. Re-evaluate and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "bec0184e07d74d281de612d041f7edb8",
+    "text": ") INVALID LEVY FORM CODE —LEVY-FORM-CD is other than “[slashb- ][slashb]W” or “[slashb][slashb]O” or “[slashb][slashb]I”. Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "080a447519027059094d62f17441f125",
+    "text": ") INVALID WAGE EARNER CODE —WAGE-EARNER-CD is other than “P” or “S” for IMF account or other than “P” for BMF account. Correct and re- enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "383f2b2fb30905d5609aae854cde284f",
+    "text": ") NO SECONDARY-TIN ALLOWED ON BMF LEVY SOURCES —Address changes only. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "49a975b61de6f9bd2469a1ab14f1f954",
+    "text": ") FIRST NAME LINE INVALID OR BLANK —First position is blank. Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "c2c03da0d8f25456aea38dc6b614a91c",
+    "text": ") ILLEGAL CHARACTERS PRESENT <,>, =, [, ]—The ﬁrst name line, second name line, street address, city/state or zip code contains one or more illegal characters. Correct and re-enter (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d6b424eee6b47c336859460c135de6b9",
+    "text": ") CITY, STATE AND ZIP ARE REQUIRED —The city, state and zip ﬁelds are blank. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "b4cc3349c676c0efc1ab3e1b2f2d6ccc",
+    "text": ") INVALID ADDRESS-PLEASE CORRECT —When CSZALL was called to expand the MAJOR-CITY-CODE an error code of “",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "4e41efb65cca0d6bdbb256f845ffd22a",
+    "text": "” was returned denoting an error in the street address or major city not expanded. Correct and re-enter. Code LEVY",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "ef51e648dfc814b76990088c13114222",
+    "text": "page (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "a267dc3501cdbc58c44d9a5d062d78e3",
+    "text": "a # Only",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "31eeb0ca9395594e86a7b08e38febf93",
+    "text": "DUPLICATE LEVY SOURCES ENTERED —An attempt was made to add a levy source already present on the TIF. Correct and re-enter.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "e12242e7e441469eb91956f0f274d09c",
+    "text": "TIN MISMATCH WITH CSTT STORED DATA —TIN and ﬁle source did not match TIN and ﬁle source stored in the SIR from the previous command code.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "307be0a6ad308a2df8c6892765e74e97",
+    "text": "NAME CONTROL MISMATCH WITH TIF —Name control does not match control in the BASIC-ENT-REC on the TIF. Correct and re-enter.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "8109905aa7a4da3a8741c7b3441be044",
+    "text": "INVALID LEVY FORM CODE —LEVY-FORM-CD is other than “[slashb- ][slashb]W” or “[slashb][slashb]O” or “[slashb][slashb]I”. Correct and re-enter.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "7c41a588a5160015210d922929950e28",
+    "text": "INVALID WAGE EARNER CODE —WAGE-EARNER-CD is other than “P” or “S” for IMF account or other than “P” for BMF account. Correct and re- enter.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "7a1a2ed8752d3f419ec65284c4cfd7ee",
+    "text": "FIRST NAME LINE INVALID OR BLANK —First position is blank. Correct and",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "38a1ae5b998dc3bfbf59d932b3774de5",
+    "text": "CITY, STATE AND ZIP ARE REQUIRED —The city, state and zip ﬁelds are",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "0663325fd7eb032db38572fbaaae7b18",
+    "text": "INVALID ADDRESS-PLEASE CORRECT —When CSZALL was called to expand the MAJOR-CITY-CODE an error code of “ 03” was returned denoting an error in the street address or major city not expanded. Correct and re-enter.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "43bdf7550d101aecc64831908af28cf7",
+    "text": ") CITY INVALID OR BLANK-PLEASE CORRECT —First position is blank. Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "db231500272b1bf6a23682c189703f50",
+    "text": ") COMMA REQUIRED FOLLOWING CITY —A comma is necessary following city when a major city code is not used but the entire city name is input. Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "8bbacafe9c86da395c33241302b291d7",
+    "text": ") STREET ADDRESS REQUIRED FOR A MAJOR CITY —Street address not entered on speciﬁed line. Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "35b5e8dff764aaad4592c2aed57abf7d",
+    "text": ") STATE INVALID OR BLANK-PLEASE CORRECT —State is not present, is preceded by a comma, or is not a valid",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "f74814b1f7315a7673f503e76f737f10",
+    "text": "-digit state code. Correct and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "4a74667a3849d53ccd14eba4f1cdffea",
+    "text": ") ZIP CODE INVALID OR BLANK —One or more digits of the zip code are not numeric, not preceded by a ’(’ or zip code is not within the range of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "99a2493bc7ad151855d5ea2dbd901ea7",
+    "text": "Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "31f291021d3da526775fc9229ac623cd",
+    "text": ") MAJOR CITY CODE AND ZIP ARE INCONSISTENT —CSZALL has returned an indicator stating that the city code and zip are in error. Correct one or and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "facd9396596eda047e3a20800d0a8579",
+    "text": ") INVALID MAJOR CITY CODE-PLEASE CORRECT —Two digit major city is not valid. Enter full city name and two digit state code abbreviation and code. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "6e427a69f98d71a02d11d1efc6c2f9fd",
+    "text": ") ONLY ADDRESS CHANGES ALLOWED ON NON-RT —An attempt to revise information other than the address for a levy source that is present on the but is not a Real-time source has been made. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "c2429db82f19b0866e5eb1226bf40641",
+    "text": ") LEVY LITERALS REQUIRED FROM LEVYS SCREEN —The literals on the right side of the screen identifying the type of levy source have been deleted. Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3bea88c52944a1c832e4db7f6b9a4585",
+    "text": ") ?-UNRECOGNIZABLE TIF LEVY SOURCE —Money amount indicator and/or document type do not meet standard validity criteria. Delete source from with command code LEVYD, or correct source on IDRS with command code LEVYR. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "78886732685fad06690c8e568789424b",
+    "text": ") INITIATE LEVYS—Command code LEVYS must be done prior to any other LEVY command code. Input the command code LEVYS and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "153d696d18679afdf082086a9ffd434e",
+    "text": ") INVALID RESPONSE—Data Base Errors: If an error should occur in attempt- ing to access the TIF, one of the following error messages will be displayed inverse video on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d692fdcaa0b56a030e15ca94072bd610",
+    "text": "or line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "db28041cb2731161c1a96fadc9a3c456",
+    "text": "a. XTIFXX-AREA NOT AVAILABLE —This area of the TIF is currently un- available. Re-try when area is available. XTIFXX will appear as ITIF",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "cbcefd0a6b4d175aa0cba5b726a922e4",
+    "text": ", BTIF",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "f36b47742c4b198c0fc5de92e0f6606a",
+    "text": ", ZTIF",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "74f58e96e3edf3c2a2fa50fc5d4862bc",
+    "text": ", etc. depending on what area the operator attempted access. (LEVYS, LEVYD, LEVYE, LEVYM, LEVYR). b. DB-ERR-STATUS XXXXXX —This message will display the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "f8274c6281ac5a7605a1fda2ff8303c5",
+    "text": "-digits Status, which indicates the speciﬁc reason the attempt to Access/Update the TIF was unsuccessful. Check with IDRS security supervisor or CSA before re-trying. (LEVYS, LEVYD, LEVYE, LEVYM, LEVYR). c. SYSTEM ERROR ON ACCESS/UPDATE —A Data Base error has occurred. Check with IDRS security supervisor or CSA before re-trying (LEVYS, LEVYD, LEVYE, LEVYM and LEVYR).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "c76f9edfa1dcada2d01affb1bcc920fa",
+    "text": "IDRS Terminal Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "6e28aec2c7192871c23e262ed264d79a",
+    "text": "V (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "ed858095adc7701dcfcf5473eebbd27d",
+    "text": ") Any line marked with is for Official Use",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "9d4178aeacf756526daa9182ea3761c8",
+    "text": "STATE INVALID OR BLANK-PLEASE CORRECT —State is not present, is not preceded by a comma, or is not a valid 2-digit state code. Correct and re-enter.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "ee25e300277c4d66e1cb72607bd8f0bc",
+    "text": "INVALID MAJOR CITY CODE-PLEASE CORRECT —Two digit major city code is not valid. Enter full city name and two digit state code abbreviation and zip",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "6236ee46162a1994266a13da0414d901",
+    "text": "INITIATE LEVYS—Command code LEVYS must be done prior to any other LEVY command code. Input the command code LEVYS and re-enter.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "399b4f6356010ce5b51ec0b077e03513",
+    "text": "XTIFXX-AREA NOT AVAILABLE —This area of the TIF is currently un- available. Re-try when area is available. XTIFXX will appear as ITIF",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "cbcefd0a6b4d175aa0cba5b726a922e4",
+    "text": ", BTIF",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "f36b47742c4b198c0fc5de92e0f6606a",
+    "text": ", ZTIF",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "6eb31aaa7981874e12d64b0f14da23c6",
+    "text": ", etc. depending on what area the operator attempted to access. (LEVYS, LEVYD, LEVYE, LEVYM, LEVYR). DB-ERR-STATUS XXXXXX —This message will display the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "83b57d5746232cb556fcba186b7a7274",
+    "text": "-digits Error Status, which indicates the speciﬁc reason the attempt to Access/Update the TIF was unsuccessful. Check with IDRS security supervisor or CSA before re-trying. (LEVYS, LEVYD, LEVYE, LEVYM, LEVYR). SYSTEM ERROR ON ACCESS/UPDATE —A Data Base error has occurred. Check with IDRS security supervisor or CSA before re-trying (LEVYS, LEVYD, LEVYE, LEVYM and LEVYR).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "33c1e29902d678cbcff13d561dbfd825",
+    "text": "This Page Intentionally Left Blank",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-031--2023-02-24.pdf",
+      "page_number": 16
+    }
+  }
+]

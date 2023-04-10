@@ -1,0 +1,740 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "7d7a1395b2a8aa7660b7aa55e0752a66",
+    "text": ") Background, Authority, Responsibilities, Program Management and Review, and Program Controls added. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a49bb0acef968cfe757c10d2cf4abd4b",
+    "text": ") Related Resources updated to add reference to IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "51734f52c6e9cb92734db4904da7f9b4",
+    "text": "IRM 2.2.4, dated December 04, 2019, is superseded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "e0cc410606d64cb230e8f4ab0044492a",
+    "text": "This document provides instructions for the general use of the Partnership Control Systems display in the SB/SE, Large Business and Industry (LBI), and Appeals Operating Divisions in the Campuses and Area/Industry Offices.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "4f08d8e9638b9f7157ca22dfd69ac68e",
+    "text": "2.2.4.2 PICF Inquiry (Command Code",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "8a495258e20542ecafca630891a0f5bd",
+    "text": "Command Code TSINQ with Command Code Deﬁner “P” Input Command Code TSINQ with Command Code Deﬁner “P” Command Code TSINQ with Command Code Deﬁner “I” Input Command Code TSINQ with Command Code Deﬁner “I” Output",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "9500967fe34f67587cd5bd5b4b2efa51",
+    "text": "Code TSINQ",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "18002dd11d22489cabb0694d07de9655",
+    "text": ") The Partnership Control System (PCS) is used to create, monitor and information related to Partnership and Investor examinations. and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "795a03e56ba4ef03b0073ab52671ee9d",
+    "text": ") Purpose: This IRM provides instructions on how to use IDRS command TSINQ. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a303f75485671e97626ea76694bdf2ad",
+    "text": ") Audience: Campus Revenue Agents (RAs), Tax Compliance Officers Tax Examiners (TEs) and Clerks working pass-through entities and/or investors linked on the PCS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "56eb113e7de6cef2db646911230947c9",
+    "text": ") Policy Owner: Chief Information Officer (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "594218e70eba357af62d7c99e4351f1f",
+    "text": ") Program Owner: Information Technology/Application Development (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "bbf4321ed28c0646a8de67d1bb2e7599",
+    "text": ") Primary Stakeholders: SB/SE, Large Business and Industry (LBI), and Appeals (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "231c160e7d815845988af150dc97f22d",
+    "text": ") Program Goals: PCS is a database used to create an electronic linkage between pass-through entities and their underlying partners. Linking in instances is mandatory. Linkage allows for the proper control of statutes ensures all relevant partners are processed. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0a439ae9c7d8f8d82b4981f958c0d680",
+    "text": ") PCS was created to monitor and control pass-through entity investors. through entities can have many partners and many levels of tiering. occurs when an investor in a pass-through entity is also a pass-through This complexity can make it difficult to keep track of statutes and monitor the investors. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e7d2b3e0c8f2430ab9f07174a242b385",
+    "text": ") PCS control is a policy that was established in response to the provisions of the Tax Equity and Fiscal Responsibility Act (TEFRA) of has been expanded to cover other pass-through entities that fall outside TEFRA. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "eb61550417fa4e53d030db7d2c3f36e3",
+    "text": ") The Director, SB/SE, Headquarters, Examination Field and Campus Policy responsible for: • Coordinating and Implementing PCS enhancements; and • Coordinating resolutions for PCS Systemic problems (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4b781bb6159dcb56ff79f0ab10ee8d49",
+    "text": ") The SB/SE Program Manager, Examination Field and Campus Policy, Exam & Field Support is responsible for: • Ensuring that PCS procedural changes and computer program are implemented and coordinated with area office and campus tion personnel; and • Monitoring and evaluating area office and campus examination quality control procedures (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "00cb0cce2c85082a655f46823d4229f9",
+    "text": ") The campus PCS Coordinator is responsible for: • Identifying and resolving technical problems; and • Identifying and coordinating the resolution of PCS systemic",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "87407c7670ecc150f2ae0198a62bd1ad",
+    "text": "2.2 Partnership Control",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3ff7f5ef05b4e3541dd49123c43508ed",
+    "text": "Program Reports: PCS generates a variety of reports used to monitor the inventory and related statutes. The data source for the reports is the Partner- ship Information Control File located in Martinsburg, WV.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f8613e933ae74c3d9fdb52ffc83377e0",
+    "text": "IRS will implement access control measures that will provide protection from unauthorized alteration, loss, unavailability, or disclosure of information.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "b05af3b4d6b4b3e92ae122f7d4c8a349",
+    "text": "PICF Partnership Information Control File TIN Taxpayer Identiﬁcation Number FS File Source Code MFT Code Masterﬁle Tax Code NBAP Notice of Beginning of Administra- tive Proceedings FPAA Final Partnership Administrative Adjustment 60DY TEFRA Partnership 60 Day Letter APL1 Letter 3394 - Transmittal Letter for Form 870-L(AD) and Form 870-LT(AD) for nondocketed TEFRA partnership cases APL2 Letter 3395 - Transmittal Letter for Form 870-P(AD) and Form 870-PT(AD) for nondocketed TEFRA partnership cases DOCK Letter 2606 - Transmittal Letter for Form 870-P(AD) and Form 870-PT(AD) for docketed TEFRA partnership cases, or Letter 2607 - Transmittal Letter for Form 870- L(AD) and Form 870-LT(AD) for docketed TEFRA partnership cases F872 Consent to Extend the Time to Assess Tax",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "b05af3b4d6b4b3e92ae122f7d4c8a349",
+    "text": "PICF Partnership Information Control File TIN Taxpayer Identiﬁcation Number FS File Source Code MFT Code Masterﬁle Tax Code NBAP Notice of Beginning of Administra- tive Proceedings FPAA Final Partnership Administrative Adjustment 60DY TEFRA Partnership 60 Day Letter APL1 Letter 3394 - Transmittal Letter for Form 870-L(AD) and Form 870-LT(AD) for nondocketed TEFRA partnership cases APL2 Letter 3395 - Transmittal Letter for Form 870-P(AD) and Form 870-PT(AD) for nondocketed TEFRA partnership cases DOCK Letter 2606 - Transmittal Letter for Form 870-P(AD) and Form 870-PT(AD) for docketed TEFRA partnership cases, or Letter 2607 - Transmittal Letter for Form 870- L(AD) and Form 870-LT(AD) for docketed TEFRA partnership cases F872 Consent to Extend the Time to Assess Tax",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f00314e9189d9f702d6bbd6e2688f70b",
+    "text": "NTBP Non-TEFRA Notice of Beginning of Administrative Proceedings 3904 Letter 3904 - TEFRA Administra- tive Adjustment Request (AAR) 60 Day Objection Letter 886Z Form 886Z - TEFRA Partners’ Shares of Income DBA Doing Business As TMP Tax Matters Partner BOD Business Operating Division ERCS Examination Returns Control System AAC AIMS Assignee Code",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "4b984b3ea8cbabf522d323732da1e0d5",
+    "text": "IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f86639bf3228a1f95d5317d4e0ad2750",
+    "text": ", Partnership Control System (PCS) IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "9554f70bbc0f0e7f29410b6f716a5c9d",
+    "text": ", Pass-Through Entity Handbook Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "001ef6614f87ab8e61a9c3129b8c3cbd",
+    "text": ", Partnership Control System Key Case/Investor Inquiry IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "068699d10d523428095531fcef3fbb70",
+    "text": ", Information Technology (IT) Security, Policy and Guidance This process accesses the various PICF records to extract the elements data required to complete the inquiry output screen displays. There must be a Partnership or Partner record on the PICF for the Line entry, (TIN, FS, MFT, and Tax Period) in order for any inquiry to be When errors are detected one of the following error messages will be displayed. Where appropriate, the operator should correct the input element and re-enter. If all items are successfully processed, the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "8ad8f8a95caf8345e280a212061d672e",
+    "text": "This process accesses the various PICF records to extract the elements of data required to complete the inquiry output screen displays.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "5a7dcb566142a0e6422f40ce134920f6",
+    "text": "There must be a Partnership or Partner record on the PICF for the Line 1 entry, (TIN, FS, MFT, and Tax Period) in order for any inquiry to be",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "7d005eb341b74285a0909635cb9c68a9",
+    "text": "When errors are detected one of the following error messages will be displayed. Where appropriate, the operator should correct the input screen element and re-enter. If all items are successfully processed, the message “REQUEST COMPLETED” is displayed on line 24.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b6caa8f1c18c4f9058b90d7b9dffcc7f",
+    "text": "MFT and Tax Period are not consistent.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "acc8c85f879702220273cb3818bc64e5",
+    "text": "Indicates the input Partnership TIN/FS/MFT/Tax- Period is not linked to the input Partner indicated line 1.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "25a3c1f9ad89ec1941d8c560918de0f1",
+    "text": "MFT 47 is not valid for PICF.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "216870eaf2a7acc2023745da30d6d0cd",
+    "text": "PN TIN CHANGED TO nnnnnnnnnnnn",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "2836045b7b29280d44f4ee7ed243d802",
+    "text": "PS TIN CHANGED TO nnnnnnnnnnnn",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f9f5c1293ae9d9aece30db3bc25d9a0a",
+    "text": "PICF account is Changed-TIN case. Displays new edited TIN. Re-input using new TIN.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "751d9aa51ecbd2cf2f665113225a343a",
+    "text": "Exhibit 2.2.4-1 (01-01-2008) Command Code TSINQ with Command Code Deﬁner “P” Input",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "cc7f3bdb9cddbef90f3b81d6b39027e7",
+    "text": "TSINQP Input Screen Format.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "20564614a40f45565a6a1b0dac223b51",
+    "text": "S S g Y I R S S| 1-10 | 11-20 |} 21-30 | 31-40 | 41-50 | 51-60 | 61-70 | 71-80 | || 112345678901234567890123456789012345678901234567890123456789012345678901234567890| |TSINQP|  E2 1 E3 | E4 ||| 1123456789012345678901234567890123456789012345678901234567689012345678901234567890| || { 1-10 | 11-20 | 21-30 | 31-40 | 41-50 | 51-60 | 61-70 | 71-80 | |1 S W S (S S N—",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e1608d03818a37ee3235dd142b9cc3a4",
+    "text": "Element Description Element Line Position Description 1 1 1–5 CC “TSINQ” 2 1 6 CC-Deﬁner-“P” 3 1 7–18 Edited TIN/FS-Partnership (Item 2) 4 1 20–21 MFT-Format NN (Item 3) 5 1 23–28 TAX-PRD-Format YYYYMM (Item 4)",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "ca8df3339f0172f2ddbb0f0d47c15a9f",
+    "text": "Element Line Position Description 1 1 1–5 CC “TSINQ” 2 1 6 CC-Deﬁner-“P” 3 1 7–18 Edited TIN/FS-Partnership (Item 2) 4 1 20–21 MFT-Format NN (Item 3) 5 1 23–28 TAX-PRD-Format YYYYMM (Item",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "19175aa632dc2370d065c2a6522ab65b",
+    "text": "TAX-PRD-Format YYYYMM (Item 4)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "2ca5aa5a62f21da22eeda9c9309b9185",
+    "text": "Note: Item Numbers in parenthesis refer to those on Form 8337.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "ea30bdcb493bb9652b852f5f6af210d6",
+    "text": "1-10 | 11-20 | 21-30 | 31-40 | 41-50 | 51-60 | 61-70 | 71-80 |12345678901234567890123456789012345678901234567890123456789012345678901234567890| |-| 1|TsmNOP31-1234567 06 198912 | 1]K K|23} 23]|24] |24]—— +—12345678901234567890123456789012345678901234567890123456789012345678901234567890| |1-10 | 11-20 | 21-30 | 31-40 | 41-50 | 51-60 | 61-70 | 71-80 | |1 1 1 i A",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "74e1871139ff0d88460734afe475350f",
+    "text": "Exhibit 2.2.4-2 (01-01-2011) Command Code TSINQ with Command Code Deﬁner “P” Output",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "12426d1cff0d10739688e8eee0370035",
+    "text": "TSINQP Output Screen Format.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "10765b4ae1d7329fd1ce92549380be27",
+    "text": "T ! ] T ! T ! 1 || 1-10 | 11-20 | =21-30 | 31-40 | 41-50 | 51-60 | 61-70 | 71-80 ||12345678901234567890123456789012345678901234567890123456789012345678901234567890 |1 |",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "fdd0697f995f0c6383a3b47883ced134",
+    "text": "12345678901234567890123456789012345678901234567890123456789012345678901234567890|IPS-ADJUST-AMT: E54REQUEST COMPLETED12345678901234567890123456789012345678901234567890123456789012345678901234567890T S S S STTSINQP E3 E4 | E5 DATE: E6 ||NAME-CTRL: [E7|  PS-AAC: E8 PS-TRACKING-CD: | E52STATUS-CD: g- E11l P:TEFRA:E27 CREATION-DT: E28 ||STATUS-DT:| E12 APPL-OFC:E13 A:TIER:E29 424-DROP-DT: E30 ||DATABASE-SOURCE:E14 CTF-CD: E9 R:LINKS:|E31 PURGE-DT: E32 ||STAT-LMT-CD:| E48 | MFBOD:49 BODCC:5 T:NOTICE-TYPE:E33| 60-DAY-DT: E34 |STAT-LIM-DT:| E15 | /ES1 PICF-CD:EL6 N:PENALTY-IND:E35 120-DAY-DT:| E36 |||R:DOCKET-NO: | E38 |SPEC-PROJ-CD:E17 ACTIVITY-CD:E18 S:PROMOTER-NO: |E39 |SOURCE-CD:E19 H: |: E20 I: |P:DBA-NAME |DISPOSAL-CD:E21 DISPOSAL-DT:| E22 | H| E42 ||A: E23 T: E43 |I: E24 M: E44 |M: E25 P: E45 |S: | E26 | Hl E46 |USER-MSG: E41 |PS-ASSMNT-AMT: E53 |I|I|1",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "913481d15f0db3174e11e5250444e05c",
+    "text": "H12345678901234567890123456789012345678901234567890123456789012345678901234567890 |1-10 | 11-20 | 21-30 | 31-40 | 41-50 | 51-60 | 61-70 | 71-80 |1 Il 1 1 1 1 Il 1",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "c176d4540ce5c40df16dd1d4d1f877dc",
+    "text": "Exhibit 2.2.4-2 (Cont. 1) (01-01-2011) Command Code TSINQ with Command Code Deﬁner “P” Output",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "b554da68c826ca3136347188bb903485",
+    "text": "Element Line Position Description 1/2 1 1–6 CC TSINQ with CC Deﬁner “P” 3 1 7–18 Partnership TIN/FS 4 1 20–21 Partnership MFT 5 1 23–28 Partnership Tax Period 6 1 71–80 Date of request (MM-DD-YYYY) 7 2 11–14 Partnership Name Control 8 2 25–36 Partnership AAC 9 5 35-37 Partnership CTF-CD 10 3 11–12 Partnership AIMS-STATUS-CD 11 3 14–37 Status Code Title (generated) 12 4 11–20 AIMS-STATUS-DT 13 4 35–37 Appeals Office Code 14 5 17–20 Database source (“PICF”) 15 7 13–22 Statute of Limitations Date 16 7 37 PICF Code 17 10 14–17 Special Project Code 18 10 35–37 AIMS Activity Code 19 11 11–12 Source Code 20 12 4–38 Source Code Title (generated) 21 14 14–15 Disposal Code 22 14 30–39 Disposal Date (MM-DD-YYYY) 23 16 4–38 AIMS Name 1st Line 24 17 4–38 AIMS Name 2nd Line 25 18 4–38 AIMS Street Address 26 19 4–38 AIMS City, State, & Zip Code 27 3 50–52 Partnership TEFRA-CD (Yes or 28 3 71–80 Partnership record creation date 29 4 49 Tier indicator (if Partnership is 30 4 71–80 424–DROP-DT (MM-DD-YYYY) 31 5 50–54 Number of Linkages 32 5 71–80 PURGE-DT (MM-DD-YYYY)",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "f50f99fed864c8c515e32dd1fdf16f80",
+    "text": "Exhibit 2.2.4-2 (Cont. 2) (01-01-2011) Command Code TSINQ with Command Code Deﬁner “P” Output",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "2af113d5b1442b8fc3eec7fefb9d57b9",
+    "text": "33 6 56–59 Type of notice generated for all investors (NBAP, 60DY, APL1, APL2, DOCK, F872, NTBP, NNNI, 886Z) 34 6 71–80 60–DAY-DT (MM-DD-YYYY) 35 7 57 Partnership Penalty Indicator (“P”, “A”, “X” or blank) 36 7 71–80 120 Day Drop Date (MM-DD-YYYY) 37 Reserved 38 9 54–62 Docket Number 39 10 56–61 Promoter Number 40 11 52–54 Reserved 41 20-21 41–80 Partnership User Special Message 42 14 46–80 Partnership DBA Name 43 16 46–80 TMP Name 1st Line 44 17 46–80 TMP Name 2nd Line 45 18 46–80 TMP Street Address 46 19 46–80 TMP City, State, & Zip Code 47 Reserved 48 6 13–20 Statute of Limitations Code (NNNNNNNN) 49 6 28–29 Masterﬁle BOD Code 50 6 37–39 Masterﬁle BOD Client Code 51 7 24 Partnership Statute Extension Indicator ( “R” or 52 2 54-57 Partnership ERCS Tracking Code (NNNN) 53 21 15-29 Partnership Assessment Amount 54 22 15-29 Partnership Adjustment Amount",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "1d19ec6dcb377aeaa7536e2981a8c716",
+    "text": "Partnership Adjustment Amount",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "a186aee8dac00d3dd50d46d4274e290b",
+    "text": "Exhibit 2.2.4-2 (Cont. 3) (01-01-2011) Command Code TSINQ with Command Code Deﬁner “P” Output",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "674aca9d613a299b12e06d326bf4d897",
+    "text": "1 !|12345678901234567890123456789012345678901234567890123456789012345678901234567890 || 1-10 | 11-20 | 21-30 | 31-40 | 41-50 | 51-60 | 61-70 | 71-80 |1 1 1 1 1 1 1 1 1",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d583fecd7c14f6e1ad6873e2661aacfc",
+    "text": "Exhibit 2.2.4-3 (01-01-2008) Command Code TSINQ with Command Code Deﬁner “I” Input",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "86d0c96e083b4206df444c20feead882",
+    "text": "TSINQI Input Screen Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "13980ad83b0c75d8ac0356742e665562",
+    "text": "Element Description Element Line Position Description 1 1 1–5 CC “TSINQ” 2 1 6 CC-Deﬁner-“I” 3 1 7–18 Edited Investor TIN/FS 4 1 20–21 Investor MFT 5 1 23–28 Investor TAX-PRD (YYYYMM) 6 1 30–41 Edited Partnership TIN/FS 7 1 43–44 Partnership MFT 8 1 46–51 Partnership Tax Period (YYYYMM) Input Screen Example",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "4cac5896551951c59b2e04419db07e53",
+    "text": "T ¥ T T A T T e, ]1-10 | 11-20 | 21-30 | 31-40 | 41-50 | s1-60 | e€1-70 | 71-80 | ||12345678901234567890123456789012345678901234567890123456789012345678901234567890| |TSINQI| E3 | B4 | ES | | E6 | E7 | E8 ||12345678901234567890123456789012345678901234567890123456789012345678901234567690| || 1-10 | 11-20 | 21-30 | 31-40 | 41-50 | 51-60 | 61-70 | 71-80 | |1 1 1 1 S I I T —\"",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "cc6c681de9ae9e573f61564d09997fb7",
+    "text": "Record Element Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d1b9f20536f463f37e40cf154a3e3231",
+    "text": "Element Line Position Description 1 1 1–5 CC “TSINQ” 2 1 6 CC-Deﬁner-“I” 3 1 7–18 Edited Investor TIN/FS 4 1 20–21 Investor MFT 5 1 23–28 Investor TAX-PRD (YYYYMM) 6 1 30–41 Edited Partnership TIN/FS 7 1 43–44 Partnership MFT 8 1 46–51 Partnership Tax Period (YYYYMM) Input Screen Example",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "2df07dd052ac4b224684cc8ca97493c1",
+    "text": "r— X T T T T 1{ | 1-10 | 11-20 | 21-30 | 31-40 | 41-50 | 51-60 | 61-70 | 71-80 | || |12345678901234567890123456789012345678901234567890123456789012345678901234567890| || 1|TsmQI987-65-4320 30 198912 31-1234567 06 19891212|| /1|23]124}| 112345678901234567890123456789012345678901234567890123456789012345678901234567890| || 1-10 | 11-20 | 21-30 | 31-40 | 41-50 | 51-60 | 61-70 | 71-80 | || RS S SN S S S S U —— —— |",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "4b1913a9e7bb748b9cd4e364c5d82aba",
+    "text": "TSINQI Output Screen Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "12ca155965e41bf0df1a31e4b4621ed7",
+    "text": "T ! i T ! T ! ! !| 1-9 | 11-19 | 21-29 | 31-39 | 41-49 | 51-59 | 61-69 | 71-80 ||12345678901234567890123456789012345678901234567890123456789012345678901234567890 |1 1",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "16d538fb7eaf20a79cb28ecf77e26ab2",
+    "text": "12345678901234567890123456789012345678901234567890123456789012345678901234567890 |TSINQI E3 E4NAME-CTRL: [E10  PN-AAC: ELSTATUS-CD:E13 El4STATUS-DT: | __E15 APPL-OFC:EL6DATABASE-SOURCE:E17 CTF-CD: E12STAT-LMT-CD: | E70 MFBOD:71 BODCC:E72STAT-LIM-DT: | E18 /E73SPEC-PROJ-CD:_E20 ACTIVITY-CD:E21SOURCE-(CD: E22: E25Az E26I: E27M: E28S: E29C:BKRPT-IND:| E30 BKRPT-DT : E31L:PN-K1-LOSS: | E32 PENALTY :E340:1YAD-DT: E33 231YAD-ESTB: E35S:RPT-PKG-IND:E36 RPI-RCVD-DT: E37I:DISPOSAL-CD:E38 DISPOSAL-DT: E39N:TEFRA-TIME :E40 ASMT-RPT-DT: E41G:TEF-ASMT-AMT: E42REQUEST COMPLETEDE6 E7 E8A:TEFRA:E43PICF-CD:E19DATE:PN-TRACKING-CD: _E74TKi- ADD-DT: E44:PROMOTER-NO: | E68:PS-AAC: E69PS-TRACK-CD:_E75R:TIER:E45 424-DROP-DT: E46T:LINKS:E47 PURGE-DT: EAS- :E RS-LN-CLSD:E51 LN-CREAT-DT:R:USER-MSG: | E53eP: E54N: E55K: E561: E57P: E58R:| E59T: E60N: E61R:TEFRA:E62 NOTICE-TYPE:E63]|S:TIER:E64 60-DAY-DT: E65 |H: SETTLMNT-DT: E67IPBWNFOWENOAUIBWNHEFOWLVL®ETaU b WNENONNNEEREREB R RBE12345678901234567890123456789012345678901234567890123456789012345678901234567890",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "2f0d896377f3fe660d905a37c0b9ab77",
+    "text": "1123456789012345678901234567890123456789012345678901234567890123456789012345678901-9 | 11-19 | 21-29 | 31-39 | 41-49 | 51-59 | 61-69 | 71-80 |1 Il 1 1 1 1 Il 1",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "a74214ad75424af64b496ea8b08e7131",
+    "text": "Exhibit 2.2.4-4 (Cont. 1) (01-01-2011) Command Code TSINQ with Command Code Deﬁner “I” Output",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "ae818978eb93756fbec361524f5cf2c0",
+    "text": "Element Line Position Description 1 1 1–6 CC “TSINQI” 3 1 7–18 Partner TIN/File Source Code 4 1 20–21 Partner MFT 5 1 23–28 Partner Tax Period 6 1 30–41 Partnership TIN/File Source Code 7 1 43–44 Partnership MFT 8 1 46–51 Partnership Tax Period 9 1 71–80 Date of Request (MM-DD-YYYY) 10 2 11–14 Partner Name Control 11 2 25–36 Partner AIMS Assignee Code 12 5 35-37 PN-CTF-CD 13 3 12–13 Partner AIMS-STATUS-CD 14 3 15–38 Status Code Title (generated) 15 4 11–20 AIMS-STATUS-DT (MM-DD-YYYY) 16 4 35–37 Appeals Office Code 17 5 17–20 Database Source (“PICF”) 18 7 13–22 Statute of Limitations Date (MM-DD-YYYY) 19 7 37 PICF Code 20 8 14–17 Special Project Code 21 8 35–37 AIMS Activity Code 22 9 11–12 Source Code 23 19 21 PN Closing Code 24 9 35–37 Reserved 25 10 4–38 Source Code Title (generated) 26 12 4–38 AIMS Name 1st Line 27 13 4–38 AIMS Name 2nd Line 28 14 4–38 AIMS Street Address 29 15 4–38 AIMS City, State, & Zip Code 30 17 13–20 PN Bankruptcy Literal (“BANKRUPT”or 31 17 32–41 PN Bankruptcy Date (MM-DD-YYYY) 32 18 14–19 PN K1 Loss Percentage",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "0d64e5c46066acbfd60cc001c3bb6419",
+    "text": "Exhibit 2.2.4-4 (Cont. 2) (01-01-2011) Command Code TSINQ with Command Code Deﬁner “I” Output",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "407a6ede4594eb7c3eca42280d5d2d9d",
+    "text": "Element Line Position Description 33 19 11–20 PN 1–YEAR-ASSESSMENT-DATE 34 18 32 Partner Penalty Indicator (“P” or 35 19 32–41 1-Year-Assessment-Date-Estbd 36 20 15 Report-Package-Indicator 37 20 32–41 RPI-Received-Date (MM-DD-YYYY) 38 21 15–16 Disposal Code 39 21 32–41 Disposal Date (MM-DD-YYYY) 40 22 15–19 TEFRA Time (nnn.n) 41 22 32–41 TEFRA Asmt Report Extract Date 42 23 16–30 TEFRA Assessment Amount 43 3 50–52 Partner TEFRA-CD (T or blank) 44 3 71–80 K1 Add Date (MM-DD-YYYY) 45 4 49 Tier Indicator (#, P, S, or X) 46 4 71–80 PN 424–DROP-DT (MM-DD-YYYY) 47 5 50–54 Number of Linkages 48 5 71–80 PN PURGE-DT (MM-DD-YYYY) 49 6 55 SUM-CLOSED-IND 50 6 71–80 Partner Record Creation Date 51 7 55 PS Linkages Closed Ind 52 7 71–80 Linkage Record Creation Date 53 8-9 41–80 Partner User Special Message 54 10 46–80 PN K1 Name Line 55 11 46–80 PN K1 Additional Address 56 12 46–80 PN K1 Street Address 57 13 46–80 PN K1 City, State, & Zip Code 58 15 46–80 Partnership AIMS Name 1 59 16 46–80 Partnership AIMS Name 2 60 17 46–80 Partnership AIMS Address 61 18 46–80 Partnership AIMS City, State, & Zip 62 19 52–54 Partnership TEFRA-CD",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "7ac8414fdbc579b80cd61ddd6525d547",
+    "text": "1-Year-Assessment-Date-Estbd (MM-DD-YYYY)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "1b3d08bb0dc1afae89385db7aa745ea6",
+    "text": "Exhibit 2.2.4-4 (Cont. 3) (01-01-2011) Command Code TSINQ with Command Code Deﬁner “I” Output",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "fea2a36d8a033655a07937ad2a5a5f4f",
+    "text": "Type of notice generated for all investors (NBAP, FPAA, 60DY, APL1, APL2, DOCK, F872, NTBP, NNNI, 3904,",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "08fbe25d2cd006c1852ab22a088eca34",
+    "text": "Exhibit 2.2.4-4 (Cont. 4) (01-01-2011) Command Code TSINQ with Command Code Deﬁner “I” Output",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-004--2022-10-18.pdf",
+      "page_number": 19
+    }
+  }
+]

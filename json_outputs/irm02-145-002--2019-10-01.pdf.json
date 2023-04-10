@@ -1,0 +1,1370 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "bbb3a8524556466890b7bbf5eb080bb1",
+    "text": "This transmittal revised IRM 2.145.2, Availability Management, Availability Management Process Description. This transmittal revised IRM Part 2 Chapter 146 Availability Management ,Section 1 Availability Management Policy with updated Process Description and Procedure Templates adding Internal Control Section.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "491e7723429a0d176301b4dd2c1a9867",
+    "text": "IRM 2.145.2 dated September 29, 2014, is superseded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "ddf1b53ca33365465d506a8c84349f29",
+    "text": "The Availability Management Process is applicable to all ACIO areas with responsibility for Management.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "026837a756056c309aba8d50057f6ce1",
+    "text": "Process Description",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b66cc808771d411e458fcc76de50a3ee",
+    "text": ") Overview - This IRM is the resource guide for Availability Management aims to deﬁne, analyze, plan, measure and improve all aspects of the ity of IT services. It is responsible for ensuring that all IT infrastructure, processes, tools, roles etc. are appropriate for the agreed availability (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "0d07caf5d4bb63bcba968213db1084f9",
+    "text": ") Purpose - This IRM establishes the organizational process for planning and performing the Availability Management Process to ensure that all current future availability aspects of the IT infrastructure are provided to meet requirements at acceptable cost. The Availability Management Process optimizes the capability of the IT Infrastructure, services, and supporting nizations to deliver a cost effective and sustained level of service availability that meets business requirements (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "bef0f6162e38690aa78dfb3f00f3fb89",
+    "text": ") Audience - This Process is applicable to all IT organizations with ties for Availability Management activities. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "e2b6e92a6228492aa4ce9142417d9347",
+    "text": ") Policy Owner - Associate Chief Information Officer (ACIO) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "5be8df4e0ec7f5120d4b967c828556e0",
+    "text": ") Program Owner - Solution Engineering is responsible for the development, implementation, and maintenance, of this process. All updates are accom- plished through the Director, Solution Engineering (SE). All proposed to this policy must be submitted to the Chief, SE Process Maturity Practice Group. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "c69c1ce25ed3d820d9078eb24ba17d91",
+    "text": ") Primary Stakeholders - Stakeholders include: • Enterprise Operations (EOPS) • Cyber Security (CS) • User and Network Services (UNS) • Enterprise Services (ES) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "55076e428576f517cee72c23df481fb9",
+    "text": ") Program Goals - All IT organizations responsible for Availability activities shall follow the Availability Management Process to ensure all ties are accomplished and all work products are produced. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "4b8a43e8ed65ed077912696372dfe428",
+    "text": ") A process is deﬁned as “A set of related activities that accomplish a goal”. The process deﬁnition laid out in this document further breaks down these Activities into Tasks, each of which have a complete set of attributes deﬁned such as data and tool speciﬁcations and the role(s) responsible for executing the tasks. The document also includes process goal and metrics, role deﬁnitions, policies and other process related attributes. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "36dbaccdff33551aae34a63ff75ef667",
+    "text": ") The Availability Management process translates business needs and plans requirements for service and IT infrastructure, ensuring that the future requirements for IT services are quantiﬁed, designed, planned, and imple- mented in a timely fashion. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "5c03a1668470ca352041402bc1f9a142",
+    "text": ") The process goal describes a speciﬁc purpose or achievement toward which the efforts of the process are directed. Each process has a speciﬁc focus when combined with the other processes, forms a comprehensive for delivering and managing services. This IRM provides the fundamental knowledge and procedural guidance for employees who request the Availability Management Services from Operations or Network Services. Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "9df6609603c5572fac99388cf64221ba",
+    "text": "Management Process Description 2.145.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "4e091c70b31d1db3a9fc58b9cd8cd90e",
+    "text": ") Process objectives describe material outcomes that are produced or achieved by the process. The following is a list of objectives for this process: • Provide a standardized and institutionalized Availability Management guidelines within IRS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "2e9dea04406ae526081b516788b61533",
+    "text": ") All proposed changes to this document should be directed to the Chief, Solution Engineering Process Maturity Practice Group, owner of this Process Description (PD), and be pursued via the Availability Management process to clearly deﬁne interfaces, roles, responsibilities, and coordinate participation collaboration between stakeholders. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "4bbcca2a2e1d824cbe0395b1be9a13ab",
+    "text": ") Each process deﬁnes at least one role. Each role is assigned to perform speciﬁc tasks within the process. The responsibilities of a role are conﬁned to the speciﬁc process. They do not imply any functional standing within the hierarchy of an organization. For example, the process manager role does not imply the role is associated with or fulﬁlled by someone with functional man- agement responsibilities within the organization. Within a speciﬁc process, there can be more than one individual associated with a speciﬁc role. ally, a single individual can assume more than one role within the process although typically not at the same time.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "56031663384e82e4a18230673c54f2f2",
+    "text": "Process objectives describe material outcomes that are produced or achieved by the process. The following is a list of objectives for this process:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "9ec333eef0ca215adf9e9f4cacaf97c3",
+    "text": "Name Description Availability Manager • Primary source of management infor- mation on the Availability Management process • Overall responsibility for enhancing availability within dictates of sound return on availability investment decisions • Manages relationships between customers and Service Level Manage- ment (SLM) • Provision and operation of tools to support performance reporting on an ongoing basis • Ensure customer satisfaction with process • Ensure that business and stakehold- ers are involved in collecting availability requirements Service Owner • Deliver a particular service within the agreed service levels • Act as the counterpart of the Service Level Manager when negotiating Op- erational Level Agreements (OLAs) • Lead technical specialists and internal support units",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "9df6609603c5572fac99388cf64221ba",
+    "text": "Management Process Description 2.145.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b826723421f84621e86106a253de0745",
+    "text": "Availability Manage- • Provide technical expertise on avail- ment Team Member ability of speciﬁc classes of Conﬁguration Items (CIs) • Keep aware of availability characteris- tics of new products • Provide Tier III support as required in restoration of services following Major Incidents • On request of Problem Manager, par- ticipate as Availability Expert in Major Incident Reviews and Root Cause Analyses • Perform System Outage Analyses • Setting appropriate availability related requirements Business Owner • Negotiate availability targets and sign- off on targets in Operational and/or Service Level Agreements • Review availability performance against target and participate in preparation and recommendation of any remedial actions • Participate in Availability Improvement initiatives • Provide information on availability - particularly faults and outages IT Operations Manager • Provide ongoing maintenance of CIs which affects their availability • Assist in describing the service chains associated with service provisioning • Participate in discussions of availabil- ity and recoverability • Meet Operational objectives and explain variances from targets. Higher Authority • Approve resources to meet availability requirements • Review and recommend availability improvement recommendations • Review balanced scorecard informa- tion describing availability • Act as the ﬁnal point of escalation for availability issues",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "be054225fe6c54d060c9a33cbec16fbc",
+    "text": "Negotiate availability targets and sign",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "46092d1b504add8ebd784993b6b12b31",
+    "text": "off on targets in Operational and/or Service Level Agreements Review availability performance against target and participate in preparation and recommendation of any remedial actions Participate in Availability Improvement initiatives Provide information on availability",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "394f5390f37c080e61dddc55d2826fe4",
+    "text": "particularly faults and outages Provide ongoing maintenance of CIs which affects their availability Assist in describing the service chains associated with service provisioning Participate in discussions of availabil",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "5f18994c5d9ffd3b7dd9231fe94829d4",
+    "text": "ity and recoverability Meet Operational objectives and explain variances from targets. Approve resources to meet availability requirements Review and recommend availability improvement recommendations Review balanced scorecard informa",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "69bd30f285f03829585b84b55c6ae967",
+    "text": "tion describing availability Act as the ﬁnal point of escalation for",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "185b91cc872965078297b2f024f26e1a",
+    "text": "Approve resources to meet requirements Review and recommend availability improvement recommendations Review balanced scorecard informa",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "602b25ea6d9b7a833316293f7abed47c",
+    "text": "tion describing availability Act as the ﬁnal point of escalation for availability issues",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "239ba55b6fe1940b40fcfc0e643dda1c",
+    "text": ") Policies outline a set of plans or courses of action that are intended to inﬂuence and determine decisions or actions of a process. Policies provide an element of governance over the process that provides alignment to business vision, mission and goals.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3afd9e5e75f129c4eda90510f902f8f9",
+    "text": "Process Management Statement: The Availability Management process will have a single Process Owner and a separate Process Manager responsible for implementation and ensuring adherence to the process. The process will be reviewed regularly to ensure that it continues to support the business requirements of the enterprise. The process will be designed and developed based on ROI to the business. Process metrics will be focused on providing relevant information as opposed to merely presenting raw data. People: Statement: Roles and responsibilities for the process must be clearly deﬁned and appropriately staffed with people having the required skills and training. The mission, goals, scope and importance of the process must be clearly and regularly communicated by upper man- agement to the staff and business customers of IT. All IT staff (direct and indirect users of the process) shall be trained at the appropriate level to enable them to support the process. Rationale: It is imperative that people working in, sup- porting or interacting with the process in any manner understand what they are supposed to do. Without that understanding Availability Management will not be successful. Process:",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "078ac191a7bc7db00bed592606d8bc08",
+    "text": "The Availability Management process will have a single Process Owner and a separate Process Manager responsible for implementation and ensuring adherence to the process. The process will be reviewed regularly to ensure that it continues to support the business requirements of the enterprise. The process will be designed and developed based on ROI to the business. Process metrics will be focused on providing relevant information as opposed to merely presenting raw data.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "14d2e5b82f017ff5a485614addfb06fd",
+    "text": "Roles and responsibilities for the process must be clearly deﬁned and appropriately staffed with people having the required skills and training. The mission, goals, scope and importance of the process must be clearly and regularly communicated by upper man",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "344cf94e5f9f691b5906b36f4d7853d9",
+    "text": "agement to the staff and business customers of IT. All IT staff (direct and indirect users of the process) shall be trained at the appropriate level to enable them to support the process.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "cc0ab35695d40aabed16ca0b79c7089f",
+    "text": "is imperative that people working in, sup- or interacting with the process in any understand what they are supposed do. Without that understanding Availability will not be successful.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "711c17595a6a85685cd8d5184360fe38",
+    "text": "Process Description 2.145.2 page 5 Statement: Modiﬁcations to the Availability Management process must be approved by the Process Owner. The design of the process must include appropriate interfaces with other processes to facilitate data sharing, escala- tion and workﬂow. The process must be capable of providing data to support real- time requirements as well as historical/ trending data for overall process improvement initiatives. The process must be fully documented, published and acces- sible to the various stakeholders of the process. The process will be reviewed on a periodic basis in order to ensure it continues to support organizational goals and objec- tives (continuous improvement). The process must include Inputs, Outputs, Controls, Metrics, Activities, Tasks, Roles and Respon- sibilities, Tool and Data requirements along with documented process ﬂows. The process will be kept straight forward, rational, and easy to understand. Rationale: The process must meet operational and business requirements. Technology and Tools: Statement: All tools selected must conform to the enter- prise architectural standards and direction. Existing in-house tools and technology will be used wherever possible, new tools will only be entertained if they satisfy a business need that cannot be met by current in-house tools. The selection of supporting tools must be process driven and based on the require- ments of the business. Selected tools must provide ease of deployment, customization and use. Automated workﬂow, notiﬁcation and escalation will be deployed wherever possible to minimize delays, ensure consis- tency, reduce manual intervention and ensure appropriate parties are made aware of issues requiring their attention. The tools used by this process are the following:None Rationale: Technology and tools should be used to augment the process capabilities, not become an end themselves.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "9df6609603c5572fac99388cf64221ba",
+    "text": "Management Process Description 2.145.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "2963cca8af8f60a0ddacc07a2394d0d1",
+    "text": "Modiﬁcations to the Availability Management process must be approved by the Process Owner. The design of the process must include appropriate interfaces with other processes to facilitate data sharing, escala",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "bfe57837ceabcc8f761895c96b10b307",
+    "text": "tion and workﬂow. The process must be capable of providing data to support real",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "690c9c9f64f13bfaa474bd4e814ffda9",
+    "text": "time requirements as well as historical/ trending data for overall process improvement initiatives. The process must be fully documented, published and acces",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d955ef702f179384de71b518f3a4f1e2",
+    "text": "sible to the various stakeholders of the process. The process will be reviewed on a periodic basis in order to ensure it continues to support organizational goals and objec",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "fb2ff7d5ed3681f73dc7e02834e87ee7",
+    "text": "tives (continuous improvement). The process must include Inputs, Outputs, Controls, Metrics, Activities, Tasks, Roles and Respon",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "6c4591de81501c2cbb4d7fd405619a7c",
+    "text": "sibilities, Tool and Data requirements along with documented process ﬂows. The process will be kept straight forward, rational, and easy to understand. The process must meet operational and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "429b8b7bafe272c9b15e3ff5e8165256",
+    "text": "All tools selected must conform to the enter",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "5c16fb0a14c7d8a23a3a4eb94df937a4",
+    "text": "prise architectural standards and direction. Existing in",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "4067568b54da67da0a5145b5883db566",
+    "text": "house tools and technology will be used wherever possible, new tools will only be entertained if they satisfy a business need that cannot be met by current in",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "88b290416302c880918932dadd67d9e4",
+    "text": "house tools. The selection of supporting tools must be process driven and based on the require",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "484c6652c99b69ecb89530563c013843",
+    "text": "ments of the business. Selected tools must provide ease of deployment, customization and use. Automated workﬂow, notiﬁcation and escalation will be deployed wherever possible to minimize delays, ensure consis",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "ff5392b2cd1f87d631704b0c995e4346",
+    "text": "tency, reduce manual intervention and ensure appropriate parties are made aware of issues requiring their attention. The tools used by this process are the following:None Technology and tools should be used to augment the process capabilities, not become an end themselves.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "f8f2bf79dfa2a0f4b5d898943b55e62a",
+    "text": "Process controls represent the policies and guiding principles on how the process will operate. Controls provide direction over the operation of processes and deﬁne constraints or boundaries within which the process must operate.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "6e2b6ccecf1c9a70ece591e16d02bbd1",
+    "text": "The Availability Management Process has the following Controls:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "d9bad9df3b5f714d35be69a160e74a5d",
+    "text": "Name Description Audits The frequency of Availability management audits Availability Manage- Availability Management Policy to follow to ment Policy ensure all Availability Management activities are accomplished and all work products are produced. Scope of Availability The scope of the Availability Management Management Process process. Includes identiﬁcation of what is included in and what is excluded from the Conﬁguration Management process. SLA Service Level Agreement (SLA) containing the agreed Availability Management service levels. KISAM Knowledge Incident/Problem Service Asset Management (KISAM)",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "043d5ffdd77a759e4975d7b8e2d286a7",
+    "text": "Management (KISAM) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "14718109368f681e30ea6a23abbbb2a3",
+    "text": ") Metrics are used for the quantitative and periodic assessment of a process. They should be associated with targets that are set based on speciﬁc objectives. Metrics provide information related to the goals and objectives of process and are used to take corrective action when desired results are not being achieved and can be used to drive continual improvement of process effectiveness and efficiency. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "64a49e4a6540709ccdd0c577d2e83a49",
+    "text": ") Management will regularly set targets for process performance, gather able data related to different functions of the Availability Management and review that data in order to make informed decisions and take corrective action, if necessary. All Measurements will have a deﬁned data dic- tionary, map to the organizational strategic goals, and be documented in a Process Measurement Plan. The Process Measurement Plan template is available in the IT PAL. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "1bcd2d0aacaedf87d4557d09e313a391",
+    "text": ") The tailoring guidelines identify the allowable variations of the IT standard process as needed for adjustments (adding, deleting, modifying) relative to speciﬁc operational or functional needs of another organization. Process tailoring is about roles and procedures, not the standard process or major activities deﬁned in this process. All tailoring request, with supporting rationale, must be submitted in writing to and approved by the Availability agement owner.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "011b00dfe274ddee8a7b26aa8159e32a",
+    "text": "The tailoring guidelines identify the allowable variations of the IT organization’s standard process as needed for adjustments (adding, deleting, modifying) relative to speciﬁc operational or functional needs of another organization. Process tailoring is about roles and procedures, not the standard process or major activities deﬁned in this process. All tailoring request, with supporting rationale, must be submitted in writing to and approved by the Availability Man",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "4f91e00a90677a806aecfbf7989c76c7",
+    "text": "agement owner.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "c6e2abf6fd750d45fbbffc8f9d36ba1a",
+    "text": "Management Process Description 2.145.2 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "996066aef9095982b963a715350b25df",
+    "text": "This process may not be tailored to meet speciﬁc project requirements. If tailoring is permitted, refer to the tailored approach according to what has been documented in the Availability Management process owner’s Tailoring Plan. All tailoring requests, with supporting rationale, should be submitted in writing to and approved by Solution Engineering.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "5872fecf05e8c12f703a5eb3666a5034",
+    "text": "Deﬁnition",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "8437583b7b9b7e6e2b50e3e1c3254441",
+    "text": "a task. It accounts for the fact that more than one role may be active in performing a speciﬁc task while clearly deﬁning speciﬁc responsibili",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "7425d3b7c932ca559e24bd6ecb30de5a",
+    "text": "ties for that role. While many roles may be involved in a task only one is Accountable for the results. The actions are: R Responsible for the action (may do the task) A Accountable for the action (including approval) C Required to be Consulted on the action I Required to be Informed of the action If a task does not have an Accountable role indicated then the Re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "e2339e419e90cb90a9a26e44aa523734",
+    "text": "sponsible role is assumed to be accountable for the task.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "10cc1ebd40e71d9d47b09670ea89cbd6",
+    "text": "Maintainability A measure of how quickly and effectively a service, component or CI can be restored to normal working after a failure. It is measured and reported as the mean time to restore service (MTRS) Proactive Availability Involves the work necessary to ensure that Management new or changed services can and will deliver the agreed levels of availability and that appro- priate measurements are in place to support this work. Proactive activities include planning, design and improvement of availability. These activities are principally performed as part of the design and planning roles. Reactive Availability Involves the work necessary to monitor, Management measure, analyze and report service and component availability. Reactive activities include the monitoring, measuring, analysis and management of all events, incidents and problems involving unavailability. These activi- ties are principally performed as part of the operational roles. Reliability A measure of how long a service, component or CI can perform its agreed function without interruption. The reliability of the service can be improved by increasing the reliability of in- dividual components or by increasing the resilience of the service to individual component failure (i.e. increasing the component redundancy, for example by using load-balancing techniques). It is often measured and reported as the mean time between service incidents (MTBSI) or mean time between failures (MTBF)",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d1638ac07628ac65c028b8d16239bdb3",
+    "text": "A measure of how quickly and effectively a service, component or CI can be restored to normal working after a failure. It is measured and reported as the mean time to restore service (MTRS) Involves the work necessary to ensure that new or changed services can and will deliver the agreed levels of availability and that priate measurements are in place to support this work. Proactive activities include design and improvement of availability. These activities are principally performed as part of the design and planning roles. Involves the work necessary to monitor, measure, analyze and report service and component availability. Reactive activities include the monitoring, measuring, analysis and management of all events, incidents and problems involving unavailability. These ties are principally performed as part of the operational roles. A measure of how long a service, component or CI can perform its agreed function without interruption. The reliability of the service can be improved by increasing the reliability of in",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "38776493cd9a0b59fcaa56e5cdd1345d",
+    "text": "dividual components or by increasing the resilience of the service to individual component failure (i.e. increasing the component redundancy, for example by using load",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "634b24b85f1c5b192547801921535676",
+    "text": "balancing techniques). It is often measured and reported as the mean time between service incidents (MTBSI) or mean time between failures (MTBF)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "a65d2aee5626d3e97695e5ed2a8752cd",
+    "text": "the work necessary to monitor, analyze and report service and availability. Reactive activities the monitoring, measuring, analysis management of all events, incidents and involving unavailability. These are principally performed as part of the roles.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "47536703c294e3470b3f55406f714c82",
+    "text": "A measure of how long a service, component or CI can perform its agreed function without interruption. The reliability of the service can be improved by increasing the reliability of in",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "38776493cd9a0b59fcaa56e5cdd1345d",
+    "text": "dividual components or by increasing the resilience of the service to individual component failure (i.e. increasing the component redundancy, for example by using load",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "634b24b85f1c5b192547801921535676",
+    "text": "balancing techniques). It is often measured and reported as the mean time between service incidents (MTBSI) or mean time between failures (MTBF)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "a6c30afdcdd4a8337ff98624adbea39a",
+    "text": "[Identify and list the acronyms and deﬁnitions identiﬁed in this document. See example below].",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d0b9e79b8d59cc78cce8e21546bc984e",
+    "text": "Acronyms Description RACI Responsible, Accountable, Consulted and Informed AMIS Availability Management Information System AM Availability Management CI Conﬁguration Management",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "9df6609603c5572fac99388cf64221ba",
+    "text": "Management Process Description 2.145.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "bab54d474eb277cc757a59cd5462c50c",
+    "text": "CMMI Capability Maturity Model Integration CTO Chief Technology Officer ELC Enterprise Life Cycle ES Enterprise Services IPM Integrated Process Management IT Information Technology ITIL Information Technology Infrastructure Library ITSM Information Technology Service Management IRM Internal Revenue Manual ITSCM Information Technology Service Continuity Management OLA Operational Level Agreement PAL Process Asset Library PD Process Description PMI Project Management Institute RFC Request for Change SE Solution Engineering SLA Service Level Agreement SLM Service Level Management",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "b46a4c62144d0a91a4ac5edc5a94626c",
+    "text": ") The following work products are used to assist in the implementation Availability Management process: Used By • Business Availability Requirements • Business Impact Analysis • Identiﬁed Vital Business Functions • Availability, Reliability & Serviceability/Maintainability • Incident and Problem Data • Conﬁguration and Monitoring Data • Agreed targets for Availability, Reliability and Maintainability (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a889cdd3b4b662e1a866f397b4c3b0be",
+    "text": ") The following work products (artifacts) are produced by the agement process and may be used as inputs to other processes, • IT Infrastructure Resilience and Risk Assessment • Measures of availability and agreed on availability targets • Monitoring & Reporting of Availability, Reliability and • Availability Plan Updated • Availability Improvement Plans • System Recovery Strategies • Unavailability Analysis reports • Recommendations for changes to the Availability Plan (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "14fed4833e074585f73f68fcd3b9b5c7",
+    "text": ") Availability Management Process Flow Diagram",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "469a49697f4e38de1943068337f9fe3a",
+    "text": "The following work products are used to assist in the implementation of the Availability Management process:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a19c6fa8b3f413ccb7619a765b595bb9",
+    "text": "The following work products (artifacts) are produced by the Availability Man- agement process and may be used as inputs to other processes, such as:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "454b3e9dfb337500c5ed19c5972594b4",
+    "text": "IT Infrastructure Resilience and Risk Assessment Measures of availability and agreed on availability targets Monitoring & Reporting of Availability, Reliability and Maintainability Availability Plan Updated Availability Improvement Plans System Recovery Strategies Unavailability Analysis reports Recommendations for changes to the Availability Plan",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "9df6609603c5572fac99388cf64221ba",
+    "text": "Management Process Description 2.145.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d9c9739599fa5acd247af2b7f44d5c19",
+    "text": "B = B RProcess o~ Timer B rEney \\\\\\ imer EvenConfiguration &Change NManagement NPlan & Design new and {g————]Changed ServicesCapacity AvailabilityManagement PlanA4IT Service Slep2. [NContinuity —- «{ Risk Assessment & fat——————»]Management WManagementAvailasilty AvailabilityManagement M tv Reports lanagemenInformation ot Infsorn:atlon_ mplement stemSecurity costustiied 4Management countermessures (AMIS)Step 4.Service Level Review all new and| changad services and testManagement all availabilty andrasiienco mochanisms— AvailabilityDesignGiteria- AN sons.Continual Review &ImprovementScheduled AvailabiliyTesting ResutsvStep[Scheduled Availability -~ Monilor and Measure, - |——————| Testing Results Companent Availabiity// AvaiabittyIncident & #Manitoring DataProblem !Management /- \\ -IT Service \\ vContinuity N vailabilityManagement S~ mvestigate Service and ManagementComponent Unavailability and Reports._ - Instigate Remedial ActonService LevelManagement NAvailabilityDesign— CriteriaUnavailability Event -——-AvailabilityPlanOS8:CTO:ES:SE:EPMJune 20, 201308:CTO:ES:SE:EPM-PD-AM-V0.7-06202013",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "83ac1804d4b7069354fccbc9e9d1c045",
+    "text": "The availability management process ensures that new or changed services are designed appropriately to meet the customer’s availability related require",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "224eeeb5f219a4427aa697457952e731",
+    "text": "ments, deﬁned in service level targets. The design must be developed not only to ensure that the new or changed service will meet its availability speciﬁca",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "ab5caf894513afd0d4c241ca8a9ae74b",
+    "text": "tions, but also to ensure that performance of existing services is not negatively impacted. The work involves producing recommendations, plans and documents on design guidelines and criteria for new and changed services. The availability requirements of the business must be clearly deﬁned and un",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "3a64bddfa7e2398016b20dd61a3bd6c5",
+    "text": "derstood so that appropriate availability and recovery design criteria can be developed.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "026837a756056c309aba8d50057f6ce1",
+    "text": "Process Description",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "ef51e648dfc814b76990088c13114222",
+    "text": "page (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "25344f91d31ade396e782bfc539fa732",
+    "text": ") Component Information (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "d507f322e057803348e2efc0036690b5",
+    "text": ") Technology Information (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "8b9e22684febfe3b8c1e7218d90e858c",
+    "text": ") Past Performance Information (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "f2a67850d8e0778d9f8cb8339e67cb34",
+    "text": ") Unavailability and Failure Information (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "35b9a7c3b15a437a5244cdb621e16648",
+    "text": ") Planning Information (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "482a2c013af549f61d05edcf1455b326",
+    "text": ") Determine the Vital Business Information, in conjunction with the business ITSM. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "ca73b7c7684130003eeb5cb4d8cfb1e2",
+    "text": ") Determine the availability requirements from the business for a new or enhanced IT service and formulating the availability and recovery design criteria for the supporting IT components. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "2221e603df4559011e9c8aec079985e4",
+    "text": ") Deﬁne the targets for availability, reliability and maintainability for the IT structure components that underpin the IT service to enable these to be documented and agreed tp by Service Level Management. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "fa03138cd7d5ad65402b9780cef5c92a",
+    "text": ") Perform risk assessment and management activities to ensure the and/or recovery from service and component unavailability. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "53faf153db329caff905bb03f4a48518",
+    "text": ") Design the IT services to meet the availability and recovery design criteria associated agreed service levels. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "9caecbbf61594dd5e3d52b269663bc99",
+    "text": ") Establish measures and reporting of availability, reliability and maintainability that reﬂect the business, user and IT support organization perspectives. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "04b28a36d2a2d4911b0fb08937dc47c8",
+    "text": ") Determine the impact arising from IT service and component failure in tion with Information Technology Service Continuity Management (ITSCM) where appropriate, review the availability design criteria to provide additional resilience to prevent or minimize impact to the business. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "64b7752b3ee7ac2b80424e7b8c2124af",
+    "text": ") Implement cost-justiﬁable countermeasures, including risk reduction and recovery mechanisms. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "349dcdf005cef2b95ab2d93cffb4d8b1",
+    "text": ") Review all new and changed services and testing all availability and mechanisms. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "d5f2ce2349f277eea486af9baa47d591",
+    "text": ") Produce and maintaining an availability plan that prioritizes and plans IT ability improvements. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "d0e3c1d5066d002d0b15159a5b2e9f04",
+    "text": ") Review with stakeholders. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "95b12249d72074048f61e0d98492dacb",
+    "text": ") Attend all related SLA reviews. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "7f5d78449c72ddda79c30acfb901d73e",
+    "text": ") New or changed Availability Plan (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "968229709a1f5581ea2132088405a495",
+    "text": ") Availability Design recommendations (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "8d190e268cac6dc65e92bd51b4c8e0e8",
+    "text": ") Availability plan has been stored in the AMIS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "1fa5e7eef7bc4bbaabc8756705218e09",
+    "text": ") Availability Design recommendations have been stored in the AMIS.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "9df6609603c5572fac99388cf64221ba",
+    "text": "Management Process Description 2.145.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "6c2fb0efca8d39cc7caabb2241ca5e0e",
+    "text": "Establish measures and reporting of availability, reliability and maintainability that reﬂect the business, user and IT support organization perspectives.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "357d9629eb2c44677419a6dd14df9602",
+    "text": "Availability Design recommendations have been stored in the AMIS.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "dec610250c8e2faca971a48538bd4d87",
+    "text": "The purpose of the Risk Assessment and Management step is to ensure cost",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "2623ddb64cc2d18fa50a5676c7061146",
+    "text": "justiﬁed reduction of risk and recovery from service and component availability. Risk assessment and management determines the impact arising from IT service and component failure in conjunction with ITSCM, and where appropri",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "0f7b2894ec08fd4fa6422497f39793dd",
+    "text": "ate, reviewing the availability design recommendations to provide additional resilience to prevent or minimize impact to the business.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "9df6609603c5572fac99388cf64221ba",
+    "text": "Management Process Description 2.145.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "9aebcff5de886c9345cbbc84c8c6d8d4",
+    "text": "Revised risk assessment reviews and reports have been stored in the AMIS.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "e7c905740f2a75235797d466829182b9",
+    "text": "The purpose of the Implement Cost",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "386822de29eac0b154ce3fc6fec57cd2",
+    "text": "Justiﬁed Countermeasures step is to produce risk reduction measures and develop effective recovery mechanisms that address the risks identiﬁed by the risk assessment review. Countermea",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "807f97fc3177d8b652e4b2888443387a",
+    "text": "sures are implemented as part of the overall design of the new or changed service, as well as through the implementation of maintenance and continual review and improvement.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "e8133e803995f51414d4acd135747815",
+    "text": "Implement cost-justiﬁable countermeasures, including risk reduction and recovery mechanisms.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "7e23b0943c7f459dd4945ebb188e9641",
+    "text": ") The purpose of this step is to complete a review of all new and changed services and test all availability and resilience mechanisms. During the service transition stage all the elements designed to contribute to service and component availability needs to be reviewed and tested. Availability review and testing procedures and policies should be embedded into overall transition methods, processes and practices to ensure that the promised levels of avail- ability will be delivered.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "f25932719c606ddaa59d9b5578e5bb1f",
+    "text": "Develop a test plan to test all availability and resilience mechanisms.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "9df6609603c5572fac99388cf64221ba",
+    "text": "Management Process Description 2.145.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "b7ae708dc2e4c5a140ec70e41f522d8e",
+    "text": "The new or changed Availability Test Plan has been stored in the AMIS and made available to the service transition team.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "ee109a7507669482bce01768a781b47f",
+    "text": "The purpose of the Continual Review and Improvement step is to continually pursue discovery of opportunities to optimize the availability of the IT infrastruc",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "78f851b85329e6791903be6875e45391",
+    "text": "ture. The beneﬁts of this regular review approach are that, sometimes, enhanced levels of availability may be achievable, but with much lower costs. The optimization approach is a sensible ﬁrst step to delivering better value for money. A number of availability management techniques can be applied to identify optimization opportunities. It is recommended that the scope should not be restricted to the technology, but also include a review of both the business process and other end",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "663ea1bfffe5038f3f0cf667f14c4257",
+    "text": "to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "c6944500d854b8a630bda5487da12385",
+    "text": "end business owned responsibilities. To help achieve these aims, availability management needs to be recognized as a leading inﬂuence over the IT service provider organization to ensure continued focus on availability and stability of the technology.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "d52c36ee90527a9fa3089b2c65de6f3e",
+    "text": "The purpose of the Continual Review and Improvement step is to continually pursue discovery of opportunities to optimize the availability of the IT ture. The beneﬁts of this regular review approach are that, sometimes, enhanced levels of availability may be achievable, but with much lower costs. The optimization approach is a sensible ﬁrst step to delivering better value for money. A number of availability management techniques can be applied to identify optimization opportunities. It is recommended that the scope should be restricted to the technology, but also include a review of both the business process and other end-to-end business owned responsibilities. To help these aims, availability management needs to be recognized as a leading inﬂuence over the IT service provider organization to ensure continued focus on availability and stability of the technology.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "ea13d4cc0af8c5366c047d611abd4d09",
+    "text": ") Availability Manager (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "c71c240ae3632a6763a486b4362288c2",
+    "text": ") Service Owner (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "8526520b8e0ebf9d1aeb6ec0a763767e",
+    "text": ") Availability Team Member (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "f9bed4a9d9e9dc71f0e6582a484ce57b",
+    "text": ") Business Owner (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "8224527e0e58549c2356e0ad3f08fcb6",
+    "text": ") IT Operations Manager (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "3131b93ea8081d29b4784bba504d6113",
+    "text": ") Higher Authority (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "7f221066f571420217cce40728939541",
+    "text": ") Scheduled Availability (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "f212197a036412f621294fbc030a6bed",
+    "text": ") New Availability Test results",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "9df6609603c5572fac99388cf64221ba",
+    "text": "Management Process Description 2.145.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "b2b94431418a17dd6b8a5c7f831ae1f7",
+    "text": "2.145 Availability Management",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "0219066062e14888f1ed92195a663daa",
+    "text": "The purpose of the Investigate Service and Component Unavailability and Instigate Remedial Action step is to investigate and undertake appropriate cor- rective actions when services or components become unavailable based on",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "5e80a4ef0527a7a1cdce3b2e099c211c",
+    "text": "Investigate unavailability events. Implement remedial actions. Recommend changes to the Availability Plan if appropriate. Document actions taken in the AMIS. Unavailability Analysis and Remedial Actions report Recommendations for changes to the Availability Plan if appropriate Remedial actions have been implemented. The Unavailability Analysis and Remedial Actions report has been AMIS. Recommendations for changes to the Availability Plan have been AMIS.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-145-002--2019-10-01.pdf",
+      "page_number": 26
+    }
+  }
+]

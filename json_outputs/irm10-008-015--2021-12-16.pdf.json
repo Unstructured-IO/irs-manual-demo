@@ -1,0 +1,1586 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "060e8835b7decb151d4145f1319f4742",
+    "text": "This transmits revised Internal Revenue Manual (IRM) 10.8.15, Information Technology (IT) Security, General Platform Operating System Security Policy.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "0e90f3c72418b5ea463860bedbefcec8",
+    "text": "The following sections have been updated/clariﬁed with this version of policy:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "381c2742c5d2ac352c9b80eaffa9b51c",
+    "text": "a. Security guidance has been updated to match the most current federal guidance. b. Alignment to Security Policy and SPDER template requirements. c. Alignment to NIST",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "061c0460bdaab2ce6572e031721537de",
+    "text": "Rev.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "bbc69fd99701f06ab6fef213741efee2",
+    "text": "security controls and IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "e4fb8e73f0d8e4e8a4941f7df2044e05",
+    "text": "d. Inclusion of errata updates. e. Updated links throughout the document to reﬂect new organizational links. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "8c56f85c8f96e0f106f1fb4290b270cd",
+    "text": ") Editorial changes (including grammar, spelling, and minor clariﬁcation) were made throughout IRM.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a00684cba764988c8561c7b631dd884c",
+    "text": "Editorial changes (including grammar, spelling, and minor clariﬁcation) were made throughout the",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "590605862d88f500b88e802fb61686a4",
+    "text": "EFFECT ON OTHER DOCUMENTS",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "0b3647d76861d5edb58ceffcc99f56fa",
+    "text": "This IRM supersedes the prior version of IRM 10.8.15 dated December 28, 2020. This IRM supplements IRM 10.8.1, Information Technology (IT) Security Policy and Guidance , and IRM 10.8.2, Information Technology (IT) Security IT Security Roles and Responsibilities. .",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1e40feedb6d8e174d473a369b3da23fd",
+    "text": "AUDIENCE",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "c0ef80c6de27c0beef6fa53545595be9",
+    "text": "IRM 10.8.15 shall be distributed to all personnel responsible for securing operating systems. This policy applies to all employees, contractors, and vendors of the IRS.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "b01535085b830a839f5a846fffdc992e",
+    "text": "Program Scope and Objectives",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "b01535085b830a839f5a846fffdc992e",
+    "text": "Program Scope and Objectives",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "ea2b8a878841df5955c78edc6cae4744",
+    "text": "Background",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "b073f6c68ef8721107fd9815b19b2c35",
+    "text": "Scope",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "eba92953899468e3f79c084370cc455f",
+    "text": "Objectives",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "b80e403d2645d45e3503a6575390f407",
+    "text": "Authority",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "36bf9eec496d24303647f85787096c6b",
+    "text": "Risk Acceptance and Risk-Based Decisions",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "68f1e9f90c249733968025ee52895c64",
+    "text": "Roles and Responsibilities",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "67396cdff106a3d639bdeef9c30b977d",
+    "text": "General Platform Operating System Security Policy 10.8.15 page 1",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "9dcbadcdba3856e3f99e65dd8bb6b849",
+    "text": "and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "66df25bff2b0ac110cc7b7923cf25c5d",
+    "text": ") Overview: This Internal Revenue Manual (IRM) lays the foundation to implement and manage security controls and guidance for the use of operating systems within the Internal Revenue Service (IRS). a. This manual is subordinate to IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "4ba2d3c2a35f00ea34ff49ef596606ac",
+    "text": ", Information Technology (IT) Security, Policy and Guidance , and augments the existing requirements identiﬁed within IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "1563b8fd913f10c1bc8ee60a54fb17d5",
+    "text": ", as they relate to IRS operating systems. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b8ffcb77949174033a0851f498d541bb",
+    "text": ") Purpose of the Program: Develop and publish policies to protect the IRS against potential IT threats and vulnerabilities and ensure compliance with federal mandates and legislation. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3895eebe32ad63cbc2aa76bdf178a1b0",
+    "text": ") Audience: The provisions within this manual apply to: a. All offices and businesses, operating, and functional units within the IRS. b. Individuals and organizations having contractual arrangements with the IRS, including employees, contractors, vendors, and outsourcing providers, which use or operate information systems that store, process, or transmit IRS Information or connect to an IRS network or system. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "56eb113e7de6cef2db646911230947c9",
+    "text": ") Policy Owner: Chief Information Officer (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3b40c7c9a3064ee22bda1dfec30ae507",
+    "text": ") Program Owner: Architecture and Implementation (an organization within Cy- be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "14d7c498209abd2893767267bd641f0c",
+    "text": "ecurity) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "62e8b85e1f2060b7489b2915bb1dd696",
+    "text": ") Program Goals: Cyber Security Policy is responsible for the development and maintenance of IRS enterprise information technology security policies. The IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "500e10e73d0b41bd0765274152b98a5a",
+    "text": "x series provides the minimum-security requirements to protect the conﬁdentiality, integrity, and availability of data processed on IRS systems. IRMs are developed in accordance with applicable laws, policies, federal regu- lations, Office of Management and Budget (OMB), Treasury Directives (TDs), National Institute of Standards and Technology (NIST) Publications, National Archives and Records Administration (NARA). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "e49a873b4f5f9acf67ee3b46ace5828c",
+    "text": ") This IRM deﬁnes the security controls for the use of operating systems within the IRS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "472601d3bfbaaff99a646729498b3af1",
+    "text": ") Federal Information Processing Standards (FIPS)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "eeabd490caee9812fb42961b2ff97400",
+    "text": "mandates the use of NIST Special Publication (SP)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a755cac56f3f0e3df3f7e2b7ed20c442",
+    "text": "as an initial set of baseline security controls for the creation of agency IT security policy. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "4e51cda565d74a35cd9c8f07005f042d",
+    "text": ", Information Technology (IT) Security, General Platform Operating System Security Policy provides policy and guidance to be used by the IRS to carry out their representative responsibilities in information systems security regarding workstations and servers. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "5be379ca475acf6831bb469bde3dbf14",
+    "text": "is part of the Security, Privacy and Assurance policy family, IRM Part",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "8558b8ece46f262553584739b0dc4ecf",
+    "text": "series for IRS Information Technology Cybe",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ef07c0734806909dc7217c4a741d35a4",
+    "text": "ecurity. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "fa6ea5467bc25b50f48febf881f87147",
+    "text": ") This IRM applies to all IRS information and information systems, which include IRS production, development, test, and contractor systems. For information systems that store, process, or transmit classiﬁed information, refer to IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "773248517a9b3792e52d36b1fa70efa8",
+    "text": ", Classiﬁed National Security Information (NSI), for additional procedures for protecting classiﬁed information. Platform Operating System Security Policy",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ef51e648dfc814b76990088c13114222",
+    "text": "page (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "1ffbf820c22f2baff8c17d9682e86cc7",
+    "text": "with a # Only",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3b40c7c9a3064ee22bda1dfec30ae507",
+    "text": ") Program Owner: Architecture and Implementation (an organization within Cy- be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "14d7c498209abd2893767267bd641f0c",
+    "text": "ecurity) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "62e8b85e1f2060b7489b2915bb1dd696",
+    "text": ") Program Goals: Cyber Security Policy is responsible for the development and maintenance of IRS enterprise information technology security policies. The IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d3c3a9cab6c2f9c0563469f2fa9de932",
+    "text": "x series provides the minimum-security requirements to protect the conﬁdentiality, integrity, and availability of data processed on IRS systems. IRMs are developed in accordance with applicable laws, policies, federal regu- lations, Office of Management and Budget (OMB), Treasury Directives (TDs), National Institute of Standards and Technology (NIST) Publications, National Archives and Records Administration (NARA).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3b40c7c9a3064ee22bda1dfec30ae507",
+    "text": ") Program Owner: Architecture and Implementation (an organization within Cy- be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "14d7c498209abd2893767267bd641f0c",
+    "text": "ecurity) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "62e8b85e1f2060b7489b2915bb1dd696",
+    "text": ") Program Goals: Cyber Security Policy is responsible for the development and maintenance of IRS enterprise information technology security policies. The IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "500e10e73d0b41bd0765274152b98a5a",
+    "text": "x series provides the minimum-security requirements to protect the conﬁdentiality, integrity, and availability of data processed on IRS systems. IRMs are developed in accordance with applicable laws, policies, federal regu- lations, Office of Management and Budget (OMB), Treasury Directives (TDs), National Institute of Standards and Technology (NIST) Publications, National Archives and Records Administration (NARA). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "e49a873b4f5f9acf67ee3b46ace5828c",
+    "text": ") This IRM deﬁnes the security controls for the use of operating systems within the IRS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "472601d3bfbaaff99a646729498b3af1",
+    "text": ") Federal Information Processing Standards (FIPS)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "eeabd490caee9812fb42961b2ff97400",
+    "text": "mandates the use of NIST Special Publication (SP)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a755cac56f3f0e3df3f7e2b7ed20c442",
+    "text": "as an initial set of baseline security controls for the creation of agency IT security policy. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "4e51cda565d74a35cd9c8f07005f042d",
+    "text": ", Information Technology (IT) Security, General Platform Operating System Security Policy provides policy and guidance to be used by the IRS to carry out their representative responsibilities in information systems security regarding workstations and servers. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "5be379ca475acf6831bb469bde3dbf14",
+    "text": "is part of the Security, Privacy and Assurance policy family, IRM Part",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "8558b8ece46f262553584739b0dc4ecf",
+    "text": "series for IRS Information Technology Cybe",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ef07c0734806909dc7217c4a741d35a4",
+    "text": "ecurity. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "fa6ea5467bc25b50f48febf881f87147",
+    "text": ") This IRM applies to all IRS information and information systems, which include IRS production, development, test, and contractor systems. For information systems that store, process, or transmit classiﬁed information, refer to IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "78f581b3e35e1035d7e4b8476358c7a5",
+    "text": ", Classiﬁed National Security Information (NSI), for additional procedures for protecting classiﬁed information.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f3a976ba13367d6c814280455ffea8c7",
+    "text": "IRM 10.8.15 is part of the Security, Privacy and Assurance policy family, IRM Part 10 series for IRS Information Technology CyberSecurity.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "e5d8c5924acb43c643d2278941e85a81",
+    "text": "10.8 Information Technology (IT) Security",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "0410e1c1c07acb5e5a8c2b964cf291f4",
+    "text": "This IRM covers IRS workstations and servers utilizing Windows, Unix/Linux, Mac OS, and Virtualization Operating Systems.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "fc78b3b2fa1c0430fea6610b818719f2",
+    "text": "operating system. The IRS shall ensure that: a. The product (e.g., software, hardware) and version selected are in accor- dance with IRS Enterprise Architecture (EA) Enterprise Standards Proﬁle (ESP) that dictates the official products and versions within the IRS; and b. The application or system version is a version for which the vendor still offers standardized technical support. Security Requirement Checklists: a. Security requirements Checklists (if accompanying this IRM) serve as secure conﬁguration baseline and are developed in accordance with NIST SP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "61518ce5e4457baaf4ea9657ebe0ae7a",
+    "text": ", National Checklist Program for IT Products: Guidelines for Checklist Users and Developers. b. IRMs with accompanying checklists include a checklist with general security requirements (e.g., Defense information Systems Agency (DISA) Security Requirements Guide (SRG)), as well as checklists with platform or technology speciﬁc requirements (e.g., Security Implementation Guides (STIGs), Center for Internet Security (CIS) Benchmarks). In the event a platform or technology speciﬁc checklist is not available, the general security requirements checklist shall be used (e.g., Database (General), Operating System (General), Router (General)). c. Security Requirements Checklists shall be used in addition to the require- ments within the IRM body. This allows the IRS and Treasury deﬁned requirements contained within the IRM body to be captured in the secure conﬁguration baseline. d. In the event of a conﬂict between a checklist and the IRM body, the re- quirement(s) from the checklist shall be used. Note: The order of precedence only applies when there is a conﬂict between the IRM body and one of its accompanying checklists does not apply when there is a discrepancy with IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ee3aa87741b3821694bc82310c5fc88a",
+    "text": "e. Implementation of Security Requirement Checklists is required. (CM-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "af5c55d50ec9e87f26668d56af5afd27",
+    "text": ") f. Refer to the Requirements Checklists exhibit for additional guidance. In the event there is a discrepancy between this policy and IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "16f7dc3618324c0910105819ce3e637f",
+    "text": ", IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "a2bb959f9042de2eba844c795b427834",
+    "text": "has precedence, unless the security controls/requirements in this policy are more restrictive, or otherwise noted. This IRM establishes the minimum baseline security policy and requirements for all IRS IT assets in order to: a. Protect the critical infrastructure and assets of the IRS against attacks that exploit IRS assets. b. Prevent unauthorized access to IRS assets. c. Enable IRS IT computing environments that meet the security require- ments of this policy and support the business needs of the organization.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8df0e3a5294f48e449d1201a6269a522",
+    "text": "Protect the critical infrastructure and assets of the IRS against attacks that exploit IRS assets. Prevent unauthorized access to IRS assets. Enable IRS IT computing environments that meet the security require",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "6144f2ee76d137af1cb1d37db559a5a5",
+    "text": "ments of this policy and support the business needs of the organization.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "bb4a7cb2fc4d26e39fb5084c6aeda36a",
+    "text": "General Platform Operating System Security Policy 10.8.15 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "c43420d1476fe053c40d86050a3a16f6",
+    "text": ") It is acceptable to conﬁgure settings to be more restrictive than those deﬁned in this IRM. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "2ddda9619976fcd8f8d1328b20103164",
+    "text": ") To conﬁgure less restrictive controls requires a risk-based decision (RBD). Refer to the Risk Acceptance and Risk-Based Decisions section within this IRM for additional guidance. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4381c0718e34ba3bb28c4e3cdc0df602",
+    "text": ") All IRS information systems and applications shall be compliant with Executive Orders (E.O.s), OMB, Federal Information Security Modernization Act of (FISMA), NIST, Department of Homeland Security (DHS), Treasury, and IRS guidelines as they apply. Acceptance and Decisions (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8ad33551a7c973322a724da238fb37d1",
+    "text": ") Any exception to this policy requires that the Authorizing Official (AO) make Risk-Based Decision. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "216a0a0158e9bb60b9cc07a02181bccd",
+    "text": ") Users shall submit RBD requests in accordance with Cybersecurity’s Security Risk Management (SRM) Risk Acceptance Process within the Risk-Based Decision Standard Operating Procedures (SOP). Note: Users can access the RBD Application on the Enterprise FISMA Compliance Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "638f11ec631a51aa5df34d5eb3346bd6",
+    "text": "oint site via the Risk Acceptance Requests at: https://portal.ds.irsnet. gov/sites/Cybe",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "35c98962823793c7f26d727dc3c4857a",
+    "text": "RM/Sit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "ed7043f6e04bd21e988637a2e59b2266",
+    "text": "ages/Ris",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "2b9c15eb89efe0e0ad2c7b3279bf9224",
+    "text": "ase",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "714a2ae9d1c86efb373b5f6cde33b06d",
+    "text": "ecision.aspx (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3d5cd143153d4cd10c0af30d69a5a0b1",
+    "text": ") Refer to IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1b3f8a11d99782697d6ff3f78303bdf5",
+    "text": "for additional guidance about risk acceptance. and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "768831089e8e564b309b9a0b2f3173fa",
+    "text": ", Information Technology (IT) Security, IT Security Roles and Re- sponsibilities, deﬁnes IRS-wide roles and responsibilities related to IRS information and computer security, and is the authoritative source for such formation.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3172999e70177250389c199d8a31d904",
+    "text": "It is acceptable to conﬁgure settings to be more restrictive than those deﬁned",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3d5cd143153d4cd10c0af30d69a5a0b1",
+    "text": ") Refer to IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "6192d3e88053a6377ade790193390f60",
+    "text": "for additional guidance about risk acceptance. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4cdc3045658c40354f705e38815339ba",
+    "text": ", Information Technology (IT) Security, IT Security Roles and Re- sponsibilities, deﬁnes IRS-wide roles and responsibilities related to IRS information and computer security, and is the authoritative source for such in- formation.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "bb4a7cb2fc4d26e39fb5084c6aeda36a",
+    "text": "General Platform Operating System Security Policy 10.8.15 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "bb4a7cb2fc4d26e39fb5084c6aeda36a",
+    "text": "General Platform Operating System Security Policy 10.8.15 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "bb4a7cb2fc4d26e39fb5084c6aeda36a",
+    "text": "General Platform Operating System Security Policy 10.8.15 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "34b52c2d188368ae5e2733c579a15c86",
+    "text": "General Platform Operating System Security Policy 10.8.15 page 11",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "bb2e98446d31316c108d619cf012cb87",
+    "text": "General Platform Operating System Security Policy 10.8.15 page 13",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "37cd2bc781a2dbb38de7dd5c17a65853",
+    "text": "General Platform Operating System Security Policy 10.8.15 page 15",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "f264c403b8da4646061e0bf8d4367313",
+    "text": "General Platform Operating System Security Policy 10.8.15 page 17",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "9041c21ce88df4f6ca972c818ef2c583",
+    "text": "General Platform Operating System Security Policy 10.8.15 page 19",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "c50025ef918c38bae9b528c213be8cfa",
+    "text": "General Platform Operating System Security Policy 10.8.15 page 21",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "e5d8c5924acb43c643d2278941e85a81",
+    "text": "10.8 Information Technology (IT) Security",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "33c1e29902d678cbcff13d561dbfd825",
+    "text": "This Page Intentionally Left Blank",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "b5c650e3f544915d9c03a79fb5ec0da8",
+    "text": "General Platform Operating System Security Policy 10.8.15 page 23",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "eacb870309c1c8838ce4ac6136259ce2",
+    "text": "Access Control - Process of granting access to information system resources only to authorized users, programs, processes, or other systems.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "e95f493004961293172712b03a3d3e31",
+    "text": "Active Directory (AD) - A directory service implemented by Microsoft for Windows domain networks. It is included in most Windows Server operating systems and runs as a Windows service. An AD domain controller authenticates and authorizes all users and computers in a Windows domain type network-assigning and enforcing security policies for all computers and installing or updating software.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "a4d011b21039cccd1fe78aee01d83f80",
+    "text": "Assessment, Authorization, and Monitoring – ( Formerly known as Security Assessment & Authorization (SA&A)) – Assessment, Authorization, and Monitoring (AA&M) is a testing and evaluation process with a resulting authorization based on the NIST Special Publication 800-series; speciﬁcally, SP 800-37 and SP 800- 53. The new AA&M process and terminology replaces the Security Assessment & Authorization process, which were based on earlier NIST SP 800 guidance.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "205b81d4a2b79e99e163f50b4ca80c5e",
+    "text": "Authorizing Official (AO) - Official with the authority to formally assume responsibility for operating an informa- tion system at an acceptable level of risk to agency operations (including mission, functions, image, or reputation), agency assets, or individuals. Accountable for the security risks associated with information system operations. Previously known as the Designated Approving Authority.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "ded56aa68774380f44b5c3e5f82f06fa",
+    "text": "Authentication - Security measure designed to establish the validity of a transmission, message, or originator, or a means of verifying an individual’s identity.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "90df11a55d83d46aa5a8d8b4dc5458ac",
+    "text": "BEARS – Business Entitlement Access Request System",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "0e2ff81938518c2aac8eff7733915a75",
+    "text": "Center for Internet Security (CIS) - A 501c3 nonproﬁt organization focused on enhancing the cybersecurity readiness and response of public and private sector entities, with a commitment to excellence through collabo- ration. CIS provides resources that help partners achieve security goals through expert guidance and cost- effective solutions.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "846c8458ab5f2c6c27a9a254c46fbc86",
+    "text": "Certiﬁcation - A comprehensive assessment of the management, operational, and technical security controls in an information system, made in support of the security authorization process, to determine the extent to which the controls are implemented correctly, operating as intended, and producing the desired outcome with respect to meeting the security requirements for the system. Security control assessment is included within the certiﬁca- tion process.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "89c295a16c1f9e5f47fd51f409d7b975",
+    "text": "Conﬁguration Management (CM) - A systems engineering process for establishing and maintaining consis- tency of a product’s performance, functional and physical attributes with its requirements, design and operational information throughout its life.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "1a3d4aa7d6d75dba5db02c385285f3c4",
+    "text": "Contingency Planning (CP) - A plan designed to take a possible future event or circumstance into account.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "428624541a7db7595334ad4238324037",
+    "text": "CPU – Central Processing Unit",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "6e0570f3f0017074271940de9f978b4d",
+    "text": "General Platform Operating System Security Policy 10.8.15 page 25",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "ea7acb49069f29011a6ca365522d60c2",
+    "text": "Exhibit 10.8.15-2 (Cont. 1) (12-16-2021) Glossary and Acronyms",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "5e79119f42ea77748e07e2ea744ac38a",
+    "text": "Defense Information Systems Agency (DISA) - A U.S. combat support agency that connects the U.S. military and government though IT and communications support. Originally known as the Defense Communications Agency (DCA).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "b8bf9b80a4226e1a630b5bc16e0e932f",
+    "text": "Denial of Service (DoS) – A cyber-attack where the perpetrator seeks to make a machine or network resource unavailable to its intended users by temporarily or indeﬁnitely disrupting services of a host connected to the Internet. Denial of service is typically accomplished by ﬂooding the targeted machine or resource with superﬂu- ous requests in an attempt to overload systems and prevent some or all legitimate requests from being fulﬁlled.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "20bfa0c5ce8baca1e9377b4d870fe53f",
+    "text": "Department of Defense (DoD) - The executive department of the government of the United States charged with coordinating and supervising all agencies and functions of the government concerned directly with national security and the United States Armed Forces.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "bc5a654834bd79728889e5f64e747612",
+    "text": "Department of Homeland Security (DHS) - A cabinet department of the United States federal government, with the primary responsibilities of protecting the United States and its territories (including protectorates) from and responding to terrorist attacks, man-made accidents, and natural disasters.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "f9a99e58e9abea43d6d397a8cf4a9ee0",
+    "text": "Dual Authorization – In the absence of an automatic process, a rule that require the approval of two, (dual) authorized individuals to execute a task.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "883c45f67856f3496ac72760dda4467f",
+    "text": "Fire Call Account – Local site accounts for emergency or special issues used by Enterprise Operations (EOPs) or other approved organizations.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "4ab29afd9fd4d20da7a07c8ec67ba112",
+    "text": "FISMA – Federal Information Security Management Act",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "7ded50dc21d1eb2008795ec82772628a",
+    "text": "Host – Any computer that has full two-way access to other computers on the Internet.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "6e62ebec31d9589748eff62ecf1e68ac",
+    "text": "Host Server – The physical machine that uses a hypervisor to manage the virtual machine(s).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "05e962841b3ec2c0d6386a9b2407cccb",
+    "text": "HTTP - Hypertext Transfer Protocol",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "4591e88b7ccebcd6efa5f20cc9374b9c",
+    "text": "Hypervisor – The virtualization component that manages the guest OS on a host and controls the ﬂow of in- structions between the guest OS and the physical hardware. Also described as software that allows a single host to run one or more guest operating systems. The hypervisor is basically a high-speed scheduler that issues out the physical resources such as CPU, disk space and RAM to the guest operating systems, (virtual machines). Can be referred to as a virtual machine manager.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "b5b1b9bdfe04091dd4540dcb510e5ea5",
+    "text": "Exhibit 10.8.15-2 (Cont. 2) (12-16-2021) Glossary and Acronyms",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "ff546d7cde5a2eef6de6be73565ed535",
+    "text": "Information System Contingency Plan (ISCP) - Established procedures created and maintained by IRS Infor- mation Technology organization and system owners for the assessment and recovery of a system following a system disruption. The ISCP provides key information needed for system recovery, including roles and responsi- bilities, inventory information, assessment procedures, detailed recovery procedures, and testing of a system.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "d8ed1a52c067c4c68817ef4c5822a758",
+    "text": "Information System Contingency Plan (ISCP) - Established procedures created and maintained by IRS Infor- mation Technology organization and system owners for the assessment and recovery of a system following a system disruption. The ISCP provides key information needed for system recovery, including roles and responsi- bilities, inventory information, assessment procedures, detailed recovery procedures, and testing of a system. The ISCP differs from DR plan primarily in that the information system contingency plan procedures are developed for recovery of the system regardless of site or location. An ISCP can be activated at the system’s current location or at an alternate site. In contrast, a DR plan is primarily a site-speciﬁc plan developed with cedures to move operations of one or more information systems from a damaged or uninhabitable location to temporary alternate location. Once the DR plan has successfully transferred an information system site would then use its respective ISCO to restore, recover, and test systems, and put them in operation.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "2fc9c948dc9da058df2deba6d40affcb",
+    "text": "Information Technology (IT) – IT is deﬁned as any service or equipment or the personnel that support any part of the lifecycle of those services or equipment, or interconnected system(s) or subsystem(s) of equipment, that are used in the automatic acquisition, storage, analysis, evaluation, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the agency.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "99d6a699023acaa60ec66973288a67f6",
+    "text": "For purposes of this deﬁnition, equipment is used by an agency if the equipment is used by the agency directly or issued by a contractor under a contract with the agency that require – a. Its use; or b. To a signiﬁcant extent, its use in the performance of a service or the furnishing of a product",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "e737020e12f82b8925ab6ee293abd30c",
+    "text": "The term “ information technology ” includes computers, ancillary equipment (including imaging periph- erals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer, software, ﬁrmware and similar procedures, services (including support services and cloud computing), and related resources.a.Isacquired by a contractor incidental to a contract, or b. Contains imbedded information technology that is used as an integral part of the product, but the principal function of which is not the acquisition, storage, analysis, evaluation, manipulation, manage- ment, movement, control, display, switching, interchange, transmission, or reception of data or information. For example, HVAC (heating, ventilation, and air conditioning) equipment, such as elec- tronic thermostats or temperature control devices, and medical equipment where information technology is integral to its operation, is not information technology.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "e1b994678e1075d37ea6259553d9a26e",
+    "text": "b. Contains imbedded information technology that is used as an integral part of the product, but the principal function of which is not the acquisition, storage, analysis, evaluation, manipulation, manage- ment, movement, control, display, switching, interchange, transmission, or reception of data or information. For example, HVAC (heating, ventilation, and air conditioning) equipment, such as elec- tronic thermostats or temperature control devices, and medical equipment where information technology is integral to its operation, is not information technology.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "045f93585c9573bf89a98542f84617e5",
+    "text": "Information Technology Contingency Plan (ITCP) - Support plans designed to ensure continuity of general support systems and major systems following a disruption.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "d406d6cd88e04010818377e8a03e19e4",
+    "text": "Internet Protocol (IP) -The principal communications protocol in the Internet protocol suite for relaying datagrams across network boundaries.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "898c6c498de92ce779a19637d1c52fdb",
+    "text": "Internet Protocol Security (IPSec) - A protocol suite for securing Internet Protocol communications by authen- ticating and encrypting each IP packet of a communication session.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "b08a42251e9bee2b208be2d874339946",
+    "text": "IRM – Internal Revenue Manual",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "635b19a4dd392ff17aff5188bed0bd95",
+    "text": "ISSO – Information System Security Officer",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "30be5a2e573706be54764eaec9c2faf3",
+    "text": "LAN - Local Area Network",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "4dadb48038cdaa1b5478a1467bcbc50c",
+    "text": "General Platform Operating System Security Policy 10.8.15 page 27",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "fc0a800e03002f11fdf4f6ae873fab06",
+    "text": "NIST – National Institute of Standards and NSA – National Security Agency O OMB – Office of Management and Budget OS – Operating System P PDS – Protected Distribution System",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "5d48bbc5d7e88b776d8a08fec73a22e9",
+    "text": "NIST – National Institute of Standards and Technology",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "2090c48f9f0298dceca2dd749cb61f3a",
+    "text": "Permissions – The access controls of a ﬁle or directory in the form of read, write, and execute for each of the three groups; ﬁle owner, same group member, and everyone else.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "2a5900d5a25744dfe1b99651c43f7947",
+    "text": "Risk Based Decision (RBD) – Decision made by individuals responsible for ensuring security by utilizing a wide variety of information, analysis, assessment, and processes. The type of information taken into account when making a risk-based decision may change based on life cycle phase and decision is made taking entire posture of the system into account. Some examples of information taken into account are formal and informal risk assessments, risk analysis, assessments, recommended risk mitigation strategies, and business impact. (This list is not intended to be all inclusive.)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "f43f36d7656da325454c9aacc117f62b",
+    "text": "Security Risk Management (SRM) - The management of security risks applies the principles of risk manage- ment to the management of security threats. It consists of identifying threats (or risk causes), assessing the effectiveness of existing controls to face those threats, determining the risks’ consequence(s), prioritizing the risks by rating the likelihood and impact, classifying the type of risk, and selecting an appropriate risk option or risk response.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "e1302ca9ce74396a4124234ac4858b07",
+    "text": "Security Technical Implementation Guide (STIG) - A methodology for standardized secure installation and maintenance of computer software and hardware. The term was coined by DISA which creates conﬁguration documents in support of the United States Department of Defense (DoD). The implementation guidelines include recommended administrative processes and span the devices’ lifecycle.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "bb48bc804e529a196142994ff4414372",
+    "text": "Sensitive But Unclassiﬁed (SBU) Information - Any information that requires protection due to the risk and magnitude of loss or harm to the IRS or the privacy to which individuals are entitled under 5 U.S.C. § 552a (the Privacy Act), which could result from inadvertent or deliberate disclosure, alteration, or destruction.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "d2b5a4eef4a314e8ead79cb856e3ce28",
+    "text": "SRG – Security Requirements Guide",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "c5391858ae068843c8619efb471c097b",
+    "text": "Standard Operating Procedure (SOP) – A set of step-by-step instructions compiled by an organization to help workers carry out routine operations. SOPs aim to achieve efficiency, quality output and uniformity of perfor- mance, while reducing miscommunication and failure to comply with industry regulations.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "979b8a5967762cc901c7264c0576f9eb",
+    "text": "Exhibit 10.8.15-2 (Cont. 4) (12-16-2021) Glossary and Acronyms",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "033eef3bca3fd834f4bafda37def83b9",
+    "text": "STIG – Security Technical Implementation Guide. A cybersecurity methodology for standardizing security protocols within networks, servers, computers, and logical designs to enhance overall security.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "39d116c5d3b127833fa80adb67d98a31",
+    "text": "System Administrator (SA) – A person who manages the technical aspects of a system. Refer to IRM 10.8.2, Information Technology (IT) Security, Roles and Responsibilities , for details.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "920e8622917b0c06c0d17084e1b2259e",
+    "text": "Treasury Directive (TD) - Documents signed by the appropriate senior Treasury officials that: may further delegate authority from the most senior officials to other Treasury officials; and provide processes for imple- menting legal obligations and Departmental policy objectives.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "03113c550b67e5dd4a555d3969ce940b",
+    "text": "UTC – Universal Time Coordinate V",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "db2884a929ad06c30c8ac69472bcaa46",
+    "text": "Virtualization – The simulation of the software and/or hardware upon which other software runs by creating an abstracted layer from the actual hardware creating a unique instance of a physical system, but running indepen- dently in software or “virtual” state.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "f750c64ac9b2f5c0ac39ed6a5b828a73",
+    "text": "General Platform Operating System Security Policy 10.8.15 page 29",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm10-008-015--2021-12-16.pdf",
+      "page_number": 35
+    }
+  }
+]

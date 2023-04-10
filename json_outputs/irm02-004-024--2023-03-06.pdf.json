@@ -1,0 +1,4187 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "9eff8797577b312d5393a3a9b772dba7",
+    "text": "This transmits revised IRM 2.4.24, IDRS Terminal Input, Command Codes FMADD, URADD, ESAPL, FMREF, URREF, FMAPL, URAPL, UROUT and URENT.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "f5ab75c501270fc58e1df95fbc57a7af",
+    "text": "2.4.24.1 Updated the required Internal Controls Section.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "2544c84fdffd00cd388d6adc4b67b324",
+    "text": "IRM 2.4.24, dated August 10, 2021, is superseded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1e04ac4271e26a0d03a06b174aeb7b1f",
+    "text": "LMSB, SB/SE, TE/GE, W&I.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "b01535085b830a839f5a846fffdc992e",
+    "text": "Program Scope and Objectives",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "d9f66dd6a7ebb82c0193bd0a77a65a03",
+    "text": "2.4.24-1 2.4.24-2 2.4.24-3 2.4.24-4 2.4.24-5 2.4.24-6 2.4.24-7 2.4.24-8 2.4.24-9 2.4.24-10 2.4.24-11 2.4.24-12 2.4.24-13 2.4.24-14",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "f66a70e57fea465e8f48aa16f905c6f1",
+    "text": "UR AMT CHG Realtime Input—“Z” Apply: Correction of Erroneous Money Amount",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f0d3d280f8e3351b3b4e0c0decd44a70",
+    "text": ") This IRM section provides the instructions for the use of Unidentiﬁed Remit- tance System (URF) command codes FMADD, URADD, FMREF, URREF, FMAPL, URAPL, UROUT and URENT (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "015566cd69efc57bd90513aabfb631bc",
+    "text": ") Purpose These sections provides instructions for inputting information to the URF database (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b1718bddf0a8e38a979e90d2e826be79",
+    "text": ") Audience All IRS business areas. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8b0d94b1469fd041b95ab1e07a2a67e7",
+    "text": ") Policy Owner Chief Information Officer (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "afb5140849680134b1741121d764997d",
+    "text": ") Program Owner IDRS (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "dd3a40ddec55d3a7fbba4d2db20005f8",
+    "text": ") Primary Stakeholders Wage & Investment (W&I), Large Business and Inter- national (LB&I), Small Business Self-Employed (SB/SE), Tax Exempt and Government Entities (TE/GE), and Enterprise Operations (EOPS). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "43824f836b25787de5e0f975d768de0f",
+    "text": ") Program Goals This system manages data that was extracted from the Corporate Account Data Stores (BMF and IMF) allowing IRS employees to take speciﬁc actions on taxpayer account issues. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e6584c9b788e1e9dbd63db5e3206d608",
+    "text": ") The Unidentiﬁed Remittance File (URF) contains remittances which are received and cannot be positively identiﬁed. Command Codes FMADD, URADD, FMREF, URREF, FMAPL, URAPL, UROUT and URENT are used update records from the Dishonored Check File. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1bf5813367e400920a681ee85c429138",
+    "text": ") The Director, Business Support, is the director responsible for the servicewide civil penalty program. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32bccd285f72365a4d17774904f37078",
+    "text": ") The Director, Internal Management, is the director responsible for the IDRS Command Code. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "7c3f3a95834c6acd4db31e18707b887b",
+    "text": ") Overall responsibility for civil penalty programs is assigned to OSP. OSP is matrix organization residing in the Business Support (Small Business/Self Employed) Function. OSP is charged with coordinating policy and procedures concerning the civil penalty program administration, ensuring consistency the penalty policy statement, reviewing and analyzing penalty information, searching penalty effectiveness on compliance trends, and determining appropriate action necessary to promote voluntary compliance. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "377bf29d19e649ce043f07862f44affd",
+    "text": ") Each and every taxpayer has a set of fundamental rights when dealing with IRS as provided in the Taxpayer Bill of Rights (TBOR). All employees handling penalty cases must do so in accordance with the TBOR as listed in IRC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a9eed9583ff65d80e3293d6ad2dada94",
+    "text": "(a)(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b41d4d8f900a83664e96619ee79d66fc",
+    "text": ") . The TBOR can also be found at Taxpayer Bill of Rights on irs.gov (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "27e8760c64c557660e66023680fb1e57",
+    "text": ") Every function in the IRS has a role in proper penalty administration. It is essential that each function conduct its operations with an emphasis on promoting voluntary compliance. Appropriate business reviews should be conducted to ensure consistency with the penalty policy statement ( Policy Statement",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "52af072911fb1161f7562b741a3e65c2",
+    "text": ") and philosophy. Attention should be directed to penalty program coordination between offices and functions to make sure that ap- proaches are consistent and penalty information is used for identifying and responding to compliance problems. Codes FMADD, URADD, ESAPL, FMREF, URREF, UROUT and URENT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ef51e648dfc814b76990088c13114222",
+    "text": "page (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "367ed250f8b2f866d379d83abb59c79a",
+    "text": "Command Codes FMADD, URADD, ESAPL, FMREF, URREF, FMAPL, URAPL, UROUT and URENT 2.4.24 page 1",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6bb8b91bf2b38a8d779a0887da9fcbcb",
+    "text": "Every function in the IRS has a role in proper penalty administration. It is essential that each function conduct its operations with an emphasis on promoting voluntary compliance. Appropriate business reviews should be conducted to ensure consistency with the penalty policy statement ( Policy Statement",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "25ef5bdd17dcb7ce9a6133211b2fab7d",
+    "text": ") and philosophy. Attention should be directed to penalty program coordination between offices and functions to make sure that ap- proaches are consistent and penalty information is used for identifying and responding to compliance problems.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "184a01296acd5fc949c8403e1d092bd2",
+    "text": "Controls (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "734d819bc53902e5fb7e656c323c5517",
+    "text": ") SACS controls all the IDRS user accesses and permissions. Unidentiﬁed System (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "826a672fa479e8da7cf586aa11a30142",
+    "text": ") This ﬁle contains all IMF, BMF, and NMF remittances which are received and cannot be positively identiﬁed. Each record within the ﬁle contains the UR Control Number, amount, type of payment, status code,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3e6716567dcc5bfb2669919f360e4b38",
+    "text": "(CG) notice indicator,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9355a03855bed369a94b7b941935c836",
+    "text": "(SP) Spanish notice indicator, name, address, SSN/EIN (if known) and all available payment and follow-up information. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "756e2da2fe533f5d11a0c7fa380d488d",
+    "text": ") It also contains, for information purposes only, a record of all doubtfully applied ES credits (TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "b2a9b24455b91799a3b7526e8b6c19c3",
+    "text": "). Each ES record will contain the taxpayer’s name, address, type of payment, SSN/EIN, tax period, received date, money amount, TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "96a0458d0550faf792172718f22c1141",
+    "text": ", and the transaction DLN. The status code is ESAP. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c9b3aa0f5760c62241c2d14b5ca6a0c1",
+    "text": ") The URF is maintained in IDRS with the use of several command codes (CC). Adding to or applying from the ﬁle requires two command codes. FMADD/ FMAPL generates a format to be used in making these changes. CC URADD adds a record and, if requested, generates a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "fdea521f01f5b24de58c4a4987864908",
+    "text": "(CG) notice or a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f37a2718a2ec2901cb5bca57dfed25c5",
+    "text": "(SP) Spanish notice. CC URAPL/UROUT subtracts or changes a record. CC ESAPL enters an information record only. History of the UR record and status changes are recorded with all command codes. CC URENT can do one or more of the following: change record status, add follow-up information to a record, correct erroneous names and addresses, change received date, add or change employee number, change document locator numbers, add or change trace-id, add or change SSNs and/or generate a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "fdea521f01f5b24de58c4a4987864908",
+    "text": "(CG) notice or a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "2b3a6866a50e9200c032880de6df7636",
+    "text": "(SP) Spanish notice. If a notice was previously generated (by CC URADD or URENT), an information message so indicating will be printed on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a42872e48d7eac1335e085f8899f04d9",
+    "text": "of the screen. Erroneous records or amounts can be corrected or removed with CC UROUT. Refund applications are made with CC URREF. FMREF generates the format to be used in the URF Refund application command code. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1937e0dfebcfd13eb92b4198797d3da5",
+    "text": ") Research of the URF is done with CC URINQ, and can be researched in three different ways: by amount of remittance, name control, or DLN. If the DLN is not known, adding the Area Office to one of the other data elements will narrow the search down from region wide to that area. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "bd193ce84dc35509fda41ebd9f01e0f9",
+    "text": ", Command Code URINQ. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "816f5ff85b6bd3c96509db4ab494c7b7",
+    "text": ") Application of UR credits may be made from speciﬁed terminals in the campuses and area office by persons designated to make applications of Un- identiﬁed Remittances. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "84b97a69b9deeed077f82ae9b0005e2f",
+    "text": ") URF applications to IMF, BMF, and NMF will be numbered daily via the IDRS computer’s blocking and numbering run. When application of a UR credit is made by an employee outside of the UR function, supporting evidence must be forwarded to the UR function. Each piece of documentation must be clearly marked with the following data from the UR record: UR Control Number, UR Name and UR Original Amount. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "23ea0482d57ccfc279cda3368d4aebd5",
+    "text": ") The following chart indicates the size of a record as it pertains to each action taken on the URF. Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6e28aec2c7192871c23e262ed264d79a",
+    "text": "V (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "fd66a0e68cb2eb47cac0a1e1df432efe",
+    "text": "SACS controls all the IDRS user accesses and permissions.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ff49ca229b0a9dd17d441721ebcec1c9",
+    "text": "Adding to or applying from the ﬁle requires two command codes. FMADD/ FMAPL generates a format to be used in making these changes. CC URADD adds a record and, if requested, generates a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "fdea521f01f5b24de58c4a4987864908",
+    "text": "(CG) notice or a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f37a2718a2ec2901cb5bca57dfed25c5",
+    "text": "(SP) Spanish notice. CC URAPL/UROUT subtracts or changes a record. CC ESAPL enters an information record only. History of the UR record and status changes are recorded with all command codes. CC URENT can do one or more of the following: change record status, add follow-up information to a record, correct erroneous names and addresses, change received date, add or change employee number, change document locator numbers, add or change trace-id, add or change SSNs and/or generate a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "fdea521f01f5b24de58c4a4987864908",
+    "text": "(CG) notice or a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "2b3a6866a50e9200c032880de6df7636",
+    "text": "(SP) Spanish notice. If a notice was previously generated (by CC URADD or URENT), an information message so indicating will be printed on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "76858061934855d3e1da861c60cdeb7e",
+    "text": "of screen. Erroneous records or amounts can be corrected or removed with CC UROUT. Refund applications are made with CC URREF. FMREF generates the format to be used in the URF Refund application command code. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ec1938e176deb36e9233d9786ffec7c1",
+    "text": ") Research of the URF is done with CC URINQ, and can be researched in different ways: by amount of remittance, name control, or DLN. If the DLN is not known, adding the Area Office to one of the other data elements will narrow the search down from region wide to that area. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "bd193ce84dc35509fda41ebd9f01e0f9",
+    "text": ", Command Code URINQ. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "816f5ff85b6bd3c96509db4ab494c7b7",
+    "text": ") Application of UR credits may be made from speciﬁed terminals in the campuses and area office by persons designated to make applications of Un- identiﬁed Remittances. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "84b97a69b9deeed077f82ae9b0005e2f",
+    "text": ") URF applications to IMF, BMF, and NMF will be numbered daily via the IDRS computer’s blocking and numbering run. When application of a UR credit is made by an employee outside of the UR function, supporting evidence must be forwarded to the UR function. Each piece of documentation must be clearly marked with the following data from the UR record: UR Control Number, UR Name and UR Original Amount. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d27a9a00dcfde5753dd64db7ffac7c2d",
+    "text": ") The following chart indicates the size of a record as it pertains to each action taken on the URF.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a49e9f29f489773cb9f6ec7071367de9",
+    "text": "Command Codes FMADD, URADD, ESAPL, FMREF, URREF, FMAPL, URAPL, UROUT and URENT 2.4.24 page 3",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "6ba5fc79624b546587cbaddf75947737",
+    "text": "UR SECTION COMMANDCODE LENGTH REQUIRED/OPTIONAL Base Portion URADD 250 ﬁxed Required IMF or BMF URAPL “M” 71 Optional(Primary Amt Only) Apply 85 (Primary & Secondary Amt) 99 Primary & Secondary & Tertiary Amt) NMF-Apply URAPL “N” 114 Optional Transfer URAPL “T” 67 Optional DishonoredCheck UROUT “D” 32 Optional Void UROUT “V” 67 Optional AmountChange UROUT “Z” 78 Optional Manual Refund URREF 182 Optional Name Change URENT 52 Optional Follow Up URENT 52 Optional Generate Letter URENT 17 Optional Status-CdChange URENT 21 Optional AddressChange URENT 51 Optional Recvd-DtChange URENT 21 Optional Employee-NumChange URENT 17 Optional FMADD, URADD, ESAPL, FMREF, URREF, UROUT and URENT 2.4.24",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "35ac0fdee62d1268254870f13e183c94",
+    "text": "If application (M, N, or T) closes the Remittance, an additional",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f34d27bd5f3cbcebc2ed739fcebf8b0b",
+    "text": "charac- ters are used; if the Remittance is closed to Excess Collections, a history section of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "02dd803433b8c340a97ba52b00d67426",
+    "text": "characters is also added to the record. CC’s URAPL and UROUT cannot be input to the URF if the name on the UR record is UNKN (UNKNOWN), the name must be changed with CC URENT.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "cea6264cc96979a633cb85345d1cb61e",
+    "text": "ACCOUNTING CONTROL: The CC’s URADD and ESAPL have as part of their function a running sub-total of items and monies being entered.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "34ea946a1e7bd487c746ce304b54c180",
+    "text": "Before entering records into the UR ﬁle, the operator should have pre- determined the total number of items and money amounts involved.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "6a25e51de0c3b1e1bfe3386a79e4a581",
+    "text": "Then, after the operator has completed the adding to, the operator should compare the total item count and money involved appearing on the screen (line one) with the pre-determined totals to see if they are the same. When the totals are not the same, the operator must recall each record previously entered, to determine which UR record is in error, using CC URINQ. When a record is determined to be in error, corrections to the money amount may be made using CC UROUT-“Z”. b. ESAPL records are not considered to be included in the actual account- ing and journal functions. Therefore, money amount changes are not allowed. Should the record need changes, the entire record would have to be voided and re-entered at a later period, using CC UROUT- “ V”. Information items may be added via CC URENT. Since the record is a research tool, all information therein should be as accurate as possible. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "6d91ed796d930ac452c6dc978fe93313",
+    "text": ") CC’s URADD, ESAPL, URAPL, UROUT, and URREF displays are in an overlay format. The end of line symbol may be used to blank out unnecessary data and skip down to the next line to facilitate input. For ease of input, the ﬁrst",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "241a1911392016324da44229af7260fe",
+    "text": "digits and year digit of the UR Control Number, the ﬁrst",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "001ca100ea12b788eda19b224c05bf83",
+    "text": "digits of the TRACE-ID, and Source Code “UR” will be returned after each “Request Completed” for URADD. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ba3829e708cae8350b00b10dcd481350",
+    "text": ") VALID URAPL “M” TRANSACTIONS— See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "a289ba852fb9ac0457495e8494f6752b",
+    "text": "represents the valid transactions in table form that may be input with URAPL “ M” type applies from the URF to Master File. These transactions are shown for the correspond- ing ﬁle—IMFand BMF. On Master Files applies done in the ﬁeld offices by RTO’s (Terminal Operators), the employee number of the examiner or officer requesting the apply is to be included to aid in subsequent error resolutions and also yield an audit trail for payment tracing. See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "416d5bb116dda843e229650ee5ccb103",
+    "text": ") The UR function must perform a post-quality review. The use of the URF appli- cation for IMF/BMF-controls entitled “ Completed URAPL M’s” will aid the reviewer. This control list will also provide a check to insure all source documents are received. Should a source document(s) be missing annotate the UR record with CC URENT. The UR supervisor will initiate the appropriate action to locate the missing source document(s). If necessary, contact should also be made with the IDRS Campus Security Officer. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8268f32821d74c1779538c95a5e12c39",
+    "text": ") Use this command code to request CC URADD format. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "9b153d98a4e720dbfef06db4f541df90",
+    "text": ") See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "0a19614b803c049c3ee2ccfc37ce48ec",
+    "text": "for input display. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "9b153d98a4e720dbfef06db4f541df90",
+    "text": ") See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "28a9ec38cd5f1dc952798b84f27d1c53",
+    "text": "for Terminal Response: Valid Response—CC URADD",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "30e7080d6a5f35b84b011b859b41a8f8",
+    "text": "Then, after the operator has completed the adding to, the operator should compare the total item count and money involved appearing on the screen (line one) with the pre",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "b314c404c17d549f9483f30ee33d4d3a",
+    "text": "determined totals to see if they are the same. When the totals are not the same, the operator must recall each record previously entered, to determine which UR record is in error, using CC URINQ. When a record is determined to be in error, corrections to the money amount may be made using CC UROUT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "bea65213588947fa942f2a99e303cd33",
+    "text": "“Z”. ESAPL records are not considered to be included in the actual account",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "a014246901b984b07af6ce64ed0c2044",
+    "text": "ing and journal functions. Therefore, money amount changes are not allowed. Should the record need changes, the entire record would have to be voided and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "7c57c3f0c36aead43a1f7c3735b9e457",
+    "text": "entered at a later period, using CC UROUT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "96bc72f6eada63dd0982e9ebbf393567",
+    "text": "“ V”. Information items may be added via CC URENT. Since the record is a research tool, all information therein should be as accurate as possible.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e7bf4fea55cc1198c46218b4881a3e24",
+    "text": "Use this command code to establish a record of an unidentiﬁed remittance in",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8e0fb64f2e9889a1c6278ad2a133ac4c",
+    "text": "Command Codes FMADD, URADD, ESAPL, FMREF, URREF, FMAPL, URAPL, UROUT and URENT 2.4.24 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "69b88baf1f72e138daf36c04c3044f1b",
+    "text": "Format is generated by FMAPL and will be redisplayed after each entry.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "63d0129caddad0bd5b9d39ec389d889c",
+    "text": ") Use this command code to do one or more of the following: a. to change the status of an UR record from OPEN to IDEN or IDEN to OPEN. b. to record a narrative of follow-up actions. c. to generate a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "fdea521f01f5b24de58c4a4987864908",
+    "text": "(CG) notice or a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "670affc79fc7c0e3a6d5b392329522ff",
+    "text": "(SP) Spanish notice to the taxpayer. d. to change the received date of the record. e. to add or change the employee number. f. to add or change a SSN/EIN. g. to add or change TRACE-ID. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9b153d98a4e720dbfef06db4f541df90",
+    "text": ") See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0a19614b803c049c3ee2ccfc37ce48ec",
+    "text": "for input display. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "6c09cbee69d002e47509e5ec204013d7",
+    "text": ") Error Message: “AMOUNT FIELD INVALID” a. Error Conditions: The amount ﬁeld is not formatted correctly, or The PRIMARY-TRANS-AMT in UROUT “Z” is equal to the ORIGINAL- AMT the UR record, or The ORIGINAL-AMT and UR-BALANCE-AMT within the record are not identical. b. Solution: Correct and re-enter, or PRIMARY-TRANS-AMT must be different, or Review/Apply info-use VOID. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d75462581e94e6bb0a775fa8e0c88e11",
+    "text": ") Error Message:“APPLICATION AMOUNT EXCEEDS BALANCE” a. Error Condition: An attempt has been made to apply more money out of a UR record than is available for application. b. Solution: Determine the apply amount available and re-enter application. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "2730a165602fb2f466f110c26fe149d8",
+    "text": ") Error Message: “AO/SC INVALID FOR THIS CENTER” a. Error Condition: The AO-CD or SC-CD is not within this Service Center. b. Solution: Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "726d14873e40e70c2b016e0f536f4c37",
+    "text": ") Error Message: “DUPLICATE UR CONTROL NO-ADD DENIED” a. Error Condition: Another exact UR-CTRL-NUM is present on the existing UR File. b. Solutions: Determine reason for duplicate number and Reassign a different UR-CTRL-NUM and re-enter; or VOID original (existing) record it is in error and Re-enter subsequent (correct) UR-CTRL-NUM after voided one has been dropped from the ﬁle. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "ba597af85fb390b7ee853bfc29518b94",
+    "text": ") Error Message: “NAME LINE INVALID ”. a. Error Condition: NAME-LINE-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "5006382ed048ee4d44e0dadce673af8f",
+    "text": "is missing. NAME-LINE-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "2811f6e8781702c8c6c86aa377fb62c7",
+    "text": "does not begin in the ﬁrst position. First position is not alpha-numeric. b. Solution: Enter NAME-LINE-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "ce87cc2fcfb8d277c8230007ab2db885",
+    "text": "beginning in the ﬁrst position. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3ef23527bc17d7382e12cf897fd3f050",
+    "text": ") Error Message: “NARRATIVE MISSING OR INVALID” a. Error Condition: The RE-MARKS ﬁeld is all blank. The ﬁrst position is blank. The RE-MARKS ﬁeld exceeds",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "c78de3b2323dbd2691f2253286a5adb5",
+    "text": "positions. b. Solution: Begin your RE-MARKS in the ﬁrst position and keep them within the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "1a03e68533e140da20c301651fd38d79",
+    "text": "positions. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "b61da866e32f89c1667992256f17e5d1",
+    "text": ") Error Message: “nn ERRORS-CORRECT * FIELDS & RE-ENTER”",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "e0895fd5d95d414f77badcf83acdd4df",
+    "text": "IDRS Terminal Input Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "6e28aec2c7192871c23e262ed264d79a",
+    "text": "V (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "fb7ff704e636bd0f07c39afd2b7bfe3d",
+    "text": "Error Message: “nn ERRORS-CORRECT * FIELDS & RE-ENTER”",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "a6e127d62f041c2d326ed5ee3de643b0",
+    "text": "Command Codes FMADD, URADD, ESAPL, FMREF, URREF, FMAPL, URAPL, UROUT and URENT 2.4.24 page 7",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7af758748b4ae2ea465f8fcccb4fffac",
+    "text": "a. Error Condition: One or more of the INPUT DATA ﬁelds are in error to pass validity checks). Invalid ﬁelds will be indicated by having an asterisk (*) right of the data ﬁeld. “nn” will indicate how many ﬁelds are invalid and must be corrected. b. Solution: Locate the invalid ﬁelds and correct the erroneous data and enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "9e0314a10b3d310110b39c2bd8f88c7f",
+    "text": ") Error Message: “NO U/R RECORD FOUND FOR GIVEN DATA” a. Error Condition: Self-explanatory. b. Solution: Change search or apply information and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "112f5a18f73b21de707de14f0d36cecf",
+    "text": ") Error Message: “PRIOR COMMAND CODE NOT COMPATIBLE” a. Error Condition: The command code immediately preceding the one entered was not correct for inquiry or for processing. e.g. FMADD entered and URAPL was overlaid. b. Solution: Determine correct command code to use and re-enter data. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "66e4726f5df979626bfe2ed9a322eb9e",
+    "text": ") Error Message: “RECORD STATUS DOES NOT ALLOW APPLY” a. Error Condition: An attempt has been made to change or apply an amount in a record where the status is not “OPEN ” or “IDEN”. b. Solution: Be sure this is the record you want before taking further action: Record subsequent action taken via command code URENT. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "2e1a2ef56f1d8626e8225bb3c8757289",
+    "text": ") Error Message: “STATUS CHANGE NOT ALLOWED” a. Error Condition: An attempt has been made to change the status of a record that does not presently have an “OPEN ” status. b. Solution: Be sure that this is the record you want before taking further action. Add a subsequent information via command code URENT. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "17da9c8c0212a11ea82ce05abb6a3a7b",
+    "text": ") Error Message: “STATUS CODE INVALID ” a. Error Condition: An attempt has been made to change the record status to other than “IDEN”. b. Solution: Enter “IDEN” as status change. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3c3fb70111341feba0bcdd79bff78212",
+    "text": ") Error Message: “SUBTOTALS NOT AVAILABLE FOR RECALL” (Only when using RECALL-CD) a. Error Condition: *a. No prior totals are stored, or *b EMPLEE-NUM is the same as the one used to store the subtotal, or *c Prior command code is not compatible with the command code being entered.(*Effect this error condition will result in zeroing out whatever totals have been stored up to this point.) b. Solution: Recall to the screen all prior entries to get totals entered up this point. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8e29be58a273a7a4b21a2ae38ccc27c8",
+    "text": ") Error Message: “UR CONTROL NUMBER INVALID” a. Error Condition: The UR-CTRL-NUM is not formatted correctly or is not all numeric. b. Solution: Correct and reenter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "c67c6808cbc606321e40be996c42f840",
+    "text": ") Error Message: “UR CONTROL NUMBER/NAME CONTROL MISMATCH” UROUT and URENT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "2530f50ca5c5f2f8686f889999050dea",
+    "text": "page Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8d513ec8699852c33bcb44b791bd9599",
+    "text": "Error Condition: One or more of the INPUT DATA ﬁelds are in error (fail to pass validity checks). Invalid ﬁelds will be indicated by having an asterisk (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "619c3984c42bc392ab882fc178d0d817",
+    "text": ") right of the data ﬁeld. “nn” will indicate how many ﬁelds are invalid and must be corrected. Solution: Locate the invalid ﬁelds and correct the erroneous data and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "50d13820f42d2bdfc5530ab938b909d4",
+    "text": "enter.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "bf892c33edc2017ce9435410cdf2f09c",
+    "text": "a. Error Condition:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "363b72e9d156bfb61af335ab7e807fbf",
+    "text": "a. No prior totals are stored, or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "fbd8067ab1eb3e94adb29991838d839c",
+    "text": "b EMPLEE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "22d0bae9a11e3679b19fdfdc31f3e906",
+    "text": "NUM is not the same as the one used to store the subtotal, or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "189f677093ab1502dc0b4ee1f7064dca",
+    "text": "c Prior command code is not compatible with the command code being entered.(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "4525d83b5e0d24cef38f0de2174aafa4",
+    "text": "Effect of this error condition will result in zeroing out whatever totals have been stored up to this point.) b. Solution: Recall to the screen all prior entries to get totals entered up to this point.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "606ca1cb873645b133374bf2826c9186",
+    "text": "a. Error Condition: The UR-CTRL-NUM is on ﬁle but the NAME-CTRL input does not match the one in the record. b. Solution: Change the NAME-CTRL after verifying the correct taxpayer. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "a23aa28c1161200ad1ed6c6777ea8afd",
+    "text": ") Error Message: “U/R NAME CONTROL INVALID” a. Error Condition: NAME-CTRL is not four positions when input. NAME- CTRL is not alpha or numeric in the ﬁrst position. First position is a blank. b. Solution: Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "84fce4d34d4d7916c1b2e2370624eb62",
+    "text": ") Error Message:“UR CONTROL NUMBER/AMOUNT MISMATCH” a. Error Condition: The UR-CTRL-NUM is on ﬁle but the amount input does not match the amount in the record. b. Solution: Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "4c6060fedad07f31aebca0b9a73d5e6d",
+    "text": ") Error Message: “ASTERISK MISSING OR POSITIONED WRONG” a. Error Condition: When a request is made to go from the URAF-REC display to a corresponding URCF-REC, and no asterisk is found to the left of the NAME-CTRL. b. Solution: Insert asterisk and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "7a8823dbae94f335de0be474e1b263d1",
+    "text": ") Error Message: “TIF ACCOUNT ON FILE nnvvnnvnnnvv vvvv” a. Error Condition: The account is on the TIF but the NAME-CTRL does match the input record. The TIN and NAME-CTRL from the TIF will be displayed. b. Solution: Change the NAME-CTRL after veriﬁcation that you are change/ applying the money to the correct taxpayer. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "d6875cb6f4dabdad1cbb918d1d909e99",
+    "text": ") Error Message: “TIF MEMO RECORD-APPLICATION DENIED” a. Error Condition: An attempt to apply to the UR record has been made when the TIF is a “MEMO” record. b. Solution: Correct the TIN and/or NAME-CTRL after research has been performed to determine the correct taxpayer. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "aeba834d090b7f9cc72c1a1828347d92",
+    "text": ") Error Message: “NEW STREET ADDRESS INVALID” a. Error Condition: NEW-STREET-ADDR does not begin in the ﬁrst position. First position is not alpha-numeric. b. Solution: Enter NEW-STREET-ADDR line beginning in the ﬁrst position. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "4e5035a56b8a926669f9a0ae4a3cff8f",
+    "text": ") Error Message: “NOTICE SENT EARLIER-NEW NOTICE SENT” a. Error Condition: This message is for information purposes only and does not indicate an error condition. A new notice will be generated. b. Solution: If a new NOTICE-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "4daad966a6e655320f881410b250bf96",
+    "text": "CG or NOTICE-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "ea337928117a268724e3f8bca0ff7a41",
+    "text": "SP to the taxpayer is not desired, have the notice pulled. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "ecb68d1f66f3371128bf1f30f9e844c3",
+    "text": ") Error Message: “STATUS DOES NOT ALLOW NAME CHANGE” a. Error Condition: An attempt has been made to change the Name on record that is not in OPEN or IDEN Status. b. Solution: Enter IDEN as status change. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "1f35480bb37c29b71eced72cade7be2a",
+    "text": ") Error Message: “STATUS DOES NOT ALLOW NOTICE”",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "e0895fd5d95d414f77badcf83acdd4df",
+    "text": "IDRS Terminal Input Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "6e28aec2c7192871c23e262ed264d79a",
+    "text": "V (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "6c87c2ec3e4f3f41617eca8b8c4d17d4",
+    "text": "Error Message: “STATUS DOES NOT ALLOW NOTICE”",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "5ec36554b2cd994cbfd77e80838bd24f",
+    "text": "Command Codes FMADD, URADD, ESAPL, FMREF, URREF, FMAPL, URAPL, UROUT and URENT 2.4.24 page 9",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "a3aa8229333c0da533ee3a28156a3680",
+    "text": "Error Condition: If the account is closed, there is no need to send a",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "ccf6a36c44b7a50f2875fa65bd40be99",
+    "text": "Error Message: “BLANK LINE BETWEEN CHANGES NOT ALLOWED”",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "f368a32e6fa4fc79c5015d37147c05c6",
+    "text": "Command Codes FMADD, URADD, ESAPL, FMREF, URREF, FMAPL, URAPL, UROUT and URENT 2.4.24 page 11",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "98d96330bae14f9c6cdebd7d4ebaedaa",
+    "text": "Error Condition: An attempt has been made by the user to access an IMF account. User is not proﬁled to access this type of account. Solution: Refer to IRM 2.4.2.2.5.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "2f00cddb6bca39eafc08de4705a35843",
+    "text": "Error Message: “CRS/NAP ACCESS NOT AVAILABLE: TRY LATER”",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "7d52b8008923844f40237814cd2b1f34",
+    "text": "a. Error Condition: An area of the Database is down and unavailable. b. Solution: Please try again later or try another area.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "dfe78542fe86c204d2ab52d6a8e2995b",
+    "text": "Error Condition: An area of the Database is restricted and unavailable. Solution: Please try again later or try another area.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "3e9b7857f471768037cf92861cec40bc",
+    "text": "Error Condition: This particular TIF-AREA is unavailable for use. Solution: Please try again later or try another area.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a10c6b14cdd7e4d4fad2717b3364a8af",
+    "text": "Command Codes FMADD, URADD, ESAPL, FMREF, URREF, FMAPL, URAPL, UROUT and URENT 2.4.24 page 13",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3bc2b9e1a3496e167d6476233f68328b",
+    "text": "Error Message: “IF DPC = 44 AMT MUST = $107.00”",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "47c21fb3c5c11d48c8abb848612a4de7",
+    "text": "Command Codes FMADD, URADD, ESAPL, FMREF, URREF, FMAPL, URAPL, UROUT and URENT 2.4.24 page 15",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "4011a3f28c9fecfc1c96b9c1f53f2784",
+    "text": "Error Message: “OTHER S-XPASS ERROR - CALL CSA”",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "ce034c0c1da1cc33530312738196569f",
+    "text": "Solution: Re-enter using a valid Julian Date. It must be greater than 2006001. It cannot be greater than the current date.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "be3a94c0a9843f59b5cefc11a0dbbdf9",
+    "text": "Error Condition: Entered an invalid DPC for Primary Trans CD 640. Solution: Enter valid DPC code for TC 640",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "13138e80d22cc53983335e8c1fde0e1a",
+    "text": "Note: Error messages appear on line 12, 13 or 14.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "8e0fb64f2e9889a1c6278ad2a133ac4c",
+    "text": "Command Codes FMADD, URADD, ESAPL, FMREF, URREF, FMAPL, URAPL, UROUT and URENT 2.4.24 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "d68bcf53c9ed42dd47923632a2a8e40d",
+    "text": "Input Display: (To be used in CAMPUS CASHIER or UR function only)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "07e37d973d9c1134f5212ad2ff21d365",
+    "text": "R =T",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "f678835b93e02e17a370ad38913459e1",
+    "text": "Description and Validity",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "fa95b606ed4e4478f3949a66abf0f7e6",
+    "text": "COMMAND-CD FMADD",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "721310da72d6425df9f7cdb2aa7b3d0c",
+    "text": "RECALL-CD—Input “C” only to request a new URADD format when the block sub-totals must be retained. (See CC URADD—Items 3, 4, and 5)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "1b5059f4d2feacb5ffa41f7b61d0976a",
+    "text": "Terminal Response to UR-CREATE-FORMAT-REQUEST:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "9f75213d6e3cbcf3fdf7cb8dab11257e",
+    "text": "JEE IS I I S SR I |BT T T L S L B P L P LiAo s 000 0 1 TA A S STAT BRPAGAEi172 oyHSNEEECEEECEEEe e-e e\\S Y",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "4ee5edbc123c79649ad33c9c85b48b1f",
+    "text": "1234567 890173456 7890123456 78901234 56783012345 78001 734 5678301234567 8301234567890T 5 5 5 - S S",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "a89754e7e8547853495434e9d8fcc6ae",
+    "text": "Command Codes FMADD, URADD, ESAPL, FMREF, URREF, FMAPL, URAPL, UROUT and URENT 2.4.24 page 19",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "6ace5603e645aa6540c7f06607bf0b6d",
+    "text": "Exhibit 2.4.24-2 (Cont. 1) (01-01-2011) UR Create Format Output Item Line Position Description and Validity 1 1 1–5 COMMAND-CD 2 1 7–11 ITEMS-LITERAL 3 1 13–15 ITEM-COUNT—Number of items added (Generated) 4 1 17 AT-SIGN-LITERAL 5 1 18–35 MONEY-COUNTER-EDITED-LITERAL—The amount added to this point. (Generated) 6 2 1–17 UR-CTRL-NUM-EDITED-LITERAL 7 2 19–20 SOURCE-CD-LITERAL 8 2 22–25 STATUS-CD-LITERAL 9 2 26–36 EMPLOYEE-ASG-NUM-LITERAL 10 3 1–14 DOLLAR-SIGN-LITERAL 11 4 1–2 TYPE-OF-PAYMENT-LITERAL 12 4 4–11 RECVD-DT-LITERAL 13 4 13 NOTICE-ABBREV-LITERAL 14 5 1–35 NAME-LINE-1-LITERAL 15 6 1–35 NAME-LINE-2-LITERAL 16 7 1–35 STREET-ADDR-LITERAL 17 8 1–29 CITY-STATE-ZIP-LITERAL 18 9 1–50 PAYMENT-INFO-LITERAL 19 10 1–50 PAYMENT-INFO-2-LITERAL 20 11 1–12 TIN-FILE-SOURCE-LITERAL 21 12 1–2 MFT-LITERAL 22 12 4–9 TAX-PRD-LITERAL 23 13 1-24 TRACE-ID-LITERAL",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "682d71da92dc32d769b4576388c13d84",
+    "text": "Exhibit 2.4.24-2 (Cont. 1) (01-01-2011) UR Create Format Output",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "e0edc63f9e7e7d20352485a7ea88e832",
+    "text": "MONEY-COUNTER-EDITED-LITERAL—The dollar amount added to this point.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "fdcc42f092b74c4bbbe229d22c6e104f",
+    "text": "Input Display: (To be used in the CAMPUS CASHIER or UR functions only).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "0922c127c955cfcbcb0e77ccc8d56806",
+    "text": "THHH‘37! }I iI i1 T1 tI T1 IRAo A ALY",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "da311f2dc0a0461530712670d7b36951",
+    "text": "Command Codes FMADD, URADD, ESAPL, FMREF, URREF, FMAPL, URAPL, UROUT and URENT 2.4.24 page 21",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "f678835b93e02e17a370ad38913459e1",
+    "text": "Description and Validity",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "512d758ad7c2a7753fb5ac033cb309cc",
+    "text": "COMMAND-CD URADD",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "29e1ffa0ef9a02bc2a17d0fae8c6d98b",
+    "text": "SOURCE-CD—An overlay, must be present and alpha, indicates the area from which the UR record originated.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "1f53aebfebdb758dfc9a79394b5aa50c",
+    "text": "UR—Clearing & Deposit Function only (will be returned upon each “REQUEST COMPLETED”)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "c2e157e85e6689fec107f8ca6584fb27",
+    "text": "STATUS-CD—Overlay reﬂects the classiﬁcation of the UR record. Status are:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "2e98bbe744bf9103d2395a61bd071346",
+    "text": "OPEN— Remittance that can be applied after identiﬁca- tion. Also generated from blanks",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "8f560e4ff7423fcb315eda495309a3a5",
+    "text": "IDEN— Identiﬁed, but unable to apply",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "795647719aebf90b01031d83613c244f",
+    "text": "Exhibit 2.4.24-3 (Cont. 2) (09-01-2020) UR ADD Realtime Input",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "f678835b93e02e17a370ad38913459e1",
+    "text": "Description and Validity",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "8d05ab89bdbf3d0dace5d72a00c35739",
+    "text": "TYPE-OF-PAYMENT—Must be 2 position alpha code to designate the type of remittance received.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "59e5789731d927c6f12d48ad4ad8f882",
+    "text": "RECVD-DT — Valid month, day, year combination and will be formatted MMDDYYYY. Must be present, valid for CC ESAPL. Cannot be a future date. The year must be current year or prior.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "86432138d5108a5f7e1a9d6c3be45b8c",
+    "text": "UR-NOTICE-IND—May be blank or one position code to indicate whether a 3731CG or a 3731SP notice is to be generated.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "1aa62a754169c36f398b6a199d79b72a",
+    "text": "NAME-LINE-1— Must be present ; ﬁrst position must be alpha or numeric. Input name line as follows:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "2ef32bf3d72772d9f18d9f6ebe46b452",
+    "text": "a. IMF—Smith, John J. N/C SMIT b. BMF—Smith, John M. N/C SMIT c. BMF—John M. Smith Co. Inc. N/C JOHN",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "fe7e823d5a3f4e5fab3bb0650f4339e7",
+    "text": "d. Multiple BMF Names—(Partnership) Smith-Jones- Roberts Co. N/C SMIT",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "8e0fb64f2e9889a1c6278ad2a133ac4c",
+    "text": "Command Codes FMADD, URADD, ESAPL, FMREF, URREF, FMAPL, URAPL, UROUT and URENT 2.4.24 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "f678835b93e02e17a370ad38913459e1",
+    "text": "Description and Validity",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "38a7c1a04a2ce52431e2acec601a2c49",
+    "text": "CITY-STATE-ZIP-INPUT—Must be present if notice is to be generated. A “#” (pound sign) in the ﬁrst position indicates a foreign address and requires only that the rest of the input ﬁeld not be blank. Otherwise, the ﬁeld must contain one of the following:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "51d735499d9384c9097dfc7966a8272e",
+    "text": ") a Major-City-Code followed by blanks or blank, Zip- Cd, blanks;",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "8584fe19cdd75d54a642ce9817db65fa",
+    "text": ") a complete City/St/Zip . If the input is a valid Major- City-Cd but the corresponding City is no more than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "ad4d1493f918163a059e80ccffb4e248",
+    "text": "characters in length, the input will be ﬂagged. If the input is a complete City/St/Zip, the format must be City followed by a comma, State (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "98bed1736a6ec25de7aa548320e32a43",
+    "text": "position standard state abbr.), blank, Zip. The city cannot exceed",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "64a33cfb75e1ccd9da523e882e815cc8",
+    "text": "characters in length.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "b30af448a6abddb291e93d24e118cac4",
+    "text": "PAYMENT-INFO— Must be present , check or money order number, name of bank, etc. 50 positions maximum.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "6d39a23237de4070846c7ff2764aa84c",
+    "text": "PAYMENT-INFO-2—Optional. Used as a continuation of PAYMENT-INFO line. 50 positions maximum.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "22dd66ec32fec3400784405e8c46adf6",
+    "text": "TIN-FILE-SOURCE-EDITED—Optional, SSN/EIN format.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "d1c7634351701af03e2db80d9a9e62a0",
+    "text": "MFT—Optional. Can be input when TIN-FILE-SOURCE- EDITED is present.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "41d9fbad55983f96042a98ba1d095600",
+    "text": "TRACE-ID— Must be present , and must be all numeric. Can be all zeroes OR must be entered as follows:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "8af1f167e106c19a024aec5428759e49",
+    "text": "Pos 1-2 is the site-id and must be a valid Campus Code, a valid District Office Code, a valid Area Office Code, or a valid Lockbox Bank ID. This does not have to be a current, valid code. It can be a valid one from the past.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "2c10d8e6e9308db90eb91eaef1d14f1d",
+    "text": "Pos 4-5 is the system-id and must be 01, 02, 05, 10, 15, 20, 25, 30, 35, 40, 45, 50, or 55.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "47bf634e0df00c9874b2ecaa561d2356",
+    "text": "Pos 7-13 is the julian deposit date and it must be greater than 2006001. It cannot be greater than the current date.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "5dda1e0a249e55f1321215726a2fd953",
+    "text": "Pos 19-24 is the transaction sequence number and it must be greater than 000000.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "ae88fd1742fedc603713596405e8bc2b",
+    "text": "Exhibit 2.4.24-3 (Cont. 4) (09-01-2020) UR ADD Realtime Input",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "f678835b93e02e17a370ad38913459e1",
+    "text": "Description and Validity",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "408fecc7599bbfadeb5e191e2ef2fe76",
+    "text": "NOTE: Upon “REQUEST COMPLETED” for CC URADD with a SOURCE-CD of “UR” , the ﬁrst fourteen digits of the TRACE-ID will be returned to the screen.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "3aa29ef8d20ef3ebc7b5e5651bd1e362",
+    "text": "Terminal Responses",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "a552bbba64d34525b95259a43bff0b39",
+    "text": "Valid response: REQUEST COMPLETED message on line 14. Valid response also includes the URADD format, which will be redisplayed after each additional, retaining the ﬁrst 11 digits and year digit of the UR-CTRL-NUM-EDITED, the ﬁrst 14 digits of the TRACE-ID, and SOURCE-CD “UR”. A subtotal of item count and amount added to this point will be shown on line one. To clear these counters at the end of a block, input any valid command code except URADD. Error Response: Error messages are displayed on line 14",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "84472954efaca70702cca7db8a403f4d",
+    "text": "Command Codes FMADD, URADD, ESAPL, FMREF, URREF, FMAPL, URAPL, UROUT and URENT 2.4.24 page 25",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "23ea468d617b14e062001af9dd1db28e",
+    "text": "Input Display: (This command code is used in the CAMPUS CASHIER function only.)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "9f2b04f657291868ac7eeafb3db9672e",
+    "text": "i&Eap T 000 5oT TS O Y A SiR S —13",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "207ac2e5709526e26c9db2516798e082",
+    "text": "Exhibit 2.4.24-4 (Cont. 1) (01-01-2011) UR ES Realtime Input",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "d1ca2f9cba6ecd616b75b50c1aa02148",
+    "text": "UR-CTRL-NUM-EDITED—Enter in valid format nnnnn- nnn-nnnnn-n with the ﬁrst two digits a valid area office or Campus for the input region. ORIGINAL-AMT-EDITED—(Amount applied as an estimated payment) Overlay dollar sign in dollar and cents format with commas and decimals inserted, (left- justiﬁed), e.g.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "506ed62c4068da44ac949fe5299cbcae",
+    "text": "$$$$. Valid range is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "b854190c31d9d34accf7c8e14fe569cb",
+    "text": "TYPE-OF-PAYMENT—Must be a two position alpha",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "80623805b8f85f1e761da941a71224a9",
+    "text": "TYPE-OF-PAYMENT—Must be a two position alpha code to designate the type of payment received:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "5892a46329f107f0cacb08d1f7cf5886",
+    "text": "RECVD-DT—Enter a valid month, day, year in MMDDYYYY format.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "d464ed2f8fd878144749cb963657d7bc",
+    "text": "NAME-LINE-1 —First position must be alpha or numeric. Enter name line as follows:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "2ef32bf3d72772d9f18d9f6ebe46b452",
+    "text": "a. IMF—Smith, John J. N/C SMIT b. BMF—Smith, John M. N/C SMIT c. BMF—John M. Smith Co. Inc. N/C JOHN",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "fe7e823d5a3f4e5fab3bb0650f4339e7",
+    "text": "d. Multiple BMF Names—(Partnership) Smith-Jones- Roberts Co. N/C SMIT",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "7467872f39941e9de500e68917006589",
+    "text": "STREET-ADDR—Enter if known",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "8e0fb64f2e9889a1c6278ad2a133ac4c",
+    "text": "Command Codes FMADD, URADD, ESAPL, FMREF, URREF, FMAPL, URAPL, UROUT and URENT 2.4.24 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "a7d6c0e81ce1e047b5cfbb76011b8c6d",
+    "text": "Exhibit 2.4.24-4 (Cont. 2) (01-01-2011) UR ES Realtime Input",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "f678835b93e02e17a370ad38913459e1",
+    "text": "Description and Validity",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "4caa80a4a6224afe88d5f8901ee478ea",
+    "text": "CITY-STATE-ZIP-INPUT—Enter if known. A “#” (pound sign) in the ﬁrst position indicates a foreign address and requires only that the rest of the input ﬁeld not be blank. Otherwise, the ﬁeld must contain one of the following:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "51d735499d9384c9097dfc7966a8272e",
+    "text": ") a Major-City-Code followed by blanks or blank, Zip- Cd, blanks;",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "162bb7aab06a4f248339afb708aa1152",
+    "text": ") a complete City/St/Zip. If the input is a valid Major- City-Cd but the corresponding City is more than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "5cccc4c1b43008bfa4a61b57fc89a66d",
+    "text": "characters in length, the input will be ﬂagged. If the input is a complete City/St/Zip, the format must be City followed by comma, State (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "d3f886fa3a00b30f749d98902bad9383",
+    "text": "positions standard state abbr.), blank, Zip. The City cannot exceed",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "64a33cfb75e1ccd9da523e882e815cc8",
+    "text": "characters in length.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "3cb0149050a9120fa58fb4e33ac9bbc9",
+    "text": "PAYMENT-INFO—Enter check or money order number, date of check, name of bank, etc. 50 positions maximum.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "6d39a23237de4070846c7ff2764aa84c",
+    "text": "PAYMENT-INFO-2—Optional. Used as a continuation of PAYMENT-INFO line. 50 positions maximum.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "558affe14c3c111a883a1315cc6e4b53",
+    "text": "TIN-EDITED—Must be nnn-nn-nnnn or nn-nnnnnnn format.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "7819cefc3acdf55c36503d1b62d1fbeb",
+    "text": "TAX-PRD—Tax Period. Format is YYYYMM. Must be present with six numerics. The tax period must not be later than the current date plus one year.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "93b224d18dbaa5bafde4340937e8332a",
+    "text": "TRACE-ID—Not required. Let the format of nn-nn- nnnnnnn-nnn-nnnnnn remain on the screen. Zeroes will be written to the URF database.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "3aa29ef8d20ef3ebc7b5e5651bd1e362",
+    "text": "Terminal Responses",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "ccc693f57b6667852c169045d229ea81",
+    "text": "Valid Responses: ESAPL format will be redisplayed after each entry. A sub-total of item count and amount added to this point will be shown on line one. To clear these counters at the end of the block, input any valid command code except CC ESAPL or CC URADD. (e.g. CC URINQ, SUMRY,",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "6fef178d8c230395ab7af554ceb7786a",
+    "text": "Input Display: (To be used in Service Center UR function only)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "f9900a30cd582d102ef7d86b54fe0066",
+    "text": "TT T T o T T = 5T 1T A TROTE 56 TEI0TE G4 190TE 3 ST 1830gy T i 7 T Itf2l T T I T T = 1 |Bl T T T I T I T welli T T T T T I T iis T T T T I T I r— ]i T T T T T T T e 1i T T T T T 1 |i T T T I T olI T y E— T T s |i T I T T T fali T T T 1 T + ]Jien I T T T . I n LzlJien T T L L T T T itL T T I T T I T ii T T T I I T T 11i T L T I T n feljn T T T T T iit T T T sljEn T T T T Tisio] I T I T T + Loli T T T T L T it}ol T I I T T T i)1L T T I T T T 131oL T T T I IT T L2YT LIV ETYT3 LTI ¥ 3TIT3I IITH",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "e2c963ffc123fb7271264068d897abeb",
+    "text": "Command Codes FMADD, URADD, ESAPL, FMREF, URREF, FMAPL, URAPL, UROUT and URENT 2.4.24 page 29",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "145f4217f948065d658a6de97bbab9c7",
+    "text": "Terminal response to UR-REFUND-FORMAT-REQUEST.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "29cb8779bde99471b8a4d4669b4f9cd1",
+    "text": "Input Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "8e0fb64f2e9889a1c6278ad2a133ac4c",
+    "text": "Command Codes FMADD, URADD, ESAPL, FMREF, URREF, FMAPL, URAPL, UROUT and URENT 2.4.24 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "35b908157b1b3dbfe9187dc1eb666254",
+    "text": "Exhibit 2.4.24-7 (Cont. 1) (01-01-2000) UR Refund Realtime Input",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "fbc51f5ad7535cbfaa3f8af6f409e9ad",
+    "text": "UR-CTRL-NUM-EDITED—Must match control number on the Unidentiﬁed Remittance record.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "27b16a7ddd6b7032e413fa7ea0b18dd1",
+    "text": "NAME-CTRL—Must match name control on Unidentiﬁed Remittance record. Must not be UNKN.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "28eeba2750e20cb3a489bf927f6b5999",
+    "text": "NAME-LINE-1 Must be present even if same as Uniden- tiﬁed Remittance record.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "66954d3ba55754d2c70123e52a0facc7",
+    "text": "STREET-ADDR—Optional. Variable input.",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "14fc5e668aeb9e0329bba91fce1e048d",
+    "text": "STREET-ADDR—Optional. Variable input. CITY-STATE-ZIP-INPUT—Must be present. A “#” (pound sign) in the ﬁrst position indicates a foreign address and requires only that the rest of the input ﬁeld not be blank. Otherwise, the ﬁeld must contain one of the following:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "51d735499d9384c9097dfc7966a8272e",
+    "text": ") a Major-City-Code followed by blanks or blank, Zip- Cd, blanks;",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "162bb7aab06a4f248339afb708aa1152",
+    "text": ") a complete City/St/Zip. If the input is a valid Major- City-Cd but the corresponding City is more than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "5cccc4c1b43008bfa4a61b57fc89a66d",
+    "text": "characters in length, the input will be ﬂagged. If the input is a complete City/St/Zip, the format must be City followed by comma, State (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "10cc1bfa950d247d5b9d9695b71cda99",
+    "text": "position standard abbr.), blank, Zip. The City cannot exceed",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "64a33cfb75e1ccd9da523e882e815cc8",
+    "text": "characters in length.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "a097ad005029daab6f807396a9b65008",
+    "text": "Note: FOREIGN ADDRESS INDICATOR",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "ebbe847a127c6f271687b0fa6e75fb60",
+    "text": "#— must be present in the ﬁrst position of the CITY",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "ff70929b82eabc3a753a2069ae04d99c",
+    "text": "STATE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "eaca4b30692888d0183a2b7714363767",
+    "text": "ZIP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "0d5285a802eea5afd8b7bd971b646e49",
+    "text": "INPUT ﬁeld followed by the city and/or country.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "25704ace2bb1377c5a4946a75715ac43",
+    "text": "Valid Response: The URREF format will be redisplayed after each application, with the message REQUEST COMPLETED appearing on line 13. Error Responses: The error messages appear on line 13.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "29cb8779bde99471b8a4d4669b4f9cd1",
+    "text": "Input Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "2b26c10b7527313ae19adbb397fdb6ef",
+    "text": "I 1e e T e ST23030 TS ST RT3 TRLY 1 ! ! L ii [ T t T T o51 L T I i T I n Bf1 I T T I n T L 4151 I T T T t oIif T 1 T I I oi 1 n T T I bi1 I T T T T T iis1 T T I T T n olJn t T T T T I T flolY T T T I T 111o T T T T T T ilJHin T T T T T 151i T T T T T L fhlJren I T T T T 11i T T T n iit T t T I iloL T T I T T 101oL T T n T T T T sl20 t T T T T T T 20l[ I n T I L i L La1i122 T I T I T T I Lozl23] 1 T t I 1 T T Lle f— T T | [24]T T e SR S WU — E— —",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "8e0fb64f2e9889a1c6278ad2a133ac4c",
+    "text": "Command Codes FMADD, URADD, ESAPL, FMREF, URREF, FMAPL, URAPL, UROUT and URENT 2.4.24 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "a18de3f87f23680893774680a1315257",
+    "text": "Terminal response to UR-APPLY-CHG-FORMAT-REQUEST.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "4bf423393c615b9fd604b087fa58b53f",
+    "text": "5 B 5 1 4B L e e S S o eeTR TSRib S5t -sTTR ISR TSREEeaSensa |E",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "3be7e60c8c9c4156d2ec3e0c08de4491",
+    "text": "=01235 85012 7R10 s",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "67362e5411ffb374ce0c14ad85ed3eae",
+    "text": "Exhibit 2.4.24-9 (Cont. 1) (07-01-2003) UR Apply CHG Format Output",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "bafdcc81ede56467510be58420bf95f6",
+    "text": "Item Line Position Description and Validity 1 1 1–5 COMMAND-CD 2 2 1 TYPE-OF-APPLICATION-LITERAL 3 2 3–19 UR-CTRL-NUM-EDITED-LITERAL 4 2 21 NOTICE-IND 5 3 1–4 NAME-CTRL-LITERAL 6 3 6–9 APPLICATION-NC-LITERAL 7 3 11 ELECT-PYMENT-IND-LITERAL 8 4 1–3 PRIMARY-TRANS-CD-LITERAL 9 4 5–18 DOLLAR-SIGN-LITERAL 10 4 20 BYPASS-IND 11 5 1–3 SECONDARY-TRANS-CD-LITERAL 12 5 5–18 DOLLAR-SIGN-LITERAL 13 6 1–3 TERTIARY-TRANS-CD-LITERAL 14 6 5–18 DOLLAR-SIGN-LITERAL 15 7 1–15 TIN-FILE-SOURCE-LITERAL 16 7 17-18 DESIGNATED-PAYMENT-CD 17 8 1–6 TAX-PRD-LITERAL 18 8 8–9 MFT-CD-LITERAL 19 8 9–11 PLAN-NUM-LITERAL 20 9 1–7 RE-MARKS-LITERAL 21 10 1–6 LOCATION-CD-OR 23C-DT-LIT 22 11 1–5 TAX-FORM-NUM-LITERAL 23 12 1–14 TRANS-DLN-LITERAL",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "67dea0c5097932f5403b459ab0f31f09",
+    "text": "Item Line Position 1 1 1–5 2 2 1 3 2 3–19 4 2 21 5 3 1–4 6 3 6–9 7 3 11 8 4 1–3 9 4 5–18 10 4 20 11 5 1–3 12 5 5–18 13 6 1–3 14 6 5–18 15 7 1–15 16 7 17-18 17 8 1–6 18 8 8–9 19 8 9–11 20 9 1–7 21 10 1–6 22 11 1–5 23 12 1–14",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "72a985d2efe8928c65de9c57bc2e5c94",
+    "text": "Command Codes FMADD, URADD, ESAPL, FMREF, URREF, FMAPL, URAPL, UROUT and URENT 2.4.24 page 35",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "44820399056f8b207643b87fe9347e04",
+    "text": "Exhibit 2.4.24-10 (09-01-2020) UR Apply Realtime Input—“M” Apply: IMF/BMF Accounts",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "29cb8779bde99471b8a4d4669b4f9cd1",
+    "text": "Input Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "be5c5b4667dcbd227f9025fbd38dfd60",
+    "text": "1 Aot et st s st elottt m s R e",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "65176dd26d369288ed06dc2bd7deb6c0",
+    "text": "Exhibit 2.4.24-10 (Cont. 1) (09-01-2020) UR Apply Realtime Input—“M” Apply: IMF/BMF Accounts",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "a90bab6ff81b3d09accdbc2acdc138b5",
+    "text": "TYPE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "270826d41d0a807d41e14d413e764fd3",
+    "text": "OF",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "be99f7ccf6845ea427c7c57fde4b1829",
+    "text": "APPLICATION—M—The standard validity checks will apply to the standard elements, i.e., MFT, Tax Period, TIN, Transaction Codes, etc. UR",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "bb69fc1cad24c2d6a80bd8d6a50ae43e",
+    "text": "CTRL",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "0f2625f67dc862871406bebf31589028",
+    "text": "NUM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "93f7189aad65fcb1e58ea2f63ae6cd57",
+    "text": "EDITED—Must match control number on UR record. NOTICE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "9afa68af19ecfb1119fe31aa21e5953f",
+    "text": "IND—Required. Must be “Y” or “E” or“N”. NAME",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "e50419237788d09c5c982ee4d7eb89d6",
+    "text": "CTRL—Must match NAME",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "8b182f84e61c05467306f7ac43189b37",
+    "text": "CTRL on the UR record. Must not be UNKN. APPLICATION",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "eaa589322731009980d99891b5c7850a",
+    "text": "NAME",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "f6099202cbd9b43940068d5221de741c",
+    "text": "CTRL—Must match valid NAME",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "bf1f230e016cd04ce83a004eb5670bd3",
+    "text": "CTRL of tax account.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "d53c26c0ad539ab68263462fb3a86936",
+    "text": "ELECT-PYMENT-IND—Must be a ‘Y’ if electronic payment is being applied. ‘N’ will be the default. Valid for Primary Trans- action Codes 610, 620, 640, 650, 660, 670, 678, 680, and 690.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "78e70e7d3e2eb69eabc8fd2ee7240654",
+    "text": "PRIMARY-TRANS-CD —Must be present with valid transac- tion code. NOTE - For year 2015, the only Primary Trans Cd that should be used with MFT 43 is Trans Cd 640.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "3193e302b24cdd6014bee9484bedc593",
+    "text": "PRIMARY-TRANS-AMT— Must be present. Begin overlaying ﬁrst $ with amount to be entered. Include decimal and commas. May not exceed balance amount in UR record. If PRIMARY-TRANS-CD is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "4d2f10db58903c79da8f3d769605de93",
+    "text": "and DESIGNATED- PAYMENT-CD is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "e399c74c016efb2950c9cc2da53b12bb",
+    "text": ", amount must equal $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "35344e57f550f0121dba2a1bfc186400",
+    "text": "If PRIMARY-TRANS-CD is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "4d2f10db58903c79da8f3d769605de93",
+    "text": "and DESIGNATED- PAYMENT-CD is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "e399c74c016efb2950c9cc2da53b12bb",
+    "text": ", amount must equal $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "35344e57f550f0121dba2a1bfc186400",
+    "text": "If PRIMARY-TRANS-CD is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "4d2f10db58903c79da8f3d769605de93",
+    "text": "and DESIGNATED- PAYMENT-CD is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "e399c74c016efb2950c9cc2da53b12bb",
+    "text": ", amount must equal $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "35344e57f550f0121dba2a1bfc186400",
+    "text": "If PRIMARY-TRANS-CD is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "4d2f10db58903c79da8f3d769605de93",
+    "text": "and DESIGNATED- PAYMENT-CD is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "e399c74c016efb2950c9cc2da53b12bb",
+    "text": ", amount must equal $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "35344e57f550f0121dba2a1bfc186400",
+    "text": "If PRIMARY-TRANS-CD is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "4d2f10db58903c79da8f3d769605de93",
+    "text": "and DESIGNATED- PAYMENT-CD is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "e399c74c016efb2950c9cc2da53b12bb",
+    "text": ", amount must equal $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "bfedb2cdca971cbbd5f00b10ce43f9d7",
+    "text": "UR record must be in OPEN OR IDEN status.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "1c3dbf7cf718e887a3f93088ca12fba4",
+    "text": "BYPASS-IND",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "4233fae23e6c69dff0512e26f857d181",
+    "text": "SECONDARY-TRANS-CD—Can be present only when the PRIMARY-TRANS-CD is present. If PRIMARY-TRANS-CD is 694, SECONDARY-TRANS-CD must be 360.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "8e0fb64f2e9889a1c6278ad2a133ac4c",
+    "text": "Command Codes FMADD, URADD, ESAPL, FMREF, URREF, FMAPL, URAPL, UROUT and URENT 2.4.24 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "37759fc2c593df671b26265e34ed62da",
+    "text": "Exhibit 2.4.24-10 (Cont. 2) (09-01-2020) UR Apply Realtime Input—“M” Apply: IMF/BMF Accounts",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "f678835b93e02e17a370ad38913459e1",
+    "text": "Description and Validity",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "673769cbfbbc8c0b94f41dc6feefd183",
+    "text": "SECONDARY-TRANS-AMT—If the SECONDARY- TRANS-CD is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "2473083915254703a098b6e97de3182c",
+    "text": ", amount ﬁeld is blank. If the SECONDARY-TRANS-CD is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "eeaeaa6225848337f6f6c5b5efccba97",
+    "text": ", amount may be equal to or greater than zero. If the SECONDARY- TRANS-CD is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "ef59424f1ca0e224a9371db5e23a9511",
+    "text": "and the PRIMARY-TRANS-CD is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "d27cb3f185d060b1203e08930193af3d",
+    "text": ", amounts must equal. All other SECONDARY-TRANS-AMT must be greater than zero and may not exceed the PRIMARY-TRANS-AMT.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "bfb31a54762b1cfb654cc0f567929f7e",
+    "text": "TERTIARY-TRANS-AMT—Must be present when TERTIARY- TRANS-CD is present. Amount must be greater than zero and the sum of PRIMARY-TRANS-AMT and TERTIARY- TRANS-AMT cannot exceed the balance amount in the UR record.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "85c4bcd4d3e4dcbf2ad9df926519f4d4",
+    "text": "TIN-FILE-SOURCE-EDITED—nnn-nn-nnnn or nn-nnnnnnn format. IMF—Use * on invalid segment, BMF—blank, V (valid SSN) or W (invalid SSN), IRA-P or X. Use P for valid SSN and X for invalid for IRA processing.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "a0b196e9a5fe7a911a66a73c17a45916",
+    "text": "DESIGNATED-PAYMENT-CD—",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "f13e2bf3ee59d631f3d13454f30aff24",
+    "text": "When PRIMARY-TRANS-CD 640 is used with MFT 35 or MFT 65, if DPC is not entered, it will default to DPC of 36;otherwise, valid DPC for MFT 35 and MFT 65 is 36.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "4e1a6857c6b4a337a852ed7b1923a03b",
+    "text": "When PRIMARY-TRANS-CD 640 is used with MFT 43, if DPC is not entered, it will default to DPC of 43;otherwise, valid DPC for MFT 43 is 43.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "5691e597a825fc13be12f2863138af40",
+    "text": "When PRIMARY-TRANS-CD 670 is used with MFT 35 or MFT 65, if DPC is not entered, it will default to DPC of 36;otherwise, valid DPCs for MFT 35 and MFT 65 are 03, 09, 10, 14, 24, 34, 35, or 36.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "5d778f0063af63b899f5cfcbd09a21ae",
+    "text": "When PRIMARY-TRANS-CD 670 is used with MFT 43, if DPC is not entered, it will default to DPC of 43;otherwise, valid DPC for MFT 43 is 43.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "f17fe009182c8c3c6b5dd80f48f5a183",
+    "text": "When PRIMARY-TRANS-CD 670 is used with MFTs other than 35 or 43 or 65, if DPC is not entered, it will default to DPC of 00. Valid DPCs are 00 through 11, 13, 14, 16, 17, 20 through 23, 26, 31, 33, 34, 35, or 99. If DPC = 26 or 31, MFT must =31.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "1cd5582f315d6ee726316ba819571286",
+    "text": "When PRIMARY-TRANS-CD 694 is used along with SECONDARY-TRANS-CD 360, you must enter 47, 48, 49, 50 or 51 as the DPC.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "f678835b93e02e17a370ad38913459e1",
+    "text": "Description and Validity",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "6434bed9f4056cb6cec7cfad7e0f142d",
+    "text": "When PRIMARY-TRANS-CD 720 is used with MFT 65 the DOC-CD is 45/48.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "13124baeb717be951cbf9f3448f792dc",
+    "text": "TAX-PRD—IMF, the return tax period may not be earlier than 199212; BMF MFT 01, 03, 04, 09, or 11, tax period may not",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "d87bbf52c20af2ff6382e3be03f2eade",
+    "text": "TAX-PRD—IMF, the return tax period may not be earlier than 199212; BMF MFT 01, 03, 04, 09, or 11, tax period may not be earlier than 196203. BMF MFT 02, 05, 06, or 10, tax period may not be earlier than 196112. IRA MFT 29—Use 197512 or later. BMF MFT 08, tax period may not be earlier than 200412. BMF MFT 40, tax period may not be earlier than 200401. BMF MFT 17, tax period may not be earlier than 200512. BMF MFT 14, tax period may not be earlier than 200612. IMF MFT 35 or MFT 65, tax period may not be earlier than 201412. BMF MFT 43, tax period may not be earlier than 201512 & month must be 12.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "81fe99e6e48ba73d0f61de162676f6cf",
+    "text": "MFT-CD—See TAX-PRD consistency check. NOTE -For year 2015, the only Primary Trans Cd that should be used with MFT 43 is Trans Cd 640.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "1d2aa63515effcb72c4bcf07125d4df2",
+    "text": "PLAN-NUM—Present only when MFT is 46, 74 or 76. Format is nnn. If MFT is 46, valid PLAN-NUM range is 000, 100-599, 700-999. If MFT is 74, valid PLAN-NUM range is 001-999. If MFT is 76, valid PLAN-NUM range is 000-499, 501-999.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "2b9d6b8c7117d79e511874e981f9d065",
+    "text": "RE-MARKS—Must be included on all applies.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "6cbdb9e8492914174cc4909425cb76af",
+    "text": "Note: If MFT-CD is 46, 74 or 76, PLAN-NUM must be present.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "2d684ad9402b7ac33e6966f777606288",
+    "text": "Terminal Responses:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "c94b068e573d7d46615f474c999aca27",
+    "text": "Error Responses: Error messages appear on line 13. Valid Response: The URAPL format will be redisplayed after each application, with the message REQUEST COMPLETED appearing on line 13.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "f696d9d14839313185b9b32b92000741",
+    "text": "Command Codes FMADD, URADD, ESAPL, FMREF, URREF, FMAPL, URAPL, UROUT and URENT 2.4.24 page 39",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "29cb8779bde99471b8a4d4669b4f9cd1",
+    "text": "Input Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "55f9efee7e35fd05de3878031854f987",
+    "text": "o TeSisitse Tsl s a2KR ERESEEEEEEEee eiERCECEnEEEesNeeranr",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "c4b453a076c6998375736c61b45bae0b",
+    "text": "ITEM LINE POSITION DESCRIPTION AND VALIDITY 1 1–5 COMMAND-CD URAPL 2 1 TYPE-OF-APPLICATION-N 2 3–19 UR-CTRL-NUM-EDITED—Must on UR record. 2 21 NOTICE-IND—Required. Must be 3 1–4 NAME-CTRL—Must match NAME-CTRL 4 1–3 PRIMARY-TRANS-CD—Must be code must be 610, 640, 650, 670, 650 is invalid for MFT 07. 4 5–18 PRIMARY-TRANS-AMT—Must be 7 1–12 TIN-FILE-SOURCE-EDITED—nnn-nn-nnnn nnnnnnn format. The ﬁle source 8 1–6 TAX-PRD—Must be present. 8 8–9 MFT-CD—nn format, must be one 07,[slashb], 12, 17–26, 28, 31–38, 65–68, 70–72, 74, 76, 80, 81, 90, invalid with TC 650. 8 11–13 PLAN-NUM——Present only when Format is nnn. If MFT 74, valid - 999. If MFT 76, valid PLAN-NUM 9 1–70 RE-MARKS—Must be present. 10 1–8 LOCATION-CD-OR-23C-DT—23C Must be overlayed. 11 1–6 TAX-FORM-NUM—Must be present. a minimum of 3 characters. 12 1–14 GENERAL-LEDGER-ACCT-NUM—Must variable, 1 to 14 positions.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "ff23444511889721f6e6dd219e49c85f",
+    "text": "COMMAND-CD URAPL TYPE-OF-APPLICATION-N UR-CTRL-NUM-EDITED—Must match control number on UR record. NOTICE-IND—Required. Must be “Y” or “E” or“N”. NAME-CTRL—Must match NAME-CTRL on UR record. PRIMARY-TRANS-CD—Must be present. Transaction code must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "3d30020b1863441a64e786bdc72745e9",
+    "text": ", or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "d5ef0f0e059ae5fdbee9ef56db7748a1",
+    "text": "TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "c4f3f5feedfc58a28031c96633f56d65",
+    "text": "is invalid for MFT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "800f1958e00437359c592de818c4bcac",
+    "text": "PRIMARY-TRANS-AMT—Must be present. TIN-FILE-SOURCE-EDITED—nnn-nn-nnnn or nn- nnnnnnn format. The ﬁle source must be N. TAX-PRD—Must be present.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "54810cf7cf086c9fb88e3f4f62481a6d",
+    "text": "TIN-FILE-SOURCE-EDITED—nnn-nn-nnnn or nn- nnnnnnn format. The ﬁle source must be N.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "0946fc4e34bdaf3b406398e07462fbba",
+    "text": "MFT-CD—nn format, must be one of the following: 07,[slashb], 12, 17–26, 28, 31–38, 40–50, 53–54, 59, 65–68, 70–72, 74, 76, 80, 81, 90, 93–97. MFT 07 is invalid with TC 650.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "5fb34401976153309c14d52ffb97fc42",
+    "text": "PLAN-NUM——Present only when MFT is 74 or 76. Format is nnn. If MFT 74, valid PLAN-NUM range is 001 - 999. If MFT 76, valid PLAN-NUM range is 000 - 999.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "8e3158eb51d43d2217e2949882fc76ee",
+    "text": "RE-MARKS—Must be present.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "1aa6e14ca0bb7ee86d9e6ad2e9b9b758",
+    "text": "GENERAL-LEDGER-ACCT-NUM—Must be present; variable, 1 to 14 positions.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "c027b94a014861e36d6b3ccdaf729585",
+    "text": "Note: If MFT-CD is 74 or 76, PLAN-NUM must be present.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "2d684ad9402b7ac33e6966f777606288",
+    "text": "Terminal Responses:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "c94b068e573d7d46615f474c999aca27",
+    "text": "Error Responses: Error messages appear on line 13. Valid Response: The URAPL format will be redisplayed after each application, with the message REQUEST COMPLETED appearing on line 13.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "8b5135128867329564ffcb6b65ce5648",
+    "text": "Command Codes FMADD, URADD, ESAPL, FMREF, URREF, FMAPL, URAPL, UROUT and URENT 2.4.24 page 41",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "29cb8779bde99471b8a4d4669b4f9cd1",
+    "text": "Input Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "ecb9befdea2fd448e04ff3124dcad9cd",
+    "text": "bzt ma 7 437I 7 =yR ST ST SO TS2 oo —W[]||THH¢iH5B4BbBiBBii;:Ho1]\"HHo47|\"i01iHH||||||||||||- i’ T T i3T 357890 237830 234530 255 S0 2 S0 23567890 34557550!",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "061b452027e9069789a80f46d7499314",
+    "text": "T23T S0 730 25 850 235 S0 2SS0 2337890 237557850L | {3l",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "37de16b6aae60834ee9288e9d6ddc2b0",
+    "text": "ITEM LINE POSITION DESCRIPTION AND VALIDITY 1 1 1–5 COMMAND-CD URAPL 2 2 1 TYPE-OF-APPLICATION-T 3 2 3–19 UR-CTRL-NUM-EDITED—Must match the control number on the UR record. 4 3 1–4 NAME-CTRL—Must match the NAME-CTRL on the UR record. 7 4 5–18 PRIMARY-TRANS-AMT—Amount of Transfer. Must be present, Begin overlaying ﬁrst $ with amount to be entered. Include decimal and commas. May not exceed UR record balance. 12 9 1–70 RE-MARKS—Must be present. Variable input item. Terminal Responses:",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "b97497baeffecb16a9de8c128970a73e",
+    "text": "NAME-CTRL—Must match the NAME-CTRL on the UR record.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "d4f7a140b92437b4c2024bcde6b731ae",
+    "text": "RE-MARKS—Must be present. Variable input item.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "d6b631144aa39e593fb63d8f1109af3f",
+    "text": "Exhibit 2.4.24-12 (Cont. 1) (01-01-2005) UR Apply Realtime Input—“T” Apply: Transfer to Deposit or General Fund",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 46
+    }
+  },
+  {
+    "element_id": "4e14056715976be9362f280a6383d541",
+    "text": "Valid Response: The URAPL format will be redisplayed after each application, with the message REQUEST COMPLETED appearing on line 13.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 46
+    }
+  },
+  {
+    "element_id": "fab3133f56a726199846effe22b1f6e5",
+    "text": "Command Codes FMADD, URADD, ESAPL, FMREF, URREF, FMAPL, URAPL, UROUT and URENT 2.4.24 page 43",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "a8db2c541e720b2f48266f12c851de72",
+    "text": "Input Display: (This command code is to be used in the SERVICE CENTER CASHIER or UR functions only)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "538b06fc3f00762b34537fcc8d61ff1c",
+    "text": "Ie S T T s T e ii i it1 ls a1 G|ey e e s e 5e ———————— ie e e e E— — £= e e B E— i |i e —— fi4= e e E— — is 0 1ok e — oi ie e e e e B — ile e e e s s ie e e —— t ie e e e e 1 iM ite e e s B ie e e e e s its e e e s s ile e e e s ote e e e e s its e — e —— iit — ie } 1 ——1 xz)Asxvlln)zJAinvl!n)7)1517l)u z)Asn7-!nxz!Asn7l‘nllesnvl\\glza;it![)gxz;gitl]! 1§ (e B 2 R0 220010001 242 A T 0N 200",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "834edcf08b7ed561d4e90e387d59e4a0",
+    "text": "FTeT)s",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "a3ca9e18bd30fc81168b52292dc8a10f",
+    "text": "UR-CTRL-NUM-EDITED—Must match control number on UR record.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "85b09449d79f9b4f01259ce9e0b6446c",
+    "text": "PRIMARY-TRANS-AMT—Leave blank if entire amount is being dishonored. If partial application has been made, enter the remaining amount to be dishonored.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "6ce3c076e1d01089b7f5180758cee904",
+    "text": "Exhibit 2.4.24-13 (Cont. 1) (01-01-2000) UR AMT CHG Realtime Input—“D” Apply: Dishonored Check",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "19e095d8a82c323624beb1bd0b178150",
+    "text": "Error Responses: The appropriate error message will be displayed on line 13. Valid Response: REQUEST COMPLETED message will be displayed on line 13 and a new UROUT format will also be displayed.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "c7fab4460f959a796989c3b140f3c767",
+    "text": "Command Codes FMADD, URADD, ESAPL, FMREF, URREF, FMAPL, URAPL, UROUT and URENT 2.4.24 page 45",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "953a3d1f29e1afaa83e24070aaca92ea",
+    "text": "Exhibit 2.4.24-14 (01-01-2001) UR AMT CHG Realtime Input—“V” Apply: Voided Record",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "a8db2c541e720b2f48266f12c851de72",
+    "text": "Input Display: (This command code is to be used in the SERVICE CENTER CASHIER or UR functions only)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "e930333a3ae0a088b9bd6796e803e970",
+    "text": "1T ot2 {3 glTG T3S 45678901 34567850OIS 0T 056709017 5=TST=blIoJEoneo(AR AN RN,MERERRARANAG AN NARRANANL4348TSR R stzR e3456183012145 1",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "24c20737ffb7d9064289ea6ead6f179f",
+    "text": "Exhibit 2.4.24-14 (Cont. 1) (01-01-2001) UR AMT CHG Realtime Input—“V” Apply: Voided Record",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 50
+    }
+  },
+  {
+    "element_id": "2d684ad9402b7ac33e6966f777606288",
+    "text": "Terminal Responses:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 50
+    }
+  },
+  {
+    "element_id": "969e20d1caf5cb4a15d2b1b93f284ab3",
+    "text": "a. Error Responses: The appropriate error message will be displayed on line 13. b. Valid Response: REQUEST COMPLETED message will be displayed on line 13 and a new UROUT format will also be displayed.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 50
+    }
+  },
+  {
+    "element_id": "7e6665200b96e6b48913a8c7877283ff",
+    "text": "Command Codes FMADD, URADD, ESAPL, FMREF, URREF, FMAPL, URAPL, UROUT and URENT 2.4.24 page 47",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "a8db2c541e720b2f48266f12c851de72",
+    "text": "Input Display: (This command code is to be used in the SERVICE CENTER CASHIER or UR functions only)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "74b1398fb3564e40ce6dc631dc45eebb",
+    "text": "HEL",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "9fa5c097078e0781e85798921b5ba9f7",
+    "text": "ITEM LINE POSITION DESCRIPTION AND VALIDITY 1 1 1–5 COMMAND-CD UROUT 2 2 1 TYPE-OF-APPLICATION-Z 3 2 3–19 UR-CTRL-NUM-EDITED—Must match control number on UR record. 4 3 1–4 NAME-CTRL—Must match NAME-CTRL on the UR record. 5 4 5–18 PRIMARY-TRANS-AMT—Corrected money amount. Must be different than the original amount on the UR record. 6 9 1–35 RE-MARKS—Explain the reason for the change. Must be present.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "2d684ad9402b7ac33e6966f777606288",
+    "text": "Terminal Responses:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "19e095d8a82c323624beb1bd0b178150",
+    "text": "Error Responses: The appropriate error message will be displayed on line 13. Valid Response: REQUEST COMPLETED message will be displayed on line 13 and a new UROUT format will also be displayed.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "1bd74389e6ef7b73777d6f8b380bac64",
+    "text": "Command Codes FMADD, URADD, ESAPL, FMREF, URREF, FMAPL, URAPL, UROUT and URENT 2.4.24 page 49",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "29cb8779bde99471b8a4d4669b4f9cd1",
+    "text": "Input Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "c455f2a0dadb67f8525cc2816422667f",
+    "text": "2 ;",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "beb016def3e595f7c6f3a1bf2b6d7716",
+    "text": "yior",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "1ac3eafdf2babe8ff846d1d2d3421041",
+    "text": "The ﬁrst element being changed and/or added must be entered on Line 4 . The next element being changed and / or added must appear on the next line , etc.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 54
+    }
+  },
+  {
+    "element_id": "a9f48823a5692da885fe009cf2620592",
+    "text": "NEW-FIRST-NAME-LINE—If being changed, enter N1/ immediately followed by the new name line. A new name control will be generated for the Unidentiﬁed Re- mittance File record. First position must be alpha or numeric.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 54
+    }
+  },
+  {
+    "element_id": "9819513fdf56ded81be3ac245ac7c911",
+    "text": "NEW-SECOND-NAME-LINE—If being changed, enter N2/ immediately followed by the new second name line. First position must be alpha or numeric or if being deleted, enter N2/ immediately followed by spaces.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 54
+    }
+  },
+  {
+    "element_id": "f7fce9daa55cd056ab78ce7019591860",
+    "text": "NEW-STREET-ADDR—If being added or changed, enter ST/ immediately followed by the new street address data. The ﬁeld must contain a valid character other than a blank in the ﬁrst position. Optional when changing City/State/Zip.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 54
+    }
+  },
+  {
+    "element_id": "958deefd6527bddab5782d0495adfc38",
+    "text": "NEW-CITY-STATE-ZIP—If being added or changed, enter CS/ immediately followed by one of the following: 1) a Major City Code followed either by blanks or blank; 2) a complete City/State/Zip. If the input is a valid Major- City-Cd but the corresponding City is more than 16 characters in length, the input will be ﬂagged. If the input is a complete City/St/Zip, the format must be City followed by comma, State (2 positions standard state abbr.), blank, Zip. The City cannot exceed 16 characters in length. If a foreign address, enter a pound sign (#) in position 1 followed by the foreign address.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 54
+    }
+  },
+  {
+    "element_id": "8e0fb64f2e9889a1c6278ad2a133ac4c",
+    "text": "Command Codes FMADD, URADD, ESAPL, FMREF, URREF, FMAPL, URAPL, UROUT and URENT 2.4.24 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 55
+    }
+  },
+  {
+    "element_id": "aaec03878004e478ef8132ac39c50c0f",
+    "text": "Exhibit 2.4.24-16 (Cont. 2) (09-01-2020) UR-ENTITY-CHG-INPUT",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 55
+    }
+  },
+  {
+    "element_id": "06d850cc2878b44aa55e2c6b6188f774",
+    "text": "DESCRIPTION AND VALIDITY",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 55
+    }
+  },
+  {
+    "element_id": "09f4c6113a33e30574970b6dc668a791",
+    "text": "STATUS-CD—If being changed, enter SC/ immediately followed by the change. Valid Changes are: (OPEN to IDEN or FROZ) and (IDEN to OPEN or FROZ) and (FROZ to OPEN or IDEN).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 55
+    }
+  },
+  {
+    "element_id": "6dfc838a0d6181e246515fd83461a480",
+    "text": "NARRATIVE—If being added, enter NR/ immediately followed by the narrative. First position must not be blank and the ﬁeld cannot exceed 70 characters.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 55
+    }
+  },
+  {
+    "element_id": "6188de925d8fd441c9043d60380339ba",
+    "text": "EMPLEE-NUM—If being added or changed, enter EN/ immediately followed by a 10 digit employee number.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 55
+    }
+  },
+  {
+    "element_id": "bf26772ce8a01d5b37c3a1f0028c2f23",
+    "text": "TIN—If being added or changed, enter TN/ immediately followed by a valid SSN/EIN.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 55
+    }
+  },
+  {
+    "element_id": "17da4fdcfeffe64052e0930fa9f363ca",
+    "text": "TRACE-ID-If being added or changed, enter TI/ immedi- ately followed by a valid formatted TRACE-ID.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 55
+    }
+  },
+  {
+    "element_id": "eb4ad7d9708322154cf276c61260838b",
+    "text": "Error Response: Error Messages will be displayed on line 13. Valid Response: REQUEST COMPLETED message will be displayed on line 13.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 55
+    }
+  },
+  {
+    "element_id": "7eda80481ec1cae4cc348d3c6bdffe2c",
+    "text": "CC URAPLW TRANS-COMIT-DOCCD TABLEtelw0 T T [ e0 S 0 0 5 8 A A Roo x X T IxL S N S S S R 1 I I A £EET I S I I I 0 0 R 8 LT £",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 56
+    }
+  },
+  {
+    "element_id": "753fd717bcd64454e74c150e702113c2",
+    "text": "CCORAPL W TRANS COMFTD0CCD TABLE.Xi2i32i32i32TxXX%x1xTo0gl£iyo",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 56
+    }
+  },
+  {
+    "element_id": "8e0fb64f2e9889a1c6278ad2a133ac4c",
+    "text": "Command Codes FMADD, URADD, ESAPL, FMREF, URREF, FMAPL, URAPL, UROUT and URENT 2.4.24 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 57
+    }
+  },
+  {
+    "element_id": "e9ad1f6d858df199f6f152b0e190e3d4",
+    "text": "Exhibit 2.4.24-17 (Cont. 1) (01-01-2016) Valid URAPL “M” Transaction Table",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 57
+    }
+  },
+  {
+    "element_id": "c4f4537595c961fa208d41e6b48e15f3",
+    "text": "M TRANSCOMFT-DOCCD TABLEs BB 1 56 B 188 BB boc [o]s[ Tw0 HHEEREEAEE Cie [R[E| e™ Ro TNN S EHE SN I 1 .YNN S S B I S - x73 S FENE 4T S S S S A0 I B R Yg0 x ER.ST x x TXTYTR B S 1S A S A 1 W YO S~ T T T T T T T o Tx",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-024--2023-03-06.pdf",
+      "page_number": 57
+    }
+  }
+]

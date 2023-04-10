@@ -1,0 +1,398 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "b9843882ccabe18350af0743b7180334",
+    "text": "This transmits revised IRM 2.3.69, IDRS Terminal Responses, Command Code VPARS.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "fa76d0b5abeafa7ea2f2b638e9dfb7d3",
+    "text": "IRM 2.3.69.1 has been revised to include Program, Scope, and Objectives.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1e04ac4271e26a0d03a06b174aeb7b1f",
+    "text": "LMSB, SB/SE, TE/GE, W&I.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "5fd4f8a75536f5f3c6c940cc32f1171c",
+    "text": "VPARS Input Format VPARS Response Format VPARS IMF Response Format VPARS BMF Response Format",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "1b41589f7cbd082ec8faad3404930481",
+    "text": "Policy Owner: The Chief Information Officer (CIO) is responsible for oversee- ing all aspects of our systems that operate the nation’s tax infrastructure.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f6acf366aac205b6dd20cf7eaf62f1fd",
+    "text": "Primary Stakeholders: Large & Medium-Sized Business, Small Business/Self- Employed, Tax-Exempt & Government Entity’s, and Wage & Investment.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "affbc21dde84b5836876efbe66f008d8",
+    "text": "This IRM and the contained sections provide the user the necessary informa- tion on how to use the command code VPARS.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b84de706f7933147b7b232081a6a6109",
+    "text": "VPARS was developed to give users Voice Processing as part of the Telephone Routing Interactive System (TRIS).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8b34aeccc51ab2a0f86057ab98c5abde",
+    "text": "The Taxpayer Information Number (TIN) is passed to the customer service rep- resentative and Command Code VPARS is executed.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "fbc515e69102576681c430f6de197d4d",
+    "text": "VPARS displays the taxpayer’s account information and a description of the error the taxpayer encountered in the automated phone system.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "19865f7470dba537ebdc4d25a91dfd80",
+    "text": "ERROR MESSAGES MEANING ACCESS TEMPORARILY DENIED—RETRY Deadlock between run units or short recovery preventing access. Re-enter. CC DEFINER INVALID VPARS does not have a deﬁner. ENTITY ONLY—SEE ENMOD Account requested contains no tax modules. For Entity information CC ENMOD. NO DATA AVAILABLE No information for input TIN on the TIF. NOT DATA REVERSE VALIDITY ON xTIF No information on the TIF validity input. Re-input SSN or EIN with the File Source of opposite validity. SYSTEM ERROR ON ACCESS/UPDATE Unusual condition occurred on I/O. Notify CSA. xTIF—AREAnn NOT AVAILABLE Area nn is temporarily not available. Re- enter. TIF–50 NOT PRESENT— NOTIFY DBA Module information is indicated on the account but is not found. TIN INCONSISTENT WITH FILE SOURCE TIN is not consistent with the File Source. Correct and re-enter. TIN INVALID TIN does not meet standard validity criteria. Correct and re-enter.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "48a52e103de4f6652c15c3590634b7ec",
+    "text": "(1) Following are the Agent Message Codes and descriptions.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "534868be3c7a49c177ea7614caa499ff",
+    "text": "NUMBER LITERAL 001 VBD AMT OUT OF RANGE 002 VBD OPEN TDI 003 VBD Cl FREEZE CD 004 VBD IRS EMPLOYEE CD 005 VBD PREVIOUS IA 006 VBD LITIGATION STATUS 007 VBD POTENTIAL CSED 008 VBD NO MF DATA FOR XREF 009 VBD PENDING PYMT PLAN 010 VBD COMBAT ZONE 011 VBD BALANCE DUE CFF 012 VBD BALANCE DUE ACS 013 VBD OPEN TDI — ACS 014 VBD ASSIGNED CASE 015 VBD PRIOR FULL PYMT PLAN 016 VBD TOO MANY TAX MODULES 017 VBD TAX MODULE CONFLICT 020 VBD NO PYMT EXT <100K 021 VBD NO PYMT PLAN SELECTED 022 VBD NO PYMT AMT ENTERED 023 VBD $nnnn OFFER TOO LOW 024 VBD $nnnn OK BUT NO DATE 025 VBD ? 30 DAY TERMS <100K 026 VBD ? 60 DAY TERMS <100K 027 VBD $nnnn ON nn, ? TERMS 028 VBD SCRAMBLED SSN CODE 031 VBD REVERSE VALIDITY CASE 033 VBD DUPLICATE RETURN 034 VBD INELIG. EIN TIN TYPE 035 VBD INELIGIBLE TIN/FS 036 VBD OIC INSTALL INELG 037 VBD DATA AT> ONE SITE 038 VBD INNOCENT SPOUSE VPARS 2.3.69",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b1492acf000c7f895379e9ded6c85211",
+    "text": "NUMBER LITERAL 039 VBD DDIA 040 VBD FEDERAL EMPLOYEE 041 VBD ACCOUNT HAS MFT31 042 VBD INNOCENT SPOUSE PENDING 043 VBD ACS DEFIA 044 VBD PREVIOUS EXTENSION THIS WK 045 VBD NO PYMT EXT>=100K 046 VBD ? 30 DAY TERMS>=100K 047 VBD ? 60 DAY TERMS>=100K 048 VBD NON ACS DEFIA 049 VBD RESTRICTED COMP HOLD 050 VBD MF BAL DUE MOD RESTRICTION 051 VBD MEMO ACCOUNT 052 VBD DUMMY ACCOUNT 053 VBD MFREQ ACCONT 054 VBD RESTRICT INTEREST 055 VBD RESTRICT FTP PNLTY 056 VBD OIC PENDING 057 VBD MATH ERROR -J FREEZE 058 VBD PENDING CLAIM 059 VBD PRIVATE COLLECTION AGENCY 060 VBD EFT IND 1 - MFT 29 061 VBD FILING EXTENSION FILED 062 VBD EXT FILED ON XREF ACCT 063 VBD RETURN DELINQUENT ACCT 064 VBD DELINQUENT XREF ACCT 065 VBD DEBIT BAL XREF ACCT 066 VBD INELIG EXT OR IA 067 VBD ? 120 DAY TERMS <100K 068 VBD ? 90 DAY TERMS <100K 069 VBD NO PYMT EXT/IA <100K 070 VBD NO PYMT EXT/IA 071 VBD PDIA",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "99e5c5dd97c86e607ff40d847e47ad0b",
+    "text": "119 PIN, DOB CONFIRM NOR 120 PIN, OWN DOB INV 2 121 PIN, SPOUSE DOB INV 2 122 PIN, OWN DOB NOR 2 123 PIN, SPOUSE DOB NOR 2 124 PIN, NM CID NOR DOB 125 PIN, NM CID NOR 126 PIN, NM CID 2 DOB 127 PIN, NM CID 2 128 PIN, REC NOT INV DOB 129 PIN, REC NOT INV 130 PIN, CID NOR 2 DOB 131 PIN, CID NOR 2 132 PIN, CID NOR NN DOB 133 PIN, CID NOR NN 134 PIN, CID MATCH DOB 135 PIN, EST RENT INELG 136 PIN, EST NOR 137 PIN, EST UNACT NOR 138 PIN, EST UNACT AGAIN 139 PIN, EST CONF NOR 140 PIN, EST STOVER NOR 141 PIN, EST STOVER UNACT 142 PIN, EST STOVER CONF NOR 143 PIN, EST STOVER CONF NM 146 PIN, EST RET MM INV 147 PIN, ENTRY NOR 148 PIN, ENTRY CHANGE NOR 149 PIN, ENTRY RES NOR 150 PIN, ENTRY NO MTCH NOR 151 PIN, ENTRY NO MATCH2 152 PIN, RENT RES NM 154 PIN, RENT LFT NM 156 PIN, RENT LFT NOTBL 2.3 IDRS Terminal Responses",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "80d4bc117060258de8450cc7e721eaa3",
+    "text": "157 PIN, RENT RES BLER 158 PIN, RENT RES BL 159 PIN, RESTRICT INV 161 PIN, RL RET MM INV 160 PIN, RESTRICT NOR 162 PIN, MENU NO PIN LETTER 163 PIN, MENU FORGOT 164 PIN, MENU LIFT BLOCK 165 PIN, MENU REPEAT TOPICS 166 PIN, MENU INVALID 167 PIN, MENU NO RESPONSE 168 PIN, EST RENT NM 169 PIN, DATA AT> ONE SITE 170 PIN, NO DATA SAVED 171 PIN, REENTRY NO DATA FOUND 172 PIN, MAINT DUMMY ACCOUNT 173 PIN, DOB COMFIRM NM 200 PAY, INVALID ENTRY-MENU 201 PAY, NO RESPONSE-MENU 202 PAY, INVALID ENTRY-MENU 2 203 PAY, SCRAMBLED SSN page",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "54cf53014ea28323c81b4b01369f23ae",
+    "text": "206 PAY, BAL MODULES> 5 207 PAY, NO BAL DUE MOD PRES 208 PAY, PENALTY FREEZE(G-) 209 PAY, DEBIT INTEREST(-I) 210 PAY, ACCOUNT TRANSFER OUT 211 PAY, ACCOUNT REACTIVATED 212 PAY, REFUND SCHEMES (Z-) 213 PAY, COMBAT ZONE (-C) 214 PAY, CRED INT RESTRICT 216 PAY, BANKRUPTCY(-V) 217 PAY, LITIGATION PENDING 218 PAY, POTEN MAN I&P ADJ 219 PAY, EST TAX CREDIT>AVAIL 220 PAY, NO RESPONSE 221 PAY, REPEAT PAYOFF XCEED 222 PAY, CLAIM PENDING (W-) 223 PAY, OFFER IN COMPROMISE 224 PAY, NOT AN INDIVIDUAL 225 PAY, NON IMF ACCOUNT 226 PAY, NO POSTED RETURN 227 PAY, SUB FOR RETURN 228 PAY, MOD TRANS OUT OF SC 229 PAY, UNREVERSED TC 500 230 PAY, STATUS 10 OR 12 231 PAY, NON QUALIF ACCOUNT 232 PAY, INVALID DATE 233 PAY, NO RESP TO ENTER DATE 234 PAY, NO RESPONSE FROM MEN2 235 PAY, INVALID ENTRY-MENU 3 236 PAY, INVALID ENTRY-MENU 4 237 PAY, NO RESPONSE FROM MEN3 238 PAY, UNREVERSED TC270 239 PAY, UNREVERSED TC534 240 PAY, UNREVERSED TC500/780",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "961bfd0b410cbc9a037ae00c4ecb6069",
+    "text": "259 PAY, STAT CODE 44 260 PAY, AMENDED RETURN 261 PAY, STAT CODE 49 262 PAY, STAT CODE 72 263 PAY, DATE OUT OF RANGE 264 PAY, TIN NO DATA 265 PAY, INELIG EIN TIN TYPE 266 PAY, INELIGIBLE TIN/FS 267 PAY, ACCT INTELL CODE 268 PAY, COMP HOLD INT/FTP-OTH 269 PAY, COMP HOLD INT/FTP-MUL 270 PAY, ACI FREEZE 271 PAY, MENU REPEAT 272 PAY, MENU REPEAT 2 273 PAY, MENU REPEAT 3 274 PAY, MENU REPEAT 4 275 PAY, VERIFY DATE 276 PAY, EXCEED REENTER DATE 278 PAY, NO RESPONSE FROM MEN4 279 PAY, NO RESPONSE ZIPCODE 280 PAY, NO RESP REPEAT MAIL 281 PAY, EXCEED ZIP ATTEMPTS 282 PAY, INVALID ZIP 283 PAY, NO VERIFY RESPONSE 284 PAY, REPEAT EXCEEDED 285 PAY, EXCEEDED CONFIRM ZIP 286 PAY, EXCEEDED ENTERED ZIP 287 PAY, EXCEEDED REPEAT MAIL 288 PAY, EXCEED DATE 289 PAY, TO-DT IN GRACE PERIOD 290 PAY, INVALID ENTRY<>0 291 PAY, DUMMY ACCOUNT 292 PAY, TC918 IND <>0 293 PAY, DATA AT> ONE SITE 2.3 IDRS Terminal Responses",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "48ec5b89fd925e6fe3a5c7c159edf4b0",
+    "text": "294 PAY, ACCOUNT HAS MFT31 295 PAY, SPOUSE HAS MFT31 300 DEB BMF ACCOUNT HISTORY 301 DEB DO DISCLOSE INTERVIEW 302 DEB VPPIN PROCESS MET 303 DEB YEAR ENTERED INCORRECT 304 DEB REFUND RETURN UNDELIVR 305 DEB TOO MANY TCS TO READ 306 DEB UNABLE DETERMINE ISSUE 307 DEB BAL CALC OFF - CALL SA 308 DEB YEAR ENTERED UNAVAIL 309 DEB CI FREEZE CD 310 DEB AMENDED W/O ORIGINAL 311 DEB NON MASTERFILE ACCOUNT 312 DEB MULTIPLE 610 RETURNS 313 DEB POSBL ERRONEOUS REFUND 314 DEB DEBTOR MF LIABILITY 315 DEB IRAF OR NMF ACCT 316 DEB ACS OFFER IN COMPROMIS 317 DEB ACCOUNT HAS MFT31 400 RTR DUPLICATE RETURN 401 RTR AMENDED RTN/NO ORIG 402 RTR REF CAN/DEL/RETURNED page 11",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "1fe63ff8ec7c151f8b98b26487d2eeaa",
+    "text": "403 RTR UNDELIVERED REFUND CHK 404 RTR ERRONEOUS REFUND FRZ 405 RTR TC150=0 W/O TC840 POST 406 RTR MILLION $ REFUND FRZ 407 RTR RESEQUENCE ACCOUNT 408 RTR RESEQ ACCT FOR MERGE 409 RTR ACCT RESEQ TO MF LCTN 410 RTR IMF/BMF COMPLETE MRG 411 RTR REOPEN ENTITY ACCOUNT 412 RTR NAME CHANGE 413 RTR REL UNDEL REF CHK FRZ 414 RTR CLOSE/DEACTIVATE ACCT 415 RTR lMF/BMF PREVIOUS MRG 416 RTR VALID SSN CHANGED 417 RTR INVALID SSN CHANGED 418 RTR ACCOUNT TRANSFER-OUT 419 RTR ACCOUNT RE-TRANSFER-IN 420 RTR MERGE TRANSACTION IND 421 RTR UNDEL REF CHK REDEP 422 RTR CORRECT TC740 IF ERROR 423 RTR CNCLD REF CHK DEPOSIT 424 RTR REFUND DELETION 425 RTR ERRONEOUS REFUND 426 RTR REVERSE ERRONEOUS REF 427 RTR MF IDRS ENTITY DELETE 428 RTR IDRS ENT/MOD NOT PRES 430 RTR POSTED DUPLICATE RET 431 RTR PST AMND/LT REPLY/DOL 432 RTR ENTIRE ACCOUNT FROZEN 433 RTR UNMATCHED ADDRESS 434 RTR 45 DAY OLD CLAIM 435 RTR CALLER EXCEEDED # TRIES 436 RTR INVALID ADDRESS DATA 439 RTR ACCOUNT HAS MFT31",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "7c55b4d41f1aeba001889ba57d0a0af9",
+    "text": "440 RTR INVAL PRIMARY ACCT 441 RTR PREV YEAR REFUND 442 RTR NO REFUND DATA 443 RTR NO IDRS DATA 444 RTR CI CONDITION ON ACCT 500 RRL SCRAMBLED SSN 501 RRL NO DATA FOUND 502 RRL NEED ADDR 503 RRL NEGATIVE BALANCE 504 RRL INV ENT OR MOD PROB 505 RRL NAME CTRL MISMATCH 506 RRL MOD COUNT> 12 507 RRL 013 CHANGED NAME 508 RRL 290 RELEASED REFUND 509 RRL DATA AT MORE THAN 1 SC 510 RRL DUPLICATE RETURN 511 RRL STAT OF REF EXPIRED 512 RRL REF STAT EXP DATE 513 RRL UNDEL REFUND CHECK 514 RRL ACCT TRANSFER OUT 515 RRL -A DUPLICATE RETURN 516 RRL -B STAT OF REF EXPIRED 517 RRL D- ES FREEZE Code VPARS 2.3.69 page",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "28f5c8c7b5919ccb5478fe2222c25b47",
+    "text": "518 RRL D- TP CLAIM MORE ES 519 RRL -D REF STAT EXP DATE 520 RRL E- AMENDED RETURN 521 RRL F- ACI FREEZE 522 RRL -G MATH ERROR 523 RRL H- IMF BMF OFFSET 524 RRL J- EXCESS ES TAX 525 RRL J- EXCESS ES TAX CREDIT 526 RRL -J MATH ERROR 527 RRL M- ACCT TRANSFER OUT 528 RRL P- REFUND CANCELLED 529 RRL -R ADDTL LIABILITY 530 RRL S- UNDEL REFUND CHECK 531 RRL -U ERRONEOUS REFUND 532 RRL X- MILLION DOLLAR 533 RRL -X TC150 W/O TC840 534 RRL 001 RESEQ ACCT 535 RRL 005 RESEQ ACCT MERGE 536 RRL 006 CONSOLIDATION MADE 537 RRL 008 IMF BMF MERGE 538 RRL 011 CHANGE SSN 539 RRL 018 UNDEL REFUND 540 RRL 019 ZIP CODE CHANGE 541 RRL 020 CLOSES ACCOUNT 542 RRL 026 DEL CHANGED SSN 543 RRL 040 CHG TO VALID SSN 544 RRL 041 CHG TO INVALID SSN 545 RRL 130 ENTIRE ACCT FROZEN 546 RRL 140 IRP DELINQ INQUIRY 547 RRL 141 DELINQUINCY INQRY 548 RRL 142 DELINQ INVEST 549 RRL 148 ISSUANCE OF TDI 550 RRL 150 RETURN FILED 551 RRL 152 ENTITY UPDATED",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "7c0a916273254e36adf9e5fd0a9fa148",
+    "text": "552 RRL 200 SSN PENALTY 553 RRL 240 MISC PENALTY 554 RRL 280 BAD CHECK PENALTY 555 RRL 370 ACCT TRANSFER IN 556 RRL 400 ACCT TRANSFER OUT 557 RRL 402 ACCT RETRANSFER 558 RRL 428 EXAM APPEALS CASE 559 RRL 446 MERGED TRANS INDIC 560 RRL 470 TP CLAIM PENDING 561 RRL 474 INTERPTS DELIQ PRO 562 RRL 480 OFFER IN COMPR PEN 563 RRL 481 OFFER IN COMPR REJ 564 RRL 482 OFFER IN COMPR WTDN 565 RRL 500 MILITARY DEFER 566 RRL 510 REL IN SSN REFUND 567 RRL 528 TERM STAY COLL 568 RRL 530 CURR NOT COLL ACCT 569 RRL 531 ACCT IS NOW COLL 570 RRL 535 REV EXP BAL WRTOFF 571 RRL 537 REV TC530 VPARS 2.3.69 page 15",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "3321a2002b9eb3f3b9017188b6942107",
+    "text": "572 RRL 540 DECEASED TP 573 RRL 570 ADDTL LIAB PEND 574 RRL 576 UNALL TAX HOLD 575 RRL 592 REVERSE 59X TRANS 576 RRL 610 PYMT RCVD 577 RRL 611 DISHONORED CHECK 578 RRL 640 ADV PAY OF DEF 579 RRL 660 ESTIMATED TAX PAID 580 RRL 661 ES PAY DISHONORED 581 RRL 666 ES TAX CR TRANS 582 RRL 670 SUBSEQ PAYMENT 583 RRL 671 SUBSEQ PAY DISH 584 RRL 680 DESG PAY OF INT 585 RRL 690 DESEG PAY OF PEN 586 RRL 694 DESEG PAY OF FEES 587 RRL 700 CREDIT APPLIED 588 RRL 710 OVRPYMT PRIOR YR 589 RRL 712 CORR OF 710 590 RRL 716 OVRPY CR PRIOR PER 591 RRL 720 REFUND REPAY 592 RRL 721 REF REPAY DISHON 593 RRL 740 UNDEL REF REDEP 594 RRL 810 REFUND FREEZE 595 RRL 840 MANUAL REFUND 596 RRL 904 ENT NOT PRES 597 RRL 971 AMEN DUP RET XREF 598 RRL 976 DUPLICATE RETURN 599 RRL 976 POST DUP RET 600 RRL 977 AMENDED RETURN 601 RRL 977 POST AMEND RET 602 RRL 995 DIFF IN VALID STAT 603 RRL CALLER EXD # INV TRIES 604 RRL DOB DID NOT MATCH 605 RRL PRIOR NAME CTRL INV 2.3 IDRS Terminal Responses",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "5f3af19a1994206175475d0624071d8b",
+    "text": "606 RRL NAME CTRL INV TRIES 607 RRL CALLER EXD # NO TRIES 608 RRL CALLER EXD DOB INV # 609 RRL CALLER EXD DOB NO # 610 RRL PRIOR NAME CTRL NO 611 RRL NAME CTRL NO TRIES 612 RRL INVALID ADDRESS DATA 613 RRL ACCOUNT HAS MFT31 614 RRL ACCT NOT PRIMARY 615 RRL PREV YEAR REFUND 616 RRL NO REFUND DATA 700 CRD BMF FILER PMT TRACER 701 CRD CI FREEZE CD 702 CRD DO DISCLOSURE INTERVW 703 CRD PAYMENT DATES DIFFERNT 704 CRD MORE THAN 3 YEARS OLD 705 CRD PAYMENT $nnnnnn 706 CRD MFT NN YY/MM 707 CRD ACS OFFER IN COMPROMIS 708 CRD PMT NOT RECVED BY MAIL 709 CRD TAXPAYER HAS QUESIONS 710 CRD ACCOUNT HAS MFT31 901 APPLICATION TURNED OFF page 17",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "55db2b91789ae2cf5580d6ef0b0a1d9c",
+    "text": "951 SYS INVLD RC–URGNT-TELL SA 952 SYS VRU LINK DOWN-TELL SA 953 SYS NO IP RESP-TELL SA 954 SYS NO IDRS RESP-TELL SA 955 SYS IDRS COMM ERR-TELL SA 956 SYS IDRS CC ERROR-TELL SA 957 SYS CRP # NOT PRESENT 958 SYS VRU CONFIG ERROR 959 SYS VRU INTERNAL ERROR 998 SYS VRU PACKET INVALID 999 VBD XXXXXX (RESERVED MESSAGE) (RESERVED for TMAC generated messages.)",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "7c44f9db41262e7379ccbc3bc04f04d0",
+    "text": "Input Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "b7c22aa6a950c31baa726546d2b40465",
+    "text": "Line Element Position Description and Validity 1 1 1–5 COMMAND-CD VPARS 2 6 DEFINER blank 3 7–18 EDITED-TIN SSN vvv-vv-vvvv 7–17 EIN vv-vvvvvvv 4 19 FILE-SOURCE SSN n 18 EIN n",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "11d1102aa26ab0332981661af5fe92cc",
+    "text": "Output Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "c0a76381a366205807398bf5ea0223a2",
+    "text": "T30 S nn s e ww s nns ne s e s me| TR TS GTEOT 45TES TE5 T 7345 0 7 56 0T 3450 E0TE S 0TSO0 T o s 0 [ e o —yESBALIST O rrveen ey frerr—50]mnziFe}1eewsit1201212112PEE o P e S B P S PEE S PRT > 1115 > 2125 > 3195 > 4145 > 5155 > 6165 > 80 |",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "bbca904227e2855f2df0bc8f7a97e812",
+    "text": "Exhibit 2.3.69-2 (Cont. 1) (01-01-2006) VPARS Response Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "c9e7d8a8bd7bf3859ba73f2cc6cbf675",
+    "text": "VPARS Response Format Line Ele Pos Description and Validity (I = IMF ﬁeld B = BMF ﬁeld I/B = both) 1 1 1–5 COMMAND-CD VPARS I/B 2 6 CC-DEFINER [slashb] I/B 3 7–18 EDITED-TIN (SSN) V-V I 7–17 (EIN) V-V B 4 19 REVERSE-VALIDITY-IND (SSN) V I 18 (EIN) V B 5 21–24 NAME-CTRL V-V I/B 6 26–29 PDT-CD [slashb-][slashb][slashb-][slashb]orI *PDT *CAU KITA HSTG 7 37–46 TP-BIRTH-DT NN/NN/NNNN I 8 60 PIN-IND V I/B 9 72–73 BOD-CD VV I/B 10 75–77 BOD-CLIENT-CD VVV I/B 2 11 1–35 NAME-LINE-OR-STREET-ADDR V-V I/B 12 45 ACCT-INTEL-CD N I/B 13 60–61 LARGE-COMPLEX-CORP-CD VV B 14 72 AIMS-CD N I/B 3 15 1–35 NAME-LINE-OR-STREET-ADDR V-V I/B 16 45 TC-918-IND N I/B 17 60 REJ-SEQ-CD N I/B 18 62–63 REJECT-MFT NN I/B 19 65–70 REJECT-TAX-PRD N-N I/B 20 76–78 AIMS-POD-CD NNN I/B 4 21 1–35 NAME-LINE-OR-STREET-ADDR V-V I/B",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "057b87771af16659c20f282319250339",
+    "text": "Cat. No. 28181A (11-28-2022)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "904211965e74765de9aff2f83540f54d",
+    "text": "Line Ele Pos Description and Validity 22 45 IRS-EMPLEE-CD N I 23 60–61 EO-STATUS-CD N B 24 72–73 AIMS-STATUS-CD NN I/B 5 25 1–22 CITY V-V I/B 26 24–25 STATE-CD V-V I/B 27 27–38 ZIP-CD N-N I/B 28 45 CAF-IND N I/B 29 60 MILITARY-OPER-UN-IND N I 30 72–79 AIMS-STATUS-CD-DT N-N I/B 6 31 16–26 XREF-SSN N-N B 32 36 FILING-STATUS-CD N I 33 60 MILITARY-OPER-COMBAT-CD N I 34 72–73 DISP-CD NN I/B 7 35 16–26 SPOUSE-SSN N-N I 36 36-37 SCRAMBLED-SSN-IND NN I 37 60–63 CONTROL-CATEGORY V-V I/B 38 72–74 AIMS-PBC-CD NNN I/B 8 39 16–21 ESTABLISHMENT-YR-MONTH N-N B 40 36–37 FISCAL-YEAR-MONTH NN I/B 41 61–74 CELL-TELEPHONE-NUMBER N–N I/B 9 42 7–49 FR-BMF (1st ﬁve) V-V B 43 61–74 HOME-TELEPHONE-NUMBER N-N I 10 44 7–49 FR-BMF (2nd ﬁve) V-V B 45 61–74 OTHER-TELEPHONE-NUMBER N-N I/B 11 46 47–54 RWMS-SCORE N-N I/B 47 67–74 ASSIGNMENT-NUM N-N I/B 12 48 1–8 ACTION-DT N-N I/B 49 10–39 AGENT-MSG-LITERAL V-V I/B 50 51–52 DELINQUENT-RETURN-MODULES NN I/B 51 59–62 LATEST-RET-YR N-N I 52 73 TDI-CD N I/B",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "622cfe62f3ef76397f911e2821380673",
+    "text": "Exhibit 2.3.69-2 (Cont. 3) (01-01-2006) VPARS Response Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "b9d1d239e894bab439879c0f86ac4a0c",
+    "text": "VPARS Response Format Line Ele Pos Description and Validity 13 53 1–8 ACTION-DT N-N I/B 54 10–39 AGENT-MSG-LITERAL V-V I/B 55 51–52 BALANCE-DUE-MODULES NN I/B 56 70–79 CSED NN/NN/NNNN I/B 14 57 1–8 ACTION-DT N-N I/B 58 10–39 AGENT-MSG-LITERAL V-V I/B 59 61–79 TOTAL-ASSESSED $N-N I/B 15 60 60–69 ASSIGNEE-EMPLEE-NUM N-N I\\/B 16 61 1–2 MFT-CD NN I/B 62 4–9 TAX-PRD N-N I/B 63 15 FILING-STATUS-CD N I 64 18–31 CONTROL-DLN N-N I/B 65 34–35 STATUS-CD NN I/B 66 37–42 STATUS-CYC N-N I/B 67 45–48 LEFT-HAND-FREEZE-CD-GROUP V-V I/B 68 50–53 RIGHT-HAND-FREEZE-CD-GROUP V-V I/B 69 56–59 TRANS-STATUS-CD VV I/B 70 64–79 SC-MOD-BAL-AMT $N-N I/B 17 71 13–16 NOTICE-TYPE V-V I/B 72 18–23 NOTICE-CYC N-N I/B 73 30 BACKUP-WITHHOLDING-IND N I/B 74 38 LIEN-CD N I/B 75 45 SFR-IND N I 76 54 6020B-IND N B 77 66–68 MATH-ERROR-CD N-N I 78 79 MATH-STATUS-CD V I/B",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "3585fd2a284f3162f355cbed93de1b6c",
+    "text": "LINES 20 and 23 repeat elements of line 17 for a different tax module if present.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "b8aba4f0b9ab743d4fdaaf17b4969d21",
+    "text": "*Description of calculated data ﬁelds: Line Field Calculation 10 RWMS-SCORE sum of the TDA and TDI yield scores 13 BALANCE-DUE-MODULES total of balance due modules 14 TOTAL-ASSESSED total of assessed balances",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "643ee2e99c0ce5a1cacb2e73d6b8cbf4",
+    "text": "Exhibit 2.3.69-3 (01-01-2006) VPARS IMF Response Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "5c837202e48ad4f4a3411b3732153016",
+    "text": "(RSN5 5 s > e 5 o > S s e=ST P S R T A P T vylTIVEES D00-0-00t0 AL Por DO0L/T5/56r  FLCISY 3D Col A2 | g L o e bl3 s Lo o T T SIp0 A 0 199% Re e ==y T oo5 | Cry i T GO 5T T23S6TI012 G| BRI G1 SmT o900s ez T (o1 ise ot| SR I oo sy e oo/s |t oo etz sFio e 0 vTrvaro (510) GtRS, SEmBIIITFre W el1310014155 o, 1 FEOISICR ooST s LI e TR151¢ 106171595 e, e 7o oL A BST B ST16 3 900 o0 i @ e el _m A7 SO0 155 By Doy stR0 TSFio9 5 T 7T A %B20 s TorTCESTo B oY STTR0 P ATP22 3 i w57T Tw EE%n23 ST5% By Ty STTRTTCI0 FAT T21 LDI12151415itiHi18o11ze}1it}iiii}1201212212]D2 TN 6 B S TR TR A e a0 e B P B0 A0l",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "e48b6b0c788d055569130fd592f575ae",
+    "text": "Exhibit 2.3.69-4 (01-01-2006) VPARS BMF Response Format",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "3a40598c5b9e1affc1068b2ff81e8252",
+    "text": "T > 110 > 1m0 > 31w > 6 > 5 > G > hwo || TR e 56 10 T2 346 A T35 A T4t O T 6 T2 TS0 TS 35s ov-onoooos et o oY Y2 eSS oo T TR Ot T G 23 ibone poenEss 1% TSI feshirs 10 1912 T& (125 v st smET Lo e o—]5 a e s T T G ST CP I 5& | ez muo ooe-o0ne [y ii froc m—5 | T o s ey s m—R i s oo ot10 201 R (000 000000191117+ i T EEE T metETeD - Taesmn1210353700 e, o ot Ve Brmns |12131 LOM0TE95 Vo, 0 Y TR VEOTTES VeWes EIRCTEST CTe0s 7T |13B “Totn, peneiD> 523, 507.05 113o1 S0 B WISTITITIIL i16T T T SR -0 EAT]P e T Tt |17191 i19107 T T 5 s 0 557 119201 ST 19902 0 i oy e (20it e22/ T TR SR W w223| ST 19022 0 Ty Eey T (23P o 15B e S E B L PR S P e NP A EEN",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-069--2022-11-28.pdf",
+      "page_number": 30
+    }
+  }
+]

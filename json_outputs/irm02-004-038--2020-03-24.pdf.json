@@ -1,0 +1,488 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "262cdf2e482f75722754f13148a48605",
+    "text": "LMSB, SB/SE, TE/GE and W&I.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "563e29a81f740a7ef98be765d65fc09e",
+    "text": "Code CSEDR",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8afad1cd34df651b4052fe5ed338a226",
+    "text": ") Managers review DAIP and DIAL output in order to identify cases with valid CSEDs and provide follow-up as needed to ensure statute protection. By and marking the tax module and printing this marker on DAIP and DIAL reports, unnecessary repetition of reviews can be avoided. Once all CSEDs within a tax module have been reviewed, this command code can be used to mark tax module if all its CSEDs are satisﬁed or protected. This indicator is only use, and is not displayed by CC TXMOD or other real-time programs, is shown only on the DAIP and DIAL. Upon update of the earliest CSED, indicator will be turned off systematically by weekend or daily processing. tax modules erroneously marked, this command code can be used to the indicator. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e00fd2d6e3dbb929768d162d6f760275",
+    "text": ") Purpose: This transmits revised IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "98b6d0b86277bd7580408cac3fc00ecd",
+    "text": ", IDRS Terminal Input, Code CSEDR. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "abc845e49c02e199cc5f745b5f166f9c",
+    "text": ") Audience: All IRS business units. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "79340726c484cedf25859678a9fa120d",
+    "text": ") Program Owner: Customer Service. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "02edf3b628af621abd265620d1035bc8",
+    "text": ") Primary Stakeholders: Wage & Investment(W&I), Large Business and International(LB&I), Small Business Self Employed(SB/SE), and Tax and Government Entities(TE/GE) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ab89a3b0f89bf878c7ce7725843a0335",
+    "text": ") Program Goals: This program allows a user to mark a tax module if all its CSEDs are satisﬁed or protected. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8ef72cf702f89213b9010b59b1d5ec11",
+    "text": ") This command code is used to set an indicator within a tax module to note the CSEDs have been reviewed and are satisﬁed or protected. CC TXMOD CSEDR must precede this request in order to reference the CSEDs to verify that earliest module CSED has not been changed since the last DAIP or DIAL If it has been updated there is no need for CC CSEDR to be used. The from the DAIP/DIAL listing is required input to CC CSEDR to conﬁrm this research has been done. (CSEDR may be preceded by itself in cases of response.) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e193868a2440a3ff1f9cdbcbb2d86b21",
+    "text": ") CC CSEDR uses TIN and FILE SOURCE, MFT, TAX PERIOD, and Name control information from CC TXMOD. Attempts to change these ﬁelds on CSEDR will be ignored. CSED and a CSED RO REVIEW indicator are complete a request. (CSED RO REVIEW is an optional indicator: if left the indicator will be set to mark the CSEDs as reviewed). When a request results in a valid response, CC CSEDR has updated the Basic Entity record denote activity, set the CSED Review indicator on the requested tax and generated a history item for the Action History record. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "470c86f62be3a229f9250f6ebbac83e7",
+    "text": ") Input request screen is redisplayed including line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1ef58d3c159a182547e1bdb8c152313a",
+    "text": "information from CC TXMOD, with one of the following on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "35b5aa12cf98c42107100978a21eb270",
+    "text": "a. Error response-See EXHIBIT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f18a26baf590033f38c76ced9e355b89",
+    "text": "for speciﬁc messages. b. Valid response “REQUEST COMPLETED ” will be displayed.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3f008640bcd30748ae1875d5e7b30e67",
+    "text": "Error response-See EXHIBIT 2.4.38–1 for speciﬁc messages. Valid response “REQUEST COMPLETED ” will be displayed.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "797a8e0d483ab99582bb8d442b54177e",
+    "text": ") The TDA portion of the DIAL provides employees of the district office with the information on TDA cases assigned to the Collection function. The DIAL pro- — DAIP and cessing includes analyzing TIF accounts for certain conditions (such as a CSED about to expire, cases open for a long time, or an ASED notice to be issued), and summarizes the account on the listing. The DIAL is regularly printed once a month. Only paper TDA and TDI cases will appear on the monthly listing. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d9d207b0c8d271dde13a70bbc1faa2a5",
+    "text": ") Cases in statuses other than paper TDA are included on the DAIP listing during the quarterly cycles. Both DIAL and DAIP listings may also be requested at any time in order to provide various inventory reports of TDA cases or by particular status and district office. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "94a6add165a858f0ab2051ad7a39e30a",
+    "text": ") CC CSEDR sets an indicator that is displayed on the DAIP and DIAL beside a CSED to mark the CSED as protected or satisﬁed. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c6eae8c960985cbdc00ce0ddce5d84f6",
+    "text": ") Whenever CC CSEDR is input and has a valid response, a history item will generated for the ACTION-HIST record. This item will consist of an action employee number, source code denoting this command code (S) and a literal determined by the action taken (CSEDREVIEW or CSEDERROR.)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ec5cad295577a6cbe5fbc1ddf5e7557c",
+    "text": "Whenever CC CSEDR is input and has a valid response, a history item will be generated for the ACTION-HIST record. This item will consist of an action employee number, source code denoting this command code (S) and a literal determined by the action taken (CSEDREVIEW or CSEDERROR.)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "31e1400e4f65b70ba2ef4f20ba3b835d",
+    "text": "Use this CC to mark a tax module as having all CSEDs reviewed and determined to be satisﬁed or protected. CC TXMOD must precede this command code.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "7c44f9db41262e7379ccbc3bc04f04d0",
+    "text": "Input Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a5f3141fa4a4e505963964a5e72aa3cb",
+    "text": "1-9 | 11-19 | 21-29 | 31-39 | 41-49 | 51-59 | 61-69 | 71-80123456789012345678901234567890123456789012345678901234567890123456789012345678901 |CSEDR nn-nnnnnnnv MFT=nn TX-PRD=YYYYMM NM-CTRL=VVVV 12 | YYYYMMDDv 23 34 45 56 67 v8 89 910 1011 1112 1213 1314 1415 1516 1617 1718 1819 1920 2021 2122 2223 2324 24123456789012345678901234567890123456789012345678901234567890123456789012345678901-9 |11-19| 21-29 | 31-39 | 41-49 | 51-59 | 61-6971-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "43f46f28f23534c6680f5cf5597f8f61",
+    "text": "|12345678901234567890123456789012345678901234567890123456789012345678901234567890| 1-9 | 11-19 | 21-29 | 31-39 | 41-49 | 51-59 | 61-69 | 71-80",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "370827f7cd3665c59e9166158a772492",
+    "text": "CSED-YYYYMMDD",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b67d9dbce81a2329a547a20c5674914b",
+    "text": "Exhibit 2.4.38-2 (01-01-2014) Command Code CSEDR",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "11d1102aa26ab0332981661af5fe92cc",
+    "text": "Output Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8dce013c84f71d8f761edae89ae7c2cf",
+    "text": "1-9 | 11-19 | 21-29 | 31-39 | 41-48 | 51-59 | €1-69 | 71-801234567839012345678901234567850123456789012345678301234567890123456789012345678901 |CSEDR nn-nnnnnnnv MET=nn TX-PRD=YYYYMM NM-CTRL=VVVV 12 | YYYYMMDDv 23 34 45 56 67 78 ]E 910 1011 1112 1213|REQUEST COMFLETED 1314 1115 1516 1617 1718 1819 1920 2021 2122 2223 2324 2412345678901234567890123456789012345678901234567890123456789012345678501234567890",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "77971693f2da94749636a7f260d3de17",
+    "text": "1123456789012345678901234567890123456789012345678901234567890123456783012345678901| 1-9 | 11-19 | 21-29 | 31-39 | 41-4%9 | 51-59 | 61-69 | 71-80 |",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "efa8ca8bbfb1958b0054b7ad7a071b63",
+    "text": "Item Line Position Description and Validity 1 1 1–5 CC CSEDR 2 1 7–18 TIN-F-S — displayed from CC TXMOD 3 1 21–23 LITERAL—MFT 4 1 MFT-CD — displayed from CC TXMOD 5 1 29–34 LITERAL—TX-PRD 6 1 TAX-PRD — displayed from CC TXMOD 7 1 57–63 LITERAL–NM–CTRL 8 1 NAME-CTRL — displayed from CC TXMOD 9 2 1–8 CSED — redisplayed 10 2 9 CSED-RO-REVIEW-IND — blank, R or E",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "5be3f96c1c06fd34713e1eae07ba7322",
+    "text": "Terminal Response:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d6a2b263b666b1a99fdb8e6780b09105",
+    "text": "inverse video. The invalid elements can be corrected and request re-entered. CC. • INITIALIZATION INVALID — CC TXMOD did not give valid response. • CSED DATE INVALID — not in numeric format. • CSED HAS BEEN UPDATED — CSED input must equal the CSED currently on the tax module. • CSED INDICATOR INVALID — not blank, E, or R. • BASIC ENTITY RECORD NOT PRESENT ON TIF — this account cannot be accessed. • ACCOUNT CURRENTLY UNAVAILABLE — Account is being used by another command or possible temporary ﬁle problems. Try again later. • NO SUCH TAX MODULE ON THIS ACCOUNT — Unable to locate speciﬁed tax module as belonging to speciﬁed TIN input. • TAX MODULE INVALID FOR CSED INDICATOR — Module would not qualify for DAIP or listing because IDRS (SC) status is not present, or is other than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "73fd58fb76bfcb96438796937c5018e7",
+    "text": "(with closing cd",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "bb01c44bd646ab29df9cea6459a3499b",
+    "text": "),",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3d30020b1863441a64e786bdc72745e9",
+    "text": ", or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d30ab8936c186738849366ce3cdc9411",
+    "text": "• TIF CSED INVALID FOR INDICATOR — CSED on tax module is either suspended or not computed (all zeroes on TIF). • DUPLICATE REQUEST NOT TAKEN — requested CSED-RO-REVIEW indicator on screen has same value already on tax module. Valid response — ‘REQUEST COMPLETED ’ on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-038--2020-03-24.pdf",
+      "page_number": 9
+    }
+  }
+]

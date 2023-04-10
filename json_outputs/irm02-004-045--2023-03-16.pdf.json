@@ -1,0 +1,4457 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "87663e6272c3e4cb2bf10eff280766a6",
+    "text": "This transmits revised IRM 2.4.45, IDRS Terminal Input, Command Code NRP97.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "15dc5198c26f9cadc2b7b792622ac9cd",
+    "text": "IRM 2.4.45, dated March 31, 2020, is superseded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "c978a59e5dc3692411cfcdab01079387",
+    "text": "LB&I, SB/SE, TE/GE, W&I.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5dd7373072f65ce1ad38fb2bd2e8dbc4",
+    "text": ") Overview : This IRM provides a resource guide on how to use IDRS program NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c904409e0424addb2e89a608a9f5883a",
+    "text": "to modify the NRPS Local Control Database (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "88d750dd122db942bc419656d81b7b90",
+    "text": ") Purpose : This IRM contains the resource guide for using IDRS command code NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c904409e0424addb2e89a608a9f5883a",
+    "text": "to modify the NRPS Local Control Database (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9127502ebff1d85ad6ef61ac05545b81",
+    "text": ") Audience : LB&I, SB/SE, TE/GE, W&I. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "49a67d7146bb16d7d88743d4a34c6d05",
+    "text": ") Policy Owner : The Chief Information Officer (CIO) is responsible for oversee- ing all aspects of our systems that operate the nation’s tax infrastructure. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3ceeafb8685a9ce97363a73dfd930389",
+    "text": ") Program Owner : Account Services, which is under the Director, Internal agement. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "326a2e54dd116e5d0decf2c60a66cb38",
+    "text": ") Primary Stakeholders : Wage & Investment (W&I), Large Business and national (LB&I), Small Business Self-Employed (SB/SE), Tax Exempt and Government Entities (TE/GE), and Enterprise Operations (EOPS) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5ec2bc2f4b3737883b36c742db965ed3",
+    "text": ") Program Goals : This IRM provides the fundamental knowledge and proce- dural guidance for employees who work Notice Review on IDRS. By following the processes and procedures provided by this IRM, employees will be able process NRPS requests in a manner that follows IRS policy and procedures while promoting the best interests of the Government. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "168a473c6d2ff8e1d5bf3cec1748b4c5",
+    "text": ") The purpose of Notice Review is to review IMF and BMF Computer Paragraph (CP) notices to verify the accuracy of notices selected for review before mailing. This will ensure the information received by taxpayers are complete and accurate. Notice Review employees use the Notice Review Processing System (NRPS) package, Control D, and /or Integrated Data Retrieval (IDRS NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8015b6faeade2c01d585230c735d94b5",
+    "text": "), Integrated Automation Technologies (IAT) Tool, and Account Management Services (AMS) to ensure the information for each notice is processed correctly. Any changes to the notices are made using the On Notice Review (OLNR) system. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1df46c33f5d8eb419d0f3693e439479f",
+    "text": ") Title",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2a0b337453f91a12781ec35897b2da4f",
+    "text": "of the United States Code (USC) or more commonly known as the Internal Revenue Code (IRC). The IRC has been amended by acts, public laws, rules and regulations, such as the following: • Omnibus Budget Reconciliation Act (OBRA) of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4de67e0f5686d752d8b01f5a97f9efea",
+    "text": "• Revenue Reconciliation Act of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "813fb841b611ff5122487c95ca872353",
+    "text": "(RRA",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a2b7f1a9cc63dff9e816554ca3db4072",
+    "text": ") • American Taxpayer Relief Act (ATRA) of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "19cf5079e72d6350be4b06a4c8b1b931",
+    "text": "• Surface Transportation and Veterans Heal Care Choice Improvement Act of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e4e0c0e87a0e4e88b8206328796cd545",
+    "text": "• Consolidated Appropriations Act of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "91f623c3dcf0136e6ded9537248d69e4",
+    "text": "• Hiring Incentives to Restore Employment (HIRE) Act • Foreign Account Tax Compliance Act (FATCA) • The Protecting Americans from Tax Hikes Act of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2470941a2b8625d45ee472e319a4a628",
+    "text": "(PATH) • Tax Reform Act of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "98f48a70df6bb551993893e4c94e9997",
+    "text": "• Tax Cuts and Jobs Act",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5c169ec7fbc9b7135f9a2b2e412d297d",
+    "text": "• Coronavirus Aid, Relief, and Economic Security Act of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5fc34bed1e9341fab793e81d6acd3dca",
+    "text": "(CARES Act) • Families First Coronavirus Response Act • The American Rescue Plan Act of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3bcf3c722ced348cf3a8fda3c50d234f",
+    "text": "• Inﬂation Reduction Act of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "598e6f258c2d4cda5f8d5bdd83067555",
+    "text": "Note: The above list may not be all inclusive of the various updates to the IRC. Code NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ef51e648dfc814b76990088c13114222",
+    "text": "page (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f9f5f58a33b000afa430d4521f4eff72",
+    "text": "Purpose : This IRM contains the resource guide for using IDRS command code NRP97 to modify the NRPS Local Control Database",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "fc30e9a784e2470f667b1d697bb77135",
+    "text": "Program Owner : Account Services, which is under the Director, Internal Man-",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c30782b0778fce2a842ecf3a40397c7d",
+    "text": "Omnibus Budget Reconciliation Act (OBRA) of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1666af1491347695c2e1ae37d7e78d29",
+    "text": "Revenue Reconciliation Act of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "813fb841b611ff5122487c95ca872353",
+    "text": "(RRA",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e0104f88a2fcf68be1d50b4dd2939550",
+    "text": ") American Taxpayer Relief Act (ATRA) of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "34f688cc12f9762e6d8471f0c7649211",
+    "text": "Surface Transportation and Veterans Heal Care Choice Improvement Act of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "732663e94da34c9192fff7d7c3b9243c",
+    "text": "Consolidated Appropriations Act of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b2a30d9c2c5e359ccb65c03c17ccadb7",
+    "text": "Hiring Incentives to Restore Employment (HIRE) Act Foreign Account Tax Compliance Act (FATCA) The Protecting Americans from Tax Hikes Act of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "be5ac2f09a329fe9fed0f2e8f06ae2f3",
+    "text": "(PATH) Tax Reform Act of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f4e3d03113efde828e55444b87cf4d20",
+    "text": "Tax Cuts and Jobs Act",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "31447f253db1abb697588df39254fce8",
+    "text": "Coronavirus Aid, Relief, and Economic Security Act of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "23add23bc6ccbb790671440c6fe69a38",
+    "text": "Act) Families First Coronavirus Response Act The American Rescue Plan Act of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "63a4bd905bddaa487ebb000503cd6169",
+    "text": "Inﬂation Reduction Act of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "7062a0102661b7ab20e5c54cbae553f8",
+    "text": "Note: The above list may not be all inclusive of the various updates to the IRC.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "75dd764a1b24e4e59c6b6f34e2ca339d",
+    "text": "NRPS Run Control Report (NRPS",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "b9f6648910917431b94f235235d70a6b",
+    "text": ")- lists the total counts of records that were invalid, matched, and dropped during updating. NRPS Dropped Report (NRPS",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "0a7dddf5fc55080bb5b946dce0f34747",
+    "text": ")- lists the contents of records that were matched and dropped from the data base. NRPS Aged Record Report (NRPS",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "dfda42216c6bc494319167cf8d7a9aa0",
+    "text": ")- lists the contents of records that were dropped due to age. NRPS Updated Local Control Selection Report- lists the contents of all records now remaining on the data base.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c277bd0d055d6eef56ae44b7db83df7c",
+    "text": "(4) Annual Review: The processes outlined in this IRM should be reviewed annually to ensure accuracy and promote consistent tax administration.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "a0129ed1b75a5fe49bbf866577dd8dd2",
+    "text": "This table lists Acronyms, Abbreviations, and Deﬁnitions.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9b7487b90c0fcbd13f64027998a313c1",
+    "text": "Acronyms and Abbreviations Deﬁnition GMF Generalized Mainline Framework GUF Generalized Unpostable Framework IDRS Integrated Retrieval System IMF Individual Master File IRC Internal Revenue Code IRM Internal Revenue Manual ITIN Individual Taxpayer Identiﬁcation Number LCF Local Control File NR Not Reviewed NRPS Notice Review Processing System OLNR On-Line Notice Review SSN Social Security Number TC Transaction Code TEP Tape Edit Processing TPNC Taxpayer Notice Code",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "34871912310206ef9db25466b3ad7c12",
+    "text": "The following resources may assist in performing the work as outlined in IRM: • Document",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "7452778163f4063abbbbc11cc861b21b",
+    "text": ", IRS Processing Codes and Information • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "73ab107155142065908cd405035e62da",
+    "text": ", Individual Income Tax Returns, for instructions related Code and Edit • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "5bd45e2dd35fec6634dfd10550703568",
+    "text": ", Individual Income Tax Returns, for instructions related Error Resolution System • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "eb0758c5bfe3d834b5b77fadb71545be",
+    "text": ", Manual Refunds • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2a96fc06bc61a52907cef91aa01e3f15",
+    "text": ", Erroneous Refunds • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ae237439dd3208e9fbd08d6e1e67b72d",
+    "text": ", Refund Offset • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a652c97302ebd5d15048ce4e4b49dbcd",
+    "text": ", Penalty Handbook • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "fc3cf1428b71d570ad054bee53075f6f",
+    "text": ", Interest • Servicewide Electronic Research Program (SERP) • Notice Review Processing System (NRPS) • On Line Notice Review (OLNR) • Integrated Data Retrieval System (IDRS) • Account Management System (AMS) • Integrated Automation Technologies (IAT)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2212596939f647784956c02322b6f9d1",
+    "text": "Command (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "a9ad900720814f9159b0599cb3022fb4",
+    "text": ") Use NRPS command codes to modify the NRPS Local Control Data Base which consists of ten NRPS record types: • NRPS-TIN-REC • NRPS-DLN-REC • NRPS-TPNC-REC • NRPS-MFT-TAXPRD-REC • NRPS-CPNUM-REC • NRPS-BAL-DUE-REC • NRPS-LG-CORP-REC • NRPS-ADJ-REC • NRPS-MISC-REC • NRPS-EMPLOYMENT-CD-REC. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f3387d8fad4d0d4fdcfa8eb841b3b378",
+    "text": ") Each record type may be updated by command code NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ae0904400f8004bc7773b1e26bae399a",
+    "text": "with a unique command code deﬁner. These command code literals appear on the BASIC OPTIONS menu screen generated by command code NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "040d08eaf758cd143cfe12ed4df557fa",
+    "text": "• T deﬁner used for SSN/EIN option • D for DLN • N for TPNC • M for MFT/TAXPRD • C for CP NUMBER • B for BALANCE DUE AMOUNT • L for LARGE CORPORATION • A for ADJ REASON CODE • I for MISCELLANEOUS IMF/BMF • E for EMPLOYMENT CODE (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f03b279193e97bbe23e93f1fe2a63058",
+    "text": ") Besides the updating options (display, change, add, delete) there are two options provided on the command code screens. The “OPTION-MENU ” used to display the Basic Options menu screen on which the user may another option to continue updating another NRPS record type. The “EXIT TAP” option is used to clear the entire screen and continue to input another command code if desired, or to sign off the IDRS terminal. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "c42a2705e79dca6b662147d7e4c968e9",
+    "text": ") Restrictions: Do not run NRPS command codes to update records in the weekly runs NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "516f04dcfae7fd723c9d0154b3ccc16f",
+    "text": "and NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "bf8f1246026c318ed2a27ffa4e9f8e03",
+    "text": "However, you can use them for during this period. If any records have been updated in between these two runs, those updated records will not appear on the NRPS Data Base after NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8d49bcb489c6a22a7b9bccf1c02bdad7",
+    "text": "run. This restriction will ensure continuity in the data base throughout the weekend NRPS runs. NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "69fc779c1a05f959669be224eb757f3f",
+    "text": ") Command code NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "6373407d9ef85ebc642009f32b359871",
+    "text": "is the required ﬁrst command code for updating NRPS Local Control Data Base. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "9150d5ab2cbefcfcea43b4dca9b83b40",
+    "text": ") Terminal Input/Output: See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "25228cf31a79370966ccc374048bd93e",
+    "text": ") Valid Response: The BASIC OPTIONS menu screen is generated. See",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "85a1f10d06f0d8fb95356d4ebfb07491",
+    "text": "Screen (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "170767b5b444ed579fd9d0d85a2998d6",
+    "text": ") Use this generated screen to select an appropriate option for updating a ticular NRPS record type. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "9150d5ab2cbefcfcea43b4dca9b83b40",
+    "text": ") Terminal Input/Output: See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "c76f9edfa1dcada2d01affb1bcc920fa",
+    "text": "IDRS Terminal Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "6cf2ec0baf6127c9fdec263b71f27850",
+    "text": "J (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "56eae966702a23b3f932f280d1e11614",
+    "text": ") Any line marked",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1ff8f2f86ac3c74031c6fc1012149ff7",
+    "text": ") Valid Response: One of the following command code input screens is generated: NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "c13cc6eb90549ac9ebd2cd2340fe95d8",
+    "text": "T, NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "21f58720deabb547c87284fc1a456508",
+    "text": "D, NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "16a80c80d45034916dede2a9e8345bc7",
+    "text": "N, NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4a4d061aa3322114620ebc02233ca797",
+    "text": "C, NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3e0786a7988155c2a990951138bbe39b",
+    "text": "B, NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3a6dede8ab7719baa7365252d4154cd9",
+    "text": "A, NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e841d79659e4ef1c7745b0c23f347893",
+    "text": "M, NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "5e3cb2815bcad9971f377313e37166a7",
+    "text": "L, NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "41db875128b4097a756a7fec75d07df6",
+    "text": "I and NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "fafc220b3fa2e5142d70bc4b492eceb5",
+    "text": "E. Code NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4a0f106f909de12fc410a5271abd0396",
+    "text": "T (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b7fafbf7aba2bacfb0d860477415c08c",
+    "text": ") Use this command code to update the NRPS TIN records on the NRPS Control Data Base. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "de4356d969b427ccfadecec84a60c5c0",
+    "text": ") Prerequisite command code-NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "9150d5ab2cbefcfcea43b4dca9b83b40",
+    "text": ") Terminal Input/Output: See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7cd96044a2906da2a8ac6bb539cc6c26",
+    "text": ") Terminal Responses are displayed one at a time on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e556028c035ffa27d9fd7547dd73bfe8",
+    "text": "of the command code NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "536f145b89071334e1fa78ed007fe62e",
+    "text": "T screen. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "129a2d62c0daff9518bcfa72f1468472",
+    "text": ", Terminal Responses for CC NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "df5e49dd240e5adbc34069d173eb8487",
+    "text": "T. Responses for (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e795d82f8039ce726c44eebc19f1d371",
+    "text": ") Invalid Response Error Messages a. IMF/BMF REQUEST NOT “I” OR “B” — Record Indicator must be “I” IMF or “ B” for BMF. Correct and re-enter. b. RETURN CHARGE OUT MUST BE “Y” OR “N ” — Self explanatory. Correct and re-enter. c. ENTER ONLY SSN OR EIN— Both SSN or EIN were input. Enter SSN or EIN. d. EIN ENTERED, IMF/BMF REQUEST NOT “B” — Change the Record Indicator to “I” and re-enter. e. IMF/BMF REQUEST IS “I”, ENTER SSN ONLY — Both SSN and EIN were input. Must enter SSN only and re-enter. f. INVALID MFT-RE-ENTER— MFT input is not numeric or is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "eff4b4c1b47368d706f2ec7060f4ee15",
+    "text": "Correct and re-enter. g. TIN IS NOT NUMERIC— Self explanatory. Correct and re-enter. h. MFT/TAX PERIOD ARE BMF OPTIONS ONLY — MFT/TAX PERIOD invalid options for IMF. Correct and re-enter. i. INVALID TAX PERIOD ENTERED— Tax period must be numeric and YEAR must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "be076d322c679287a2245b120c9e3b81",
+    "text": "and MONTH must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "6b716ed9cf205c1fd2495bb0b11962e5",
+    "text": "Correct and re-enter. j. VALID KEYS ARE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "829e5b28af38ab3379fd0b4f3fd4f2f1",
+    "text": "OR",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "01c6906efe3d737dd4adf65b865156a0",
+    "text": "—Substitute key input not one of the above keys. Correct and re-enter. k. RETENTION INDICATOR NOT “Y” OR “N” — Self explanatory. Correct and re-enter. l. PRIORITY INDICATOR NOT “Y” OR “N” — Self explanatory. Correct re-enter. m. PRIORITY IS BMF OPTION ONLY — Priority Indicator must not be set “Y” for IMF. Correct and re-enter. n. PACKAGE INDICATOR NOT “Y” OR “N” — Self explanatory. Correct re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "926cae90966b15d7a90716576ccfe99b",
+    "text": ") General Error Messages. a. ACTION INDICATOR NOT “X” — Self explanatory. Correct and re-enter. b. SELECT ONLY ONE ACTION — More than one action ﬁeld entered. Correct and re-enter. c. ENTER “X” IN APPROPRIATE ACTION FIELD — No action entered. Correct and re-enter. d. PLEASE INPUT CC NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "344c8ca798109872902afa647b7e4055",
+    "text": "AS A PREREQUISITE — CC NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "420251fbb5e9a352b60032f7762fe026",
+    "text": "must precede NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "c13cc6eb90549ac9ebd2cd2340fe95d8",
+    "text": "T, NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "21f58720deabb547c87284fc1a456508",
+    "text": "D, NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "16a80c80d45034916dede2a9e8345bc7",
+    "text": "N, NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4a4d061aa3322114620ebc02233ca797",
+    "text": "C, NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e841d79659e4ef1c7745b0c23f347893",
+    "text": "M, NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "5e3cb2815bcad9971f377313e37166a7",
+    "text": "L, NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3e0786a7988155c2a990951138bbe39b",
+    "text": "B, NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "6a68dc0969737d8a378873c6ffe3e277",
+    "text": "A or NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "35e3e77101df8b8c73519121b10e4056",
+    "text": "I. Code NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3660315a9af3df255d8f19ab077e4797",
+    "text": "page",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b02ecac7957c3d2f5792bfd578deb45a",
+    "text": "Terminal Responses are displayed one at a time on line 24 of the command code NRP97T screen. See IRM 2.4.45.4.1, Terminal Responses for CC",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "6882c089c9753edca9f3fa9ad5928238",
+    "text": "a. IMF/BMF REQUEST NOT “I” OR “B” — Record Indicator must be “I” IMF or “ B” for BMF. Correct and re-enter. b. RETURN CHARGE OUT MUST BE “Y” OR “N ” — Self explanatory. Correct and re-enter. c. ENTER ONLY SSN OR EIN— Both SSN or EIN were input. Enter SSN or EIN. d. EIN ENTERED, IMF/BMF REQUEST NOT “B” — Change the Record Indicator to “I” and re-enter. e. IMF/BMF REQUEST IS “I”, ENTER SSN ONLY — Both SSN and EIN were input. Must enter SSN only and re-enter. f. INVALID MFT-RE-ENTER— MFT input is not numeric or is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "eff4b4c1b47368d706f2ec7060f4ee15",
+    "text": "Correct and re-enter. g. TIN IS NOT NUMERIC— Self explanatory. Correct and re-enter. h. MFT/TAX PERIOD ARE BMF OPTIONS ONLY — MFT/TAX PERIOD invalid options for IMF. Correct and re-enter. i. INVALID TAX PERIOD ENTERED— Tax period must be numeric and YEAR must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "be076d322c679287a2245b120c9e3b81",
+    "text": "and MONTH must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "6b716ed9cf205c1fd2495bb0b11962e5",
+    "text": "Correct and re-enter. j. VALID KEYS ARE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "829e5b28af38ab3379fd0b4f3fd4f2f1",
+    "text": "OR",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d598d9b008f83a586810e2d87f4d3778",
+    "text": "—Substitute key input is not one of the above keys. Correct and re-enter. k. RETENTION INDICATOR NOT “Y” OR “N” — Self explanatory. Correct and re-enter. l. PRIORITY INDICATOR NOT “Y” OR “N” — Self explanatory. Correct and re-enter. m. PRIORITY IS BMF OPTION ONLY — Priority Indicator must not be set “Y” for IMF. Correct and re-enter. n. PACKAGE INDICATOR NOT “Y” OR “N” — Self explanatory. Correct re-enter.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "57c0f3b077f597e8b5cf5c0fe03d8818",
+    "text": "ACTION INDICATOR NOT “X” — Self explanatory. Correct and re-enter. SELECT ONLY ONE ACTION — More than one action ﬁeld entered. Correct and re-enter. ENTER “X” IN APPROPRIATE ACTION FIELD — No action entered. Correct and re-enter. PLEASE INPUT CC NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "344c8ca798109872902afa647b7e4055",
+    "text": "AS A PREREQUISITE — CC NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "420251fbb5e9a352b60032f7762fe026",
+    "text": "must precede NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "c13cc6eb90549ac9ebd2cd2340fe95d8",
+    "text": "T, NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "21f58720deabb547c87284fc1a456508",
+    "text": "D, NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "16a80c80d45034916dede2a9e8345bc7",
+    "text": "N, NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4a4d061aa3322114620ebc02233ca797",
+    "text": "C, NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e841d79659e4ef1c7745b0c23f347893",
+    "text": "M, NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "5e3cb2815bcad9971f377313e37166a7",
+    "text": "L, NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3e0786a7988155c2a990951138bbe39b",
+    "text": "B, NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "6a68dc0969737d8a378873c6ffe3e277",
+    "text": "A or NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "6177fd2664d785bf3c9f9b89a952d651",
+    "text": "I.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "ffcbd5dea81c9638ec085324c24adcfb",
+    "text": "e. NOT IN PRODUCTION MODE-NOTHING UPDATED— To update the NRPS Data Base, user must sign on the IDRS terminal with an “P” for production mode. f. RECORD ALREADY EXISTS — Unable to add or delete since the record is already on the NRPS Data Base. Use the “CHANGE” ﬁeld to change the record. g. RECORD NOT FOUND — Unable to display or change since the record doesn’t exist on the NRPS Data Base. Use the “ADD” ﬁeld to add the record. h. NRPS DATA BASE AREA NOT AVAILABLE — The NRPS area is down at the moment. Re-input when it is up. i. NRPS INPUT/OUTPUT ERROR REENTER — Error returned when the NRPS area is accessed. Notify CSA. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "2b51555f535f3a7f9228d52255758ea8",
+    "text": ") Warning Messages a. RECORD ADDED-MAX IMF TINS EXCEEDED . nnnnn RECORDS — The IMF record was successfully added to the data base. “nnnnn” indicates that the total of IMF TINs is exceeding the limit of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "7b3b3022f8d7ce8eba530fc41a10cb02",
+    "text": "records. b. RECORD ADDED-MAX BMF TINS EXCEEDED . nnnnn RECORDS — The BMF record was successfully added to the data base. “nnnnn” indicates that the total of BMF TINs is exceeding the limit of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "1ff3a2c2f2fa2bb526a7045965917735",
+    "text": "records. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9992212c888887975135f2e246dfd53f",
+    "text": ") Request Completed Messages. a. RECORD ADDED-TOTAL IMF TINS: nnnnn RECORDS — The IMF record was successfully added to the data base. “nnnnn” is a number IMF TIN records on the NRPS data base. b. RECORD ADDED-TOTAL BMF TINS: nnnnn RECORDS — The BMF record was successfully added to the data base. “nnnnn” is a number BMF TIN records on the NRPS data base. c. RECORD CHANGED — The record was successfully changed on the NRPS data base. d. RECORD DELETED — The record was successfully deleted from the NRPS data base. e. RECORD FOUND AND DISPLAYED — The record was found and displayed on the screen. NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "c7666078662c7246f00de9ffa79abdcb",
+    "text": "D (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9b145bde05b02dd5bc7d050fdc037607",
+    "text": ") Use this command code to update the NRPS DLN records on the NRPS Local Control Data Base. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "de4356d969b427ccfadecec84a60c5c0",
+    "text": ") Prerequisite command code-NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9150d5ab2cbefcfcea43b4dca9b83b40",
+    "text": ") Terminal Input/Output: See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "7cd96044a2906da2a8ac6bb539cc6c26",
+    "text": ") Terminal Responses are displayed one at a time on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "e556028c035ffa27d9fd7547dd73bfe8",
+    "text": "of the command code NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "af641aa52256a7b5004772c5adfb6662",
+    "text": "D screen. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "129a2d62c0daff9518bcfa72f1468472",
+    "text": ", Terminal Responses for CC NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "f9e487799dfc7882b1a0db0479992494",
+    "text": "D.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "86a53a7a3e11bfa1caae38c83838be39",
+    "text": "e. NOT IN PRODUCTION MODE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "ba2780f87f8fe29bded793d35d935889",
+    "text": "NOTHING UPDATED— To update the NRPS Data Base, user must sign on the IDRS terminal with an “P” for production mode. f. RECORD ALREADY EXISTS — Unable to add or delete since the is already on the NRPS Data Base. Use the “CHANGE” ﬁeld to change the record. g. RECORD NOT FOUND — Unable to display or change since the record doesn’t exist on the NRPS Data Base. Use the “ADD” ﬁeld to add the record. h. NRPS DATA BASE AREA NOT AVAILABLE — The NRPS area is down at the moment. Re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "20a3f30d201893b21565d8712a4fa5d2",
+    "text": "input when it is up. i. NRPS INPUT/OUTPUT ERROR REENTER — Error returned when the NRPS area is accessed. Notify CSA.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "67292ef3dd23d14eb4e6e5b732da7055",
+    "text": "a. RECORD ADDED-MAX IMF TINS EXCEEDED . nnnnn RECORDS — The IMF record was successfully added to the data base. “nnnnn” indicates that the total of IMF TINs is exceeding the limit of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "7b3b3022f8d7ce8eba530fc41a10cb02",
+    "text": "records. b. RECORD ADDED-MAX BMF TINS EXCEEDED . nnnnn RECORDS — The BMF record was successfully added to the data base. “nnnnn” indicates that the total of BMF TINs is exceeding the limit of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "8b28aa2fd4c32c704c2087bdd523792b",
+    "text": "records.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "da09ba50710e9af09006466694a9e81b",
+    "text": "a. RECORD ADDED",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "839bd7852212625acc8df787e8a85e68",
+    "text": "TOTAL IMF TINS: nnnnn RECORDS — The IMF record was successfully added to the data base. “nnnnn” is a number IMF TIN records on the NRPS data base. b. RECORD ADDED",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "64ddb5da0b928b6e2625812bf15d0eb2",
+    "text": "TOTAL BMF TINS: nnnnn RECORDS — The BMF record was successfully added to the data base. “nnnnn” is a number BMF TIN records on the NRPS data base. c. RECORD CHANGED — The record was successfully changed on the NRPS data base. d. RECORD DELETED — The record was successfully deleted from the NRPS data base. e. RECORD FOUND AND DISPLAYED — The record was found and displayed on the screen.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "b8f6e5565a301490c793b93fc7a32fed",
+    "text": "IMF/BMF REQUEST NOT “I” OR “B” — Record Indicator must be “I” for IMF or “ B” for BMF. Correct and re-enter.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "bcc46165a267e658368d8dc2cd7631c2",
+    "text": "b. RETURN CHARGE OUT MUST BE “Y” OR “N ” — Self explanatory. Correct and re-enter. c. INVALID DLN—DLN input is not numeric. Correct and re-enter. d. INVALID ERS DLN—ERS DLN input is not numeric. Correct and re-enter. e. ENTER ERS OR PARTIAL/FULL DLN-ERS or PARTIAL/ FULL DLN not input. Enter either ERS or PARTIAL/FULL DLN and re-enter. f. ENTER ONLY ERS OR PARTIAL/FULL DLN—Two DLN ﬁelds were Enter either ERS or PARTIAL/FULL DLN and re-enter. g. VALID KEYS ARE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "829e5b28af38ab3379fd0b4f3fd4f2f1",
+    "text": "OR",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d20316f1c51f4866109bf1e4aa9504ae",
+    "text": "— Substitute key input not one of the above keys. Correct and re-enter. h. PRIORITY INDICATOR NOT “Y” OR “N”— Self explanatory. Correct re-enter. i. PRIORITY IS BMF OPTION ONLY — Priority indicator must not be set “Y” for IMF. Correct and re-enter. j. PACKAGE INDICATOR NOT “Y” OR “N” — Self explanatory. Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "e52a36f04b7918b98fb58b66f692e47a",
+    "text": ") General Error Messages — See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "5c63d9b7e4af4cf9ef58555a9b6c36fd",
+    "text": ", item",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "61a882635fac8acf349bdb751a353273",
+    "text": ") Warning Messages. a. RECORD ADDED-MAX IMF DLNS EXCEEDED . nnnnn RECORDS The IMF DLN record was successfully added to the data base. “nnnnn” indicates that the total of IMF DLNs is exceeding the limit of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3a6c8ffcf416a9ab101b55b52d3cf889",
+    "text": "records. b. RECORD ADDED-MAX BMF DLNS EXCEEDED . nnnnn RECORDS The BMF DLN record was successfully added to the data base. “nnnnn” indicates that the total of BMF DLNs is exceeding the limit of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "0010230aaf5a636d91b0f38b81cddb5c",
+    "text": "records. c. RECORD ADDED-MAX IMF PARTIAL DLNS EXCEEDED. nnnnn RECORDS — The IMF PARTIAL DLN record was successfully added the data base. “ nnnnn” indicates that the total of IMF PARTIAL DLNs exceeding the limit of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "bf4c867f53eac6e5865fa709d7b972cc",
+    "text": "records. d. RECORD ADDED-MAX BMF PARTIAL DLNS EXCEEDED. nnnnn RECORDS — The BMF PARTIAL DLN record was successfully added the data base. “ nnnnn” indicates that the total of BMF PARTIAL DLNs exceeding the limit of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "1ff3a2c2f2fa2bb526a7045965917735",
+    "text": "records. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "307641db0890d66893729422979c6f13",
+    "text": ") Request Completed Messages. a. RECORD ADDED-TOTAL IMF DLNS: nnnnn RECORDS — The IMF DLN record was successfully added to the data base. “nnnnn” is a number of IMF DLN records on the NRPS data base. b. RECORD ADDED-TOTAL BMF DLNS: nnnnn RECORDS — The BMF DLN record was successfully added to the data base. “nnnnn” is a number of BMF DLN record on the NRPS data base. c. RECORD ADDED-TOTAL IMF PART DLNS : nnnnn RECORDS — The IMF PARTIAL DLN record was successfully added to the data base. “nnnnn” is a number of IMF PARTIAL DLN records on the NRPS data base. d. RECORD ADDED-TOTAL BMF PART DLNS : nnnnn RECORDS — Th",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d4ff34a0b49b77686db18960bad869a6",
+    "text": "MF PARTIAL DLN was successfully added to the data base. “nnnnn” is a number of BMF PARTIAL DLN records on the NRPS data base. e. RECORD CHANGED — The record was successfully changed on the NRPS data base. Code NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "ef51e648dfc814b76990088c13114222",
+    "text": "page (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "04e6ddc0e76381c38891f02bc6f6ad6f",
+    "text": "b. RETURN CHARGE OUT MUST BE “Y” OR “N ” — Self explanatory. Correct and re-enter. c. INVALID DLN—DLN input is not numeric. Correct and re-enter. d. INVALID ERS DLN—ERS DLN input is not numeric. Correct and re-enter. e. ENTER ERS OR PARTIAL/FULL DLN-ERS or PARTIAL/ FULL DLN was not input. Enter either ERS or PARTIAL/FULL DLN and re-enter. f. ENTER ONLY ERS OR PARTIAL/FULL DLN—Two DLN ﬁelds were input. Enter either ERS or PARTIAL/FULL DLN and re-enter. g. VALID KEYS ARE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "829e5b28af38ab3379fd0b4f3fd4f2f1",
+    "text": "OR",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "6773879b940a1f3c4bd2652259f2778b",
+    "text": "— Substitute key input not one of the above keys. Correct and re-enter. h. PRIORITY INDICATOR NOT “Y” OR “N”— Self explanatory. Correct and re-enter. i. PRIORITY IS BMF OPTION ONLY — Priority indicator must not be set to “Y” for IMF. Correct and re-enter. j. PACKAGE INDICATOR NOT “Y” OR “N” — Self explanatory. Correct and re-enter.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "80ba5c92c85f5814537737e08ab54d34",
+    "text": "General Error Messages — See IRM 2.4.45.4.1, item 2.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "c7c318126ed1306108f2a940ceff41ac",
+    "text": "RECORD ADDED-MAX IMF DLNS EXCEEDED . nnnnn RECORDS The IMF DLN record was successfully added to the data base. “nnnnn” indicates that the total of IMF DLNs is exceeding the limit of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "29e79dc834f206f0ffd3badcf2fdfa6b",
+    "text": "records. RECORD ADDED-MAX BMF DLNS EXCEEDED . nnnnn RECORDS The BMF DLN record was successfully added to the data base. “nnnnn” indicates that the total of BMF DLNs is exceeding the limit of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3c336e83fd8a9fe8ad20b0fd005fbd5d",
+    "text": "records. RECORD ADDED-MAX IMF PARTIAL DLNS EXCEEDED. nnnnn RECORDS — The IMF PARTIAL DLN record was successfully added the data base. “ nnnnn” indicates that the total of IMF PARTIAL DLNs exceeding the limit of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "36ad3ff0ce9c2eb64810c705cc28b804",
+    "text": "records. RECORD ADDED-MAX BMF PARTIAL DLNS EXCEEDED. nnnnn RECORDS — The BMF PARTIAL DLN record was successfully added the data base. “ nnnnn” indicates that the total of BMF PARTIAL DLNs exceeding the limit of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8b28aa2fd4c32c704c2087bdd523792b",
+    "text": "records.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3a6c8ffcf416a9ab101b55b52d3cf889",
+    "text": "records. b. RECORD ADDED-MAX BMF DLNS EXCEEDED . nnnnn RECORDS The BMF DLN record was successfully added to the data base. “nnnnn” indicates that the total of BMF DLNs is exceeding the limit of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "0010230aaf5a636d91b0f38b81cddb5c",
+    "text": "records. c. RECORD ADDED-MAX IMF PARTIAL DLNS EXCEEDED. nnnnn RECORDS — The IMF PARTIAL DLN record was successfully added the data base. “ nnnnn” indicates that the total of IMF PARTIAL DLNs exceeding the limit of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "bf4c867f53eac6e5865fa709d7b972cc",
+    "text": "records. d. RECORD ADDED-MAX BMF PARTIAL DLNS EXCEEDED. nnnnn RECORDS — The BMF PARTIAL DLN record was successfully added the data base. “ nnnnn” indicates that the total of BMF PARTIAL DLNs exceeding the limit of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "1ff3a2c2f2fa2bb526a7045965917735",
+    "text": "records. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "307641db0890d66893729422979c6f13",
+    "text": ") Request Completed Messages. a. RECORD ADDED-TOTAL IMF DLNS: nnnnn RECORDS — The IMF DLN record was successfully added to the data base. “nnnnn” is a number of IMF DLN records on the NRPS data base. b. RECORD ADDED-TOTAL BMF DLNS: nnnnn RECORDS — The BMF DLN record was successfully added to the data base. “nnnnn” is a number of BMF DLN record on the NRPS data base. c. RECORD ADDED-TOTAL IMF PART DLNS : nnnnn RECORDS — The IMF PARTIAL DLN record was successfully added to the data base. “nnnnn” is a number of IMF PARTIAL DLN records on the NRPS data base. d. RECORD ADDED-TOTAL BMF PART DLNS : nnnnn RECORDS — Th",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "1993ecd4f8b10c74bca3c062d056a829",
+    "text": "MF PARTIAL DLN was successfully added to the data base. “nnnnn” is a number of BMF PARTIAL DLN records on the NRPS data base. e. RECORD CHANGED — The record was successfully changed on the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "a7f60a63a3567127b84ddef013a57927",
+    "text": "RECORD ADDED-TOTAL IMF DLNS: nnnnn RECORDS — The IMF DLN record was successfully added to the data base. “nnnnn” is a number of IMF DLN records on the NRPS data base. RECORD ADDED-TOTAL BMF DLNS: nnnnn RECORDS — The BMF DLN record was successfully added to the data base. “nnnnn” is a number of BMF DLN record on the NRPS data base. RECORD ADDED-TOTAL IMF PART DLNS : nnnnn RECORDS — The IMF PARTIAL DLN record was successfully added to the data base. “nnnnn” is a number of IMF PARTIAL DLN records on the NRPS data base. RECORD ADDED-TOTAL BMF PART DLNS : nnnnn RECORDS — Th",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7d9ff894ccd569f0ffb6f166e2abb8a5",
+    "text": "MF PARTIAL DLN was successfully added to the data base. “nnnnn” is a number of BMF PARTIAL DLN records on the NRPS data base. RECORD CHANGED — The record was successfully changed on the NRPS data base.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3643260dd19ba06f68550837c7b73b8f",
+    "text": "— The record was successfully deleted from the",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "56789c83e7583ecc820584accb215c6a",
+    "text": "Terminal Responses are displayed one at a time on line 24 of the command code NRP97N screen. See IRM 2.4.45.6.1, Terminal Responses for CC",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "5724f6740ba983ddb39c3e3eba0964e6",
+    "text": "code NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "355438ff2c5df824b2cab73ac219fb29",
+    "text": "N screen. See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "129a2d62c0daff9518bcfa72f1468472",
+    "text": ", Terminal Responses for CC NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "fa3a3569547866da98a33a6192c7e47d",
+    "text": "N. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "056d65dc6539f2b15648eacd0fcf703e",
+    "text": ") Invalid Response Error Messages. a. ENTER ONLY TPNC OR TPNC GROUP — Both ﬁelds were input, enter either TPNC or TPNC GROUP and re-enter. b. MUST ENTER TPNC OR TPNC GROUP — Both ﬁelds left blank, enter either TPNC or TPNC GROUP and re-enter. c. TPNC MUST BE NUMERIC — Self explanatory. Correct and re-enter. d. PRIORITY “Y”-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "6dc3d474d6b30286517a3c1d4941863b",
+    "text": "% MUST BE SELECTED — Priority ﬁeld was set to “Y” and Percentage selected was not",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "9058eaa450f2deeddfb95cb1e9e3e6f6",
+    "text": "%. Correct and re-enter. e. PRIORITY “Y” FOR TPNC ONLY — Priority “Y” is not a valid option for TPNC GROUP. Correct and re-enter. f. PRIORITY INDICATOR NOT “Y” OR “N” — Self explanatory. Correct and re-enter. g. PACKAGE INDICATOR NOT “Y” OR “N” — Self explanatory. Correct re-enter. h. CP NUMBER IS VALID FOR TPNC ONLY —CP Number is not a valid option for TPNC GROUP . Correct and re-enter. i. INVALID CP NUMBER—CP Number input is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "f7d1f99b00dbb14e2175c3b764d66c39",
+    "text": "or all alpha characters, or with embedded blank(s) or alpha character(s). A valid CP Number must be numeric and may include any ending alpha character— e.g.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "27cb7fbe7fa5e8b5c0b8d9cb27cff09e",
+    "text": "A,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "6ba1c2a715a042e201162bc56b35d85f",
+    "text": "E... j. INVALID CP, NUMBER MUST START IN POS",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "38c64fce64d483e646140e0fc2cd868c",
+    "text": "— The ﬁrst position of Number was left blank. Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "ccd70c2c8acadc867c1f748d824434be",
+    "text": ") Percentage Input Error Messages. a. PERCENTAGE INDICATOR NOT “X” — Percentage indicator must be “X”. Correct and re-enter. b. SELECT ONLY ONE PERCENTAGE — More than one percentage was selected. Correct and re-enter. c. ENTER “X” IN APPROPRIATE % FIELD — No percentage was selected. Correct and re-enter. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "e52a36f04b7918b98fb58b66f692e47a",
+    "text": ") General Error Messages — See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "4a33eacd5fa65f2b2e2871cd131286b5",
+    "text": "item",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "9e5ebc05ed63de30ace4cc8fd086d882",
+    "text": ") The following message is displayed by one of Command Code NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "16a80c80d45034916dede2a9e8345bc7",
+    "text": "N, NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "e841d79659e4ef1c7745b0c23f347893",
+    "text": "M, NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "b3c94e4f34ee514fcd18731728ca8e78",
+    "text": "A and NRP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "ddbb6b49735664997bb5b60a14fc7a29",
+    "text": "C when a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8b4602034e317125296d395afd333800",
+    "text": "% is present on the record.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "6ce6dc12749d06f2292e4ce7c4a07623",
+    "text": "The following message is displayed by one of Command Code NRP97N, NRP97M, NRP97A and NRP97C when a 0% is present on the record.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "0a76187f712aaf8167155e96b05a51e2",
+    "text": "CURRENT RECORD SHOWS 0%-MUST CHANGE OR DELETE— The record was displayed and shows a 0% on the percentage ﬁeld. Enter a signiﬁcant percent or delete the record.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "1b2bd1b1abde065195b3ac5717c4f005",
+    "text": "a. RECORD ADDED — The record was successfully added to the NRPS data base. b. RECORD CHANGED — The record was successfully changed on the NRPS data base. c. RECORD DELETED — The record was successfully deleted from the NRPS data base. d. RECORD FOUND AND DISPLAY — The record was found and displayed on the screen.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3e6260f5972365aa15187ef2b53c1100",
+    "text": "IMF/BMF REQUEST NOT “I” OR “B” — Record Indicator must be “I” for IMF or “ B” for BMF. Correct and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "774d2b75500817218fe0bda044530e97",
+    "text": "enter. RETURN CHARGE OUT MUST BE “Y” OR “N ” — Self explanatory. Correct and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "f982c0ef7c14ce0002b3b47c595c442c",
+    "text": "enter. ENTER ONLY NUMERIC VALUES ON AMOUNT —",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "ed00e04419f49d0a5f956e44214b2a39",
+    "text": "Amount input with leading blank(s), or with embedded blank(s) or non",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "5e8e4f8cfc5b21dfbdfd20a2cb95bf35",
+    "text": "numeric character(s). Input amount with leading zero(s) if necessary. Correct and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "50d13820f42d2bdfc5530ab938b909d4",
+    "text": "enter.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "853f990b9c7da85dfc2a77727886ee6c",
+    "text": "e. VALID KEYS ARE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "829e5b28af38ab3379fd0b4f3fd4f2f1",
+    "text": "OR",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "beaec14c390a8e8e377433a00410a24f",
+    "text": "—Substitute key input is not one of the above keys. Correct and re-enter. PRIORITY INDICATOR NOT “Y” OR “N” — Self explanatory. Correct and re-enter. g. PRIORITY IS BMF OPTION ONLY — Priority indicator must not be set to “Y” for IMF. Correct and re-enter. h. PACKAGE INDICATOR NOT “Y” OR “N” — Self explanatory. Correct and re-enter.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "e856c20e5ef053c469756062fea5578c",
+    "text": "a. RETURN CHARGE OUT MUST BE “Y” OR “N ” — Self explanatory. Correct and re-enter. b. INVALID MFT-RE-ENTER — MFT input is not numeric. Correct and re- enter. c. VALID KEYS ARE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "829e5b28af38ab3379fd0b4f3fd4f2f1",
+    "text": "OR",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "fdb0c51f1f883b843fc113151775b0f2",
+    "text": "— Substitute key input is not one of the above keys. Correct and re-enter. d. INVALID TAX PERIOD ENTERED — Tax Period must be numeric and Year must be g",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "ddde25a020f2d223c7c1a1972960228d",
+    "text": "and Month must be",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d4f85d36757c12f0c6dab57721287f32",
+    "text": "–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "f617c91ca8e828f51ec97a2c5e541935",
+    "text": "Correct and re-enter. e. PRIORITY INDICATOR NOT “Y” OR “N” — Self explanatory. Confect and re-enter. f. PRIORITY IS BMF OPTION ONLY — Priority Indicator must not be set to “Y” for IMF. Correct and re-enter. g. PACKAGE INDICATOR NOT “Y” OR “N” — Self explanatory. Correct and re-enter.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "6f4a06f6c372d10dc5f100e5ff70b854",
+    "text": "(2) Percentage Input Error Messages — See IRM 2.4.45.6.1, item 2.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "13c295b338c1f3d4d16c877a268e4685",
+    "text": "a. RETURN CHARGE OUT MUST BE “Y” OR “N ” — Self explanatory. Correct and re-enter. b. REASON CODE MUST BE NUMERIC — Self explanatory. Correct and re-enter. c. VALID KEYS ARE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "829e5b28af38ab3379fd0b4f3fd4f2f1",
+    "text": "OR",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "e005a9c47c5b5d9fbde7d675d5ae8641",
+    "text": "— Substitute key input is not one of the above keys. Correct and re-enter. d. PACKAGE INDICATOR NOT “Y” OR “N” — Self explanatory. Correct and re-enter.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "e74fe16479161b3f67b8b66bcec7132e",
+    "text": "Percentage Input Error Messages — See IRM 2.4.45.6.1, item 2.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "f2ba79a7afce7a23e8cb18578d4de225",
+    "text": "Terminal Responses are displayed one at a time on line 24 of the command code NRP97C screen. See IRM 2.4.45.10.1, Terminal Responses for CC",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "1368880db5c4073761d99e0ed99002fd",
+    "text": "Invalid Response Error Messages. a. IMF/BMF REQUEST NOT “I” OR “B” — Record Indicator must be “I” for IMF or “ B” for BMF. Correct and re-enter. b. RETURN CHARGE OUT MUST BE “Y” OR “N ” — self explanatory. Correct and re-enter. c. CP NUMBER MUST BE ENTERED — CP Number was not input. Correct and re-enter. d. INVALID CP NUMBER — CP Number input is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "36859d9c53175d70759abf087f1c2543",
+    "text": "or all alpha charac- ters, or with embedded blank(s) or alpha character(s). A valid CP Number must be numeric and may include any ending alpha character— e.g.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "27cb7fbe7fa5e8b5c0b8d9cb27cff09e",
+    "text": "A,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "c91838fbdb4acfd97b0fd8345f84d7f9",
+    "text": "E... e. INVALID CP, NUMBER MUST START IN POS",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "5946a7371b82f110f74a7ab50ccf96f1",
+    "text": "— The ﬁrst position of CP Number was left blank. Correct and re-enter. f. ZIP-CODE SELECTED, % MUST BE BLANK —Since",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "f1afb01c9bc9880761153c18b508f0ca",
+    "text": "% is a default for zip codes range option. It is not necessary to select percentage. Correct and re-enter. g. VALID KEYS ARE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "829e5b28af38ab3379fd0b4f3fd4f2f1",
+    "text": "OR",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "531c4c3bf12a0f9123ea94632c872d84",
+    "text": "— Substitute key input not one of the above keys. Correct and re-enter. h. INVALID PENALTY CODE — Penalty Code input is not numeric. Correct and re-enter. i. INVALID MFT-RE-ENTER — MFT input is not numeric or is",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "1436e2e8839b8fe5c3e80733c899a0eb",
+    "text": "Correct and re-enter. j. MFT IS REQUIRED FOR BMF MATH-ER-CD — Enter BMF MFT for selected Math Error Code and re-enter. k. MFT IS BMF OPTION ONLY — Self explanatory. Correct and re-enter. l. INVALID MATH ERROR CODE — Math Error Code input is not numeric. Correct and re-enter. m. MATH-ER-CD IS VALID FOR CP NUM & MFT ONLY — Self explanatory. Correct and re-enter. n. MATH ERROR CODE IS BMF OPTION ONLY — Self explanatory. Correct and re-enter. o. INVALID FREEZE CODE — The left or right hand position of Freeze Code is not an alpha character (A-Z), a hyphen (-), an underline character ( _) a blank. It must have an alpha letter followed or preceded by one of these characters: hypen (-), underline (_), blank—e.g. A-, A A[slashb] ....",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "f150e89ef1b92f27f4b149dd7636db81",
+    "text": "Note: a blank and underline character will be automatically changed to a hypen.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "f6d21160d099c3350d5108b12a351cc5",
+    "text": "q. FREEZE-CD IS BMF OPTION ONLY — Self explanatory. Correct and re- enter. r. FREEZE-CD IS VALID FOR CP NUMBER ONLY — Self explanatory. Correct and re-enter. s. MUST ENTER THE FIRST ZIP CODE — The second zip code was input but the ﬁrst zip code is missing. Correct and re-enter. t. ZIP CODE IS NOT NUMERIC — Self explanatory. Correct and re-enter. u. ZIP CODE IS INVALID —The",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "5ac043363639fb2cd8386d2f7918baea",
+    "text": "th and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "78f2d682db7f5fa68e4e44bb6ee65c26",
+    "text": "th digits of the zip code are zeroes. Correct and re-enter. v. ZIP CODE IS VALID FOR CP NUMBER ONLY —Zip code is a valid option for CP NUMBER only. Correct and re-enter. w.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "4771f8c2ea39efe1fe466e53935a18ce",
+    "text": "ND ZIP-CD MUST BE EQUAL OR >",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d33989020aa07f334397ccdd8de84e02",
+    "text": "ST ZIP-CD — The second zip code input is less than or not equal to the ﬁrst zip code. Correct and re-enter. x. PRIORITY INDICATOR NOT “Y” OR “N” — Self explanatory. Correct and re-enter. y. PRIORITY IS IMF & BMF OPTION — Self explanatory. Correct and re- enter. Correct and re-enter. z. PACKAGE INDICATOR NOT “Y” OR “N” — Self explanatory. Correct and re-enter.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "45f55b03f8f15c1de08390f93594981e",
+    "text": "(2) Percentage Input Error Messages — See IRM 2.4.45.6.1, item",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "42569a96d3f3aa2ff11ef50aa16f86c5",
+    "text": "a. EXCEPTION NOT “Y” OR “N” — Self explanatory. Correct and re-enter. b. SELECTION LIMIT NOT NUMERIC — Self explanatory. Correct and re- enter. c. SELECTION LIMIT MUST BE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "c3bd7d9e8b2caee8082be02695f8268e",
+    "text": "TO",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "7059f92317db7c23b831a78cef6a9bd3",
+    "text": "— Selection Limit input is less than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "0024840f7059dc4a7a2a593f5f743cff",
+    "text": "Correct and re-enter. d. TPNC CHARGE OUT NOT “Y” OR “N” — Self explanatory. Correct and re-enter.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "dc1d24f06b652f38998ef1ebc9f6764e",
+    "text": "EXCEPTION NOT “Y” OR “N” — Self explanatory. Correct and re-enter. SELECTION LIMIT NOT NUMERIC — Self explanatory. Correct and re-",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "80ba5c92c85f5814537737e08ab54d34",
+    "text": "General Error Messages — See IRM 2.4.45.4.1, item 2.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "4072165dccf573a67b90b735428ac94e",
+    "text": "a. RETURN CHARGE OUT MUST BE “Y” OR “N ” — Self explanatory. Correct and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "b7c5b4abdad1399976311ba69c0b66c2",
+    "text": "enter. b. EIN MUST BE NUMERIC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "b84b1b88dab63ec755c0c9f31c02aaef",
+    "text": "RE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "065f31b019761a7d7f76d1e04bcc7428",
+    "text": "ENTER — Self explanatory. Correct and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "5da19ca40b7734bcb19557d649920007",
+    "text": "enter. c. PACKAGE INDICATOR NOT “Y” OR “N” — Self explanatory. Correct and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "50d13820f42d2bdfc5530ab938b909d4",
+    "text": "enter.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "c10ac6e1c0eb98576b3e9d78c1f401c5",
+    "text": "Terminal Responses are displayed one at a time on line 24 of the command code NRP97E screen. See IRM 2.4.45.13.1, Terminal Responses for CC",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3ad8fbb309e726732ee4b587f42da56b",
+    "text": "a. RETURN CHARGE OUT MUST BE “Y” OR “N ” — Self explanatory. Correct and re-enter. b. EMPLOYMENT CODE IS NOT C, F. G. M, N. S. T. W — Employment Code input is not one of the above codes. Correct and re-enter. c. ENTER ONLY NUMERIC VALUES IN AMOUNT — Amount input with leading or embedded blank(s) or with non-numeric character(s). Input only numeric digits with leading zero(s) if necessary. Correct and re-enter. d. VALID KEYS ARE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "829e5b28af38ab3379fd0b4f3fd4f2f1",
+    "text": "OR",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "8a1a09c31b95fb4a61af9cdbdcb993bf",
+    "text": "— Substitute key input not one of the above keys. Correct and re-enter. e. PRIORITY INDICATOR NOT “Y” OR “N” — Self explanatory. Correct and re-enter. f. PACKAGE INDICATOR NOT “Y” OR “N” — Self explanatory. Correct and re-enter.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "58907412a0193a1849897cbb9fc12be1",
+    "text": "Request Completed Messages — See IRM 2.4.45.6.1, item 5.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "33c1e29902d678cbcff13d561dbfd825",
+    "text": "This Page Intentionally Left Blank",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "29cb8779bde99471b8a4d4669b4f9cd1",
+    "text": "Input Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "bd48df6e86871034b6b1ff664002e84e",
+    "text": "Exhibit 2.4.45-2 (06-18-2009) Generated BASIC OPTIONS Menu Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "29cb8779bde99471b8a4d4669b4f9cd1",
+    "text": "Input Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "1c5e2a49890a7f30407dc0024d8ec071",
+    "text": "203, CUONGR, DRLETE on DiaTLAY RRGORD (51 O Lo conTRGL FILE:smsrr aen on aix T —p—— s mauaser oo oos wrjpmcevmace P S ——SHAPSIC P MDGEN/PEACENTACE MRBSTL  NISCELLANEOUS IXF/BNI GPTIONSSMPSTL LR comomTION NI BusLonaNT cone/awooeEo ors aromTion 58 The 338 (054USE THE TAD KETS TO POSTTION THE CUNGOR SELber T meeiamy et",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "06d850cc2878b44aa55e2c6b6188f774",
+    "text": "DESCRIPTION AND VALIDITY",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "29cb8779bde99471b8a4d4669b4f9cd1",
+    "text": "Input Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "61b0dd7a09cdb75292ef79049b9b748d",
+    "text": "P[ IVETEETTIIET PR RTCSTE sh1C Opticns: s5u o8 F1n RacoRDLS)I -iiiiUL on e e, a0 ron e pup——.L T b ar———S osm 4 sommions. sussrirors e v 3 ormiows. - e o se oo i oyR, A TUN < ovriows - o & B Gr-0sEAGLT)BRIORITY, & (01 GO s oY (0-bernaiPHINT GACKAGE, 10 (¥/M1+  OPRIOW, - 11 - bamAue)[18] DISPuavidl  cwsEis ALy ORLITELC oern wams | ECT TAPiLs[t e i L ST R01 035 T8 7D s 70 7057 T CURCOR. #114 1N REQUIRED AMD DFEICNAL LSL] 035 \"X- 70 SELECR 7w SESIRED ACTICH, FNGR STRY COBE e BES ET KB24l 9e L",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "ba487f3ff5522239fe9900f224841b78",
+    "text": "Exhibit 2.4.45-3 (Cont. 1) (06-18-2009) CC NRP97T",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "6706b814849c9e4680baeafe6552f599",
+    "text": "RETENTION INDICATOR — Optional, must be “Y” or “N”. “N” is generated on the screen as a default. If set to “Y”, the record will remain on ﬁle until it is manually deleted or it is selected for review.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "fac6146ff929ccfa1277e690b62dd6fe",
+    "text": "PRIORITY INDICATOR — Optional, BMF option on.y. Must be “Y” or “N”. “N” is generated on the screen as a default.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "0fa04e58d113493dc4599f0cec066adf",
+    "text": "PRINT PACKAGE INDICATOR — Optional indicating whether or not a notice package will be generated by the weekend NAS runs. Must be “Y” or “N”. “Y” is generated on the screen as a default.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "499c4f04583850ffc0591422f39a9926",
+    "text": "'DESCRIPTION AND VALIDITY.",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "1f2bf32c89d3568f2ffc2bc855fe387a",
+    "text": "CHANGE INDICATOR—Ents X\" o ths field",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "c592af0a25686d386353cea35c74cb50",
+    "text": "o change an exsing cord on",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "373f02862dd0c3b9d0a917654bc0a180",
+    "text": "DDINBICATOR_Enta X\" on i i",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "2d3370a9b0063ca1928cfc862dec0315",
+    "text": "o adkd  nw rcordnsm INOICATOR—Ener S an s",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "cb32f0be030747b0c104e36fe637cce6",
+    "text": "Gt an i rcordon",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "5f09b4a64bcaac02e8e47a61262c780a",
+    "text": "ENU DCATOR—rtr onths b g kb h BASCg REATSR o",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "e976b719c30a5e3b96b8c97fc41e3f4f",
+    "text": "t ettt o cormandcadeo coa i ot scroe S A",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "8537306bc344b5cce602691efd5bc773",
+    "text": "for o () Terminal Response.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "29cb8779bde99471b8a4d4669b4f9cd1",
+    "text": "Input Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "df5db90a47f880b16ab72924a47657e0",
+    "text": "o BN 3 -+ wsquimo5 o 4 - . omromH orriowss sumsTITUTE WS KRV 5+ orriom - 1er Mo mwr14| PRIORITY, & (¢/N)+  oPHoL - bir oY (NeoEPACLT)| Ftne PACKAGEL 2 (¢/W)+  OVFIONAL - (X = DEPAILE)lo| ouace  cwsers  wouo pmEmdn ormion e mar meas20| ves mim T KEvs 70 PoREION THE CUNSOR. FILL I8 REGUINED AN OPTIOWAL FiFLDS",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "214e91d8b2e75e8ff28023eaa7b02260",
+    "text": "Exhibit 2.4.45-4 (Cont. 1) (06-18-2009) CC NRP97D",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "29850c0a5a92c9da6511ea43a6651b0a",
+    "text": "'DESCRIPTION AND VALIDITY",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "41550e8313e1481c3de1e78ce4489974",
+    "text": "'RECORD INDICATOR.Must b \" for MF or 5\" forRETURR CHARGEOUT INDICATOR ot v or \"FULL/BARTIAL DEN- Fl DL o st b 4 dgts A Paral DL",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "0b27d02638af689cce442f785e74f83d",
+    "text": "RETURN CHARGEOUT INDICATOR—Must be \"™ o",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "95229cb3521324cbf3270fc7a35303f1",
+    "text": "R AL B Pl LN e ot",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "dcdb0587e74ef0e6843a151073eed8b3",
+    "text": "s A Patal OConsicteof ary combinatonal",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "ee0c00e3c8da7097b39a499bfd75491d",
+    "text": "t of e DL ang s vaa",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "26ad114eb21006a164286601e567fd46",
+    "text": "st any.Pt win  spocic Fode wihn he DL Fo axampl, Paral DLo lctary e i o o £",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "2c2670efc7c229b6889e613d78abfb7f",
+    "text": "s yor gt",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "c8c1df10315b00ce9e5160462ad1fba6",
+    "text": "o g s oo",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "aa68c1b7919166c23ed0f1956553f8b7",
+    "text": "Coud Sl s e eramgl. by ey o slocany oo wih",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "31bd56735f710edc329f893e6aca0691",
+    "text": "Syt a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "3fba1380ebf327fca9c1ee9c1f374302",
+    "text": "W eyl hare",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "3e0fc38db2564b0d73733ae4be6dd003",
+    "text": "RSDIN. Tiatbe",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "4de6bb4e4a6c2058981c96726e7142bc",
+    "text": "dai",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "807a24962c22c8a567d69de94042b514",
+    "text": "UBSTITUTE REv-_Optanal mustboruma Val keys ro",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "e626ae6329b2c9d35de42867377b6777",
+    "text": ",H",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "57eab00812054a5bc12f1cfcb898174d",
+    "text": "AR AT S e cotng eet e by o et RO R o o BB OB S",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "4a78ce5ddee02f5c4111e65aac4c3f91",
+    "text": "TENAE NOEATER g",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "2df65e05603e8b1a01bb26077c99f51f",
+    "text": "CENRERTTS RETA, e CERRa",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "895057967cb0dfe2a4c69361b128e210",
+    "text": "BEbe DN",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "7fe7ee7859582ae90146eac2b86a1e0a",
+    "text": "o CCapa",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "596c9d16827c79a00dd16efd26fa3b93",
+    "text": "BB O MEND RACATOR a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "12601ed2579e9f86f0a837d201922caf",
+    "text": "Ce o",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "f5867e5d7c63caca8b3e60af882a7de7",
+    "text": "B AP NCATOR- Son CCRAFOTTEXIT TAP INDICATOR—Saa CONRRITT. . respones",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "29cb8779bde99471b8a4d4669b4f9cd1",
+    "text": "Input Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "a3849cb11a30aa9cd0d0921d6afaab56",
+    "text": "Goa L -ae L aeas | 3i=d9 | ai4s | simss | 6169 |1le 1 on o croum 2orrions: o waazn. 10TRy, 1100e PackaGEs L2(1/w)  (vooEALT)Dispianils  CAGELS ADilS  DRSTES  GPION KEWILT EXIT TAPLLS+ magommm rieos+ g (e oy o)ez 210 410 53§30 18 4 g 0007o TG owLy (ueoePAYEE)L T REGUIRED A OPTIONNL PIELDS",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "a648ae32c3b3ba2a63c5df8d6d0be0f1",
+    "text": "Exhibit 2.4.45-5 (Cont. 1) (06-18-2009) CC NRP97N",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "d2cacb47353fb105eb801fa623d3be35",
+    "text": "DESCRIPTION AND VALIDITY.",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "1d7f56b6c2bfdd0aba1bd56f1a4fed05",
+    "text": "NDUSER- Optona v o seie TNC an. use rumerc eyokl oy a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "866326bc87c781e1e4cdec744be8a709",
+    "text": "v s Lsang o S ol recmay—<",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "908dd1b2e491f24cf074ea04f4be57b6",
+    "text": "TEn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "684e8e12ca8fc885c48ee97fa598910e",
+    "text": "achiry mocs o s TNG oy",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "f4f717ffafb7d67c530007217ec972b7",
+    "text": "t p i S ]T eyackage i gerersed o ko AG R Mot",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "1f1b8fbc09856670aa516e9488e769c0",
+    "text": "o ssen s s Geau",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "0ce091223435e60daf329182d2861dbe",
+    "text": "INDICATOR- Sas G NAPOTT.CHANGE INDICATOR—Se",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "4f739552f417f46ed86c14a1539a9015",
+    "text": "CC NRPTT:KBOINDICATOR. Soa CENAPOITBT BICHTO a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "f0e201953cdd1ad2ef29c17fd0500ce6",
+    "text": "CC NPTBETION HEN] NDICATOASom CC NEPSTTBTN NDICATOR- Sew CC APMESSAGE o",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "93551d50c1cf18614b0412186cd10d2b",
+    "text": "lor e {",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "040a41a1e823e4a4201bb88b75b38890",
+    "text": ") Terminal Fesponse.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "29cb8779bde99471b8a4d4669b4f9cd1",
+    "text": "Input Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "ab3f6e8290e32a1c694dfacaf2f04a53",
+    "text": "PRy ———— o2 nerim commasour wawrEs? r+ oo §_ 3. « mgonmorrious: somsTITUTE Wars xEYi 4+ opriom - 1 a0 meFRIGRITY § ()t OPTIONL - Bip ONLY (ReDETALT)AN TAGRAGEL & (/M)s _OPTIONAL - (% = DEPAALE)I THE DESINED ANGONT.  THE AMDON TNPUS BacouEs TR LowER 1IN FORCTINC IALANCE DUE NOTIGES. THE UPPER LIKITS ARE $99,599.59 PO 14F AID§15,000.00 FOR . TAPUT DOLLARS AND CENTS WITH LEADING £ERGS 17 RECESSANY -",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "6648b866619c9c93c7295d6913f31423",
+    "text": "Exhibit 2.4.45-6 (Cont. 1) (06-18-2009) CC NRP97B",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "9953af47530b4783afbbf871ffff7630",
+    "text": "PRINT PACKAGE INDICATOR — Optional, indicating whether or not a notice package will be generated by the weekend NAS runs. Must be “Y” or “N ”. “Y” is generated on the screen as a default.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "ca7e969cd96296a8c4a0c875216c776b",
+    "text": "MESSAGE — See IRM 2.4.45.7, for item (4) Terminal Response.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "29cb8779bde99471b8a4d4669b4f9cd1",
+    "text": "Input Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "0a824ef7410ff3f6c0995b3962e7665b",
+    "text": "[ ——csT—n TR TS TP T T e Tv S e TP TP ER T== Wi Lo conmo L iil Py e p— I131 o E ! 15DAl e mmis 1o a wer o orrion By 1Pl IAl s coomo wwzoe v on w + s erms Iil KTl i1 wena - s ihol I[ rmcemas 3uo3am 52 4 2 3 3o ie 12I orrions: sumsTiTe wwes ke 10 ¢ opttou 1] T IO, - oetiouat ee R —— ssl R BACKAGE: L3 0ON e OPTIOUAL (toDRAULT Ii oo owenss | s o201 USE THE Taa HEVS 0 P05ITION THE CURGOR | FILL 1% AEOUIKED XD OPTiow, Firios |201] USE X° 70 SELBST % D TR GASTRED ACHION, BOTER SHTAY COOE AW NI ik ROV |1112 TP IVET YIS PRYIeT PIEPSTeTETTT ot",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "665b131d16f0e3eca3158cd29bd0a219",
+    "text": "Exhibit 2.4.45-7 (Cont. 1) (06-18-2009) CC NRP97M",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "29850c0a5a92c9da6511ea43a6651b0a",
+    "text": "'DESCRIPTION AND VALIDITY",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "29cb8779bde99471b8a4d4669b4f9cd1",
+    "text": "Input Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "c6a688d966fb5b683c4521494179785e",
+    "text": "3 neromn chasoaouT wANTED? \"1 on W+ RagUINED FImLSSAosusant reasow coors 2 PRacmor 210 4100 53§ 2so B8 300ortions: sumsrrzoTe mes v 0+ oemiomFRINT PACKMGE. L1(X/W)  OPTIONL (WOEPALT)Aoouae o5 548 KEY9 %0 FOSITION THE CURSOR.  PILL 1% REQUIRED AND OPEIOWL TIELDSI 70 SELICT § AND THE DESINED ACTION, ENTER ENTRY COOR AND NIT DNIT KEY.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "2d5a0c014b1194f2bee6b4f7d4075a80",
+    "text": "Exhibit 2.4.45-8 (Cont. 1) (06-18-2009) CC NRP97A",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "29850c0a5a92c9da6511ea43a6651b0a",
+    "text": "'DESCRIPTION AND VALIDITY",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "29cb8779bde99471b8a4d4669b4f9cd1",
+    "text": "Input Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "1afcf45e133e7b8032c6e2f47ab047db",
+    "text": "1_1-de | 2129 1 i 1 di-as 1 i111 ron i wars, - ren mr3 neronw cxaaRoo warEsy e+ o8e sFaioRrT 077/e pacaacts 902/vz cuenizs | aomanBstc ovriony Gr NN PEALTY/smooman 41 3 g3 2 4 20 a9RagoinED Fimios. mgom© b o, negura> ros wari-ea-co|P —© orrons - eoem)ortion kmwize  put mavias",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "cc6c681de9ae9e573f61564d09997fb7",
+    "text": "Record Element Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "06d850cc2878b44aa55e2c6b6188f774",
+    "text": "DESCRIPTION AND VALIDITY",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "ba9e1fe5122c4e89916faf633ea0a751",
+    "text": "'RECORD INDICATOR —Must be “I\" for IMF or “B\" for BMF.RETURN CHAFGEOLT INOIGATO. ustbe Y \"NG NUMSE_at b nd may e ay g apnachrcier.CBasingoros ot nocossary-—o. 128,210 51Porcantags ndiators Ono of e (lowing porcoiages ust b slecta foroot eheos £ CIDES ranga ophon",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "981b9edf01b83f47c0133a0cf57230aa",
+    "text": "Exhibit 2.4.45-9 (Cont. 1) (01-01-2015) CC NRP97C",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "d2cacb47353fb105eb801fa623d3be35",
+    "text": "DESCRIPTION AND VALIDITY.",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "b5ee037d087b120c7ae32330fe66fab2",
+    "text": "MFT— Optional, BMF option only.",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "368172a6e0c5dba486706f1fda6e15e8",
+    "text": "MFT— Optional. BMF option only.Vst rrma and i",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "6207bfbdbc61b9868fe13790179cf91b",
+    "text": "MATHERFOR CODEOptonal BMF oponan: Must b numere.N WET st b oarod §",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "4721f3744ceefdd7c7a4525b9c37dbab",
+    "text": "oplon s seloc",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "6041d7b7464f26e52a06466abb87e459",
+    "text": "REEZE CODE—Optona BMF opton ony, Mt havean s e (-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "241e0916760bbec75637939d484e400b",
+    "text": "{olongs e icadotty  yn )",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "649042f12ffea561154dc30eec0a6ac9",
+    "text": "i chace {",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "3ed3153277ae33d301f53589792dd527",
+    "text": "s b",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "ca950c72340e5c40e3b89ff72bcff7de",
+    "text": "bk endan undoringchactrwi b aomatcaly conveod",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "ba3fd58d48223e3b42469573f2f3b676",
+    "text": "Iy andispaye o h scroe",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "bdbc31d45c46412854a2f2ad7012dd06",
+    "text": "IRST",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "3428ed69a24df7f2be554e8994a7fe4d",
+    "text": "GODE  Optoal must b umer",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "558a21f1dfbb6b07e8974dc1888e5336",
+    "text": "oqueod",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "d4478e0ce9c7f2fdb37106ef9b8b7577",
+    "text": "he socond",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "67582fecc37b49c4410ac8935682107c",
+    "text": "oo s‘SECOND",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "6be7943d2bd5d7bb73c8c8e11f9781a3",
+    "text": "P GODE — Optonal mistbo umercv must o soubx rota thar st pcode. s blarks andit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "f81f8a912d2a247cc22b2d8bdea85b29",
+    "text": "put o et",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "d0e9ab24f1c892f1f356e38c7d7532e8",
+    "text": "Usod",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "7ce4c263625efdcd06f540828152de0b",
+    "text": "LRIl So",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "3fdec3747d04a8f78de92bcfbd2c8dd2",
+    "text": "yed",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "0c41016c3bc79d168e0bf76d6ff98272",
+    "text": "o socona ip cod",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "b11967b42289c3353d898a347e53d717",
+    "text": "RIORITY INDICATOR— Soe CC NAPOTT.PRINT PAGKAGE INDICATOR:—Opicna rdcaing wheter o ot soc",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "b9df80f8bf664596487e6299082b6c08",
+    "text": "ackage wi s gensratad y e waskend A R st b - cr e \"Goneriad o S scroon a s Goau.BISSLAY INDICATOR- Son CCNRPSTT.CHANGE INDIGATOR—",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "db5800c41d854c897b7f5361b683acc6",
+    "text": "GO NRPOTT.'XDOINDICATOR. Seo CC NPOTT.DELETE INOIGATOR  Se",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "149d571b5234e3be3f4ff33f7e18379b",
+    "text": "GG NAPOTT.(GPTION MENU INOICATOR— So",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "4bec397c4a6e59862024554844e58429",
+    "text": "CC NAPOTT.EXTTTAP INDICATOR— Son CCNRPGTT.A a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "2541477018ae96140834fd6a6b76f6fa",
+    "text": "o ftoem () Terminal Response.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "29cb8779bde99471b8a4d4669b4f9cd1",
+    "text": "Input Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "23bf48f259923815e831ef5757260d4b",
+    "text": "Tit",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "06d850cc2878b44aa55e2c6b6188f774",
+    "text": "DESCRIPTION AND VALIDITY",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "ff7ffc9a8fc4e0a1aff55f3b1b4b2544",
+    "text": "1M PAYUENT EXCERTION INDICATOR:_ IMF opton ony,used 10 bypess hemantopion sattoT R e, st o e an i cangat30051008,N CHARGE SUTS FOR TPNC 100 INDICATOR—Ener Y o cbtan charge-it o s iU T 300BF CLRRGE.GUTS FOR TENG 50 NDICATOR—Entr Yt obtancharge-ot o naoas i B TONG, 400AN NBIEATOR-Enter \" o s fikd o crange a axistng recort o theot b o 10 i o0 U e e SRS O e SAN INCACAT O Soe CENFP TBT AP INDICATOR Sos CCNPETTESSAGE Soe S(2ONTENB4.11 for fam (4) Terminal Response.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "29cb8779bde99471b8a4d4669b4f9cd1",
+    "text": "Input Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "d0d04a2018992bb2b061306bc1e33c19",
+    "text": "W reminw cansazout wor negoTREDL —Crriows: e pAckE: 2 (/W)e OPTIOMAL (YeORTAULT) i)| ormara  cmena moi omemg omonmwg e |50| bes T2 Ta KEvs %o POSETION TRE CURSOR.  PILL IN REQUINED MKD OPEIONAL PIELDS |1051| UsE X 70 SKLECT THR SESIRED ACTION, THEN ENTER EVTRY CODS AND WIT RIT KT, |21",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "29850c0a5a92c9da6511ea43a6651b0a",
+    "text": "'DESCRIPTION AND VALIDITY",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "7c44f9db41262e7379ccbc3bc04f04d0",
+    "text": "Input Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "85586e943f7fd183f67916cbecd398a1",
+    "text": "3 RETORN CuNMGHOUT WANTED? ¥ on Nmorzonanr coor: 2 .o 53, .orrions: somsTirore ws mrvi 4PaionIzys £ v+sater Pacxach: & {1/e I[r—y—sagozseo.saornssCoriom. - (neoEmour)orriom. - (veoRrAL)ormion et marusz",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "29850c0a5a92c9da6511ea43a6651b0a",
+    "text": "'DESCRIPTION AND VALIDITY",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-045--2023-03-16.pdf",
+      "page_number": 37
+    }
+  }
+]

@@ -1,0 +1,2414 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "6abad1ffe19990d50a96f0560db7ba4c",
+    "text": "This transmits revised IRM 2.150.5, Conﬁguration Veriﬁcation for IRS Applications (PSL and Non-PSL) Process.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "34ae85433f5ea4a0a60c44b1840530ec",
+    "text": "This IRM is applicable to all Information Technology (IT) organizations, contractors, and other stakeholders having responsibility for conﬁguration management, oversight, and successful day-to-day operations of IRS enterprise hardware, software, and applicable documentation.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "d2084bcee2e284eb77a8d25b1c0f878c",
+    "text": "Conﬁguration Veriﬁcation for IRS Applications (PSL and Non-PSL) Process",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "b01535085b830a839f5a846fffdc992e",
+    "text": "Program Scope and Objectives",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0f24c9c76b4bff45ebd60115101a5758",
+    "text": ") Purpose. This IRM supplements the conﬁguration veriﬁcation process under IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8d82835f129a45ba7b79550e14a7c584",
+    "text": "Conﬁguration Management Process . This process speciﬁcally supports the conﬁguration veriﬁcation of IRS Applications (Premium Service List (PSL) and Non-PSL) and its Tier II server information to ensure that appli- cation to server relationships and select server attributes are accurate resulting in update to its conﬁguration item (CI) information in the Information Technol- ogy (IT) organization’s conﬁguration management database (CMDB). This process is a required activity for PSL applications to maintain data quality and integrity of the information that resides in the CMDB as part of Filing Season Readiness. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "cace182406a2b241dc37f2dff6a7315b",
+    "text": ") Audience. This IRM is applicable to all IT organizations, contractors, and other stakeholders having responsibility for conﬁguration, management, oversight, and successful day-to-day operations of the IRS IT enterprise hardware, software, and applicable documentation. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3ea974b7d4af721c92ab9af04d085090",
+    "text": ") Policy Owner. Demand Management & Project Governance (DMPG) Division, within Enterprise Operations (EOps) - IT. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "943978ade29ca65711eaff5c88b56931",
+    "text": ") Program Owner. Governance & Resource Management Branch, within DMPG - EOps - IT. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e461580c0d13c86c88defff0775a1082",
+    "text": ") Primary Stakeholders. IT organizations having responsibility for ownership and management of IRS applications and infrastructure are practitioners of this process. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "94ce6bf72869dfabb4b967b2b2a11dc0",
+    "text": ") Contact Information. To recommend changes or to make any suggestions to this IRM section, e-mail the IT CM Program Management Office: it.cm. process@irs.gov (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "355049b546b612029df0828ac3f666e1",
+    "text": ") The PSL Revalidation (original process name) was incepted in",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0cf4bdd3a9a078dfb55520648d4962ec",
+    "text": "and its purpose was to verify IRS critical systems, called PSL applications, information that were selected by the IT organization for premium incident response and service restoration services. It is a conﬁguration veriﬁcation activity performed as part of the Filing Season Readiness ensuring that PSL application informa- tion is accurate. The result of the PSL Revalidation is update to its CI record, such as application name, models, relationships, and services which are also consumed by other IT Service Management processes, such as Change, Incident, and Problem Management. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3488381545722bdccba47079b468b2ab",
+    "text": ") The PSL Revalidation was expanded to Non-PSL applications to trigger con- ﬁguration veriﬁcation activities for all other IRS applications. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e8e86dc9fa23753b4ffb2306db1d4345",
+    "text": ") This process will formally be called Conﬁguration Veriﬁcation for IRS Applica- tions (PSL and Non-PSL) for the combined but separate efforts. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0c053522948708f7d303d07422feeb05",
+    "text": ") The IRMs listed below establishes the authority for this process: • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2c8c3b0714a1818a8e01cd93b7d8952b",
+    "text": "Conﬁguration Management Policy • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "870cef502662f9bea29863ca8eb7bb8f",
+    "text": "Change Management Policy Veriﬁcation for IRS Applications (PSL and Process",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ef51e648dfc814b76990088c13114222",
+    "text": "page (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "866c527d7843e4e179998b3216ac8631",
+    "text": "Conﬁguration Veriﬁcation for IRS Applications (PSL and Non-PSL) Process 2.150.5 page 1",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ccb75554fa9d50e631c559dec895a5d8",
+    "text": "The PSL Revalidation was expanded to Non-PSL applications to trigger con- ﬁguration veriﬁcation activities for all other IRS applications.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "621045fdc278be25c30b88b359b19c7b",
+    "text": "This process will formally be called Conﬁguration Veriﬁcation for IRS Applica- tions (PSL and Non-PSL) for the combined but separate efforts.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "db81ea4ee6d92b401e36faf56583d732",
+    "text": "2.150 Conﬁguration Management",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c955801df05ccb6bc1d2e4335176ec66",
+    "text": ") Each process deﬁnes at least one role. Each role is assigned to perform speciﬁc tasks within the process. The responsibilities of a role are conﬁned to the speciﬁc process. They do not imply any functional standing within the hierarchy of an organization. For example, the process manager role does not imply the role is associated with or fulﬁlled by someone with functional man- agement responsibilities within the organization. Within a speciﬁc process, there can be more than one individual associated with a speciﬁc role. Addition- ally, a single individual can assume more than one role within the process although typically not at the same time. The table below describes the roles and responsibilities for this process.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "81be1e423d64561c3620cdf0e463b985",
+    "text": "Role Description Management Process Owner The CM Process Owner is the single point of contact for the process at the enterprise level and is accountable for the overall quality of the process, ensuring that the process is performed as documented and is meeting its objectives. The CM Process Owner’s responsibilities include sponsorship, design, review and continual improvement of the Process and its Metric. Speciﬁc responsibilities include",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1e8ae1d2d56aa23c3a12928477827214",
+    "text": "Deﬁnes the overall scope, mission, goal, and objectives of the process",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6ee54717b34246920ac852cd6637891d",
+    "text": "Ensures consistent execution of the process across the IT organi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "23d6ba44c101ad868d91283014bc1696",
+    "text": "zation",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d4c40f07d7d3ac9c7fedd665335969be",
+    "text": "Ensures that the process, roles, responsibilities and documenta",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7b434afee116eec81c37fce4c3ebb340",
+    "text": "tion are regularly reviewed and audited",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "231484a94917a0b1531cd0a1b39ba048",
+    "text": "Reports on the effectiveness of the process to senior manage",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "b46058c848516763d0e8d7c17929d796",
+    "text": "ment",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d8b481785e49b8e766b5fc5314bb6533",
+    "text": "Accountable for implementation and review of improvement actions",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4a46f8b508332e7b27c6d7c079e54dcc",
+    "text": "Ensures that sufficient resources are in place to support imple",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "af44d6a5e6119086e6dc7f977ca96ae2",
+    "text": "mentation of the process",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8d89d717b4df4576386d6ab4a3304379",
+    "text": "Ensures all relevant staff have the required training in the process and are aware of their role in the process",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "b02a1eca0329ec3267738a854528f436",
+    "text": "Ensures that the process is in alignment with the process auto",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "0f1b0778b3627e9d78ef2bdd9c95512d",
+    "text": "mation tool(s)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9eae5900e39b5aa395d1ef2598c0491a",
+    "text": "Resolves any process and cross",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5dc203af0432158626c501b3d9695045",
+    "text": "functional (departmental) issues",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "b9c7e850c191aa740cfc645a84f025d4",
+    "text": "Conﬁguration Veriﬁcation for IRS Applications (PSL and Non-PSL) Process 2.150.5",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "e277ad32d11650b772a8392340176942",
+    "text": "Manager (IT CM The CM Process Manager supports the CM Process Owner and is re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d1fe8572382adaa36d63094b4ab2dc3e",
+    "text": "sponsible for the operational management of the process. The Process Manager’s responsibilities include planning and coordination of all activi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "99ce6c256223ceb512a5dec028cbdc12",
+    "text": "ties required to execute, monitor and report on the process. Speciﬁc responsibilities include–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "6007131519f7bf7552a228a9fd606f96",
+    "text": "Designs, develops, and manages improvements to the process; including plans, principles and its implementation",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2e02f4646de594258354116ef67a3f5a",
+    "text": "Provides training and communication on the standards, policy, and process to CM stakeholders",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "5b6c64dc4a8912d2d6aa3e3888a1ffb1",
+    "text": "Plans, facilitates and organizes reviews, assessments, and audits on the process and CMDB with the Conﬁguration Auditor",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "c9aead58b303167d08fbfaa38bb913a9",
+    "text": "Plans and manages the alignment of the CM tools with the process; including evaluating CM tools and their design, require",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ab24f3268c09b0041646aa4f83323582",
+    "text": "ments, proposed changes, and implementation",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "60c3f7931924f21d72c043a0ed954e2c",
+    "text": "Develops, coordinates, and maintains the interfaces to other processes.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "069cac8e83f9b779649b769c453cf664",
+    "text": "Deﬁnes process metrics for measurement, reporting, and improving the process",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "e1604ab72c17165e21c07ae3fd11743b",
+    "text": "Escalates any issues with the process",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "e9607f2e232e7d0e5e7c1e1ffa98b16c",
+    "text": "Maintains scope of the process, function, and CIs that are to be controlled, and information that is to be recorded",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "1139ef7e1db9d33f7f22aae7b1dbe2a9",
+    "text": "Ensures that conﬁguration data is available when and where it is needed to support other IT processes",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "fd104ec720a99f7ae75983a654fd5966",
+    "text": "Agrees on the structure of the CMDB, including CI types, naming conventions, required and optional attributes and relationships",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "6ded27199d9d77336896ec235b8d1681",
+    "text": "Designs and generates conﬁguration status reports; including management reports Item (CI) The CI Owner is accountable for all activities that directly affects their CI(s). This role is also responsible for all CM process activities associ",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "90766d631f5b91591a217bd985712e4c",
+    "text": "ated with the maintenance and support of the CI. Speciﬁc responsibilities include –",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ef2c8195bf6943880c79f82f4153dce8",
+    "text": "Ensures that all their CIs are recorded, and the associated attri",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "c40a7247993a3affefb487d81a6c416b",
+    "text": "butes and relationship information is accurate",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "5c44783dca10081b070c5d7e91b664ad",
+    "text": "Ensures conﬁguration audits are performed on the CMDB",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "67bc1e916ca1e43c02007551c46aa04b",
+    "text": "Provides input to the CI Librarian/ Analyst into what attributes and relationships need to be tracked within the CMDB",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a6e8f039ea13174dc826700818e80e1b",
+    "text": "Accountable for correcting errors associated with their CIs CI Owners may be Application Owners, Project Owners, Server Owners, or Support Groups.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "903d68563cf7b26b2ae7090951f5cd9e",
+    "text": "The CM Process Manager supports the CM Process Owner and is re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d1fe8572382adaa36d63094b4ab2dc3e",
+    "text": "sponsible for the operational management of the process. The Process Manager’s responsibilities include planning and coordination of all activi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "99ce6c256223ceb512a5dec028cbdc12",
+    "text": "ties required to execute, monitor and report on the process. Speciﬁc responsibilities include–",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "4ca88e1c266dba569c031d40666126f4",
+    "text": "The CM Process Manager supports the CM Process Owner and is sponsible for the operational management of the process. The Process Manager’s responsibilities include planning and coordination of all ties required to execute, monitor and report on the process. Speciﬁc responsibilities include–",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2c084adb0275ea34fa44ada60052fe31",
+    "text": "responsibilities include– Designs, develops, and manages improvements to the process; including plans, principles and its implementation Provides training and communication on the standards, policy, and process to CM stakeholders Plans, facilitates and organizes reviews, assessments, and audits on the process and CMDB with the Conﬁguration Auditor Plans and manages the alignment of the CM tools with the process; including evaluating CM tools and their design, require",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f97156e8f75eb6a5de54a701f87859ea",
+    "text": "ments, proposed changes, and implementation Develops, coordinates, and maintains the interfaces to other processes. Deﬁnes process metrics for measurement, reporting, and improving the process Escalates any issues with the process Maintains scope of the process, function, and CIs that are to be controlled, and information that is to be recorded Ensures that conﬁguration data is available when and where it is needed to support other IT processes Agrees on the structure of the CMDB, including CI types, naming conventions, required and optional attributes and relationships Designs and generates conﬁguration status reports; including management reports CI Owner is accountable for all activities that directly affects their",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ef2c8195bf6943880c79f82f4153dce8",
+    "text": "Ensures that all their CIs are recorded, and the associated attri",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "8a464844b3262f0dc46e37200af96473",
+    "text": "butes and relationship information is accurate Ensures conﬁguration audits are performed on the CMDB Provides input to the CI Librarian/ Analyst into what attributes and relationships need to be tracked within the CMDB Accountable for correcting errors associated with their CIs Owners may be Application Owners, Project Owners, Server Owners, Support Groups.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "428ae3170a1654e41873d21bcb8f5919",
+    "text": "The CI Librarian/Analyst supports the CM Process Manager and CI Owner and is responsible for supporting, maintaining, controlling, and updating a speciﬁc CI or CIs. Speciﬁc responsibilities include –",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "b385bad7427026e725a8782e2e93e8c4",
+    "text": "Controls the receipt, identiﬁcation, storage and withdrawal of all supported CIs, including archives of superseded CIs",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "da6d70589afaa37a40079f02007a308f",
+    "text": "Identiﬁes and records the CIs in the CMDB, and determining rela",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "af1beb58b91fb71e482768c6aff85bf4",
+    "text": "tionships",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "c2f69ea2f9c647810dda921c3f5b57c9",
+    "text": "Ensures Data Model is accurate",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "77081484219e156cfb699b94b3fd617e",
+    "text": "Supports generation of status reports on various CMDB param",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "1ee8cc8128d77c366c6339a36a35c823",
+    "text": "eters and requests",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "146b8ef1696e12a53afb830629ba8c24",
+    "text": "Maintains status information on CIs and provides this as appropri",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8d97cc334bc39d5c4d1f7ad8aa20f27a",
+    "text": "ate to stakeholders",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "6b7685d5973848da8396ae2926e00098",
+    "text": "Assists with conducting conﬁguration audits, performing internal audits and validating exceptions",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "b8d5f4f0c08530ab3f433604ae08c211",
+    "text": "Identiﬁes, records and submits incidents relating to CIs",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "89e3ac3d5fd2a6e4304052a1d7897491",
+    "text": "Records and maintains CI Types (within scope) in the CMDB",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e3b71808ced7c91728c68d0b112ef966",
+    "text": "Discovers, reconciles, and updates CI records in the CMDB",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e88799a6fccc81c7d613a671b0deae12",
+    "text": "Validates accuracy of CMDB data and report discrepancies",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "5a758e4d9ea402223653837d80982297",
+    "text": "Creates and maintains the service and application models for CIs",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "abf874f56854f8a393d1e01e975fdf7d",
+    "text": "Provides input to the process scope and procedures.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "2d36f80c23d579814bc19ea98435879b",
+    "text": "Responsible for development, management, and maintenance of the PSL Process and facilitating review and approval of proposed applica- tions to the EOps Governance Board as a Premium Service application.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "6491d09389e2711101688c6accf6b96f",
+    "text": "Role in the SSF Process responsible for coordinating and implementing SSF change request submitted by CI Owners to update the application name and SSF attributes in Asset Management database and IRS Tier II servers.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "cd7aa2a89bf9b83814e6a57bab904bc8",
+    "text": "Responsible for approving/disapproving proposed applications in the PSL Process by CI Owners.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8ddd7c28853fa642a6279c4883f9cf21",
+    "text": "a. Process Management . Conﬁguration Management will have a single Process Owner and a separate Process Manager, responsible for imple",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ae35e684f7805ddda21c87f6dfb42ff5",
+    "text": "menting and ensuring adherence to the process. The process will be reviewed regularly to ensure that it continues to support the business re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ae3c3ec3d02ad016c6d7358bb2a7a1b2",
+    "text": "quirements of the enterprise. Process metrics will be focused on providing relevant information as opposed to merely presenting raw data. b. People . Roles and responsibilities for the process must be clearly deﬁned and appropriately staffed with people having the required skills and training. The mission, goals, scope and importance of the process must be clearly and regularly communicated by upper management to the staff and business customers of IT. All IT staff (direct and indirect users of the process) shall be trained at the appropriate level to enable them to support the process. It is imperative that people working in, sup",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "6c33d9d829330fdf920bde89529b0117",
+    "text": "porting or interacting with the process in any manner understand what they are supposed to do. Without that understanding Conﬁguration Man",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8035f6c7ec0d9e32f8608d462cae2082",
+    "text": "agement will not be successful.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "a42fe9d007610ec61e1c3718245dd878",
+    "text": "Conﬁguration Veriﬁcation for IRS Applications (PSL and Non-PSL) Process 2.150.5 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "bae0ca63986c7688b2d2fee956c16fcd",
+    "text": "Process . Modiﬁcations to Conﬁguration Management must be approved by the Process Owner. The design of the process must include appropri",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "85c421b43dcf449b4f91e9d23a7192c6",
+    "text": "ate interfaces with other processes to facilitate data sharing, escalation and workﬂow. The process must be capable of providing data to support real",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "2ed59cb604837875829091945b20554a",
+    "text": "time requirements as well as historical/trending data for overall process improvement initiatives. The process must be fully documented, published and accessible to the various stakeholders of the process. The process will be reviewed on a periodic basis to ensure it continues to support organizational goals and objectives (continuous improvement). The process must include Inputs, Outputs, Controls, Metrics, Activities, and Roles and Responsibilities along with documented process ﬂows. The process will be kept straight forward, rational, and easy to under",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "44514548994bbb88d6c57d35bf68febd",
+    "text": "stand. The process must meet operational and business requirements. Technology and Tools . All tools selected must conform to the enterprise architectural standards and direction. Existing in",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "dc1dcdd1d9436d61e45db0cd3705f783",
+    "text": "house tools and technol",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a4705fcb1221dfd78165ac8fd9ec469d",
+    "text": "ogy will be used wherever possible, new tools will only be entertained if they satisfy a business need that cannot be met by current in",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "84240f59a2870b321ae1fba34d9221e0",
+    "text": "house tools. The selection of supporting tools must be process driven and based on the requirements of the business. Selected tools must provide ease of deployment, customization and use. Automated workﬂow, notiﬁ",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8ee8a23c9e027719e99452c1589acd48",
+    "text": "cation and escalation will be deployed wherever possible to minimize delays, ensure consistency, reduce manual intervention and ensure ap",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e07805aaeac817f6942207760eed61c9",
+    "text": "propriate parties are made aware of issues requiring their attention. Technology and tools should be used to augment the process capabili",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "63a4d2dec28c90d988d29284fb9799a2",
+    "text": "ties, not become an end themselves.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7daf5a6b08f0adac40bbfcae2863bbd4",
+    "text": "Controls provide direction on the operation of processes and deﬁne constraints or boundaries within which the process must operate.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b908476868b981613814085c3f2ddcbd",
+    "text": "Controls or boundaries within which the process must operate. Name Description CM Policies Policies and mandates for management and control of CIs. Change Management Policies Policies and mandates for change control of CIs. Enterprise Architecture Mandates Requirements and mandates for all IRS applications to be registered and updated in the As-Built-Architecture. Scope The scope for this process is limited to IRS business applications supported by Tier II servers. Baselines Documented agreed descriptions of the attributes and/or speciﬁcations of a CI, at a point in time, which serves as the basis for deﬁning change. Conﬁguration Veriﬁcation The frequency of conﬁguration veriﬁcation to maintain the integrity of the CI and its attributes and relationships.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1c9a85be25a1dc6921caed451fd6044b",
+    "text": "The frequency of conﬁguration veriﬁcation to maintain the integrity of the CI and its attributes and relationships.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "db81ea4ee6d92b401e36faf56583d732",
+    "text": "2.150 Conﬁguration Management",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "2c22c97e68e26c50cc3de542a0259ef2",
+    "text": "The frequency and distribution for regularly produced conﬁguration man- agement reports on the status of CIs.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "6baad44ba7dc65c654509e61512546d6",
+    "text": ") Metrics are used for the quantitative and periodic assessment of a process. They should be associated with targets that are set based on speciﬁc business objectives. Metrics provide information related to the goals and objectives of process and are used to take corrective action when desired results are not being achieved and can be used to drive continual improvement of process effectiveness and efficiency. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "77889008f1b3cbb19a867e201f3af6ad",
+    "text": ") Management will regularly set targets for process performance, gather quantiﬁ- able data related to different functions of this process, and review that data make informed decisions and take appropriate corrective action, if necessary. All Measurements will have a deﬁned data dictionary, map to the organiza- tional strategic goals, and be documented in a Process Measurement Plan. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "bc2ea42ea7630e27f1afe86868bc909c",
+    "text": ") Enterprise and local Conﬁguration Management processes, including Conﬁgu- ration Management tool owners, must produce metrics and measurement reports to measure the effectiveness and efficiency of the Conﬁguration Man- agement process. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "bdb03629eecfc83172b2845e17265d88",
+    "text": ") This process will not be tailored. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "c8bcdd5e5fbf16b2032557523ddc32a1",
+    "text": ") The tables in the Terms/Deﬁnitions and Acronyms lists commonly used terms and acronyms in this IRM. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "e9c8905b23defc89b1df970749522d2a",
+    "text": ") This table lists commonly used terms for this process.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "b9c7e850c191aa740cfc645a84f025d4",
+    "text": "Conﬁguration Veriﬁcation for IRS Applications (PSL and Non-PSL) Process 2.150.5",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "5b44601d559d788fa2e6ec02b70442ee",
+    "text": "Deﬁnition Collection of software programs that automates a business function and its data provided by a taxpayer or third party to the IRS regarding the applicant’s status. Additional descriptions are listed below:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "39399180f1ca20f92aa3667e0834be6e",
+    "text": "An IT component of a system that utilizes IT resources to store, process, retrieve or transmit data or information using IT hardware and software.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "433b4b82fcc84ed233dd18c27e7e3985",
+    "text": "Each Application may be part of more than one IT Service.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "bed1fae6a7aeca9c5242009c4fb39688",
+    "text": "An Application runs on one or more servers or clients.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "063779a866533492039fb38efaf43079",
+    "text": "Its functionality supports business processes.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "bfbf6e39c6890fb78f4f87e16e9b2d08",
+    "text": "Interactive applications support business end users directly.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "2f883bff24dbe7d478e952495085e255",
+    "text": "Batch applications manage data, and generate reports, etc., as part of a business process.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "488f167d96c06ecb6499cebd2b3a024e",
+    "text": "Applications include IRS",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3c1119c5e7425f072a6a5ab3f1a614cf",
+    "text": "speciﬁc functionality in support of business requirements as well as generic end",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "97d252e6084aac6c218b23c2ee3ff666",
+    "text": "user functionality.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "01d6f74d178c3b17f0a5741a48f0dde5",
+    "text": "Generic functionality includes common desktop applications its functionality include highly complex capabilities that are neverthe",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "963116e16886197acc2f2b419b558dc0",
+    "text": "less common to many different types of enterprise, such as accounting or customer",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "28d9e7bbbf81137ec80d8e02241329c0",
+    "text": "relationship",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "91fdaa75e5391f72abeede29bd22199f",
+    "text": "management capabilities.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "a4ec5b03c4a6b7872de31c7ec14e653e",
+    "text": "Generic capabilities are typically provided by COTS applications, whereas IRS",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "fd4b919f92ca0d21debd1e9014d08eac",
+    "text": "speciﬁc capabilities generally involve custom",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "f73bd75a8f4fb9aedfc16763b97e74fe",
+    "text": "developed applications.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "15c18e5db69df80fbf0106e7e84b80e0",
+    "text": "Represents the IRS’ Current Production Environment (CPE) with business applications, external systems, and external trading partners. It also includes interfaces, key attributes, and information related to Privacy and Civil Liberties Assessments. The ABA allows Business Analysts and Information Technology (IT) professionals to view the CPE from both technical and business perspectives using IRS’ Enterprise Life Cycle’s (ELC) Six Domains of Change, to see interrelationships between technological and business domains, and get information necessary to make informed decisions.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "581f438f36c139009370a5090ec51576",
+    "text": "Conﬁguration Management activity responsible for conﬁrming that con- ﬁguration management records and CIs are complete, consistent, and accurate.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "5f84d8564e1a155ade5ce45682d2004a",
+    "text": "A CMDB is a database that contains all relevant information about the hardware and software components used in an organization. It includes the components, the IT services they support and the relationships between those components. A CMDB provides an organized view of conﬁguration data and a means of examining that data from different perspectives.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "702d9f7e74b4e8ed579089ebcd49bbba",
+    "text": "Applications that are not in the PSL are called Non",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7d4aed471fda6833636ccf85ea4e6967",
+    "text": "PSL. These applica",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8ccf3b85b549fdfc799c3fe2b0a60434",
+    "text": "tions do not have a distribution system for inviting service providers and management to an escalation. E",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "6cd039becb2cf28384f325fa72b21220",
+    "text": "mails are sent to service providers selected by the person taking the IMR role. The Service Operations Specialist (SOS) send the emails. Non",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "2d5e609aee17ea7e2759723fcb3e1f39",
+    "text": "PSL escalations are set to a lower priority than PSL escalations. Non",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "78c45801a5f06cf5d5705afbc83a8aa4",
+    "text": "PSL tickets are worked as capacity permits.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "14b218a3541e504f30970af89e742552",
+    "text": "A SOS will leave a Non",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "e5925b6a9ac2589a8468f0136139e92a",
+    "text": "PSL escalation if a PSL outage requires an escalation and IMS doesn’t have the capacity to work both.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "f988cbb3666b0873d189dd81d327d252",
+    "text": "Is a part of a larger application (please refer to Application deﬁnition). Additional descriptions listed below:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "063779a866533492039fb38efaf43079",
+    "text": "Its functionality supports business processes.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "fac2a484c610d224428a16f7bff7aa1a",
+    "text": "Collection of one or more software programs that automates a business function.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "fba3cbbba850968db63d9acf45cc662c",
+    "text": "Can reference other sub",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "a8669c6d2dd6be834a72d75f41122070",
+    "text": "applications to any depth.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "2aece76bdd421683cc35e01976816d0a",
+    "text": "The SSF delivers valuable server data to Conﬁguration Management System tools providing additional insight into IRS Enterprise Operations infrastructure. It validates server attributes (Project, GSS, and ENV), ensure data quality and integrity, and deploy the SSF ﬁle to existing and new EOps Tier II servers.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "b111c123d8f9796ee0a495d4a95db6e0",
+    "text": "Supercomputers and mainframe hardware and software, including pe- ripheral subsystems used in a mainframe system environment.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "ac6a8064f3b22d124c514a9a9b8fa3c1",
+    "text": "Tier II System Minicomputers and Servers",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "dd59d5bc017b8e95461567529e5cbbcf",
+    "text": "Minicomputers (i.e. computers usually containing multiple microproces- sors, capable of executing multiple processes simultaneously, and may serve multiple users by way of a communications network) including hardware, software, and peripheral subsystems used in that environ- ment. These systems typically include any hardware operating under a multi-user operating system, such as Windows, UNIX, and LINUX. Typically, these systems support centralized, high-volume enterprise ap- plications. Hardware and software maintenance associated with the above items, including performing system backups, hardware upgrades and maintenance, operating systems upgrades and preventive mainte- nance tasks. Support for providing backups and daily operation of these systems. Windows-based networking servers: Primary Domain Control- lers (PDCs), Backup Domain Controllers (BDCs), Windows Internetwork Servers (WINS), ﬁle and print servers and their backup systems; Windows-based application servers; and Microsoft Exchange messaging servers",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "39b9536bfeae5b781d89fe3e86dc2945",
+    "text": "This table lists commonly used acronyms in the Conﬁguration Management process.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "b9c7e850c191aa740cfc645a84f025d4",
+    "text": "Conﬁguration Veriﬁcation for IRS Applications (PSL and Non-PSL) Process 2.150.5",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "ca9e85a619f86af890b67c2386ba5b19",
+    "text": "CI Conﬁguration Item CM Conﬁguration Management CMDB Conﬁguration Management Data Base CPE Current Processing Environment CR Change Request ENV Environment GSS General Support System KISAM Knowledge, Incident, Service Desk, and Asset Management PSL Premium Service List SSF Server Signature File UCMDB Universal Conﬁguration Management Database",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "ece4e88d2987e6112cc1008e844aba3c",
+    "text": "Universal Conﬁguration Management Database",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "a3f188e86427e44fac6182263de1c5ee",
+    "text": "The following lists the primary sources of references used in the of the CM process. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "efc8d6a076b8c154d2c4b38da8f69c78",
+    "text": "As-Built-Architecture Architecture • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "f5170b561a5ffa0581950ceeaac962c2",
+    "text": "Infrastructure Currency Policy for Software • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "99bc2b9e52b4ffaed4143b065aa46aa6",
+    "text": "Change Management Process • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3b29591fc08202334117650c76044335",
+    "text": "Conﬁguration Management Process • Change Management Procedure • Server Signature File (SSF) Standard Operating Procedure • How to Generate Tier II Server List from the Conﬁguration Database • How to Open a Standard or Normal SSF CR or R",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "98ec79d2f6299c700e4f68de7600e298",
+    "text": "• How to Complete the Validation Process for Your PSL Application(s) Process training involves training all stakeholders about key processes crucial for an organization to deliver business objectives. Training clarity to employees on a set of procedures that needs to be carried part of the process and the best possible way to do them. Listed below training resources available for this process: • Conﬁguration Management (CM) Overview, ITM Course #",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "a59973ec5561738240c8a397391ebe7b",
+    "text": "• Change Management Process Overview, ITM Course #",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "4db345bb2535e02ab7cba3efcb64a43f",
+    "text": "• Change Analyst/Change Initiator Role Training • Change Coordinator Training • Change Manager Role Training A process workﬂow consists of Activities and Tasks, Inputs and Outputs, and Flow Diagrams. It describes the tasks, procedural steps, organizations people involved, required input and output information, and tools needed each step of the process.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "4b984b3ea8cbabf522d323732da1e0d5",
+    "text": "IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "571a07ac5b7757f4800a16a88b7699a9",
+    "text": "As-Built-Architecture Architecture IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d8910415250c75846c14426b0ec949bb",
+    "text": "Infrastructure Currency Policy for Software IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "84d46f6092c7057dc3f70b5be33c1840",
+    "text": "Change Management Process IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "e276b45302f206cb19437fceb8868550",
+    "text": "Conﬁguration Management Process Change Management Procedure Server Signature File (SSF) Standard Operating Procedure How to Generate Tier II Server List from the Conﬁguration Database How to Open a Standard or Normal SSF CR or R",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "a95a8dc7c6ea9b29a7f30273c1ff41a6",
+    "text": "How to Complete the Validation Process for Your PSL Application(s)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "db81ea4ee6d92b401e36faf56583d732",
+    "text": "2.150 Conﬁguration Management",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "91887d75afe4fe0ae63e4cd8cae91b2b",
+    "text": "The Main Process Diagram illustrates the key process activities and process interfaces for Conﬁguration Veriﬁcation for IRS Applications (PSL and Non- PSL).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "804d12735da9f1a2f4ac830335b3731c",
+    "text": "Figure 2.150.5-1",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "b76126521160f62e5326a0a7cbda4bb5",
+    "text": "Conﬁguration Veriﬁcation for IRS Applications (PSL and Non-PSL) Process 2.150.5 page 11",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "4635788237eebb4c0ef8d4380eab6c09",
+    "text": "Process inputs are used as triggers to initiate the process and to produce the desired outputs. Users, stakeholders or other processes provide inputs. The following is a list of inputs for this process:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "60e709e3d58b13f7ca425f17bb8abb39",
+    "text": "Each process produces tangible outputs. These outputs can take the form of products or data and can be delivered to a user or stakeholder or they can be used as inputs to other processes. Outputs are measurable in terms of quantity and quality.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "60e709e3d58b13f7ca425f17bb8abb39",
+    "text": "Each process produces tangible outputs. These outputs can take the form of products or data and can be delivered to a user or stakeholder or they can be used as inputs to other processes. Outputs are measurable in terms of quantity and quality.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "2bc171dbfca772c2798706e8be9d51f7",
+    "text": ") An activity is a major unit of work to be completed in achieving the objectives of the process. A process consists of a sequence of related activities that transforms inputs into outputs and performed by the roles deﬁned in the process. Activities are measurable in terms of efficiency and effectiveness. The following activities for this process are described below and corresponds to the high-level process ﬂow diagram above.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "417e7b47411dd059f835ab1b032bd8e5",
+    "text": "Establish Initial Scope of Application CIs for Veriﬁcation. This activity establishes the initial scope of CIs for the process. Identify CI Ownership and Finalize Scope. This activity identiﬁes CI ownership and ﬁnalizes the scope.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "db81ea4ee6d92b401e36faf56583d732",
+    "text": "2.150 Conﬁguration Management",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "38c5be78477ad46314db3d331d7cb340",
+    "text": "c. Plan and Prepare Project Requirements. This activity establishes plan, schedule, resources, roles/responsibilities, reporting, and expecta",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "8a7b76f18815a58b34c2943f67f0be10",
+    "text": "tions including preparing the tools and documentation to support the process. d. Conduct Application Veriﬁcation and Updates. This activity imple",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "edd352dc9bcf3ca2047e99a661c3b3f0",
+    "text": "ments the veriﬁcation process including use of the SSF Process to correct the discrepancies. e. Generate Report and Close Out. This activity is responsible for reporting out the results of the activities and close out.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a72f942b0eee8954ef49d4e61980e412",
+    "text": "a. For PSL Applications, obtain and review latest update of the Premium Service List. Note: PSL Applications are derived from the Premium Service List that maintained by the PSL Process Manager. b. For Non",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "5781b52dbf9a6b55d42bba9f30c22ff4",
+    "text": "PSL Applications, obtain and review latest update of the AM Project Table and exclude PSL applications. Note: The AM Project Table contains programs, projects, applications, software products, and other data types such as services and technical/support groups. The SSF Process extracts select data from the AM Project Table to create the SSF Project Table for its use. For reference, the SSF Project Table will also be called the Project Table.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "f09e3120d55d18fca7d2e670e7a68ed0",
+    "text": "Note: The AM Project Table contains programs, projects, applications, software products, and other data types such as services and technical/support groups. The SSF Process extracts select data from the AM Project Table to create the SSF Project Table for its use. For reference, the SSF Project Table will also be called the AM Project Table.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "ec3ce48f45b224f8b8d6c12cf493486f",
+    "text": "(2) Correlate and Select Tier II Applications.",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "4cef557c316adf6a39df55abbb9a6f5e",
+    "text": "a. For PSL Applications, correlate the Premium Service List against the AM Project Table and select only those supported by Tier II servers. b. For Non",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "1f09df9fb11134e7673e3dd78fe56b33",
+    "text": "PSL Applications, correlate the AM Project Table against the Ap",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "7a0a4cfd54ee2ffeb7906394b36a93cf",
+    "text": "plications (All) Report from the As",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "cfe0e6cbcf5cdd1aab44a39ab4d39713",
+    "text": "Built",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "e1805c87cf3ee81eeac8baf9a0243d40",
+    "text": "Architecture (ABA) and select only those supported by Tier II servers. Select only a sample of applica",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "b731a231d3ba4aeb3895052544151da1",
+    "text": "tions supported by Tier II servers to manage the scope of work. For ex",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "0ad4578ef1932d17c8570972244b6d3b",
+    "text": "ample, select applications from a particular ACIO, Filing Season Application, etc.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "b0a877fb0683423105dff056e8a7df92",
+    "text": "Note: The ABA applications may be supported on IRS Tier I or Tier II sys- tems, Managed Service Provider, or External Trading Partners.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "b9c7e850c191aa740cfc645a84f025d4",
+    "text": "Conﬁguration Veriﬁcation for IRS Applications (PSL and Non-PSL) Process 2.150.5",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "2f528b34ab0f6c0e0c35250d0c6f2e51",
+    "text": "(3) Verify Tier II Servers in the CMDB.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "b2ea2c78e3bfbad5b0e13a285d02f29d",
+    "text": "Verify application is supported by Tier II servers. Exclude applications not supported by Tier II servers.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "1f51a39c6de5d9e79a26c239bc795022",
+    "text": "Establish initial scope for applications that are supported by Tier II servers.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "5dd92b2ea2a43e74bccf8a0664d0c449",
+    "text": "This activity identiﬁes or veriﬁes CI Ownership and ﬁnalizes the scope for the process. The following tasks, performed by the IT CM PMO, are described below.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "ffa0bb1aae08fd0d99bca8868c34540d",
+    "text": "(1) Identify CI Ownership.",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "2e7ebab864b1edd53e50f190ba28b349",
+    "text": "Identify and/or verify CI Ownership (i.e., Application Owner and Manager) information to ensure that correct individuals are the ones that will be re- sponsible for the veriﬁcation activities.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "b9e4f9f71c03cdb6883eec037a3243be",
+    "text": "a. Identify and/or verify CI Ownership (i.e., Application Owner and Manager) information to ensure that correct individuals are the ones that will be re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "420e1504edae7b7c4342c59861c169d8",
+    "text": "sponsible for the veriﬁcation activities. Note: Source of CI Ownership information is in the ABA. Application Owners are called Content Providers and Managers (i.e., Frontline Manager and Senior Manager). b. If no CI Ownership is identiﬁed, exclude the application from the scope.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "aab8489f08d0b8926d6e263d6fb0be89",
+    "text": "Note: Source of CI Ownership information is in the ABA. Application Owners are called Content Providers and Managers (i.e., Frontline Manager and Senior Manager).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "5aa2db9e53f8a340cf4f7885093a0cb6",
+    "text": "If no CI Ownership is identiﬁed, exclude the application from the scope.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "51e8ee8052e9e0137d6ba9142a681a03",
+    "text": "Establish ﬁnal list of applications supported by Tier II servers with CI Ownership information.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "6a9773880f7b09ecdc64e302a075b2d7",
+    "text": ") This activity establishes the plan, schedule, resources, roles/responsibilities, reporting, and expectations including preparing the tools and documentation to support the process. The following tasks, performed by the IT CM PMO, are described below.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "5bfad147010a880c1a63af04e48eb147",
+    "text": "a. Deﬁne and design administrative process (manual or automated) to conduct and collect veriﬁcation results. For example, using desktop tools (e.g., Excel, Access, Email) to manually record or Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "1cf3e2fa1cf9a9ceeedfc092b17d232b",
+    "text": "oint solution to automatically record and self-certify veriﬁcation activities. Note: For Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "17dc51f551fda8fe4f1f23ee0d158b26",
+    "text": "oint solution, identify roles and permissions for each Application Owner. The existing Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "7587e00a0010467869399ad266fdf421",
+    "text": "oint solution for this process is called the PSL Revalidation Portal .",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "db81ea4ee6d92b401e36faf56583d732",
+    "text": "2.150 Conﬁguration Management",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "cf2c867a374500ad227ac96e340a993e",
+    "text": "a. Identify and verify support teams that may have a role in supporting process. For example, those responsible for change management process (SSF Team), PSL process (SOS Team), and CMDB (ECMS Team). b. Identify supporting tools, such as KISAM and UCMDB. Note: For the UCMDB, review and revise, if necessary, the server report template called “PSL Revalidation”. The server report template is applicable for both PSL and Non",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "9a271979ad529de88d1d3b053f3b237e",
+    "text": "PSL applications.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "50348cddb2499d1c51baecff5a8085e9",
+    "text": "a. Establish or update User Guides to support the process. The following existing user guides are: How to Complete the Validation Process for Your PSL Application(s) How to Generate Tier II Server List from the Universal Conﬁguration Management Database How to Open a Standard or Normal SSF CR or R",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "f60170606e4104523a7e20d015d0c75c",
+    "text": "(4) Establish Measurement and Status Reporting Requirements.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "e0e3e07bfc39d5c78ff5ea0acd7f466a",
+    "text": "a. Determine what to measure and report. b. Identify data to measure and report. c. Design and establish measurement and report template. d. Determine reporting frequency.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "0867b065683a3908d3c9ff0babcea2e0",
+    "text": "(5) Establish Project Schedule.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "647d5ed733dbe85945aec1c7eb1d4fa5",
+    "text": "a. Determine project start and end date, including extended deadlines, necessary. Note: For PSL applications, align schedule with EIC. b. Determine schedule for Project Pre",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "a7f2eee1a195f72ef15a8289ee12707b",
+    "text": "Kick Off Meeting and Kick Off Meeting. c. Determine schedule for status reporting.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "9b6348414a7d926026387d3a4e1ab88d",
+    "text": "Determine project start and end date, including extended deadlines, if",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "0f7664eafe9f9971e8c541395c50a523",
+    "text": "Conduct Pre-Kick-Off Meeting.",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "181bbe5e281307d8ab9e6eb5b9cb4beb",
+    "text": "Develop brieﬁng materials for Project Pre",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "a4f4f745bcee0a13fc0f6712c595f8cf",
+    "text": "Kick Off Meeting and Kick",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "ca7981b46ecf2c1787b6d76d81d9fd7f",
+    "text": "Off",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "f5124da24989c50bbad5618f4bfcd047",
+    "text": "Meeting. Deﬁne roles, responsibilities, and expectations Schedule and conduct Project Pre",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "3436cd56b8f96a98bf6d207d686aa16c",
+    "text": "Kick Off Meeting with support teams.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "57359326d9f7159f2c718ad93bd12207",
+    "text": "This activity is responsible for establishing and implementing the veriﬁcation activities to verify and certify the Application CI information.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "b9c7e850c191aa740cfc645a84f025d4",
+    "text": "Conﬁguration Veriﬁcation for IRS Applications (PSL and Non-PSL) Process 2.150.5",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "068f57114629e58702a50927d11ba28c",
+    "text": "Conduct Veriﬁcation Activities (CI Owners).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "d3df387d019b3525b2fdd8bc18373651",
+    "text": "Review and verify the following information for accuracy for each application in the CMDB. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "addce37247b899927f2f31051eb3913a",
+    "text": ") Server inventory (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "0c185ded326bde406ed94c9cdd289eff",
+    "text": ") Server attributes (Project, GSS, and ENV) Identify discrepancies. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "5e9f0fdfa51830ebd0602794b96a5b6b",
+    "text": ") Server inventory is not correct (e.g., missing server or incorrect server)(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "7fff1b13ef0dc156d281cced6004090f",
+    "text": ")Server host name is not correct (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "0d117b47e10a7868ac2b31c30fb695fd",
+    "text": ") Server attribute is not correct (i.e., Project, GSS and ENV assign- ment) Note: Refer to the instructions, How to Complete the Validation for Your PSL Application(s) and How to Generate Tier II Server from the Universal Conﬁguration Management Database for step.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "ab11a85de04c1a1c931e29665b4ee3a7",
+    "text": "Correct and Re-verify the Data, if applicable (CI Owners).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "2de9549b3bdcf838b98a174ec7454107",
+    "text": "a. Complete the SSF CR Initiator Worksheet Template to record the corrections. b. Submit a Change Request (CR).. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "80c23ee7a76692563c48ea09513930be",
+    "text": ") For the Title, use “FYxx PSL CR - “Project Name” to separate the PSL CR from regular SSF CR. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "884d924d577c7a7fe11180549eb4ef28",
+    "text": ") Follow the rest of the instructions to complete the form. Note: Refer to the instructions, How to Open a STANDARD or NORMAL SSF CR or R",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "3d25ee8039689e9edc47dcba8d5e77e2",
+    "text": "for this step. Only corrections to existing records should be made, not changes. A separate SSF CR must be submit- ted for changes to the record. The objective of this process to re- view and correct the record to reconcile with the CI owner’s administrative record. c. Record the PSL CR # in the PSL Revalidation Portal Note: The Application Owner must monitor the status of their PSL CR and ensure that it is implemented and closed. d. Verify updates in the CMDB once the corrections have been implemented.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "81adab7e753a27dff1d9e48bef82ec81",
+    "text": "Note: Refer to the instructions, How to Open a STANDARD or NORMAL SSF CR or RfC for this step. Only corrections to existing records should be made, not changes. A separate SSF CR must be submit- ted for changes to the record. The objective of this process to re- view and correct the record to reconcile with the CI owner’s administrative record.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "9bfde65bfcfb9cd7ba5990b3b34e9f78",
+    "text": "Certify the Veriﬁcation (CI Owners).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "81c73280203a9b143f4f682bd5d56bbc",
+    "text": "Portal. Note: The veriﬁcation process is complete once the date of validation is recorded, not when the PSL CR is closed. The process to complete the PSL CR is separate from the veriﬁcation process.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "c0cad17189e94a2d0c071e266220ad3b",
+    "text": "Conduct Follow-Up, as needed (IT CM PMO).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "0064689b0662ab715bb055c5e35770c0",
+    "text": "Review veriﬁcation status and identify those that have not completed the",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "226effdb0f2de04d45b7f52ce46bc608",
+    "text": "Review veriﬁcation status and identify those that have not completed the process.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "db81ea4ee6d92b401e36faf56583d732",
+    "text": "2.150 Conﬁguration Management",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "6385d7a42bac0af56a28b122ac9b99f5",
+    "text": "Determine if assistance is needed to initiate or complete the process. Send scheduled reminders to those that have not completed the process.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "2bb698355c04f8f9bfbb475b083a18d8",
+    "text": "Gather and collect results for each deﬁned reporting period.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "d5ad3a689fbb4ba86d418d938ed2bdcc",
+    "text": "a. Aggregate data based on deﬁned reporting requirements in the report template. b. Analyze and summarize cumulative results. c. Develop charts and tables to support the analysis and performance measurements.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "66008d96f3671095144141da07218677",
+    "text": "a. Generate and release scheduled status and measurement reports to stakeholders. b. On project close out - (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "f500dc92071b59002a7b25fd45728c6a",
+    "text": ") Conduct ﬁnal summary and release ﬁnal report. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "cba6120772badb3b9ef4ffc93f267559",
+    "text": ") Release all support teams. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "3baf4c10f033bdedf161d003ed71e337",
+    "text": ") Archive all resource materials. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "a2c596da7a1611e2849984891b0142e2",
+    "text": ") Remove CI Owner permissions to update PSL Revalidation Portal from updates.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-150-005--2023-03-17.pdf",
+      "page_number": 20
+    }
+  }
+]

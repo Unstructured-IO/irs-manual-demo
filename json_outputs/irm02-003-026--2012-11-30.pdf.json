@@ -1,0 +1,497 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "bfcbf0e2befd379ac64eb1e5dd8dfa67",
+    "text": "TDI-CLOSING-CD expansion [(TIF-32) COND-CLOSING-CD of LAST-PERIOD-SATISFIED-GROUP and (TIF-50) TDI-CLOSING-CD OF BASIC-TAX-MOD-REC] from 2 positions to 3 positions.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "255aebc026cbcbc79518a10dd2010413",
+    "text": "IRM 2.3.26, dated January 1, 2011, is superseded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "fa21c499dc913ca829afc3c1d4f47783",
+    "text": "Table of",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "1b4b9e618f6b11ac267809dc84b173b9",
+    "text": "2.3.26.1 Command Code TDINQ",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "bdc96aa560e56a8fea838c20b6a0466b",
+    "text": "CONDITION",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "cf35a8c7a4b8069313447a270c5dd654",
+    "text": "The TIF file requested was not available for Real Time research.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "049c8d0ddab9486909e7a0e5cc727c16",
+    "text": "Note: TDINQ will perform a security check of the user profile to determine if the user is restricted for access to IMF-only or accounts. If the user profile and the input request are not consistent, one of the following error messages will be generated:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "402557d127dc8a2ab5410b5d9e87a43b",
+    "text": "The user is profiled for access to BMF accounts only. The input account is not BMF.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "33c1e29902d678cbcff13d561dbfd825",
+    "text": "This Page Intentionally Left Blank",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5b8b8a972d15ec7f69d7321e1500a5d3",
+    "text": "ELE. # NAME LINE POSIT. FORMAT",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d7686f676792480a349409a607c5420e",
+    "text": "Exhibit 2.3.26-2 (01-01-2010) Command Code TDINQ Response Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "87b5f998d37d3a218006b7a763e7255b",
+    "text": "ELE. # NAME LINE POSIT. FORMAT COMMAND-CODE-LINE 1 Command Code 1 1–5 TDINQ 2 TIN and FILE-SOURCE-CD 1 7–18 SSN+FILE-SOURCE-CD nnn-nn- nnnna EIN+FILE-SOURCE-CD nn- nnnnnnna 3 NAME-CTRL 1 20–23 nnnn 4 ASSIGNMENT-NUM 1 25–44 ASSIGN-NUM nnnn-nnnn 5 PDT-CD 1 48–52 1 = *PDT* 2 = *CAU* 6 CURRENT-DATE 1 56–78 CURRENT-DATE MM/DD/ YYYY",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "87ad0c52556dc1161c1dbf21a8db1cf7",
+    "text": "Note: For TDINQ, the Command Code line is always the first line on the initial screen displayed and the first line of each page of multiple-page responses. All other lines of the response screen are displayed only if the information on these lines is available. If the information is not available, the line will not be displayed. The literal *PDT* will appear when the PDT-CD of the TIF-00 is 1. The literal *CAU* will",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8e4114f4496eb69f4455d56ed73e0841",
+    "text": "ELE. # NAME LINE POSIT. FORMAT CAF-IND-LINE 1 CAF-IND 2 1–5 CAF-n 2 ACCT-INTEL-CD 2 7–13 CRINV-v 3 ACS-ACCT-CD 2 15–19 ACS-n 4 LATEST-TC-148-CD 2 21–26 FNF-nn 5 KITA-IND 2 31–39 KITA-vvvv 6 ICS-ACCT-CD 2 42–46 ICS-n 7 FEDERAL-EMPLOYEE-IND 2 48-54 FERDI-n 8 DISASTER-VICTIM-CD or 2 56-64 FZ-CD-vv SC-REASON-CD 9 COMBAT-IND 2 66–78 *COMBAT",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "254361c02c2533125fec53bcd4ec8d47",
+    "text": "Note: The value of FZ-CD will be -O if taxpayer is a disaster victim and RF if taxpayer has a current refund freeze. The literal “ *COMBAT ZONE*” will appear only when the MILITARY-OPER-UN-IND of the TIF-02 has a value greater than zero (0).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "29202431c039777c5079efae55bb132c",
+    "text": "Exhibit 2.3.26-2 (Cont. 2) (01-01-2010) Command Code TDINQ Response Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "4866eaa84c48aa1797bdcb7ede0a26eb",
+    "text": "2.3.26-2 (Cont. 2) (01-01-2010) Code TDINQ Response Screen ELE. # NAME LINE POSIT. FORMAT PRIMARY-TDI-CD-LINE 1 PRIMARY-TDI-CD SECONDARY-TDI-CD 5 1–14 PRI-SEC-v-vvvv 2 PAYER-MASTER-FILE-IND 5 18–22 PMF-n 3 COLL-POTENTIAL YIELD-SCORE 5 26–35 COPYS-nnnn 4 SUPP-REQ-IND 5 43–48 SUPP-v 5 TDI-6020B-IND 5 50–55 6020-v 6 COMPLIANCE-CD 5 57–66 COMPL-CD-v (0 = TDI REQUEST S = Stop Filer C = CAWR N = Non-filer) 7 CCNIP-SEL-CD 5 68-75 CCNIP-VV",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "6cb236851bcfb512f1fc414b3541c51a",
+    "text": "FIRST-NOTICE-CYC-LINE",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "0f8d28a4ed0dd794e18d9bf733868054",
+    "text": "TIF32 is updated when a new delinquent module is generated due to a masterfile",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "6f4156a6f79bafa8bc5263f1618dfd6b",
+    "text": "Note: TIF32 is updated when a new delinquent module is generated due to a masterfile delinquency",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "54415b34b67edae076941cc631951923",
+    "text": "Exhibit 2.3.26-2 (Cont. 4) (01-01-2010) Command Code TDINQ Response Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "795349a1babdd8497e8476e380bf40e3",
+    "text": "FORMAT",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "755de6631a77a0ca12bc97366fd7d99e",
+    "text": "NAME-ADDR-LINES",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "4259fb38380568349380ea9ae4aa2a14",
+    "text": "Note: This line occurs for each ENT-DEFERRED-ACTION-REC, TIF-30, that exists for an account.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "5a2c4e2df1cb616a7defca508e709c3d",
+    "text": "TRANS-STATUS-LINE",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "824ee550faf1bef5c224e9530e55b255",
+    "text": "Note: This line occurs for each ENT-PND-CHANGE-TRANS-REC, TIF–21, FORMAT-CD-11, that exists for an account.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "b4d5d0bc5467088045e932c4a96932f7",
+    "text": "Note: This line occurs for each ENT-CASE-ASSIGNMENT-REC, TIF-10, that exists for an account.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "bb3c230dc69bab4334580065dc99820a",
+    "text": "1 ASSIGNMENT-ACTION-DT V9 1–11 AS nnnnnnnn 2 ACTION-EMPLEE-NUM V9 13–25 BY nnnnnnnnnn 3 ASSIGNMENT-NUM V9 27–39 TO nnnn-nn-nn 4 ASSIGNMENT-SOURCE-CD V9 41 v ACTION-DATE-LINE 1 ACTION-DT V10 1–16 NC GL 2 COLL-CD V10 18–20 vvv 3 EO-STATUS-CD V10 39–48 EO-STAT-nn 4 EO-STATUS-YR-MON V10 49–55 -nnnnnn 5 RULING-YR-MON V10 59–68 RUL-YYYYMM 6 CLASSIFICATION-CD V10 70–79 CLASS-vvvv AFFILIATION-CD-LINE 1 AFFILIATION-CD V11 5–9 AFF-n 2 INCOME-CD V11 13–17 INC-n 3 FOUNDATION-CD V11 20–26 FOUN-w 4 GROUP-EXEMPTION-NUM V11 29–39 GEN NO-nnnn 5 ORG-TYPE-CD V11 45–49 ORG-n 6 ASSET-CD V11 51–57 ASSET-n 7 SUBSECTION-CD V11 61–66 SUB-nn",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "2381e37f91025bc86ac2ea5909a5b4be",
+    "text": "ACTION-DATE-LINE",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "700b9869dfb75bb91461956bf4da782a",
+    "text": "AFFILIATION-CD-LINE",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "048c47aced021bdc7a03bdd945d50f73",
+    "text": "Exhibit 2.3.26-2 (Cont. 6) (01-01-2010) Command Code TDINQ Response Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "96b940fe2bf4f65f11c7f5830059c170",
+    "text": "LAST-PERIOD-SATISFIED-LINE",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "9bfb30dcba8cdcc9a2e1a9bc2be1f74a",
+    "text": "Note: This line is repeated for each Compliance",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "f53e1a64c012d537c885ee7f1b8b8278",
+    "text": "CASE-SC-CD-LINE",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "4333f7281a1f94f4192e479af8806144",
+    "text": "Note: This line is repeated for each Compliance Group.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "12a4bc4a9ec9f864f8c91f44115170a1",
+    "text": "Exhibit 2.3.26-2 (Cont. 7) (01-01-2010) Command Code TDINQ Response Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "dd86763c0c931bdb43b4866c7e6c5e10",
+    "text": "Code TDINQ Response Screen ELE. # NAME LINE POSIT. FORMAT PRIOR-YR-RET-NET-TAX-AMT-LINE Note: This line is repeated for each Compliance Group. 1 PRIOR-YR-RET-AGI-AMT V14 1-10 AGI-nnnnnn 2 PRIOR-YR-RET-NET- V15 12-22 NET-nnnnnn TAX-AMT 3 REFUND-BALANCE- V14 24-31 REFUND-v DUE-CD 4 IRP-PRIOR-YR- V14 33-38 PYMC-n MATCH-CD 5 PRIOR-YR- V15 40-43 E-nn EXEMPTIONS 6 PRIOR-YR-RET- V15 45-59 RET-RC-nnnnnnnn RECVD-DT",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "049c7bd340ba313120fb1add06f80dd1",
+    "text": "PRIOR-YR-RET-NET-TAX-AMT-LINE",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "4333f7281a1f94f4192e479af8806144",
+    "text": "Note: This line is repeated for each Compliance Group.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "176c41a05b4d897627daf2bc8844cffd",
+    "text": "Exhibit 2.3.26-2 (Cont. 8) (01-01-2010) Command Code TDINQ Response Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "bb2cea88c050281d29ea5d7e84640ad1",
+    "text": "MODULE-LITERAL-LINE",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "bcba6c563489f39c34d8aa3c6215a563",
+    "text": "Note: This line is repeated for each BASIC-TAX-MOD-REC.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "b1c2c0fec67a066a037348faa8a792da",
+    "text": "MFT-TAX-PRD-STATUS-LINE",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "29c7e6d246370d82d30cccc02227c1c9",
+    "text": "Note:This line is repeated for each BASIC-TAX-MOD-REC. This line is displayed only when the 474 DELAY-IND is not equal to 2, the TDI-MOD-STATUS-CD is zero and the STATUS-CD is greater then 9.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "4b2723e20ae5cd441f17ba6d1ff42b66",
+    "text": "Exhibit 2.3.26-2 (Cont. 9) (01-01-2010) Command Code TDINQ Response Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "daf5e5ae47de4741e13df6c6e11bd81a",
+    "text": "EXPLANATION OF CLOSURE-TYPE, ELE #2 TDI-CLOSURE-TYPE (TIF-50, SCREEN DISPLAY EXPLANATION BASIC-TAX-MOD-REC) A CLOSE TC–976 976, 977 C CLOSE TC–620 620 E CLOSE TC–460 460 F CLOSE TC–150 150 with CONDITION-CD = F G CLOSE TC–590 590 with CLOSING-CD = 014 I CLOSE TC–914 914, 916, 198 M CLOSE TC–55 Master File Status greater than or equal to 06 P CLOSE TC–020 Posted 020, 040, 041 Q CLOSE TC-TOL Toleranced (Suppressed- Notice Only) R CLOSE TC–610 610 S CLOSE TC-FR8 All Entity Filing Require- ments = 8 T CLOSE TC-TRN Transferred U CLOSE TC–003 003, 026, 040, 041 * CLOSE TC–150 150 with CONDITION-CD not equal to F 0 CLOSE TC–590 590 with CLOSING-CD not equal to 014 1 CLOSE TC–591 591 2 CLOSE TC-599 599 with CLOSING-CD = 050 or 051 3 CLOSE TC–593 593 4 CLOSE TC–594 594 5 CLOSE TC–595 595 6 CLOSE TC–596 596 7 CLOSE TC–597 597 8 CLOSE TC–598 598",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "8e289b0c9daa41a184c127e32d9d2a2f",
+    "text": "EXPLANATION OF CLOSURE-TYPE, ELE #2 TDI-CLOSURE-TYPE (TIF-50, SCREEN BASIC-TAX-MOD-REC)",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "eefb1901b1dd4b7d945a1d047a30ca93",
+    "text": "EXPLANATION",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "e3d1132cdaf795a81a5aa7746247f59b",
+    "text": "Exhibit 2.3.26-2 (Cont. 10) (01-01-2010) Command Code TDINQ Response Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "bb4a78128ff6416bdc6aa2af53cdce37",
+    "text": "599 with CLOSING-CD not equal to 050 or 051",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "9b32370cb052387bcc1c37fc7839a2cf",
+    "text": "Exhibit 2.3.26-3 (01-01-2004) Command Code TDINQ Error Response Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "9c338accfc802e1810e0047309a37b4e",
+    "text": "Record Element Specific ”T",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "f2c33d6105a0d3247dca633462eabe3f",
+    "text": "Record Element Specific \"———— e e e A e e e eI_L 39 1 11-19 | 21-29 | 31-39 | 41-49 | 5159 | 6169 | 711-19 [ ||__{12345678901234567890123456789012345678901234567890123456789012345678901234567890 |IP — ¢+ 11 JE T T Re 1 1 1 J R R Sfsl— L 1 1| J IR NN TR] W R JE TR T(1 1 JE I Sjel 1 1 1 1 sfol 1 L J I Ifo] 1 1 L1 holw1 JE S ) )1 —— e w— |1el ______ 1 1 11 Dyfs | 1 S T Na—116} ] 1 4 1 16|1] | I S R T——) 1fef _____ 1 1 S IS TR Rfo | 1 L1 [4| 311 123457;&12345613901234561@mnssmo1234561090123456139012345618901234561390 |1T a2e 1 ave ! 21220 1| 2120 1| 2140 1| e1ca | R1&G | 71279 1| |",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "8335b75a3dd513a8554db9f6f673f026",
+    "text": "Exhibit 2.3.26-3 (Cont. 1) (01-01-2004) Command Code TDINQ Error Response Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-026--2012-11-30.pdf",
+      "page_number": 20
+    }
+  }
+]

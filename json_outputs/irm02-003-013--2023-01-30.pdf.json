@@ -1,0 +1,3071 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "61b940f697d4c1dfeeaf75e8f57a2ef3",
+    "text": "This transmits revised IRM 2.3.13, IDRS Terminal Responses, Command Codes FFINQ, REINF and REMFE.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "e1611284891fc007d610c2358bde11f7",
+    "text": "IRM 2.3.13 has been revised to include Program, Scope and Objectives",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "0ce6a6f0ae8de0c5b0576fbb1595a630",
+    "text": "IRM 2.3.13, dated April 16, 2020, is superseded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1e04ac4271e26a0d03a06b174aeb7b1f",
+    "text": "LMSB, SB/SE, TE/GE, W&I.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "b01535085b830a839f5a846fffdc992e",
+    "text": "Program Scope and Objectives",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "ea2b8a878841df5955c78edc6cae4744",
+    "text": "Background",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "68f1e9f90c249733968025ee52895c64",
+    "text": "Roles and Responsibilities",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "e468dc51031fe56a2c1d8e6ce986514a",
+    "text": "Program Management and Review",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "618ce0574d14592c561e16cb0abf32c9",
+    "text": "Program Controls",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "e072557eb5be8966345ac2f0b2fc08ad",
+    "text": "Refund Information File (RFIF) Contents",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "fbac68837c4b94b869744214c8ee03cf",
+    "text": "Refund Information File Data Elements on the RFIF",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "cb05bb4e7112d7f3df96e086ba9704ed",
+    "text": "Refund Information File Extraction Criteria",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "4b7cad41adda1619ba03749ec8c85f7c",
+    "text": "RFIF Relationship to the ITIF for Refund Information",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "468912b8130077842fcdee8f9d05a011",
+    "text": "Accessing the RFIF for Refund Information",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "a465ee553f08bef42bbe2c5880f3e391",
+    "text": "Terminal Response for Refund Information",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "21e723128ac43b62b1c25021766999d0",
+    "text": "Fact-of-Filing Information File (RFIF) Data Elements",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "3058c90c79d0351232c7e62744148d87",
+    "text": "Fact-of-Filing Information Extraction Criteria",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "b37d05acbf8e619928dc420507103bfa",
+    "text": "Accessing the RFIF for Fact-of-Filing Information",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "a5eb60ee49ca802f68df3fa649fc2765",
+    "text": "Terminal Response for Fact-of-Filing Information Exhibits",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "63db3d6e76a79507906eca1d9e93b7c3",
+    "text": "CC REINF — Input",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "428910c499e863538ced55d5f3bce3fb",
+    "text": "CC REINF — Output Valid Response",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "9dd384e4282628afeac1638df3056257",
+    "text": "Command Codes FFINQ, REINF, and REMFE 2.3.13 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9dcbadcdba3856e3f99e65dd8bb6b849",
+    "text": "and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "649a7cba66cc374ec2a0d013eb9948bf",
+    "text": ") This IRM section provides the instructions for the use of Refund Information File General Information (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a6caea35aa7a7a3ffeacc26bd03ea38a",
+    "text": ") The IDRS Refund Information File (RFIF) provides a quick reference research tool (via CC REINF) for Taxpayer Service Representatives and other IRS personnel to respond to refund status inquiries from IMF/CADE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "800274bb463ee0bc658b3575d1759d1c",
+    "text": "taxpayers. CADE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b21ed0a77626d2584603865bd9aaabc8",
+    "text": "is the Customer Account Data Engine. Through a number of incremen- tal releases, CADE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e70f5e199be8144858f1e84d6d9c8827",
+    "text": "will ultimately replace the Individual Master File (IMF) enable the replacement of the related Integrated Data Retrieval System (IDRS) components. Taxpayer records will be moved from the legacy master ﬁle to modernized system, using a release-based approach starting with the simplest taxpayer accounts. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "28a413ed397cb2c78044b329836055d1",
+    "text": ") The Automated Refund Information System (Teletax, IRFOF) also accesses RFIF (via CC REMFE) by touch-tone telephone or internet. After the taxpayer inputs their SSN, Filing Status Code, and Refund Amount the system checks the RFIF. Upon a match the taxpayer hears or see the refund check mailing date or an appropriate explanatory message. Otherwise the taxpayer must the toll-free number and speak to a tax assistant for further information. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "388c02ab224db5dfa0c63c05db83547b",
+    "text": ") Fact-of-Filing (FOF) data on the RFIF identiﬁes (via CC FFINQ) receipt and step in Campus computer processing of an IMF/CADE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "db51125b0e326985178b01e5f1f711e7",
+    "text": "taxpayer’s refund return. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "33a1523d0446223c2ff01e33380e230d",
+    "text": ") Purpose :This transmits revised IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f3f29059d8f0344d37c78fe2b8151ac3",
+    "text": ", IDRS Terminal Input, Command Codes FFINQ, REINF, and REMFE . (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "07ea2ebab1305fdd866b97c1e4d3a209",
+    "text": ") Audience : IRS Tax Technicians and Account Management employees. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0928082ffe16cbaf43e43420e5a52831",
+    "text": ") Policy Owner : Chief Information Officer. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2671b1071ae5ca03163429731cf62587",
+    "text": ") Program Owner : Customer Service. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c40529053ced2717b179aa22dacbebf5",
+    "text": ") Primary Stakeholders : Wage & Investment(W&I) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5ceb22db36fa1aa5dd3028a9e55ae125",
+    "text": ") Program Goals : Provide Return Information to taxpayers via phone and online on Where’s My Refund (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "938158556d52441050201494c837b588",
+    "text": ") This IRM and contained sections provide the user the necessary information on how to use the command codes FFINQ, REINF, and REMFE (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ea271b2286bd312bba2679c8e2b7463a",
+    "text": ") Project Lead is responsible for",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5f45c137307a3c9d747129932ad618af",
+    "text": "The Automated Refund Information System (Teletax, IRFOF) also accesses the RFIF (via CC REMFE) by touch-tone telephone or internet. After the taxpayer inputs their SSN, Filing Status Code, and Refund Amount the system checks the RFIF. Upon a match the taxpayer hears or see the refund check mailing date or an appropriate explanatory message. Otherwise the taxpayer must call the toll-free number and speak to a tax assistant for further information.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "704ccba517dfa729ed7a0c67c5145a5c",
+    "text": "This IRM and contained sections provide the user the necessary information on how to use the command codes FFINQ, REINF, and REMFE",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "875fa0ceb5dd1dd255b1a1fc41b6f974",
+    "text": ") Program Controls (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "833a879a509ba68dfc33b05001cd5976",
+    "text": ") Access to this program is governed by SACS.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d1d3659322c4d7ee66250e1eca4f8da3",
+    "text": ") Information File Contents (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "393bc591405d88f446bf70a6b654ed27",
+    "text": ") The RFIF is a separate disk area in IDRS. It contains data extracted from CADE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "25dbcaa9813be6ee2be32ef355efe3e3",
+    "text": "returns processed at MCC for the latest full calendar year tax period and sometimes data from previous calendar year tax periods (when ﬁled during the last",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "cd18e0319e4143b8a084d596516a6904",
+    "text": "months and not updated with current refund data). The stores records for all such returns that post at MCC except for full paid error free returns. It also stores any records for returns showing a refund due per taxpayer that unposts. The record indicates if this unpostable condition gets resolved. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "76df628849153273887b166a38db1f0f",
+    "text": ") The RFIF also contains Fact-of-Filing (FOF) data identifying the receipt of an IMF/CADE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4dd832c228e2ea6db4e72b9c14672fce",
+    "text": "return and tracks where in the GMF “pipeline ” processing the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f58732d6ef89acb57d62ba1f507c56ec",
+    "text": "document resides. FOF data and Refund Information data are in different records on the RFIF. The RFIF updates daily with Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6698cc4ebc88b4e24d14cd4e6df05d5a",
+    "text": ", Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "269f1884e58bb5cbfe2031f4c7202861",
+    "text": "A Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4d4e2670304f25c8507f88023ec5b738",
+    "text": "EZ that fall under the Other Than Full Paid (OTFP) category (refunds, credit elect, even balance and balance due — no payment). FOF extracts data from GMF and ERS ﬁles. Some records are not always signiﬁ- cant or accurate depending on transcription. At calendar year-end, a special REF run deletes all FOF records older than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "0d3afacd3ddf9ec032dcbfc8fb895a09",
+    "text": "cycles and all refund records that are older than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4a1f7f6ba75cda1f93ea15af9f0deb0e",
+    "text": "cycles.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ae90bd8ba4d75a16f89f8cb6041e12d6",
+    "text": ") Information File Elements on the (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e0cef380fb1a1216ce14c7793e9c5c4a",
+    "text": ") TIN and TIN-TYPE — To access any RFIF record requires the taxpayer’s social security number (TIN). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1ff86e83c5ed91148caf3c281f9884e2",
+    "text": ") FREEZE-CD — The RFIF carries up to eight occurrences of this code, when freezes are present on the IMF/CADE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9812574573b537eadd1a2524982724a2",
+    "text": ", four left and four right. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "708ecc1a884aa02d53e1976d272949e6",
+    "text": ") RET-CD — The RFIF contains a one-character, alphabetic indicator used to generate a display on the IDRS terminal. The displayed literal describes the type of return the record extracts from. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e166cf0ffd7da754752d56bf6ce3a84a",
+    "text": ") RET-DLN — The DLN is present on the RFIF for all posted returns. If record extraction is due to a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "bf56b57613d1f723e2e14c82a70e6c4d",
+    "text": "unposting, the DLN of the unpostable TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5519baf02ba83c18dcb673626a002018",
+    "text": "on the ﬁle. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6569692122ffc83dceb35c555d1a515d",
+    "text": ") RET-CY C— This cycle is present regardless if a return posts or unposts. It the cycle the return processed at MCC. When the RFIF has records for refunds issued and there is no return processed the RFIF carries zero for the return cycle that will display as blanks. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7f6eb454ebb3e6769c988ccd8a2423d5",
+    "text": ") REFUND-CYC — When a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c98caf7b9318cce58b257b6d42559b63",
+    "text": "or TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "24152567591e8fbdaad862e5d0538c2c",
+    "text": "transaction posts, the RFIF displays the cycle of the last such transaction. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "11b3fe7854f3ca0fda3c40d08f2b5956",
+    "text": ") EXTRACTION-CYC — This is the last cycle the record extraction from the IMF/CADE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "837547e66506f1fbefd35d93014cbfa2",
+    "text": "occurred at MCC. It is either the cycle the return was initially processed at MCC or the cycle of an update record — providing it is on the speciﬁed list of transaction post codes. In a record extraction due to unposting, no EXTRACTION-CYC is present. Instead, the RFIF carries a two-digit IMF/ CADE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "18fba8c64e7392ee9a61fe8ce2c7e0d7",
+    "text": "unpostable code. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "47bfd8a66ddaa0222b87ffb7a031e803",
+    "text": ") MATH-ERROR-CD — The RFIF carries up to ﬁve",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "38c32f0751d8b9fdfb55520db5e4e3e5",
+    "text": "-digit code encountered when math error codes are present on the IMF/CADE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6082a22a567a619d297cdd4c26a7c653",
+    "text": "IDRS Terminal Responses",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e05779782128a6b0311ef0d250e08920",
+    "text": ") The RFIF is a separate disk area in IDRS. It contains data extracted from IMF/ CADE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "25dbcaa9813be6ee2be32ef355efe3e3",
+    "text": "returns processed at MCC for the latest full calendar year tax period and sometimes data from previous calendar year tax periods (when ﬁled during the last",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "09287ef9d59370a6b0a3597debb5521c",
+    "text": "months and not updated with current refund data). The RFIF stores records for all such returns that post at MCC except for full paid error free returns. It also stores any records for returns showing a refund due per taxpayer that unposts. The record indicates if this unpostable condition gets resolved. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "76df628849153273887b166a38db1f0f",
+    "text": ") The RFIF also contains Fact-of-Filing (FOF) data identifying the receipt of an IMF/CADE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4dd832c228e2ea6db4e72b9c14672fce",
+    "text": "return and tracks where in the GMF “pipeline ” processing the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f58732d6ef89acb57d62ba1f507c56ec",
+    "text": "document resides. FOF data and Refund Information data are in different records on the RFIF. The RFIF updates daily with Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6698cc4ebc88b4e24d14cd4e6df05d5a",
+    "text": ", Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "269f1884e58bb5cbfe2031f4c7202861",
+    "text": "A Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4d4e2670304f25c8507f88023ec5b738",
+    "text": "EZ that fall under the Other Than Full Paid (OTFP) category (refunds, credit elect, even balance and balance due — no payment). FOF extracts data from GMF and ERS ﬁles. Some records are not always signiﬁ- cant or accurate depending on transcription. At calendar year-end, a special REF run deletes all FOF records older than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "0d3afacd3ddf9ec032dcbfc8fb895a09",
+    "text": "cycles and all refund records that are older than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4a1f7f6ba75cda1f93ea15af9f0deb0e",
+    "text": "cycles.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "12bd34e16b188c6f9a746d3ee5115fcf",
+    "text": "The RFIF is a separate disk area in IDRS. It contains data extracted from IMF/ CADE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "25dbcaa9813be6ee2be32ef355efe3e3",
+    "text": "returns processed at MCC for the latest full calendar year tax period and sometimes data from previous calendar year tax periods (when ﬁled during the last",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c7d218b9520a055a1c41a48484503402",
+    "text": "months and not updated with current refund data). The RFIF stores records for all such returns that post at MCC except for full paid error free returns. It also stores any records for returns showing a refund due per taxpayer that unposts. The record indicates if this unpostable condition gets resolved.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3c3b956b5799cdc8345849ea59b3ee34",
+    "text": "that are older than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "b0c8ceb97599f6cafe598cb77c86fc28",
+    "text": "cycles. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e0cef380fb1a1216ce14c7793e9c5c4a",
+    "text": ") TIN and TIN-TYPE — To access any RFIF record requires the taxpayer’s social security number (TIN). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1ff86e83c5ed91148caf3c281f9884e2",
+    "text": ") FREEZE-CD — The RFIF carries up to eight occurrences of this code, when freezes are present on the IMF/CADE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9812574573b537eadd1a2524982724a2",
+    "text": ", four left and four right. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "708ecc1a884aa02d53e1976d272949e6",
+    "text": ") RET-CD — The RFIF contains a one-character, alphabetic indicator used to generate a display on the IDRS terminal. The displayed literal describes the type of return the record extracts from. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e166cf0ffd7da754752d56bf6ce3a84a",
+    "text": ") RET-DLN — The DLN is present on the RFIF for all posted returns. If record extraction is due to a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "bf56b57613d1f723e2e14c82a70e6c4d",
+    "text": "unposting, the DLN of the unpostable TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5519baf02ba83c18dcb673626a002018",
+    "text": "on the ﬁle. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "18812cbae6eb9489592cfc2778793d13",
+    "text": ") RET-CY C— This cycle is present regardless if a return posts or unposts. It the cycle the return processed at MCC. When the RFIF has records for refunds issued and there is no return processed the RFIF carries zero for return cycle that will display as blanks. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7f6eb454ebb3e6769c988ccd8a2423d5",
+    "text": ") REFUND-CYC — When a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c98caf7b9318cce58b257b6d42559b63",
+    "text": "or TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "24152567591e8fbdaad862e5d0538c2c",
+    "text": "transaction posts, the RFIF displays the cycle of the last such transaction. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "11b3fe7854f3ca0fda3c40d08f2b5956",
+    "text": ") EXTRACTION-CYC — This is the last cycle the record extraction from the IMF/CADE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "837547e66506f1fbefd35d93014cbfa2",
+    "text": "occurred at MCC. It is either the cycle the return was initially processed at MCC or the cycle of an update record — providing it is on the speciﬁed list of transaction post codes. In a record extraction due to unposting, no EXTRACTION-CYC is present. Instead, the RFIF carries a two-digit IMF/ CADE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "18fba8c64e7392ee9a61fe8ce2c7e0d7",
+    "text": "unpostable code. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "47bfd8a66ddaa0222b87ffb7a031e803",
+    "text": ") MATH-ERROR-CD — The RFIF carries up to ﬁve",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "38c32f0751d8b9fdfb55520db5e4e3e5",
+    "text": "-digit code encountered when math error codes are present on the IMF/CADE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6094f5878d658e0f67738aa0f888c7d1",
+    "text": "FREEZE-CD — The RFIF carries up to eight occurrences of this code, when freezes are present on the IMF/CADE2, four left and four right.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "2e1a3333133fd13186d482b0f719819a",
+    "text": "MATH-ERROR-CD — The RFIF carries up to ﬁve 3-digit code encountered when math error codes are present on the IMF/CADE2.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ff3efbd1191f2a7eb3b73aca6e89e07d",
+    "text": ") UNPOSTABLE-CD — A code showing why the return unposted and extracted to the RFIF. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "87843d96419f5094653bed0100b3e226",
+    "text": ") FILING-STATUS-CD — The ﬁling status code extracted for both postable returns and unpostable returns. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a50e103423b10605b0b749bfa5239bb1",
+    "text": ") BAL-CD — The RFIF stores an indicator for posted returns showing whether the module balance was debit, credit, or even at time of extraction. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "15aa7bc0d12f0b5e9d12b5e558223344",
+    "text": ") OFFSET-CD — The RFIF stores an indicator showing whether or not a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "8a5edab282632443219e051e4ade2d1d",
+    "text": "/",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3d30020b1863441a64e786bdc72745e9",
+    "text": ", or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "9397115a6323feddd91fd0d08bcd8078",
+    "text": "posts in the cycle shown in EXTRACTION-CYC. If any of these transactions post prior to the EXTRACTION-CYC, they are not present on the RFIF. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "4120db7abf93838e49c44d2b43782d90",
+    "text": ") REFUND-CD — The RFIF maintains an indicator for refunds issued. If yes, indicator states if it was a manual or generated refund and if more than one refund issued. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "6c94a7438b451d5e9bea51e5f99fbb63",
+    "text": ") ESTIMATED-TX-DISCREPANCY-IND — A RFIF indicator showing if an ES crepancy (code",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2b1b0dbe37b90fb3ce8b2e8a74cd68ef",
+    "text": ") exists. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f5d5b3a9841cab787cf0f0e948d460de",
+    "text": ") MULTIPLE-MATH-ERR-CD-IND — A RFIF indicator showing if more than one MATH-ERROR-CD exists on the IMF/CADE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "fcda9cd8b7ccaadeef37674344579748",
+    "text": ") REFUND-AMT — When a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "c98caf7b9318cce58b257b6d42559b63",
+    "text": "or TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2c90efe6d512ebb568ab4071402a67a9",
+    "text": "posts, the RFIF retains the amount of refund. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "bb068325ee26f60af064225e462fa1fc",
+    "text": ") MOD-BAL-AMT — When there is no refund, the RFIF maintains the module balance that is in effect from the last time of record extraction from the IMF/ CADE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "562f2ddef6f8845a0f8e40be1b7bda09",
+    "text": "If the amount exceeds $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "1925dccc12769350e3ba10f34eae7c7b",
+    "text": ", the record displays $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "0fdb5214ea811b9b494dfa1342e573c6",
+    "text": ") EIC-AMT — The RFIF carries the net Earned Income Credit amount of TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "627dba980b6378b9dc8e30358342775b",
+    "text": ") NAME-CTRL — When a return posts, the name control transfers to the RFIF. On some unposted returns the check digit is present until the return posts. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "e094beb2d813a0c5520cd0157b24da53",
+    "text": ") UNPOSTABLE-RESOLUT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "0fea0cca523c5e7deb04af5cd415aad5",
+    "text": "N-CODE — A code input using GUF command codes UPBAT and UPRES to close unpostable transaction cases. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b954e8a2429d7e77f90070ef6292dbbb",
+    "text": ") TAXPAYER-REFUND-AMT — The amount of refund entered by a taxpayer a return. Before the RFIF drops the FOF record this amount transfers to the REF record. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "8796db2d35ceba6ce0e87f23c6e6d6db",
+    "text": ") TOP-OFFSET-PRIMARY-AMOUNT — The amount of refund offset for delin- quent non-tax debt owed to Federal agencies and to States: including, but limited to, past due child support by primary taxpayer. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a01dd3d29fefaf2998748022e71d7e1e",
+    "text": ") TOP-OFFSET-SECONDARY-AMOUNT — The amount of refund offset for linquent non-tax debt owed to Federal agencies and to States: including, but not limited to, past due child support by secondary taxpayer. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "dbb9706b0863cc66c548c04e4cec684c",
+    "text": ") BOD-CD — A tax account code identifying the IRS Business Operation Division (BOD) that has overall responsibility for the account either originally assigned when the return was ﬁled or updated when reassigned (NAP). Codes FFINQ, REINF, and REMFE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3660315a9af3df255d8f19ab077e4797",
+    "text": "page",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "9dd384e4282628afeac1638df3056257",
+    "text": "Command Codes FFINQ, REINF, and REMFE 2.3.13 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "daf7728060554b9ed65aa9a61a9267c5",
+    "text": "BAL-CD — The RFIF stores an indicator for posted returns showing whether the module balance was debit, credit, or even at time of extraction.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "03fb7e98e2c83b585f0bcd4002bee232",
+    "text": "NAME-CTRL — When a return posts, the name control transfers to the RFIF. On some unposted returns the check digit is present until the return posts.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "e20638967119d96c3a938f864fdb9783",
+    "text": "UNPOSTABLE-RESOLUTlON-CODE — A code input using GUF command UPBAT and UPRES to close unpostable transaction cases.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "9dd384e4282628afeac1638df3056257",
+    "text": "Command Codes FFINQ, REINF, and REMFE 2.3.13 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7b7e8aa506c3a98da20dcfab95d76183",
+    "text": ") BANK-ACCOUNT-NUMBER - is the account number of the bank for the RAL (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "dd7ea7a462404e0baa7d4618e772583e",
+    "text": ") PREV-DEBT-IND - no math errors or FMS offset current year but a prior year MOD balance was taken.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4abae8c528324756be33dd54d4f570d7",
+    "text": ") Refund Information File Extraction Criteria (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "644be7ed068e1b20d2c5bdd666cb6dfd",
+    "text": ") Record conditions for extraction from the IMF/CADE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8bc2ce94c2bc689de7c8cba4409b275c",
+    "text": "for the RFIF in the current year tax period follow: a. A TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "49a30f2bc7f46e9f0f8b5030ed77a8d9",
+    "text": "showing a refund due per the taxpayer unposted at MCC. b. A TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a2dab01742af4af8b9a692f131ca4864",
+    "text": "(other than one for a full paid error free return) posted at MCC. c. A TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "88602055099fd7fd73233e1b2cbccef6",
+    "text": "posted to the entity. d. A TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "0580c2d6d52f42ad5c6b4be47a3ece2a",
+    "text": "posted and no TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "73f3076adb02e197adbb376016ecc46d",
+    "text": "posted (amended return; no original). e. A TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3d30020b1863441a64e786bdc72745e9",
+    "text": ", or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b25361b9732c01789fdf91b658cc0109",
+    "text": "posted to the tax module.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "5b545a68f64ff27c8e9929735517c311",
+    "text": ") RFIF Relationship to the ITIF for Refund Information (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4b55fa6226b522f63dd963d3af01ad92",
+    "text": ") The RFIF primarily reﬂects the condition of returns when ﬁrst processed. Under limited circumstances, if certain critical transactions post as discussed above, an update record extracts. In many cases the regular IDRS TIF will have a record of the same tax module. The RFIF data displayed on the terminal may indicate if the TIF has this record. Some examples of conditions are: a. Credit Balances — If the RFIF shows that the module has a credit balance and no refund the TIF contains the module. b. Debit Balance — If the RFIF shows that the module had a debit balance when the return processes, the TIF will probably contain the module if the debit balance is still outstanding. If collection activity completes, the RFIF will still show the original debit balance and the TIF may have no module at all. Meanwhile the RFIF continues to show the debit balance because the usual transactions that satisfy an outstanding balance are not criteria to extract a RFIF update record from the IMF/CADE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b40bdec05f0e8cf3082289fa5b444fb4",
+    "text": "at MCC. c. Freeze Codes — The freeze codes on the RFIF are the same codes used for regular IDRS TIF extraction criteria. The presence of one of these codes on the RFIF indicates that the TIF may contain the module. d. TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "5a6553ea48fe08708efdb99d5c81d43a",
+    "text": "— (means undeliverable refund check) is a regular IDRS extrac- tion criterion. If the RFIF shows an unreversed TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "73070bc6f009c31c1800d37d6f0b7ed8",
+    "text": ", the TIF should contain the module. e. TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "31eccc44f8e7f24d600bcb91cbd29e48",
+    "text": "— If there is an amended return with no original, the TIF should contain the module.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "88fdb4b4625be5edebbb51702a51257d",
+    "text": ") Accessing the RFIF for Refund Information (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "938a5c4b400a8a934c49ed314e40f46b",
+    "text": ") Refund Information displays in the following ways: a. Input of CC REINF will access the RFIF directly. Use this CC to request a data display from the RFIF for a given SSN. b. If CC SUMRY with deﬁner “R” ﬁnds no data on the TIF, the computer",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "c157e96004888cbe99129d1510bd44f2",
+    "text": "BANK-ACCOUNT-NUMBER - is the account number of the bank for the RAL",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "0ea0906e3f1ae6d47801c014a4de67a0",
+    "text": "A TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "244fd7f0b7c41f9dfac22c80e6365b46",
+    "text": "showing a refund due per the taxpayer unposted at MCC. A TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "be7a75ad548132ce2a3255c4be6b3290",
+    "text": "(other than one for a full paid error free return) posted at MCC. A TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e6ba0958848eb72ff2f30d8f184d2b87",
+    "text": "posted to the entity. A TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "0580c2d6d52f42ad5c6b4be47a3ece2a",
+    "text": "posted and no TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "9ce7e319534fa58635034c7ce3f895f4",
+    "text": "posted (amended return; no original). A TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3d30020b1863441a64e786bdc72745e9",
+    "text": ", or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b25361b9732c01789fdf91b658cc0109",
+    "text": "posted to the tax module.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "427dcf20881ce6bf233e224ed124143f",
+    "text": ") The RFIF primarily reﬂects the condition of returns when ﬁrst processed. Under limited circumstances, if certain critical transactions post as discussed above, an update record extracts. In many cases the regular IDRS TIF will have a record of the same tax module. The RFIF data displayed on the terminal may indicate if the TIF has this record. Some examples of conditions are:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "18c5dcc4e6163eb621d1821f5c77175a",
+    "text": "Credit Balances — If the RFIF shows that the module has a credit balance and no refund the TIF contains the module. Debit Balance — If the RFIF shows that the module had a debit balance when the return processes, the TIF will probably contain the module if the debit balance is still outstanding. If collection activity completes, the RFIF will still show the original debit balance and the TIF may have no module at all. Meanwhile the RFIF continues to show the debit balance because the usual transactions that satisfy an outstanding balance are not criteria to extract a RFIF update record from the IMF/CADE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "de1ceeb1291d1fed185f2f6b5c05ea69",
+    "text": "at MCC. Freeze Codes — The freeze codes on the RFIF are the same codes used for regular IDRS TIF extraction criteria. The presence of one of these codes on the RFIF indicates that the TIF may contain the module. TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "5a6553ea48fe08708efdb99d5c81d43a",
+    "text": "— (means undeliverable refund check) is a regular IDRS extrac- tion criterion. If the RFIF shows an unreversed TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "da96bd804e0192bef483de733dea06d9",
+    "text": ", the TIF should contain the module. TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "31eccc44f8e7f24d600bcb91cbd29e48",
+    "text": "— If there is an amended return with no original, the TIF should contain the module.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "9e24eac5546987eb26030f58aac00505",
+    "text": "a. Input of CC REINF will access the RFIF directly. Use this CC to request a data display from the RFIF for a given SSN. b. If CC SUMRY with deﬁner “R” ﬁnds no data on the TIF, the computer will pass the inquiry to CC REINF and the RFIF will be accessed. This happens only when SUMRY is the speciﬁc input. It does not happen if some other command code (e.g., TXMOD) defaults to SUMRY. c. A telephone call to the Teletax system or an Internet request activates CC REMFE. The refund issued date or other data concerning the refund status returns through the Teletax system or the Internet request with the appropriate response to the caller or requestor. In the absence of infor",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a237fc5b2f1bf23ee029b07eefb3bc0a",
+    "text": "mation about the inquirer’s refund, the presence of Fact",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "28391d3bc64ec15cbb090426b04aa6b7",
+    "text": "of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "29e368f6afbfb65669e8ce50d573eecb",
+    "text": "Filing data results in a response indicating the receipt of the tax return.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "0dbe36fba58f981a933301dbecd48531",
+    "text": "for (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "ec62ec798d447cc8ae41df65a96b1a96",
+    "text": ") Messages displayed on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "5b9d1c8e5c636db262034421d89d7401",
+    "text": "are: a. SSN FORMAT INCORRECT — The SSN is not in either one of the formats: nnn-nn-nnnn or nnn-nn-nnnn*. Correct and re-enter. b. RFIF NOT AVAILABLE — The RFIF is not on the IDRS data base or is not open for access. c. REVERSE VALIDITY PRESENT ON RFIF — This appears under two circumstances (both of which mean that a RFIF record is present for the reverse validity of the input SSN). If the input SSN achieves a match on both the input and reverse validity digit, a normal CC-REINF display will appear along with this message. If a match is not made on the input and validity digit, the input data elements will appear along with this message. d. NO DATE AVAILABLE ON RFIF — VAL OR INVAL — After the input of CC REINF, there is no record on the RFIF for the (input) SSN either for the input validity digit or for the reverse validity digit. e. NO DATA ON ITIF OR RFIF — VAL OR INVAL — After the input of CC SUMRY (with deﬁner “R”), there is no record on the TIF for the input SSN; in addition, there is no record on the RFIF for the valid/invalid segment of the input SSN. (RFIF) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0913067e5ef68a414979fcf0e0cb0302",
+    "text": ") TIN and TIN-TYPE — To access any FOF record requires the taxpayer’s security number (TIN). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "f793f2fa9501a72787bf237c1fc6337e",
+    "text": ") FOF-STATUS-CD - This ﬁeld (along with STATUS-CYC) allows tracing of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "2ff919b25cea5d49454997066b3969dc",
+    "text": "return through the GMF pipeline process. It helps to calculate an approximate date the IMF/CADE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "5e50fd2e79ca819f6bd7e68e4fa6f376",
+    "text": "taxpayer can expect to receive a refund. There are ﬁve FOF status codes. They are:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d1727bb12dd238efff41fe57f8bd0972",
+    "text": "=RAW,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "b8327641c0c85a0020aae2f6ddb0250f",
+    "text": "=BOBed,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "1f7a4bc67e28beffcc745e1f71f9647d",
+    "text": "=Corrected BOB,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "7f318a25ce8cf3cc060fb8d3fb22fb23",
+    "text": "=Document sent to ERS, and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "6ac3d63e41a704bba3fbbd82f9af5029",
+    "text": "=Corrected BOB. Once the STATUS-CD and STATUS-CYC change, the entire FOF record updates to include the new STATUS-CD and STATUS-CYC. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "56aba7ab0810ac1cf607033d052c896c",
+    "text": ") RET-DLN — The DLN is present on all FOF records on the RFIF; it transfers from the GMF and the ERS ﬁles. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "f4afc26e0682b965f2fed021f516e2bf",
+    "text": ") STATUS-CYC — The cycle in which the FOF status changed. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "1006a05d3fc820c9cc9c10a756763bb2",
+    "text": ") SC-INPUT-CYC — The cycle in which the Campus processed the GMF and ERS ﬁles for data transfers to the FOF record on the RFIF. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "01a415f457d094099862eea8597e37ff",
+    "text": ") FILING-STATUS-CD — This ﬁeld should contain the ﬁling status that the taxpayer put on their return, except Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d4ab27280e83b76904259e70b3413d02",
+    "text": "EZ has a computer generated ﬁling status code of ’",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "c834b1635b54ce9725c378d1813719c5",
+    "text": "’. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "7a47ee591f073c679cd937bd96fc668a",
+    "text": ") FOF-BAL-DUE-REFUND-AMT — The refund amount entered by the taxpayer on a return and extracted from a GMF or ERS record. If there is no amount present, CC FFINQ displays the literal “Refund Amount Not Present. ” When the FOF record drops from the RFIF this amount transfers to the REF record as TAXPAYER-REFUND-AMT. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "77b129ac71bd8b6862087931748d153b",
+    "text": ") NAME-CTRL — Because it is not always present on the GMF or ERS record; it does not always transfer to the FOF record. This ﬁeld, if present, contains the name control but will not contain a check digit. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d2e6a9af99c5ae02a2406139262a3562",
+    "text": ") TAX-PRD-YR - The tax period of the return.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d3149149fd6df9bf360b62fb59230f71",
+    "text": "IDRS Terminal Responses Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "30a6f71662ef61a9e5f068a9184466aa",
+    "text": "B (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "be3d6d28dfba247e4e29723b7994a95a",
+    "text": "SSN FORMAT INCORRECT — The SSN is not in either one of the formats: nnn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "fab66aa01347d3f11a16468941378cea",
+    "text": "nn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "02c7e184a50edc89f7413231d076bab6",
+    "text": "nnnn or nnn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "fab66aa01347d3f11a16468941378cea",
+    "text": "nn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "7f82ec7e2862b56289ceaaeb057640d9",
+    "text": "nnnn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d46db6fcdd99036b417ed0997f57e271",
+    "text": ". Correct and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "6861bfa1220dc8ba3a2b3f30d2875408",
+    "text": "enter. RFIF NOT AVAILABLE — The RFIF is not on the IDRS data base or is not open for access. REVERSE VALIDITY PRESENT ON RFIF — This appears under two circumstances (both of which mean that a RFIF record is present for the reverse validity of the input SSN). If the input SSN achieves a match on both the input and reverse validity digit, a normal CC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "f28717773c1ad65d1aaa6c22c57712ce",
+    "text": "REINF display will appear along with this message. If a match is not made on the input SSN and validity digit, the input data elements will appear along with this message. NO DATE AVAILABLE ON RFIF — VAL OR INVAL — After the input of CC REINF, there is no record on the RFIF for the (input) SSN either for the input validity digit or for the reverse validity digit. NO DATA ON ITIF OR RFIF — VAL OR INVAL — After the input of CC SUMRY (with deﬁner “R”), there is no record on the TIF for the input SSN; in addition, there is no record on the RFIF for the valid/invalid segment of the input SSN.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "f793f2fa9501a72787bf237c1fc6337e",
+    "text": ") FOF-STATUS-CD - This ﬁeld (along with STATUS-CYC) allows tracing of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "2ff919b25cea5d49454997066b3969dc",
+    "text": "return through the GMF pipeline process. It helps to calculate an approximate date the IMF/CADE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "5e50fd2e79ca819f6bd7e68e4fa6f376",
+    "text": "taxpayer can expect to receive a refund. There are ﬁve FOF status codes. They are:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d1727bb12dd238efff41fe57f8bd0972",
+    "text": "=RAW,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "b8327641c0c85a0020aae2f6ddb0250f",
+    "text": "=BOBed,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "1f7a4bc67e28beffcc745e1f71f9647d",
+    "text": "=Corrected BOB,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "7f318a25ce8cf3cc060fb8d3fb22fb23",
+    "text": "=Document sent to ERS, and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "779ba144277f08ef21d47ea87d760c0c",
+    "text": "=Corrected BOB. Once the STATUS-CD and STATUS-CYC change, the entire FOF record updates to include the new STATUS-CD and STATUS-CYC.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "dd01700e7d261dfdddeac6df22ba71cc",
+    "text": "Command Codes FFINQ, REINF, and REMFE 2.3.13 page 7",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "0d6a0bcb2393821f3d8cbb42aca52265",
+    "text": "(a) For 1040— Tax Class 2 Doc Code 03, 05, 11 or 21 Format Code 300 (b) For 1040A— Tax Class 2 Doc Code 09 or 16 Format Code 302 (c) For 1040EZ— Tax Class 2 Doc Code 07 or 28 Format Code 303",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "9d633116df4f6bd0483573f32a9ec0e4",
+    "text": ") Fact-of-Filing information displays from the RFIF via CC FFINQ This command code uses a SSN and attempts to match it to a FOF record on the RFIF. If a match is found, the latest FOF data displays. CC FFINQ is secondary and used when CC REINF shows no current information about an IMF/CADE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "c29d3d3b59d5a352cebeb30fd84e7c17",
+    "text": "tax- payer’s refund return.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "daddc4a66041bdbb478882623c98c3bc",
+    "text": "2.3.13.14(01-01-2004) Accessing the RFIF for Fact-of-FilingInformation",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "290f278437f8b811564c2bc6ce3c4ace",
+    "text": "SSN FORMAT INCORRECT — The SSN is not in the proper format of nnn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "fab66aa01347d3f11a16468941378cea",
+    "text": "nn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d9e54677bf0ca96d3c7b37ba95130da0",
+    "text": "nnnn. Correct and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "da1ec84b8836e3bcdc42807b98180e96",
+    "text": "enter. FOF NOT AVAILABLE — The RFIF containing FOF data is not open for access. NO DATA AVAILABLE ON FOF — After the input of CC FFINQ there is no FOF data on the RFIF for the input SSN.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "33c1e29902d678cbcff13d561dbfd825",
+    "text": "This Page Intentionally Left Blank",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "2f343666aaa88c44430b12e6ab8a2959",
+    "text": "Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "6b6bb2724dc614bd32bff64bda05fb18",
+    "text": "Item Line Position Description and Validity 1 1 1–5 CC REINF 2 1 7–18 SSN — Must be in the format nnn-nn-nnnnb or nnn-nn- nnnn*. A searched of the ﬁle ensues for the SSN with the input validity digit as well as for the same SSN with the reverse validity digit.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "5af2038147d1b85dc44225342a8adc82",
+    "text": "Exhibit 2.3.13-2 (07-01-2015) CC REINF — Output Valid Response",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "9dd384e4282628afeac1638df3056257",
+    "text": "Command Codes FFINQ, REINF, and REMFE 2.3.13 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "bfad1ecfa46db5f221aa1897ca5fbc2e",
+    "text": "Exhibit 2.3.13-2 (Cont. 1) (07-01-2015) CC REINF — Output Valid Response",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "119d7a0ee504e52020e116c20cda4f75",
+    "text": "CC REINF — Output Valid Response Item Line Position Description and Validity 1 1 01–05 CC REINF 2 1 7–17 SSN — as input 3 1 20–23 NAME CONTROL or CHECK DIGIT 4 1 40 x FILING STATUS CODE — the Filing Status shown on the return 5 1 56–57 REFUND-STATUS-CODE—a determined value which describes the current status of a refund. 6 1 69 REFUND-CD—describes the status of the refund. 7 1 80 TIN-TYPE— is the primary TIN for this record. 8 2 01–02 MFT CODE — Always 30 9 2 04–09 TAX PERIOD 10 2 37–42 RETURN CYCLE—The cycle the return posts or unposts. If no return, the literal “NONE ” displays. 11 2 58 FILING-METHOD— identiﬁes the method in which the taxpayer ﬁle their return. 12 2 69 CADE2-MF-IND—a code identifying the processing source of the record.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "691ef74690e0cc668e4fb206f2a349b6",
+    "text": "Description and Validity RETURN INDICATOR LITERAL — describes the type of return from which the record extracts. AMENDED RETURN — The RFIF record extracts because a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a19d1d2cbc5ca1b45e2da23262e39daf",
+    "text": "(amended return) posts and no TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "7db9a4c8e4ae6b6b08e0411e614105e5",
+    "text": "posts. BALANCE DUE — The RFIF record extracts from a tax module that shows the return with a balance due when it settled.CREDIT BALANCE — The RFIF record extracts from a tax module that shows after the return settled, there was a credit balance and no TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "6173abc5cde6abf01f3fee45c448e385",
+    "text": "refund was present. CREDIT ELECT — The RFIF record extracts from a tax module for which the credit balance (present at the time of return processing) was offset by a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "98216b9a03c058abc9b1488f279b0644",
+    "text": "to another period. CREDIT ELECT AND REFUND — The RFIF record extracts from a tax module for a credit balance (present at the time of return processing) was partially offset by a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "b6737b69daaa422d8e908fb975c0e874",
+    "text": "to another period and the remainder refunded to the taxpayer. EVEN — The RFIF record extracts from a tax module that was even balance at the time the return processed. NOT SETTLED — The RFIF record extracts from a tax module in which the return posts but not settled. Offsets or refunds may occur when the return does settle. REFUNDED — The RFIF record extracts from a tax module that had credit balance at the time the return processed. There was no TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "165772a52f34340dec547b0b6c01496a",
+    "text": "offset. The taxpayer received a refund when the return processed. REFUND NO TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "21d29001633e2aab981fa39a5d9ddc94",
+    "text": "— The RFIF record extracts from a tax module that did not contain a posted return but did have a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "78132667c0d127b7adb05c7a8d1e6b96",
+    "text": "posting indicating a refund issued to the taxpayer. UNPOSTABLE CODE nnn — The RFIF record extracts when a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "e4100ea9f51bb08b9bb2b4ba22f3d83e",
+    "text": "unposts at MCC. “nnn” is the numeric un- postable code. UNPOSTABLE nnn RESOLVED — The RFIF record extracts when a TC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "59715637a73e78a9f5f850b33b6a600a",
+    "text": "unposts at MCC. “ nnn” is the numeric unpostable code. The unpostable condition resolved in some manner. NOTICE-DATE-a calculated date using RET-CYCLE. TAX MODULE CONTROL DLN — This is the control DLN of the module (or of the unpostable), but it’s usually the DLN of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "9dd384e4282628afeac1638df3056257",
+    "text": "Command Codes FFINQ, REINF, and REMFE 2.3.13 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "fa26c66465b65067e949dd3d9ffe9ab5",
+    "text": "Exhibit 2.3.13-2 (Cont. 3) (07-01-2015) CC REINF — Output Valid Response",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "52385e6cbf5bca5560c9f218c73e9901",
+    "text": "REINF — Output Valid Response Item Line Position Description and Validity 17 4 23–23 ES DISCREPANCY AND MATH ERROR CODE INDICA- TORS — 1) If no code 9 (ES Discrepancy) is present and there is no more than one 3-digit math error code, bb (blanks) displays. 2) If code 9 is present and there is no more than one 3-digit math error code at the MF, $b displays. 3) If there is more than one 3-digit math error code, but code 9 is not present b* displays. 4) If there is more than one 3-digit math error code present, along with a code 9, $* displays. 18 4 24–24 MULTIPLE-MATH-ERR-CD . 19 4 26–44 MATH ERROR CODE—Up to 5 3-digit math error code en- countered at the MF displays (101–669). If there are no errors the ﬁeld is blank. More than 5 errors displays 100 as math error. 20 4 46–52 LITERAL—is “ FREEZES” if one or more freeze codes are present. If no freeze codes present, the literal will not display. 21 4 53–61 FREEZE CODES—Up to four left-hand freeze code and four right-hand freeze code, display with a hyphen between the right-hand and left-hand codes. If there are no freezes, three blanks display. 22 4 73-78 TAX-FORM -determined by the DLN the tax form ﬁled by this taxpayer. 23 5 01–12 LITERAL—is “ REFUND CYCLE” if a TC 840 or 846 posts to the account. If no TC 840 or 846 posts, blanks display. 24 5 14–19 REFUND CYCLE—the cycle in which the last TC 840 or 846 posts. Is blank if no TC 840 or 846 posts. 25 5 21–26 LITERAL—is “ AMOUNT” if a refund amount is present. Otherwise, it is blank. 26 5 28–40 REFUND AMOUNT—the amount of the last refund issued. Blank if no refund issued. 27 5 53–65 TAXPAYER REFUND AMOUNT — the amount of refund claimed by the taxpayer originally on their incoming return. 28 6 01–14 LITERAL—is “ MODULE BALANCE” when a TC 150 does unposts. If the return is unpostable, “OVRPYMT PER TP” displays. 29 6 16–29 MODULE BALANCE—present only if no refund issued. 30 6 31–36 MODULE BALANCE WORD—“EVEN”, “DEBIT”, or “CREDIT ” displays, as appropriate. Blanks display when the return is unpostable.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "a1b7c12f7f1985ab6f7e7b14e887e76b",
+    "text": "MULTIPLE-MATH-ERR-CD",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "b92c99c5fb12ae845c7a7aac3cb72898",
+    "text": "LITERAL—is “ FREEZES” if one or more freeze codes are present. If no freeze codes present, the literal will not display.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "e81128a6340400ede7565514e8bb8f69",
+    "text": "FREEZE CODES—Up to four left-hand freeze code and four right-hand freeze code, display with a hyphen between the right-hand and left-hand codes. If there are no freezes, three blanks display.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "256c32cb97a2b0bc32b8dd0b7c23df12",
+    "text": "TAX-FORM -determined by the DLN the tax form ﬁled by this taxpayer.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "a2e9d21b893e609614e6dbf964c2cc29",
+    "text": "LITERAL—is “ REFUND CYCLE” if a TC 840 or 846 posts to the account. If no TC 840 or 846 posts, blanks display.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "4479c03252dc675d773ec25e41bc62ae",
+    "text": "LITERAL—is “ AMOUNT” if a refund amount is present. Otherwise, it is blank.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "1dca8f969caac09c02926a25c2595c28",
+    "text": "REFUND AMOUNT—the amount of the last refund issued. Blank if no refund issued.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "75ad7e2999e728ecf432765556988435",
+    "text": "TAXPAYER REFUND AMOUNT — the amount of refund claimed by the taxpayer originally on their incoming return.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "1ba0fec7e260a1c3695d0ff7245552bf",
+    "text": "Item Line Position Description and Validity 31 7 01–40 OFFSET-LITERAL —OFFSET-IND-TABLE OFFSET-CD 2 - TC 826 OR 896 OFFSET-CD 3 - UNDELIVERED REFUND OFFSET-CD 4 - TC 018 OFFSET-CD 5 - TC 742 OFFSET-CD 6 - REFUND CANCELLED OFFSET-CD 7 - TC 843 CHECK OFFSET-CD 8 - TC 826 MFT35 ACA ASSESSMENT OFFSET-CD 9 - TC 826 MFT35 W/29/30/31/55 32 8 01–20 TC 846/840 LITERAL— NO REFUND Displays if no TC 840 or 846 has ever post to the module. GENERATED REFUND Displays when one refund issued with TC 846. MANUAL REFUND Displays when one refund issued with TC 840. MORE THAN ONE REFUND Displays when there are at least two 84x refunds. The amount of the last refund issued is in the refund amount ﬁeld. If the record extracts because the return unposts this ﬁeld is blank. REF SENT TO AUTH REP Displays when one refund is issued with TC 846 and the value of the CAF indicator in the module on the Master File is 3, 4, or 7. GENERATED REFUND EFT Displays when one refund issued with TC 846 and the Electronic Fund Transfer generates the refund. REFUND PULLED Displays when the refund check pulled for review. CP54 ISSUED Displays if a CP54 Notice issued. 33 8 37–42 EXTRACT CYCLE—the last cycle that the module extracts from the IMF/CADE2 at MCC. No reﬂection for subsequent activity in the account that does not cause RFIF extraction. 34 9 01–40 LITERAL—the literal “REF CHK SCHEDULED” displays if a check date is present. Otherwise, blanks display.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "a2b9cb22922daa49d1e9fffa8c886983",
+    "text": "EXTRACT CYCLE—the last cycle that the module extracts from the IMF/CADE2 at MCC. No reﬂection for subsequent activity in the account that does not cause RFIF extraction.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "a58d65f7bc95b9c8ce3429337bc8fcef",
+    "text": "LITERAL—the literal “REF CHK SCHEDULED” displays if a check date is present. Otherwise, blanks display.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "9dd384e4282628afeac1638df3056257",
+    "text": "Command Codes FFINQ, REINF, and REMFE 2.3.13 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "09b24696355ec8cd9f7a0213441169bc",
+    "text": "Exhibit 2.3.13-2 (Cont. 5) (07-01-2015) REINF — Output Valid Response Item Line Position Description and Validity 35 10 12 SPOUSE-IND—indicates if the primary TIN is on this secondary taxpayer’s record. 36 10 26–34 PRIMARY-TIN— is the primary TIN for this secondary tax- payer’s record. 37 10 53 PRIMARY-TIN-TYPE—indicates the TIN-TYPE of the primary TIN for this secondary taxpayer’s record. 38 11 01–20 LITERAL-EARNED INCOME CREDIT 39 11 22-29 EARNED INCOME CREDIT AMOUNT—the amount of the taxpayer’s Earned Income Credit displays. If no Earned Income Credit is present, the literal “ NONE” displays. 40 11 48–49 BOD-CD — the tax account code identifying the IRS Business Operation Division (BOD) that has overall respon- sibility for the account either originally assigned when the return was ﬁled or updated when reassigned (NAP). 41 11 57–59 BOD-CLIENT-CD — the tax account code that identiﬁes the account as a member of a particular client segment or sub- group of the tax account’s current Business Operation Division. 42 11 75 FMS-DEBT-IND—(a.k.a. DMF-LIABILITY-IND) indicates a liability exists against this taxpayer account. 43 12 28–41 TOP-OFFSET-PRIMARY-AMOUNT —the amount of the primary taxpayer’s delinquent non-tax debt displays. If none present then 0.00 displays. 44 12 63–76 TOP-OFFSET-SECONDARY-AMOUNT —the amount of the secondary taxpayer’s delinquent non-tax debt displays. If none present then 0.00 displays. 45 13 13 RECORD-TYPE — identiﬁes the type of record being processed. 46 15 10 8888-IND - indicates a taxpayer designated to deposit their refund to more than one bank accounts 47 15 21-22 EFT-DDRC - indicates a taxpayer’s request for electronic transfer 48 15 33-34 SB1-DDRC - indicates a taxpayer’s request for Saving Bonds transfer (1st occurrence) 49 15 45-46 SB2-DDRC - indicates a taxpayer’s request for Saving Bonds transfer (2nd occurrence) 50 15 57-58 SB3-DDRC - indicates a taxpayer’s request for Saving Bonds transfer (3rd occurrence) 51 16 01-80 MESSAGE AREA—Information and error messages.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "5083efa616e51159ca12d21bc8c4bc67",
+    "text": "Exhibit 2.3.13-2 (Cont. 5) (07-01-2015) CC REINF — Output Valid Response",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "0ed4350a20dd149bf60e523e9bd4bc17",
+    "text": "BOD-CLIENT-CD — the tax account code that identiﬁes the account as a member of a particular client segment or sub- group of the tax account’s current Business Operation Division.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "43e53ad3d626cdbc77ac5b67ea3e5db8",
+    "text": "FMS-DEBT-IND—(a.k.a. DMF-LIABILITY-IND) indicates liability exists against this taxpayer account.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "341f015366c317d7c9f92f11842bbec3",
+    "text": "EFT-DDRC - indicates a taxpayer’s request for electronic transfer",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "ed8ee63e714dc73853007fe801aa27a2",
+    "text": "MESSAGE AREA—Information and error messages.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "7f2640e967782e66a3ec4456fc1dfea1",
+    "text": "Exhibit 2.3.13-2 (Cont. 6) (07-01-2015) CC REINF — Output Valid Response",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "e1389bb0e62d40efacc49015e43f8208",
+    "text": "Example of Valid Response to CC REINF",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "3a9690093e139f55c645443386795561",
+    "text": "This example shows TIN number, Filing—Status, Refund—Cycle, and Refund—Amount because there is a REFUND.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "2f343666aaa88c44430b12e6ab8a2959",
+    "text": "Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "04c3c6bfd0885890b6906025060508a2",
+    "text": "Exhibit 2.3.13-4 (02-07-2013) CC FFINQ — Output Valid Response",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "9dd384e4282628afeac1638df3056257",
+    "text": "Command Codes FFINQ, REINF, and REMFE 2.3.13 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "739f2a37cdcf14968ead3e3e96fed484",
+    "text": "Exhibit 2.3.13-4 (Cont. 1) (02-07-2013) CC FFINQ — Output Valid Response",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "0752fc5143dc97b0d695d2d458393870",
+    "text": "Item Line Position Description and Validity 9 4 64-71 SERVICE-CENTER-INPUT-DATE—the date equivalent of SERVICE-CENTER-INPUT-CYCLE (CCYYMMDD) 10 5 28-35 FOF-STATUS-CYCLE — the cycle the FOF status changes (CCYYWWDD) 11 5 64-71 FOF-STATUS-DATE—the date equivalent of FOF- STATUS-CYCLE (CCYYMMDD) 12 6 28-35 PROJECTED DATE—the date of when an update is expected from Masterﬁle (CCYYMMDD) 13 6 64-67 DAYS-LAPSED — the number of days CURRENT-DATE has passed the PROJECTED- DATE 14 7 28–35 CURRENT-DATE — current system date (CCYYMMDD) 15 7 44–49 CYCLE — current cycle (CCYYWW) 16 7 64-67 CYCLE-DIFF — the difference between current CYCLE and SERVICE-CENTER-INPUT-CYCLE 17 9 18 FILING-STATUS-CD — as it appeared on the return 18 9 35 STATUS-CODE — the latest FOF status of the return 1=RAW2=BOB’d3=CORRECTED BOB 4=ERS5=CORRECTED ERS 19 9 57-58 REFUND-STATUS — a determined value which describes the current status of a refund 20 9 72 K4-COND-CD — only applies when REFUND-STATUS is K41=CURRENT-DATE is within FREEZE-DATE 2=CURENT-DATE exceeded FREEZE-DATE 21 10 18 FILING-METHOD — identiﬁes the method in which the taxpayer ﬁle their return 22 10 35-40 TAX-FORM — determined by the DLN the tax form ﬁled by this taxpayer 23 10 57-68 REFUND AMOUNT — refund amount displays when an actual refund amount extracts from GMF or ERS and put on the FOF record. If not, the ﬁeld contains the literal “NOT PRESENT” 24 11 18 RESEQUENCE IND — when present this ﬁeld contains a 1, meaning that the 1040 return from Electronic Filing was resequenced; otherwise, this ﬁeld contains the literal “NOT PRESENT.”",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "35320626107ebfab8e853bd232413ac2",
+    "text": "RESEQUENCE IND — when present this ﬁeld contains a meaning that the 1040 return from Electronic Filing was resequenced; otherwise, this ﬁeld contains the literal “NOT PRESENT.”",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "20d87222423ff05ac332400a72398ed6",
+    "text": "Example of Valid Response to CC FFINQ",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "892ffaa897486d32a98cad3815dabd86",
+    "text": "TR T T - i",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "64b23e6ca68024525c6b03a589dc5a34",
+    "text": "This example shows TIN number Filing - Status and Refund - Amount because there is a REFUND.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-013--2023-01-30.pdf",
+      "page_number": 24
+    }
+  }
+]

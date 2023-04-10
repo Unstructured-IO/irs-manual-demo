@@ -1,0 +1,299 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-037--2021-12-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "01a8a7ac15b16db242c60fe68182e865",
+    "text": "This transmits revised IRM 2.3.37, IDRS Terminal Responses, Command Code UPTIN for the GUF System.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-037--2021-12-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "420efee6c7fb10a587de352dc87216b3",
+    "text": "Editorial changes have been made throughout this IRM.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-037--2021-12-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "39d790fc3fc5c17e0b7155a7b284b6af",
+    "text": "IRM 2.3.37, dated June 08, 2020, is superseded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-037--2021-12-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "4a6d1bf9ccb2ccc60ca96cd42f2fd8d5",
+    "text": "LMSB, SBSE, TEGE, and W&I.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-037--2021-12-16.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-037--2021-12-16.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "bd45de5d0fcaa65c24c53a91a070a9b4",
+    "text": "2.3.37.1 Program Scope and Objectives",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-037--2021-12-16.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "8f8e52706a293c35a002f39abd3769ad",
+    "text": "Command Code UPTIN for the GUF System 2.3.37 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-037--2021-12-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "392531c41b85d67d10e63c8244bc5065",
+    "text": "Scope and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-037--2021-12-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4bf2c3a1e6a76d0b1f78252eedf65536",
+    "text": ") This section gives step-by-step guidance for the retrieval of unpostable infor- mation for IDRS (Integrated Data Retrieval System) Command Code UPTIN (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-037--2021-12-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "39f259596d9ee7f80db74a5baeb7325f",
+    "text": ") Purpose: This transmits IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-037--2021-12-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b273413f234a55bb96c9def3d5623b13",
+    "text": ", IDRS Terminal Responses, Command Code UPTIN. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-037--2021-12-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "abc845e49c02e199cc5f745b5f166f9c",
+    "text": ") Audience: All IRS business units. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-037--2021-12-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9aefb246cbe0e1c7f0c9d24f98fd5525",
+    "text": ") Program Owner: AD/Submission Processing (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-037--2021-12-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6d46f5014b91bb1a1b5f3652d17b004c",
+    "text": ") Primary Stakeholders: Wage & Investment (W&I), Large & Mid-Size Business (LMSB), Small Business Self Employed (SBSE), Tax Exempt and Government Entities (TE/GE) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-037--2021-12-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "93b9434eed5bd1f61415015d47bac4c7",
+    "text": ") Program Goals: Command Code UPTIN displays all open and closed Un- postable records for a speciﬁc TIN and will maintain the Unpostable records, for research purposes, for",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-037--2021-12-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "287e1600ef571956b1f2466ae47b6b7b",
+    "text": "days after it is closed. Each unpostable record sorted by TIN, MFT, Tax Period and Transaction Code. The data for UPTIN is updated after GUF",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-037--2021-12-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d2c21b3dd37be2df4906dadd770670e7",
+    "text": "daily run has been completed.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-003-037--2021-12-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8651764bb60665e539fba87deadaef19",
+    "text": "This section gives step-by-step guidance for the retrieval of unpostable infor- mation for IDRS (Integrated Data Retrieval System) Command Code UPTIN",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-037--2021-12-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "15d1665f2064221df553639bb642fbb3",
+    "text": "Program Goals: Command Code UPTIN displays all open and closed Un- postable records for a speciﬁc TIN and will maintain the Unpostable records, for research purposes, for 90 days after it is closed. Each unpostable record is sorted by TIN, MFT, Tax Period and Transaction Code. The data for UPTIN is updated after GUF21 daily run has been completed.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-037--2021-12-16.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "33c1e29902d678cbcff13d561dbfd825",
+    "text": "This Page Intentionally Left Blank",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-037--2021-12-16.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8f8e52706a293c35a002f39abd3769ad",
+    "text": "Command Code UPTIN for the GUF System 2.3.37 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-037--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "7b1f5960006d0f9371c23e7ed8b7a80f",
+    "text": "Exhibit 2.3.37-1 (01-03-2022) Command Code UPTIN Input Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-037--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "62656bc82d3687a21ab6dfb9a40dcf8f",
+    "text": "Line-Item",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-037--2021-12-16.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f97d25d453f73e593d369bff68e977d0",
+    "text": "2.3.37-2 (01-03-2022) Display UPTIN Line-Item Position Data Element Comments 1.1 1–5 COMMAND-CD Input 1.2 7–17 SSN or EIN Input (edited) 1.3 61–70 Current Date Generated mm/dd/yyyy 1.4 73–80 Current Time Generated hh:mm:ss Lines 3–6 can occur up to 4 times 3.1 1 UPDIS-REQUEST-IND SOE (to be keyed) 3.2 2–6 Space for key-in “UPDIS” (to be keyed) 3.3 8–19 UP-SEQ-NUMBER 3.4 22–24 Literal Value “MSR” 3.5 26 MSR-IND 3.6 30 REPEAT-IND 3.7 32–34 Literal Value “CAT” 3.8 36–37 UP-CATEGORY-CODE 3.9 39–42 Literal Value “AREA” 3.10 44–45 FUNCTIONAL-AREA-CODE 3.11 47–49 Literal Value “UPC” 3.12 51–53 UNPOSTABLE-CD 3.13 55 MF-UP-REASON-CD 3.14 57–59 Literal Value “CYC” 3.15 61–66 ORIGINAL-UP-CYCLE 3.16 68–70 Literal Value “URC” 3.17 72 UP-RESOLUTION-CD 3.18 74–77 Literal Value “NULL” 3.19 79–80 NULLIFY-AREA-CD 4.1 1–2 Literal Value “ST” 4.2 4 UP-STATUS-CODE 4.3 6–13 UP-STATUS-DATE 4.4 15–16 Literal Value “MF” 4.5 18 MASTER-FILE-SYSTEM-ID-CODE",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-037--2021-12-16.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "8f8e52706a293c35a002f39abd3769ad",
+    "text": "Command Code UPTIN for the GUF System 2.3.37 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-037--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "0962dbda8db155e001a12643717906be",
+    "text": "Exhibit 2.3.37-2 (Cont. 1) (01-03-2022) Output Display UPTIN Line-Item Position Data Element Comments 4.6 20–22 Literal Value “ASG” 4.7 24–33 EMPLOYEE-ASSIGN-OR-RESOLVED 4.8 39–57 DLN-EFTPS-NUM nnnnn-nnn-nnnnn-nbb or nnnnnnnnnnnnnnn 4.9 59–79 PRIMARY-OR-INT-REDUCT-AMT Edited with ﬂoating dollar sign. 4.10 80 Sign character Minus or space 5.1 1–4 NAME-CTRL 5.2 6–12 literal Value “SSN/EIN ” 5.3 14 SSN-VALIDITY-OR-EIN-IND 5.4 16–19 literal Value “TXPD” 5.5 21–26 TAX-PRD 5.6 28–30 literal Value “MFT” 5.7 32–33 MFT-CD 5.8 35–36 literal Value “PR” 5.9 38–40 REPORT-PLAN-NUM 5.10 42–43 literal Value “TC” 5.11 45–47 TRANS-CD 5.12 49–50 literal Value “DT” 5.13 52–59 TRANS-DT 5.14 62–69 literal Value “IDRS EMP ” 5.15 71–80 IDRS-EMPLOYEE-NUMBER 6.1 1–4 NAME-CTRL-(NEW) 6.2 6–14 TIN-(NEW) 6.3* 15 Literal Value ‘–’ 6.4 16 TIN-TYPE-(NEW) 6.5 21–26 TAX-PRD-(NEW) 6.6 32–33 MFT-CD-(NEW) 6.7 38–40 REPORT-PLAN-NUM-(NEW) 6.8 45–47 TRANS-CD-(NEW) 6.9 54–59 TRANS-DT-(NEW)",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-003-037--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "0061395d8deec375670545c8b59de232",
+    "text": "Exhibit 2.3.37-2 (Cont. 1) (01-03-2022) Output Display UPTIN",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-037--2021-12-16.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1004ad371dd5f09c3e4d8d2a377e2b43",
+    "text": "Exhibit 2.3.37-2 (Cont. 2) (01-03-2022) Output Display UPTIN",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-037--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "62656bc82d3687a21ab6dfb9a40dcf8f",
+    "text": "Line-Item",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-037--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "355f79f29d7d3c2df917ad07f7441e3c",
+    "text": "Comments",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-003-037--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "6d031af10da7a25e554bb21247f28f0e",
+    "text": "Position",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-037--2021-12-16.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "f9c32afb78d3fdb00bfdd270392dcfc3",
+    "text": "* Printed when TIN-(NEW) and TIN-TYPE-(NEW) are present",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-003-037--2021-12-16.pdf",
+      "page_number": 10
+    }
+  }
+]

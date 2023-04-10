@@ -1,0 +1,1316 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "c1a4da6ba98ac4becb3aef86fc53405d",
+    "text": "This transmits revised IRM 2.4.52, IDRS Terminal Input, Command Codes TPCIN and TPCOL.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "42dd11517ecf045956fbe87fff3e5ef4",
+    "text": "IRM 2.4.52 To ensure there is no PII and/or FTI, or improper ﬁctionalization of tax information in the IT IRMs, many of the screen display graphic exhibits and some descriptions have been revised in accordance with current IRS guidelines. Exhibit 2.4.52–6",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "a4b10eca5d064e63973bb1b667ba18c8",
+    "text": "Command Code TPCIN (Deﬁner ’A’)—Input Format Command Code TPCIN (deﬁner ‘U’) — Update Command Code TPCIN Error Responses Command Code TPCIN Valid Responses Command Code TPCOL(deﬁner ’ ’) Command Code TPCOL Error Responses Command code TPCIN and TPCOL Paging",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "0e180f2d3b1f03de9fd2acfee568f60d",
+    "text": "COMMAND CODE TPCIN (deﬁner ’A’) Input Screen COMMAND CODE TPCIN (deﬁner ’A’) Response Screen COMMAND CODE TPCIN Error Screen COMMAND CODE TPCIN (deﬁner ’U’) Input Screen COMMAND CODE TPCIN (deﬁner ’U’) Response Screen COMMAND CODE TPCIN (deﬁner ’C’ or ‘L’) Response COMMAND CODE TPCOL Input Screen COMMAND CODE TPCOL (deﬁner ’ ’) Response Screen",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "ca05c181b7565924cb3f9f07bc314aa9",
+    "text": "TPCIN and TPCOL",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ef51e648dfc814b76990088c13114222",
+    "text": "page (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a6a7eae2c8375a6291f95a6dee620c15",
+    "text": ") This IRM provides information on CFOL Command Codes TPCIN and Details below: (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "bf7e27c46cfb9708352275ef3db5053c",
+    "text": ") Purpose: These sections provide instructions for inputting Third Party (TPC) information, using command code TPCIN, and accessing the data already on the Third Party Contact ﬁle using command code TPCOL. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8beec98454661f0f77d927d02eeda048",
+    "text": ") Audience:Wage and Investment (W&I), Small Business/Self Employed (SB/ SE), Tax Exempt and Government Entity (TE/GE), Taxpayer Advocate (TAS), Criminal Investigation (CI), Appeals, as well as other IRS proﬁled for these restricted IDRS command codes. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "284271f7217ea23be629dd47b67f77bf",
+    "text": ") Policy Owner: (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "fbdadea3c18ce8943a5640a21bd20d2d",
+    "text": ") Program Owner:Modernization and Information Technology (MITS) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "121f2cb07e1f61958354efae30fce13c",
+    "text": ") Primary Stakeholders: Wage and Investment (W&I), Small Business/Self Employed (SB/SE), Tax Exempt and Government Entity (TE/GE), Taxpayer Advocate Service (TAS), Criminal Investigation (CI), Appeals, Enterprise Op- erations (EOPS), and the United States Department of Agriculture (USDA). USDA uses an extract of the Farm Subsidy Program data entered and validated using TPCIN (see SERP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b0200d3906379778a4da7edf7102054c",
+    "text": "for details). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e7353c2b9556d8037cbf455c333dba9d",
+    "text": ") Program Goals: These are the instructions for using the CFOL/IDRS command codes TPCIN and TPCOL. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e318d7ce4253511303c8aded57dcd7be",
+    "text": ") The Third Party Contact System (TPC) program is an Internal Revenue Service (IRS) application designed to maintain a database of all third party contacts that were made regarding a taxpayer during the determination or lection of a tax liability. Each record on the database contains the contact name or general description of the third party contacted (e.g. neighbor, bank name, business associate) along with the date of contact for all contacts relating to a speciﬁc Taxpayer Identiﬁcation Number (TIN). A third party is made when an IRS employee initiates contact with a person other than taxpayer. Notices are provided upon request and issued on-demand to taxpayers and Power of Attorneys (POAs) that have third party contacts. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d86f61543d126b3587060c3cc3bca46c",
+    "text": ") TPC shares data with four (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "372d4ac180bbc02fda1da70c70d1b811",
+    "text": ") IRS applications, but does not connect directly to each. Data from the Automated Collection System (ACS), Automated Reporter (AUR), Electronic Fraud Detection System (EFDS), and the tion Collection System (ICS) are transferred to the GSS-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c45907ee1f1783d5c8efec3b0b07721d",
+    "text": "IBM Mainframe which TPC resides using the Electronic File Transfer Utility (EFTU). Once IBM Mainframe receives data from the ACS, AUR, EFDS, and ICS applica- tions, a batch job is executed which “pulls” the data that each application stored into the TPC database. TPC also receives data from various",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "727e0dedd734384c199b39cf4c13fc9d",
+    "text": "forms from which data is manually entered into the TPC database by TPC ordinators. TPC receives weekly batch ﬁles of third party contacts from the ICS, ACS, AUR, and EFDS applications. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "de2af19e55e4a16992a25b61cb0e0085",
+    "text": ") The United States Department of Agriculture (USDA) uses an extract of the Farm Subsidy Program data entered and validated using TPCIN, at the Campus. IRS clerks use the IAT tool to process USDA data, which auto ﬁlls the information for command code TPCIN with deﬁner code A. TPCIN with deﬁner code U is used to check that work for accuracy. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "7cc823c10b4985cee0bf93a3dd4905cd",
+    "text": ") The Third Party Contact System consists of two command codes, TPCIN TPCOL. Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "77151f3a7ef015ef3114cead7e7ad04c",
+    "text": "Audience:Wage and Investment (W&I), Small Business/Self Employed (SB/ SE), Tax Exempt and Government Entity (TE/GE), Taxpayer Advocate Service (TAS), Criminal Investigation (CI), Appeals, as well as other IRS organizations proﬁled for these restricted IDRS command codes.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e9f78ae7822305508e33d36d7df0cab8",
+    "text": "The Third Party Contact System consists of two command codes, TPCIN and",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "bdddd7f1e3ca0bb2ec7e5e1afcf82341",
+    "text": "The required input for command code TPCIN with deﬁner ‘A’ without Reprisal",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "59c5c79de010a60b38e0feaa8857c89b",
+    "text": "Error responses are displayed on Line 24 in inverse video. The erroneous literal will display in inverse video and the cursor will appear on the input ﬁeld.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "56acd8e564b03a74d5403d06b8395644",
+    "text": "CC DEFINER INVALID",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f2000058f4a3b7dc7a2f24f7db47dd06",
+    "text": "CHECK INPUT — The input command code deﬁner must be A or U. Correct and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "cc057948fa6e770878225ab81791230f",
+    "text": "enter. NOT EDITED TIN, PLEASE REINPUT — The input TIN must be in SSN or EIN format, or Secondary TIN is missing when contact is for BOTH or Secondary.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5f57a019417efa622f72c24dac22e27f",
+    "text": "Codes TPCIN and TPCOL 2.4.52",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d7bd32652ad73d13fab1d45ad1d692da",
+    "text": "c. INVALID TIN AND FS",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "991569cc2e99c7b9b687242dce42fe75",
+    "text": "PLEASE REINPUT — The TIN and/or Display File Source Code did not meet standard validity criteria. Correct and enter. d. RECORD NOT FOUND— There is no record found for the requested on the Third Party Contact Database. e. INVALID INPUT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "5921a7f5cd32782b837202b7a0510fc5",
+    "text": "MUST BE Y / N — The REPRISAL",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f41d00d6ee9992faf58d3725f925c5a4",
+    "text": "IND must be ‘Y’ ‘N’. f. nnn MFT/ TAX PRDS CONTAIN ERRORS — Invalid or inconsistent Taxperiod(s). The nnn is the total number that are invalid on the screen input. g. A CONTACT TYPE MUST BE SELECTED — The screen input does contain a Contact Type. h. INVALID CONTACT DATE — The screen input is a future date or does not meet standard validity criteria. i. ALL MFT/TAXPRDS ARE BLANK OR ERRONEOUS — All of the input MFT/Taxperiods are blank or do not meet standard validity criteria. j. CASE NUMBER AND/OR CASE TYPE MISMATCH — A Case Type of B, E or O must be input when an EP/EO Determination Case Number is input. k. CONTACT NAME REQUIRED — The input screen does not contain a Contact Name. l. NAME CONTROL NOT FOUND FOR TIN/FS — The input Name Control does not agree with the Name Control on the NAP for input TIN/FS. m. MINIMUM REQUIRED FIELDS — The input screen does not contain necessary required ﬁelds. n. DISPLAY FS AND PLAN NUMBER INCONSISTENT — A Plan number was entered for a non",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "6ce783d8bad94e28f0805a92b8d30b8a",
+    "text": "EPMF or non",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "7e930331aace9e12afbd07de7fdad4d4",
+    "text": "NRU/NMF account. The input File source must be P when a Plan Number is entered for an EPMF account, or N when a Plan Number is entered for an NRU/NMF o. SSN NOT VALID WITH EP/EO CASE NUMBER — The TIN must be an EIN when EP/EO Case Number is entered. p. CONTACT nnn NOT FOUND — There is no contact found for the input Contact Number. q. PRIM AND SEC TINS CANNOT BE THE SAME — The input Primary Secondary TINs must be unique. r. PLAN NUMBER NOT VALID WITH EO ACCOUNT— A Plan Number is only valid with EPMF accounts, and NMF accounts. s. DATA CONFLICTS — Both Secondary and BOTH are checked in the Contact Is For. Choose either Secondary or BOTH for valid input. t. SECONDARY TIN INVALID WITH EIN — Only a Primary TIN is valid a BMF account. u. INVALID REQUEST",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "41e571468f4c27e37e8feb7c1160fb6d",
+    "text": "CHECK INPUT — The input Request Type or Contact Number is invalid. v. nnn ERROR WRITING TO DATABASE — There is an error updating the third party database. Contact the programmer. The nnn is the database error number. w. PAGING ERROR ENCOUNTERED — The attempt to retrieve an addi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ee040fee67e687500e0b46a2888854d5",
+    "text": "tional page was performed before an initial TPCIN/TPCOL request was made. x. NO SCREENS AVAILABLE— There are no additional screens available. y. COMMAND CODE INVALID— The system did not recognize the input command code. Correct and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "5bcc4be17bc70adfe3fc4107c250879e",
+    "text": "input. z. TINS DID NOT FILE JOINTLY FOR TAXYEARS— The primary taxpayer and secondary taxpayer did not ﬁle jointly for the input tax period(s). Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "cb130372693f2068bb6e9a247009c3af",
+    "text": "NAME MAY NOT CONTAIN “ REPRISAL” — The work “REPRISAL” is invalid input for the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d347687291b1ce96a003bc68215f3920",
+    "text": "rd Party Name. INVALID CATEGORY CODE— Valid values are",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "9c6725dc269a48ce4b5bc78b580ccab2",
+    "text": "through",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "083f8d370d2254295e4234525b9e0d4d",
+    "text": ", F and i. MUST CONTAIN NUMERICS — The input for this ﬁeld must be numerics.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "b768472494812d0778332e4dd45a1e67",
+    "text": "One of the following valid responses will be displayed in inverse video on line 24 when no errors are present:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3c33d08bd890da44e79285e786c62598",
+    "text": "a. REQUEST COMPLETED ADD SUCCESSFUL — The third party data has been successfully added to the Third Party Contact Database. b. REQUEST COMPLETED DELETE SUCCESSFUL — The requested party contact has been successfully deleted from the Third Party Database. c. REQUEST COMPLETED CHANGE SUCCESSFUL — The requested changes are valid and have been updated to the Third Party Contact record.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "98da62b573f3409bdfb59dff9e151624",
+    "text": "NO SCREENS AVAILABLE — There are no additional screens",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1c15b5716c78759192712b669bd1a301",
+    "text": ") COMMAND CODE INVALID — The system did not recognize the input command code. Correct and re-input. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "f6f0a3c76af04696eb2a8d64834ee970",
+    "text": ") NO ADDRESS FOUND — An address cannot be found on the National Account Proﬁle(NAP) for input TIN. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d7aa55b02867a77ea9dbcf8474372942",
+    "text": ") OUT OF RANGE FOR PARTIAL DATE — The input Print Date is either not numeric or older than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4cd4c4a07354ad6295951d53ef93326c",
+    "text": "or greater than the current date. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "2df87d2741a6f351e24476f1afac74ca",
+    "text": ") NO CONTACTS WERE MADE — No contacts were made for the input (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "c76f83dda00f91940156d5bce642d50e",
+    "text": ") PROBLEM ACCESSING CONTACT DATABASE — The Third Party Database is not available. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "0b1b272e67c19f5a1451fb6937ff31cb",
+    "text": ") NO CONTACTS WERE MADE AND NO ADDRESS FOUND — No were made and address was found on the NAP for the input TIN. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8ca80f0e48ae69713c03b9c199b83bbf",
+    "text": ") NAMELINE, STREET, CITY, STATE & ZIP REQUIRED — The nameline, street, city, state or zip are either blank or not valid. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "49e5fd50e0061151951c77b5cfe63e8d",
+    "text": ") INVALID COMMAND CODE DEFINER — The input Command Code not blank (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "605a3cd138dcc4dff2a349f6c04c212a",
+    "text": ") Command Codes TPCIN and TPCOL will provide the following paging features: a. IDRS-like paging when display of multiple third party contacts ﬁll a b. The paging routine will automatically position the cursor following the Start of Message symbol. When the ENTER key is depressed, the terminal will display the next page or any page designated by a page number onto the format by Key Input. c. No entry code is needed to move from one page to another.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "05da21163e6551f2bf000b5a296476ad",
+    "text": "OF RANGE FOR PARTIAL DATE — The input Print Date is either not or older than 199901 or greater than the current date.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e2b9510edf12f67fb156e8be33732d88",
+    "text": "NO CONTACTS WERE MADE AND NO ADDRESS FOUND — No contacts were made and address was found on the NAP for the input TIN.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "2963f26b06576d0b5ac5142a3f2140bd",
+    "text": "Command Codes TPCIN and TPCOL will provide the following paging",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "19eeff3cc3855992e6464af97b7dbfa6",
+    "text": "a. IDRS",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "05b620b6678c4eb8a41c747c4c83fc56",
+    "text": "like paging when display of multiple third party contacts ﬁll a page. b. The paging routine will automatically position the cursor following the Start of Message symbol. When the ENTER key is depressed, the terminal will display the next page or any page designated by overlaying a page number onto the format by Key Input. c. No entry code is needed to move from one page to another.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "33c1e29902d678cbcff13d561dbfd825",
+    "text": "This Page Intentionally Left Blank",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "5f57a019417efa622f72c24dac22e27f",
+    "text": "Codes TPCIN and TPCOL 2.4.52",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "2fac9072cf589d280501d7d80d952c4d",
+    "text": "Exhibit 2.4.52-1 (10-01-2020) COMMAND CODE TPCIN (deﬁner ’A’) Input Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "9f9ca3c886fc90af34a2c27bbac3ea9d",
+    "text": "Description: Screen format to request input screen.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "6499d8d892b64a93698d678ed5cda29a",
+    "text": "1-9 11-19 21-2931-3941-4951-5961-6971-80o123456789012345678901234567890123456789012345678901234567890123456789012345678901O UT s W N0TPCINA123456789012345678901234567890123456789012345678901234567890123456789012345678901-9 11-19 l 21-29 i31-3941-4951-5961-6971-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "f371bc4a311f2b009eef952dd83ca80e",
+    "text": "12345678901234567890123456789012345678901234567890123456789012345678901234567890",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "a6b824ff3284735534af1eedb8283ab9",
+    "text": "Exhibit 2.4.52-2 (01-01-2010) COMMAND CODE TPCIN (deﬁner ’A’) Response Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "2c6de1459098853314551873b9208c8b",
+    "text": "Description: Screen layout for inputting Third Party Contact data.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "ba638d1ea37e58484fbeefe811d819b3",
+    "text": "1-9 11-19 21-29 31-39 41-49 51-59 61-69 71-80o12345678901234567890123456789012345678901234567890123456789012345678901234567890WO U BWN PTPCINATAXPAYER TIN> ............ NAME CTRL> .... EMPLOYEE ID> ..........SECONDARY TIN> ............ EMPLOYEE TELEPHONE> ...-...~....EMPLOYEE MAIL STOP> ..........CONTACT IS FOR: PRIMARY> . SECONDARY> . BOTH>DATE OF CONTACT> YYYYMMDD 3RD PARTY NAME> .. ... ..nimniianeenenannenannNAME CONTINUED> .. .ttttiietesttiimeieeeeeeaeeannnCATEGORY CODE>REPRISAL> N PLAN NUMBER> 000MFT TAX PERIOD>123456789012345678901234567890123456789012345678901234567890123456789012345678901_q I 49 _ 10 1 21 56 1 =21 =20 | 11 10 | 4 ca T 1 a0 T =%",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "9d3cbe43de7dfb6f55e77172c123b4c7",
+    "text": "12345678901234567890123456789012345678901234567890123456789012345678901234567890||",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "99b03037eee95d1fe268ec812c395b06",
+    "text": "123456789012345678901234567890123456789012345678901234567890123456789012345678901-911-1921-2931-3941-4951-5961-6971-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "38e8a801dd2e8aa235f365dde9d66d2c",
+    "text": "Exhibit 2.4.52-2 (Cont. 1) (01-01-2010) COMMAND CODE TPCIN (deﬁner ’A’) Response Screen",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "f1cd23f5e08ca78ad7f1075a7535b280",
+    "text": "Taxpayer TIN/Display File Source — must be present and in one of the following edited formats:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "41fbd5a32072f0ad83769641b27fb450",
+    "text": "Employee Identiﬁcation Number — must be present.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "dd529d87533b7456ef056f47f5670ce0",
+    "text": "Secondary TIN/Display File Source — input when contact is for Secondary taxpayer or Both Primary and Secondary taxpayers. Must be in one of the following edited formats:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "8f25c7e251434d2b623d43695f8b6e4d",
+    "text": "Exhibit 2.4.52-2 (Cont. 2) (01-01-2010) COMMAND CODE TPCIN (deﬁner ’A’) Response Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "90fbc8cc39b8e5f0f58cb91433cfb1c5",
+    "text": "Primary literal",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "20828b5b918feef637a6a2eba2e50689",
+    "text": "Primary Taxpayer — Input ‘X’ when the contact was made concern- ing the Primary taxpayer only.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "e184144b94f4a9635051b417c75ae827",
+    "text": "Secondary Taxpayer — Input ‘X’ when the contact was made cerning the Secondary taxpayer only.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "6d2b77e9fc8177cb49889ab7c9b70120",
+    "text": "Taxpayers — Input ‘X’ when the contact was made concerning the Primary and Secondary taxpayers.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "87f3ed129126b0f70dc743b362b092f3",
+    "text": "Date of Contact — must be present and in YYYYMMDD Cannot be a future date or before 19980101.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "7977b927befd7bc7b1d4492999e84fa1",
+    "text": "Third Party Name — must be present.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "28975f4fb5ff96c3f54c725605c66601",
+    "text": "Name Continued literal",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "0ce68ca5de918ac755cd1e8ef4e8a92d",
+    "text": "Name Continued — optional, used when additional space is needed for the 3rd Party Name.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "31fec54bb04571de9a9a9341dd496c68",
+    "text": "Category Code — must be present and one of the following:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "9f4109bcfa85d6b1cc6ec376822e36e3",
+    "text": "— Individual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "0719fd153aba8bc86e15fda15d031cd0",
+    "text": "— Financial Institution",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "2c524f04a982a6280940afb28feb9c7f",
+    "text": "— Business",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "04cca42a9ee8c70fe8607cdb63b7381e",
+    "text": "— State/Federal Government Organization",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "8b00370a8299b458b0bf7a010b404ff8",
+    "text": "— Other F — Farm Subsidy (Restricted for W&I use) i — Invalid Farm Subsidy (Restricted for W&I",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "4fc95805704c8023107f71240a89a6e2",
+    "text": "i — Invalid Farm Subsidy (Restricted for W&I",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "54888d8f5a77465d2531382184e9a01c",
+    "text": "Exhibit 2.4.52-2 (Cont. 3) (01-01-2010) COMMAND CODE TPCIN (deﬁner ’A’) Response Screen",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "66558817787336f13ef245f63bd4eaec",
+    "text": "Plan Number — must be present when EPMF account and must be between 001–999.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "36174a12d4c12182065d8fa8f57fd8d0",
+    "text": "EP/EO Determination Case Number — if entered, last digit (Case Type) must be entered.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "57990d15c56467e4cfc3167377456153",
+    "text": "Case Type — must be entered when EP/EO Determination Case Number is sent, must be one of the following:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "56f970bbdb24e15c1b6263c4f4bd094a",
+    "text": "MFT Tax Period literal",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "788394c60c24cca6b88efa7587a18184",
+    "text": "MFT/Taxperiods — at least one MFT and taxperiod must be entered (except when EP/EO Determination Case Number is input or when Reprisal is ‘Y’). Up to 99 can be added for each Third Party Contact.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "754638d1e7858b186119432323541d54",
+    "text": "MFT/Taxperiods",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "70cd5f1d3ce1eeaaf2c098a7e5994afd",
+    "text": "Exhibit 2.4.52-3 (01-01-2000) COMMAND CODE TPCIN Error Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "18ee650b4fc9ab591ecaa296de33e401",
+    "text": "Description: Screen layout for error messages.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "42de8808141ad92f4b2efe7d2d5cbd15",
+    "text": "1-911-1921-2931-3941-4951-5961-6971-80123456789012345678901234567830123456789012345678901234567890123456789012345678¢TPCINA2aaaaaaaaaadaaaanaaaaaaaananaaalaaaaaaaaadaasasaasdadadanaaaldrlanaaaaaaaaaaaaaac123456789012345678901234567890123456789012345678901234567890123456789012345678¢1-911-1921-2931-3941-4951-5961-6971-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "48e2484ec68549a120b3e5f362d2b161",
+    "text": "aaaaaaaaaaaaaaaaaaaaaaaanaaaaaaaaaaaaaaaaasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "99b03037eee95d1fe268ec812c395b06",
+    "text": "123456789012345678901234567890123456789012345678901234567890123456789012345678901-911-1921-2931-3941-4951-5961-6971-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "27ecae29ee3166b3341b3e5684f99ae7",
+    "text": "Exhibit 2.4.52-4 (10-01-2020) COMMAND CODE TPCIN (deﬁner ’U’) Input Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "27ecae29ee3166b3341b3e5684f99ae7",
+    "text": "Exhibit 2.4.52-4 (10-01-2020) COMMAND CODE TPCIN (deﬁner ’U’) Input Screen",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "9b8755adb2148fd7191bff6e33db8b7c",
+    "text": "Description: Screen format to request update screen.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d354b1dca8c6c5b3c29867f31aec81ff",
+    "text": "1-911-1921-2931-39 41-49 51-59 61-69 71-80C=12345678901234567890123456789012345678901234567890123456789012345678901234567890O~ OV U WTPCINUNNNANNNImnnnn123456789012345678901234567890123456789012345678901234567890123456789012345678901-911-1921-2931-39 41-49 51-59 61-69 71-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "9a24844bf539efb2d40a8ab0b05e26d0",
+    "text": "Antaiadie i G1-941-4951-5961-6971-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "a32589b1efdb08b259abf55243fcf95f",
+    "text": "Exhibit 2.4.52-4 (Cont. 1) (10-01-2020) COMMAND CODE TPCIN (deﬁner ’U’) Input Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "24d017131ecd60443524556280f9d812",
+    "text": "Taxpayer TIN/Display File Source — must be in one of the following edited formats:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "d13a48f670f4396955f662a3a82c3698",
+    "text": "Description: Screen layout for updating Third Party Contact data.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "76aa14c61db36415e792eb2139bf3638",
+    "text": "1-9 11-19 21-29 31-39 41-49 51-59 61-69 71-800]123456789012345678901234567890123456789012345678901234567890123456789012345678901|TPCINU23 THIRD PARTY DATABASE CCONTAINS nnn CONTACTS FOR TIN nnnnnnnnnnnrn45 nnn CONTACT>nnnnnnnnnnnonnnnnnnnnnnnnnnnnnnnnnnn DATE CONTACTED>YYYYMMDD6 NAME CTRL>aaaa CATEGORY CODE>n EMPLOYEE ID>nnnnnnnnnn7 EMPL PHONE>nnn-nnn-nnnn EMPL MAIL STOP>aaaaaaaaaa PLAN NUM>nnn8 MF YYYYMM MF YYYYMM MF YYYYMM MF YYYYMM MF YYYYMM MF YYYYMM910 nnn CONTACT>nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn DATE CONTACTED>YYYYMMDD11 NAME CTRL>aaaa CATEGORY CODE>n EMPLOYEE ID>nnnnnnnnnn12 EMPL PHONE>nnn-nnn-nnnn EMPL MAIL STOP>aaaaaaaaaa PLAN NUM>nnn13 MF YYYYMM MF YYYYMM MF YYYYMM MF YYYYMM MF YYYYMM MF YYYYMM1415 nnn CONTACT>nnnnnnnnnnunnnnnnnnonnnnnnonnnnnnnnn DATE CONTACTED>YYYYMMDD16 NAME CTRL>aaaa CATEGORY CODE>n EMPLOYEE ID>nnnnnnnnnn17 EMPL PHONE>nnn-nnn-nnnn EMPL MAIL STOP>aaaaaaaaaa PLAN NUM>nnn18 MF YYYYMM MF YYYYMM MF YYYYMM MF YYYYMM MF YYYYMM MF YYYYMM19202122 REQUEST TYPE (C/D/L) > a CONTACT NUMBER > nnn2324 PAGE 001 OF 002 TPPPG 002123456789012345678901234567890123456789012345678901234567890123456789012345678901-911-19 21-29 31-39 41-49 51-59 61-69 71-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "6b034b3be1301d2c45d4fef01f0562d3",
+    "text": "Exhibit 2.4.52-5 (Cont. 1) (10-01-2020) COMMAND CODE TPCIN (deﬁner ’U’) Response Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "24d017131ecd60443524556280f9d812",
+    "text": "Taxpayer TIN/Display File Source — must be in one of the following edited formats:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "5d29224677cecf8225859bf1e3e83021",
+    "text": "Exhibit 2.4.52-5 (Cont. 2) (10-01-2020) COMMAND CODE TPCIN (deﬁner ’U’) Response Screen",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "5643a254152e9fc519a0002f5b7caaaf",
+    "text": "Contact Number — input the number of the corresponding Third Party Contact in which you want to perform one of the Request Type actions. Must be entered when Request Type is present.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "b6278c4bc3b04552ba7f008b7d698898",
+    "text": "Next screen number",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "c2c3a0fcbc90f83c53c9dabfcd1e2e29",
+    "text": "Exhibit 2.4.52-6 (10-01-2020) COMMAND CODE TPCIN (deﬁner ’C’ or ‘L’) Response Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "d49b39d164f1c12b5c5e4b60be8e010f",
+    "text": "Description: Screen response when Request Type C or L is input.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "a92addd5fdb8e4720002619f695131e4",
+    "text": "Note: When Request Type ’D’ is input, the contact will be deleted from the Third Party Contact Database and only a ’REQUEST COMPLETED-DELETE SUCCESSFUL’ message will display on",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "6f6897786d78dc4135fde2f703ef1fd0",
+    "text": "1-9 = 11-19 * 21-29*31-39 %41-49 %5I-59 % 61-69 * 71I-800 | 1234567890123456780012345678901234567/890123456780012345678901234567890L234567890T [ TPCINX2 TAXPAYER TIN> 000-XX-1234. NAME CNTL> XXXX EMPLOYEE TD> XXXXXXXXXX3 SECONDARY TIN> 000-XX-6789. EMPLOYEE TELEPHONE> 000-555-12344 EMPLOYEE MATL STOP> ..vnn.....56 | CONTACT 15 FOR: PRIMARY> . SECONDARY> . BOTH> Xb8 DATE OF CONTACT> YYYYMMDD 3RD PARTY NAME> [the third party’s name ]9 NAME CONTINUED> [continuation 110 CATEGORY CODE> 11112 REPRISAL> N PLAN NUMBER> 000 EP/EO DETERMINATION CASE NUMBER> .........1314 MFT TAX PERIOD> 30 202012 ..15 e e . .. .16 e e .. . .17 e e . . .18 e e . .. .19 e e . . .20 e e . . .21 e e . .. .22 e e . . .23 e e . . .2412345678501234567890123456789012345678901234567890123456789012345678901234567890-9 = 11-19 * 21-29*31-39 %41-4%  F51-59 F 61-69 * T71-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "a1c6acd3f126cfde58b6e3d9473e63c6",
+    "text": "] 12345678501234567890123456789012345678901234567890123456789012345678901234567890I -9 = 11-19 * 21-29 % 31-39 * 41-4% * 51-59 % 61-69 * 71-80",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "768ea3644d4c2de12eab733df7692bb3",
+    "text": "Exhibit 2.4.52-6 (Cont. 1) (10-01-2020) COMMAND CODE TPCIN (deﬁner ’C’ or ‘L’) Response Screen",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "c4f61665d034a6b8c5240dc6f1bd4003",
+    "text": "Taxpayer TIN/Display File Source — will be in one of the following edited formats:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "6526e033a19b4cf3f33e5f46764ac717",
+    "text": "Secondary TIN/Display File Source — if present, will be one of the following edited formats:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "cbd552837c852a2a43424770c6c593d1",
+    "text": "Exhibit 2.4.52-6 (Cont. 2) (10-01-2020) COMMAND CODE TPCIN (deﬁner ’C’ or ‘L’) Response Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "13a650da1ca565d5be80a25593ca84e4",
+    "text": "CODE TPCIN (deﬁner ’C’ or ‘L’) Response Screen LINE POSITION DESCRIPTION 4 67–76 Employee Mail Stop 6 02–16 Contact is for: literal 6 18–25 Primary literal 6 27 Primary Taxpayer 6 29–38 Secondary literal 6 40 Secondary Taxpayer 6 42–46 Both literal 6 48 Both Taxpayers 8 02–17 Date of Contact literal 8 19–26 Date of Contact 8 29–43 Third Party Name literal 8 45–79 Third Party Name 9 29–43 Name Continued literal 9 45–79 Name Continued 10 02–15 Category Code literal 10 17 Category Code — will be one of the following: 1 — Individual 2 — Financial Institution 3 — Business 4 — State/Federal Government Organization 5 — Other F — Farm Subsidy (Restricted for W&I use) i — Invalid Farm Subsidy (Restricted for W&I use) 12 02–10 Reprisal literal 12 12 Reprisal — ‘Y’ when checked on Form 12175. 12 17–28 Plan Number literal 12 30–32 Plan Number 12 35–66 EP/EO Determination Case Number literal 12 68–76 EP/EO Determination Case Number 12 78 Case Type 14 02–16 MFT Taxprd literal",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "087246d1a6cb2804e9ff5a64816e7550",
+    "text": "Exhibit 2.4.52-6 (Cont. 3) (10-01-2020) COMMAND CODE TPCIN (deﬁner ’C’ or ‘L’) Response Screen",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "754638d1e7858b186119432323541d54",
+    "text": "MFT/Taxperiods",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "0391e25ab8cdc4c05113f59add2351eb",
+    "text": "Exhibit 2.4.52-7 (01-01-2007) COMMAND CODE TPCOL Input Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "7dc06ad54af51a1bb9d6a9de74597709",
+    "text": "Description: Screen format to request display screen.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "85752fef5a552e0104af7a618cfdebda",
+    "text": "1-9 11-19 21-29 31-39 41-49 51-59 61-69 71-8012345678901234567890123456789012345678901234567890123456789012345678901234567890TPCOL nnnnnnnnnnnn123456789012345678901234567890123456789012345678901234567890123456789012345678901-911-1921-29 31-39 41-49 51-59 61-69 71-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "2c3892bbf6181e8e5dd9665489d1af63",
+    "text": "112345678901234567890123456789012345678901234567890123456789012345678901234567890",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "5e4aa7d018f6c4d63ee527475535889d",
+    "text": "442220 /0IVLAIR00/0IVLASE30/0IULL3300/0IVLA2400/0U1a55200/0001l454200/8301234507/5201-911-1921-2931-3941-4951-5961-6971-80|",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "bc884b0f22a14d29ff93e3e1e7f0b521",
+    "text": "Exhibit 2.4.52-7 (Cont. 1) (01-01-2007) COMMAND CODE TPCOL Input Screen",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "24d017131ecd60443524556280f9d812",
+    "text": "Taxpayer TIN/Display File Source — must be in one of the following edited formats:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "ac3ae4a68dce6556f4aafbc1bfcdcf13",
+    "text": "Exhibit 2.4.52-8 (01-01-2001) COMMAND CODE TPCOL (deﬁner ’ ’) Response Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "ee5dc0c3c15d01460411b9a66bc5315f",
+    "text": "Description: Screen layout for displaying Third Party Contact data.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "fbe44bb4d5d71a835d9505eae33c43b3",
+    "text": "1-9 11-19 21-29 I 31-39 41-49 51-59 61-69 71-8012345678901234567890123456789012345678901234567890123456789012345678901234567890WodAUTRWN B oTPCOLA LISTING OF PERSONS CONTACTED PER IRC 7602 (C) WAS SYSTEMICALLY GENERATEDAND MAILED TO THE TAXPAYER ON YYYYMMDD.A LISTING OF PERSONS CONTACTED PER IRC 7602 (C) WAS REQUESTED BY THE TAXPAYERAND WAS MAILED ON YYYYMMDD.THIRD PARTY DATABASE CONTAINS THE FOLLOWING nnn CONTACTS FOR TIN Nnnnnninnnnnn:CONTACT > aaaaaaaaaaaaaaaaaaaaaaasaaaaaaaaaaa DATE CONTACTED > YYYYMMDD SRaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaCONTACT > aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa DATE CONTACTED > YYYYMMDD RaaaaaaaaaaaaaaaaaaaaaaacsaaaaaaaaaaaCONTACT > aasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa DATE CONTACTED > YYYYMMDD SaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaCONTACT > aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa DATE CONTACTED > YYYYMMDD SRacaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaPAGE 001 OF 002 TPCPG 002123456789012345678901234567890123456789012345678901234567890123456789012345678901-9 11-19 21-29 31-39 41-49 51-59 61-69 71-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "0527f5f375db017e27bb7e6ac9f191ca",
+    "text": "Exhibit 2.4.52-8 (Cont. 1) (01-01-2001) COMMAND CODE TPCOL (deﬁner ’ ’)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "9b2aa937b9d03cbd39e0797c8286cd84",
+    "text": "LINE POSITION DESCRIPTION 1 01–05 Command Code: TPCOL 3 01–79 literals 4 01–29 literals 4 31–38 Systemic Mail Date 6 01–79 literals 7 01–17 literals 7 19–26 Taxpayer Request Mail Date 9 01–43 Third Party Database Contains literal 9 45–47 Number of Contacts 9 49–64 Contacts for TIN literal 9 66–77 Taxpayer TIN/Display File Source 11, 14, 17, 20 01–07 Contact literal 11, 14, 17, 20 11–45 Contact name 11, 14, 17, 20 47–60 Date Contacted literal 11, 14, 17, 20 64–71 Date Contacted 11, 14, 17, 20 75–76 Mail Out Indicator S — the contact was on a list which was taxpayer in the periodic mail out. R — the contact was on a list which was taxpayer by taxpayer request. 12, 15, 18, 21 11–45 Name continued 24 14–17 Page literal 24 19–21 Current Screen Number 24 23–24 Page literal 24 26–28 Total number of screens 24 40–44 Command Code to retrieve additional 24 47–49 Next screen number",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "109de7622245ce93e6050f0ff4b5be25",
+    "text": "S — the contact was on a list which was mailed to the taxpayer in the periodic mail out.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "0da790ac77ba5afecc251b06bdfc7b40",
+    "text": "R — the contact was on a list which was mailed to the taxpayer by taxpayer request.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-004-052--2020-08-10.pdf",
+      "page_number": 29
+    }
+  }
+]

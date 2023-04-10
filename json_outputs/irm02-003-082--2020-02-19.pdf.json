@@ -1,0 +1,470 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "826fe3de71b08d4c90bfa5747c598e78",
+    "text": "IRM 2.3.82 has been revised to include internal control information.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "5c0f4b06765a579ea9e045a41a9cbba5",
+    "text": "Large Business Small Business (LMSB), Small Business/Self-Employed (SB/SE), Tax Exempt/Government Wage & Investment (W&I).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "d03f9a67a77d1db4eef6dd5666b1b1f4",
+    "text": "(01-01-2011) General Information for CC ESTABH",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ead0c7d22656016186e4ccdfaa757612",
+    "text": "Action Code “D” will initiate the CC ESTABH Request code D screen. This screen allows the requester to delete an ESTAB modiﬁer D request.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1581ddb173cc1145d64f72173c472489",
+    "text": "Action Code “E” will initiate the CC ESTABH Request Code E screen. This screen allows the requester to make updates to an ESTAB modiﬁer E",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2e1f97c24c7e01c667c97fe2fe17e601",
+    "text": "(1) “REQUEST COMPLETED” message in the ﬁrst 17 positions on line 24 indicates all data ﬁelds contain valid data, and request has been accepted by Response for CC the IDRS system. (1) These are one character alphabetic codes inputted on line 1, column 7 of CC ESTABH. They are used to identify the type of request being made. The Codes for CC request codes are: Request Purpose Code D Initiated through the ESTABH Request Code “L” screen, this request code is used to delete ESTABD request made during the same business day as the document request. E Initiated through the ESTABH Request Code “L” screen, this request code is used to make updates to ESTABD requests made during the same business day as the document request. L Used to obtain a list of all ESTABD requests made by the IDRS logged-on employee within the last 60 days. R Initiated through the ESTABH Request Code “L” screen, this request code is used to display ESTABD request made within the past 60 days.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8680b4520eb13ee72fa54cfeb3f10e4c",
+    "text": "Request Purpose Code D Initiated through the ESTABH Request Code “L” screen, this request code is used to delete ESTABD request made during the same business day as the document request. E Initiated through the ESTABH Request Code “L” screen, this request code is used to make updates to ESTABD requests made during the same business day as the document request. L Used to obtain a list of all ESTABD requests made by the IDRS logged-on employee within the last 60 days. R Initiated through the ESTABH Request Code “L” screen, this request code is used to display ESTABD request made within the past 60 days.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "2c2af2500308e67e732ad73fa4b18f31",
+    "text": ") When an element of data is invalid a error message will be displayed on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e8ce30db867a72d5ecd986995c4e41ce",
+    "text": "The element that is invalid will display an asterisk to the right of the invalid element.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d6ee9de5471e3997cbb5aa75ebe52606",
+    "text": "(01-01-2011) Command Code ESTABH — Error Messages",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d6c62ed5b0a44e30d7ca409b7f4e839d",
+    "text": "ESTABH 2.3.82 ERROR MESSAGES Error 1 Invalid Command Code Modiﬁer, must be A, D, H, M, R, or S. Solution 1 Self Explanatory Error 2 Request has printed. You cannot delete or edit this request. Solution 2 The requested document has been processed and printed. You may only review this request using the “R” option. Error 3 Invalid choice. Type “D” to delete, “E” to edit, or “R” to review. Solution 3 Self Explanatory Error 4 Request has been deleted. Solution 4 Document request has been deleted from database and will not be processed. Error 5 Request has not been deleted. Solution 5 Document request was not deleted from the database and will be processed. Error 6 Invalid choice. Enter “Y” to delete or “N” to keep the request. Solution 6 Self Explanatory Error 7 Request has been changed. Solution 7 Changes made to the document request have been accepted and will be processed. Error 8 No changes made to request. Solution 8 No changes were made to the document request. Error 9 Invalid choice. Enter “Y” to edit or “N” to keep the request as is. Solution 9 Self Explanatory Error 10 Invalid request code, please enter a valid code. Solution 10 Correct/Reenter. The request code must be B, C, E, F, G, I , K, M, O, P, R, S, T, U, V, W, or X. Error 11 Invalid TIN, The TIN is a required ﬁeld. Solution 11 Input TIN, Reenter Error 12 Invalid TIN, please correct TIN. Solution 12 Self Explanatory Error 13 Invalid DLN, must be entered. Solution 13 Self Explanatory",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b5a09fcab160a5b4b9a1831c953fe578",
+    "text": "2.3 IDRS Terminal ERROR MESSAGES Error 14 Invalid partial DLN, please correct partial DLN Solution 14 A partial DLN is the ﬁrst three digits of a DLN Error 15 Invalid partial DLN, partial DLN must be numeric and three digits Solution 15 Self Explanatory Error 16 DLN failed validation, please correct DLN. Solution 16 Correct/Reenter Error 17 Correct DLN, must be numeric with 3 hyphens: 00000- 000-00000-3 Solution 17 Self Explanatory Error 18 Invalid ESTAB request, use CC TRPRT to secure this electronic 1040 doc Solution 18 Self Explanatory Error 19 Form-Num needed, please enter the form-num your requesting Solution 19 Self Explanatory Error 20 Invalid ESTAB request, cannot use ESTAB to secure this electronic 1040 doc Solution 20 Self Explanatory Error 21 Invalid ESTAB request, use the EUP system to obtain this electronic document Solution 21 Self Explanatory Error 22 Invalid, no document exist for DLN with Doc-Code 77 use Control-D to view F5147 Solution 22 Self Explanatory Error 23 Invalid request, document requested within the last 14 days Solution 23 Self Explanatory Error 24 Invalid employee number, FLC not found Solution 24 The ﬁrst two digits of the employee number are an invalid ﬁle location code Error 25 Invalid employee number, if entered must be numeric (All 10 digits) Solution 25 Self Explanatory Error 26 Invalid MFT, Please enter a valid MFT Solution 26 Self Explanatory",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d02c10080ea959e78852bed546541bc0",
+    "text": "ESTABH 2.3.82 ERROR MESSAGES Error 27 Sorry ESTAB does not process MFT code 88. (Trans- mittals) Solution 27 You cannot use ESTAB to request documents with MFT codes of 88. Error 28 Invalid Tax-Period, if MFT is “52” then tax-period must be “000000” Solution 28 Self Explanatory Error 29 Invalid, if MFT is “52” then Form-Num must be “706” or “706NA” Solution 29 Self Explanatory Error 30 Invalid Form-Num, Form number must start in left most position Solution 30 Self Explanatory Error 31 Invalid, if Form-Num is 706 or 706NA then MFT must be 52 Solution 31 Self Explanatory Error 32 Invalid Tax-Period, Tax-Period must be entered. Solution 32 Self Explanatory Error 33 Invalid Tax-Period, Tax-Period must be numeric. Solution 33 Self Explanatory Error 34 Invalid, when Tax-Period equal “0000000”, MFT must be “52” Solution 34 Self Explanatory Error 35 Invalid Tax-Period, please correct Solution 35 Tax-Period did not pass validation, change or reenter Tax-Period Error 36 Invalid Plan-Number, must be three numbers. Solution 36 Self Explanatory Error 37 Invalid, Name-Control must start in left most position Solution 37 Self Explanatory Error 38 Invalid, Name-Control, ﬁrst character must be a letter or number Solution 38 Self Explanatory Error 39 Invalid Name-Control, fourth character must be letter, number, &, or - Solution 39 Self Explanatory Internal Revenue Manual",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "f90c766dbc76742485540738ebb0bfb8",
+    "text": "ERROR MESSAGES Error 40 Invalid Name-Control, third character must be letter, number, & , or - Solution 40 Self Explanatory Error 41 Invalid Name-Control, second character must be letter, number, &, or - Solution 41 Self Explanatory Error 42 Invalid Bod/Area-Num, user must enter a numeric value from 1 to 15 Solution 42 Self Explanatory Error 43 Invalid Bod/Area-Num, must be a value 1 thru 15 Solution 43 Self Explanatory Error 44 Bod/Area-Num option 1 is reserved for SC Employees using the above SC-Stop ﬁeld Solution 44 Self Explanatory Error 45 Bod/Area-must be “01” for SC employee. Solution 45 Self Explanatory Error 46 Field cannot be empty. Please enter “Y” (Yes) or “N” (No) Solution 46 Enter “Y” or “N” into this ﬁeld. Error 47 Invalid K-1 Request. Please enter “Y” or “N”. Solution 47 The only valid choices for this ﬁeld are “Y” for Yes and “N” for No. Error 48 Please enter request code L after deﬁner “H” to get desired screen. Solution 48 ESTABH screens with request codes “E”, “D”, and “R” can only be accessed through the ESTABH request code “L” screen. Error 49 Invalid request-code, code must be “D”, “E”, “L”, or “R”. Solution 49 ESTABH request codes can only be “D”, “E”, “L”, or “R”. Error 50 Invalid, use screen ESTABHL to edit request Solution 50 Self Explanatory Error 51 Invalid use screen ESTABHL to delete request Solution 51 Self Explanatory Error 52 Invalid use screen ESTABHL to review request Solution 52 Self Explanatory",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "1cc51626c7b2f4f0c36d5d63c25edf0b",
+    "text": "page ERROR MESSAGES Error 53 There are no more request available to view. Max number of history pages is 420. Solution 53 You can only view up to 420 pages of your ESTAB request. Request older than 60 days old are automati- cally deleted. Error 54 DB Error: ............................... CM:..................................... Solution 54 Contact DOC programmer when this error occurs. Save all of the information from the screen and pass it along to the programmer.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "33c1e29902d678cbcff13d561dbfd825",
+    "text": "This Page Intentionally Left Blank",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "dd65395173a31f98c628372af69dc9b3",
+    "text": "Exhibit 2.3.82-1 (01-01-2011) Input Format, CC ESTABH — List Document Request",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "cc66c8d66a72964b2e58e185ee98ad9e",
+    "text": "Input Screen ESTABH, Request-Code L",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "b6082c9bdd2d82805428bd218f4a8ab7",
+    "text": "1-9 | 11-19 | 21-29 | 31-39 | 41-49 | 51-59 | 61-69 | 71-8012345678901234567890123456789012345678901234567890123456789012345678901234567890[BWN R OW® Do U W15ESTABHLOPTION 1: ENTER DLN AFTER ESTABHL; NO DASHES (EX. ESTABHLYXXXXKXKXXXXXKK)OPTION 2: TYPE THE APPROPRIATE LETTER TO THE LEET OF DESIRED DLN BELOW:“D” TO DELETE, “E” TO EDIT, “R” TO REVIEW.ESTABDLN REQUEST REQUEST FORM NUM NAME TAX METTYPE DATE CTRL PERICD CODE() _[[)[[[))[[[PAGE 001 OF 001 NEXT PAGE>_[PAGE USING \"+\" = NEXT OR \"-\" = BACK](Line 24 is reserved for Informational screen messages)e R R R N12345678901234567890123456789012345678920123456789012345678201234567890123456789201=9 Lootl=19 1..21-29 1. .31-39 1..41-49 1..51-59 | 61-69 | . 71-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d6f70c4933727c70b7d60941889f93a7",
+    "text": "(Line 24 is reserved for Informational screen messages)2412345678901234567890123456789012345678920123456789012345678201234567890123456789201=9Lootl=19 1..21-29 1. .31-39 1..41-49 1..51-59 | 61-69 | . 71-80",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d40947a84f7de083325733abdf3f0242",
+    "text": "Item Line Description and Validity 1 1 Command Code - Must be ESTAB. 2 1 CC MODIFIER - Must be an “H”. 3 1 REQUEST CODE - Must be an “L”. 4-15 9 - 20 ACTION CODE- Must enter a D, E, or R next to the DLN you wish to work with. Enter “D” to cancel an ESTABD request you made earlier in the day. Enter “E” to make changes to an ESTABD request before the form 4251 is printed. Enter “R” to display an ESTABD request made within the last 60 days. 16 22 PAGE CONTROL - Used to control page movement. Enter “+” to increment page one page. Enter “-” to decrement page one page.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "4ea923bef5794e7b27286ebcbaf24317",
+    "text": "CC MODIFIER - Must be an “H”. REQUEST CODE - Must be an “L”. ACTION CODE- Must enter a D, E, or R next to the DLN you wish to work with. Enter “D” to cancel an ESTABD request you made earlier in the day. Enter “E” to make changes to an ESTABD request before the form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "cbbf51fd2d2700cc36c0b8daa1fc0303",
+    "text": "is printed. Enter “R” to display an ESTABD request made within the last",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "4deca289f6d1830bd7fbb69bfb0f3241",
+    "text": "days.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "e760c7737163bf6a54b47497cef893dd",
+    "text": "PAGE CONTROL - Used to control page movement. Enter “+” to increment page one page. Enter “-” to decrement page one",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "4e2da85793df57eaaef5d699930965fc",
+    "text": "Exhibit 2.3.82-2 (01-01-2011) Input Format, CC ESTABH — Delete Document Request",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "06db7d63bfa0dc0a002457bed4cbdaab",
+    "text": "Screen ESTABH, Request-Code D",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "2d6e10136c329aef8e0fea25744aa8fb",
+    "text": "1-9 | 11-19 | 21-29 | 31-39 | 41-49 | 51-59 | 61-69 | 71-8012345678901234567890123456789012345678901234567890123456789012345678901234567890©® T W NESTABHDESTARDDLN> EMP. NUM> MET> EFORM NUM>TAX PERICD> EMP. PLAN NUM> NAME CONTRCL>Enter one of the following below: (SC-STOP) or (STATE-CODE} or (ADDRESS-NUMBER)SC STOP> ST-CD> ADDR-NUM>ADDRESS LINE 1> ADDR-STOP>ADDRESS LINE 2>REMARKS LINE 1>REMARKS LINE 2> NEED K-17?>N (Y/N)BOD/BREA NUM>SAVE MODIFICATION> (Y/N)TRANSMIT REQUEST>(Line 24 is reserved for Informational screen messages)e R R R N123456789012345678901234567890123456789012345678901234567890123456789012345678901-9 11-19 21-29 31-39 41-49 51-59 61-69 71-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "1497605084fcef1b0fa3b470a7afe878",
+    "text": "(Line 24 is reserved for Informational screen messages)123456789012345678901234567890123456789012345678901234567890123456789012345678901-911-19 21-29 31-39 41-49 51-59 61-69 71-80",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "054dc45a10f014f60c4ec336465ebd30",
+    "text": "Exhibit 2.3.82-3 (01-01-2011) Input Format, CC ESTABH — Edit Document Request",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "6e2544b69be2d0a1196ab179561df772",
+    "text": "Input Screen ESTABH, Request-Code E",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "37885bcefaa7622d3c3f05639e908807",
+    "text": "WD U W1-9 | 11-19 21-29 | 31-39 | 41-49 | 51-59 61-69 71-80123456768901234567890123456789012345678901234567890123456789012345676901234567890ESTABHEESTARDL 2DLN> EMP. NUM> 4 MET>_5 FORM NUM> (3TAX PERIOD> 7 EMP. PLAN NUM>_ 8 NAME CONTROL>__ 9Enter one of the following below: (SC-STOP) or (STATE-CODE} or (ADDRESS-NUMBER)SC STOP> ST-CD> ADDR-NUM>ADDRESS LINE 1> ADDR-STOP>ADDRESS LINE 2>REMARKS LINE 1> 10 1REMARKS LINE 2> 11 NEED K—l?>g(Y/N)BOD/AREA NUM>131ARE YOU SURE YOU WISH TO DELETE THIS REQUEST?>£(Y/N)TRANSMIT REQUEST>15(Line 24 is reserved for Informational screen messages)W © O W N123456789012345678901234567890123456789012345678901234567890123456789012345678901-9 11-19 21-29 31-39 41-49 51-59 61-69 71-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "fa7baf1c871d62a3dfcbcd8452245541",
+    "text": "Exhibit 2.3.82-3 (Cont. 1) (01-01-2011) Input Format, CC ESTABH — Edit Document Request",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "54ff2f179e67c5271cf3cc9bfd1865cd",
+    "text": "DOCUMENT REQUEST NUMBER FIELD - Must be entered. Must be in the format “ nnnnn-nnn-nnnnn-n” for standard 14 digit edited DLN. If the DLN is unknown enter ﬁrst three digits of DLN. (The ﬁrst two positions are the D.O. or S.C. Code, the third position is the Tax Class) If the request code is B, positions 14 and 15 of this ﬁeld must be zeroes. Also see IRM 2.3.17.7, Command Code ESTAB—Error Messages, and see IRM 2.3.17.8, Command Code ESTAB— Consistency Messages.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d5a5a40540cd3d05c196828789225ca2",
+    "text": "EMPLOYEE NUMBER - Optional. If omitted, the completed request will be routed to the terminal operator. Enter if the requester is than the terminal operator. Also see IRM 2.3.17.7, Command Code ESTAB—Error Messages.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "95c41efd28f74ccdfd07845a533e5ddf",
+    "text": "MFT - must be entered and must be in “nn” format. Whenever the MFT is “52”, then the Form Number must be entered either as “706” or “706NA”, and the Tax Period must be “000000”. See IRM 2.3.17.7 , Command Code ESTAB—Error Messages and see IRM 2.3.17.8, Command Code ESTAB—Consistency Messages.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "ee7944028a2c43cc0df4b74f99150037",
+    "text": "FORM NUMBER - If entered, use the Form Number of the being requested. For requests that require Master File research, it must be a tax return that is processed to the Master File. When the Form Number is either “ 706” or “706NA”, then the MFT must be “ 52”, and the Tax Period must be “000000”.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a77d7ea2294307b730539ef8d17d57f3",
+    "text": "Exhibit 2.3.82-3 (Cont. 2) (01-01-2011) Input Format, CC ESTABH — Edit Document",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "f678835b93e02e17a370ad38913459e1",
+    "text": "Description and Validity",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "88ad7447affb14cae7e1e74039d9199f",
+    "text": "Exhibit 2.3.82-4 (01-01-2011) Screen Layout, CC ESTABH — Research Document Request",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "5d8bd563ddd185d9a9e669cf2daeae19",
+    "text": "Input Screen ESTABH, Request-Code R",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "43016473601633845a96b36389423f0d",
+    "text": "1-9 | 11-19 | 21-29 | 31-39 | 41-49 | 51-59 | 61-63 | 71-80123456789012345678901234567890123456789012345678901234567890123456789012345678900@ ;U W N101112131415161718192021222324ESTARHRESTABDC000-00-0000DLN>00000-000-00000-0 EMP. NUM>0000000000 MET>00 FORM NUM>XXXXTAX PERIOD>000000 EMP. PLAN NUM>000 NAME CONTROL>XXXXSC STOP>STOP 000 MI ST-CD> ADDR-NUM>ADDRESS LINE 1>ADDRESS LINE 2>REMARKS LINE 1>TEST DATAREMARKS LINE 2>TEST DATA NEED K-12>N (Y/N)BOD/ARER NUM>15Sk kR RSERVICING SERVICE CENTER ATLANTA1.388N OR FIN  2,FORMNC. 3,PERTOD 4.DATE 5.DLN AND PROCESSTNG YEAR000-00-0000 KHXKX 000000 000 00-00-0000 ©00000-000-00000-0(MFT 00)6.TAXPAYERS NAME AND NAME CONTROL 8.RENUMBERED AND PROCESSING YEARpoved7.REQUESTER AND REMARKS00 000 00000PHILADELPHIA 985 Michigan AVE 0916600435 CTHER Detroit,MI 48226TERMINAL OPR NO 0000000000oB OWm oUW =IO @I U WSENESESNN]= WM~ O12345678901234567890123456789012345678901234567820123456789012345678901234567890",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "51faae017cd99480a855f1a51bd40d9f",
+    "text": "24 TERMINAL OPR NO 0000000000123456789012345678901234567890123456789012345678201234567890123456789012345678901=9 oo llzie o l..21-29 |..31-39 1. .41-49 | 51-59 | .61-69 |  71-80",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "ae2f9c876da1e50427e2888dc2960a2d",
+    "text": "ESTABHL, lines",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "9c6725dc269a48ce4b5bc78b580ccab2",
+    "text": "through",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "ddfea71855c088e7a19ab077f74728bb",
+    "text": "display the information the user inputted when making the document",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "9c6725dc269a48ce4b5bc78b580ccab2",
+    "text": "through",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "8c83e6f20d417ae9d78143a041e7c49d",
+    "text": "is a representation of the upper portion of an form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "d0a63a103912507a8076ef276a70f03b",
+    "text": "that will print as a result of user document request.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-082--2020-02-19.pdf",
+      "page_number": 18
+    }
+  }
+]

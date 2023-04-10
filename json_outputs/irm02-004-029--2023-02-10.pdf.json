@@ -1,0 +1,1622 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "4bd526497c23106eebd99e2efa0a5e98",
+    "text": "This transmits revised IRM 2.4.29, IDRS Terminal input, Command Codes TELEA, TELEC, TELED, and TELER for Telephone Processing.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "f27baedfc6ee798472bc7b901fa13a8b",
+    "text": "2.4.29.1 Editorial changes were made to add internal controls.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "915801c8ad77462a6c60cc3e6922614b",
+    "text": "IRM 2.4.29, dated January 1, 2010, is superseded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "e558c9a3b4b86b82bb4be193465accf5",
+    "text": "LMSB, SB/SE, TE/GE and W&I",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "844c2f5bf2e5dbe0c06d04f6df89c7bc",
+    "text": "Command Codes TELEA, TELEC, TELED and TELER for Telephone Processing",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "7f50ae2a0ed1285727cc433415610b40",
+    "text": "Terminal Response for Command Code TELEC",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "c676dd2b793f06a073264ed6e9cd3f79",
+    "text": "Command Codes TELEA, TELEC, TELED and TELER for Telephone Processing 2.4.29 page 1",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9dcbadcdba3856e3f99e65dd8bb6b849",
+    "text": "and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e00fd2d6e3dbb929768d162d6f760275",
+    "text": ") Purpose: This transmits revised IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a71d2980fd410e3e1bb8c5b41fa0a2e2",
+    "text": ", IDRS Terminal Responses, Command Code TELER (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "abc845e49c02e199cc5f745b5f166f9c",
+    "text": ") Audience: All IRS business units. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6592c90923daf219acdb3af05e05a454",
+    "text": ") Program Owner: Account Services (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2c8f2e05e2389e9118b273e65bf9ca5c",
+    "text": ") Primary Stake Holders: LMSB, SB/SE, TE/GE, W&I (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3b310acd47edec0c4ad3e4d5f543209d",
+    "text": ") Program Goals: (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d25d0223a4505558bc2d5b7d593ec6c5",
+    "text": ") Command Code TELER is used to research telephone numbers (including tensions, if applicable) present on the TIF. The request may be made for up eleven separate accounts. The HOME-TELEPHONE-NUMBER, the OTHER- TELEPHONE- NUMBER, CELL-TELEPHONE-NUMBER, and the INTL- TELEPHONE-NUMBER along with an Extension, if applicable will be displayed if present. The SOURCE-CD will also be displayed for each telephone number. There will be a separate response for each account number entered. See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "77f72cb4326d142149b63916ef5dbc02",
+    "text": "For Terminal Input/Output. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "697ad16b166cc36e3b1c5af155ebaaf8",
+    "text": ") Command Code TELED is used to delete telephone number information on TIF. The request may be made for up to eleven separate accounts. See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "113ce3d47cacfbda548d81505641c2f1",
+    "text": "for Terminal Input/Output. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "23f753f3fd0b2e8b1b3abcfc622e06c4",
+    "text": ") Command Code TELEA is used to establish telephone number information the TIF. The request may be made for up to ﬁve separate accounts. See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "113ce3d47cacfbda548d81505641c2f1",
+    "text": "for Terminal Input/Output. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6ce062726b8a1169920d90be8350dbf3",
+    "text": ") Command Code TELEC is used to change telephone number information on the TIF. The request may be made for up to ﬁve separate accounts. See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "113ce3d47cacfbda548d81505641c2f1",
+    "text": "for Terminal Input/Output. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "bfc55fa693d7db4780254f62c0e8b9f1",
+    "text": ") This IRM and the contained subsections provide the user the necessary infor- mation on how to use Command Codes TELED, TELEA, TELEC (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f5948d894ef39549e544bf73c2e21809",
+    "text": ") Command Code TELER is used to research telephone numbers (including tensions, if applicable) present on the TIF (Taxpayer Information File) on the IDRS (Integrated Data Retrieval System) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2bb7897e1e9c95bdc2741ee4316eacd8",
+    "text": ") The RCC(Research Command Code) Project Lead responsible for reviewing and implementing the Work Requests that affect TELER and for updating the contents of this IRM. Management (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ffa8f6f29093ea22ef3f6c08d84ac45c",
+    "text": ") The Command Code TELER is managed by Work Requests which are submitted for changes and also by tickets which are submitted by users for corrections. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e60af499f6efb7b601d521cd34dd4ec7",
+    "text": ") Access to this program is governed by SACS Processing",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ef51e648dfc814b76990088c13114222",
+    "text": "page (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6032f4e25a375a2995884c4cd4cdf6fd",
+    "text": "Purpose: This transmits revised IRM 2.4.29, IDRS Terminal Responses, Command Code TELER",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "36a9b6b8a1b456bdb08fba1a6e7c6be1",
+    "text": "This IRM and the contained subsections provide the user the necessary infor- mation on how to use Command Codes TELED, TELEA, TELEC",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "341a0cd34d422a8d23e10088b1ca81f9",
+    "text": "VALID RESPONSE: a. TELER — If no errors are present for an entry, the literal COMPLETED will be displayed for that entry. The telephone numbers or the message “TELEPHONE NUMBERS NOT PRESENT” will also be displayed. b. TELED — If no errors are present for an entry, the literal DELETED will be displayed for that entry. c. TELEA — If no errors are present for an entry, the literal ADDED will be displayed for that entry. d. TELEC — If no errors are present for an entry, the literal CHANGED will be displayed for that entry. INVALID RESPONSE: If any errors are present for an entry, one of the following error messages will be displayed on the same line as the entry. a. NC INVALID — Name control does not meet standard validity criteria. Correct and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1a74f46f494810f116a611b93b018d42",
+    "text": "enter. (TELER, TELEA, TELEC, TELED) b. NC MISMATCH — Name control does not match the name control in the BASIC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1f635e128bede643122c57139103060b",
+    "text": "ENT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "07c5c6a327480a0d30336acd7efa9320",
+    "text": "REC on the TIF. Correct and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f86ecf8b3028ddd8236f1472412a16c7",
+    "text": "enter. (TELER, TELEA, TELEC, TELED) c. NO TIF ACCT. — There is no information on the TIF for the TIN and ﬁle source input. (TELER, TELEA, TELEC, TELED) d. TIN INVALID — TIN and ﬁle source do not meet standard validity criteria. Correct and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ee3186caeea5934796df4c19cb3cc803",
+    "text": "enter. (TELER, TELEA, TELEC, TELED) e. NOT ON TIF — Telephone number is not present on the TIF. (TELEC, TELED) f. IND INVALID — The telephone indicator is other than “ H” or “O” or “C” or “ I”, or a duplicate telephone indicator is present for that entry. Correct and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "01b8c7b68b3584c5896e4f756695e215",
+    "text": "enter. (TELEA, TELEC, TELED) g. NUM ON TIF — Telephone number is already present on the TIF. (TELEA) h. NUM INVALID — Telephone number is not in the proper format. Valid formats are nnn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e8702ecd939e3ace89e85e0df11878c7",
+    "text": "nnn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e71c6111f961fa74e01be4d4f326258b",
+    "text": "nnnn, nnn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9834876dcfb05cb167a5c24953eba58c",
+    "text": "aaa",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "18ab8d47d14f359e0a01202d25ef33ce",
+    "text": "nnnn or nnnnn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e8702ecd939e3ace89e85e0df11878c7",
+    "text": "nnn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e8702ecd939e3ace89e85e0df11878c7",
+    "text": "nnn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "bd96e4fb23eb596e242ea54327aacad6",
+    "text": "nnnn where “ a” cannot be “Q” or “Z”. Correct and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8aa65446d545674aabf66ef2eadaebd1",
+    "text": "enter. (TELEA, TELEC) i. MEMO",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ab6bcb92e12812bd375a50b11a49569a",
+    "text": "ACCT — No updates will be done, this is a memo account (TELEA, TELEC, TELED TELER) j. TIN NOT IMF, TIN NOT BMF",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "65938b0a7434b802cceb2986daca0265",
+    "text": "If the ﬁrst TIN input is IMF or BMF, then all",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d34df08f54772a1bb2b9cd314b22f6b6",
+    "text": "a. TELER — If no errors are present for an entry, the literal COMPLETED will be displayed for that entry. The telephone numbers or the message “TELEPHONE NUMBERS NOT PRESENT” will also be displayed. b. TELED — If no errors are present for an entry, the literal DELETED will be displayed for that entry. c. TELEA — If no errors are present for an entry, the literal ADDED will be displayed for that entry. d. TELEC — If no errors are present for an entry, the literal CHANGED will be displayed for that entry. INVALID RESPONSE: If any errors are present for an entry, one of the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "410f00f6b49689269c24512b11494534",
+    "text": "INVALID RESPONSE: If any errors are present for an entry, one of the following error messages will be displayed on the same line as the entry.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "393c1b1a16e7950c598a8c875a969464",
+    "text": "TIN NOT IMF, TIN NOT BMF ---If the ﬁrst TIN input is IMF or BMF, then all other TIN’s on the screen must be the same, IMF or BMF.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5756943ac9ffe078302b1418d2ae734d",
+    "text": "Command Codes TELEA, TELEC, TELED and TELER for Telephone Processing 2.4.29 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "56118cb9992c97f3c5052d90c3808a1e",
+    "text": "INVALID RESPONSE — Data Base Errors: If an error should occur in attempt- ing to access the TIF; one of the following error messages will be displayed on the same line as the entry.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f88cd378cf975b7a5c585eaab17a613c",
+    "text": "I/O ERROR — The area of the TIF you have attempted to access is currently unavailable. Re-try when area is available. (TELER, TELEA, TELEC, TELED) DB-ERR XXXX — This message will display the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "e02ab707b53d264bb7c2934e7a5bbbed",
+    "text": "Digit Error-NUM, which indicates the speciﬁc reason the attempt to Access/Update the was unsuccessful. Check with RPA before re-trying (TELER, TELEA, TELEC, TELED) SYSTEM ERROR ON ACCESS/UPDATE — A Data Base Error has occurred. Check with RPA before re-trying. (TELER, TELEA, TELEC) SYS ERR A/U — Short Version of message (C) above. (TELED)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ae1a7bbb2abbc1aa6b603eb52e544d7f",
+    "text": "Command Code TELED is used to delete telephone number information on the TIF. The request may be made for up to eleven separate accounts.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2a85674375bbb21955dbba29fa6cb277",
+    "text": "Invalid Response: If any errors are present for an entry one of the following error messages will be displayed on the same line as the entry.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "33c2fb318990e53d6e46aaa2d4c70e3c",
+    "text": "IND INVALID— The telephone indicator is other than “ H” or “O” or “C”or “ I”, or a duplicate telephone indicator is present for that entry. Correct and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "9b9746b678242d8c27933ec20df54074",
+    "text": "enter. NC INVALID — Name control does not meet standard validity criteria. Correct and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a497045e28c344a0e25c33a70aba423b",
+    "text": "enter. NC MISMATCH — Name control does not match the name control in the BASIC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "1f635e128bede643122c57139103060b",
+    "text": "ENT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "07c5c6a327480a0d30336acd7efa9320",
+    "text": "REC on the TIF. Correct and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "c8ad15d1c9775c1fa59cd0094124a033",
+    "text": "enter. NO TIF",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a8e63035ebc2599eb1e478fd6ae609b5",
+    "text": "ACCT — There is no information on the TIF for the tin and ﬁle source input. NOT ON TIF — Telephone number is not present on the TIF. TIN INVALID — Tin and ﬁle source did not meet standard validity criteria. Correct and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "7144f546c4c61d04c89dd4e6193e57f2",
+    "text": "enter. TIN NOT IMF, TIN NOT BMF",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ff9b1fcc4fdeeb57988dafc1e93ba206",
+    "text": "If the ﬁrst TIN input is IMF or BMF, then all other TIN’s on the screen must be the same, IMF or BMF.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "909d795310fcd4aadf4a0036b85bdf0f",
+    "text": "Command Code TELEA is used to establish telephone number information on the TIF. The request may be made for up to ﬁve separate accounts.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2a85674375bbb21955dbba29fa6cb277",
+    "text": "Invalid Response: If any errors are present for an entry one of the following error messages will be displayed on the same line as the entry.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a325873ea3683d4ba03be9e4d06606fa",
+    "text": "a. IND INVALID — The telephone indicator is other than “ H” or “O” or “C” or “ I”, or a duplicate telephone indicator is present for that entry. Correct and re-enter. b. NC INVALID — Name control does not meet standard validity criteria. Correct and re-enter. c. NC MISMATCH — Name control does not match the name control in the BASIC-ENT-REC on the TIF. Correct and re-enter. d. NO TIF ACCT — There is no information on the TIF for the tin and ﬁle source input. e. NUM INVALID — Telephone number is not in the proper format. Valid formats are nnn-nnn-nnnn, nnn-aaa-nnnn or nnnnn-nnn-nnn-nnnn where “ a” cannot be “Q” or “Z”. Correct and re-enter. f. NUM ON TIF — Telephone number is already present on the TIF. g. TIN INVALID — Tin and ﬁle source did not meet standard validity criteria. Correct and re-enter. h. TIN NOT IMF, TIN NOT BMF ---If the ﬁrst TIN input is IMF or BMF, then all other TIN’s on the screen must be the same, IMF or BMF.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "b6f36e49bd6797e44d3cb8c8cc91ab26",
+    "text": ") Command Code TELEC (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "7ba585619a680a7ba8501bae7da0f079",
+    "text": ") Command Code TELEC is used to change telephone number information on the TIF. The request may be made for up to ﬁve separate accounts. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "9150d5ab2cbefcfcea43b4dca9b83b40",
+    "text": ") Terminal Input/Output: See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3d987b8d20baf9ab90677a7175e36118",
+    "text": ") Terminal Response for Command Code TELEC (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "7f2c732bf403c86eb4d98f8911d1bf6f",
+    "text": ") Valid Response: If no errors are present for an entry, the literal CHANGED will be displayed for that entry. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "2a7ebd3e92b0a4a1cdd07cfa8eee695e",
+    "text": ") Invalid Response: If any errors are present for an entry one of the following error messages will be displayed on the same line as the entry. a. IND INVALID — The telephone indicator is other than “ H” or “O” or “C” or “ I”, or a duplicate telephone indicator is present for that entry. Correct and re-enter. b. NC INVALID — Name control does not meet standard validity criteria. Correct and re-enter. c. NC MISMATCH — Name control does not match the name control in the BASIC-ENT-REC on the TIF. Correct and re-enter. d. NO TIF ACCT — There is no information on the TIF for the tin and ﬁle source input. e. NOT ON TIF — Telephone number is not present on the TIF. f. NUM INVALID — Telephone number is not in the proper format. Valid formats are nnn-nnn-nnnn, nnn-aaa-nnnn or nnnnn-nnn-nnn-nnnn where a” cannot be “Q” or “Z”. Correct and re-enter. g. TIN INVALID — Tin and ﬁle source did not meet standard validity criteria. Correct and re-enter. h. TIN NOT IMF, TIN NOT BMF ---If the ﬁrst TIN input is IMF or BMF, then all other TIN’s on the screen must be the same, IMF or BMF.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "b45556da46cadcf4564416c3c8df347d",
+    "text": "a. IND INVALID — The telephone indicator is other than “ H” or “O” or “C” or “ I”, or a duplicate telephone indicator is present for that entry. Correct and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "2123f40b84ddcfc6e132c831ec93a3d2",
+    "text": "enter. b. NC INVALID — Name control does not meet standard validity criteria. Correct and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d82666876744858a15ce63a0fb58ac9e",
+    "text": "enter. c. NC MISMATCH — Name control does not match the name control in the BASIC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "1f635e128bede643122c57139103060b",
+    "text": "ENT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "07c5c6a327480a0d30336acd7efa9320",
+    "text": "REC on the TIF. Correct and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "334e5399c45a2d729cd768eb384ccf7f",
+    "text": "enter. d. NO TIF ACCT — There is no information on the TIF for the tin and ﬁle source input. e. NUM INVALID — Telephone number is not in the proper format. Valid formats are nnn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e8702ecd939e3ace89e85e0df11878c7",
+    "text": "nnn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e71c6111f961fa74e01be4d4f326258b",
+    "text": "nnnn, nnn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "9834876dcfb05cb167a5c24953eba58c",
+    "text": "aaa",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "18ab8d47d14f359e0a01202d25ef33ce",
+    "text": "nnnn or nnnnn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e8702ecd939e3ace89e85e0df11878c7",
+    "text": "nnn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e8702ecd939e3ace89e85e0df11878c7",
+    "text": "nnn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "bd96e4fb23eb596e242ea54327aacad6",
+    "text": "nnnn where “ a” cannot be “Q” or “Z”. Correct and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "cc4b9318c0ce7307e3be6db0be7f9166",
+    "text": "enter. NUM ON TIF — Telephone number is already present on the TIF. g. TIN INVALID — Tin and ﬁle source did not meet standard validity criteria. Correct and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "da6269886bdf3146b73eedb90d7905e1",
+    "text": "enter. h. TIN NOT IMF, TIN NOT BMF",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ff9b1fcc4fdeeb57988dafc1e93ba206",
+    "text": "If the ﬁrst TIN input is IMF or BMF, then all other TIN’s on the screen must be the same, IMF or BMF.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "393c1b1a16e7950c598a8c875a969464",
+    "text": "TIN NOT IMF, TIN NOT BMF ---If the ﬁrst TIN input is IMF or BMF, then all other TIN’s on the screen must be the same, IMF or BMF.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "383930ecd8baade681aee13fbee73514",
+    "text": "Command Code TELEC is used to change telephone number information on TIF. The request may be made for up to ﬁve separate accounts.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "2a85674375bbb21955dbba29fa6cb277",
+    "text": "Invalid Response: If any errors are present for an entry one of the following error messages will be displayed on the same line as the entry.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "81539ed66d6ff3ee56ce52c6e3e7f73b",
+    "text": "IND INVALID — The telephone indicator is other than “ H” or “O” or “C” or “ I”, or a duplicate telephone indicator is present for that entry. Correct and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "9b9746b678242d8c27933ec20df54074",
+    "text": "enter. NC INVALID — Name control does not meet standard validity criteria. Correct and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "a497045e28c344a0e25c33a70aba423b",
+    "text": "enter. NC MISMATCH — Name control does not match the name control in the BASIC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "1f635e128bede643122c57139103060b",
+    "text": "ENT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "07c5c6a327480a0d30336acd7efa9320",
+    "text": "REC on the TIF. Correct and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "0e8bad18878fcdc3e340007f8b8fa74f",
+    "text": "enter. NO TIF ACCT — There is no information on the TIF for the tin and ﬁle source input. NOT ON TIF — Telephone number is not present on the TIF. NUM INVALID — Telephone number is not in the proper format. Valid formats are nnn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e8702ecd939e3ace89e85e0df11878c7",
+    "text": "nnn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e71c6111f961fa74e01be4d4f326258b",
+    "text": "nnnn, nnn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "9834876dcfb05cb167a5c24953eba58c",
+    "text": "aaa",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "18ab8d47d14f359e0a01202d25ef33ce",
+    "text": "nnnn or nnnnn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e8702ecd939e3ace89e85e0df11878c7",
+    "text": "nnn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e8702ecd939e3ace89e85e0df11878c7",
+    "text": "nnn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "bd96e4fb23eb596e242ea54327aacad6",
+    "text": "nnnn where “ a” cannot be “Q” or “Z”. Correct and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "7224eb18ed1993739576dd1fa4f7cb06",
+    "text": "enter. TIN INVALID — Tin and ﬁle source did not meet standard validity criteria. Correct and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "7144f546c4c61d04c89dd4e6193e57f2",
+    "text": "enter. TIN NOT IMF, TIN NOT BMF",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ff9b1fcc4fdeeb57988dafc1e93ba206",
+    "text": "If the ﬁrst TIN input is IMF or BMF, then all other TIN’s on the screen must be the same, IMF or BMF.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "393c1b1a16e7950c598a8c875a969464",
+    "text": "TIN NOT IMF, TIN NOT BMF ---If the ﬁrst TIN input is IMF or BMF, then all other TIN’s on the screen must be the same, IMF or BMF.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "5756943ac9ffe078302b1418d2ae734d",
+    "text": "Command Codes TELEA, TELEC, TELED and TELER for Telephone Processing 2.4.29 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7c44f9db41262e7379ccbc3bc04f04d0",
+    "text": "Input Display",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7c44f9db41262e7379ccbc3bc04f04d0",
+    "text": "Input Display",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "cc6c681de9ae9e573f61564d09997fb7",
+    "text": "Record Element Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "06d850cc2878b44aa55e2c6b6188f774",
+    "text": "DESCRIPTION AND VALIDITY",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "c74c295b964f0acd1ceea9bc6ae37e2f",
+    "text": "NAME CONTROL — Must meet standard validity check.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1e42011a323e9b2c29e5fc6d1254b7b2",
+    "text": "Exhibit 2.4.29-1 (Cont. 1) (01-01-2010) CC TELER",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "7c48cb456f13d54b260bd475a1d168a5",
+    "text": "[ o e e51l @) | la]f5> ulul <l elolo] olslal o) v)0R222-333-4444fiv134-567-8910 0R222-393-4444Jpr-eaiss1e cLar TIN NOT THFJoo1-s2-5308 w11fri11-222-3333 0R222-393-4444IRIT111-222-303-4444CR333-444-55551R12345-123-123-1234CR234-567-89101R22222-333-444-5555.CR444-222-6656Po=1 Fon= 1 Col= 1",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "cc6c681de9ae9e573f61564d09997fb7",
+    "text": "Record Element Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "5756943ac9ffe078302b1418d2ae734d",
+    "text": "Command Codes TELEA, TELEC, TELED and TELER for Telephone Processing 2.4.29 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3720be20d6b1adf29e10f7b73ac51824",
+    "text": "Exhibit 2.4.29-1 (Cont. 2) (01-01-2010) TELER ITEM LINE POSITION DESCRIPTION 1 1 1–5 CC TELER 2 2, 4, 6,.. 1–12 TIN and FILE SOURCE. 3 2, 4, 6,.. 14–17 NAME CONTROL. 4 3, 5, 7,.. 1, 24, 47 TELEPHONE INDICATOR “H” means HOME-TELEPHONE NUMBER “O” means HOME-TELEPHONE-NUMBER “C” means CELL-TELEPHONE-NUMBER “I” means INTL-TELEPHONE-NUMBER 5 3, 5, 7,.. 2, 26, 48 SOURCE-CD — Indicates input source “R” = realtime “B” = batch program 6 3, 5, 7,.. 3–14, 27–38, 51–62 TELEPHONE NUMBER 7 3, 5, 7,.. 16–18,40–42, 64–66 EXTENSION LITERAL “ EX.” 8 3, 5, 7,.. 19–23,43–47, 67–71 TELEPHONE NUMBER EXTENSION (If present on the TIF) may contain 1 to 5 characters. 9 5, 7.. 27-44, 51-68 INTERNATIONAL TELEPHONE NUMBER - Must be formatted nnnnn-nnn-nnn-nnnn (Extension not applicable). Telephone Processing 2.4.29",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7967e949c2469a7ce0e4ebfee886c3ee",
+    "text": "Exhibit 2.4.29-1 (Cont. 2) (01-01-2010) CC TELER",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "9051e42a71f0b46ba7b2e57425ed0966",
+    "text": "INTERNATIONAL TELEPHONE NUMBER - Must be formatted nnnnn-nnn-nnn-nnnn (Extension not applicable).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "29cb8779bde99471b8a4d4669b4f9cd1",
+    "text": "Input Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "adc5ea0e969f8ecf0eab13f09b10b276",
+    "text": "[ o e e0l 8| _ |- (8] 214 < @lo|o] els|a) o) |DROG H 0BRAC HJpi-es1ss18  cLar 0wJoor-32-5388 wIT of",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "5756943ac9ffe078302b1418d2ae734d",
+    "text": "Command Codes TELEA, TELEC, TELED and TELER for Telephone Processing 2.4.29 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "8914812034f97894a87a7dccecbe0b1a",
+    "text": "Joo1-24-s88s 0RO 1 0 DELETEDJoo1-28-s88 erac 1 DELETEDJpi-esiss1s  cLar 0w TIN NOT THFJoor-32-5388 wiIT 0 DELETED",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "4bd0adbb21c952bcf32f3685ca925426",
+    "text": "CC TELED TIN and FILE SOURCE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "bb948babe91279022a82f9c1400063d4",
+    "text": "must meet standard validity check. NAME CONTROL",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "e4b57b451055d765bbd3a9a109a7040c",
+    "text": "must meet standard validity check. TELEPHONE INDICATOR.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "29cb8779bde99471b8a4d4669b4f9cd1",
+    "text": "Input Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "29cb8779bde99471b8a4d4669b4f9cd1",
+    "text": "Input Display:",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "5756943ac9ffe078302b1418d2ae734d",
+    "text": "Command Codes TELEA, TELEC, TELED and TELER for Telephone Processing 2.4.29 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "77a35d00dffd0d902c9b5866c6c96f4f",
+    "text": "Exhibit 2.4.29-3 (Cont. 1) (01-01-2010) CC TELEA",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "e815b5d57a48a2e30791b99b6c480aaf",
+    "text": "Exhibit 2.4.29-3 (Cont. 2) (01-01-2010) CC TELEA",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "783e8d941a1dfd83b03625b5e193f16c",
+    "text": "[ o e e eT eSl 8] -Ie)f5 212 =l elojo] elsia) o) vP=1 Fon= 1 Col= 1",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "5756943ac9ffe078302b1418d2ae734d",
+    "text": "Command Codes TELEA, TELEC, TELED and TELER for Telephone Processing 2.4.29 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "ed3e5f8d6ecc62323b1f662f56c50924",
+    "text": "TELEPHONE NUMBER EXTENSION (If present) may contain",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "06a6f5f473970d1782520a396634a586",
+    "text": "characters. INTERNATIONAL TELEPHONE NUMBER (Extension not applicable).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "29cb8779bde99471b8a4d4669b4f9cd1",
+    "text": "Input Display:",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "29cb8779bde99471b8a4d4669b4f9cd1",
+    "text": "Input Display:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+    "text": "",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "5756943ac9ffe078302b1418d2ae734d",
+    "text": "Command Codes TELEA, TELEC, TELED and TELER for Telephone Processing 2.4.29 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "7d6ef65b136afdc26ec41780f674199f",
+    "text": "Exhibit 2.4.29-4 (Cont. 1) (01-01-2010) CC TELEC",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "8af03af9b78dda0da5325786baf40900",
+    "text": "TIN and FILE SOURCE — Must meet standard validity check. NAME CONTROL — Must meet standard validity check. TELEPHONE INDICATOR — Must be “H” or “O” or “ C” or “I”. TELEPHONE NUMBER — Must be formatted nnn-nnn-nnnn or nnn-aaa-nnnn where “a” is not “Q” or “Z”. TELEPHONE NUMBER EXTENSION (If Applicable) will accept to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "58213fd0f931b4b7850256297d0cc7a8",
+    "text": "characters.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "9051e42a71f0b46ba7b2e57425ed0966",
+    "text": "INTERNATIONAL TELEPHONE NUMBER - Must be formatted nnnnn-nnn-nnn-nnnn (Extension not applicable).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "e8dca1b09b4b24d6a401f8c07093f57f",
+    "text": "Exhibit 2.4.29-4 (Cont. 2) (01-01-2010) CC TELEC",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "b6f00f283e24783b68eb63deb8c6f492",
+    "text": "CHANGED",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "3f1aec42feba5fde22ab9b308f188675",
+    "text": "Record Element Description:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "5756943ac9ffe078302b1418d2ae734d",
+    "text": "Command Codes TELEA, TELEC, TELED and TELER for Telephone Processing 2.4.29 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "7bbff99556ab63ec5d1498ab26417344",
+    "text": "Exhibit 2.4.29-4 (Cont. 3) (01-01-2010) CC TELEC",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "zips/irm02-004-029--2023-02-10.pdf",
+      "page_number": 21
+    }
+  }
+]

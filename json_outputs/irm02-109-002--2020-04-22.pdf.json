@@ -1,0 +1,3899 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "45336d690cab2303ea4ac0d0f069e050",
+    "text": "This transmits new Internal Revenue Manual (IRM) 2.109.2, Risk, Issue, and Action Management Practices, Risk, Issue, and Action Item Management Process.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "682726703e4ec0d36df7ee74e379f058",
+    "text": "This is a new manual and thus without material changes.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "590605862d88f500b88e802fb61686a4",
+    "text": "EFFECT ON OTHER DOCUMENTS",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "6408943a38ff2768258103506d22e21b",
+    "text": "superseded.RiskIdentiﬁcation Procedure Version 1.0.3 dated October 20, 2014 is superseded. Risk Analysis and Validation Procedure Version 1.0.3 dated October 20, 2014 is superseded. Risk Mitigation Planning and Execution Procedure Version 1.0.3 dated October 20, 2014 is Issue Management Procedure Version 1.0.3 dated October 20, 2014 is superseded. Action Item Management Procedure Version 1.0.3 dated October 20, 2014 is superseded. Risk/Issue Meeting and Reporting Procedure Version 1.0.2 dated October 20, 2014 is superseded",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1e40feedb6d8e174d473a369b3da23fd",
+    "text": "AUDIENCE",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "bc50813ba4355a8d34c2205a756a6c2e",
+    "text": "The audience for this manual is the Information Technology (IT) Organization, contracted personnel, and other stakeholders responsible for following Enterprise Life Cycle (ELC) guidance.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "aa63d1bdb2dd51fcc91b0f91bdc9ee01",
+    "text": "Risk, Issue, and Action Item Management Process",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "7b94741086a9ba58ee5afaffdce39472",
+    "text": ") Overview - This document describes the formal process for implementing requirements of the Risk, Issue, and Action Item Management process and includes risk identiﬁcation, analysis, validation, mitigation planning and execution, reporting as well as issue management and action item manage- ment. It provides an operational deﬁnition of the major components of the process and how to perform each step in the process. This document also describes the logical arrangements of steps that are essential to completing the process and achieving its desirable outcome. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5ed37dfca16a489e0dab747d97169747",
+    "text": ") Purpose - The purpose of this policy is to establish a common management process for risks, issues, and action items management plans across Revenue Service (IRS) IT Organization. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "b2b342a43c801dd69250356af50bc946",
+    "text": ") Audience - The audience for this IRM is the IT Organization, contracted personnel, and other stakeholders responsible for following the Enterprise Cycle (ELC) guidance. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9e018dbfeb03678f446dd4c5c8488f72",
+    "text": ") Policy Owner - Strategy and Planning, Business Planning and Risk Manage- ment, Enterprise Life Cycle Office. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d7260e62ece6ba328bb8979dbd6a8f44",
+    "text": ") Program Owner - Strategy and Planning, Business Planning and Risk ment, Enterprise Life Cycle Office is responsible for the development, implementation, and maintenance, of this process. Approval of this process, including updates, rests with the Director, Business Planning and Risk Man- agement. All proposed changes to this policy must be submitted to Business Planning and Risk Management, Enterprise Life Cycle Office. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "cd0d3a6485010a41a08236dba7bb1d4c",
+    "text": ") Primary Stakeholders - This process applies to all IT projects and programs. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3a2305495962621bd4fcf523c5a0cc3a",
+    "text": ") Program Goals - The goal is to establish an authoritative repository for all IT programs and projects to maintain risk and issues, and action items ment. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4b8a43e8ed65ed077912696372dfe428",
+    "text": ") A process is deﬁned as “A set of related activities that accomplish a goal”. The process deﬁnition laid out in this document further breaks down these Activities into Tasks, each of which have a complete set of attributes deﬁned such as data and tool speciﬁcations and the role(s) responsible for executing the tasks. The document also includes process goal and metrics, role deﬁnitions, policies and other process related attributes. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a86cfe6526f3e0c13d2275288b98e67a",
+    "text": ") This Risk, Issue, and Action Item Management process describes what happens within the Risk, Issue, and Action Item Management process and provides an operational deﬁnition of the major components of the process. process speciﬁes, in a complete, precise, and veriﬁable manner, the require- ments, design, and behavior characteristics of the Risk, Issue, and Action Management process. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "192015029e19019fff1cb7a236fc8dbb",
+    "text": ") The process goal describes a speciﬁc purpose or achievement toward which the efforts of the process are directed. Each process has a speciﬁc focus when combined with the other processes, forms a comprehensive for delivering and managing services. The goal of this process is to establish a common management process for risk, issue, and action item management across the IT organization. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c903b98c3914b7e32d1b3e9d83a86770",
+    "text": "A process is deﬁned as “A set of related activities that accomplish a common goal”. The process deﬁnition laid out in this document further breaks down these Activities into Tasks, each of which have a complete set of attributes deﬁned such as data and tool speciﬁcations and the role(s) responsible for executing the tasks. The document also includes process goal and metrics, role deﬁnitions, policies and other process related attributes.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "54f1b6e2348aa5bfc1435e354375fa39",
+    "text": "The goal of this process is to establish a common management process for risk, issue, and action item management across the IT organization.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c7f69ef6a609d1ab71fe232b3030e41c",
+    "text": "Risk, Issue, and Action Item Management • To support risk management requirements for all IT program and projects. • To provide a set of interrelated activities that all program and projects should follow regarding the Risk, Issue, and Action Item Management process. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "00aab4e2ae84195badd4256e74a28afa",
+    "text": ") The objective is to have everyone using the same tools and techniques and follow the same repeatable steps so that the organization can quantify how well the Risk, Issue, and Action Item Management process is working and future staff members who may not currently know the routine. Ensuring tency is a critical component for ensuring optimum efficiency. The following is a list of objectives for this process: • To assist a program or project with the identiﬁcation, analysis, and mitigation of risks. • To assist a program or project with the management of issues. • To assist a program or project with the management of action items. • To assist a program or project with the reporting and tracking of risks, issues and action items. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "03c999cf4c132a145a99bb5374e13660",
+    "text": ") All proposed changes to this document must be submitted in writing, with porting rationale, to the Strategy and Planning, Business Planning and Risk Management, Enterprise Life Cycle Office. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "677e7cca1c0320de96c474ca64b392f2",
+    "text": ") Each process deﬁnes at least one role. Each role is assigned to perform speciﬁc tasks within the process. The responsibilities of a role are conﬁned the speciﬁc process. They do not imply any functional standing within the hierarchy of an organization. For example, the process manager role does imply the role is associated with or fulﬁlled by someone with functional man- agement responsibilities within the organization. Within a speciﬁc process, there can be more than one individual associated with a speciﬁc role. ally, a single individual can assume more than one role within the process although typically not at the same time. Below are the roles and provide a brief description for this process. Name Description",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f7e532d2af6fe306e8a5371f94dc931a",
+    "text": "2 2.109 Risk, Issue, and Action Item Management Practices",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "adc99dcc6f6fdd9a4eb8e3ffe6f66a10",
+    "text": "To support risk management requirements for all IT program and projects. To provide a set of interrelated activities that all program and projects should follow regarding the Risk, Issue, and Action Item Management process.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "55f8ecc99f2d83667493fa1e8d8dd7ac",
+    "text": ") The objective is to have everyone using the same tools and techniques and follow the same repeatable steps so that the organization can quantify how well the Risk, Issue, and Action Item Management process is working and train future staff members who may not currently know the routine. Ensuring consis- tency is a critical component for ensuring optimum efficiency.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "cc88951247863414bcf04d5d092aada5",
+    "text": "The following is a list of objectives for this process:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3f358449a8dfdd89be5bf599d8d2d758",
+    "text": "To assist a program or project with the identiﬁcation, analysis, and mitigation of risks.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "233bc87a2b103e78f60e4cdc12c14cf8",
+    "text": "To assist a program or project with the management of issues.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "23b8a9b97ca47e138049ddeeb6f352b6",
+    "text": "To assist a program or project with the management of action items.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d9f1388d3f9140631d6be78d72524cf6",
+    "text": "To assist a program or project with the reporting and tracking of issues and action items. All proposed changes to this document must be submitted in writing, with porting rationale, to the Strategy and Planning, Business Planning and Risk Management, Enterprise Life Cycle Office. Each process deﬁnes at least one role. Each role is assigned to perform speciﬁc tasks within the process. The responsibilities of a role are conﬁned the speciﬁc process. They do not imply any functional standing within the hierarchy of an organization. For example, the process manager role does imply the role is associated with or fulﬁlled by someone with functional agement responsibilities within the organization. Within a speciﬁc process, there can be more than one individual associated with a speciﬁc role. ally, a single individual can assume more than one role within the process although typically not at the same time.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "52943d7c9fb1fe5aa19013d7852fe902",
+    "text": "To assist a program or project with the identiﬁcation, analysis, and mitigation of risks. To assist a program or project with the management of issues. To assist a program or project with the management of action items. To assist a program or project with the reporting and tracking of risks, issues and action items.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "78121a21fb7eb1126e001436725d894a",
+    "text": "Each process deﬁnes at least one role. Each role is assigned to perform speciﬁc tasks within the process. The responsibilities of a role are conﬁned to the speciﬁc process. They do not imply any functional standing within the hierarchy of an organization. For example, the process manager role does not imply the role is associated with or fulﬁlled by someone with functional man",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f5c8e9cac1bd64688da4cd4c01969bc8",
+    "text": "agement responsibilities within the organization. Within a speciﬁc process, there can be more than one individual associated with a speciﬁc role. Addition",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e33dd39f0898ecca00cef4bbea6194e8",
+    "text": "ally, a single individual can assume more than one role within the process although typically not at the same time.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3e3c66d866895322fb557868aa5087ca",
+    "text": "Below are the roles and provide a brief description for this process.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f0aabb7d1d0611606b3a1d5b8aff1f80",
+    "text": "Issue, and Action Item Management Process 2.109.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3f7030fa24448bd1d668fee5861bcda7",
+    "text": "Action Item Management Process 2.109.2 page 3 Responsible Manager The Responsible Manager is ultimately re- sponsible for the management of all risks and issues in accordance with the mission and goals of the IT organization to ensure the program and/or project goals are achieved. Also the Responsible Manager: • ensures that risks and issues are identiﬁed and managed on a continual basis throughout the life of the program or project, • normally leads item identiﬁcation ac- tivities during initial planning and re- planning for a program or project, • assigns an Item Owner, • approves the mitigation or manage- ment plan for resolving the risk or issue, • provides the necessary resources required to successfully execute the plan; ensuring that the mitigation or management plan does not inadver- tently change technical or contract requirements or negatively impact or- ganization schedules. • assesses the success/results of the activity and reviews progress of the risk or issue to resolution of the activity associated with a risk, issue, or action item, • approves ﬁnal disposition of a risk, issue and action item and decides when the item may be closed. • conducts the review meetings, and • escalates the risk or issue to the ap- propriate reporting Governance Board",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d87678d963d6f0d7c585690fdb4179d6",
+    "text": "The Responsible Manager is ultimately re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "03b8af57e97f1a89a705e9d76b972dc6",
+    "text": "sponsible for the management of all risks and issues in accordance with the mission and goals of the IT organization to ensure the program and/or project goals are achieved. Also the Responsible Manager:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "8bbd9be4614cab42d9c03e3577a47c0f",
+    "text": "ensures that risks and issues are identiﬁed and managed on a continual basis throughout the life of the program or project,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ea793bb772e5fc627a291b245e4ed365",
+    "text": "normally leads item identiﬁcation ac",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "600fb0c3e099e07588fd7dac13c767f8",
+    "text": "tivities during initial planning and re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "4f5293227a80725586391288f9589564",
+    "text": "planning for a program or project,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "fe4d52f9c0d7331d7b3ea814b63a29de",
+    "text": "assigns an Item Owner,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "5476aa490cc972b5b36c74678a89f6aa",
+    "text": "approves the mitigation or manage",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "96f84f07e46944561ecbb7cab897bf16",
+    "text": "ment plan for resolving the risk or issue,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "7c0224ef93904e156758ce6d45952bb9",
+    "text": "provides the necessary resources required to successfully execute the plan; ensuring that the mitigation or management plan does not inadver",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "e703fefca748564983b408046f16b69c",
+    "text": "tently change technical or contract requirements or negatively impact or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "0795f77b2e8c0e4edf54b3ca7723f3f2",
+    "text": "ganization schedules.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "e9f92651d5e7d7651cbd05370929dd7c",
+    "text": "assesses the success/results of the activity and reviews progress of the risk or issue to resolution of the activity associated with a risk, issue, or action item,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "aa0aeb19b99f489cd7a2a279d8e1dc91",
+    "text": "approves ﬁnal disposition of a risk, issue and action item and decides when the item may be closed.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d7fdff3b3d8ea6d1685eb84e32bca0c9",
+    "text": "conducts the review meetings, and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "b8b00af9a68ee8196a9b565315f30591",
+    "text": "escalates the risk or issue to the ap",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "116c5a6cb0becb8b4249a8a20e4e94f6",
+    "text": "propriate reporting Governance Board",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "220a7f7b805f1b53cdd9c221a9cf4fa1",
+    "text": "4 2.109 Risk, Issue, and Action Item Management Practices",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e4e3042b9fa899200b77365e8c2fe3f5",
+    "text": "Item Identiﬁer Any program, project or team member or stakeholder may identify a candidate risk, issue or action item. The Item Identiﬁer: • provides clear and concise information that deﬁnes a candidate risk, issue or action item and its context (such as title, statement, date identiﬁed, source, scope, responsible manager/ organization, probable impact date, due date, closure criteria, etc.), • provide completed information in an acceptable format, using one of the templates based on if the item identi- ﬁed is a risk, issue or action item, • shall forward the required information to the Item Coordinator for entry into the Item Tracking Reporting and Control (ITRAC) Repository, and • may be asked to participate in the analysis of the risk or issue to determine its impact and the activities required for resolution.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ec13f1798514c32267b3bc7f92be0cc7",
+    "text": "Identiﬁer Any program, project or team member or stakeholder may identify a candidate risk, issue or action item. The Item Identiﬁer:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "683335b281eb9176820cc34590ff2822",
+    "text": "provides clear and concise that deﬁnes a candidate risk, issue or action item and its context (such as title, statement, date identiﬁed, source, scope, responsible manager/ organization, probable impact date, due date, closure criteria, etc.),",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "a33bbaf7fc06ee50ee59dc6196f42483",
+    "text": "provide completed information in an acceptable format, using one of the templates based on if the item identi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "378a4f574f5c3d7d9c4cdd768f670871",
+    "text": "ﬁed is a risk, issue or action item,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "c41cc425a959f43a622eefdabf7e6d03",
+    "text": "shall forward the required information to the Item Coordinator for entry into the Item Tracking Reporting and Control (ITRAC) Repository, and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "2a79b4b7ccdff8de7345d3ce2ce11bb0",
+    "text": "may be asked to participate in the analysis of the risk or issue to determine its impact and the activities required for resolution.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "50b0956a2b517f1e2c98cb443ef9c27a",
+    "text": "Action Item Management Process 2.109.2 page 5 Item Owner (Risk, The Item Owner Item is responsible for de- Issue or Acton Item) veloping the mitigation or management plan to resolve a risk or an issue. The Item Owner obtains necessary resources from the Responsible Manager and manages the execution of the mitigation or management plan as well as: • modiﬁes the mitigation or manage- ment plan, when necessary, to achieve the required results, • determines the appropriate mitigation or management approach. Re-plans the mitigation or management strategy when changes in item parameters warrant a different approach, • provides status on the resolution ac- tivities throughout the execution of the mitigation or management plan to the Responsible Manager, • provides information to the Item Coor- dinator for entry in the ITRAC repository, • determines the results needed to resolve the action item, • involve the stakeholders or SME to assist with developing the information about the risk or issue to a sufficient level of detail for the Responsible Manager to make a decision, • advises the Responsible Manager regarding escalation of the item, • directs the Activity Owners to start activities for each step of the mitiga- tion plan or management plan., • ensures Activity Owners have required information and resources, Monitors activity to completion, and • converts risk to an issue if risk happens and recommends closure of an item. Activity Owner The Activity Owner executes the assigned activity. During the performance of assigned activities the Activity Owner: • may be involved in the development of the management plan and dates for assigned activities. • provides timely status information to the Item Owner, and • provides status information to the Item Coordinator to update ITRAC.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "f0aabb7d1d0611606b3a1d5b8aff1f80",
+    "text": "Issue, and Action Item Management Process 2.109.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b311e882ba42a8855394868e5b8e545b",
+    "text": "Owner obtains necessary resources from the Responsible Manager and manages the execution of the mitigation or management plan as well as:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "74d342a2f63ffb25dff21194d51a2d03",
+    "text": "modiﬁes the mitigation or manage",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "892f94332ffeb6a1047a2dcd84d1226f",
+    "text": "ment plan, when necessary, to achieve the required results,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "dd7a9bb1d5fee450ac0a3e06cc0b84e7",
+    "text": "determines the appropriate mitigation or management approach. Re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "59350880446e95a837109628b2de455a",
+    "text": "plans the mitigation or management strategy when changes in item parameters warrant a different approach,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "2ea218aa1a277ca21cf7cce36d121174",
+    "text": "provides status on the resolution ac",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "c224582e8d110241796ba2aa65e03efe",
+    "text": "tivities throughout the execution of the mitigation or management plan to the Responsible Manager,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "64712aef672303b7a0d27e7140c72618",
+    "text": "provides information to the Item Coor",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "02bb70a9e3a9bc670a4cec0d7f29e657",
+    "text": "dinator for entry in the ITRAC repository,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "0690974a9d4456b5169f3676283f5e96",
+    "text": "determines the results needed to resolve the action item,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "edd3abf5e95a6df549ff8bd704816741",
+    "text": "involve the stakeholders or SME to assist with developing the information about the risk or issue to a sufficient level of detail for the Responsible Manager to make a decision,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "8456ced47f416cdae157c17be16a0607",
+    "text": "advises the Responsible Manager regarding escalation of the item,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "79492b2c5900fa6187aeacaedbf99f79",
+    "text": "directs the Activity Owners to start activities for each step of the mitiga",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a2f7f8dd68a85765687ed6ad1ebd186f",
+    "text": "tion plan or management plan.,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e088f99e75891d84547444015cebdee0",
+    "text": "ensures Activity Owners have required information and resources, Monitors activity to completion, and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "716e25e376c70288841302c1e85c3260",
+    "text": "converts risk to an issue if risk happens and recommends closure of an item.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1db473b2b80222b6bd38c5c03b495bc6",
+    "text": "may be involved in the development of the management plan and dates assigned activities. provides timely status information to the Item Owner, and provides status information to the Coordinator to update ITRAC.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "f3949803c078ab03268df3a1736e0196",
+    "text": "6 2.109 Risk, Issue, and Action Item Management Practices",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "388d1e134d66396cde6b002071343810",
+    "text": "Item Coordinator (Risk, The Item Coordinator for a program, project Issue, or Action Item) or organization records the risk, issue or action item in the ITRAC repository. The Item Coordinator is also responsible for: • collecting and entering status informa- tion, and producing reports for the Responsible Manager • when notiﬁed update and close a risk, issue or action item as well as that all decisions are recorded in ITRAC, • ensures that the Item Owner provides timely status to the risk or issue infor- mation, • generates the reports as necessary to support management needs, and • assist with the coordination of the risk/issue meetings.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "320b0b88fee02dccce26d64175f652b1",
+    "text": "Coordinator (Risk, The Item Coordinator for a program, project or Action Item) or organization records the risk, issue or action item in the ITRAC repository. The Item Coordinator is also responsible for:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "743ff48e48370887557f9a1aa884c7b7",
+    "text": "collecting and entering status informa",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "b82aa5614cec62a278a455d3e319c44e",
+    "text": "tion, and producing reports for the Responsible Manager",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "81f662498e2d2c14186ddf040926c3b3",
+    "text": "when notiﬁed update and close a risk, issue or action item as well as that all decisions are recorded in ITRAC,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "a3eb79e0fd68cbefa1ddb945170f576e",
+    "text": "ensures that the Item Owner provides timely status to the risk or issue infor",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "ee4a9ce03f57bf3ac335d60467e2da17",
+    "text": "mation,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "221d157f4d03c9bb642a127326001e4e",
+    "text": "generates the reports as necessary to support management needs, and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "1c29118530ec65620d8d76a665b27ad9",
+    "text": "assist with the coordination of the risk/issue meetings.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "dfc438c79323f68232905987eeb1f624",
+    "text": "Policies outline a set of plans or courses of action that are intended to inﬂuence and determine decisions or actions of a process. Policies provide an element of governance over the process that provides alignment to business vision, mission and goals.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9e219d1ee581ed0b8a688ac6e9c08f18",
+    "text": "2.109.2.1.4 (02-28-2020) Program Management and Review",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "19d58b30d22ec07b90345d385d1db422",
+    "text": "Process Management Statement: The Risk, Issue, and Action Item Management process will have a single Process Owner and a separate Process Manager re- sponsible for implementation and ensuring adherence to the process. The process will be reviewed regularly to ensure that it continues to support the business requirements of the en- terprise. The process will be designed and developed based on ROI to the business. Process metric will be focused on providing relevant information as opposed to merely presenting raw data.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "b0ddb6e7d973712cc8afdf2e81d45a13",
+    "text": "The Risk, Issue, and Action Item Management process will have a single Process Owner and a separate Process Manager re",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3c441bcd514e2d2d9d713d3f30d9367e",
+    "text": "sponsible for implementation and ensuring adherence to the process. The process will be reviewed regularly to ensure that it continues to support the business requirements of the en",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "fd36a45180d19543be0dcfa312ebb965",
+    "text": "terprise. The process will be designed and developed based on ROI to the business. Process metric will be focused on providing relevant information as opposed to merely presenting raw data.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "aa63d1bdb2dd51fcc91b0f91bdc9ee01",
+    "text": "Risk, Issue, and Action Item Management Process",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d145902909deb442df599581e92a6347",
+    "text": "People: Statement: Roles and responsibilities for the process must be clearly deﬁned and appropriately staffed with people having the required skills and training. The mission, goals, scope and importance of the process must be clearly and regularly communicated by upper management to the staff and business customers of IT. All IT staff (direct and indirect users of the process) shall be trained at the appropriate level to enable them to support the process. Rationale: It is imperative that people working in, supporting or interact- ing with the process in any manner understand what they are supposed to do. Without that un- derstanding Risk, Issue, and Action Item Management process will not be successful.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7bbb539e8fa7c75b32afacf73e0b8066",
+    "text": "It is imperative that people working in, supporting or interact",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "db902033ce9dd37fa199b2905c99dfa3",
+    "text": "ing with the process in any manner understand what they are supposed to do. Without that un",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "18e8c487b2c749061c915f39097215ca",
+    "text": "derstanding Risk, Issue, and Action Item Management process will not be successful.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "6af33a06576a8491d1ab253636f8fb3e",
+    "text": "2.109 Risk, Issue, and Action Item Management Process: Statement: Modiﬁcations to the Risk, Issue, and Action Item Management process must be approved by the Process Owner. The design of the process must include appro- priate interfaces with other processes to facilitate data sharing, escalation and workﬂow. The process must be capable of providing data to support real- time requirements as well as historical/trending data for overall process improvement initiatives. The process must be fully docu- mented, published and accessible to the various stakeholders of the process. The process will be reviewed on a periodic basis in order to ensure it continues to support organizational goals and objectives (continuous improve- ment). The process must include Inputs, Outputs, Controls, Metrics, Activi- ties, Tasks, Roles and Responsibilities, Tool and Data requirements along with docu- mented process ﬂows. The process will be kept straight forward, rational, and easy to un- derstand. Rationale: The process must meet opera- tional and business requirements.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "170b449d1ab891e8f6f0ef5b0a6b8cc5",
+    "text": "2.109 Risk, Issue, and Action Item Management Practices",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "80b912a4e12da18579ece6d07393c2e3",
+    "text": "The process must be fully docu",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "ec0c1b5b4c1836908232913ff2e0b7c4",
+    "text": "mented, published and to the various stakeholders of the process. The process will be reviewed on a periodic basis in order to ensure it continues to support organizational goals and objectives (continuous improve",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "322a0e6c7aa64c521536dd9849b77961",
+    "text": "ment). The process must include Inputs, Outputs, Controls, Metrics, Activi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "2d2a30ca2e299885402cf2a4208fe5ba",
+    "text": "ties, Tasks, Roles and Responsibilities, Tool and Data requirements along with docu",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "cdfbb04a0dcadcd234030e4cffae478b",
+    "text": "mented process ﬂows. The process will be kept straight forward, rational, and easy to un",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "a668afe134e753b0a7f6bfe40a88062c",
+    "text": "derstand.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "ec0c1b5b4c1836908232913ff2e0b7c4",
+    "text": "mented, published and to the various stakeholders of the process. The process will be reviewed on a periodic basis in order to ensure it continues to support organizational goals and objectives (continuous improve",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "4c7a34d3fea4aab96a3c9d049b5b249a",
+    "text": "ment).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "37997029cce5ae812d6fdc63c8460f08",
+    "text": "The process must include Outputs, Controls, Metrics, ties, Tasks, Roles and Responsibilities, Tool and Data requirements along with docu",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "3af0a229beed9838a49b9a8005bdb8c3",
+    "text": "mented process ﬂows. The process will be kept straight forward, rational, and easy to derstand.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "be7779d7d74cb152784816845d1db951",
+    "text": "Issue, and Action Item Management Process",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "9304c583c2402a2b9257c1c6f477d1f3",
+    "text": "and Action Item Management Process 2.109.2 page 9 Technology and Tools: Statement: All tools selected must conform to the enterprise architectural standards and direction. Existing in-house tools and technology will be used wherever possible, new tools will only be entertained if they satisfy a business need that cannot be met by current in- house tools. The selection of supporting tools must be process driven and based on the require- ments of the business. Selected tools must provide ease of de- ployment, customization and use. Automated workﬂow, notiﬁcation and escalation will be deployed wherever possible to minimize delays, ensure consistency, reduce manual intervention and ensure appropriate parties are made aware of issues requiring their attention. The tools used by this process are the following: • ITRAC • EXCEL • MS Word • MS Power Point Rationale: Technology and tools should be used to augment the process ca- pabilities, not become an end themselves.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "f8f2bf79dfa2a0f4b5d898943b55e62a",
+    "text": "Process controls represent the policies and guiding principles on how the process will operate. Controls provide direction over the operation of processes and deﬁne constraints or boundaries within which the process must operate.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "c0e63c1d9585db6c116e2b89472d2d1c",
+    "text": "10 2.109 Risk, Issue, and Action Item Management Practices",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "aac3216763c0fb13ce68af57f9660639",
+    "text": ") Metrics are used for the quantitative and periodic assessment of a process. They should be associated with targets that are set based on speciﬁc objectives. Metrics provide information related to the goals and objectives of a process and are used to take corrective action when desired results are not being achieved and can be used to drive continual improvement of process effectiveness and efficiency. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "f6683172b7b2ddac035a0cc99559afcb",
+    "text": ") Management will regularly set targets for process performance, gather able data related to different functions of the Risk, Issue, and Action Item process, and review that data in order to make informed decisions and take appropriate corrective action. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "97462716c09249a6859f92ab1b678f00",
+    "text": ") The tailoring guidelines identify the allowable variations of the IT standard process as needed for adjustments (adding, deleting, modifying) relative to speciﬁc operational or functional needs of another organization. Process tailoring is about roles and procedures, not the standard process or major activities deﬁned in this process. All tailoring request, with supporting rationale, must be submitted in writing to and approved by the Strategy and Planning, Business Planning and Risk Management, Enterprise Life Cycle Office owner.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "12a0db4f1bc52e830121056b5bdd3488",
+    "text": "The tailoring guidelines identify the allowable variations of the IT standard process as needed for adjustments (adding, deleting, modifying) relative to speciﬁc operational or functional needs of another organization. Process tailoring is about roles and procedures, not the standard process or major activities deﬁned in this process. All tailoring request, with supporting rationale, must be submitted in writing to and approved by the Strategy and Planning, Business Planning and Risk Management, Enterprise Life Cycle Office owner.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "0fdefb8f76abc68893ccb3149cc15bd2",
+    "text": "Issue, and Action Item Management Process 2.109.2 page 11",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "2a34fff5f04117ef1a90fa351acb28ac",
+    "text": "Term Deﬁnition Action Item A short-duration, minimal resources activity assigned to a member or stake- holder in the program/project or organization within IT. An action item must be within the scope of the duties currently assigned to that person. Action Plan Description of the activities planned to resolve the action item and updates giving status of the activities. Activity Update Detailed status of the activity - Typically, a running chronology is provided in descending date order. Example: 10/22/2020 – Action plan approved by mgr. 09/20/2020 – Kickoff meeting held. Actual Date Closed Date management approved closure. Actual Start Date Date activity was started. Actual Completion Date Date activity was completed. Assigned Organization Acronym of the organization to whom the item identiﬁer recommends the Code responsibility for the risk, issue or action item be assigned. This is a recom- mendation by the responsible manager or item identiﬁer. Attachments Other ﬁles providing further information or documentation may be attached to the risk, issue or action item. Example: Work plans, decision papers, information to support closure criteria or Power Point presentations. Closed Date Date an issue or action item is actually closed. Closure Criteria Description of the requirement that must be met to close the ITRAC record. The closure criteria should be speciﬁc and measurable and should state how the item can be closed or eliminated.",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "d6476cf2aeeff813b90f9ac9661037cf",
+    "text": "Example: 10/22/2020 – Action plan approved by mgr. 09/20/2020 – Kickoff meeting held.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "d258cbe3e58f256b6a8ab2bf916a0c90",
+    "text": "Risk, Issue, and Action Item Management Practices",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "e65b09ccfb8dce8d521aec6284a92d92",
+    "text": "12 2.109 Risk, Issue, and Action Item Management Practices Closure Rationale Reason for closing the item along with the name of approving manager. The item is no longer valid, the event has occurred, or the item is no longer considered a risk. Example: Mitigation plan has successfully completed and has reduced the probability of this risk occurring to less than 10%. Per approval of the project manager, Jane Doe, this risk can be closed. Note: Closure rationale should address the closure criteria or explain why the item can be closed without criteria being met. Contractor Coordinator The name of the IRS contractor employee assigned to edit, input, and/or update the ITRAC record. Date Identiﬁed Date the risk was identiﬁed. Decisions The Item Owner’s assessment of any key decisions that would impact suc- cessful closure of this item. Description Narrative of the issue and its impact on the organization. Example: Lack of compatibility of tools in environment is causing a 50% increase in workload for 10 people. Due Date Date resolution is needed by the program or a project(s) to resolve the issue or action item.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "6c1ebbcb8dcc47393b88070a5e5db4bd",
+    "text": "Note: Closure rationale should address the closure criteria or explain why the item can be closed without criteria being met.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a2c46ee22fcef8e6343558a4664a84d0",
+    "text": "The name of the IRS contractor employee assigned to edit, input, and/or update the ITRAC record.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "4a9aaa7f9f0983dee48aa51d1ae69b9c",
+    "text": "Issue, and Action Item Management Process 2.109.2 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "f29e628148f9d4421a6f9a64d84c4a3e",
+    "text": "This is a required database ﬁeld in the ITRAC system. Rating is the lative effect of a risk on the cost, schedule, technical performance, and effect on other Teams/Projects. A numerical rating for each of these",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "2d2fecac6067a35d7450d40c3b89243b",
+    "text": "areas is selected by the user. The overall impact rating for the Risk is generate by ITRAC and reﬂects worst potential in each of the four areas:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "6201111b83a0cb5b0922cb37cc442b9a",
+    "text": "and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "e5bc5e4c552ed8ea5865c9bef67fc92a",
+    "text": "= Low,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "841769cfa74f9a121ae4ac61aa586016",
+    "text": "= Medium,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "63b096802991279d3784cc3312ba9845",
+    "text": "= High,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "63f0afc064c1093a9270f48918deb405",
+    "text": "= Severe Cost Ratings: •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "5bd8dcea2d4292bdbe2887102eef804e",
+    "text": "Minimal or no impact •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "72f9bfbe46e01efcce23adb5d60fe8f4",
+    "text": "Additional resources required; able to meet need date •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "b49f6b60190383c31f5fe87327938ea1",
+    "text": "Minor slip in key milestones; not able to meet need date •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "6e0dbc5c77c3c8839f8e97b6baab0344",
+    "text": "Major slip in key milestones or critical path impacted •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "6d52a2b7659fd1f6e503cfc8d368772f",
+    "text": "Cannot achieve key team or major program milestone Schedule Ratings: •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "dfca36e70e24fa3e64beeaaf0302c9fd",
+    "text": "None or Minimal Impact (ex: < $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "0162ab9b5aec13ea7eb669eae91a539c",
+    "text": ") •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "0e872fb8c7d8a00e75bf97ce824fa07f",
+    "text": "Low (ex: $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "e241e8870f297e55c64f9056529706ce",
+    "text": "- $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "0162ab9b5aec13ea7eb669eae91a539c",
+    "text": ") •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "ad5c0067d1102a85481b18a6fcab4ccd",
+    "text": "Moderate (ex: $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "e241e8870f297e55c64f9056529706ce",
+    "text": "- $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "0162ab9b5aec13ea7eb669eae91a539c",
+    "text": ") •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "0351313d4739b95a3fcf5b1092415950",
+    "text": "High (ex: $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "e241e8870f297e55c64f9056529706ce",
+    "text": "- $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "0162ab9b5aec13ea7eb669eae91a539c",
+    "text": ") •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "c5c1c515ab46ab5f1f20b48decc5d737",
+    "text": "Severe (ex: > $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "8ba2dc809147fd762fb1c572f6f08cd5",
+    "text": ") Technical Performance Ratings: •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "5bd8dcea2d4292bdbe2887102eef804e",
+    "text": "Minimal or no impact •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "17443e762eb1e9ff4e3abb3bcb5d60cb",
+    "text": "Minor technical shortfall but no impact to requirements •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "81c234e62a332d9fc8ffb4adf2fdfb1d",
+    "text": "Moderate technical shortfall but workaround available which will eliminate impact to requirements •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "21ae34e9734619bf1171141999d3b595",
+    "text": "Major technical shortfall but work around available which will eliminate impact to requirements •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "9d1539bace61328aa05ee79b2b597a70",
+    "text": "Solution not meeting minimum technical requirements Impact on other Team Ratings: •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "ba4e60af3b161ecabb97808fbb8f2176",
+    "text": "None •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "e886edf52c65f3a56c905fe1f9ed116e",
+    "text": "Some Impact •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d7b38cb31f049d98a4a239b7fa0cb97d",
+    "text": "Moderate Impact •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "b13ed0bfcd3da1b3b868f8d5fef9a7ce",
+    "text": "Major Impact Unacceptable impact, may affect a release window A check box in the ITRAC system used by the User to identify project to be included on the CIO Risk Report. If checked, then this risk will be listed in the project’s CIO Risk Report. A check box used by the User to identify project risks to be included on",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "2cdd5e570149c37975d072d9e807968a",
+    "text": "Ratings:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "2fd6307b4d90b1b144ad528addb1b9ee",
+    "text": "Minimal or no impact",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "ceb3cf57f6d15f418c562ba6b24da5f2",
+    "text": "Additional resources required; able to meet need date",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "33ff6959f37b5967051b94901bfd2e98",
+    "text": "Minor slip in key milestones; not able to meet need",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "616597ecbc7e4d9403e7a29a923ffe85",
+    "text": "Major slip in key milestones or critical path impacted",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3b41d41da9da6f9eef8d99be45eafd8c",
+    "text": "Cannot achieve key team or major program milestone Ratings:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "dfca36e70e24fa3e64beeaaf0302c9fd",
+    "text": "None or Minimal Impact (ex: < $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "0e872fb8c7d8a00e75bf97ce824fa07f",
+    "text": "Low (ex: $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "e241e8870f297e55c64f9056529706ce",
+    "text": "- $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "ad5c0067d1102a85481b18a6fcab4ccd",
+    "text": "Moderate (ex: $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "e241e8870f297e55c64f9056529706ce",
+    "text": "- $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "0351313d4739b95a3fcf5b1092415950",
+    "text": "High (ex: $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "e241e8870f297e55c64f9056529706ce",
+    "text": "- $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "c5c1c515ab46ab5f1f20b48decc5d737",
+    "text": "Severe (ex: > $",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "d725a51ce1b072fc75d49814d93285d6",
+    "text": ") Performance Ratings:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "2fd6307b4d90b1b144ad528addb1b9ee",
+    "text": "Minimal or no impact",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "2781c0f361859c5ae65b6d3e3b7bede5",
+    "text": "Minor technical shortfall but no impact to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "61c03bd92390b5f1693a74a82e2f2277",
+    "text": "Moderate technical shortfall but workaround available eliminate impact to requirements",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "0fdf560900048c8bc3a26ec29ac38807",
+    "text": "Major technical shortfall but work around available eliminate impact to requirements",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "71581e686cd610fc1604783337e2517b",
+    "text": "Solution not meeting minimum technical requirements on other Team Ratings:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "dc937b59892604f5a86ac96936cd7ff0",
+    "text": "None",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "0402da42296c6a29c0bcf013faf5f34f",
+    "text": "Some Impact",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "a1b30d5c8f6c58550353b635b185f2ae",
+    "text": "Moderate Impact",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "fcf83ac4c8defef081f0dc5e570a291f",
+    "text": "Major Impact impact, may affect a release window",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "4f8865abeddbfab37520d0c56eed1bf1",
+    "text": "•",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "17443e762eb1e9ff4e3abb3bcb5d60cb",
+    "text": "Minor technical shortfall but no impact to requirements •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "81c234e62a332d9fc8ffb4adf2fdfb1d",
+    "text": "Moderate technical shortfall but workaround available which will eliminate impact to requirements •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "21ae34e9734619bf1171141999d3b595",
+    "text": "Major technical shortfall but work around available which will eliminate impact to requirements •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "26c92e5c20b730a3990f936e417c40f0",
+    "text": "Solution not meeting minimum technical requirements",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "ecfe05ac1648bd298a4339b5176ac202",
+    "text": "Unacceptable impact, may affect a release window",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "7755112d4264354f600d805148323b6d",
+    "text": "A check box in the ITRAC system used by the User to identify project to be included on the CIO Risk Report. If checked, then this risk will be listed in the project’s CIO Risk Report.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "565d349cc4c84b76fea5fff248ebfe99",
+    "text": "A check box used by the User to identify project risks to be included on the Risk Categories on the report. If checked, then this risk will be listed in the project’s Risk Categories Risk Report. The Risk Categories support the OMB E300 Risks.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "170b449d1ab891e8f6f0ef5b0a6b8cc5",
+    "text": "2.109 Risk, Issue, and Action Item Management Practices",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "c389f4051d9a38a1b7ef888ff64db44b",
+    "text": "Unique number for a risk, issue or action item. The number is automatically generated by the database and assigned to the item when it is entered the repository.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "7d8482b6a158901ac566abd44a531b5a",
+    "text": "Multiple entries containing the date of the entry and status of the mitigation activity. Status is listed in most recent date order.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "aa63d1bdb2dd51fcc91b0f91bdc9ee01",
+    "text": "Risk, Issue, and Action Item Management Process",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "3d8fca89d11f83609d5ad64e8b5b9fcb",
+    "text": "If a task does not have an Accountable role indicated then the Responsible role is assumed to be accountable for the task.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "7ac84c909efec4b03af949e8b9a82532",
+    "text": "Risk, Issue, and Action Item Management is a set of well-deﬁned program management processes and procedures designed to identify, analyze, report, and manage IT program or project risks, issues, and action items.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "170b449d1ab891e8f6f0ef5b0a6b8cc5",
+    "text": "2.109 Risk, Issue, and Action Item Management Practices",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "cf1acb7310a1d602a8f622b1421aa8db",
+    "text": "This is a required database ﬁeld for all ITRAC Items: • Project: It is a ﬁxed-duration endeavor undertaken with deﬁned start and stop dates to deliver a unique product, service or result. It repre- sents solutions to a speciﬁc business issue. Example: Customer Account Data Engine",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "57b79e8f42236ae113040b9a3eaea390",
+    "text": "(CADE",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "013f7106dbc30efd9c68a5cbb0743721",
+    "text": ") Transition State",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "ab8539f3cba38c03af55b3190fb3ee9b",
+    "text": "• Program: is to be selected if the item impacts a group of related project releases managed in a coordinated way which usually includes an element of ongoing work. It may impact projects that are concurrently executed with or without overlapping dates and can have more than one domain involved. Example: Foreign Account Tax Compliance Act (FATCA) (includes all project releases). • Domain is to be selected if the item impacts an area that contains similar project activities directed toward achieving a set of deﬁned functions in support of the agency’s mission and vision strategy Example: Submission Processing. • Enterprise Release: is to be selected if the item impacts a set of conﬁguration items including application software, hardware, systems software, telecommunications and procedures grouped together to be delivered to the Production environment at a certain point in time. A release will generally include components from across architecture, projects, programs, and domains. Example: Enterprise Architecture. • Portfolio: It is a custom view of a set of IT investments that is user deﬁnable. IT Portfolio Summary includes all IT resources for the IT Investments from all funding sources. Name of organization/person or event that identiﬁed the risk, issue; or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "7e9911a123b86e5a0c47d5a08a4c8031",
+    "text": "of organization/person or event that identiﬁed the risk, issue; item. Example: Risk Review Board Meeting - Tom Jones",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "d630c5024cc4fbd4ecf3bc1b8334eb13",
+    "text": "Risk, Issue, and Action Item Management Process 2.109.2 page 17 State Active Mitigation - a mitigation plan is currently being executed for the risk. • Candidate - Default when the risk is ﬁrst is entered into the reposi- tory. • Closed - the item is no longer opened, and all closure criteria have been met or it is no longer a risk, an issue or action item. • Escalated - the risk or issue has been escalated to a higher man- agement level. • Monitored - the risk is being watched, but no mitigation plan is currently active. • Open – the issue or action item is currently active and has not yet been resolved. • Withdrawn - the candidate risk has not been accepted for monitoring and potential mitigation. Note: Current life cycle state for a Risk is “Candidate, for an Issue or Action Item: “Open” (default state is set when an item is ﬁrst entered into the ITRAC database). Statement A clear, concise statement of the condition followed by a clear, concise statement of the consequence. The condition is a single phrase that brieﬂy describes the key circum- stances, situations, etc. causing the concern; The consequence is a single phrase that describes the potential event that will have a negative impact on the program/project. Example: If a new methodology is imposed on the project, then additional training costs will be incurred. Status Summary status of item",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "f0aabb7d1d0611606b3a1d5b8aff1f80",
+    "text": "Issue, and Action Item Management Process 2.109.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "15fa31fde4e9d2c509f1ac3723ca499e",
+    "text": "Active Mitigation",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "31dcb44cf304cabf17c7c4923952e1a7",
+    "text": "a mitigation plan is currently being executed for the risk.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "b2452d1eba32254aac41a394ae0ded97",
+    "text": "Candidate",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "26dc947b1d18a7d77c3cb19cedd54927",
+    "text": "Default when the risk is ﬁrst is entered into the reposi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "6ccbccf670295c6f7182e5c689d075a3",
+    "text": "tory.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "c21ead0614e7e1b70edb3759e1d19ca1",
+    "text": "Closed",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "9249c6aa5669fe98bacef2db6cbfb0d1",
+    "text": "the item is no longer opened, and all closure criteria have been met or it is no longer a risk, an issue or action item.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "b710aaaaa7ba3947021658f6f14450af",
+    "text": "Escalated",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "2a578e7e368557d6ce13de330706be4c",
+    "text": "the risk or issue has been escalated to a higher man",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "eb6f6366a2ea30cb71c358847762de67",
+    "text": "agement level.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "e7f9207f83fc70c2029a4141c354783b",
+    "text": "Monitored",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "d913fb136f38daf6bbe0c49b73dc399f",
+    "text": "the risk is being watched, but no mitigation plan is currently active.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "e6d756df4e9a2306e60250c62cbcbf40",
+    "text": "Open – the issue or action item is currently active and has not yet been resolved.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "00c0b03fcfa2ac02fc0be8f640ccb282",
+    "text": "Withdrawn",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "9955cefb5c9532a812a755afb477f571",
+    "text": "the candidate risk has not been accepted for monitoring and potential mitigation.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "0a2dd8102ddcd5eeb9cd681a19835a63",
+    "text": "Note: Current life cycle state for a Risk is “Candidate, for an Issue or Action Item: “Open” (default state is set when an item is ﬁrst entered into the ITRAC database).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "4360ac3d72a9116531c8df83d1e9ac75",
+    "text": "A clear, concise statement of the condition followed by a clear, concise statement of the consequence.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "73f637191f1bdabae2224352930bc402",
+    "text": "The condition is a single phrase that brieﬂy describes the key circum- stances, situations, etc. causing the concern; The consequence is a single phrase that describes the potential event that will have a negative impact on the program/project.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "ec1c36658891d7c8b989044232a18437",
+    "text": "Example: If a new methodology is imposed on the project, then additional training costs will be incurred.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "1983a62784bc61303c9a8342b8e5f862",
+    "text": "18 2.109 Risk, Issue, and Action Item Management Practices Status of Mitigation/ Indicator of the overall status of the mitigation plan is calculated by ITRAC. Management Plan • Green: all open activities have started as scheduled. • Yellow: one or more activities have not started as scheduled. • Red: one or more activities have not completed as scheduled or the probable impact date or due date has passed. N/A: Risk is not in the Active Mitigation State, and probable impact date has not passed Title Title containing keywords that brieﬂy identify the Condition and Conse- quence of the risk (max 120 characters). This title is used in summary level reports to identify the risk. Example: A new methodology is imposed on the project which would incur additional training costs. This description is used in summary level reports to identify the issue or action item. Example: Lack of tools compatibility in the development environment. (1) Acronyms Acronyms Description ACIO Associate Chief Information Officer CADE2 Customer Account Data Engine 2 CIO Chief Information Officer ELC Enterprise Life Cycle",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "d258cbe3e58f256b6a8ab2bf916a0c90",
+    "text": "Risk, Issue, and Action Item Management Practices",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "ad5a1e3f106971d8384039f19e36e479",
+    "text": "Example: A new methodology is imposed on the project which would incur additional training costs.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "d5da59d19ce08721fbc671aa16dfe049",
+    "text": "description is used in summary level reports to identify the issue or item. Example: Lack of tools compatibility in the development",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "6e67953d0873bcff2fd2ee313e770f2f",
+    "text": "Acronyms Description ACIO Associate Chief Information Officer CADE2 Customer Account Data Engine 2 CIO Chief Information Officer ELC Enterprise Life Cycle FATCA Foreign Account Tax Compliance IPM Integrated Process Management",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "be7779d7d74cb152784816845d1db951",
+    "text": "Issue, and Action Item Management Process",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "db88ee91c20b64694d4a568a6aa5a1ab",
+    "text": "Action Item Management Process 2.109.2 page IRM Internal Revenue Manual IRS Internal Revenue Service IT Information Technology ITRAC Item Tracking Reporting and Control OMB Office of Management and Budget PCLIA Privacy & Civil Liberties Impact Assessment RACI Responsible, Accountable, Consulted and Informed ROI Return-on-Investment SEID Standard Employee Identiﬁer SME Stakeholder and Subject Matter Expert TIGTA Treasury Inspector General for Tax Administration",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "d364444cbd490813fe9ef78db15c2aa1",
+    "text": "The following sources were used to develop and/or support this process. • Risk, Issue, and Action Item Management Policy IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "78427a201880b0e73d77aa31905ee44f",
+    "text": "Process training involves training all stakeholders about key processes that crucial for an organization to deliver business objectives. Training provides clarity to employees on a set of procedures that needs to be carried out as part of the process and the best possible way to do them. List below the training resources available for this process: • PM IT Risk Management (Formerly Software Risk Management) – Course",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "42950f1b1b540360e9533fc04411d890",
+    "text": "• SKSBS Identifying Risks in Your Organization – Course",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "f151bbfab171a0299685b01f4f188be9",
+    "text": "• SKSBS Risk Management: Identifying Risk – Course",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "7fbe91ff4065257c6d24f46ac8afedac",
+    "text": "• SKSBS IT Project Management Essentials: Managing Risks in an IT Project – Course",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "cdbbbbe2dc6e776fe0d83b3aaa49a3b7",
+    "text": "• SKSBS IT Project Management Essentials: Monitoring and Controlling IT Projects – Course",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "539f8b2d2543a33aeb5994d11daa59fd",
+    "text": "A process workﬂow consists of Activities and Tasks, Inputs and Outputs, and Flow Diagrams. It describes the tasks, procedural steps, organizations people involved, required input and output information, and tools needed for each step of the process. The following ﬁgure graphically depicts the roles, activities, and steps for activity within the Risk, Issue, and Action Item Management process.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "123f76bc48e805a28a6f57f900914fcc",
+    "text": "2.109.2.1.7 (02-28-2020) Related Resources",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "b726d632c8e0f02816bbb124771285dd",
+    "text": "Process training involves training all stakeholders about key processes that are crucial for an organization to deliver business objectives. Training provides clarity to employees on a set of procedures that needs to be carried out as part of the process and the best possible way to do them. List below the training resources available for this process:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "8c57cc74a1fd11c51d2f4404aa0e96ec",
+    "text": "PM IT Risk Management (Formerly Software Risk Management) – Course",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "99897ff7c2481a797570446df2f320cc",
+    "text": "SKSBS Identifying Risks in Your Organization – Course",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "ee7f367262b21edb4a264507d4fe8e78",
+    "text": "SKSBS Risk Management: Identifying Risk – Course",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "bb3eb69c3a6ead9f89c055600c8c6900",
+    "text": "SKSBS IT Project Management Essentials: Managing Risks in an IT Project – Course",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "69de189534e13647c4e6593d2af07681",
+    "text": "SKSBS IT Project Management Essentials: Monitoring and IT Projects – Course",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "5ab011dd02dab3f27e424a720ea8b7ef",
+    "text": "A process workﬂow consists of Activities and Tasks, Inputs and Outputs, Roles, and Flow Diagrams. It describes the tasks, procedural steps, organizations or people involved, required input and output information, and tools needed for each step of the process.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "3d4d8862d50b6d21e35b220af4b10d2c",
+    "text": "The following ﬁgure graphically depicts the roles, activities, and steps for each activity within the Risk, Issue, and Action Item Management process.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "170b449d1ab891e8f6f0ef5b0a6b8cc5",
+    "text": "2.109 Risk, Issue, and Action Item Management Practices",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "6fa78335a4e20e9ec85952c221616805",
+    "text": "Risk, Issue, and Action item Management Processet P — Risk derttestion it dentncaton ik dantcaton 1.5 | Rk laenicaton 1| | Rk idemitoaton 1.7:|Moot | [ 1% kdenitya »| 1. Develop closure ‘Submit tho candicae Ideatit responibie nter the candidecandidate risk criteria. risk i ‘manager and roposiory 12 T sk itgat Risk MitigationRisk Analysis and | sk Ana Rk A \" Risk itigation Planning sk Miigation Planming andb \" sk Analysis and natysis an Risk Analysis and i\\ Planning and go e W Valition 1. YESP  Vaidation 1.3 & Vaiaation 14 Updzte || N9 Eecuton t1: Faid p| Erecuton iofthecanddsto e || Dot dsposton Analyze therisic th riskin repository oo Develop the iigaion planmitigation plan|Risk MitigationPlanning andRisk ManagementWas the skmitigatod?NO——sk dispositionYes| Risk itigation Planning and| Exocuton' - Udte o ik| repasitory|i2 |£ v :2 ‘ ! |2 || ke sk s Moot sk s Hooting | sk ans e osting ik an s eting JFkard e Hootg |$5 || eomimmil, | oty s Reporg 13 o et v s Ropertny 1 i uoe |£3 oduce peradc dt oo nex seprt o oo | oo mesings Comiues s masinga o |28 | Ib IH I3 |2 - - - |2 Ii£5 — .H ; ;£ ssue Managoment || o anagamont lesue Mansgement 14| | tssue Managemant | | fssue Management 1.5 [ —— o Managemnts 11: Defino the no% | by 1.2: Detormina tho Entor issun into the 1.5: Disposition the ‘Dovelon mansgoment | Perform and monilor st ManagerorF Tisk ‘scope of the issue ITRAC repository issue. plan { planned activifies ha:H L | ] |BT nction egt | Actionltem Action ftem Management Action ftemg H H ion Management 1.4; Management 1.5: Management 1.7:2 § |t Action llem ’: oot 4 Action Py | Develop action plan Exscuts action pian l;m-‘ anar 73;\" ot actonWanagoment 1.1 Management 1.2: - | cion e i-] i \" Enter action item in required?8 || oetineactionitom Assign item owner g TRAC reontory5g |SFiaure 2.109 2-1 Risk lssue. and Action tem Manaaement Process",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "3371dcfe0526b27aa5afa3081bad017e",
+    "text": "Risk, Issue, and Action item Management Process",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "9015161373ddf9720986d9fcba33e706",
+    "text": "Figure 2.109.2-1 Risk, Issue, and Action Item Management Process",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "4635788237eebb4c0ef8d4380eab6c09",
+    "text": "Process inputs are used as triggers to initiate the process and to produce the desired outputs. Users, stakeholders or other processes provide inputs. The following is a list of inputs for this process:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "a1923fb8f2a7315b464871fd0c1ffc93",
+    "text": "Name Description Supplier A risk event A potential risk to the Program Manager or cost, schedule or per- Project Manager or formance of an IT Responsible Manager program or project is or Team Member or identiﬁed SME or Stakeholders Materialized risk A previously identiﬁed Program Manager or event risk is realized. Project Manager or Responsible Manager or Team Member or SME or Stakeholders",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "be7779d7d74cb152784816845d1db951",
+    "text": "Issue, and Action Item Management Process",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "88d75cbe45273950075cc1d090464006",
+    "text": "page Reports Generate the item Program Manager or reports as necessary Project Manager or to support manage- Responsible Manager ment needs. or Team Member or SME or Stakeholders Issue An event that has Program Manager or impact on the Project Manager or program or project Responsible Manager ability to achieve its or Team Member or goal. SME or Stakeholders Problems or issues The issues at hand Senior Executive discussed at that have been Executive meetings discussed at Executive level meetings and require immediate attention. Action Item A short-duration, Senior Executive, minimal resources Program Manager or activity assigned to a Project Manager or member or stake- Responsible Manager holder in the program/project or organization. An action item must be within the scope of the duties currently assigned to the member or stake- holder in the program/project or organization.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "60e709e3d58b13f7ca425f17bb8abb39",
+    "text": "Each process produces tangible outputs. These outputs can take the form of products or data and can be delivered to a user or stakeholder or they can be used as inputs to other processes. Outputs are measurable in terms of quantity and quality.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "99e306c6246381a16588adb6d6d472ff",
+    "text": "Below is the process output table.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "7b6a507da420490ad5e35b26886c1c10",
+    "text": "Name Description Recipient Candidate risk A candidate risk that Program Manager or has been accurately Project Manager or recorded in the risk Responsible Manager repository. or Team Member or SME or Item Owner or Item Coordinator",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "170b449d1ab891e8f6f0ef5b0a6b8cc5",
+    "text": "2.109 Risk, Issue, and Action Item Management Practices",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "c33021145eeacb67eb7ec70b7a6e863f",
+    "text": "and Action Item Management Process 2.109.2 page 23 An closed Action An action item that is Item Coordinator Item executed, no longer valid no longer con- sidered an action item, escalated or closed.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "8e5e04bdda5edee0c90630547b2e9f17",
+    "text": "An activity is a major unit of work to be completed in achieving the objectives of the process. A process consists of a sequence of related activities that transforms inputs into outputs and performed by the roles deﬁned in the process. Activities are measurable in terms of efficiency and effectiveness. Identify the activities in the process and provide a brief description. The activi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "d1fced1bc371d4057db4bbdd39d739c5",
+    "text": "ties must correspond with the high",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "dfa6a167b6705f3bd84542580a72faff",
+    "text": "level process ﬂow diagram above.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "e7db061cb698b8a0875840c7f117c59a",
+    "text": "ID Name Description 1.0 Risk Management Process This activity includes identify- ing a potential risk that could potentially prevent the program, or project from achieving its objectives. As- sessment of the risk to determine whether the potential event is of signiﬁ- cance to the organization. Determination of the mitiga- tion strategies that will be performed to minimize or avoid the risk. 2.0 Issue Management Determination of the manage- Process ment strategies that will be performed to minimize the issue. 3.0 Action Item Management The management of action Process items resulting from signiﬁcant program or project level meetings.. 4.0 Risk and Issue Meeting This process is an iterative and Reporting Process allows the program and/or project team to identify, cat- egorize, prioritize, and mitigate or avoid issues, uses progress status reports and deliverable status to monitor and control risks and issues.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "bdb67688420097a0fd9cc84ba2937b9a",
+    "text": ") Risk Management is the identiﬁcation, assessment, and prioritization of risks followed by coordinated and economical application of resources to minimize, monitor, and control the probability and/or impact of unfortunate events or to maximize the realization of opportunities. • Risk identiﬁcation allows individuals to identify risks so that the project team becomes aware of potential problems. Not only should risk cation be undertaken as early as possible, but it also should be repeated frequently. • Risk analysis transforms the estimates or data about speciﬁc risks that developed during risk identiﬁcation into a consistent form that can be used to make decisions around prioritization. Risk analysis enables stakeholders to commit resources to manage the most important risks. • Risk validation takes the information obtained from risk analysis and uses it to formulate strategies, plans, change requests, and actions. Risk validation ensures that these plans are approved and then incorpo- rated into the standard day-to-day processes and infrastructure. • Risk control and mitigation is the process of executing risk action plans and their associated status reporting; the development of mitigation plans designed to manage, eliminate, or reduce risk to an acceptable level. Risk control and mitigation also includes monitoring risks, identify- ing new risks, prioritizing mitigation alternatives, and evaluating risk process effectiveness throughout the project. This requires that detailed descriptions of the risk mitigation plans, mitigation activities, and closure rationale are captured, and closure documentation is entered into the ITRAC for all IT organization program and projects risks, as applicable. • Risk tracking monitors the status of speciﬁc risks and the progress in their respective action plans. Risk tracking also includes monitoring the probability, impact, exposure, and other measures of risk for changes that could alter priority or risk plans and ultimately the availability of the service. Risk reporting ensures that the operations staff, service manager, and other stakeholders are aware of the status of top risks and the plans to manage them. Each program or project is required to conduct periodic reviews of the risk descriptions and documentation entered into the ITRAC to ensure that the information is appropriate, current, complete, and accurate.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "d4e3b048970eee799f553515d67f1fd6",
+    "text": "service. Risk reporting ensures that the operations staff, service manager, and other stakeholders are aware of the status of top risks and the plans to manage them. Each program or project is required to conduct periodic reviews of the risk descriptions and documentation entered into the ITRAC to ensure that the information is appropriate, current, complete, and accurate.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "feab270c74fb14798936b0f93c8f6ce0",
+    "text": "During the risk management process, develop appropriate action plans to reduce the risks from impacting to program or project goals and objectives. Conduct periodic reviews of the risks to ensure that all mitigation activities are being implemented, monitoring previously identiﬁed risks, and reevaluating existing risks to verify the planned risks response strategies for their effective- ness. Validate risk mitigation strategies and alternatives. Reassess the risk as necessary, monitoring any triggers associated with the risk.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "e6907300d90849421e499ab8d6f0f444",
+    "text": "Issue, and Action Item Management Process 2.109.2 page 25",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "18756c7866742b04068952bc50aeb7a5",
+    "text": "Capture any new identiﬁed actions to be taken and track risk response. Priori- tize risks for subsequent ongoing management based on their likelihood of occurrence and potential impact. Set realistic due dates and then work to meet the dates.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "63e21adc454540be27ab0f8624e8a323",
+    "text": "Update ITRAC with detailed analysis and assessment of the risk and with speciﬁc mitigation plan activities for the risk. Take corrective action when actual events occur. Identify new risks resulting from risk mitigation actions. Attached any documents as necessary that capture the results of mitigation actions. Communicate status and risk response follow-through as",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "6088f6102d10642b8c0ac4f0ba980b5e",
+    "text": "The following table depicts the tasks and roles for each activity in the Risk Management process.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "4e37392b5edf61c344525bc11acc6577",
+    "text": "ID Task Name Role RACI Duties and Descrip- tion Risk Identiﬁca- Identify a Item Identiﬁer R As appropriate, involve people who tion 1.1 candidate risk understand the program, project, domain and environment in working This activity session to draw on available team and includes identi- stakeholder experience. fying a potential risk and providing clear and concise informationabouttheriskanditscontext. Use the techniques such as brain- storming or a checklist during the meeting to aid in identifying candidate risks.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "56afdd2597901d542854a3453eee1cfa",
+    "text": "26 2.109 Risk, Issue, and Action Item Management Practices Examine and evaluate the program or project environment and available documentation; work that has been done previously to determine its adequacy for the program or project, in general or at a particular phase of the program or project. Pay close attention to missing information that must be obtained from sources outside the program or project. Evaluate the business and technical performance requirements that the project must achieve. Determine the operational (functional and environmental) conditions under which the key performance areas or key performance parameters are measured. Pay close attention to re- quirements that are not clearly stated or stable. Identify the engineering processes being applied. Evaluate the reasonableness of the schedule estimate and whether the schedule is sufficient for the work required to be performed.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 30
+    }
+  },
+  {
+    "element_id": "1e672eb70a36497e629050822e791faf",
+    "text": "Risk, Issue, and Action Item Management Process 2.109.2 page 27 Evaluate the reasonableness of the cost estimate and determine whether the planned (or budgeted) cost is feasible for the work required to be performed. Insufficient resources (personnel, funds, schedule, and tools necessary for successful development and deployment of the project) are a common and serious risk. Examine dependencies upon other or- ganizations. Cross-project dependencies and dependencies on other program level organizations are a normal part of managing a large program. Only include a dependency as a risk when there is some external event that may cause a condition where the other organization cannot meet a commit- ment on your critical path. The existence of a dependency does not automatically constitute a risk. Examine underlying assumptions that deﬁne the success, direction, or existence of the organization such as executive management sponsorship and funding.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 31
+    }
+  },
+  {
+    "element_id": "31a03d7e198fe52eadf12703bb486447",
+    "text": "page 28 2.109 Risk, Issue, and Action Item Management Practices Document all candidate risks identiﬁed during the review and analysis phase and maintain all available documenta- tion. For each identiﬁed candidate risk: • Note the date that the candidate risk was identiﬁed • Note the source or event where the candidate risk was identiﬁed • Create a title for the risk that captures identifying keywords • Develop a risk statement that clearly communicates the risk to management, at all levels, and is sufficiently descriptive and speciﬁc to allow review by the responsible manager to assess its validity as a risk. A risk statement contains two parts: • Cause - a clear, concise statement of the condition. This is a single phrase that brieﬂy describes the key circumstances, situations, etc. causing the concern. • Impact - a clear, concise statement of the conse- quence. This is a single phrase that describes the potential event that will have a negative impact on the program/project.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "40e5fa6f7345afb9f714c44490c2e14e",
+    "text": "during the review and analysis phase and maintain all available documenta",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "907b7e50665ec1d10a48187c0da2cf7c",
+    "text": "tion. For each identiﬁed candidate risk:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "809edaf15a861958ba4f7409f0317b11",
+    "text": "Note the date that the candidate risk was identiﬁed",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "0720b783a8371c1f2df58a48c856db3e",
+    "text": "Note the source or event where the candidate risk was identiﬁed",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "0e8c0207d1021638400057ebd870d939",
+    "text": "Create a title for the risk that captures identifying keywords",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "bd2c5779dc722f754edb5152ae402322",
+    "text": "Develop a risk statement that clearly communicates the risk to management, at all levels, and sufficiently descriptive and speciﬁc to allow review by the responsible manager to assess its validity as a risk. A risk statement contains two parts:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "7ba6317aefb0fec5ce658adf785cc80f",
+    "text": "Cause",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "de2d8d7a88fd59578a7ad91a8776cb36",
+    "text": "a clear, concise statement of the condition. This is a single phrase that brieﬂy describes the key circumstances, situations, etc. causing the concern.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "d1f23f0d13613e27a88662a70ea79ccf",
+    "text": "Impact",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "778b0da8ce51df0bd46f8b474c68f132",
+    "text": "a clear, concise statement of the conse",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "874b3afdf040dd6645c6448959e92811",
+    "text": "quence. This is a single phrase that describes the potential event that will have a negative impact on the program/project.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 32
+    }
+  },
+  {
+    "element_id": "be7779d7d74cb152784816845d1db951",
+    "text": "Issue, and Action Item Management Process",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "19a8a4c46e4ef86f5c67f5ef7f4d1fb2",
+    "text": "Risk, Issue, and Action Item Management Process 2.109.2 page 29 Risk Identiﬁca- Determine the Item Identiﬁer R Using available information, assess the tion 1.2 scope of the scope of the risk. risk Responsible C This activity Manager includes using all available information to determine the As necessary, engage the Responsible scope of the Manager, other stakeholders and risk. SMEs in determining the scope of the risk. Assess cross project and other external dependencies that may identify other program/projects or orga- nizations impacted by the risk. Determine if the risk is limited to a speciﬁc project, program or domain, or enterprise wide. Document all areas impacted by the risk.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 33
+    }
+  },
+  {
+    "element_id": "2968f1e1667d1e371dc18863bb7e4d05",
+    "text": "page 30 2.109 Risk, Issue, and Action Item Management Practices Risk Identiﬁca- Estimate the Item Identiﬁer R Review related program/project tion 1.3 probable date schedules and related information for of impact. impacted areas. ResponsibleManager A The purpose of this activity is to review related program/projectschedulesand As necessary, engage the Responsible related informa- Manager, other stakeholders and tion for SMEs in determining the scope of the impacted areas. risk. Assess impact date of cross project or external dependencies which may con- tribute to impact of the risk. Estimate and document a probable date when the candidate risk event could begin to negatively impact the program/project or organization entities.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 34
+    }
+  },
+  {
+    "element_id": "be7779d7d74cb152784816845d1db951",
+    "text": "Issue, and Action Item Management Process",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "d8c84e0025fdaef6e758797e93600e2a",
+    "text": "page 31 Risk Identiﬁca- Develop closure Item Identiﬁer R Using available information, research tion 1.4 criteria possible criteria that would clearly indicate when a risk should be closed. This activity Responsible A involves using Manager available infor- mation,researchpossiblecriteriathatwould As necessary, engage the Responsible clearly indicate Manager, Item Coordinator and other when a risk stakeholders and SMEs in determining should be the closure criteria. closed Develop and document objective closure criteria that will be recom- mended for determining the closure of a speciﬁc risk.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 35
+    }
+  },
+  {
+    "element_id": "ea5ed8d3918b7622fa5688b9ad1662e7",
+    "text": "2.109 Risk, Issue, and Action Item Management Practices Risk Identiﬁca- Submit the Item Identiﬁer R Assemble risk related information de- tion 1.5 candidate risk termined in activities A1 – A4: This activity involves submit- • Risk Title ting for review. • Risk Statement • Date Identiﬁed • Risk Identiﬁer • Risk Source • Risk Scope • Responsible Manager and Orga- nization • Probable Impact Date • Closure Criteria Record information in an acceptable format, such as the Risk Template available on the Risk Management website at https://portal.ds.irsnet.gov/ sites/ITSPRiskManagement. Forward required candidate risk infor- mation to the Responsible Manager for review. As requested, support the Item Coordi- nator by providing additional informa-",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 36
+    }
+  },
+  {
+    "element_id": "01fc9be7bdaf1d6226fd6eb2e0fb59c9",
+    "text": "Risk, Issue, and Action Item Management Process 2.109.2 page 33 Risk Identiﬁca- Identify the re- Responsible R Review and validate correctness, com- tion 1.6 sponsible Manager pleteness, and understandability of all manager and recorded risk information, and organization determine level of analysis required. Based impacted program or projectdetermine re- sponsibility of the risk. Based on program/project and organi- zational areas that have been identiﬁed as impacted areas, identify the respon- sible manager and organization for each impacted area. As necessary, engage stakeholders and SMEs in determining the respon- sible managers/organizations. Determine and note the Responsible Manager/Organization with the greatest potential impact. If a Responsible Manager cannot be identiﬁed, at a minimum determine the Responsible Organization. Forward required candidate risk infor- mation to the Item Coordinator for entry into the ITRAC Repository.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "be7779d7d74cb152784816845d1db951",
+    "text": "Issue, and Action Item Management Process",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 37
+    }
+  },
+  {
+    "element_id": "170b449d1ab891e8f6f0ef5b0a6b8cc5",
+    "text": "2.109 Risk, Issue, and Action Item Management Practices",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "3be5a09ddcdf730c4eb8ccca8e00f76e",
+    "text": "Risk Identiﬁca- Enter the Item Coordina- R Review candidate risk information for tion 1.7 candidate risk tor completeness and accuracy. in repository Create a new Responsible A Risk item in Manager ITRAC and enter candidate risk information As required request additional informa- in the system. tion or clariﬁcation from the Item As necessary Identiﬁer. engage the Re- sponsibleManagerand/orotherstakehold-ersinvalidatingorcorrectingsubmittedinfor- As needed, engage the Responsible mation. Manager to validate or correct submitted information. If there are any changes to the submitted candidate risk information, these changes should be coordinated with the Item Identiﬁer. Create a new Risk item in ITRAC. Projects may use the Risk Template as a guide of required information necessary for input into ITRAC.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 38
+    }
+  },
+  {
+    "element_id": "c8fa0217be5be3990e6a3ba01825bc03",
+    "text": "page 35 NOTE: All IT projects shall record and maintain risks and issues, in the Item Tracking Reporting and Control (ITRAC) repository with the exception of Cybersecurity, which shall record and maintain all IT risks and issues in Archer. ITRAC serves as the authorita- tive source of IT projects’ Risk information at Internal Revenue Service. Notify the Responsible Manager and Item Identiﬁer that a new risk item has been created and provide the unique Risk ID assigned by ITRAC. Risk Analysis Perform an Responsible R Review the risk attributes to determine and Validation analysis of the Manager whether the information (such as the 1.1 candidate risk risk statement, probable impact date, and close criteria) is speciﬁc, complete, This activity accurate, and understandable. Work includes per- with the Item Identiﬁer and SME to forming a obtain clariﬁcation where necessary. preliminary as- sessment of the risk. Perform a preliminary assessment of the risk to determine whether the potential event is of such signiﬁcance to the organization that additional resources are warranted to perform further analyses and possible mitiga- tion planning.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "146f54b198193d04b99a97cd4f63f1a8",
+    "text": "Perform a preliminary assessment of the risk to determine whether the potential event is of such signiﬁcance to the organization that additional resources are warranted to perform further analyses and possible mitiga",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "a329a08e506d8402331714cd68aa04fb",
+    "text": "tion planning.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 39
+    }
+  },
+  {
+    "element_id": "c1fec8259fb53241bbd97137af92eabb",
+    "text": "36 2.109 Risk, Issue, and Action Item Management Practices Risk Analysis Determine dis- Responsible R If the Responsible Manager decides and Validation position Manager the candidate risk is not a valid risk, 1.2 the risk is withdrawn. The purpose of this activity is Item Identiﬁer for the Respon- sible Manager to determine C If the Item Identiﬁer disagrees with the the disposition Responsible Manager that a candidate of the risk. risk is not a valid risk, the Item Identi- ﬁer can escalate the risk to the next level of management for resolution. If the Responsible Manager decides the candidate risk belong another to the organization, the risk is transferred to that organization. The risk remains in the “Candidate” state, if transferred, until the receiving organization validates the risk. After the risk is validated (accepted), the risk state is set to “Monitored” or “Active Mitigation” in the risk repository. Inform the Item Coordinator and identify an Item Owner. Assign a Item Owner to evaluate the risk parameters. The Item Owner is typically an organization member with expertise in the subject of the risk and experienced in evaluating risk param-",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "a3dc1e224275dc48333a688f220ea452",
+    "text": "Assign a Item Owner to evaluate the risk parameters. The Item Owner is typically an organization member with expertise in the subject of the risk and experienced in evaluating risk param",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "fe93ed088d3d0ec030bc35d03e22226b",
+    "text": "eters",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 40
+    }
+  },
+  {
+    "element_id": "c8aa9473576089e3f212e938f40cda37",
+    "text": "Risk, Issue, and Action Item Management Process 2.109.2 page 37 Risk Analysis Analyze the risk Item Owner R The Item Owner will analyze the risk to and Validation develop a mitigation plan for the risk. 1.3 If the risk is The Item Owner will review related validated program/project schedules and related (accepted), a information for impacted areas such risk owner is as: assigned to analyze the risk. Detailed Impact Description: Create a detailed description of the anticipated impact of the risk on the organization. Assumptions may be made to develop a reasonable impact cost. This could include potential loss of skilled resources, additional resource costs to retain staff or contractors for extended time periods, impacts to other organi- zations or projects, schedule slips, and any other consequences attributable to the occurrence of the risk. Ensure that detailed descriptions of the risk mitiga- tion plans, mitigation activities, and closure rationale are captured, and entered into the ITRAC for all IT orga- nization program or projects risks. Probability: Assign probability to risk. Risk Analysis Update the risk Item Coordina- R Record any changes to risk attributes and Validation in the repository tor resulting from reﬁnements made during 1.4 analysis and validation of the Record any candidate risk in ITRAC. The following changes to risk Item Owner additional information is required for a attributes validated risk: resulting from reﬁnements I • Detailed Impact Description made during • Names of Responsible Manager review and vali- and Item Owner dation of the • Probability and impact candidate risk in the risk re- pository.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "be7779d7d74cb152784816845d1db951",
+    "text": "Issue, and Action Item Management Process",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "de97bc10402bc1c4a186f1087e57c393",
+    "text": "Detailed Impact Description: Create a detailed description of the anticipated impact of the risk on the organization. Assumptions may be made to develop a reasonable impact cost. This could include potential loss of skilled resources, additional resource costs to retain staff or contractors for extended time periods, impacts to other organi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "fa871be8c03a6a90c9469b0d9c65f06c",
+    "text": "zations or projects, schedule slips, and any other consequences attributable to the occurrence of the risk. Ensure that detailed descriptions of the risk mitiga",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "019d3c1b631c10255f1f6a562e5f5840",
+    "text": "tion plans, mitigation activities, and closure rationale are captured, and entered into the ITRAC for all IT orga",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "799d0ff94136f9b8215b19f1042bb55d",
+    "text": "nization program or projects risks.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "cb31516dd203644c47916cdb00912e3e",
+    "text": "Probability: Assign probability to risk.",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 41
+    }
+  },
+  {
+    "element_id": "ac25f11198887e17830a18ae300ed37b",
+    "text": "38 2.109 Risk, Issue, and Action Item Management Practices Risk Mitigation Determine the Item Owner R Determine which strategy is the most Planning and mitigation effective basis for a mitigation Execution 1.1 approach approach. For example, the Item Owner may select an approach that guarantees maintenance of the organi- A zation schedule but has a high cost. The purpose of Responsible Or, the Item Owner may select an this activity is Manager approach that stays within cost bound- determined aries but extends schedule. which strategy is the most effective basis for a mitigation approach. There are four common strategies for managing risks: • Risk Control seeks to contain the effects of a risk (but not to eliminate the source of the risk) through direct management ac- tivities that reduce the risk’s likelihood of occurrence and/or its impact to the organization. • Risk Acceptance acknowledges the existence of a particular risk and makes a deliberate decision to accept the risk without engaging in special efforts to control the risk. This is most effective during the planning phase of a project or other sig- niﬁcant effort. • Risk Avoidance seeks to eliminate the sources of a risk and replace them with a lower risk solution. This is most effective during the planning phase of a project or other sig- niﬁcant effort and caution should be given when considering this strategy. • Risk Transfer reallocates the risk from one organization to another. This process can involve the reallocation of risks within Contractors’ organizations, to IRS organizations, or to IRS organizations not directly involved in the project/program/ organization",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "170b449d1ab891e8f6f0ef5b0a6b8cc5",
+    "text": "2.109 Risk, Issue, and Action Item Management Practices",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "8560e23b04b1ea9cf53429a74335d141",
+    "text": "Risk Control seeks to contain the effects of a risk (but not to eliminate the source of the risk) through direct management ac",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "8f74ab910d429b9980cb253e2cdaf404",
+    "text": "tivities that reduce the risk’s likelihood of occurrence and/or its impact to the organization. Risk Acceptance acknowledges the existence of a particular risk and makes a deliberate decision to accept the risk without engaging in special efforts to control the risk. This is most effective during the planning phase of a project or other sig",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "5d15c8fb666193b4288057cc83b7f7cb",
+    "text": "niﬁcant effort. Risk Avoidance seeks to eliminate the sources of a risk and replace them with a lower risk solution. This is most effective during the planning phase of a project or other sig",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "ab6a4add7e79a054d503876efa7d8446",
+    "text": "niﬁcant effort and caution should be given when considering this strategy. Risk Transfer reallocates the risk from one organization to another. This process can involve the reallocation of risks within Contractors’ organizations, to IRS organizations, or to IRS organizations not directly involved in the project/program/ organization",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 42
+    }
+  },
+  {
+    "element_id": "79b99b4f4f7c8f4afc42d339099553e5",
+    "text": "Risk, Issue, and Action Item Management Process 2.109.2 page 39 Summarize the mitigation approach in a three or four sentence paragraph that speciﬁes the strategy selected and the goal of the mitigation approach in ITRAC. Risk Mitigation Develop the Item Owner R Develop actions to be taken to mitigate Planning and mitigation plan risks. Deﬁne each mitigation activity as Execution 1.2 a bounded activity with a measurable A result. Ensure that completing all the The purpose of mitigation activities results in satisfying this activity is to the overall risk close criteria. develop actions Responsible to be taken to Manager mitigate risks. Mitigation plans do not replace current task plans; they drive necessary work into the normal program/project man- agement processes where they can be scheduled and staffed. Identify an owner for each activity in the mitigation plan. The Activity Owner must have the expertise and the authority to implement the speciﬁc activity. If the Activity Owner does not belong to the Item Owner organization, then the Item Owner has to have acceptance of the activity from the Activity Owner.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 43
+    }
+  },
+  {
+    "element_id": "003d6b826efe7030c6b169311e50a3c7",
+    "text": "page 40 2.109 Risk, Issue, and Action Item Management Practices Verify that the probable impact date of the risk is still valid. Review task schedules, cross-project dependencies, and program level orga- nization dependencies to verify the probable impact date. Schedule a start and complete date for each activity. Allow for recovery time within the plan if activities slip. Ensure that all the mitigation activities are scheduled for completion before the probable impact date of the risk. Estimate the cost of each mitigation approach, including labor and materials. The cost can be a gross estimate; however, it must be sufficient to enable the Responsible Manager to make trade-offs when recommending where scarce organization resources should be spent to mitigate risks.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 44
+    }
+  },
+  {
+    "element_id": "886e175595257c0e06f419dc57970654",
+    "text": "Risk, Issue, and Action Item Management Process 2.109.2 page 41 Identify any costs estimated in the current task plan that will not be incurred if the mitigation plan is executed. Estimate the cost of several different mitigation strategies, if appropriate, to select the most cost-effective approach compared to the impact cost of the risk. Risk Mitigation Execute the Item Owner R Accept the mitigation plan. Planning and mitigation plan Execution 1.3 The Item Owner initiate A mitigation activi- ties. Activities includes to estimate the cost of each mitigation approach, including Responsible labor and materials as well as Manager resources. The cost of the mitigation plan should be relative to the criticality and impact cost of the risk. The cost of the mitigation plan relative to the criticality and impact cost of the risk are factors considered by the Re- sponsible Manager in accepting the mitigation plan for implementation.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 45
+    }
+  },
+  {
+    "element_id": "8621956f7b073479a8fb66f90868399e",
+    "text": "page 42 2.109 Risk, Issue, and Action Item Management Practices A high-level assessment of three key areas (resources, key decisions and interfaces) should be considered by the Responsible Manager in mitigation planning as well. Set the risk state to Active Mitigation in ITRAC and direct the Activity Owners to begin mitigation activities. Assess completion status of each activity and the effectiveness of the expected results. Adjust plan as necessary to achieve results as directed by the Responsible Manager. Re-plan the mitigation plan if the goal or mitigation strategy must be changed to achieve success or there is signiﬁ- cant impact to the project (e.g. in case the original mitigation plan fails to solve the problem). Record the current status of mitigation activities in the mitigation plan. Review and update the status of mitigation ac- tivities in ITRAC.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 46
+    }
+  },
+  {
+    "element_id": "be7779d7d74cb152784816845d1db951",
+    "text": "Issue, and Action Item Management Process",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "1bb2f3202a2683506497255071a45ed9",
+    "text": "Risk, Issue, and Action Item Management Process 2.109.2 page Risk Mitigation Recommend Item Owner R The Item Owner recommends to the Planning and the risk disposi- Responsible Manager closure of the Execution 1.4 tion risk when all mitigation activities have A been completed, the closure criteria This activity have been met, and the goal of the involves recom- mitigation strategy has been achieved; mendation for Responsible or, when the time-frame has passed, closure of the Manager and the risk has not occurred. risk. If the risk has already materialized, it should be converted to an issue or if the probability of a risk occurring rises to 100%. Risk Mitigation Update the risk Item Coordina- R Update risk parameters in the risk re- Planning and repository tor pository. Update the status of Execution 1.5 mitigation activities in ITRAC. The purpose of this activity is to A update the status of mitiga- tion activities in Responsible Ensure the accuracy of the parameters ITRAC. Manager and mitigation status which must support the decisions the Responsible Manager has to make to effectively Item Owner I manage the risk. Conﬁrm the closure criteria have been met. Record the risk state as Closed, record the rationale for closure, and record the date the closed disposition was approved..",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 47
+    }
+  },
+  {
+    "element_id": "9eaa0081fffc2044da7f509756d7d8ac",
+    "text": "page 44 2.109 Risk, Issue, and Action Item Management Practices Ensure that all activities have been completed and closed prior to closing out the risk. Attached any necessary documents associated with the closing of this risk, as applicable. The additional information required for a tracked or controlled risk is as follows: • Actual start date of each mitiga- tion activity • Actual completion date of each mitigation activity • Results/status updates of each mitigation activity • Status of overall mitigation plan • Rationale for closure • Date of closure",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 48
+    }
+  },
+  {
+    "element_id": "f0aabb7d1d0611606b3a1d5b8aff1f80",
+    "text": "Issue, and Action Item Management Process 2.109.2",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "c3efdeb59ec106534f8807f4c0608177",
+    "text": "Figure 2.109.2-2 Risk Management Process",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "322b2928a3213b58508d5df2193f2b4f",
+    "text": "Risk Management Process",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "c3efdeb59ec106534f8807f4c0608177",
+    "text": "Figure 2.109.2-2 Risk Management Process",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "a88e80f69979de77b59084aa2c25e12d",
+    "text": "Issue Management is the process of identifying and resolving issues in a program, project or organization. Issue Management Process is undertaken to ensure that each issue identiﬁed within the program, project or organization is documented, prioritized and resolved within an appropriate time frame so that program or project deadlines are not negatively impacted and should be followed to track any issue that may impact the success of a program or project. An issue is an event or condition that has already happened and has impacted or is currently impacting the goals and objectives of a program, project, or organization. There is no uncertainty or probability aspect associ",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "8c4a903ec5fe207d665705a782b8251e",
+    "text": "ated with an issue. When managing an issue, the action needs to take place right away to resolve the issue.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "e01368602ffea5705d549ea48e23c0cb",
+    "text": "Identify and record issues clearly Document issues properly, including any pertinent details date and who reported it Determine the impact of each issue Determine a priority for the issue Review issues and report on their status Assign the issue to a project team member Review all issues and decide on a course of action Take the steps needed to resolve issues quickly",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 49
+    }
+  },
+  {
+    "element_id": "add92fbccedb2cad9abc5cd167c3d9f5",
+    "text": "46 2.109 Risk, Issue, and Action Item Management Practices",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 50
+    }
+  },
+  {
+    "element_id": "d2a47e8f841b0528bc46013900255f02",
+    "text": "When closing an issue ensure to update the issue status, ensure that the resolution description provides accurate description of the steps completed to resolve the issue. Monitor progress towards resolving the issue and follow up with the issue owner on a regular basis.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 50
+    }
+  },
+  {
+    "element_id": "216157e68d4bc50dfc6bcf97471363ec",
+    "text": "(2) The following table depicts the tasks and roles for each activity in the Issue Management process. ID Task Name Role RACI Duties and Descrip- tion Issue Manage- Deﬁne the Item Identiﬁer R Concurrent with a realized risk being ment 1.1 issue or a officially closed out by the Respon- realized risk sible Manager; request that an issue Responsible A be opened in the ITRAC repository. This activity Manager includes identi- fying an issue or a realized risk and providing clear and concise Coordinate with the Item Coordinator information to ensure that the ITRAC number of about the issue the realized risk is included in the and its context. Notes ﬁeld. Record information in an acceptable format, such as the Issue Template available on the Risk Management website at https://portal.ds.irsnet.gov/ sites/ITSPRiskManagement When a new issue is identiﬁed that isn’t related to a previously recorded risk.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 50
+    }
+  },
+  {
+    "element_id": "d2a181d8a53fef5de65a2091a6468cd1",
+    "text": "The following table depicts the tasks and roles for each activity in the Issue Management process.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 50
+    }
+  },
+  {
+    "element_id": "09f0c56e436a13d9e2b979a450fa408d",
+    "text": "Risk, Issue, and Action Item Management Process 2.109.2 page 47 Document initial discovery informa- tion about an issue. Note the source or event where the issue was identiﬁed (e.g., realized risk). Create a title for the issue that captures identifying keywords. Develop an issue description statement that clearly communicates the issue to management. Recommend an organization or Re- sponsible Manager that should be responsible for resolving the Issue. Issue Manage- Determine the Item Identiﬁer R Using available information and coor- ment 1.2 scope of the dination with the Responsible issue Manager and/or SME, assess the Responsible scope of the issue as being one of This activity Manager A the following: includes using all available information to assess the scope of the issue.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 51
+    }
+  },
+  {
+    "element_id": "4635175950e038bf115c050c9402ac19",
+    "text": "48 2.109 Risk, Issue, and Action Item Management Practices Enterprise Release: is to be selected if the item impacts a set of conﬁgura- tion items including application software, hardware, systems software, telecommunications and procedures grouped together to be delivered to the Production environ- ment at a certain point in time. A release will generally include compo- nents from across architecture, projects, programs, and domains. Example: Enterprise Architecture. Portfolio: It is a custom view of a set of IT investments that is user deﬁnable. IT Portfolio Summary includes all IT resources for the IT Investments from all funding sources. Domain is to be selected if the item impacts an area that contains similar project activities directed toward achieving a set of deﬁned functions in support of the agency’s mission and vision strategy. Example: Submission Processing.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 52
+    }
+  },
+  {
+    "element_id": "8ac0227a9963eb123228ce9bf5e2fe5b",
+    "text": "Risk, Issue, and Action Item Management Process 2.109.2 page 49 Program: is to be selected if the item impacts a group of related project releases managed in a coordinated way which usually includes an element of ongoing work. It may impact projects that are concurrently executed with or without overlapping dates and can have more than one domain involved. Example: Foreign Account Tax Com- pliance Act (FATCA) (includes all project releases). Project: It is a ﬁxed-duration endeavor undertaken with deﬁned start and stop dates to deliver a unique product, service or result. It represents solutions to a speciﬁc business issue. Example: Customer Account Data Engine 2 (CADE 2) Transition State 2. Identify the Responsible Manager/ organization based on program, project and organizational areas that have been identiﬁed as impacted areas.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 53
+    }
+  },
+  {
+    "element_id": "41174c58c7a445aac23b78e8f0cc2d17",
+    "text": "page 50 2.109 Risk, Issue, and Action Item Management Practices Determine the appropriate organiza- tion to recommend as the Assigned Organization for resolving the issue, in coordination with the Responsible Manager. Develop and document objective closure criteria that will be recom- mended for determining the closure of a speciﬁc issue. Closure criteria should be explicit and quantiﬁable. Determine the appropriate priority to reﬂect the urgency of the issue. Estimate the due date when the resolution is expected to be completed. Issue Manage- Submit the Item Identiﬁer R Assemble issue related information ment 1.3 issue determined in Steps 1.1 and 1.2. Responsible The purpose of Manager A Assigned Organization, Closure this activity is to Criteria, Due Date, Description, assemble Priority, Responsible Manager, Title, issue-to be Scope, and Source. enter into the ITRAC Reposi- tory.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 54
+    }
+  },
+  {
+    "element_id": "34c37e25ce6662584cfe14fc41d809be",
+    "text": "Risk, Issue, and Action Item Management Process 2.109.2 page 51 Record information in an acceptable format, such as the Issue Template available on the Risk Management website at https://portal.ds.irsnet.gov/ sites/ITSPRiskManagement. .As needed, engage other stakehold- ers and SME to validate or correct submitted information. Forward the issue template to the Responsible Manager for review and for assignment of an Issue Owner as well as the Item Coordinator for entry into ITRAC. Issue Manage- Enter issue into Item Coordina- R The Item Coordinator will enter the ment 1.4 the ITRAC re- tor new issue into the ITRAC. pository This activity Item Owner involvesentering a new A issue in ITRAC. Review the information for complete- ness and accuracy. As needed, engage Item Owner to validate or correct submitted informa- tion. Notify the Responsible Manager and the Issue Owner that a new issue item has been entered into ITRAC and provide the ITRAC ID.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 55
+    }
+  },
+  {
+    "element_id": "fec5de7b46b983a54b19116f7b5f68b7",
+    "text": "page 52 2.109 Risk, Issue, and Action Item Management Practices Issue Manage- Disposition the Item Owner R Review and validate correctness, ment 1.5 issue completeness, and understandability of all recorded issue information, and The purpose of determine whether further analysis is this activity is to warranted. review and validate the issue for cor- Responsible A rectness. Manager As necessary, engage other stake- holders and SMEs in validating or correcting submitted information, and performing additional analysis Develop recommended disposition: • Recommend transfer to another organization if the issue was assigned to the wrong organization. • Escalate issue if the respon- sible manager does not have enough resources or authority to resolve the issue. Obtain consensus on recommended disposition with appropriate stake- holders. If concurrence can’t be obtained, escalate the issue to the next level of management for dispo- sition resolution. Assign an Item Owner to develop a management plan and oversee the resolution of the issue. The Item Owner should have the knowledge and authority to address the issue and is typically an organization member with expertise in the issue subject (e.g., business architect, system engineer, or technology expert).",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 56
+    }
+  },
+  {
+    "element_id": "170b449d1ab891e8f6f0ef5b0a6b8cc5",
+    "text": "2.109 Risk, Issue, and Action Item Management Practices",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 56
+    }
+  },
+  {
+    "element_id": "42d005b4df1816ee5c049d3ec73209c8",
+    "text": "correcting submitted information, performing additional analysis Develop recommended disposition:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 56
+    }
+  },
+  {
+    "element_id": "307e3b040c678f6756a9d5d9ad5e51f6",
+    "text": "Recommend transfer to another organization if the issue was assigned to the wrong organization.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 56
+    }
+  },
+  {
+    "element_id": "bf1bb02b86eda4debfc61b98c672dbcd",
+    "text": "Escalate issue if the respon",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 56
+    }
+  },
+  {
+    "element_id": "e1ba4cc0d1e5a303fb0284bdb685d387",
+    "text": "sible manager does not have enough resources or authority to resolve the issue. Obtain consensus on recommended disposition with appropriate stake",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 56
+    }
+  },
+  {
+    "element_id": "3e5fb04982821ba9d94f237723699135",
+    "text": "holders. If concurrence can’t be obtained, escalate the issue to the next level of management for dispo",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 56
+    }
+  },
+  {
+    "element_id": "80c1a1b488b6acaa213fb554a73a1b34",
+    "text": "sition resolution. Assign an Item Owner to develop a management plan and oversee the resolution of the issue. The Item Owner should have the knowledge and authority to address the issue and is typically an organization member with expertise in the issue subject (e.g., business architect, system engineer, or technology expert).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 56
+    }
+  },
+  {
+    "element_id": "1715aaedd033b2520d565bc60811a22a",
+    "text": "Assign an Item Owner to develop a management plan and oversee the resolution of the issue. The Item Owner should have the knowledge and authority to address the issue and is typically an organization member with expertise in the issue subject (e.g., business architect, system engineer, or technology expert).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 56
+    }
+  },
+  {
+    "element_id": "3e60a99e264a5b195a3bbd91ea38a3e0",
+    "text": "Risk, Issue, and Action Item Management Process 2.109.2 page 53 Notify Item Owner of assignment of responsibility for resolution of the issue. Notify Item Coordinator of disposition action for updating in ITRAC. Issue Manage- Develop man- Item Owner R Develop a management plan to ment 1.6 agement plan resolve the issue: Develop a man- • Deﬁne the speciﬁc activities agement plan A required to resolve the issue. to resolve the • Coordinate the availability of issue Responsible needed resources with the Manager Responsible Manager. • Based on available resources and dependencies, assign the Activity Owners and develop/ obtain start and completion dates for required activities. As necessary, engage the other stakeholders and SMEs in validating or correcting submitted information, and performing detailed impact analysis. Record the management plan into ITRAC including the activity title, de- scription, owner and scheduled start and completion dates for each activity.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 57
+    }
+  },
+  {
+    "element_id": "d115d6d0564a27f5da387e92fc872502",
+    "text": "Obtain Responsible Manager approval of the management plan. Communicate the approved manage- ment plan to all Activity Owners. If the ability to resolve the issue is beyond the authority or resources of the assigned organization, recommend that the issue be trans- ferred to another organization or escalated to the appropriate reporting Governance Board.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 58
+    }
+  },
+  {
+    "element_id": "89affc2b8b6f7b29d13dfd37ae1bd347",
+    "text": "Risk, Issue, and Action Item Management Process 2.109.2 page 55 Issue Manage- Perform and Item Owner R Oversee the performance of man- ment 1.7 monitor planned agement plan activities and provide activities. guidance and instructions to the Activity Owners as needed. Oversee the A performance of management Responsible plan activities Manager and provide guidance and instructions to Review periodic status reports and the Activity as needed, initiate/request ad hoc Owners as reports in order to monitor the perfor- needed. mance of management plan activities. Assess actual performance results against planned performance results. Make adjustments to the manage- ment plan as required. If signiﬁcant changes are required, obtain approval from the Responsible Manager.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 59
+    }
+  },
+  {
+    "element_id": "be7779d7d74cb152784816845d1db951",
+    "text": "Issue, and Action Item Management Process",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 59
+    }
+  },
+  {
+    "element_id": "6c7b30b296ad2f07b012a71a54837503",
+    "text": "page 56 2.109 Risk, Issue, and Action Item Management Practices Issue Manage- Close the issue. Item Owner R When all management plan activities ment 1.8 have been completed for an issue, Ensure that the verify that close criteria have been issue, as A fully satisﬁed. recorded in the ITRAC Reposi- tory, is updated Responsible to reﬂect a Manager closed status. As necessary, engage the Respon- sible Manager and Activity Owners and other stakeholders in verifying that the closure criteria have been satisﬁed. Develop description of ﬁnal closure rationale. Submit closure rationale to the Re- sponsible Manager and obtain approval to close-out the issue. Ensure that all activities have been completed and closed prior to closing out the issue. Attached any necessary documents as well that is associated with the closing of this issue. This information should be provided to the Item Coordinator to update ITRAC.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 60
+    }
+  },
+  {
+    "element_id": "d6b360c1ebe5de16402d81617ea06b7d",
+    "text": "The following ﬁgure graphically depicts the roles, activities, and steps for each activity with in the Issue Management process.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 60
+    }
+  },
+  {
+    "element_id": "4a9aaa7f9f0983dee48aa51d1ae69b9c",
+    "text": "Issue, and Action Item Management Process 2.109.2 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "73c54810c6f214f6cf611c99b339642e",
+    "text": "Figure 2.109.2-3 Issue Management Process 2.109.2.2.5.3 (1) Action Item Management is a discrete task that must be accomplished, usually (20-28-2020) by a single individual or a small team or group and completed in a short period",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "a6a2d7d3ab5c44e7eb7883fab274b3a5",
+    "text": "Issue Management Process",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "d6f1d6deac55777f19006ad9e25b7de4",
+    "text": "Figure 2.109.2-3 Issue Management Process",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "6dd97e931ebc102219ad6aa8a2404be7",
+    "text": "Action Item Management is a discrete task that must be accomplished, usually by a single individual or a small team or group and completed in a short period of time. Action items typically arise from meetings and should always be clearly documented. Managing action items is important to the smooth running of the program or project. Update action items on a regular basis (e.g., a weekly team meeting), tracking and closing each one to ensure the rest of the program or project work continues to run smoothly.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "505cc99ea1e3325ded518762a4a95838",
+    "text": "The following table depicts the tasks and roles for each activity in the Action Item Management process.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 61
+    }
+  },
+  {
+    "element_id": "1a1c24843e6fa12d5cd75ddfdadd9843",
+    "text": "Risk, Issue, and Action Item Management Process 2.109.2 page 59 Action Item Man- Assign Item Owner Responsible R Assign an Action Item agement 1.2 Manager Owner to evaluate the This task ensures action item and develop an that the action item action plan (if applicable). is assigned an The Action Item Owner is Action Item Owner typically an organization to evaluate the member with expertise in action item and the subject of the action develop an action item (e.g., business plan (if applicable). architect, system engineer, or technology expert). Notify the Action Item Owner within 3 to 5 working days after an action item has been identiﬁed.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "aa63d1bdb2dd51fcc91b0f91bdc9ee01",
+    "text": "Risk, Issue, and Action Item Management Process",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 63
+    }
+  },
+  {
+    "element_id": "e6fe6793006f9ab5926aee01793eebde",
+    "text": "page 60 2.109 Risk, Issue, and Action Item Management Practices Action Item Man- Enter action item in Action Item Co- R Review action item informa- agement 1.3 the ITRAC reposi- ordinator tion for completeness and tory accuracy. As required, request additional informa- The purpose of this tion or clariﬁcation from the task is to enter an Action Item Owner. As action item into the needed, engage other ITRAC repository. stakeholders to validate or correct submitted informa- tion. Enter Action Item into the ITRAC repository. The Action Item Coordinator will entered Action Item into the ITRAC repository. Notify the Responsible Manager and Action Item Owner that a new action item has been enter into the ITRAC reposi- tory and provide the assigned action item identiﬁ- cation number.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 64
+    }
+  },
+  {
+    "element_id": "1306c97cab032644634a76d1a0fa4f2e",
+    "text": "Risk, Issue, and Action Item Management Process 2.109.2 page Action Item Man- Develop action Action Item R Analyze the action item to agement 1.4 plan. Owner determine the immediate actions needed to resolve If necessary, the action item. If necessary, develop a brief develop a brief action plan action plan deﬁning A deﬁning the activities the activities necessary to resolve the necessary to Responsible action item. resolve the action Manager item if applicable. As appropriate, coordinate with the Responsible Manager and/or Item Identi- ﬁer to redeﬁne the due date if the action item cannot be resolved in the recom- mended time frame.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 65
+    }
+  },
+  {
+    "element_id": "af9e5127f6883cf26dd3108ef3967c45",
+    "text": "page 62 2.109 Risk, Issue, and Action Item Management Practices Action Item Man- Execute action plan. Action Item R Implement the action plan agement 1.5 Owner (usually within 5 to 15 This activity working days after an action includes implement- item has been identiﬁed) ing the action plan, and maintain the current if applicable. status and results of the resolution activities in the Responsible A ITRAC repository, if appli- Manager cable. if necessary, recommend that an action item be trans- ferred to another organization or escalated to executive management if the ability to resolve the action item is beyond the authority or resources of the assigned organization. The Action Item Coordinator shall distribute a summary to assure clariﬁcation of action items.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 66
+    }
+  },
+  {
+    "element_id": "2d8cde843e6ba86893ae2dc01fa39da4",
+    "text": "Risk, Issue, and Action Item Management Process 2.109.2 page 63 Action Item Man- Update and report Action Item Co- R Update and report action agement 1.6 action item status. ordinator item status to the Respon- sible Manager and other This activity Stakeholders as needed. includes maintaining and reporting on the status of the action item. Ensure that activity status information is requested, and current status informa- tion is maintained for planned action item activi- ties, if applicable. Request from Action Item Owners on a periodic or event driven basis, and current status regarding action item activities, if ap- plicable. Provide Item Coordinator with any updated informa- tion to be input in the ITRAC repository.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 67
+    }
+  },
+  {
+    "element_id": "aa63d1bdb2dd51fcc91b0f91bdc9ee01",
+    "text": "Risk, Issue, and Action Item Management Process",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 67
+    }
+  },
+  {
+    "element_id": "6558dceb30e9baed3b344af57fc95653",
+    "text": "Action Item Man- Close the action Action Item Co- R An action item may be agement 1.7 item. ordinator closed when the Respon- sible Manager agrees that This activity the activities have been includes ensuring A resolved. that the action item is updated to reﬂect a closed status. ResponsibleManager The Action Item Owner shall coordinate with the Action Item Coordinator to ensure that the action item is updated to reﬂect a closed status and appropriate de- scriptive information is recorded in the closure rationale ﬁeld in the ITRAC repository. (1) The following ﬁgure graphically depicts the roles, activities, and steps for each activity with in the Action Item Management process. Flow",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 68
+    }
+  },
+  {
+    "element_id": "aac2b137a480ebc183f3fccab813ed2e",
+    "text": "Action Item Man- Close the action Action Item Co- R An action item may be agement 1.7 item. ordinator closed when the Respon- sible Manager agrees that This activity the activities have been includes ensuring A resolved. that the action item is updated to reﬂect a closed status. ResponsibleManager The Action Item Owner shall coordinate with the Action Item Coordinator to ensure that the action item is updated to reﬂect a closed status and appropriate de- scriptive information is recorded in the closure rationale ﬁeld in the ITRAC repository.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 68
+    }
+  },
+  {
+    "element_id": "99fc8ad7d31da938e8290e64357433c9",
+    "text": "The following ﬁgure graphically depicts the roles, activities, and steps for each activity with in the Action Item Management process.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 68
+    }
+  },
+  {
+    "element_id": "5f8e87fe1b00d9373b106a02c7b96799",
+    "text": "Figure 2.109.2-4 Action Item Management Process",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 68
+    }
+  },
+  {
+    "element_id": "5f8e87fe1b00d9373b106a02c7b96799",
+    "text": "Figure 2.109.2-4 Action Item Management Process",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 68
+    }
+  },
+  {
+    "element_id": "4a9aaa7f9f0983dee48aa51d1ae69b9c",
+    "text": "Issue, and Action Item Management Process 2.109.2 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 69
+    }
+  },
+  {
+    "element_id": "5dabbd48d51ea314a7087d4cdf6ea70f",
+    "text": "Reviews are conducted at regular intervals, when change is planned or change occurs. Reviews facilitate better change management and improvement. The objective of a reviewing risks or issues is to reevaluate environment, their action plans, and their relative priority, probability and impact. The program or project should continuously update and status their risk mitigation plan and issue management plans in the ITRAC repository.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 69
+    }
+  },
+  {
+    "element_id": "489df2811385106730b6eb8e009a50f7",
+    "text": "Reviews of risks and issues should be a mandatory item of a Risk Review Board meeting and/or regular program or project status meeting, but they can also be executed during separately planned risk review meetings. These reviews must be held regularly. The frequency could also be determined based on the overall risk level of a program or project.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 69
+    }
+  },
+  {
+    "element_id": "38914fe4e9253a2f51253479fdca6d66",
+    "text": "review meeting allows the program and/or project team to identify, catego- prioritize, and mitigate or avoid risks and issues ahead of time. The and/or project team should use these meetings to determine the prob- and impact of each risk, determine if the risk can/should be avoided by changes to the program and/or project, plan an appropriate response, catalog risks and responses in ITRAC.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 69
+    }
+  },
+  {
+    "element_id": "b1ec888344b604a6013df382beb82d38",
+    "text": "risk and issue review meeting should be a formal meeting conducted the project’s planning process. It is imperative that the program, project or risk coordinator sends a meeting invitation and agenda to all",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 69
+    }
+  },
+  {
+    "element_id": "099262b3103582092c3cfe7039f143b3",
+    "text": "The risk and issue review meeting should be a formal meeting conducted during the project’s planning process. It is imperative that the program, project manager or risk coordinator sends a meeting invitation and agenda to all attendees well ahead of time. This allows the meeting participants time to review what will be discussed and note any risks they may have already identi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 69
+    }
+  },
+  {
+    "element_id": "33cf07eb67206d8c1e4dc8f63fedcdb3",
+    "text": "ﬁed. During the risk review meeting any new and past due risks and issues are discussed. The item identiﬁer should present the new risk or issue and provide the necessary details. The item owners should provide updates for all other risks or issues. After the meeting the results of the meetings (i.e., status of new risks or issue submitted, new mitigation or management updates, and risks or issues approved and/or close should be updated in the ITRAC reposi",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 69
+    }
+  },
+  {
+    "element_id": "6ccbccf670295c6f7182e5c689d075a3",
+    "text": "tory.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 69
+    }
+  },
+  {
+    "element_id": "170b449d1ab891e8f6f0ef5b0a6b8cc5",
+    "text": "2.109 Risk, Issue, and Action Item Management Practices",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 70
+    }
+  },
+  {
+    "element_id": "d543629791680c959a8a14bfe893bc5f",
+    "text": "page 66 2.109 Risk, Issue, and Action Item Management Practices ID Task Name and Role RACI Duties Description Risk and Issue Produce a detail Item Coordinator R Produce detail report for all Meeting and report. open items in the repository Reporting 1.1 of the area of responsibility. The purpose of The level of detail in the this activity is to report supports thorough produce details analysis and reporting of reports. each item. Coordinate with the Responsible Manager and the Item Owner to ensure the correct items to be reviewed. The reports are periodically distributed electronically by the Item Coordinator. Risk and Issue Produce index Item Coordinator R Produce index report for all Meeting and report for open items in the repository Reporting 1.2 summary of of the area of responsibility. items. The reports are periodically The purpose of distributed electronically by this activity is to the Item Coordinator. produce index reports. Risk and Issue Produce ad hoc Item Coordinator R Produce an ad hoc report Meeting and reports; that present metric of items Reporting 1.3 across the area of responsi- The purpose of bility, that present the this activity is to progress of items or that produce ad hoc show the effectiveness of reports.. the risk management program to support the needs of the Responsible Manager for the organiza- tion or for the Item Owner.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 70
+    }
+  },
+  {
+    "element_id": "7c93b4d43450e5579cbd038a20eb21e6",
+    "text": "Risk, Issue, and Action Item Management Process 2.109.2 page 67 Risk and Issue Coordinate Item Coordinator R The Item Coordinator, with Meeting and meetings. the assistance of the Re- Reporting 1.4 sponsible Manager shall The purpose of coordinate item meetings this activity is to which shall be conducted by organize item Responsible the Responsible Manager meetings which Manager A on a weekly, bi-monthly or shall be monthly basis, as appropri- conducted ate. weekly, bi- monthly or monthly, as ap- propriate. The Responsible Manager, Item Owners, and as well as other stakeholders through- out the Business area, IT, or other representatives should attend these periodic review meetings. During the meeting the existing risks and issues will be reviewed for status, closure or escala- tion and new risks or issues are identiﬁed and reviewed for acceptance or with- drawal. Prior to the meeting the Item Coordinator shall collect any new items from all Stake- holders that will be presented at the meeting.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 71
+    }
+  },
+  {
+    "element_id": "aa63d1bdb2dd51fcc91b0f91bdc9ee01",
+    "text": "Risk, Issue, and Action Item Management Process",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 71
+    }
+  },
+  {
+    "element_id": "1b1653821596502095a5e1330207a8cd",
+    "text": "2.109 Risk, Issue, and Action Item Management Practices The Item Coordinator shall provide pre-read material (via e-mail) which should include all items to be discussed at the meeting, (new and existing items). Risk and Issue Conducting item Responsible R The Responsible Manager Meeting and meeting Manager shall conduct item meetings Reporting 1.5 weekly, bi-monthly, or This activity monthly, as appropriate. The involves conduct- Item Coordinator shall ing review ensure all the Responsible meetings of risks Managers, Item Owners, and issues. SMEs as well as other stakeholders or their repre- sentatives have been invited to these meetings.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 72
+    }
+  },
+  {
+    "element_id": "d004ffd666f84807e6d133ecd697b459",
+    "text": "Risk, Issue, and Action Item Management Process 2.109.2 page 69 During the meeting, the Re- sponsible Manager along with the Item Coordinator shall ensure that: • Existing items are reviewed for status/ closure/escalation. If the items cannot be resolved because of an ineffective man- agement plan, the Responsible Manager shall direct the Item Owner to revise the management plan or execute the contin- gency plan (in case of risk and if a contin- gency plan is available). • If the items cannot be resolvedbecause of lack of resources or authority, the items should be escalated to the appropriate Gov- ernance Board. • If the items are ready for closure, the closure rationale shall be provided to the Item Coordina- tor. • New items are reviewed for acceptance/withdrawal. • If an issue is identi- ﬁed, the Responsible Manager shall task the Issue Owner to develop a manage- ment plan as soon as possible",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 73
+    }
+  },
+  {
+    "element_id": "ecc7cb6fb4c06a3e29235564a6c31791",
+    "text": "page 70 2.109 Risk, Issue, and Action Item Management Practices If a risk is accepted, the Item Coordinator shall change the update the item in the repository. After the meeting, the Item Coordinator shall ensure that decisions for each item are recorded in the reposi- tory . The Item Coordinator shall distribute a meeting summary to assure clariﬁca- tion of items presented during the meetings Risk and Issue Record decisions Item Coordinator R The Item Coordinator shall Meeting and and update re- record the information in the Reporting 1.6 pository. repository provided by the Responsible Manager The purpose of and/or Item Owner ITRAC this activity is to Responsible repository. ensure that all Manager A decisions made about an item are updated in ITRAC The Responsible Manager repository shall provides guidance on decisions made about the items to ensure that the in- formation is updated in the repository.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 74
+    }
+  },
+  {
+    "element_id": "53df006145fd947322608421e28ffee9",
+    "text": "The following ﬁgure graphically depicts the roles, activities, and steps for each activity with in the Risk and Issue Meeting and Reporting process.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 74
+    }
+  },
+  {
+    "element_id": "4a9aaa7f9f0983dee48aa51d1ae69b9c",
+    "text": "Issue, and Action Item Management Process 2.109.2 page",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 75
+    }
+  },
+  {
+    "element_id": "6428126d3d14daf5e5d8b3fa2941016d",
+    "text": "Risk Issue Meeting and Reporting Process",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 75
+    }
+  },
+  {
+    "element_id": "dbdcb218f91566e313145da4e391e203",
+    "text": "Risk Issue Meeting and Reporting Process= - | [2 Risk and Issue Risk and Issue | Risk andtsue | Risk and Issue Risk and Issueg Meeting and \" § \" ! ! Meeting and£ g . Meeting and | Meeting and Meeting and Reportiog 16:H Start - eporting 1.1: Reporting 1.2: Reporting 1.3: Reporting 1.4: R o2 Produce periodic Produce index Produce ad hoc | Coordinate ecord decisions[} - detail reports on report for stmman reports | meetings and update£ an item P o o \"y i | repository2 L !.)£3 Risk and issuef Meeting and£ Reporting 1.5 StopG Conduct item §§_ meetingsg -o[P T PR ¥ PR T T ST T S",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 75
+    }
+  },
+  {
+    "element_id": "cef269624f174cf3dc253b639b72c3ca",
+    "text": "Figure 2.109.2-5 Risk and Issue Meeting and Reporting Process",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-109-002--2020-04-22.pdf",
+      "page_number": 75
+    }
+  }
+]

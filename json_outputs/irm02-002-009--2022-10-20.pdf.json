@@ -1,0 +1,1190 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "7d7a1395b2a8aa7660b7aa55e0752a66",
+    "text": ") Background, Authority, Responsibilities, Program Management and Review, and Program Controls added. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a49bb0acef968cfe757c10d2cf4abd4b",
+    "text": ") Related Resources updated to add reference to IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "e0cc410606d64cb230e8f4ab0044492a",
+    "text": "This document provides instructions for the general use of the Partnership Control Systems display in the SB/SE, Large Business and Industry (LBI), and Appeals Operating Divisions in the Campuses and Area/Industry Offices.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "121d9c9cd0f8f322121fbac8dfc6d01d",
+    "text": "PICF One Line Summary Display (Command Code",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "74e756f3ab99f5750da61feb1e9de433",
+    "text": "Command Code TSUMY — Input Screen Format Command Code TSUMYP — Output Screen TSUMYP — Output Screen Examples Command Code TSUMYI — Output Screen Formats Command Code TSUMYI — Output Screen",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "02cc48be9fb244b6b01f2058deac3ef1",
+    "text": "Code TSUMY",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "18002dd11d22489cabb0694d07de9655",
+    "text": ") The Partnership Control System (PCS) is used to create, monitor and information related to Partnership and Investor examinations. and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "243866eeaced7aacabf63bf81a9ebcc5",
+    "text": ") Purpose: This IRM provides instructions on how to use IDRS command TSUMY. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a303f75485671e97626ea76694bdf2ad",
+    "text": ") Audience: Campus Revenue Agents (RAs), Tax Compliance Officers Tax Examiners (TEs) and Clerks working pass-through entities and/or investors linked on the PCS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "56eb113e7de6cef2db646911230947c9",
+    "text": ") Policy Owner: Chief Information Officer (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "594218e70eba357af62d7c99e4351f1f",
+    "text": ") Program Owner: Information Technology/Application Development (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "bbf4321ed28c0646a8de67d1bb2e7599",
+    "text": ") Primary Stakeholders: SB/SE, Large Business and Industry (LBI), and Appeals (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "231c160e7d815845988af150dc97f22d",
+    "text": ") Program Goals: PCS is a database used to create an electronic linkage between pass-through entities and their underlying partners. Linking in instances is mandatory. Linkage allows for the proper control of statutes ensures all relevant partners are processed. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0a439ae9c7d8f8d82b4981f958c0d680",
+    "text": ") PCS was created to monitor and control pass-through entity investors. through entities can have many partners and many levels of tiering. occurs when an investor in a pass-through entity is also a pass-through This complexity can make it difficult to keep track of statutes and monitor the investors. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e7d2b3e0c8f2430ab9f07174a242b385",
+    "text": ") PCS control is a policy that was established in response to the provisions of the Tax Equity and Fiscal Responsibility Act (TEFRA) of has been expanded to cover other pass-through entities that fall outside TEFRA. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "eb61550417fa4e53d030db7d2c3f36e3",
+    "text": ") The Director, SB/SE, Headquarters, Examination Field and Campus Policy responsible for: • Coordinating and Implementing PCS enhancements; and • Coordinating resolutions for PCS Systemic problems (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4b781bb6159dcb56ff79f0ab10ee8d49",
+    "text": ") The SB/SE Program Manager, Examination Field and Campus Policy, Exam & Field Support is responsible for: • Ensuring that PCS procedural changes and computer program are implemented and coordinated with area office and campus tion personnel; and • Monitoring and evaluating area office and campus examination quality control procedures (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c6ae5c112ee4cea455629dd7db0603a6",
+    "text": ") The campus PCS Coordinator is responsible for: • Identifying and resolving technical problems; and • Identifying and coordinating the resolution of PCS systemic (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "87407c7670ecc150f2ae0198a62bd1ad",
+    "text": "2.2 Partnership Control",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f8613e933ae74c3d9fdb52ffc83377e0",
+    "text": "IRS will implement access control measures that will provide protection from unauthorized alteration, loss, unavailability, or disclosure of information.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8d318757f64e46b6816f890bc7cfabe3",
+    "text": ", Partnership Control System (PCS) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "33dc61929ea2571c0343fa60aade9432",
+    "text": ", Pass-Through Entity Handbook (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "02ccbdce09e0957f99cc631744f41f33",
+    "text": ") Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "fa535d5ca5da28be79ea6b47c345de53",
+    "text": ", Partnership Control System Summary (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "dc41b477b998c74f57793e2c80556e2e",
+    "text": ", Information Technology (IT) Security, Policy and Guidance (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "075edaca40e43bef752b8eb7973beee8",
+    "text": ") This process accesses the PICF , to extract the elements of data required complete the one line summary output screen display, for the line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e52e426fe122a8397818174b5ac25579",
+    "text": "Partnership/Partner record and each of its linked partner/partnership (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "78e116629e00fb48c60341893b4b5578",
+    "text": ") There must be a Partnership or Partner record on the PICF for the Line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f22d1624b7414e37c90cdc26b13af3bc",
+    "text": "entry, (TIN, FS, MFT, and Tax Period) in order for the request to be (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5cbe64fbea1cf7ea81730ca9531d4f68",
+    "text": ") Multiple screen displays (more than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7727800f7b8704fb5ce9ff35b72b5fd7",
+    "text": "related summary accounts on the page, more than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8b51c6b3177ca016d6c8724a4f8681c4",
+    "text": "related summary accounts on any subsequent pages) require a next screen request to be initiated by operator action. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "abe42236766c7a8b1ae1548fe107377a",
+    "text": ") Because of time restraints, if a PBC is input on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "53c9e097e4c021756dc9fd1cd3f124ac",
+    "text": ", the program will the PBC of the ﬁrst",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1807ce93f45ec3c00473903600d78726",
+    "text": "records linked to the line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8ba76d8aa3c682885f3a7fcec8008a13",
+    "text": "entity and display a one summary of the records found. If there are less than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "51c2eb05a41cbb23f85f263683f462ae",
+    "text": "records on the ﬁrst page (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8a81a3d9009b51e866eb4f9d6ae3035e",
+    "text": "on subsequent pages) found with the same PBC, the program",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "36c53c4a61fead7b4eaf16451b9723ea",
+    "text": "There must be a Partnership or Partner record on the PICF for the Line 1 entry, (TIN, FS, MFT, and Tax Period) in order for the request to be",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "95e8281ac747dc39cd4f0d6ef8bd4990",
+    "text": "Because of time restraints, if a PBC is input on line 1, the program will search the PBC of the ﬁrst 40 records linked to the line 1 entity and display a one line summary of the records found. If there are less than 19 records on the ﬁrst page (21 on subsequent pages) found with the same PBC, the program will",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "26dcb3a95d14f86aa4a71ce5b8d918be",
+    "text": "display whatever records were found even though it is less than a full screen and display a message on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "19b01d62d029375763224d0c05f0fc81",
+    "text": "to retransmit the screen in order to the search of the remaining linkages. Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "7d630da63319e17c0119be730ef0b1a8",
+    "text": ") When errors are detected one of the following error messages will be displayed on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "4643e3c240cf86ebfee45e5033e6d68d",
+    "text": "If all items are successfully processed, the message “REQUEST COMPLETED” will be displayed on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "73caa4f8bec8e154f72315207f2e05db",
+    "text": "of the last screen. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "16340e9b56d3017f76e849173d2cefd4",
+    "text": ") During periods of heavy demand on IDRS, TSUMY may “TIME-OUT” during execution for LARGE CASES. It is recommended to do one line summaries large cases during periods of low demand on IDRS.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "c06af29527bc571c2e2d5eae284e6496",
+    "text": "When errors are detected one of the following error messages will be displayed on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "4643e3c240cf86ebfee45e5033e6d68d",
+    "text": "If all items are successfully processed, the message “REQUEST COMPLETED” will be displayed on line",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f6888664c2bd7c90f0503e8cf9d3f3a1",
+    "text": "of the last screen.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d91112a01098d54dfb85873642a4b5cd",
+    "text": "When errors are detected one of the following error messages will be displayed on line 24. If all items are successfully processed, the message “REQUEST COMPLETED” will be displayed on line 24 of the last screen.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a0e40b6eb9ae9ba6a5a07e8f96b63546",
+    "text": "During periods of heavy demand on IDRS, TSUMY may “TIME-OUT” during an execution for LARGE CASES. It is recommended to do one line summaries on large cases during periods of low demand on IDRS.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32e6ce3c906969de25dcd2c19bb7e6a3",
+    "text": "CC-DEFINER NOT VALID WITH TSUMY I/O ERROR (PICF, FIND, XXXX)",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f002ed1783e867665f17e5bba03e8cfd",
+    "text": "TIN does not have a valid conﬁguration and File Source Indicator.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "fdaf76f084413e7db026a36374115552",
+    "text": "Self explanatory.",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f01f208304dc6ddb319651b0c54075b6",
+    "text": "MFT/TAX PERIOD INCONSISTENT NO LINKS FOR PBC SPECIFIED - REQUEST CMPLTD",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "b44bb280504909e00069cd9a0be6455f",
+    "text": "The line-1 entity is not linked to any record with a PBC that matches the input PBC.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "dedba83e6ca0b8c8a1343a83a188184d",
+    "text": "NO PS/PN REC ON PICF-REQUEST COMPLETED",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f4ae843f41c5ccfe082ebf23071d2966",
+    "text": "PS REC HAS NO LINKS-REQUEST COMPLETED",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "7448021a4b121968aebddc38f244ce61",
+    "text": "SYSTEM ERROR ON ACCESS TIN/FILE-SOURCE-CD INCONSISTENT TIN/FS/MFT INCONSISTENT",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f029c29bf29497ed8241dd470f40040c",
+    "text": "TSUMY Input Screen Format",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "5912fe6f60923e6cbd08067e8c08aa7e",
+    "text": "| B I I T . D S R T 2 ]| | 1-s | 11-18 | 21-29 | 31-39 | 41-49 | 51-59 | 61-69 | 71-80 | || 112345678901234567890123456789012345678901234567890123456789012345678901234567890] |TSUMY2)] B3 | E4 | B5 | E6—_-—| 112345678901234567890123456789012345678901234567890123456789012345678901234567890| || | 1-¢ | 11-19 | 21-29 | 31-39 | 41-49 | 51-59 | 61-69 | 71-80 | |L UV SRSV \"0V UUUOUIS [ E— S S———— S",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "9bd26a527204e5e4734730be8a0a312b",
+    "text": "Record Element Descriptions",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "526e0087cc3f254d9f86f6c7d8e23d95",
+    "text": "Description",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "eac707197500edd4a5212656b0e5e531",
+    "text": "CC “TSUMY”",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "fc6a79c4c30681b5c97307eb1f7e4917",
+    "text": "Modiﬁer used to indicate the Type Record, may be P, I, T or blank. If blank, TSUMY will ﬁrst search for a Partnership record and its linkages, if no Partnership record is found, then TSUMY will search for an Investor record and its linkages.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b564cd62e8f40a2664eebc532a8db827",
+    "text": "PBC of linked records to be displayed (format NNN or blanks)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "81fe7d801fb629a11a917f51ba6c0d4a",
+    "text": "1-9 | 11-1% | 21-29 | -39 | 4149 | 51-59 | 61-69 | 71-80| 123456789012 24567 8901234 56 789 0123456 789 01234 56 18901234 56 189012345678 90123456 71890TSUMYP28-1234567 06 200012 204-| [1234567890123456789 01234 567890123456 789 0123456 7890123456 7890123456 7890123456 7890 || | 1-8 | 11-1% | =21-29 | 31-39 | 4149 | 51-59 | 61-6% | 7170 | |L L L 1 1 1 L L 1 L 1",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "cc6c681de9ae9e573f61564d09997fb7",
+    "text": "Record Element Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "5f61deed448033c0618948daa28558ba",
+    "text": "Exhibit 2.2.9-1 (Cont. 1) (01-01-2008) Command Code TSUMY — Input Screen Format",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3187500b7ee62a02a50bb1034ef8fe90",
+    "text": "Element Line Position Description 1 1 1–5 CC “TSUMY” 2 1 6 Modiﬁer P 3 1 7–18 Partnership edited EIN “28–1234567” 4 1 20–21 Partnership MFT-CD “06” 5 1 23–28 Partnership TAX-PRD “200012” 6 1 30–32 PBC “204” (Only Investor records with PBC displayed)",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "98fc60659d7ff0c9c53ba6e66b68af66",
+    "text": "This is an example of an input screen that will display all investors (Partner records) with a PBC of 204 that are linked to the line 1 entity, which is a partnership since Element 2 is a “P”. If the input screen was for an Investor record, Element 2 would be an “I”. If Element 2 is blank, TSUMY will search for the Partnership record and its linkages ﬁrst, if Partnership record is found, then it will search for an Investor record and its linkages.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "f7dcd57d6067e7a48f900facc3eb6ddd",
+    "text": "If the PBC, element 6, is not speciﬁed on the input screen, all Investors linked to this Partnership will be displayed (regardless of the PBC).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "7dd1cd5715204ecd70dea7ca39129e58",
+    "text": "Exhibit 2.2.9-2 (01-01-2008) Command Code TSUMYP — Output Screen Formats",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "1c2a80cc2e078b6012d97a05a1f51dde",
+    "text": "TSUMYP Output Screen Format — First Page",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "0e403ee0e3fd4bc8971e5ae29cd34e61",
+    "text": "1-9 | 11-19 | 21-23 | 31-39 | 4149 | 51-5% | 61-65 | 71-80123456789 012 3456789 0123456 789 01234 56 789 0123456 78901 234 56 789 11234 56 78 90123456 78 90ANTSUMYP]  E3 | E2 | E5 1 E6 1517 PRGE EVI E23KEY TIN TKPD ST PBCSB/APEGC STATUTE/ETF SPC PROM-# LINKS NAME 60-DD P1 E8 1 1 E9 | EAOE44|E12|E13] | Edd4 | 16 E18 |E19 | |E20] E21| | E22 ||INVESTORS MFT TXPD ST PECSB/APEGC STRIVTE/ETF SPC  IYR-ST/P LINKS IMAME |1 E24 | 25 | E26] E27E28|E291E301 | E31 | 33 E35 | E36 11 E38]1 | E39 |32 | 1E3 E3?I 11 E24 | 25 | E26| E27E2B|E291E30]1 | E31 | 33 E35 | E36 Il E38| | E39 1E#l_Ed0 | DRTE: | E41 1 | E42 32 1123456789 0123456789 0123456 789 0123456 7890123456 789 0123456 789 01234 56 78 901 23456 78 301-9 | 11-19 | 21-29 | 31-39 | 4143 | 51-59 | 61-69 | 71-801 1 I 1 1 1 IEE T L)BET™",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "cc6c681de9ae9e573f61564d09997fb7",
+    "text": "Record Element Description",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "2ecbaa92062f79470667a2fddb598e9d",
+    "text": "Exhibit 2.2.9-2 (Cont. 1) (01-01-2008) Command Code TSUMYP — Output Screen Formats",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "c9174f5f7282e5c56beafccf2c48b9f6",
+    "text": "Element Line Position Description 23 3 80 Key Case PENALTY-CD 24 5–23 1–12 Investor Edited TIN/FS 25 5–23 14–15 Investor MFT-CD 26 5–23 17–22 Investor TAX-PRD 27 5–23 24–25 Investor AIMS-STATUS-CD 28 5–23 27–29 Investor PBC 29 5–23 30–34 Investor SBC or Appeals Office Code 30 5–23 35–38 Investor EMPLOYEE-GROUP-CD 31 5–23 40–47 Investor 32 5-23 48 Investor Restricted Statute Extension 33 5–23 49 Investor TEFRA-CD 34 5–23 50 Investor FLOWTHRU-CD 35 5–23 52–55 Investor SPECIAL-PROJ-CD 36 5–23 57–64 Investor 1-YR-STAT-DT 37 5–23 65 Investor PENALTY-IND 38 5–23 67–70 Investor NUM-OF-LINKS 39 5–23 72–80 Investor AIMS-NAME 40 24 3–12 IRS Employee Number 41 24 20–26 Julian Date (Format YYYYDDD) 42 24 29–73 Line-24 message",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "9d906461f957c31c6734ae03062bd7a5",
+    "text": "TSUMYP Output Screen Format — subsequent pages",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "a029906c594700a3d2098e939179574e",
+    "text": "Exhibit 2.2.9-2 (Cont. 2) (01-01-2008) Command Code TSUMYP — Output Screen Formats",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "727f7ac1975cb30f9a892d19bc909b98",
+    "text": "T T T T T T T1-» | 11-19 | =21-29 | 31-39 | 4149 | 51-5% | 61-69 | 71-30123456789012 34567890123456 789 01234 56 7890123456 78901234 56 78901231 56 18 90123456 1890TSIMYP] _ E3 | E4 | E5 | E6_ 32 PAGE E71 OF E&l PAGESINVESTOES MET TXED ST PECSEFAPEGC STRIUTE/ETE SPC IVR-ST/P LINKS IAMEE23| ___E24 | 25 ) E26] E21E28|E291E30] | E31 | 33 E35 | E36 1] E33| | E39 |1| E24 | 25| E26| E21E28|E291E30] | E31 | 33 E35 | E36 || E33| | E39 11Ed] 1EH E32| 1| E24 | 25 ] E26| E27E2B|E29]E30] | E31 | 33 E35 | E36 || E38] | E3% ||BHl_E40 | DATE: | E41 1 | E42 1123456789012 34567890123456 789 01234 56 7890123456 78901234 56 78901231 56 18 30123456 7189019 | 11-19 | 21-29 | 31-39 | 4149 | 51-59 | 61-6%9 | 71-801 1 1 1 1 1 1",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d74d6074b5ea88140c6872e71ce4df1d",
+    "text": "Exhibit 2.2.9-2 (Cont. 3) (01-01-2008) Command Code TSUMYP — Output Screen Formats",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "0fd2c29ae1fe05b4115bde1e024b9509",
+    "text": "Line Position Description 1–6 SAME AS INPUT SCREEN 7 1 64–66 Current page number 8 1 71–73 Total number of screen pages (Displays on last 24 5–23 1–12 Investor Edited TIN/FS 25 5–23 14–15 Investor MFT-CD 26 5–23 17–22 Investor TAX-PRD 27 5–23 24–25 Investor AIMS-STATUS-CD 28 5–23 27–29 Investor PBC 29 5–23 30–34 Investor SBC or Appeals Office Code 30 5–23 35–38 Investor EMPLOYEE-GROUP-CD 31 5–23 40–47 Investor STATUTE-OF-LIMITATIONS-DT 32 5-23 48 Investor Restricted Statute Extension Indicator 33 5–23 49 Investor TEFRA-CD 34 5–23 50 Investor FLOWTHRU-CD 35 5–23 52–55 Investor SPECIAL-PROJ-CD 36 5–23 57–64 Investor 1-YR-STAT-DT 37 5–23 65 Investor PENALTY-IND 38 5–23 67–70 Investor NUM-OF-LINKS 39 5–23 72–80 Investor AIMS-NAME 40 24 3–12 IRS Employee Number 41 24 20–26 Julian Date (Format YYYYDDD) 42 24 29–73 Line-24 Message",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "1e78621bf09e7444729324e0a21aa078",
+    "text": "Investor Restricted Statute Extension Indicator",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "372d6c1dbe5950c7c051fbc11f5d11f5",
+    "text": "Exhibit 2.2.9-3 (01-01-2008) TSUMYP — Output Screen Examples",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "960cc2d484195fe6949312a006715896",
+    "text": "TSUMYP Output Screen — Example 1 (ﬁrst page).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "1add96f154572fc12f4f89f8dcae06b4",
+    "text": "H H 1 H H H H H| 1-9 | 11-19 | 21-29 | 31-3% | 4149 | 51-59 | 6169 | 71-80| 1234 5678901234567 8901234 56789 0123456 7890123456 789 01234 56 78901 23456 78 90123456 78901|TSUMYPZ8-1234567 06 200012 IACE 12 |KEY TIN TXPD ST PBCSBSAPEGC STATUTE/ETF SPC PROM-# LINES NAME &0-DD P2|28-1234567 200012 06 204000001200 04202002 T 0104 122305 00030 NCCD 200111154 | IVE STORS MET [[XPD ST PECSB/APEGC STRTUTE/ETF SPC  INR-ST/P LINKS MNAME23|5|890-99-9999* 30 200012 34 204000005300 T 0104 20011205 0002 *BKPT RPI6|811-11-1111 30 200012 34 204000005300 §72h T 0101 20010214 0001 DDE, TAXPR7| 23-0000123 06 200012 34 204000001200 TH# 0104 0005 HAKDLY FD|23|800-20-2222 30 200012 51 204000005302 T 0101 11111111 0002 - BERPT -24 |EH1234567890 DATE: 2002010 RETEANSMIT FOR MORE LINKAGES| 1234 56789012 345676901234 56783 0123456 78901234 56 14901234 56 789 01 23456 78 90123456 7890| 1-s | 11-19 | 21-29 | 31-3% | 4149 | 51-5% | 61-69 | 71-801 1 1 1 1 1 1 1]e T W N e",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "99e9d4ef1942b224b1f971a79c13403d",
+    "text": "This is an example of an output screen for the display of all Partner (Investor) records linked to the line 1 entity, (a partnership). This request is for all the linkages since the PBC is blank. There are more than 19 Partners linked to this Partnership since line 23 is ﬁlled. In order to continue displaying the Partners linked to this Part- nership, a request for a next screen will have to be initiated by the operator by entering the entry code on line 24, and retransmitting the screen. The employee number and the date appear on Line 24.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "f5bf5c4b5ec32b6393fcfc0c2e0f018f",
+    "text": "The Partner displayed on line 5 is bankrupt, but the Report Package Indicator is still blank, resulting in the “*BKRPT RPI = *” in the Name column. The Partner on line 23 is also bankrupt but the Report Package Indicator must be “B” because the literal in the Name column is “-BKRPT-”.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "06c2cf6e59dbfb17b37239651f76b06a",
+    "text": "TSUMYP Output Screen — Example 2 (ﬁrst of multiple pages)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "dd3ae12b0c7aa8081662a73e7658bdf3",
+    "text": "R T T T T D e1-% | 11-19 | 21-29 | 31-3% | 4149 | 51-5% | €1-69 | 1-#0 |123456\".'89ﬂ123456'lﬂ’lllZM56189!]123456'?8901234561!!9!]123451890123456789l12345\"m9ﬂ|1",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "65a9cd63078479d4cf7330b4462f4b91",
+    "text": "Exhibit 2.2.9-3 (Cont. 1) (01-01-2008) TSUMYP — Output Screen Examples",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "01ba82bb0bd713ec5d2d60e9408bb006",
+    "text": "This example shows an output screen for the display of Partner (Investor) records linked to the line 1 entry, which is a partnership. This request is for all of the linkages in PBC 295 since the input PBC was 295. The message on line 24,“RETRANSMIT FOR MORE LINKAGES” indicates there are more screens to display. transmit for more screens.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "403e78af6cccc5b8c3d70c19a64af6ac",
+    "text": "Note: When a PBC is speciﬁed, any of the output screens MAY be blank, with only the message “RETRANS- MIT FOR MORE LINKAGES”, or “REQUEST COMPLETED” if the re-entry determines that there are more linkages in the PBC speciﬁed.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "9f21a359a531be48c618c5bfb3dc806a",
+    "text": "T T T T T T T1-9 | 11-1% | 21-29 | 31-39 | 4149 | 51-59 | 61-63 | T1-80123456789 0123456789 0123456 78901234 56 18901234 56 789 01234 56 189 01234 56 7890123456 7890TSUMYP2§-1234567 06 200012 295 PAGE 2E#1234567890 DATE: 2002010 ERETERNSMIT FOR MORE LINKRGES12345678901234567890123456 78901234 56 7890123456 7890123456 789 0123456 7890123456 78 901-8 | 11-18 | 21-29 | 31-39 | 4149 | 51-59 | 61-69 | 71-80",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "5f43f36a2de35cf566b249874b2c7f60",
+    "text": "In this example, TSUMY showed after reviewing 40 linkages that none of those records were in PBC 295. In order to continue searching the rest of the records for PBC 295, retransmit the screen. If ALL of the investor records linked to the line 1 entity has been searched and no records were found in PBC 295 during the last search, the message “REQUEST COMPLETED” will be generated on line 24 indicating that all the records been searched.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "34aeb49b6f0a14f11dcba961c4e5d0f6",
+    "text": "Output Screen Example — subsequent pages",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "0e14d2da6439ee398cbc61c9bbce4490",
+    "text": "This is an example of an output screen for the display of all Partner (Investor) records linked to the line 1 entity (a Partnership). This request is only for investors in PBC 295. There were less than 21 remaining investors in PBC 295 so the message on Line 24 shows REQUEST COMPLETED.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "a22649279657a9b44047a85b6de57f05",
+    "text": "Exhibit 2.2.9-4 (01-01-2008) Command Code TSUMYI — Output Screen Formats",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "b14ae771a440db2816d4f08196d55ef2",
+    "text": "TSUMYI Output Screen Format — First Page.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "6f7bd7694a2aeab2b551321cf3c4a168",
+    "text": "1-3 | 11-19 | 21-29 | 31-39 | 4149 | 51-59 | 61-69 | 71-80123456789012 345678901234 56 769 0123456 1690123456 769 0123456 769 0123456 78 90123456 7850}1|TSUMYL] E2 1 E4 | E5 | E6 1 E43 | 1718 PAGE E71||{B E6_ 1|2 | INVESTOR MFT TXPD NAME ST PECSE/APEGC STATVTE/ECE SPC LINKS 2|3|1 Eg | E9 I|E10 | E11| E1?E13|E4|E15]1 | Ed6 | 13 _E20 1E21] 3|4 |KEY LINKAGE MFT TXPD NAME ST PECSB/APEGC STAIUTE/BTE SPC I¥R-ST/P LINKS PRP| 4|5|1 E22 | 23 |E24 | E25] E26E27IE281E29] | E30 | Il _E34 | E35 || IE3TIE38]| 5|Il 3101 1 ei E32] 1 LAi 1E33 E36 E39| 7/ |7l 3111 1 1 /]221 E22 | 23 |E24 | E25] E26E271E281E29] | E30 | 11 _E34 | E35 || IE37IE38] |2324 |Ef]l _E40 | DATE: | E41 1 | Ed42 | 24|| 123456789012 3156789 0123156 16901234 56 7890123456 7890123456 7890123156 7890123456 71890 | || 1-% | 11-19 | =z1-29 | 31-39 | 4149 | 51-59 | 6169 | 71-80 | |1 1 1 1 1 1 | 1 1 1",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "f8178c4d54694b9636250d92c6473a65",
+    "text": "Exhibit 2.2.9-4 (Cont. 1) (01-01-2008) Command Code TSUMYI — Output Screen Formats",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "5d0f73d811bc0c2824f235e7566ee5f7",
+    "text": "Element Line Position Description 1–6 SAME AS INPUT SCREEN 7 1 64–66 Current page number 8 3 1–12 Investor Edited TIN/FS 9 3 14–15 Investor MFT 10 3 17–22 Investor TAX-PRD 11 3 24–27 Investor NAME-CTRL 12 3 29–30 Investor AIMS-STATUS-CD 13 3 32–34 Investor PBC 14 3 35–39 Investor SBC or Appeals Office Code 15 3 40–43 Investor EMPLOYEE-GROUP-CD 16 3 45–52 Investor STATUTE-OF-LIMITATIONS-DT 17 3 53 Investor Restricted Statute Extension Indicator 18 3 54 Investor SUM-CLOSED-IND 19 3 55 Investor FLOWTHRU-CD 20 3 57–60 Investor SPECIAL-PROJ-CD 21 3 72–76 Investor NUM-OF-LINKS 22 5–23 1–12 Key Case Edited TIN/FS 23 5–23 14–15 Key Case MFT-CD 24 5–23 17–22 Key Case TAX–PRD 25 5–23 24–27 Key Case NAME-CTRL 26 5–23 29-30 Key Case AIMS-STATUS-CD 27 5–23 32–34 Key Case PBC 28 5–23 35–39 Key Case SBC or Appeals Office Code 29 5–23 40–43 Key Case EMPLOYEE-GROUP-CD 30 5–23 45–52 Key Case STATUTE-OF-LIMITATIONS-DT 31 5-23 53 Key Case Restricted Statute Extension 32 5–23 54 Key Case TEFRA-CD 33 5–23 55 Key Case FLOWTHRU-CD 34 5–23 57–60 Key Case SPECIAL-PROJ-CD 35 5–23 62–69 Key Case 1-YR-STAT-DT 36 5–23 70 Linkage PN-PENALTY-CD",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "3842272ac7e789ed72c50ac7fb9b9743",
+    "text": "Exhibit 2.2.9-4 (Cont. 2) (01-01-2008) Command Code TSUMYI — Output Screen Formats",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "db262479686b042633bd20e33c8f81d2",
+    "text": "TSUMYI Output Screen Format — subsequent pages.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "20110dc6ef72432fb3044ffeead9ec35",
+    "text": "H H N H H N H1-9 | 11-19 | 21-29 | 31-3% | 4149 | 51-59 | €1-69 | 71-80123456789 0123456789 0123456 789 01234 56 789 0123456 789 0123456 78901231 56778 90123456 18901|TSUMYI] E3 |1 E4 | E5 | E6 1 E43 | 1711 PRGE E71 12 |KEY LINKAGE MFT TKPD NAME ST PECSB/APEGC STRIUTE/RTF SPC I¥R-SI/P LINES PRP| 23|1 E2Z? | 23 |E24 | E251E26 E27E28 |E29] | E30 1111 E34 | E35 Il IE3E38I| 311 | 177 E31|E33 1 1|! 1E32 E36 E39|ff/ 11E33 1 1 #23] Ez? | 23 |E24 | E25|E26 EXTE22 |E29] | E20 ||I| E24 | E35 || |E31|E38)] |2224 |Effl_E40 | DRTE: | E41 | | Ed42 1 24123456789012 3456789 0123456789 0123456 789 0123456 789 0123456 78901231 5678 901 23456 18901-3 | 11-1% | 21-2% | 31-3% | 4149 | B51-59 | €1-§3 | 71-80e S S S RS B |e",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "9bd26a527204e5e4734730be8a0a312b",
+    "text": "Record Element Descriptions",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "b749d98e0046c44b70ebf76773db9c22",
+    "text": "Exhibit 2.2.9-4 (Cont. 3) (01-01-2008) Command Code TSUMYI — Output Screen Formats",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "b871443de01e80da8acf62d6018ae08f",
+    "text": "Line Position Description SAME AS INPUT SCREEN 7 1 64–66 Current page number 8 1 71–73 Total number of screen pages (Displays on last 3–23 1–12 Key Case Edited TIN/FS 3–23 14–15 Key Case MFT-CD 3–23 17–22 Key Case TAX–PRD 3–23 24–27 Key Case NAME-CTRL 3–23 29-30 Key Case AIMS-STATUS-CD 3–23 32–34 Key Case PBC 3–23 35–39 Key Case SBC or Appeals Office Code 3–23 40–43 Key Case EMPLOYEE-GROUP-CD 3–23 45–52 Key Case STATUTE-OF-LIMITATIONS-DT 3-23 53 Key Case Restricted Statute Extension Indicator 3–23 54 Key Case TEFRA-CD 3–23 55 Key Case FLOWTHRU-CD 3–23 57–60 Key Case SPECIAL-PROJ-CD 3–23 62–69 Key Case 1-YR-STAT-DT 3–23 70 Linkage PN-PENALTY-IND 3–23 72–76 Key Case NUM-OF-LINKS 3–23 78 Key Case PENALTY-CD 3–23 80 Key Case REPORT-PACKAGE-INDICATOR 24 3–12 IRS Employee Number 24 20–26 Julian Date (Format YYYYDDD) 24 29–73 Line-24 message 1 38–45 PN-BNKRPTCY-IND",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "dddc1ecad76d6f25d4ef75d8f448d93b",
+    "text": "Exhibit 2.2.9-5 (01-01-2008) Command Code TSUMYI — Output Screen Examples",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "eb0238cdd86969d579ab935021427e9e",
+    "text": "TSUMYI Output Screen Example — ﬁrst page.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "69b58f98abf33a1fceb0b210c22c67bf",
+    "text": "T T T T T T T T| 1-9 | 11-19 | 21-29 | 31-39 | 4149 | 51-59 | 61-69 | 71-80| 123456789 01234 567890123456 189 01234 56 789 0123456 7890123456 7890123456 7890123456 78 901",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "783f49f8424e10015d4d8b512dbad461",
+    "text": "A B Bt R e It A R S I i e B12345678901234 567890123456 7189 0123456 1890123456 7890123456 7890123456 7890123456 18 90NBT rwnkTSUMYIS00-11-1200 30 199912 EBANKRUPT PAGE 1 OF 1 PAGESINVESTOR MFT TXPD NAME ST PECSBFAPEGC STRIVIE/ECE SPC LINKS$00-11-1200 30 199912 SMIT 34 295000005800 $7ZA 0 0101 0002KEY LINFAGE MFT TXPD NAME ST PECSB/APEGC STRIVIE/RTE SPC IVR-ST/P LINKS PRP28-1200451 06 199912 TINC 06 204000001200 T 0104 00003 P28-1200111 02 199912 TEST 12 205000001002 # 0101 20000206P 00002 AEH#1234567890 DATE: 2001010 REQUEST COMPLETEDW W NERE12345678901234 567890123456 789 0123456 7890123456 789 01234 56 7890123456 7890123456 78901-9 | 11-19 | 2z1-29 | 31-39 | 4149 | 51-59 | 61-69 | 71-801 1 1 1 1 1 1",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "020fd16131597775819aae77809f8975",
+    "text": "This is an example of an output screen for the display of all Partnership records linked to the line 1 entity (an investor). This request is for all of the linkages regardless of the PBC since the input of PBC is blank. There was less than 19 partnerships linked to the investor in this example so the message on Line 24 shows REQUEST COMPLETED.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "1d989fa8a0f80ef2ae9d19e829f3cec6",
+    "text": "The Investor is in bankrupt status as indicated by the “BANKRUPT” literal displayed on line 1. A penalty involved with the key case on line 6 as indicated by the “P” immediately after the 1YR-DT.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "90c055929f8b52bf533f028a22149f2d",
+    "text": "The SUM-CLOSED-IND of 0 on line 3 (after the statute) indicates that there are still open linkages for this investor.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "63d27124d7171f5a6cdfdb6d954668c7",
+    "text": "TSUMYI Output Screen Example — subsequent pages",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "9f59b500a2be063d5855c34a4e6f8897",
+    "text": "This is an example of an output screen for the display of all Partnership records linked to line 1 entity (an investor). This request is for all of the linkages regardless of the PBC since the input of PBC is blank. were fewer than 21 partnerships remaining linked to the investor in this example so the message on Line shows REQUEST COMPLETED.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-002-009--2022-10-20.pdf",
+      "page_number": 22
+    }
+  }
+]

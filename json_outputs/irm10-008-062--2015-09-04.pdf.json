@@ -1,0 +1,4439 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "b296fc2ad250b6d6815331b84294813c",
+    "text": "(1) This IRM defines test, training, and exercise processes to ensure that:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "5fc79cfad8b83eabe10ed25469cbfc52",
+    "text": "a. Internal Revenue Service (IRS) information systems (IS) resources can be fully recovered in event that IS contingency or disaster recovery plans must be activated. b. Systems and their associated Information Systems Contingency Plans (ISCPs) or disaster recovery (DR) plans and procedures are exercised and/or tested to determine the capability of the IRS to recover and restore its systems in the event of a disruption, disaster, or catastrophe. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "bb47d2a1fb1ae85d812fe01b4a12b171",
+    "text": ") FIPS",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "f518c990b937d8be605e7bd9c83bfbcc",
+    "text": "mandates the use of Special Publication",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "4af67211905418d1fff7162399fb1741",
+    "text": "as baseline for the creation of agency IT",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "7e83cc2a8210b5a591e31866310e5d38",
+    "text": "a. Internal Revenue Service (IRS) information systems (IS) resources can be fully recovered in the event that IS contingency or disaster recovery plans must be activated. b. Systems and their associated Information Systems Contingency Plans (ISCPs) or disaster recovery (DR) plans and procedures are exercised and/or tested to determine the capability of the IRS to recover and restore its systems in the event of a disruption, disaster, or catastrophe.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "ef9fb91f946dda3350ff87b85ecdfd81",
+    "text": "IRM 10.8.62 is part of the Security, Privacy and Assurance policy family, IRM Part 10 series for IRS Information Technology Cybersecurity.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "660fefba284eb826f23c35b83014ee0c",
+    "text": "The following sections have been updated/clarified with this version of policy:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "7fed61be20a935417fab86ea798f6090",
+    "text": "a. IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "880d6bf6e8efa96f5912738bb33b0461",
+    "text": ", Overview: Updated the title of IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "f2e307e7de284a0cd98571ede192705f",
+    "text": "b. IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "7be8354cf3e26c2b539d972e1ebc0b82",
+    "text": ", Authority: Updated the title of IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "40f70ffffbe0b6f108237a7230f2f671",
+    "text": "c. IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1c61e6853a151e645ef6baf719047a5e",
+    "text": ", Scope: Updated the title of IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "8cafc0691bb7fe0883e954822510c45b",
+    "text": ", and defined FISMA, and ISCP, d. IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "187759749353f9cddfb6f24989e54251",
+    "text": ", Risk Acceptance and Risk-Based Decisions: Updated Hyperlink. e. IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "9017ecf63be03788b892e95945707cda",
+    "text": ", Security Risk Management (SRM) Organization: Removed DR Test, Exercise, and Evaluation (DRTEE) and changed to new group name DR Testing and Business Analysis (DRTBA). f. IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "fb7d24af4e9fd379461b29e139e255dd",
+    "text": ", Security Risk Management (SRM) Organization: Updated the time frame for updating the ISCP and added additional control in regards to functional exercises/test for reportable assets. g. IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "e3da2cb79a111871a5cd3b9f5210b8af",
+    "text": ", Security Risk Management (SRM) Organization: Removed Trusted Agent FISMA (TAF) and changed to new system Treasury FISMA Inventory Management System (TFIMS). h. IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a0ea9b2491737b295ba5a661b348b16b",
+    "text": ", IRS Information Technology (IRS IT) Services Operations: Defined KISAM. i. IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "1ef27689a248be54a2a772e48c6dcbe3",
+    "text": ", ISCP and DR Test, Training, and Exercises (TT&E) Requirement: Updated control in regards to annual tabletop exercises. j. IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "442682914f39490a20597e61da67ef44",
+    "text": ", Test, Training, and Exercises (TT&E) Program: Added new control in to functional exercises. k. IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "f88a335ba961ff42872f012fa1379984",
+    "text": ", Keystroke Procedures: Updated title from Disaster Recovery Keystroke Procedures to Keystroke Procedures. l. IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "2702b99846ed0ef9064d4ac87132a271",
+    "text": ", Tabletop Exercises: Added new control in regards to ISCP and DR Testing Checklist. m. IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "297dc17e61670c8cae6d0fcdd4efbd0f",
+    "text": ", Training: Added new control in regards to ISCP and DR Testing",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "86b680fae182080b0437d64afb9cd862",
+    "text": "n. IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "58adc1866691b372c556920b7acbefb0",
+    "text": ", Tabletop Exercises: Updated the conference call invitation time period. o. IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "cdb4ee2aea69cc6a83331bbe96dc2caa",
+    "text": ".",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "9c70b907db8b4405c6b7fcf8ea4006bd",
+    "text": ", Scorecard: Updated control. p. IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "1985328b8242c793e8cfe22336b6a0ce",
+    "text": ", Treasury FISMA Inventory Management System (TFIMS): Updated subsection title from Trusted Agent FISMA (TAF) to Treasury FISMA Inventory Management System (TFIMS), and added additional control. q. IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "68cc3ffe5a80681c327a9c832d12867a",
+    "text": ": Updated all instances of DRTEE to DRTBA. r. IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "853cdfe5a7a5022337e67a0ac881e026",
+    "text": ": Updated all instances of TAF with TFIMS. s. Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "267575df2126db4e0652b8c0639263cb",
+    "text": ", ISCP & DR Testing Checklist: Updated link and added and added link to checklist. t. Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "10c01157e59c5ed57b52a63de835ee28",
+    "text": ", ISCP Functional Exercise Methodology and Procedures: Updated link. u. Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "f52a582fbb0efb5e296d76cc8fb0d945",
+    "text": ", BOD ISCP & DR Testing Job Aid: Updated link. v. Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "bdc8cbb9ac8f4502530dcd90c78e5084",
+    "text": ", Glossary and Acronyms: Added acronyms and definitions w. Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "c7bdf737b5dd1c091a3e5c325c519369",
+    "text": ", References: Updated references. Editorial changes (including grammar, spelling, and minor clarification) were made throughout",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "389ceb506e259a8aa9371af1f6a7c977",
+    "text": "Editorial changes (including grammar, spelling, and minor clarification) were made throughout the",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "590605862d88f500b88e802fb61686a4",
+    "text": "EFFECT ON OTHER DOCUMENTS",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "9f3fcf8c26fcfceda0e6aaaa8054ee84",
+    "text": "IRM 10.8.62 dated July 24, 2013, is superseded. This IRM supersedes all prior versions of IRM 10.8.62. This IRM supplements IRM 10.8.1, Information Technology (IT) Security Policy and Guidance; IRM 10.8.2, Information Technology Security Roles and Responsibilities; and IRM 10.8.3, Information Technology Audit Logging Security Standards. Also, this IRM supplements IRM 10.8.60.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "1e40feedb6d8e174d473a369b3da23fd",
+    "text": "AUDIENCE",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "9289591b2b3bd5def8b707bc6d04479c",
+    "text": "IRM 10.8.62 shall be distributed to all personnel responsible for ensuring that ISCPs or DR plans and procedures are exercised and/or tested to determine the capability of the IRS to recover and restore its in the event of a disruption, disaster, or catastrophe. This policy applies to all employees, contractors, and vendors of the IRS.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "617fd590ac06d777e4ddc711a7dd9745",
+    "text": "Treasury FISMA Inventory Management System",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "1cb0e48604b6185bbb05d10f5a9deefa",
+    "text": "System Contingency Plan (ISCP) and Disaster Recovery Training, and Exercise (TT&E) Process",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ef51e648dfc814b76990088c13114222",
+    "text": "page (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "bbe56261e3d5b95f2217e8b2105e8891",
+    "text": ") This IRM augments the security controls as defined in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "055f2c87ddf55ca28b753d1b78fa9754",
+    "text": ", IT Continuity Management (ITSCM) Policy and Guidance (formerly Information Technology (IT) Disaster Recovery Policy and Guidance), to ensure Internal Revenue Service (IRS) information technology (IT) resources and business processes can be recovered. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "dfea6e091d51e3356ead6823acc82cf7",
+    "text": ") This IRM establishes the minimum baseline security policy and requirements for all IRS IT assets in order to: a. Protect the critical infrastructure and assets of the IRS against attacks exploit IRS assets. b. Prevent unauthorized access to IRS assets. c. Enable IRS IT computing environments that meet the security require- ments of this policy and support the business needs of the organization. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6f054fcee839ea5367f1bfd2321b539d",
+    "text": ") It is acceptable to configure settings to be more restrictive than those in this IRM. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0b8a5883e924aa9b5050d46caf9e9c8b",
+    "text": ") To configure less restrictive controls requires a risk-based decision. See the Risk Acceptance and Risk-Based Decisions (RBD) section within this IRM additional guidance. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "abbfd369fe58f26488758a92fe0e5307",
+    "text": ", Information Technology (IT) Security, Policy and Guidance, lishes the security program and the policy framework for the IRS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "bbe56261e3d5b95f2217e8b2105e8891",
+    "text": ") This IRM augments the security controls as defined in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e0ccc1ad0ae78673c0552366927cf3e2",
+    "text": ", IT Continuity Management (ITSCM) Policy and Guidance (formerly Information Technology (IT) Disaster Recovery Policy and Guidance) to ensure Internal Revenue Service (IRS) information technology (IT) resources and business processes can be recovered. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "56952237ed6538d93ef62b428a0b2134",
+    "text": ") This IRM covers the methodology that can be applied to tabletop exercise events built around any type of information system-related plan, including, not limited to, contingency and disaster recovery plans. a. Per IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "330c65cb8e2a938ed51b25efe974725e",
+    "text": ", IT Service Continuity Management (ITSCM) Policy Guidance and the guidance listed in the References section, the IRS exercise or test Information System Contingency Plans (ISCPs) and Disaster Recovery (DR) planning documents at least annually, for tion systems prescribed by Public Law and the IRS. b. Each Federal Information Security Management (FISMA) year (as in E-Government Act of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8f66af2000b047985610a856f623d66e",
+    "text": "(P.L.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "453b7a23e8a59265fe0a9d66375888e5",
+    "text": "), Title III, Federal Security Management Act (FISMA) of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ba2e375051e2094ac2f08e1260cb6daa",
+    "text": "), the Director of Security Management (SRM) shall issue a program memorandum specific to mation System Contingency Plan (ISCP) and DR testing for that FISMA year. The memorandum shall include any changes in regulations and testing requirements/guidance. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "61663277f57172f98e347b852b36e1d1",
+    "text": ") The provisions in this manual apply to: a. All offices and business, operating, and functional units within the IRS. b. When IT is used to accomplish the IRS mission. c. Individuals and organizations having contractual arrangements with the (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ec1d5f81aa0c8906f8423742b2129aca",
+    "text": "Information System Contingency Plan (ISCP) and Disaster Recovery (DR) Test, Training, and Exercise (TT&E) Process 10.8.62 page 1",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5c9a770876d191725538d679d44274b0",
+    "text": "IRM 10.8.1, Information Technology (IT) Security, Policy and Guidance, lishes the security program and the policy framework for the IRS.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f8631698672d29ce5a7795af051c9f85",
+    "text": "a. Per IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4828141de3419ecc8b8f1b0ee9f3d893",
+    "text": ", IT Service Continuity Management (ITSCM) Policy and Guidance and the guidance listed in the References section, the IRS shall exercise or test Information System Contingency Plans (ISCPs) and Disaster Recovery (DR) planning documents at least annually, for informa- tion systems prescribed by Public Law and the IRS. b. Each Federal Information Security Management (FISMA) year (as defined in E-Government Act of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8f66af2000b047985610a856f623d66e",
+    "text": "(P.L.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "abdc0d37ccdf630cbc04e3ce8070ee82",
+    "text": "), Title III, Federal Information Security Management Act (FISMA) of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "bf45e4dbc98f2430ae0483b506ac1a25",
+    "text": "), the Director of Security Risk Management (SRM) shall issue a program memorandum specific to Infor- mation System Contingency Plan (ISCP) and DR testing for that FISMA year. The memorandum shall include any changes in regulations and testing requirements/guidance.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "33600f8532cdcbd15a6ccfede377cd6a",
+    "text": "Guidance and the guidance listed in the References section, the IRS exercise or test Information System Contingency Plans (ISCPs) and Disaster Recovery (DR) planning documents at least annually, for tion systems prescribed by Public Law and the IRS. b. Each Federal Information Security Management (FISMA) year (as defined in E-Government Act of 2002 (P.L. 107-347), Title III, Federal Information Security Management Act (FISMA) of 2002), the Director of Security Risk Management (SRM) shall issue a program memorandum specific to Infor- mation System Contingency Plan (ISCP) and DR testing for that FISMA year. The memorandum shall include any changes in regulations and",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "860c568cc53e1ca2d8ddd52e10ee2597",
+    "text": "Information Technology (IT) IRS, including employees, contractors, vendors, and outsourcing providers, which use or operate information systems that store, or transmit IRS Information or connect to an IRS network or system. d. All IRS information and information systems. For information systems store, process, or transmit classified information, please refer to IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f8f22b93cb87831155737dc8e111dc84",
+    "text": ", National Security Information, for additional procedures for ing classified information. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "62338f4a150da62334df7374b69d870b",
+    "text": ") The IRS shall ensure that the product and version selected is in with IRS Enterprise Architecture (EA) Enterprise Standards Profile (ESP) dictates the official products and versions of software within the IRS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6dd43eb0cf45707b05166f6d6bbd75f8",
+    "text": ") The IRS shall ensure the application or system version is a version for the vendor still offers standardized technical support. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "97da11b5c7b3c8db6e30940ead6a2754",
+    "text": ") In the event there is a discrepancy between this policy and IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7683a448f43f574d9f875da78fab7792",
+    "text": "has precedence, unless the security controls/requirements in this are more restrictive. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "21729bccb5838daa030b194f6206aa9b",
+    "text": ") Any exception to this policy requires that the Authorizing Official (AO) make Risk-Based Decision (RBD). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "84db08e6e298cfc08bbb99405fe11e50",
+    "text": ") Risk-Based Decision requests shall be submitted in accordance with IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "20120af816ba126e4195cb6d466104c1",
+    "text": "and use Form",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "bb3720e0fe65788738ab2907e91f5c35",
+    "text": ", as described in Request for Risk Acceptance Risk-Based Decision Standard Operating Procedures (SOPs), available on Enterprise FISMA Compliance Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "30dd191e97693fd608bb8b87117a9a6f",
+    "text": "oint site via the Risk Acceptance Requests link at: https://portal.ds.irsnet.gov/sites/Cybe",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "93d6ed2f88eb4223e2e9a39fb957fa64",
+    "text": "RM/Public/Sit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ed7043f6e04bd21e988637a2e59b2266",
+    "text": "ages/Ris",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "20491ab63647d785f54bc1f0925abf95",
+    "text": "cceptance.aspx. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3d5cd143153d4cd10c0af30d69a5a0b1",
+    "text": ") Refer to IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "6192d3e88053a6377ade790193390f60",
+    "text": "for additional guidance about risk acceptance. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ea71b1478d3041827e5e0c1678b3eab8",
+    "text": ", Information Technology Security Roles and Responsibilities, defines IRS-wide roles and responsibilities related to IRS information and computer security, and is the authoritative source for such information. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d5cfe64203b3b9588ece78f92a88fa70",
+    "text": ") The supplemental requirements provided below are specific to the tion of Test, Training, and Exercise (TT&E) processes. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3d5cd143153d4cd10c0af30d69a5a0b1",
+    "text": ") Refer to IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "30a615ad336655700066f3ec3e3450f5",
+    "text": "for additional guidance on Security Risk Management (SRM) program roles and responsibilities. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "034b7b61b0379a147851e9a37f3f926f",
+    "text": ") SRM DR Testing and Business Anlaysis (DRTBA) personnel are for: a. Implementing an effective TT&E program on behalf of SRM. The shall include at a minimum the following components: i. Developing and preparing processes, templates, schedules, and dures for exercises and tests. ii. Coordinating with appropriate organizations, all ISCP and DR and tests for FISMA-reportable assets in the FISMA master inventory. iii. Documenting ISCP and DR exercise and test results and lessons learned.iv.Monitoring ISCP reviews and updates, including ensuring that the is updated within",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ab701b9f1305dfb7ea6d3d26c92cf8",
+    "text": "days or June",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "0acd1b1b59d025b3baf0de2f50b8f6f7",
+    "text": "of the FISMA cycle, whichever Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "333e0a1e27815d0ceee55c473fe3dc93",
+    "text": "G",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7e667630ddac01816cff2302308f80a9",
+    "text": "10.8 Information Technology (IT)",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "ce73c14fe8cdeb291f65e06ef2658060",
+    "text": "IRS, including employees, contractors, vendors, and outsourcing providers, which use or operate information systems that store, process, or transmit IRS Information or connect to an IRS network or system. d. All IRS information and information systems. For information systems that store, process, or transmit classified information, please refer to IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "68082056401493710837649afa6a25bf",
+    "text": ", National Security Information, for additional procedures for protect- ing classified information.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "de4c19ee24a9a5ac0c8bca7106201af5",
+    "text": "Implementing an effective TT&E program on behalf of SRM. The program shall include at a minimum the following components: i. Developing and preparing processes, templates, schedules, and proce",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "69ecdb24e3f6fe4fbd0930cc3bc1b465",
+    "text": "dures for exercises and tests. ii. Coordinating with appropriate organizations, all ISCP and DR exercises and tests for FISMA",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5ec9057409db6cfa6089dc8a3b21a13d",
+    "text": "reportable assets in the FISMA master inventory. iii. Documenting ISCP and DR exercise and test results and lessons learned.iv.Monitoring ISCP reviews and updates, including ensuring that the plan",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1423dcb5e0a0c6f345efed09e23a70fa",
+    "text": "ISCP reviews and updates, including ensuring that the plan updated within 30 days or June 1 of the FISMA cycle, whichever comes",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d5723b7dc6031152d1a2d5d116db9d79",
+    "text": "Information System Contingency Plan (ISCP) and Disaster Recovery (DR) Test, Training, and Exercise (TT&E) Process 10.8.62 page 3",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "12d0c1c05dd5802e369fcb657ab4cfa3",
+    "text": "page first, after the AO signs the ISCP Testing Checklist validating the perfor",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "084d798ddc0c58a0da450c9c2c4075df",
+    "text": "mance of the annual tabletop, functional exercise, and/or DR test, or as major changes are made to the application/system. b. Training Business Operating Division (BOD) and IRS IT personnel annually in their responsibilities related to ISCP and DR tests and izing them with the ISCP and DR test processes. c. Developing and maintaining a master ISCP and DR testing schedule for FISMA",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a0362c3d64dc69d8b45c0c38bbd5072c",
+    "text": "reportable assets in the FISMA master inventory. d. Coordinating with BODs and IRS IT to identify recovery and support personnel needed to participate in planned tests and exercises. e. Facilitating tabletop exercises of the ISCP to familiarize contingency personnel with the plan and recovery procedures within the plan and to identify inconsistencies and outdated information within the plan that affect capabilities to support contingency operations. f. Ensuring that all contingency and recovery tests performed by the IRS meet all Federal requirements and follow the standard guidelines set forth by the Director of SRM. g. Coordinating with IRS IT personnel and BOD information system staffs to ensure that they perform the following tests for all FISMA",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "20584b3cf0f509c13c1f60cfe718e059",
+    "text": "reportable cations and systems in the FISMA master inventory, or as directed in the annual SRM program memorandum: i. A functional exercise/test of the ISCP for a FISMA",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f0296ab9c61ecc30261a167be1f21e2a",
+    "text": "reportable asset with a LOW or MODERATE availability rating. ii. DR test of the ISCP/DR plan for a FISMA",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "44e6d5a4c95ef16c252dcda6ac77f8ce",
+    "text": "reportable asset with a high availability rating or an asset deemed as a Critical Infrastructure (CIP) asset. h. Validating that previous ISCP and DR related findings are reviewed prior to performance of tests and exercises to ensure that testing activities address corrective actions taken for resolution of the findings. i. Collaborating with BOD and IRS IT personnel to create DR test cases, scenarios, milestones, and summarize all in the DR test plan. j. Validating that a documented process is in place for creating system and application backup files. k. Validating that a documented process is in place for storing backup files an alternate offsite location by either electronically transferring them to designated location or by creating tapes to ship to the alternate offsite storage facility. l. Developing and maintaining scorecard/metrics to keep BOD personnel, Security Program Management Offices (PMOs), and Associate Chief mation Officers (ACIOs) informed about the status of ISCP exercising/ testing progress. m. Collaborating with IT representatives to define and document the and artifacts needed to validate test activities. n. Uploading completed exercise/test documents to Treasury FISMA Inventory Management System (TFIMS) system, uploading the updated ISCPs to TFIMS and to the Toolkit Suite Command Center (TSCC), and recording the completed test dates and ISCP completion dates into TFIMS. o. Maintaining and updating ISCP and DR test processes, templates, and procedures.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "96969683867c33850c8504814f3d4518",
+    "text": "after the AO signs the ISCP Testing Checklist validating the perfor- of the annual tabletop, functional exercise, and/or DR test, or as",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "7e667630ddac01816cff2302308f80a9",
+    "text": "10.8 Information Technology (IT)",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "b8be183d0bfdbd87d171ace07c33abca",
+    "text": "Information Technology (IT) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "db01ae5c50928c56d94aab2ed70db7f1",
+    "text": ") IRS IT operations provides support for all IRS information technology with documented exceptions. During the ISCP tabletop exercises, DR exercises and DR tests, IRS IT shall: a. Support the activities that relate to exercises and tests of the ISCP and procedures. b. Perform system backup, rebuild, recovery, reconstitution, cutover, tion, etc., for systems supported and/or owned by IRS IT. c. Provide documented backup procedures to include information about backup frequency, encryption of backup media, offsite storage, and timelines for receipt of backup media from offsite storage during normal working hours and after hours. d. Perform ISCP exercises and DR tests annually for applications and systems supported and/or owned by IRS IT. e. Provide resources for ISCP and DR exercises and tests annually for cations and systems supported and/or owned by IRS IT, including and procuring funded backup solutions and equipment for DR tests. f. Complete the ISCP & DR Testing Checklist (TFIMS artifact) (see Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "07f2bbe3560b0cccf9cecd038f4146a5",
+    "text": ") to report the results of all functional exercises, recovery tests, and operational recoveries of production servers that host applications the FISMA master inventory. g. Provide annual recommendations for updates to the ISCP Functional Exercise Methodology and Procedures (see Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ffacbdba383d72edd265c4b5fa47f2da",
+    "text": "). h. Facilitate planning meetings between various IRS IT and BOD areas in preparation for scheduled DR tests. i. Create the schedule of daily exercise activities and milestones chart in preparation for scheduled DR tests. j. Coordinate with appropriate areas in creation of DR test scenario and scope. k. Coordinate with Knowledge Incident/Problem Service Asset (KISAM) project office and Enterprise Service Desk for support and use KISAM test system during DR tests. l. Coordinate with appropriate areas (Cybersecurity, BODs, AD, etc.) to develop a DR test schedule to include necessary FISMA assets. m. Facilitate post DR test meetings with test participants to review issues resolutions to determine if any followup actions are required by appropri- ate areas. n. Work with appropriate areas to close action items that appear on the nerabilities Matrix. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "606b93802eab456b8fee3933aff9d4fb",
+    "text": ") The appropriate IRS IT organizations responsible for supporting the ISCP review, update, exercise, and/or test the ISCP at least annually (or as signifi- cant changes occur). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "48b40f4bbe48a212d49b3cf86a4c476e",
+    "text": ") Information system resources owned by Contractors or Vendors on behalf of the IRS and by BODs shall also be compliant with the IRS IT requirements identified within this IRM. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "45b284107aafadf031d3700ac78ce4fa",
+    "text": ") The BOD/Information System Owner is responsible for: a. Ensuring that applications’ ISCP is exercised and tested annually. (For step-by-step procedures see the BOD ISCP & DR Testing Job Aid,",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "7358de0253fe09c700c1e268d5741064",
+    "text": ") Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "333e0a1e27815d0ceee55c473fe3dc93",
+    "text": "G",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "5c5d32b80c739136dcd1ff9b2a2c4449",
+    "text": "Information System Contingency Plan (ISCP) and Disaster Recovery (DR) Test, Training, and Exercise (TT&E) Process 10.8.62 page 5",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "c431a285abc0f6661169e1c02919887f",
+    "text": "Ensuring that the most current version of the ISCP is kept in the TFIMS authoritative repository for FISMA documentation, and that the current plan is used during all ISCP exercises and tests. Reviewing the most current version of the Plan of Action and Milestones (POA&M) prior to performing exercises or tests to identify ISCP- and DR- related issues, both open and recently closed, for inclusion in the current exercise or test to determine if the annual ISCP tests could provide a closing action for the finding. Completing the ISCP & DR Testing Checklist (see Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "79c9a73d5de6777faa3d5a2901f3103c",
+    "text": ") prior to tabletop exercises and ensuring that tabletop participants each receive a copy of the completed Checklist for use during the exercise. Participating in tabletop exercises using the ISCP & DR Testing Checklist (the Checklist) to ensure that applications’ ISCPs are kept current and accurate and participants validate roles and procedures documented in the plans. Providing annual recommendations for updates to the ISCP test methodol- ogy and templates. Ensuring that the application’s/system’s AO receives and reviews the results, summary findings, and ISCP changes after tabletop and functional exercises. The AO shall validate that tabletop and functional exercises are completed by signing and dating the ISCP & DR Testing Checklist. The BOD shall then ensure that the changes from the Checklist are incorpo- rated into the ISCP within",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "c9a6e830d6f011771abc680f62d60f99",
+    "text": "calendar days from the date the AO signed the Checklist, or June",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7d0b1bdfc18ddbbc7a576d29afb015c3",
+    "text": ", whichever comes first. Forwarding the completed exercise documentation for uploading into TFIMS. Performing the IRS IT activities during ISCP exercises and tests for BOD- owned applications that are not supported by IRS IT. Information system resources owned by Contractors or Vendors on behalf of IRS shall also be compliant with the IRS IT requirements identified within",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "98ff20818aac181542910f2b527277d4",
+    "text": "Ensuring that the most current version of the ISCP is kept in the TFIMS authoritative repository for FISMA documentation, and that the current plan",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "5a8d8c2200c897abf4a6d48cdd08d10c",
+    "text": "authoritative repository for FISMA documentation, and that the is used during all ISCP exercises and tests. c. Reviewing the most current version of the Plan of Action and (POA&M) prior to performing exercises or tests to identify ISCP- and related issues, both open and recently closed, for inclusion in the exercise or test to determine if the annual ISCP tests could provide a closing action for the finding. d. Completing the ISCP & DR Testing Checklist (see Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4915b55bc63d638ef4f812d3462c0e00",
+    "text": ") to tabletop exercises and ensuring that tabletop participants each a copy of the completed Checklist for use during the exercise. e. Participating in tabletop exercises using the ISCP & DR Testing (the Checklist) to ensure that applications’ ISCPs are kept current accurate and participants validate roles and procedures documented plans. f. Providing annual recommendations for updates to the ISCP test ogy and templates. g. Ensuring that the application’s/system’s AO receives and reviews the results, summary findings, and ISCP changes after tabletop and exercises. The AO shall validate that tabletop and functional completed by signing and dating the ISCP & DR Testing Checklist. BOD shall then ensure that the changes from the Checklist are rated into the ISCP within",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1c463f633357b44d9a5e3f348584beb1",
+    "text": "calendar days from the date the AO the Checklist, or June",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "63ee6233e09ff94a11b823b68603533f",
+    "text": ", whichever comes first. h. Forwarding the completed exercise documentation for uploading into TFIMS. i. Performing the IRS IT activities during ISCP exercises and tests for owned applications that are not supported by IRS IT. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "55a932b3347cf95a83d614d8c8f8c652",
+    "text": ") Information system resources owned by Contractors or Vendors on the IRS shall also be compliant with the IRS IT requirements identified the IRS IT Operations section in this IRM. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "9826abb6c23b80f85fd26046fa13de75",
+    "text": ") The ISCP Coordinator, having selected and implemented the backup and system recovery strategies, must designate appropriate teams to the strategy. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "3d5cd143153d4cd10c0af30d69a5a0b1",
+    "text": ") Refer to IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d306a59bce0778acb7c69cfb731d774b",
+    "text": "for the other security control families other than gency Planning. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "20dba14110cb7ee8cb20ea1b7c3513e7",
+    "text": ") The Contingency Planning controls in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "74f4d4ecf006e946bf16c561466f1e56",
+    "text": "supplement the gency Planning requirements defined in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a2ea8303a860174f1047d6ed430da5e8",
+    "text": ") In addition to the Contingency Planning requirements defined in IRM and IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "81a6e235dc662037dbc2f38bf7111f0e",
+    "text": ", the following sections for contingency planning and recovery test, training, and exercising requirements shall be applied. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4851c1c2f0afa878ae8f8e1789730f91",
+    "text": "satisfies the requirements of this security control with regard policy. Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a2c100f043087b2ff0124cbc5e9ef9fd",
+    "text": "10.8.62.2.4 (07-24-2013) Information System Contingency Plan (ISCP) Coordinator",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b8be183d0bfdbd87d171ace07c33abca",
+    "text": "Information Technology (IT) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "965e2a6e0715177bcb4d7181a5e7bc0e",
+    "text": ") All IRS applications and systems listed in the FISMA master inventory are required to undergo a tabletop exercise of the ISCP annually for all of potential impact on availability. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0b00f4b1bdd23ee9719ff6dac90ab0a5",
+    "text": ") In addition to an annual tabletop exercise, applications, and systems with a LOW and MODERATE potential impact on availability also require that a tional exercise (described in the Functional Exercises section) be performed annually. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "b79774b1008dc1d3b1e1cd850132776f",
+    "text": ") Applications and systems that are CIP assets or that have HIGH potential impact on availability, in addition to the annual tabletop exercise, must also undergo testing (described in DR Tests section) which is equivalent to a DR activity such as a cutover test or complete restoration of the system. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "325f5b191991ce883ce936c49e1cc8f2",
+    "text": ") All annual testing and exercises must be completed during the July",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d5808c0e0a479813fafc659ded78dcd1",
+    "text": "June",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "c2a6370a65dd93b72ef5a05b5a6879dc",
+    "text": "timeframe each year in order to meet IRS FISMA reporting require- ments. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "e26ef1b4ea27e8133e42da3e457d0550",
+    "text": ") For each tabletop exercise activity conducted, the results shall be in the ISCP & DR Testing Checklist testing artifact with all changes the exercise. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "f79f7e28fe87fbc1b7bbc4ba174ed77a",
+    "text": ") A testing program in non-disaster so that IRS leadership and personnel familiarity with contingency plans and procedures and validates the IRS’ gency capabilities through regular tests, training, and exercises. It can also identify issues or deficiencies for remediation. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "836db71679a6947c8a72f7cc4ae5c340",
+    "text": ") Exercises and tests offer different ways of ensuring that ISCPs provide and actionable procedures to recover or restore IRS systems and to their original state in the event of a disruption. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0a6a403ea531f9dc672a93a86b0fd128",
+    "text": ") Refer to National Institute of Standards and Technology (NIST) Special cation (SP)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "8f06c5d09ae6d63f81c0cd409de3001f",
+    "text": ", Guide to Test, Training, and Exercise Programs for Plans and Capabilities, for guidance on establishing an effective ISCP program and the various methods and approaches for conducting tabletop exercise activities. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "9bb9cc4e8fbdbecaf4e3a4a4feeb4096",
+    "text": ") All tests and exercises shall include some kind of determination of the on the organization’s operations and provide for a mechanism to update improve the plan as a result. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "f070298b86f815bd490cb782fea767c2",
+    "text": ") The depth and rigor of ISCP testing activities increases with the FIPS",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "35006db967f9e3e56f63b56e613a031d",
+    "text": "availability security objective. Refer to the ISCP templates (FIPS",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "ec06b158d6f7c9e13587c6a5df98ab76",
+    "text": "low, moderate, high) in NIST SP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "005da000204b908668a322eb01a39289",
+    "text": "for details for conducting testing appropriate to their respective impact level. (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0122bd4917c8a549c1a9250c32961be2",
+    "text": ") For LOW and MODERATE-impact systems, a tabletop and exercise shall be conducted annually to ensure that a basic level of recovery capability is available for all IRS FISMA assets. The should follow a scenario that simulates a disruption, include points of contact whose roles appear in the ISCP, be attended by the business system owners or responsible authority, and be facilitated by DRTBA personnel. The functional exercise should include an element of system recovery from backup media and is performed by IRS IT or BOD IT personnel on behalf of the BODs.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "e5d8c5924acb43c643d2278941e85a81",
+    "text": "10.8 Information Technology (IT) Security",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "923659b68bc126d837cdb3d4806203f7",
+    "text": "A testing program in non-disaster so that IRS leadership and personnel have familiarity with contingency plans and procedures and validates the IRS’ contin- gency capabilities through regular tests, training, and exercises. It can also identify issues or deficiencies for remediation.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "a0ec1ff22b659610fcf5e590b34f6716",
+    "text": "(cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "d0ecd2b7ef8df4e33d17e441724e0788",
+    "text": ") For LOW and MODERATE-impact systems, a tabletop and functional exercise shall be conducted annually to ensure that a basic level of recovery capability is available for all IRS FISMA assets. The tabletop should follow a scenario that simulates a disruption, include points of contact whose roles appear in the ISCP, be attended by the business and system owners or responsible authority, and be facilitated by DRTBA personnel. The functional exercise should include an element of system recovery from backup media and is performed by IRS IT or BOD IT personnel on behalf of the BODs.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "c7d2d62970603b7a007be2820fd38162",
+    "text": "Information System Contingency Plan (ISCP) and Disaster Recovery (DR) Test, Training, and Exercise (TT&E) Process 10.8.62 page 7",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "88ab4027502395e3a98792c5ab756265",
+    "text": "and Exercise (TT&E) Process",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "de8d4c2ebbb961563c3bcf009d958bff",
+    "text": "page (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "4718d32340769ae1585e93eaae67757d",
+    "text": ") For HIGH-impact systems or Critical Infrastructure Protection a tabletop exercise and a full-scale end-to-end or DR test shall be conducted annually to ensure that a full recovery capability is available for all the most critical IRS FISMA assets. The tabletop follow a scenario that simulates a disruption, include points of contact whose roles appear in the ISCP, be attended by the business and owners or responsible authority, and be facilitated by DRTBA personnel. The full-scale test should include a system restoration at the alternate location. This could include additional activities such as full notification activation of key personnel to the recovery location, recovery of a server database from backup media or setup, and processing from a server at alternate location. The test shall also include a full recovery and tion of the information system to a known state. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "807106c5434466001f4cdab26bbd01af",
+    "text": ") The ISCP shall provide procedures and capabilities for recovering a system application in the event of an information system disruption. The plan shall address the resources, roles, responsibilities, and procedures for restoration (ISCP) information systems and recovery of business applications and processes a disruption. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "1770f376974696c0bfd712940eadffa4",
+    "text": ") The keystroke procedures located within the ISCP are an information focused part of the plan that applies to major, usually catastrophic, events deny access to the normal facility or information system for an extended of time. The plan is designed to restore operability of the target system, cation, or computer facility at an alternate site after an emergency. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "456e6b5ad7c3498e269f9917b628d39a",
+    "text": ") The purpose of the keystroke procedures is to provide detailed step-by-step procedures to facilitate recovery of capabilities at an alternate site; the scope information system-focused and limited to major disruptions with long-term effects. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "cccd46deba99a0b1a375fc47dfa08197",
+    "text": ") As defined in NIST SP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "ddb52ea417b8ff9ad2914436ec0619a4",
+    "text": ": a. An exercise is a simulation of an emergency designed to validate the viability of one or more aspects of an ISCP. b. Personnel with roles and responsibilities in a particular ISCP meet to validate the content of a plan through discussion of their roles and responses to emergency situations, execution of responses in a operational environment, or other means of validating responses that do not include using the actual operational environment. c. Exercises are scenario-driven, such as a power failure in one of the nization’s computing centers or a fire causing certain systems to be damaged, with additional situations often being presented during the course of an exercise. d. Exercises help to identify gaps and inconsistencies within ISCPs and cedures, as well as cases where personnel need additional training or when training needs to be changed. The deficiencies identified in exercises are documented as part of the exercise process.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7b779f6402deca241bfc8b18fff57993",
+    "text": "For HIGH",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "61d74b3dbfa4826610d7fbce2a34d7f6",
+    "text": "impact systems or Critical Infrastructure Protection assets, a tabletop exercise and a full",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "70eca106145749e2aa50a8ccb9cbf082",
+    "text": "scale end",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "663ea1bfffe5038f3f0cf667f14c4257",
+    "text": "to",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "bf63f33699f4d6771f06d9690e3d558e",
+    "text": "end or DR test shall be conducted annually to ensure that a full recovery capability is available for all the most critical IRS FISMA assets. The tabletop should follow a scenario that simulates a disruption, include points of contact whose roles appear in the ISCP, be attended by the business and system owners or responsible authority, and be facilitated by DRTBA personnel. The full",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "3ab64f9345184ee80473000a94fbcf12",
+    "text": "scale test should include a system restoration at the alternate location. This could include additional activities such as full notification and activation of key personnel to the recovery location, recovery of a server or database from backup media or setup, and processing from a server at an alternate location. The test shall also include a full recovery and reconstitu",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "c19f30d96c55c4ddd003ac98ce9bca55",
+    "text": "tion of the information system to a known state.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "18f242d76abd6d82c4b22c8499fc35fb",
+    "text": "The ISCP shall provide procedures and capabilities for recovering a system or application in the event of an information system disruption. The plan shall address the resources, roles, responsibilities, and procedures for restoration of information systems and recovery of business applications and processes after a disruption.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "8580218222d4aa0b42e4b886693f1813",
+    "text": "a. An exercise is a simulation of an emergency designed to validate the viability of one or more aspects of an ISCP. b. Personnel with roles and responsibilities in a particular ISCP meet to validate the content of a plan through discussion of their roles and responses to emergency situations, execution of responses in a simulated operational environment, or other means of validating responses that do not include using the actual operational environment. c. Exercises are scenario",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "b8aebe334a10251b3eb3bab2d2ce04e5",
+    "text": "driven, such as a power failure in one of the orga",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "63c90b4a675c198f6769ed4d421f9dc1",
+    "text": "nization’s computing centers or a fire causing certain systems to be damaged, with additional situations often being presented during the course of an exercise. d. Exercises help to identify gaps and inconsistencies within ISCPs and pro",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "4c7669acba012cce5e9a6a6be4115737",
+    "text": "cedures, as well as cases where personnel need additional training or when training needs to be changed. The deficiencies identified in exercises are documented as part of the exercise process.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "e5d8c5924acb43c643d2278941e85a81",
+    "text": "10.8 Information Technology (IT) Security",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "21c4f0e29a355e5224ec693881ca8994",
+    "text": ") Tabletop exercises are discussion-based exercises only and do not involve deploying or recovering systems, equipment, or other resources. Personnel meet to discuss their roles during an emergency and their responses to a ticular emergency situation. During the tabletop exercise, participants also identify information or procedures in the plan to identify outdated information procedures in the plan that need to be updated and corrected. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "a1d15faaa2ab172204d31e620f695ab6",
+    "text": ") The objectives of any tabletop exercise are to validate the content of the and related policies and procedures, validate participants’ roles and bilities as documented in the plan, and validate the interdependencies documented in the plan. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "9251c7016ff48f69d406cbb8dc6b5e6d",
+    "text": ") The ISCP and DR Testing Checklist is an IRS internal document designed assist BODs and support staffs in navigating through tabletop exercise See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "d29d62f7cd4d4c949a5e6d443c06debb",
+    "text": "for the Checklist Template at the end of this (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "652da6b761deaea1d765b788a1261218",
+    "text": ") Functional exercises allow personnel to validate their operational readiness emergencies by performing their duties in a simulated operational A functional exercise is designed to exercise the roles and responsibilities of specific team members, procedures, and assets involved in one or more tional aspects of a plan (e.g., backup procedures, communications, notifications, information system equipment setup). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "554044a1afb16f416bcd9f4a8a4c103a",
+    "text": ") Functional exercises vary in complexity and scope, from validating specific aspects of a plan (e.g., backup retrieval, reading backup data, and offsite storage) to exercising all plan elements in a simulation. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8a779a180fb7d049c71558e87f72fc73",
+    "text": ") Functional exercises allow staff to execute their roles and responsibilities as they would in an actual emergency situation, but in a simulated manner. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "bfc6184b1c1fd1c072e09a6b2d34c5e0",
+    "text": ") In the context of DR, a test is the method used to evaluate the readiness and ability to recover a system from varying degrees of non- functioning to its original functional state by following authorized keystroke procedures. Components of tests are listed in these sections, such as using quantifiable metrics to validate the operability of an information system or system component in an operational environment specified in an ISCP. Note: The term test is reserved for testing system hardware/software/OS capability or system components; it is not used to describe exercising (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "a1f559431f64a96588be1c24082760af",
+    "text": ") Tests are used to measure the effectiveness and suitability of the processes and procedures contained in ISCPs related to the systems being tested and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "27dab9c50ed68710934607dc88f2c3b9",
+    "text": "Functional exercises vary in complexity and scope, from validating specific aspects of a plan (e.g., backup retrieval, reading backup data, and validation of offsite storage) to exercising all plan elements in a simulation.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "87ef4cc80880a34dcb4eaf9b3f50d0ec",
+    "text": "Functional exercises allow staff to execute their roles and responsibilities as they would in an actual emergency situation, but in a simulated manner.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "986cad5d448f1e86eaaed05ebd88bdf4",
+    "text": "Note: The term test is reserved for testing system hardware/software/OS recovery capability or system components; it is not used to describe exercising plans.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "f7a79efc1106813971d873c507ad84f8",
+    "text": "capability or system components; it is not used to describe exercising Tests are used to measure the effectiveness and suitability of the and procedures contained in ISCPs related to the systems being tested evaluate compliance with an information system contingency. In the event disaster or disruption the goal is to be able to use tested ISCPs to ensure following documented operational procedures and plans will result in ful recovery of business applications and systems. The scope of tests can range from individual system components or to comprehensive tests of all systems and components that support an Examples of tests are: a. Component tests",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "ce7c70f00cb8c49b927c883746af9b77",
+    "text": "Restoring a system by retrieving backup data from offsite storage and loading the data to test the usability of the data. b. System tests",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "677fe6ad03dc9918c55f7d61c2b9676d",
+    "text": "Restoring multiple components such as the operating system, database, and system software by using data stored offsite.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "49e45e9e0245b9d6aacbaff3d2981460",
+    "text": "Tests are used to measure the effectiveness and suitability of the processes and procedures contained in ISCPs related to the systems being tested and evaluate compliance with an information system contingency. In the event of disaster or disruption the goal is to be able to use tested ISCPs to ensure following documented operational procedures and plans will result in ful recovery of business applications and systems. The scope of tests can range from individual system components or systems",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "c381f2570bfddc373a6a3aac46580afa",
+    "text": "Component tests",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "0ea0de68152f7fd4b98ed901207babf1",
+    "text": "Restoring a system by retrieving backup data from offsite storage and loading the data to test the usability of the data. System tests",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "677fe6ad03dc9918c55f7d61c2b9676d",
+    "text": "Restoring multiple components such as the operating system, database, and system software by using data stored offsite.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "223f207f05e64af3e6864d880f14db07",
+    "text": "Information System Contingency Plan (ISCP) and Disaster Recovery (DR) Test, Training, and Exercise (TT&E) Process 10.8.62 page 9",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3914795462496adbe3948bf2803067d8",
+    "text": "A test is conducted in as close to an operational environment as possible, testing components, or systems used to conduct daily operations.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "0fbf7ba07a2e105b23ea6881f73edda8",
+    "text": "following areas, as applicable: (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "6c6b43d040d0f44cd539f00b2a9d645b",
+    "text": ") Notification procedures (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "233b71398131382e994d70186c1e21e1",
+    "text": ") System recovery on an alternate platform from backup media (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3c4dd1d5a5dbb21172ecf1d0653a22b6",
+    "text": ") Internal and external connectivity (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "6dd7743217581cee88bd4e0b163503b1",
+    "text": ") System performance using alternate equipment (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "f2c1cb8bc3d72b99a3f8899069dee290",
+    "text": ") Restoration of normal operations (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "fb6f0874652fa66987e219c452f90624",
+    "text": ") Other planned tests (where coordination is identified, i.e., Continuity of erations Plan (COOP), Business Continuity Plan (BCP)) Additional test plan requirements: a. The test plan shall include a schedule detailing the timeframes for each test and test participants. b. The test plan shall clearly delineate scope, scenario, and logistics. c. The scenario chosen may be a worst-case incident or an incident most likely to occur. d. It should mimic reality as closely as possible. Training refers to informing personnel of their roles and responsibilities particular information system plan and teaching them skills related to those roles and responsibilities, thereby preparing them for participation in tests, and actual emergency situations related to the information system The scheduling of training sessions will be coordinated closely with the schedules for ISCP tabletop exercises, functional exercises, and DR tests. Training sessions will emphasize studying and understanding the following documents in preparation for participating in each test or exercise: a. ISCP – Participants will be able to answer questions about the purpose the plan, system recovery procedures, specific application processes, recovery roles and responsibilities, notification procedures, and all dices included in the plan. b. ISCP & DR Testing Checklist (see Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "b21672d7b1c6de4cfb7fd91b858d6d1d",
+    "text": ") – The ISCP Checklist shall be included in the training sessions scheduled prior to all testing and exercise events. Participants will gain knowledge of the purpose of the Checklist, how to complete it, and the procedures for its use during the scheduled exercises and tests of the ISCP.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "a0ec1ff22b659610fcf5e590b34f6716",
+    "text": "(cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "233b71398131382e994d70186c1e21e1",
+    "text": ") System recovery on an alternate platform from backup media (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3c4dd1d5a5dbb21172ecf1d0653a22b6",
+    "text": ") Internal and external connectivity (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "6dd7743217581cee88bd4e0b163503b1",
+    "text": ") System performance using alternate equipment (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "f2c1cb8bc3d72b99a3f8899069dee290",
+    "text": ") Restoration of normal operations (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "f53a0900fdb4cc05459506eefa4af3a3",
+    "text": ") Other planned tests (where coordination is identified, i.e., Continuity of erations Plan (COOP), Business Continuity Plan (BCP))",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "75f2d5b03dfeca03a2d3443490463b41",
+    "text": "a. The test plan shall include a schedule detailing the timeframes for each test and test participants. b. The test plan shall clearly delineate scope, scenario, and logistics. c. The scenario chosen may be a worst",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "edeadc8657a3b0f453fc69ea43eb0b89",
+    "text": "case incident or an incident most likely to occur. d. It should mimic reality as closely as possible.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "0e8ab7cf9fea46f0105c2828a32f936f",
+    "text": "The scheduling of training sessions will be coordinated closely with the schedules for ISCP tabletop exercises, functional exercises, and DR",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "d0c91ff05aef167cc3bd3f71e3fa9c75",
+    "text": "ISCP – Participants will be able to answer questions about the purpose the plan, system recovery procedures, specific application processes, recovery roles and responsibilities, notification procedures, and all appen- dices included in the plan. ISCP & DR Testing Checklist (see Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "67ffeb6dcef8baf5a247bbf43a0b072b",
+    "text": ") – The ISCP Testing Checklist shall be included in the training sessions scheduled prior to all testing and exercise events. Participants will gain knowledge of the purpose of the Checklist, how to complete it, and the procedures for its use during the scheduled exercises and tests of the ISCP.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "e5d8c5924acb43c643d2278941e85a81",
+    "text": "10.8 Information Technology (IT) Security",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "7107c32fc3b7210d4aa3a3445f4eff9e",
+    "text": "c. ISCP and DR Exercise/Testing Schedule – Participants will gain knowledge of the contents of the schedule, how and why it is how it is vetted. The schedule ensures that every application and in the FISMA master inventory is included in exercise and testing required under FISMA and that the dates are acceptable. d. FISMA Contingency Plan Computer Controls – Participants will gain knowledge of the Contingency Plan family of security controls (NIST",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "01d1fddacd6616d55c8515e2ffc8dcd4",
+    "text": "A, Guide for Assessing the Security Controls in Federal Systems and Organizations) and how exercising and testing of plans address deficiencies in compliance with those controls. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "a8b628dbc1d54cb797a8702159364a34",
+    "text": ") Recovery personnel shall be trained on the following plan elements: (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "1c9ab6b7e1937b445e0f8c4b19bf1604",
+    "text": ") Purpose of the plan (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "ff7ea0a1ba2f7714c9316b0fd10eff4e",
+    "text": ") Cross-team coordination and communication (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "af123600ffd5b9e8a7e8d0834041877d",
+    "text": ") Reporting procedures (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "70bafd05a525697189d2bfa4194ea6d8",
+    "text": ") Security requirements (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "0beda0b81b3193a85e934180038a4177",
+    "text": ") Team-specific processes (Activation and Notification, Recovery, and stitution Phases) (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "cfda739367cf5434ddc77d49015a33e7",
+    "text": ") Individual responsibilities (Activation and Notification, Recovery, and stitution Phases)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "98c9d0e2761921a57787db76ddecad58",
+    "text": "c. ISCP and DR Exercise/Testing Schedule – Participants will gain knowledge of the contents of the schedule, how and why it is created, how it is vetted. The schedule ensures that every application and in the FISMA master inventory is included in exercise and testing required under FISMA and that the dates are acceptable. d. FISMA Contingency Plan Computer Controls – Participants will gain knowledge of the Contingency Plan family of security controls (NIST",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "84055779a76263150234978313bade03",
+    "text": "A, Guide for Assessing the Security Controls in Federal Information Systems and Organizations) and how exercising and testing of plans address deficiencies in compliance with those controls. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "a8b628dbc1d54cb797a8702159364a34",
+    "text": ") Recovery personnel shall be trained on the following plan elements: (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "1c9ab6b7e1937b445e0f8c4b19bf1604",
+    "text": ") Purpose of the plan (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "ff7ea0a1ba2f7714c9316b0fd10eff4e",
+    "text": ") Cross-team coordination and communication (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "af123600ffd5b9e8a7e8d0834041877d",
+    "text": ") Reporting procedures (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "70bafd05a525697189d2bfa4194ea6d8",
+    "text": ") Security requirements (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "0beda0b81b3193a85e934180038a4177",
+    "text": ") Team-specific processes (Activation and Notification, Recovery, and stitution Phases) (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "57fc5916d565b1913a31f2078dfa90a2",
+    "text": ") Individual responsibilities (Activation and Notification, Recovery, and stitution Phases) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "ac299ac3fc2844b73180eadf8ddb1066",
+    "text": ") Two weeks before each new FISMA reporting cycle begins (July",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "ea62fc637d89f8af8b15b16aafeec09c",
+    "text": "), the DRTBA Staff shall solicit comments from BOD and IRS IT Point-of-Contacts (POCs) to evaluate the lessons learned from the previous ISCP and DR test period to ensure that the test process continues to be viable, cost-effective, resource efficient, and compliant with new regulations. The ISCP & DR Checklist template and ISCP template will be reviewed and revised as necessary. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3d46898ca64fa29b6f5ab1b8565628dd",
+    "text": ") DRTBA Staff will work with appropriate Organizations to develop a testing schedule each year to exercise or test the ISCP, for all the applications and systems found in the FISMA master inventory. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "c5fd22b5c73b6371ddc3c2a655f50e8e",
+    "text": ") The DRTBA Staff will facilitate all tabletop exercises for each FISMA cycle. During the Security Assessment and Authorization (SA&A) process, DRTBA personnel will collaborate with the FISMA Certification Program (CPO) to ensure that the ISCP testing schedule is in sync with the SA&A process and the Security Control Assessment schedule. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "ee39d365322b8e4758a961db7ba735d5",
+    "text": ") The schedule will be reviewed by IRS IT and BOD personnel to ensure that ISCP tabletop exercises, functional exercises, and DR tests are scheduled coordinate each application, or more than one application if requested on a case-by-case basis, using the following keys: a. Platform b. System c. BOD d. Site (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "4d74763a9d2dbe3e2e5efc8e91bc4760",
+    "text": ") DRTBA will present the revised ISCP & DR Testing Checklist template, ISCP template, the previous POC lists, and the new ISCP and DR Schedule to the Security PMO to initiate the annual exercise and testing ties. The PMO will vet the schedule and the POC list with their respective organizations and will coordinate errors, questions, and changes with the DRTBA Staff through the *IT IT DR Mailbox. When the information is Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "333e0a1e27815d0ceee55c473fe3dc93",
+    "text": "G",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "07bb55a3a807c02b3b2a13e7304427a0",
+    "text": "Recovery personnel shall be trained on the following plan elements:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "a0ec1ff22b659610fcf5e590b34f6716",
+    "text": "(cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "1c9ab6b7e1937b445e0f8c4b19bf1604",
+    "text": ") Purpose of the plan (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "ff7ea0a1ba2f7714c9316b0fd10eff4e",
+    "text": ") Cross-team coordination and communication (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "af123600ffd5b9e8a7e8d0834041877d",
+    "text": ") Reporting procedures (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "70bafd05a525697189d2bfa4194ea6d8",
+    "text": ") Security requirements (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "c4cadeca48b332160bb629f1fc34f4b3",
+    "text": ") Team-specific processes (Activation and Notification, Recovery, and Recon- stitution Phases) (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "604243aa9fc3bc9a6ff68cb59821cc9e",
+    "text": ") Individual responsibilities (Activation and Notification, Recovery, and Recon- stitution Phases)",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "4976ae66506f5571035a5cb1422ebfa4",
+    "text": "(07-24-2013) ISCP & DR Exercise and Testing",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "4ba2458736c915c6d6bb9b31e69d878c",
+    "text": "Information System Contingency Plan (ISCP) and Disaster Recovery (DR) Test, Training, and Exercise (TT&E) Process 10.8.62 page 11",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "d2bcf5b6d49e9d197b63cef41776af68",
+    "text": "page and approved by the Council, DRTBA will use the approved schedule and POC lists to begin the new testing cycle. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "889f4075fecab94a8813065287e2022f",
+    "text": ") The approved schedule is published, distributed, and followed to perform and DR exercises and tests. The schedule includes: a. A designated DRTBA Staff member as the Facilitator for each tabletop exercise. b. Changes as submitted by BOD and IRS IT authorized personnel, docu- mented by DRTBA, and distributed when updated. c. Modifications as needed during the annual FISMA reporting cycle. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "ddb9c5688e6f566c7621ca0d267bd7dd",
+    "text": ") DRTBA will enter the completed testing and updated ISCP dates in TFIMS every application and system listed in the FISMA master inventory. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "4d1dfbd5340e75fa33e29c6325fa982a",
+    "text": ") Changes in dates of scheduled exercises or tests will be coordinated the IRS IT and BOD Security PMOs who will coordinate with DRTBA to establish a new date. DRTBA will update the schedule with the new test date. However, no tests will be scheduled after April",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "011d4b024d96d92619ca058dab36d024",
+    "text": "of each FISMA reporting cycle and all tests will be completed by June",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3520590d6ad192cca7832baca275d65b",
+    "text": "to facilitate loading all completed test packages in TFIMS by the FISMA reporting deadline of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "35e10a5dca0f8f8842e8942c771a0266",
+    "text": ") DRTBA will schedule and present training for all BOD and IRS IT to ensure that they are ready to participate in the exercise. DRTBA will any questions the POCs may have about the exercise/test process or the Checklist. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "e3fbacb0347f76cadb5e35fb5ba9c17d",
+    "text": ") The Checklist is a three part form that allows BODs and Support to document multiple exercise/test activities on one form to create one tative source to standardize and simplify the archival process. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "66dd5a7b01fe29bd4c75362f1cb08668",
+    "text": ") Part A of the Checklist is the Tabletop Exercise, Part B is the Functional Exercise, and Part C is the ASPE Test or Production Operational Recovery which documents DR Testing activities. See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "196a773d53550a8d8f3446ebe77c7de9",
+    "text": "for a copy of Checklist. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "bc9925b35b79bdf77c7419f0b0586395",
+    "text": ") The ISCP & DR Testing Checklist provides a step-by-step process to guide participants through the most pertinent sections of the ISCP. The Checklist provides an area to document changes for each section in the ISCP and changes to procedures that might be needed. The Checklist also provides areas to document the results of functional exercises and DR tests, if appli- cable. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "dde11127adca8a2270bf6d17ea633cb7",
+    "text": ") The Checklist standardizes the walkthrough process for all applications and systems, and documents all testing activities and ISCP changes. The serves as the validated artifact for the tabletop exercise events and ISCP update activities. The Checklist and supporting documentation is uploaded TFIMS after it has been reviewed and signed by the AO. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "5a49e63cdbac408f43bceb346e0fc257",
+    "text": ") The Checklist is used to train personnel in their contingency roles and sibilities with respect to their application or system. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "f7fad213ded0f232b1f77668229657c1",
+    "text": ") Completion of the Checklist documenting performance of the required exercises and/or tests provides the artifact in TFIMS to validate that the Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "91515693b81f432592b91e13dabb1367",
+    "text": "and approved by the Council, DRTBA will use the approved schedule and POC lists to begin the new testing cycle.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "4b1cd5fbd64857baf5c3c9d89633fc47",
+    "text": "The approved schedule is published, distributed, and followed to perform ISCP and DR exercises and tests. The schedule includes:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "72230eb8e4ec3d8249b940d216d3b3d7",
+    "text": "Completion of the Checklist documenting performance of the required exercises and/or tests provides the artifact in TFIMS to validate that",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "e5d8c5924acb43c643d2278941e85a81",
+    "text": "10.8 Information Technology (IT) Security",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "6daaf9d8581f12eb800c9c67c9e2218e",
+    "text": "following family of controls, if appropriate, are met (Reference NIST 800-53, Revision 3, Recommended Security Controls for Federal Information",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "2e516d68f42f3e351f273a6127f89f4d",
+    "text": "Revision",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "e9abdf6d3fca50a8fd6273391fbe1eaf",
+    "text": ", Recommended Security Controls for Federal Information a. CP-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "e6524beefdafc4673a73260b2277eb2e",
+    "text": "Contingency Plan – The ISCP is pulled from TFIMS and to each participant for the tabletop exercise validating that the plan b. CP-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "5fc620be940fa90d702568fdca22cd26",
+    "text": "Contingency Training – The requirements, roles and and recovery procedures are discussed as the ISCP is exercised during the tabletop exercise. c. CP-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "60f480ee4f1031cb15d6f580fa0fd836",
+    "text": "Contingency Plan Testing and Exercises – Use of the ISCP & DR Testing Checklist to annotate the results of the exercise/test, including entering the completed test date and the AO’s signature and date, provides evidentiary documentation that the plan was exercised and tested. d. CP-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "954765985b863884fd772d45f5ea25c8",
+    "text": "Alternate Storage Site – As the tabletop exercise is performed, the ISCP is reviewed and discussed to ensure that information about procedures and an alternate storage site is identified and included in the plan. If backup procedures or alternate storage sites are not in place, a summary finding is annotated on the Checklist to document this issue. e. CP-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "4d5cd44106a7698e3f86321abbbe64e4",
+    "text": "Alternate Processing Site – During tabletop exercises, the Applica- tion Test Plan shall be reviewed to determine if an alternate processing site, based on the criticality of the application, is a viable option. In the event the infrastructure does not recover at a site where a disruption occurred, the application Business Owner would have to plan Establishment of an alternate processing site could provide a DR f. CP-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "c572001a447606c3218edd819ac13381",
+    "text": "Telecommunication Services – Tabletop exercises for IRS IT and business applications not supported by IRS IT will include about the telecommunication infrastructure and its DR capabilities, procedures, and validation that a DR plan exists for its recovery. g. CP-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "c2d9c04d161519fc0ffd47c54de8a8e8",
+    "text": "Information System Backup – Discussions during tabletop will focus on the ISCP to ensure that backup procedures are and implemented. The procedures will include information about the backup frequency, encryption of backup media, offsite storage, and timelines for receipt of backup media from offsite storage during normal working hours and after hours. If backup procedures have not been mented, a summary finding is annotated on the checklist to document issue. h. CP-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "48ea7b9f9ce5a17a04bcef812973418d",
+    "text": "Information System Recovery and Reconstitution – Tabletop sions for this control will focus on the information in Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d7aaeae89a3af3d4332e115f1af55432",
+    "text": "of the to validate that procedures are in place to recover and reconstitute IRS systems and applications. Each BOD will be responsible for identifying a Data Collector who will be re- sponsible for documenting the exercise and/or testing activities as they occur and populating the appropriate parts of the Checklist with the description of activities. The ISCP & DR Testing Checklist will be used as an artifact in TFIMS to document all tabletop exercises, functional exercises, and DR tests that are scheduled. The following sections provide procedures and guidance for performance of the activities for the testing and exercising portions of the TT&E Program.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "4f4a5c6ba705c0b8dde4ff77dbcbcf94",
+    "text": "The following sections provide procedures and guidance for performance of the activities for the testing and exercising portions of the TT&E Program.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a536fe6e6843c92a2ee481b1bb05bd53",
+    "text": "Information System Contingency Plan (ISCP) and Disaster Recovery (DR) Test, Training, and Exercise (TT&E) Process 10.8.62 page 13",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "88ab4027502395e3a98792c5ab756265",
+    "text": "and Exercise (TT&E) Process",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "ef51e648dfc814b76990088c13114222",
+    "text": "page (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "7b067f0a7e6c340b023dd0103d7a02fa",
+    "text": ") When a production program is being tested in the disaster recovery environ- ment (on IRS computer systems in an IRS facility), live data from the production backup media, including entire file(s) and database(s) involved, be used to test the backup recovery capability of that production data. IRS employees and their contractors with approved access are not required to submit a Live Data Waiver in order to test the restoration/recovery of the live data on the production backup media. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "1cced24e9c26c65ab00cbc6d13b0ce81",
+    "text": ") DRTBA will schedule and present training for all BOD and IRS IT to prepare them for the current FISMA Cycle ISCP exercises and tests. DRTBA will answer any questions the POCs may have about the test or the Checklist. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "be98f67013e80aa04bec03fe011aff7b",
+    "text": ") Based on the approved testing schedule and IRS IT/BOD POC list, the assigned DRTBA Facilitator will send the standard conference call invitation all participating POCs",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "44c0761bb5643c3be1a2df1b5cfa9c5e",
+    "text": "days prior to the day of the exercise. The DRTBA Facilitator shall provide the ISCP and DR Testing Checklist with",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "b9b05e302fc96dbbf8f40573f5da7b8a",
+    "text": "of the checklist pre-populated by the DRTBA to the Data Collector (who assigned by the BOD Security PMO or AO POC as delegated by the AO). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "86b217b7d5a0347c1c2782bf9d7b5421",
+    "text": ") Using the most current version of the ISCP and POA&M stored in TFIMS the Data Collector populates items",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "9c6725dc269a48ce4b5bc78b580ccab2",
+    "text": "through",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "6262ca1ef3cb0f0641f173bf81cb7abf",
+    "text": "and Part A on the Checklist, and necessary meets with appropriate BOD or IRS IT personnel to complete this task. When exercising and discussing the ISCP, the Data Collector and BOD or IRS IT personnel shall capture noteworthy changes prior to the tabletop. This promotes a more efficient exercise and discussion regarding how to recover the application/system. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "c502a2120d4e0ed58e8d88565fdd426a",
+    "text": ") After the Checklist is populated, and at least",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "640bb04292f08610facc261a713b66dc",
+    "text": "work days prior to the the Data Collector shall forward the checklist and the current ISCP to all ents, including the DRTBA Facilitator. If assistance is needed, the Data Collector shall notify the Facilitator or the designated DRTBA Contacts noted the invitation. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3744468412212467655a536d88f5ffc9",
+    "text": ") During the tabletop exercise, the Data Collector is responsible for capturing the Checklist all changes, observations, lessons learned, and summary findings that result from the tabletop discussions. The Date Exercise Completed block must be entered with the date the tabletop was performed. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "91b1f6c9f3061ef67c2498260743efe5",
+    "text": ") The Data Collector then has",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "add78f96f3f86a52f0a27aeafa90b536",
+    "text": "work days to update the Checklist with the result of the exercise. The Facilitator will coordinate with the Data Collector needed to provide guidance and to compare notes taken during the (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "9febff64ba472151ab32bbc04fb793d0",
+    "text": ") After the Checklist update is completed, the Data Collector shall send it to *IT IT DR Mailbox with a copy to the BOD Security PMO. DRTBA shall enter the date the checklist was received in the test tracking log and forward it to assigned DRTBA Facilitator, who shall review the Checklist to ensure that all information has been recorded. If Checklist corrections are needed, the tator will coordinate with the Data Collector to ensure that the modifications made. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "686510be58c36fc8edf7df18399dea55",
+    "text": ") Depending on the required exercises or tests, the DRTBA Facilitator can the Checklist until all other testing has been completed and can be docu- mented in Part B or Part C of the Checklist. If no other testing is required, Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "c790a943edee6a766b2c8e6ed90bdd34",
+    "text": "When a production program is being tested in the disaster recovery environ",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "cdda62042e4e4141d2b64a67c253e979",
+    "text": "ment (on IRS computer systems in an IRS facility), live data from the production backup media, including entire file(s) and database(s) involved, may be used to test the backup recovery capability of that production data. IRS employees and their contractors with approved access are not required to submit a Live Data Waiver in order to test the restoration/recovery of the live data on the production backup media.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "7ef1e2498fb21b5fc2270b1acfa18132",
+    "text": "When a production program is being tested in the disaster recovery environ- ment (on IRS computer systems in an IRS facility), live data from the production backup media, including entire file(s) and database(s) involved, may be used to test the backup recovery capability of that production data. IRS employees and their contractors with approved access are not required to submit a Live Data Waiver in order to test the restoration/recovery of the live data on the production backup media.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "70fc85c28c9fb8d930163938519436bf",
+    "text": "task. When exercising and discussing the ISCP, the Data Collector and BOD or IRS IT personnel shall capture noteworthy changes prior to the tabletop. This promotes a more efficient exercise and discussion regarding how to recover the application/system. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "c502a2120d4e0ed58e8d88565fdd426a",
+    "text": ") After the Checklist is populated, and at least",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "982cf9b4ac733e9a8e8cfd75e099410b",
+    "text": "work days prior to the tabletop, the Data Collector shall forward the checklist and the current ISCP to all recipi- ents, including the DRTBA Facilitator. If assistance is needed, the Data Collector shall notify the Facilitator or the designated DRTBA Contacts noted in the invitation. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "7f2fcbafdc08cd0a7bfc44ea0b6820a3",
+    "text": ") During the tabletop exercise, the Data Collector is responsible for capturing on the Checklist all changes, observations, lessons learned, and summary findings that result from the tabletop discussions. The Date Exercise Completed block must be entered with the date the tabletop was performed. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "91b1f6c9f3061ef67c2498260743efe5",
+    "text": ") The Data Collector then has",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "8f0b3772536be0117b396c359266c60e",
+    "text": "work days to update the Checklist with the result of the exercise. The Facilitator will coordinate with the Data Collector as needed to provide guidance and to compare notes taken during the exercise. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "1a862fcf992265c34db85e30fa6cb691",
+    "text": ") After the Checklist update is completed, the Data Collector shall send it to the *IT IT DR Mailbox with a copy to the BOD Security PMO. DRTBA shall enter the date the checklist was received in the test tracking log and forward it to the assigned DRTBA Facilitator, who shall review the Checklist to ensure that all information has been recorded. If Checklist corrections are needed, the Facili- tator will coordinate with the Data Collector to ensure that the modifications are made. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "7037792c5668c467c5e1100eb3629461",
+    "text": ") Depending on the required exercises or tests, the DRTBA Facilitator can hold the Checklist until all other testing has been completed and can be docu- mented in Part B or Part C of the Checklist. If no other testing is required, the",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "898826306221d64c8e173f719e9709ad",
+    "text": "After the Checklist update is completed, the Data Collector shall send it to the *IT IT DR Mailbox with a copy to the BOD Security PMO. DRTBA shall enter the date the checklist was received in the test tracking log and forward it to assigned DRTBA Facilitator, who shall review the Checklist to ensure that all information has been recorded. If Checklist corrections are needed, the Facili- tator will coordinate with the Data Collector to ensure that the modifications",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "c15de8ac5269ec308b7d8c5489990ed0",
+    "text": "Information Technology (IT) DRTBA Facilitator shall send the Checklist back to the Data Collector and BOD Security PMO within",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "98f1fe32056bce954659a5ba445f0664",
+    "text": "work days for final signature (digital signature is acceptable) by the AO or the AO Designee. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "f3af3ac72bda6f1752b502fc340d222d",
+    "text": ") The AO or AO Designee has a",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "43aabe761972be4003e2bbc3bd661fe4",
+    "text": "calendar day maximum timeframe for signing the Checklist unless the June",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "0bcab604c860050bdbb3b177641f1ef8",
+    "text": "deadline is less than",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "fe6451183df79e7d7a5c3c85b97688bf",
+    "text": "days, then checklist is due on June",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "8abb62ab05c2ddeb5c2010c3c768d2fb",
+    "text": "The AO or Designee shall return the signed lists to DRTBA as soon as possible to avoid delays in uploading the test packages into TFIMS prior to the end of the FISMA reporting cycle. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "374b81670af58dad938199bb5384186f",
+    "text": ") After the AO has signed the Checklist, the Data Collector or BOD Security PMO shall submit it to the *IT IT DR Mailbox, and the designated DRTBA member shall load the Checklist and all supporting documentation into (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "065134d5184e5a4bbcd74c1db8e42264",
+    "text": ") BOD and IRS IT organizations have",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "6c2b867b26c1e8c702639f19b196fd6a",
+    "text": "calendar days from the signature of the AO on the Checklist, or June",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "44fa6d7a8eaf19791fcdb7a8a585d6aa",
+    "text": ", whichever comes first, to revise the ISCP with the changes identified in the tabletop exercise. After changes are made, the BOD/IRS IT designated POC shall send the revised ISCP to the IT DR Mailbox for upload into TFIMS by the designated DRTBA Staff If no changes were noted, the existing version of the ISCP will remain in TFIMS unchanged. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "2bd0738a7d994d6363acf84a243bbd1c",
+    "text": ") Functional exercises are performed by IRS IT personnel or by the BOD’s mation system personnel when the application is not supported by IRS IT. During the performance of the functional exercises, IRS IT personnel or BOD information system personnel will complete the ISCP & DR Testing Checklist Part B as they go through the exercise. (See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "453543dc0567f05ebf653bee31782e25",
+    "text": ") (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "9b153d98a4e720dbfef06db4f541df90",
+    "text": ") See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "69dda094d35e2dd0ed395b7ca84e805f",
+    "text": ", ISCP Functional Exercise Methodology and This exhibit provides step-by-step procedures for a backup retrieval and sampling pull for functional exercise activities. All functional exercises will be conducted using the approved procedures in Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "7d46585fda7349b8425cec8c6ada0b7a",
+    "text": ") As the production environment implements new technologies, strategies, and procedures, IRS IT and SRM shall assess when to modify Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "7fcb13624aba6767fa0a1b540427eacf",
+    "text": "procedures to ensure that functional exercises can be performed to date the updated production environment. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "c7db1366915c1d1c6df79697538baf0f",
+    "text": ") During the functional exercise, the IRS IT or BOD information system personnel will take screen prints of the backup tool index header and tape or server listing to validate the method used to backup system files and/or cation data files. Take additional screen prints to validate that the data on the backup media is readable. The IRS IT or BOD information system personnel will also provide evidence in the form of routing sheets, logs, or e-mail requests proving the length of time needed between the request for backup data from offsite storage and the receipt of that data at the test site. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "42bf4a2f52daa829d36aae75989a65b9",
+    "text": ") IRS IT or BOD information system personnel shall also provide evidence to validate that documented backup procedures are in place including about the backup frequency, encryption of backup media, offsite storage site, and timelines for receipt of backup media from offsite storage during normal working hours and after hours. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "2843040627abccaf3f79762ca8ef280c",
+    "text": ") If no documented procedures describe the backup process, annotate the Summary Findings section in Part B of the Checklist to document this issue. Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "333e0a1e27815d0ceee55c473fe3dc93",
+    "text": "G",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "e5d8c5924acb43c643d2278941e85a81",
+    "text": "10.8 Information Technology (IT) Security",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "d99d316be6b8f181a1a33653427baede",
+    "text": "If no documented procedures describe the backup process, annotate the Summary Findings section in Part B of the Checklist to document this",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "faa5c39acdeda0f2b1b80e4d611381d4",
+    "text": "Information System Contingency Plan (ISCP) and Disaster Recovery (DR) Test, Training, and Exercise (TT&E) Process 10.8.62 page 15",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "88ab4027502395e3a98792c5ab756265",
+    "text": "and Exercise (TT&E) Process",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "798388608da5612f05a0e41dac67cb09",
+    "text": "page Annotate the Summary Findings section if the backup tapes are corrupted or evidence cannot captured for the exercise. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "982618598e147c1bf47f404441e876d9",
+    "text": ") At the end of the functional exercise, the IRS IT or BOD information system personnel shall update the Checklist with results from the exercise. The IT personnel performing the exercise will submit the populated Checklist and porting evidentiary documentation to DRTBA at *IT IT DR Mailbox within",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "302c45b510dffa06647ba2787944f6d1",
+    "text": "work days from the completion of the exercise. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "17d40037c93e6403770848a463d57882",
+    "text": ") DRTBA will ensure that the populated Checklist received from the IT who performed the functional exercise is consolidated with the Tabletop Exercise Checklist. DRTBA will review the evidence submitted for the func- tional test to ensure it supports the testing was completed. DRTBA wil then create the evidence package and finalize the results of the completed exercises in preparation for the AO signature. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "1ae165f290674543858ea1da4d6f35bc",
+    "text": ") The AO POC will present the completed test package to the AO for review the exercise results, the summary findings, and final validation. The AO shall sign and date the Checklist and the AO POC shall return the signed to DRTBA at *IT IT DR Mailbox for final action. Upon receipt of the signed Checklist and supporting documentation from the AO POC, DRTBA shall upload the Checklist into TFIMS as the validated artifact along with all supporting documentation. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "0c78c599880aad014dfcc3a9359d0261",
+    "text": ") IRS is required to perform DR tests on all applications with a High Impact and for CIP assets. These tests are designed to evaluate IRS readiness to cutover, relocate, restore, or rebuild IRS systems/applications. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "8a4dfa08074bfac01a444d610dfb6689",
+    "text": ") DR tests involve activities such as performing cutovers from one platform or system to another, relocation of systems/applications, or recovery of and their hosted applications. As DR tests are performed on systems, sites, platforms, hosted applications can benefit from these tests through coordina- tion of the application ISCP review and the DR test activities. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "15a1c772e54e09ddf7368aeddae5e429",
+    "text": ") IRS IT personnel perform DR tests unless IRS IT does not support the tion. The BOD’s information system personnel perform DR tests when the application is not supported by IRS IT. During the performance of the DR IRS IT personnel or BOD information system personnel shall complete the ISCP & DR Testing Checklist Part C, and Test Case templates as they go through the test. (See Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "453543dc0567f05ebf653bee31782e25",
+    "text": ") (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "fbedd285d9f9afb11bacdba18cc8abcd",
+    "text": ") The DRTBA Staff will coordinate with IRS IT organizations to identify compo- nents, systems, and/or comprehensive tests to be planned based on FISMA, Treasury, and NIST requirements, and IRS executive-level priorities. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "977b8b92bb38350fd282e200e967b57c",
+    "text": ") Production operational recoveries can also be considered in meeting FISMA and DRTBA program requirements. The Service may also consider tests with planned operational activities, such as restoring a backup, moving server from one room to another, upgrading or patching operating systems applications, or changing hardware components (e.g., swapping hard drives, replacing a failed power supply). The results of this collaboration will define scope and objectives for the tests.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "5085036284a8471774b5f8be13313f00",
+    "text": "Annotate the Summary Findings section if the backup tapes are corrupted or if evidence cannot captured for the exercise.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "e5d8c5924acb43c643d2278941e85a81",
+    "text": "10.8 Information Technology (IT) Security",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "68e2369463443b7bf94aff402b458b2f",
+    "text": ") The DRTBA Staff will collaborate with designated BOD POCs to determine if the tests identified in collaboration with IRS IT are compatible with the and processing timeframes of the Business Unit. DRTBA will coordinate with BODs to determine the level of involvement required from the BOD POCs. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "7da2c727dba88402e1767a604b4e4496",
+    "text": ") The DRTBA Staff shall create a test schedule based on IRS and FISMA re- quirements, FISMA timeframes, and business processing priorities. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "787bfc2841deeae4dd4d6c1735009c52",
+    "text": ") The DRTBA Staff will coordinate the following activities with IRS IT and BOD POCs to ensure that the Test Case Template, Test Activities Worksheet, & DR Testing Checklist, Summary Report, and all testing documentation is completed before, during, and after testing. DRTBA will: a. Coordinate with the designated IRS IT organization to ensure that tion of the Test Case Template by the IRS IT and BOD POCs with pertinent information about the test such as scope detail, objectives, recovery personnel, support personnel, and test activities is performed. b. Ensure that IRS IT POCs identify the files needed to be transmitted in preparation for the tests and determine the date for transmission of data via IRS approved protocols. c. Coordinate with Enterprise Computing Center (ECC) Security Manage- ment Office (SMO) personnel to reserve a conference room to hold meetings before, during, and after planned test activities as needed. d. Coordinate with stakeholders to ensure that pre-test activities are completed. e. Facilitate the creation of procedures to terminate the test in case opera- tional issues necessitate it. f. Coordinate with IRS IT and BOD POCs to ensure that all test including end users are familiar with the test termination procedures. g. Coordinate with IRS IT POCs to ensure that BOD end users are not adversely affected during planned test activities. h. Coordinate with IRS IT POCs at the end of the test to ensure that test activation procedures are completed. i. Review and evaluate the completed Test Case Template, worksheets, findings, corrective actions, and all test evidentiary documentation. j. Populate a test Summary Report to include findings, corrective actions, lessons learned, and summarize test worksheet results. k. Facilitate post test meetings as needed to go over Summary Report, lessons learned, and corrective actions. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "7458b8761c2c054c84bb7d9f1284a22d",
+    "text": ") The following sections describe the activities needed to capture the results",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "633a63f080d5bca5e2cf8ea926d7a8cc",
+    "text": "The DRTBA Staff will collaborate with designated BOD POCs to determine if the tests identified in collaboration with IRS IT are compatible with the priorities and processing timeframes of the Business Unit. DRTBA will coordinate with",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "ea046a24bea82df818ce9938a9252afa",
+    "text": "The DRTBA Staff will coordinate the following activities with IRS IT and BOD POCs to ensure that the Test Case Template, Test Activities Worksheet, ISCP & DR Testing Checklist, Summary Report, and all testing documentation is completed before, during, and after testing. DRTBA will:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "9fddb9aeb4020c0318f654ef70404a31",
+    "text": "The following sections describe the activities needed to capture the results of the ISCP testing program. Reporting and testing artifact control are critical to the successful completion of the exercise and testing process each year and are performed on a regular basis throughout the FISMA Reporting Cycle.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "9fddb9aeb4020c0318f654ef70404a31",
+    "text": "The following sections describe the activities needed to capture the results of the ISCP testing program. Reporting and testing artifact control are critical to the successful completion of the exercise and testing process each year and are performed on a regular basis throughout the FISMA Reporting Cycle.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "7c119e8f48f69b54c8bbd9d3fa11efd7",
+    "text": "Information System Contingency Plan (ISCP) and Disaster Recovery (DR) Test, Training, and Exercise (TT&E) Process 10.8.62 page 17",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "adeaba1cb10be4b591d89f0df808b2a9",
+    "text": ") DRTBA shall input all activities and documentation into TFIMS in a timely manner. All changes to the application or system must be recorded in DRTBA shall document changes identified during the testing process in ISCP & DR Testing Checklist artifact or in the ISCP. As these artifacts are created and/or updated, update the Contingency Planning (CP) fields in with completion dates. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "8974193e39bb3ed8139eefbdcc9da692",
+    "text": ") Documentation for all activities and all actions performed must be a timely manner. The results of each exercise/test must be fully using the ISCP & DR Testing Checklist and then uploaded into TFIMS. Note: Also coordinate with SA staff and/or inventory staff and/or Help Desk to update the asset inventory recordation, which includes the GSS and supported applications and environments. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "cd58e002692dcb5e66bc3987ed26636a",
+    "text": ") The following TFIMS documentation and TFIMS CP fields are uploaded updated after exercise/testing is completed: (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "8abe24b425fbf92ddf5185b2586aac57",
+    "text": ") Revised Contingency Plan Artifact (ISCP). (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "012a3a5664e3da0bea328570f303a88c",
+    "text": ") Tested Contingency Plan (Checklist). (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "6b7df0b73bc49046b845a8285efb49a1",
+    "text": ") Evidence (year). (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "3729f83d2972475c77fbf56690de7083",
+    "text": ") Last CP Test Date (date test/all tests were completed). (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "d5b37885ee465a8de4d5c49e9d274949",
+    "text": ") Next CP Test Date (one year from last CP Test Date).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "ba1dd955f5ce1949c92e33e21d45c035",
+    "text": ") DRTBA shall input all activities and documentation into TFIMS in a timely manner. All changes to the application or system must be recorded in TFIMS. DRTBA shall document changes identified during the testing process in the ISCP & DR Testing Checklist artifact or in the ISCP. As these artifacts are created and/or updated, update the Contingency Planning (CP) fields in with completion dates. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "906451a33a73ac6862420375482d25fa",
+    "text": ") Documentation for all activities and all actions performed must be completed a timely manner. The results of each exercise/test must be fully documented",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "bb22de1517bc4e482a52c7dea6bd500f",
+    "text": "The following TFIMS documentation and TFIMS CP fields are updated after exercise/testing is completed: (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "8abe24b425fbf92ddf5185b2586aac57",
+    "text": ") Revised Contingency Plan Artifact (ISCP). (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "012a3a5664e3da0bea328570f303a88c",
+    "text": ") Tested Contingency Plan (Checklist). (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "6b7df0b73bc49046b845a8285efb49a1",
+    "text": ") Evidence (year). (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "3729f83d2972475c77fbf56690de7083",
+    "text": ") Last CP Test Date (date test/all tests were completed). (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "d5b37885ee465a8de4d5c49e9d274949",
+    "text": ") Next CP Test Date (one year from last CP Test Date).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "e5d8c5924acb43c643d2278941e85a81",
+    "text": "10.8 Information Technology (IT) Security",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "33c1e29902d678cbcff13d561dbfd825",
+    "text": "This Page Intentionally Left Blank",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "d1fee4ab721b8f5f480704480ea6deeb",
+    "text": "Information System Contingency Plan (ISCP) and Disaster Recovery (DR) Test, Training, and Exercise (TT&E) Process 10.8.62 page 19",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "bb597c639af888badcbffa42828399e3",
+    "text": "The ISCP & DR Testing Checklist as an artifact for Treasury FISMA Inventory Management System (TFIMS) to record changes to the content of the ISCP based on information gathered during Test, Training, & Exercise (TT&E) activities documented in Parts A, B, and C of this Checklist, which are provided on the Cybersecurity’s Security Risk Management SharePoint at: https://portal.ds.irsnet.gov/sites/CyberSRM/Public/SitePages/ TestingISCP.aspx. Completion and documentation of these activities also provide evidence that the requirements in the NIST 800-53 family of controls for Contingency Planning Class are met: CP-2 Contingency Plan, CP-3 Contingency Training, and CP-4 Contingency Plan Testing and Exercise. For the latest information, refer to the Security Risk Management’s training calendar and information: https://portal.ds.irsnet.gov/sites/CyberSRM/Public/SitePages/Home.aspx",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "a8e1c7f96232d60e62a0608606572458",
+    "text": "The ISCP & DR Testing Checklist as an artifact for Treasury FISMA Inventory Management System (TFIMS) to record changes to the content of the ISCP based on information gathered during Test, Training, & Exercise (TT&E) activities documented in Parts A, B, and C of this Checklist, which are provided on the Cybersecurity’s Security Risk Management SharePoint at: https://portal.ds.irsnet.gov/sites/CyberSRM/Public/SitePages/",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "c8902b11d534f90d7e2a4c83c6fbc134",
+    "text": "Exhibit 10.8.62-2 (09-04-2015) ISCP Functional Exercise Methodology and Procedures",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "8e010190cfc60923e33e3850fc7a8394",
+    "text": "This ISCP Exercise and Testing job aid has been prepared for use by all Business Operating Divisions to inform BOD participants about the activities required to perform ISCP tabletop and functional exercises and DR testing during the current FISMA reporting cycle. For the latest information, refer to https:// portal.ds.irsnet.gov/sites/CyberSRM/Public/SitePages/Forms/AllPages.aspx",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "4e7f6a3a3b993d3f6cb2dc641e70a6d5",
+    "text": "Information System Contingency Plan (ISCP) and Disaster Recovery (DR) Test, Training, and Exercise (TT&E) Process 10.8.62 page 21",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "9316092b2acfb6917540e8479e1525ae",
+    "text": "This ISCP Exercise and Testing job aid has been prepared for use by all Business Operating Divisions (BODs) to inform BOD participants about the activities required to perform ISCP tabletop and functional exercises and DR testing during the current FISMA reporting cycle. For the latest information, refer to: https://portal.ds.irsnet.gov/sites/CyberSRM/Public/SitePages/Forms/AllPages.aspx",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "9a6f78a32bee29d637c7322838631b28",
+    "text": "IRS business processes defined by the IRS Business Units that are the most critical to the tax administration mission of the IRS and the Federal Government.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "ff1b4f0f8c3d405a8b1d887edf44d4c1",
+    "text": "A test of all systems and components that support a particular IT plan, such as a contingency plan or computer security incident response plan.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "9baddb9abdb25dfa9b980fbcc2e235db",
+    "text": "Information System Contingency Plan (ISCP) and Disaster Recovery (DR) Test, Training, and Exercise (TT&E) Process 10.8.62 page 23",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "4be217c1f9a4704a8f424797d41ce54d",
+    "text": "Exhibit 10.8.62-4 (Cont. 1) (09-04-2015) Glossary and Acronyms",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "745908ef9027bbeb817eeaa5df06afc4",
+    "text": "A sequential, narrative account of a hypothetical incident that provides the catalyst for the exercise and is intended to introduce situations that will inspire responses and thus allow demonstration of the exercise objectives.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "f931b65fb67828d837184a4f2e858eb9",
+    "text": "Term Definition or description Test In the context of DR, a test is the method used to evaluate the or- ganization’s readiness and ability to recover a system from varying degrees of non-functioning to its original functional state by following authorized ISCP/DR keystroke procedures. TFIMS Treasury FISMA Inventory Management System TSCC Tool Suite Command Center TT&E Test, Training, and Exercise TT&E Event An event used to support the maintenance of an IT plan by allowing organizations to identify problems related to an IS plan and implement solutions before an adverse situation occurs.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "fef02661f35420d69f75fe21610e25e2",
+    "text": "Definition or description",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "aeb706e48d02acfab801320c2cef93fd",
+    "text": "event used to support the maintenance of an IT plan by allowing to identify problems related to an IS plan and solutions before an adverse situation occurs.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "d9866576cd9a68778397d6bceace433d",
+    "text": "Information System Contingency Plan (ISCP) and Disaster Recovery (DR) Test, Training, and Exercise (TT&E) Process 10.8.62 page 25",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "8da3e1cbb3c5ec4ec877ba22dac7986c",
+    "text": "(cid:129) IRM 10.8.1 – Information Technology (IT) Security, Policy and Guidance. (cid:129) IRM 10.8.2 – Information Technology (IT) Security, Roles and Responsibilities. (cid:129) IRM 10.8.3 – Information Technology (IT) Security, Audit Logging Security",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "acca9867285f07def272783293f7c74d",
+    "text": "National Institute of Standards and Technology (NIST)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "a0ec1ff22b659610fcf5e590b34f6716",
+    "text": "(cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "62015bce089622266c7d0814752e7be1",
+    "text": ") NIST FIPS",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "a743aca96f561003f3b900553ce6728f",
+    "text": ": Standards for Security Categorization of Federal Information and Information (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "62015bce089622266c7d0814752e7be1",
+    "text": ") NIST FIPS",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "7a211a58596dabae13dedb0f0df6dd0d",
+    "text": ": Minimum Security Requirements for Federal Information and Information Systems. (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "49813cf4465197447639b49da9f01655",
+    "text": ") NIST SP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "250bc1347bcb70bb9cd5058f24b5c607",
+    "text": ", Rev",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "b7c8d1b0ff0068615c290d3325da24f7",
+    "text": ", Contingency Planning Guide for Federal Information Systems, May",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "dda7d43c13e29d3d5d51d8d8e74535bb",
+    "text": "(Errata page - Nov.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "919a6ee9caec942bba2c4046a96fb0f6",
+    "text": "). (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "49813cf4465197447639b49da9f01655",
+    "text": ") NIST SP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "96c544ce320cc2e8cd0a6bfbdcf90574",
+    "text": ", Guide to Information Technology Security Services, October",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "a0ec1ff22b659610fcf5e590b34f6716",
+    "text": "(cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "49813cf4465197447639b49da9f01655",
+    "text": ") NIST SP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "1fc5fdcf12723108e9786faf5fbf11a3",
+    "text": "Rev",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "0409c9fa497bf4e63bcef6e7c5298e90",
+    "text": ", Guide for Applying the Risk Management Framework to Federal Information Systems, February",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "a0ec1ff22b659610fcf5e590b34f6716",
+    "text": "(cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "49813cf4465197447639b49da9f01655",
+    "text": ") NIST SP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "58b48daddbd5f079a2021dc748d7ed2b",
+    "text": ", Recommended Security Controls for Federal Information Systems and Revision",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "ed302f9915ad3d4fb996f325ae6fde4a",
+    "text": ", May",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "a0ec1ff22b659610fcf5e590b34f6716",
+    "text": "(cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "49813cf4465197447639b49da9f01655",
+    "text": ") NIST SP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "00a884e4dbd2451a102a7a0ca9a6c4b8",
+    "text": "A Rev",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "ab7991e4c65295a6bbdddb7e81e20180",
+    "text": ", Guide for Assessing the Security Controls in Federal Information Systems Organizations, June",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "a0ec1ff22b659610fcf5e590b34f6716",
+    "text": "(cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "49813cf4465197447639b49da9f01655",
+    "text": ") NIST SP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "061c0460bdaab2ce6572e031721537de",
+    "text": "Rev.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "1045f18c3e264252e5ab8648ea0bf748",
+    "text": ", Guide for Mapping Types of Information and Information Systems to Categories: (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "f690323615be2b0873b1029220f3e1be",
+    "text": "Volumes), August",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "a0ec1ff22b659610fcf5e590b34f6716",
+    "text": "(cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "49813cf4465197447639b49da9f01655",
+    "text": ") NIST SP",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "35e74e05816c74d89f297b063e7f7296",
+    "text": ", Guide to Test, Training, and Exercise Program for IT Plans and Capabilities, September",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "9f6c00a4d3e0984b6f737bb73243e1cd",
+    "text": "E-Government Act of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "8f66af2000b047985610a856f623d66e",
+    "text": "(P.L.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "7a1d73ea4b393423a2e0b3b1e4e33190",
+    "text": "), Title III, Federal Information Security Management Act of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "899eb7555582bebca944111b8b78a6e8",
+    "text": "(FISMA). (cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "4187341266392eaadd8a882aa859fe8d",
+    "text": ") Office of Management and Budget Circular A-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "c09ddf4be56e755a0a961f9d6c136b30",
+    "text": ", Appendix III, Security of Federal Automated Informa- tion Resources, November",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "a0ec1ff22b659610fcf5e590b34f6716",
+    "text": "(cid:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "f1d8f369930d249dcadb204bb0745ec8",
+    "text": ") Public Law",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  },
+  {
+    "element_id": "40958fce96968e4e359f0085edfd261e",
+    "text": ", Computer Security Act of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm10-008-062--2015-09-04.pdf",
+      "page_number": 29
+    }
+  }
+]

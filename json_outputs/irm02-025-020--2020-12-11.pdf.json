@@ -1,0 +1,5564 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "ea77d6e222ec97696fe0b44d23f5338f",
+    "text": "This transmits new IRM 2.25.20, Integrated Enterprise Portal-Web Services, SharePoint. This IRM will address operational controls, program level controls and technology governance for the Enterprise SharePoint environment.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "36b4bfd29062763b24db983055828ab0",
+    "text": "Users of SharePoint to include IRS staff interfacing with the system in any capacity including administrator (site owner), content author (site member with write permissions), or content consumer (site visitor with read permissions).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "750d354c4cf99be8f5033423d07475c3",
+    "text": ") Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ddea8f8b1aee7a00b575678b6dad1724",
+    "text": "oint is used throughout the Service as a collaborative and content agement platform to support and enhance the productivity of IRS staff (employees and contractors). Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "7d7b3e3ae87fb93939609a8219d8bd71",
+    "text": "oint Services provides the IRS Share- Point platform and related capabilities. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9376cb5b8d5942f7e9468b4b4461a5cf",
+    "text": ") Purpose: Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "993a2a6b34a87a766e89668b294184b6",
+    "text": "oint Services maintains operational continuity, enforces provides enterprise-wide governance, and encourages Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6bea8728cdd66c63e4683ecb1583e8af",
+    "text": "oint users to adopt Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "10bc3521be34cbb5011ca05bc937283b",
+    "text": "oint best-practices. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "79e4dcbe996a1f661931af411e30470a",
+    "text": ") Audience: Users of Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a0b28da14e82d4d3eeb09f3936d516f2",
+    "text": "oint to include IRS staff interfacing with the in any capacity including administrator (site owner), content author (site member with write permissions), or content consumer (site visitor with read permissions). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "099c075a92af5b9d3bd1fc95acd52009",
+    "text": ") Policy Owner: The Director, Information Technology Enterprise Operations EOps) oversees the policies contained herein. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9c345e423454634996c64f7ad15e882f",
+    "text": ") Program Owner: IRS Information Technology Enterprise Operations Enterprise Technology Implementation Division (ETID) is responsible for administration, procedures, and updates related to the maintenance and Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5882d686585c36214f67ee6028b90e08",
+    "text": "oint. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a49050104b56b07c4761be6f40ef5d67",
+    "text": ") Primary Stakeholders: Any IRS organization utilizing the Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "bb7d26e091b048c9d25780df1abd3cea",
+    "text": "oint in any capacity, should be considered a stakeholder to the related policies procedures. Certain IRS organizations work with Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5984dffef20a9706e2fa5575a41abb1d",
+    "text": "oint Services to support operations and governance of the platform. These stakeholders include, but are not limited to, the following: • Privacy, Governmental, Liaison and Disclosure (PGLD) • User and Network Systems (UNS) • Enterprise Operations (IT-EOps) • Enterprise Life-Cycle Program Management Office (ELC PMO) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6516a4403282459259acfb9d0337e8c1",
+    "text": ") Program Goals: The goal of Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1d72b16b016cf488f10e364c9745101e",
+    "text": "oint Services is to maintain Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "cf1550cee68cee393776ba8d98d96377",
+    "text": "oint erationally, improve capabilities, provide governance, enforce policy, and support user competency and efficiency with Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a44a89c388fcbe3891fe7b9b261c56ed",
+    "text": "oint functionality. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "750d354c4cf99be8f5033423d07475c3",
+    "text": ") Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0c3c8e38131dedf6136ab3ecfeddd65d",
+    "text": "oint Services was established to consolidate infrastructure and provide enterprise-wide governance and oversight into Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ef8043cf58602e85fd45be4ab64e6835",
+    "text": "oint ties. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8cdd3975546bf72fd73324f52d07e943",
+    "text": ") All IRS Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "18ef9f4eb88bac455d9adfc72f25abec",
+    "text": "oint environments are managed exclusively by Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f3409ed2831f66467d5dfb360701d60f",
+    "text": "oint Services. No Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e3767b57370836e963796b71d8764f54",
+    "text": "oint servers or Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2e22e8aa0c9d9eacbbfa605eb67005ca",
+    "text": "oint Server software will be deployed/installed without prior approval from Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "804afdbc68465bc863da3978b2b7044a",
+    "text": "oint Services. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "750d354c4cf99be8f5033423d07475c3",
+    "text": ") Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3c95eb064f8e3f412e793eba5552092e",
+    "text": "oint Site Collections will only be created or deleted after approval Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "804afdbc68465bc863da3978b2b7044a",
+    "text": "oint Services. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "160e4b35fcedf73d32694bd936fc2913",
+    "text": ") Once created, Site Collections are the responsibility of the requesting Unit unless ownership is transferred to another Business Unit. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9e78714f48af912b7f27726fd417cdb0",
+    "text": ") Any request to change, alter, or add to the IRS Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "248841c970da6f9c7b8e72ffbe18ac64",
+    "text": "oint system ture must be reviewed and approved by Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3d04a67b147b7940b6ca85c43f335957",
+    "text": "oint Services.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "575c906be432fa18a1f647d82c420119",
+    "text": "in any capacity, should be considered a stakeholder to the related policies procedures. Certain IRS organizations work with Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5984dffef20a9706e2fa5575a41abb1d",
+    "text": "oint Services to support operations and governance of the platform. These stakeholders include, but are not limited to, the following: • Privacy, Governmental, Liaison and Disclosure (PGLD) • User and Network Systems (UNS) • Enterprise Operations (IT-EOps) • Enterprise Life-Cycle Program Management Office (ELC PMO) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6516a4403282459259acfb9d0337e8c1",
+    "text": ") Program Goals: The goal of Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1d72b16b016cf488f10e364c9745101e",
+    "text": "oint Services is to maintain Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "cf1550cee68cee393776ba8d98d96377",
+    "text": "oint erationally, improve capabilities, provide governance, enforce policy, and support user competency and efficiency with Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "a44a89c388fcbe3891fe7b9b261c56ed",
+    "text": "oint functionality. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "750d354c4cf99be8f5033423d07475c3",
+    "text": ") Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0c3c8e38131dedf6136ab3ecfeddd65d",
+    "text": "oint Services was established to consolidate infrastructure and provide enterprise-wide governance and oversight into Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "ef8043cf58602e85fd45be4ab64e6835",
+    "text": "oint ties. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "8cdd3975546bf72fd73324f52d07e943",
+    "text": ") All IRS Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "18ef9f4eb88bac455d9adfc72f25abec",
+    "text": "oint environments are managed exclusively by Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f3409ed2831f66467d5dfb360701d60f",
+    "text": "oint Services. No Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "e3767b57370836e963796b71d8764f54",
+    "text": "oint servers or Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2e22e8aa0c9d9eacbbfa605eb67005ca",
+    "text": "oint Server software will be deployed/installed without prior approval from Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "804afdbc68465bc863da3978b2b7044a",
+    "text": "oint Services. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "750d354c4cf99be8f5033423d07475c3",
+    "text": ") Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3c95eb064f8e3f412e793eba5552092e",
+    "text": "oint Site Collections will only be created or deleted after approval Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "804afdbc68465bc863da3978b2b7044a",
+    "text": "oint Services. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "160e4b35fcedf73d32694bd936fc2913",
+    "text": ") Once created, Site Collections are the responsibility of the requesting Unit unless ownership is transferred to another Business Unit. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9e78714f48af912b7f27726fd417cdb0",
+    "text": ") Any request to change, alter, or add to the IRS Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "248841c970da6f9c7b8e72ffbe18ac64",
+    "text": "oint system ture must be reviewed and approved by Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3d04a67b147b7940b6ca85c43f335957",
+    "text": "oint Services.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "14c73ccf6536241bf38689d9af45398b",
+    "text": "SharePoint Services was established to consolidate infrastructure operations and provide enterprise-wide governance and oversight into SharePoint activi-",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "1a90dbbe59ddc3dcc33604e567d9984f",
+    "text": "Once created, Site Collections are the responsibility of the requesting Unit unless ownership is transferred to another Business Unit.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "bc594cc68865364b28ab03382a6f3ae1",
+    "text": "Any request to change, alter, or add to the IRS SharePoint system infrastruc- ture must be reviewed and approved by SharePoint Services.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4e832f5b8eeab9093496ba273792699e",
+    "text": "Integrated Enterprise Portal - Web (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c5a8c72bc38ea7f232641c3795af0f76",
+    "text": ") The Chief Information Officer (CIO) ultimately is responsible for this program as part of IT-EOps. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "750d354c4cf99be8f5033423d07475c3",
+    "text": ") Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e05cf62de80bd7c59222b2a58acc292d",
+    "text": "oint Services is responsible for implementation, operations, mainte- nance, management, governance, and enhancement of the Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "2ac3402457b20bdf14fe580a668d19c0",
+    "text": "oint operating environment including all related hardware, software, and server ﬁguration. • Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3d3510b191d1d663f73e42b7e71a5ef0",
+    "text": "oint Services is responsible to support best-practices and tional consistency via the performance of various communication and education activities. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "23aa26e25cede95c409a7a1591b2dbe6",
+    "text": ") Individual IRS Business Units are responsible for ensuring that Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9f531d2b3c5c9bf9ef69dc7069c02bfe",
+    "text": "oint is used in compliance with IRS policy and provide the primary support for their users. • The individual IRS Business Units are responsible to ensure their use the Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "aa370b87bb755bb74d517b4998868e3c",
+    "text": "oint platform complies with all applicable privacy and data protection laws, regulations, and policies. • The individual IRS Business Units are responsible to ensure their use the Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "85843afc18ab2ca9ccc734bd75181929",
+    "text": "oint platform complies with applicable sections of the IRS Internal Revenue Manual (IRM) including, but not limited to, the following: • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "792028d5e9253dbdf6e736f292697f34",
+    "text": ", Information Technology Security, Policy and Guidance • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "163b51a9faabf4b79c90f22cc3d85f93",
+    "text": ", Information Technology Security, IT Security Roles and sponsibilities • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "867b6823682b524fc126ee4e45b4037e",
+    "text": ", Disclosure of Official Information, Designation of Documents (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "da36aadd806f204397788b1658090196",
+    "text": ") The Infrastructure Enterprise Steering Committee (IESC) is the source of funding for Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "fb05d6810d6189e5d052cfd99e5ae6d9",
+    "text": "oint and provides high-level governance for the Management program. Review (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "028f94185bbe605cdedd1e45853c1d0e",
+    "text": ") The Enterprise Technology Implementation Division (ETID) is responsible for oversight of Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "15bd6cf8519f05e78864b845dd48d91f",
+    "text": "oint activities and reports to the IESC. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7a9f63a5dcabbd35e70766cf2582371b",
+    "text": ") The Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8fe218cbdf2fc7698e1a7946ff90211f",
+    "text": "oint Governance Board (SPGB) and the Federal (FED) Advisory Board (CAB) provide additional oversight and direction to Services. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "809e6db4dbfb5da5a866281b1e5c918c",
+    "text": ") Most program-level direction, strategy, and change management decision making authority has been delegated to Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "804afdbc68465bc863da3978b2b7044a",
+    "text": "oint Services. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "006f7344444cc0aa1b4d1792cb2e4ee2",
+    "text": ") This program uses multiple sources to establish controls. This IRM one of the controls. Controls (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7a9f63a5dcabbd35e70766cf2582371b",
+    "text": ") The Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d658fbd070177ae66766e458890be054",
+    "text": "oint Program Project Management Plan (PMP) (available on Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9f971e888b07bbf1353a0b60cdcd8bf7",
+    "text": "oint Central) is a resource guide used to manage the various Share- Point speciﬁc duties of governance process, operational controls and other tivities at an enterprise level.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "db2134728b32f6c6ef6f7626511d60e4",
+    "text": "Integrated Enterprise Portal - Web Services",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c5a8c72bc38ea7f232641c3795af0f76",
+    "text": ") The Chief Information Officer (CIO) ultimately is responsible for this program as part of IT-EOps. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "750d354c4cf99be8f5033423d07475c3",
+    "text": ") Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e05cf62de80bd7c59222b2a58acc292d",
+    "text": "oint Services is responsible for implementation, operations, mainte- nance, management, governance, and enhancement of the Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "2ac3402457b20bdf14fe580a668d19c0",
+    "text": "oint operating environment including all related hardware, software, and server ﬁguration. • Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8c31f95a03cacc3c468edb9afd030ef0",
+    "text": "oint Services is responsible to support best-practices and opera- tional consistency via the performance of various communication and education activities. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "23aa26e25cede95c409a7a1591b2dbe6",
+    "text": ") Individual IRS Business Units are responsible for ensuring that Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "5e2b4ca443b02cc9de6ddbb7b9ebb77c",
+    "text": "oint is used in compliance with IRS policy and provide the primary support for their users. • The individual IRS Business Units are responsible to ensure their use of the Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "31c8179563bd261342081d52024ab16f",
+    "text": "oint platform complies with all applicable privacy and data protection laws, regulations, and policies. • The individual IRS Business Units are responsible to ensure their use of the Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "85843afc18ab2ca9ccc734bd75181929",
+    "text": "oint platform complies with applicable sections of the IRS Internal Revenue Manual (IRM) including, but not limited to, the following: • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "792028d5e9253dbdf6e736f292697f34",
+    "text": ", Information Technology Security, Policy and Guidance • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "db5c27c8dc6b33f9b70063274646e6e2",
+    "text": ", Information Technology Security, IT Security Roles and Re- sponsibilities • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c18bc061b51580173d64437ce6c99fef",
+    "text": ", Disclosure of Official Information, Designation of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "f4518e14527b2a7673c825267440ef15",
+    "text": "The individual IRS Business Units are responsible to ensure their use of the Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3089c29d31a1ef8ba72f436e14624bc1",
+    "text": "oint platform complies with all applicable privacy and data protection laws, regulations, and policies. The individual IRS Business Units are responsible to ensure their use of the Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "08bb7a38f378a90d01c0796738ada758",
+    "text": "oint platform complies with applicable sections of the IRS Internal Revenue Manual (IRM) including, but not limited to, the following:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4b984b3ea8cbabf522d323732da1e0d5",
+    "text": "IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1bff1b56330ba104c76063884e4c89a0",
+    "text": ", Information Technology Security, Policy and Guidance IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "04d5e96d95cb5324b50982af869226f6",
+    "text": ", Information Technology Security, IT Security Roles and sponsibilities IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "4ca474f8b84be960903a1f69cd83028a",
+    "text": ", Disclosure of Official Information, Designation of Documents",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "da36aadd806f204397788b1658090196",
+    "text": ") The Infrastructure Enterprise Steering Committee (IESC) is the source of funding for Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3614f3d0641e28288d888c03531d8e85",
+    "text": "oint and provides high-level governance for the program. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "cdd86735073ec36668ed40df98ae268c",
+    "text": ") The Enterprise Technology Implementation Division (ETID) is responsible oversight of Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "15bd6cf8519f05e78864b845dd48d91f",
+    "text": "oint activities and reports to the IESC. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7a9f63a5dcabbd35e70766cf2582371b",
+    "text": ") The Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "8fe218cbdf2fc7698e1a7946ff90211f",
+    "text": "oint Governance Board (SPGB) and the Federal (FED) Advisory Board (CAB) provide additional oversight and direction to Services. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "809e6db4dbfb5da5a866281b1e5c918c",
+    "text": ") Most program-level direction, strategy, and change management decision making authority has been delegated to Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "804afdbc68465bc863da3978b2b7044a",
+    "text": "oint Services. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "34984b722ddc228160bf49bb665eb23a",
+    "text": ") This program uses multiple sources to establish controls. This IRM one of the controls. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7a9f63a5dcabbd35e70766cf2582371b",
+    "text": ") The Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d658fbd070177ae66766e458890be054",
+    "text": "oint Program Project Management Plan (PMP) (available on Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "1a2a58db7116f9ac25a65b7116ccad2c",
+    "text": "oint Central) is a resource guide used to manage the various Point speciﬁc duties of governance process, operational controls and tivities at an enterprise level.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "b2ed9056c12cfd052bebfef62d039b8e",
+    "text": "The Infrastructure Enterprise Steering Committee (IESC) is the source of funding for SharePoint and provides high-level governance for the",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e468dc51031fe56a2c1d8e6ce986514a",
+    "text": "Program Management and Review",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "31cd2d9506bcaad7d3035f6af93ac529",
+    "text": "The SharePoint Governance Board (SPGB) and the Federal (FED) Customer Advisory Board (CAB) provide additional oversight and direction to SharePoint",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "52239f1deb183bef21f1a8b0d952a4f8",
+    "text": "program-level direction, strategy, and change management decision authority has been delegated to SharePoint Services.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "fd09bd97a3bc7f45e741dcbfada31d00",
+    "text": "2.25.20 page 3 (3) The SharePoint Site Management Guide (available on SharePoint Central) speciﬁes required activities, guidance, and policy for the management of indi- vidual site collections and sub-sites. (4) The Self-Services Request Processes - Standard Operating Procedures (SOPs) specify program-level controls relative to the performance of the follow- ing SharePoint processes: • Site Collection Deployment • Site Collection Deletion • Site Collection Quota Management • Infrastructure Change Requests • Deployment Requests (1) This program has speciﬁc terms and acronyms associated with it. (2) The table lists commonly used terms and their deﬁnitions: Deﬁnitions, and Term Deﬁnition Business Unit A generic term used for any IRS organization (office, division, etc.). Business Unit Representative (BU An IRS organization Point-Of- Rep) Contact (POC) sometimes referenced as a BU SharePoint Contact that interfaces with, and facilitates communications with, SharePoint Services. These resources are interface with SharePoint Services and perform a variety of activities and roles including: Technical POC, Gover- nance Representative, and Self- Services Reviewer. Content Owner An IRS organization speciﬁc resource with site or sub-site managerial responsibilities for content. Includes various respon- sibilities but does not rise to the level of Site Owner. Delegated Business Sponsor IRS personnel responsible for the content and conﬁguration (per- missions, etc.) associated with a SharePoint site collection from a management or non-technical perspective as necessary to satisfy all administrative, manage- rial, or governance obligations.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "03c908416383087e6444215d3bbdc944",
+    "text": "This program has speciﬁc terms and acronyms associated with it.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ec18441cbdb1d69061012801ca8a554d",
+    "text": "2.25.20.1.6 (12-11-2020) Terms, Deﬁnitions, and Acronyms",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d6ebf1b90b477aeda66c322350634577",
+    "text": "The table lists commonly used terms and their deﬁnitions:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "785c3e8020086c47905d7382897021b5",
+    "text": "Term Deﬁnition Business Unit A generic term used for any IRS organization (office, division, etc.). Business Unit Representative (BU An IRS organization Point-Of- Rep) Contact (POC) sometimes referenced as a BU SharePoint Contact that interfaces with, and facilitates communications with, SharePoint Services. These resources are interface with SharePoint Services and perform a variety of activities and roles including: Technical POC, Gover- nance Representative, and Self- Services Reviewer. Content Owner An IRS organization speciﬁc resource with site or sub-site managerial responsibilities for content. Includes various respon- sibilities but does not rise to the level of Site Owner. Delegated Business Sponsor IRS personnel responsible for the content and conﬁguration (per- missions, etc.) associated with a SharePoint site collection from a management or non-technical perspective as necessary to satisfy all administrative, manage- rial, or governance obligations.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "8c3cd5ea8be94d7e2c3f99b11cce6bdb",
+    "text": "level of Site Owner. IRS personnel responsible for the content and conﬁguration (per- missions, etc.) associated with a Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2c9958873ef6847dfed5c62af526a331",
+    "text": "oint site collection from a management or non-technical perspective as necessary to satisfy all administrative, manage- rial, or governance obligations.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "db2134728b32f6c6ef6f7626511d60e4",
+    "text": "Integrated Enterprise Portal - Web Services",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "9bea937d0a91757b09e4b3721f1bebf8",
+    "text": "2.25 Integrated Enterprise Portal - Web Services Term Deﬁnition Manager (or Site Manager) Any of the various SharePoint roles that includes site or sub-site management or administrative responsibilities. Includes Site Col- lection Sponsor, Site Collection Administrator, and Site Owner. Member (or Site Member) End-user of a site who may read or contribute information (items or documents) to the site. Out-of-the-Box Refers to software or a tool installed within an environment or platform as-is (with minimal con- ﬁguration) and without any customizations or signiﬁcant modiﬁcations. Owner (or Site Owner) Manages a speciﬁc site or sub- site. This individual has similar responsibilities as the Site Collec- tion Administrator but has a more limited scope of responsibility and access. Site Owners ensure that a current SP Privacy Impact As- sessment (PIA) is in place for their site, if needed, and that content on their site is Section 508 compliant. Section 508 Federal law mandating that all electronic and information tech- nology developed, produced, maintained, or used by the federal government be accessible to people with disabilities. SharePoint Analyst Supports SharePoint Services with SharePoint management and administration including user support, communication, process- ing requests for service, and creating documentation (policy, procedures, or best-practices). SharePoint (or Solution) Develops capabilities or solutions Developer within SharePoint using Share- Point Designer (SPD) or custom code. Examples may be custom workﬂows or customizing the master page/page templates.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "0a510ff8b6d9370269af3525f5d16e45",
+    "text": "platform as-is (with minimal con- ﬁguration) and without any customizations or signiﬁcant modiﬁcations. Manages a speciﬁc site or sub- site. This individual has similar responsibilities as the Site Collec- tion Administrator but has a more limited scope of responsibility and access. Site Owners ensure that a current SP Privacy Impact As- sessment (PIA) is in place for their site, if needed, and that content on their site is Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d0da67dd1f922fc4f3484704b870d611",
+    "text": "compliant. Federal law mandating that all electronic and information tech- nology developed, produced, maintained, or used by the federal government be accessible to people with disabilities. Supports Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "b18693744449c710121c7c6c1a62d2a5",
+    "text": "oint Services with Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "cd4313b355624292643615ba96045078",
+    "text": "oint management and administration including user support, communication, process- ing requests for service, and creating documentation (policy, procedures, or best-practices). Develops capabilities or solutions within Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "7a3d781acf7f77861ec425a9ec7300dc",
+    "text": "oint using Share- Point Designer (SPD) or custom code. Examples may be custom workﬂows or customizing the master page/page templates.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "eef1483fb5504cc41d463058fd2a7a14",
+    "text": "page 5 Term Deﬁnition SharePoint Environment An instance of SharePoint including Development, Test, Disaster Recovery, Production, SP Custom, etc. SharePoint Farm The collection of servers, software, and other components that provide the SharePoint service on an enterprise-level. SharePoint Farm Administrator Maintains, manages, and reports on one or more SharePoint farms. Provides support for any issues with the conﬁguration of SP. SharePoint Platform All environments and components comprising IRS SharePoint. Includes Production, Test, Devel- opment environments. SharePoint, SharePoint compo- nents such as Designer and InfoPath as well as associated third-party add-ons such as Nintex, AvePoint and Quest. Site (also includes sub-sites) Sites are a generic term that refer to any site within the Site Collec- tion. Sites could be top-level sites or sub-sites. Site Collection Site Collections are a grouping of sites and their sub-sites. Site Col- lections provide the core elements to all sites within the collection. Examples of these elements include security, naviga- tion, content types, site and list templates, services, etc. Site Collection Administrator Responsible for all aspects of the Site Collection and manages core elements (e.g. metadata, naviga- tion, permissions, templates, branding) across all-sub-sites. Provides support for any issues with all sub-sites. Site Collection Sponsor The Business Owner of a Site Collection responsible from a non-technical perspective.",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "6193fe0d87958449139e58594d97e8c4",
+    "text": "All environments and components comprising IRS Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "145251099093be636c5ebcb1ee7509fe",
+    "text": "oint. Includes Production, Test, Devel- opment environments. Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "922ab539d96670cc34e21437c882e8f3",
+    "text": "oint, Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "c14a2b4b186e8b510a3f7c6ae7d5a764",
+    "text": "oint compo- nents such as Designer and Inf",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "be23f7496bba724c1552c102ddf05747",
+    "text": "ath as well as associated third-party add-ons such as Nintex, Av",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "453b6709b3b4d1c57e57cc5f44417067",
+    "text": "oint and Quest.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7b5056e99ca8a6aa57dcef3ec4584b09",
+    "text": "Site Collections are a grouping of sites and their sub",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b875c0abb87770f15963f9ef6ceca516",
+    "text": "sites. Site lections provide the core elements to all sites within the collection. Examples of these elements include security, tion, content types, site and list templates, services, etc.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "033ee77af5b141a7168dbf4cc40c6858",
+    "text": "6 2.25 Integrated Enterprise Portal - Web Term Deﬁnition Third-Party Tool Administration Includes management of all third- party components and software used as part of the SharePoint platform. This could include user facing tools that facilitate forms or workﬂow development, or Admin- istrator facing tools used to assist in SharePoint management and governance. In these cases, the SharePoint Farm Administrator would typically be an Administra- tor of the third-party tool or component. Visitor (or Site Visitor) End-user of a site who has read- only access to information (items or documents) stored within the site. (3) The table lists commonly used acronyms and their deﬁnitions: Acronym Deﬁnition AC Access Controls AU Audit Controls BU Business Unit (an IRS organiza- tional unit) CAB Customer Advisory Board CIO Chief Information Officer COTS Commercial Off-the-Shelf DB Database DBA Database Administrator ELC Enterprise Life-Cycle EOps Enterprise Operations ETID Enterprise Technology Implemen- tation Division FED Federal IESC Infrastructure Enterprise Steering Committee IRAP Information Resources Accessibil- ity Program IRM Internal Revenue Manual",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "db2134728b32f6c6ef6f7626511d60e4",
+    "text": "Integrated Enterprise Portal - Web Services",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0af12400451cc0c14ea6497abf582e5c",
+    "text": "Term Deﬁnition Third-Party Tool Administration Includes management of all third- party components and software used as part of the SharePoint platform. This could include user facing tools that facilitate forms or workﬂow development, or Admin- istrator facing tools used to assist in SharePoint management and governance. In these cases, the SharePoint Farm Administrator would typically be an Administra- tor of the third-party tool or component. Visitor (or Site Visitor) End-user of a site who has read- only access to information (items or documents) stored within the site. (3) The table lists commonly used acronyms and their deﬁnitions: Acronym Deﬁnition AC Access Controls",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "f0c504b6b4d15a9b90a00621fac5853a",
+    "text": "The table lists commonly used acronyms and their deﬁnitions:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "79bdd3a3fcd424f7d77b631cc762a433",
+    "text": "Acronym Deﬁnition IT Information Technology ITM Integrated Talent Management KISAM (OS GetServices) Knowledge Incident/Problem Ser- vice Asset Management OOB Out-of-the-Box PCA Program Privacy Compliance and Assurance Program PCLIA Privacy and Civil Liberties Impact Assessment PGLD Privacy, Governmental Liaison and Disclosure PIA Privacy Impact Assessment PII Personally Identiﬁable Information PMO Program Management Office PMP Program/Project Management Plan POC Point-Of-Contact SA Systems Administrator SBU Sensitive But Unclassiﬁed SCA Site Collection Administrator SOP Standard Operating Procedure SP SharePoint (any version) SP CCB SharePoint Change Control Board SPD SharePoint Designer SPGB SharePoint Governance Board SPUG SharePoint User Group UA User Administrator UNS User and Network Services VPN Virtual Private Network",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "7a9f63a5dcabbd35e70766cf2582371b",
+    "text": ") The Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "5751ce1c677c9563bcdb28cdc24bff70",
+    "text": "oint Program/Project Management Plan (PMP) is a resource for information about this program and is available on Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "e3f1a1267846432e183078103f805fa5",
+    "text": "oint Central. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "750d354c4cf99be8f5033423d07475c3",
+    "text": ") Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "c5889e0333891d04dc74989a75a602b6",
+    "text": "oint Central is a site providing a primary method to communicate nouncements, procedures, policies, and support articles.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "0a23afdc3025976dc45b0aa537b964c1",
+    "text": "The SharePoint Program/Project Management Plan (PMP) is a resource for information about this program and is available on SharePoint Central.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "e040295933c6d48cce082b83b0f6dc09",
+    "text": "SharePoint Central is a site providing a primary method to communicate nouncements, procedures, policies, and support articles.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "4e832f5b8eeab9093496ba273792699e",
+    "text": "Integrated Enterprise Portal - Web (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "c592cd128419e3aaba2116108a7086ac",
+    "text": ") Program-level direction, strategy, and change management decision making authority is delegated to Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "804afdbc68465bc863da3978b2b7044a",
+    "text": "oint Services. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "750d354c4cf99be8f5033423d07475c3",
+    "text": ") Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "a48a117751dfef98e9be13d8162898ce",
+    "text": "oint Services provides oversight, management, and operational for IRS Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "dcf6d8edbe413588d03b4dc9e835e9a2",
+    "text": "oint. • Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "f8c2f5ef1ec0d0a9bd899f5e1755f19f",
+    "text": "oint Services supports all aspects of Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "3699402c44c4d05ea9bf91cf79c26b93",
+    "text": "oint performance including capabilities, interfaces, and impacts. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "48ae45f0be7ff012aa25e13b55e3b815",
+    "text": ") Business Units are responsible for the proper management, adherence to policy and overall administration of their organization’s individual site collec- tions. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "7a7427f7bf7a2f7db39252f1a8e239f5",
+    "text": ") This IRM establishes controls that support SP governance and platform agement. Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "74d8ccd15cd043fb6a4131e40f208adb",
+    "text": "oint Services established, maintains, and supports this (*IT Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "3de82fe48b9ff67f4dc9b25cba896701",
+    "text": "oint Communications). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "750d354c4cf99be8f5033423d07475c3",
+    "text": ") Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "6341a6579a53be4455a89f5e52f04c06",
+    "text": "oint Governance is a function of Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "12dbb6dd5c9265d2eae8c88fef00f54f",
+    "text": "oint Services. This is via interfaces with various governance organizations including the Infrastruc- Technology ture Executive Steering Committee (IESC). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "750d354c4cf99be8f5033423d07475c3",
+    "text": ") Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "2d429ffcb371759cd26581e9d00fa152",
+    "text": "oint Governance organizations and roles are identiﬁed in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "c86819f96ebf37618bc5c9b34f9caf71",
+    "text": ", Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "8e5a988090ffd80e05840ef72e145e9e",
+    "text": "oint Governance Roles. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "79aa5818aac3f32b92d4a5dc4905d34c",
+    "text": ") The primary objective of SP governance is to ensure the Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "0db22a38fd7b45860ecd765d0e6af9ff",
+    "text": "oint is implemented and managed in a manner that follows IRS policy, and regulations. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "750d354c4cf99be8f5033423d07475c3",
+    "text": ") Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "27d43d8d003a91cacd7e546db692915b",
+    "text": "oint governance includes the various Business Units to ensure that stakeholders’ interests are considered. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "7cefd14a92bb938130b18e189d534d40",
+    "text": ") The speciﬁc duties of governance process are documented in the Program/Project Management Plan (PMP). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "0b2bc7fbcec50a99bd34bf09b332b855",
+    "text": ") Local Business Unit Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "605a0f8752358a8d963cbff20267fd29",
+    "text": "oint governance should not conﬂict with IRS Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "77ec6683130661e53555023383d5646d",
+    "text": "oint Services Governance policy, procedures, and regulations. IRS Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "5e836a77872faca85bde3d1ba4acbcd0",
+    "text": "oint Services governance policy has precedence over local policy. policy is the ruling policy for the business unit unless it conﬂicts with IRS Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "9c6139597c25d97851c70407793ebf8e",
+    "text": "oint Services policy. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "75674a937ef01f8d66aebbf0f34f6a34",
+    "text": ") The mission of this office is to deliver superior, leading-edge, ﬂexible, and effective collaborative solutions that enable IRS staff to solve business Services problems and complete activities. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "f2e27a12cdcfa0c15fd15b40d1bae0e1",
+    "text": ") The primary purpose of this office is to perform day-to-day management of IRS Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "3f9813edc824dcbde3b8e56f800dff46",
+    "text": "oint platform, including ensuring operational continuity, enforcing policies, providing enterprise-wide governance, performance of all mainte- nance, and oversight of environment change management. The objectives this office are to: • Maintain Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "cf61e91faa89834ddff3939e803abfad",
+    "text": "oint successful operational up-time and minimize time mitigating risks associated with unavailability of the platform. • Interface with IRS Information Technology stakeholders, as needed, perform maintenance, patching, and infrastructure changes.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "db2134728b32f6c6ef6f7626511d60e4",
+    "text": "Integrated Enterprise Portal - Web Services",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "46c457d107033b40eb4e565e7dd4555d",
+    "text": "Program-level direction, strategy, and change management decision making authority is delegated to SharePoint Services.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "f54a6f52f99098ecb59ba45b47354e06",
+    "text": "SharePoint Services supports all aspects of SharePoint performance including capabilities, interfaces, and impacts.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "c480bffb320f3ccde374cf6d4be22814",
+    "text": "The primary objective of SP governance is to ensure the SharePoint platform is implemented and managed in a manner that follows IRS policy, procedures,",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "cf5d559a887cba308bda16dc1db98376",
+    "text": "Maintain Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "40051d6f2428218223554600e4451caf",
+    "text": "oint successful operational up-time and minimize down- time mitigating risks associated with unavailability of the platform. Interface with IRS Information Technology stakeholders, as needed, to perform maintenance, patching, and infrastructure changes.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 12
+    }
+  },
+  {
+    "element_id": "ff6315b8f1efa9748e9a320d3804321b",
+    "text": "• Provide change management oversight for changes to Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "0570d637429afba89210ffb4022fcde9",
+    "text": "oint infrastructure/conﬁguration or the deployment of customizations (including custom server-side code) to the platform. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "00b27368fd1867a058eb25acdafccc1f",
+    "text": ") The secondary purpose of this office is to deﬁne, develop, institutionalize, maintain proven guidance for the use of Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "6c55be0d99bb6fab7b4b1b089ba1ab58",
+    "text": "oint (and related systems). objectives of this office are to: • Identify strategic direction for Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "986c78aadbaf6cfc82c13ff689c4fb7f",
+    "text": "oint with consideration of IRS quirements, external process owners, and operational constraints of platform. • Integrate and standardize process and change management activities promote repeatable processes and consistency. • Provide leadership, consultation, and assistance to ensure ing and effective use policy and guidance by all affected (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "750d354c4cf99be8f5033423d07475c3",
+    "text": ") Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "e87b6bee430b62d61b0899548b044f4d",
+    "text": "oint Services does not generally perform site collection or other support activities that typically fall to the Site Managers. Exceptions may be made at Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "eb7f4cfc93cd733d2e898678103b83ea",
+    "text": "oint Services’ discretion. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "750d354c4cf99be8f5033423d07475c3",
+    "text": ") Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "c4824f94877f9ce9419469748e9b669d",
+    "text": "oint Services provides high-level support to the Business Units via a hierarchical model that involves: • Users elevating concerns or needs to the appropriate Site Owner or Collection Administrator. • Site Owners or Site Collection Administrators escalate questions or concerns to the appropriate Business Unit Representatives. • Business Unit Representatives contact Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "0398690b6abaf823ceb459231864a6b3",
+    "text": "oint Services for tion of questions as needed. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "750d354c4cf99be8f5033423d07475c3",
+    "text": ") Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "8655f9c1f6c0eab2b96bb4ddeb7fd51a",
+    "text": "oint Services offers the following products and services: • Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "3efb2e1c5de10c3764a6073c962115df",
+    "text": "oint Platform Services • Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "34fbc804430f586d4e96bc2b85040a94",
+    "text": "oint Central",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "eb55dc849a4a25fd70c7a36b70352a48",
+    "text": "Provide change management oversight for changes to Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "245acf5f2dbabbd51dd4d682f40987aa",
+    "text": "oint infrastructure/conﬁguration or the deployment of customizations (including custom server-side code) to the platform.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "f53738cd1a20a4e660bbd90f44cec78a",
+    "text": "Identify strategic direction for Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "a26bb9d85dc89a18a9475b057c538d97",
+    "text": "oint with consideration of IRS re- quirements, external process owners, and operational constraints of the platform. Integrate and standardize process and change management activities to promote repeatable processes and consistency. Provide leadership, consultation, and assistance to ensure understand- ing and effective use policy and guidance by all affected stakeholders.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "48a55670d47ac9dcc02a9a505e89d379",
+    "text": "Users elevating concerns or needs to the appropriate Site Owner or Collection Administrator. Site Owners or Site Collection Administrators escalate questions or concerns to the appropriate Business Unit Representatives. Business Unit Representatives contact Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "2d11db326414634d7a44b2ab95602f56",
+    "text": "oint Services for resolu- tion of questions as needed.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "aced95397faf358c9625f827b732c267",
+    "text": "SharePoint Services offers the following products and services:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "42a2261a09a3e8158b7651bea0e0a18f",
+    "text": "• Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "92dec3f5734211e9281b404e3a876fea",
+    "text": "oint Platform • Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "701ba529e8dabb53216b690281b87426",
+    "text": "oint Central • Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "e552da07fbe61dd7c390afcad5a022bb",
+    "text": "oint Related COTS Products • Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "243ca23da7466ff457cc596c07df9d17",
+    "text": "oint Records Management • SP Central Service Requests",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "cc49e617bea3eb09327a7fc76a5e0472",
+    "text": "Collaboration functionality supports the completion of activities physically disconnected resources. Document Management functionality supports the development and control of enterprise content. Permissions functionality supports content access controls including levels associated with reading, editing, and/or deleting content.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "754a47437eaa2ed11e5dabdb3e81cd22",
+    "text": "A Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "dfcf9e303098f18b3d006fe4e9b29b4e",
+    "text": "oint site providing a primary method to communicate announcements, procedures, policies, and support articles with end-users. Provides a method to submit SP Service Requests including: new site collection deployment, site collection deletion, site collection quota adjustments, infrastructure changes, and site/code deployments.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 13
+    }
+  },
+  {
+    "element_id": "4e832f5b8eeab9093496ba273792699e",
+    "text": "Integrated Enterprise Portal - Web (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "683602b55dcd234bff3a1f893fb521e3",
+    "text": ") The SP Central site can be found at: https://sharepointcentral.ds.irnet.gov. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "750d354c4cf99be8f5033423d07475c3",
+    "text": ") Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "c1b48f00a8d2330655327c189f86c3af",
+    "text": "oint Services facilitates the integration of various COTS add-ons for IRS Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "ec4a05aa86a8248008d8e972f07ea4f6",
+    "text": "oint to improve and enhance end-user Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "6fa19395d123a93ff4f22b0ddebdcdc5",
+    "text": "oint experience. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "750d354c4cf99be8f5033423d07475c3",
+    "text": ") Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "e8db71734d5403f06dbf48f9b892bbe1",
+    "text": "oint Services participates in the offering and management of various COTS products used with Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "5eb5633a483cd0776b8e30ff1296c779",
+    "text": "oint; a list is available on SP Central. (COTS) Products (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "dd969ab74981a34a9acd23e7a79c7234",
+    "text": ") All Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "9f9f1d37e2f6132dbe98eb5092adc933",
+    "text": "oint products and services including any related COTS within the IRS Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "9dc7d6cb183df316fef95bcadeaa6f3c",
+    "text": "oint environment must be reviewed and approved by Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "804afdbc68465bc863da3978b2b7044a",
+    "text": "oint Services. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "750d354c4cf99be8f5033423d07475c3",
+    "text": ") Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "7b53caf58c541ad0c60143789578b92f",
+    "text": "oint Services supports Privacy, Governmental Liaison and (PGLD) in the conﬁguration of Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "e7ca121c9a6d51e76ae9b84d5cb2584f",
+    "text": "oint records management services Records functions to support electronic records management per IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "e9bc95cb74a16203893004f7b3c7564a",
+    "text": ", Electronic Records. • Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "4535dc70eb3f88030848f256f8f5d5de",
+    "text": "oint Services supports PGLD in the conﬁguration of components to maintain the security of electronic records per IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "80a8cebcb967f507b7a806cb4037c591",
+    "text": ", Security of Electronic Records. • Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "b8f1d3e584a37722e8fb1e9189a031ed",
+    "text": "oint Services supports PGLD in the conﬁguration of components to support the retention, and the disposition, of records per IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "050da9cdfb961e67d78a4fd75cc97bca",
+    "text": ", Retention and Disposition of Electronic Records. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "750d354c4cf99be8f5033423d07475c3",
+    "text": ") Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "7eb392d6ac14b03509dd4be59b491558",
+    "text": "oint Services supports PGLD in the conﬁguration of Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "52d47876ab90171361378c85eadd70be",
+    "text": "oint nents, including records management services, to support Privacy and Information Protection per IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "4590da8e51adc54db732a61eb637d8da",
+    "text": ", Shared Storage PIAs. • Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3e7acfca7fa5260daa8b049e29bd8245",
+    "text": "oint Services supports the creation and submission of Share- Point speciﬁc Privacy Impact Assessments (SP-PIAs) to Privacy, Governmental Liaison and Disclosure (PGLD) per IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "18471ad1363cf97288e4740f35560f96",
+    "text": ", and Civil Liberties Impact Assessment (PCLIA). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "750d354c4cf99be8f5033423d07475c3",
+    "text": ") Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3492148aceba024a50afa3cc14f340b8",
+    "text": "oint Services supports business units, PGLD, and IT organizations the design and implementation of records management functionality in Point but does not conﬁgure and manage records management schedules including any disposition or retention decisions. • Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "71c11fcaba7ced68d6f73153b7f4aebd",
+    "text": "oint Services is not responsible for performing records ment on behalf of IRS business/operational units or providing management guidance. • Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "ad400fda3c6a6c652b8c6421471b32a9",
+    "text": "oint Services is responsible for providing expertise on how Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "c4f3df2d5515beda92ec5f68a817f2a8",
+    "text": "oint capabilities and functions may be used to support management objectives. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "f58b2fe0032dfbdc72137affe10e545e",
+    "text": ") All infrastructure or functional changes made to the IRS Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "54205ad50f69ecc110c7c5a6d405ccb4",
+    "text": "oint ment to support records management must be reviewed and approved by Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "3d04a67b147b7940b6ca85c43f335957",
+    "text": "oint Services.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "db2134728b32f6c6ef6f7626511d60e4",
+    "text": "Integrated Enterprise Portal - Web Services",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "d472bbaf4f7ea0c91e1e722b0d2ebf53",
+    "text": "The SP Central site can be found at: https://sharepointcentral.ds.irnet.gov.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "8b4f915fdf22d018ece4a2e22c6b0670",
+    "text": "SharePoint Services facilitates the integration of various COTS add-ons for IRS SharePoint to improve and enhance end-user SharePoint experience.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "4f4e3424c7516f4d5e7cfef15f3cc620",
+    "text": "Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "7eb392d6ac14b03509dd4be59b491558",
+    "text": "oint Services supports PGLD in the conﬁguration of Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "ea6ccc5e44208b930d45ebe08274a153",
+    "text": "oint components to maintain the security of electronic records per IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "beb2b2cd9716baba1053736575cfb775",
+    "text": ", Security of Electronic Records. Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "7eb392d6ac14b03509dd4be59b491558",
+    "text": "oint Services supports PGLD in the conﬁguration of Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "483b3e9039d9eb3b544742d53252357e",
+    "text": "oint components to support the retention, and the disposition, of electronic records per IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "b201322ee2b4eb134cf776f76131c06d",
+    "text": ", Retention and Disposition of Electronic Records.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "42a2261a09a3e8158b7651bea0e0a18f",
+    "text": "• Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "a20e9232e49ca1ca40c853f0f8da7807",
+    "text": "oint Services is not responsible for performing records ment on behalf of IRS business/operational units or providing records management guidance. • Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "ad400fda3c6a6c652b8c6421471b32a9",
+    "text": "oint Services is responsible for providing expertise on how Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "c138ca270d2a0973c53dfb1a91700eba",
+    "text": "oint capabilities and functions may be used to support records management objectives.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 14
+    }
+  },
+  {
+    "element_id": "9da8d38c6ef3741cd187f306646f474d",
+    "text": "page 11",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "fc0e0cee20eeaa87b3bcf81c9b346029",
+    "text": "• Certain service requests may require review and approval of the Point Change Control Board (SP CCB), other IRS organizations, or other external IT governance organizations. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "750d354c4cf99be8f5033423d07475c3",
+    "text": ") Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "f2d73e3dcb262c14d3bd61c6238741f9",
+    "text": "oint Services supports the resolution of certain incident tickets submitted via Knowledge Incident/Problem Service and Asset ment (KISAM/OS Ge",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "abfe699d37b9b3eba76c96ebf030bc1c",
+    "text": "ervices) from the Business Unit. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "750d354c4cf99be8f5033423d07475c3",
+    "text": ") Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "7530a880d44a60476aad9791d8a54ef3",
+    "text": "oint Services Technical Support is limited to supporting issues ated with the SP environment conﬁguration and/or Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "9c6e5d86d43de483590ebb1af45106e3",
+    "text": "oint Services managed infrastructure. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "5b0b624e4df99c73260d75fc88364d18",
+    "text": ") Certain Information Technology components affiliated with the Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "2166129fb9f95ba9d27fd0ceb6ccd0c8",
+    "text": "oint ronment are not supported by the Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "c421c01ee3458d04ef9af25053c67566",
+    "text": "oint Services. This includes, but not limited to, the following: • Active Directory User proﬁles • IRS Network including Virtual Private Network (VPN) connections • Users’ systems including browser settings and conﬁgurations (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "3f5b5bc994ad515384f13ca622c79b87",
+    "text": ") In certain situations, Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "92d6d566436982ee6b7cc2baffc8c4df",
+    "text": "oint Services may be able to assist Site Administrators with the recovery of data or content via the Out-of-the-Box (OOB) Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "1d168d8a89c12ec68821e7841fa905dd",
+    "text": "oint Recycle Bin or the Database (DB) tape backup. • Data loss recovery is limited based on the capabilities and the SP Recycle Bin and the DB tape backup methodology. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "7a9f63a5dcabbd35e70766cf2582371b",
+    "text": ") The Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "9c63073f2bcf81586d10ef200c41e758",
+    "text": "oint standard roles are common terms that are similar across Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "ccba5c963d500087bfe8f7ea7c0ca064",
+    "text": "oint implementations (See IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "0e28c32b24a03cc54c3a0d8b8efb2273",
+    "text": ", Terms, Deﬁnitions, Acronyms). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "aac3efd45c19ca75ec50668ffdc1e659",
+    "text": ") Each organization that deploys Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "80ae9778aa75a289613f2cf5f2e21567",
+    "text": "oint will use these roles in a sense. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "c50f8588e705e0fab1d0af05c9195a93",
+    "text": ") There are IRS speciﬁc roles established to support IRS Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "d15716b2961244212e1e873bdd5e9754",
+    "text": "oint gover- nance and management. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "b78d764890177fbece52cee65dac8fad",
+    "text": ") IRS Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "bc1011c6c81cab911fbfa3d5a81805c0",
+    "text": "oint users are expected to obtain training (including security training) appropriate to their level of use of the platform. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "750d354c4cf99be8f5033423d07475c3",
+    "text": ") Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "ff6d98ac208f4c7ba86daf062f6b1271",
+    "text": "oint Services manages the Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "da1f22dcdff9d2694e29847629799098",
+    "text": "oint platform and works with Business Unit Representatives (BU Reps) or other Points-of-Contacts to support Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "00c87b8829e1f1e93771d2aad827a1aa",
+    "text": "oint operations.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "fcc730569cf9f6dbd806c066c2600d69",
+    "text": "Data loss recovery is limited based on the capabilities and durations of the SP Recycle Bin and the DB tape backup methodology.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "50ad481750aeac9fb2e2dfbdd9c57101",
+    "text": "The SharePoint standard roles are common terms that are similar across SharePoint implementations (See IRM 2.25.20.1.6, Terms, Deﬁnitions, and",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "ec2461d5993354b25da1a36c2849a571",
+    "text": "IRS SharePoint users are expected to obtain training (including security training) appropriate to their level of use of the platform.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 15
+    }
+  },
+  {
+    "element_id": "4e832f5b8eeab9093496ba273792699e",
+    "text": "Integrated Enterprise Portal - Web (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "7a9f63a5dcabbd35e70766cf2582371b",
+    "text": ") The Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "25194c33a001be11ebbfb6fdaede951b",
+    "text": "oint Services supports the activities of the various IRS organiza- tional units formalized by Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a99a72e8f2239b726226405b56794035",
+    "text": "oint Self-Services Requests, KISAM/OS Ge",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "c79e40402653c1bba49d94f5a83ce074",
+    "text": "ervices Tickets, Patch Management, Backup/Restore Requests, Opera- tions & Maintenance Services and other ad-hoc Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "b5f7fb43b8d978d9b1bbc9e00e158e62",
+    "text": "oint Service (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "7a9f63a5dcabbd35e70766cf2582371b",
+    "text": ") The Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "8b7c2ce9d5bd40435283d0ce96560a2f",
+    "text": "oint Services manages the platform’s infrastructure including all hardware, software and components comprising the Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "1cde16bc911b29ebf9166871f10e067f",
+    "text": "oint (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "7a9f63a5dcabbd35e70766cf2582371b",
+    "text": ") The Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "66dabb75e5e745596f03afb1e82c860e",
+    "text": "oint Services establishes enterprise IRS Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "30fa6bc5bf1e48a9a09547709bd84600",
+    "text": "oint governance policy and best practices. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "9097d79ce828437a17a7ac902f06be6c",
+    "text": ") The Farm Administrator is a Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "fa920ad3a6eb55b1a2823c47f68f02ec",
+    "text": "oint Services speciﬁc role. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "3513b92d3ce9e10042d7cfb876b06be1",
+    "text": ") This role maintains, manages, and reports on one or more Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "7161a8c17bb9d176d1b38a7a94658d81",
+    "text": "oint Farm and provides support for any issues with the conﬁguration of SP. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "b231f97f684a4859c6e19c1a22bcced0",
+    "text": ") These activities require elevated rights and permissions on a variety of structure components including, but not limited to, the following: • Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a77aa09774153ac143dc778d2befa520",
+    "text": "oint Farm Administration across all Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "c6745db503f541fff82de6129e10a634",
+    "text": "oint environments (Development, Test, Disaster Recovery, Production, SP Custom, etc.) include permissions to access and manipulate all aspects of all SP Farms and the site collections contained therein. • Database Administration across all supporting databases to include missions to access and manipulate all aspects of the databases comprising the SP environment. • Server Administration across all servers and system tools to include missions to access and manipulate all aspects of the infrastructure comprising the SP environment. • Third-Party Tool Administration rights across all third-party and software used to support and facilitate the use of the Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "57e8fbfb60ef6e0da8b1a5a4b0c10b91",
+    "text": "oint platform at IRS including, for example, form tools, workﬂow tools, nance support tools, reporting tools, etc. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "782ddaf0ccf6fff0611e6a8bc211cde5",
+    "text": ") Supports the resolution of incident management tickets submitted via KISAM/OS Ge",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "9b6a817e9726ac5f13a568fe50f7b48e",
+    "text": "ervices from the Business Units (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "417e14421becfdd8c924652c64b25d97",
+    "text": ") Supports general activities associated with Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "ba6b16478e63d2abb5b15c6db50ab14e",
+    "text": "oint management and ad- ministration including user support, communication activities, processing requests for service, and creating documentation (policy, procedures, gover- nance or best-practices). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "f539c1303c70f5dabb331dee867d0342",
+    "text": ") Farm Administrators are required to take specialized IT training per IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "6c525f889b894ad27c5c381512e63dca",
+    "text": ", IT Security Roles and Responsibilities, (see Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "f7b199df8fc6f6cb247cdfe1e2859d3d",
+    "text": ", Roles That Require Special Training) due to their system administrator role. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "d38af7c7cc542d15dbd535e39f2cbb24",
+    "text": ") The Farm Administrator role includes roles deﬁned in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "5d8124660a4c08ed0cad521a744b6c54",
+    "text": ", IT Roles and Responsibilities, including, but not limited to, the following (this is because the following roles overlap with the Farm Admin role): • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "b1f37e5bd7aa67416c7f4c60fbd69807",
+    "text": ", Enterprise Architect • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "95f2535f3b37086396ffab4e23fa4a19",
+    "text": ", Database Administrator (DBA) • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "636eb8076befc4ebc03436ecea972f88",
+    "text": ", Network Administrator • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "fa74a0eabee3e3aaf7e1049568d5f2b7",
+    "text": ", Program Developer/Programmer • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "dcfac028a9c2ae7e5c9b25caf6847490",
+    "text": ", Web Developer • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "19d72d155c45e84a8d5742b4937e493f",
+    "text": ", System Administrator Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "6da43b944e494e885e69af021f93c6d9",
+    "text": "J",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "db2134728b32f6c6ef6f7626511d60e4",
+    "text": "Integrated Enterprise Portal - Web Services",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "8863fe2e7f318b1a997ef5a73a8dd05f",
+    "text": "The SharePoint Services manages the platform’s infrastructure including all hardware, software and components comprising the SharePoint",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a2276626f0f493cc6c77efe04a6ad9a1",
+    "text": "2.25.20.3.1.1 (12-11-2020) SharePoint Farm Administrator",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "f158f6fc16a978728184cdc33a305dac",
+    "text": "This role maintains, manages, and reports on one or more SharePoint and provides support for any issues with the conﬁguration of SP.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "67b75e8c938e65884e7f1975b1180941",
+    "text": "These activities require elevated rights and permissions on a variety of infra- structure components including, but not limited to, the following:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "4f4e3424c7516f4d5e7cfef15f3cc620",
+    "text": "Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "a77aa09774153ac143dc778d2befa520",
+    "text": "oint Farm Administration across all Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "c6f393da44cab043b39ab8551584cdb6",
+    "text": "oint environments (Development, Test, Disaster Recovery, Production, SP Custom, etc.) to include permissions to access and manipulate all aspects of all SP Farms and the site collections contained therein. Database Administration across all supporting databases to include per- missions to access and manipulate all aspects of the databases comprising the SP environment. Server Administration across all servers and system tools to include per- missions to access and manipulate all aspects of the infrastructure comprising the SP environment. Third-Party Tool Administration rights across all third-party components and software used to support and facilitate the use of the Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "cd2a01d8f653a8965a979ec520736d8a",
+    "text": "oint platform at IRS including, for example, form tools, workﬂow tools, gover- nance support tools, reporting tools, etc.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "41c694ab3ae82f276dbe0d0f41a5fd0a",
+    "text": "nance support tools, reporting tools, etc. Supports the resolution of incident management tickets submitted via KISAM/OS Ge",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "efe6baa63a779d9465be001a423c03cc",
+    "text": "ervices from the Business Units Supports general activities associated with Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "441654d5f72385229c13bf9670adf31a",
+    "text": "oint management and ministration including user support, communication activities, processing requests for service, and creating documentation (policy, procedures, nance or best-practices). Farm Administrators are required to take specialized IT training per IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "6c525f889b894ad27c5c381512e63dca",
+    "text": ", IT Security Roles and Responsibilities, (see Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "ca4f22dce0da37b2380e2e254e8874c3",
+    "text": ", Roles That Require Special Training) due to their system administrator role. The Farm Administrator role includes roles deﬁned in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "99473068dd7fa347d51c2945974a8abc",
+    "text": ", IT Roles and Responsibilities, including, but not limited to, the following (this because the following roles overlap with the Farm Admin role): • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "b1f37e5bd7aa67416c7f4c60fbd69807",
+    "text": ", Enterprise Architect • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "95f2535f3b37086396ffab4e23fa4a19",
+    "text": ", Database Administrator (DBA) • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "636eb8076befc4ebc03436ecea972f88",
+    "text": ", Network Administrator • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "fa74a0eabee3e3aaf7e1049568d5f2b7",
+    "text": ", Program Developer/Programmer • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "dcfac028a9c2ae7e5c9b25caf6847490",
+    "text": ", Web Developer • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "12939ea8f2640e83540d5a0d07c2bdde",
+    "text": ", System Administrator",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "4b984b3ea8cbabf522d323732da1e0d5",
+    "text": "IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "68910b14744eac6c2ff5e330ccae3e51",
+    "text": ", Enterprise Architect IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "6b333e9016f4847c987ac50f5103b1b2",
+    "text": ", Database Administrator (DBA) IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "570c91b21c3d9f37a120903719c73234",
+    "text": ", Network Administrator IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "7317116133d1809e1f9681956ee3c728",
+    "text": ", Program IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "79b628d2542ec1ced883a66f299fdeba",
+    "text": ", Web Developer IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "12939ea8f2640e83540d5a0d07c2bdde",
+    "text": ", System Administrator",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 16
+    }
+  },
+  {
+    "element_id": "735e0c8a9d547033755bcb9b3d54f9c4",
+    "text": "• IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "4a8c2429ce422cd07ffdb2fb491fd017",
+    "text": ", System Designer • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "86f7029fae04e5428d5c501e02e24ad8",
+    "text": ", Technical Support Staff (Desktop) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "bb9447eff23f975675f961dd03349b73",
+    "text": ") This is a Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "fa920ad3a6eb55b1a2823c47f68f02ec",
+    "text": "oint Services speciﬁc role. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "6a5f8c81e50cd72d60fa9211f5753c4e",
+    "text": ") This role supports general activities associated with Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "b6fe62f4fa3dcde51d0c2286797dd056",
+    "text": "oint and administration including user support, communication activities, requests for service, and creating documentation (policy, procedures, nance or best-practices). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "750d354c4cf99be8f5033423d07475c3",
+    "text": ") Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "c736e2ec1115652f351febb30022f57d",
+    "text": "oint Analysts are required to take specialized IT training per IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "6ca49bf48b2e67f47c740f1ab284e8ca",
+    "text": ", IT Security Roles and Responsibilities (see Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "c55b7ac5e72770362594448e6d78f1c4",
+    "text": ", Roles Require Special Training). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "92e10677b48f73c3909da35f407f6135",
+    "text": ") This Includes roles deﬁned in IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "ec8c6d72050f735c3027f0aba912f670",
+    "text": ", IT Security Roles and ties, including, but not limited to, the following (this is because the following roles overlap with the Farm Admin role): • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "dcfac028a9c2ae7e5c9b25caf6847490",
+    "text": ", Web Developer • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "eb0cf39b033952f310048a92aaeaa666",
+    "text": ", Systems Operations Staff • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "1d840020b791d7979d88b3b83f7fb5ea",
+    "text": ", User Administrator (UA) • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "96b2728b2ce8faf19d7f704a341444f5",
+    "text": ", Management/Program Analyst • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "86f7029fae04e5428d5c501e02e24ad8",
+    "text": ", Technical Support Staff (Desktop) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "ce5fd1a4bc2a9f1d9bd9db1a5d67c8b6",
+    "text": ") Business Units are responsible for ensuring their organization’s Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "0f056fd8fa6f87f3b8f4884cada84276",
+    "text": "oint sites are used in compliance with IRS policy. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "746591b7c8815d40b3271bf024f4ce77",
+    "text": ") Business Units own and manage the content (e.g. document libraries, lists, calendars, etc.) associated with their Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "33ef7eccec99d71e3728cef20f5fb769",
+    "text": "oint Site Collections. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "6449f091a8d2c5d5df1af087d0b5efb2",
+    "text": ") Business Units are responsible for ensuring their organization’s use of Point is compliant with applicable data management and processing rules, policies, and other applicable IRMs. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3b81e841fd02e2141193e2ceb3ed8531",
+    "text": ") Business Units can develop their own supplemental or organization policies regarding Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "704f1f5b8585c57affec0e095f67021f",
+    "text": "oint use and management. • Participants in the development of any enhanced, supplemental, or ganization speciﬁc Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "5faedaad3442cecb4ffcc53745e89680",
+    "text": "oint policy are determined by the IRS organization developing policy. • Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "5f3c2b1be8a4c878de7aa94d111cc82c",
+    "text": "oint Services recommends that individuals shaping speciﬁc Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "f9949cc34d95c747714fb035ab4b6f15",
+    "text": "oint policy be involved and engaged with the Services via the various SP governance organizations (for example, Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "42d4890d965a90b7c44a4e204fcec7e5",
+    "text": "oint Governance Board (SPGB) or the Federal (FED) Advisory Board (CAB)) that provide oversight and direction to Point Services. • Any organization speciﬁc or enhanced Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "5fb49a3cf340b8aec2189bb655ae999f",
+    "text": "oint policy is scoped limited to what is supportable by the Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "ed98c7686d1c7e397c9b1be915f8347f",
+    "text": "oint Services from tional, organizational, and governance and policy perspectives. Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "12c610ed821ce414b89d87f2200e9f57",
+    "text": "oint Services does not alter its practices or procedures to Business Unit speciﬁc policies or requirements. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "b796524575e8aeb56bea6826078db7f3",
+    "text": ") This IRM and all Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "506ae1086e6e8932878aadf501bd80ac",
+    "text": "oint Services identiﬁed policies and procedures precedence over any Business Unit speciﬁc policy.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "078b0443b617cce6106caa2927eb07ba",
+    "text": "Business Units own and manage the content (e.g. document libraries, lists, calendars, etc.) associated with their SharePoint Site Collections.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "ebad4613248d08cfc1dfc83290d8c342",
+    "text": "Participants in the development of any enhanced, supplemental, or or- ganization speciﬁc Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "519bf92dc23ca92d62e039760ee3aa74",
+    "text": "oint policy are determined by the IRS organization developing policy. Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "46c3ca0f1480a871bb163293ac25c54f",
+    "text": "oint Services recommends that individuals shaping organization speciﬁc Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "f3a401d244ec67420623a382c2e9b586",
+    "text": "oint policy be involved and engaged with the Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "7b2941facfddec23e4b632ea989fb868",
+    "text": "oint Services via the various SP governance organizations (for example, the Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "247e27e382a76db63f5830151700e9d0",
+    "text": "oint Governance Board (SPGB) or the Federal (FED) Customer Advisory Board (CAB)) that provide oversight and direction to Share- Point Services. Any organization speciﬁc or enhanced Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "09e1c9dc67ab90d7b9e0ad0f973f29e4",
+    "text": "oint policy is scoped and limited to what is supportable by the Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "eacef484cddb7af7d655168472fc4742",
+    "text": "oint Services from opera- tional, organizational, and governance and policy perspectives. Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "5a3151bb4a59c9f9dc0be01d949ef4e3",
+    "text": "oint Services does not alter its practices or procedures to satisfy Business Unit speciﬁc policies or requirements.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3ad4e7941d7237c5acd678d06a8a5061",
+    "text": "SharePoint Services recommends that individuals shaping organization speciﬁc SharePoint policy be involved and engaged with the Services via the various SP governance organizations (for example, the SharePoint Governance Board (SPGB) or the Federal (FED) Customer Advisory Board (CAB)) that provide oversight and direction to Share-",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "3bbccb03f594b519e783dea2ef482686",
+    "text": "This IRM and all SharePoint Services identiﬁed policies and procedures takes precedence over any Business Unit speciﬁc policy.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 17
+    }
+  },
+  {
+    "element_id": "4e832f5b8eeab9093496ba273792699e",
+    "text": "Integrated Enterprise Portal - Web (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "4b2ce9cff726fda0ae7474a4936b30a5",
+    "text": ") The Delegated Business Sponsor of one or more Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "cef220a09790d93a369ec1ec5fe1535d",
+    "text": "oint Site is responsible for the content stored within the site collections and all tions of the site collections from a non-technical perspective as necessary satisfy all administrative, managerial, or governance obligations. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "0b0e3efd8ce431d782fe4d0ed0edf902",
+    "text": ") Responsible to identify Site Collection Administrators (SCAs) and may rely the assistance or advice of SCAs, and other IT staff, in the implementation all responsibilities including: • Securing sensitive content from dissemination or alteration. • Protecting IRS records from inadvertent removal or deletion. • Maintaining operational compliance with all system mandates. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "8bb3c26c2d1cf14d44be99b0102a127f",
+    "text": ") Delegated Business Sponsors shall ensure that personnel within their site lection(s) performing administrative functions (full-control permissions) addition to the other duties they perform, a working knowledge of security and how it can be used to improve and enforce content security records management compliance. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "35b3b243f95c7f9ce5f7b6a03d600f3c",
+    "text": ") Delegated Business Sponsors are not required to be, but typically are, executive or senior-level federal employees. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "37aca48833ab4be3b9c280a8ace191c6",
+    "text": ") Delegated Business Sponsors shall: • Ensure their site collections are operated according to applicable security standards and Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "e63ac3edb5741f733c55953d56387181",
+    "text": "oint best-practices. • Ensure their Site Collection Administrators (SCAs) are properly nated and trained (including FISMA specialized security training). • Ensure their site collections user permissions models are focused on granting permissions via groups and not directly to individuals, direct permissions should be used when the use of groups is not feasible practical. • Grant access to the system with associated rights and privileges, adhering to the principles of least privilege (giving individuals the possible privileges necessary for performance of their duties). • Re-evaluate access privileges periodically and revoke access in a manner upon personnel transfer or termination. • Establish and maintain SP PIAs for any site collection(s) storing, or intended to store, Personally Identiﬁable Information (PII) or But Unclassiﬁed (SBU) data. • Support applicable IRS policies regarding personnel managing, tering, or accessing the system. • Assist in the investigation of various site collection use questions incidents as necessary (site use, permissions, content recovery, • Ensure security parameters are deﬁned according to business need unless system security controls have been established by authorities such as the Federal Government, the Department of Treasury, IRS policy, or Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "074547fa0065d1db2593f9e1c87a3622",
+    "text": "oint Services. • In the case of outsourced systems and services, ensure the and applicable security requirements and controls are integrated into procurement (or other contract or service provisioning) vehicle. • Ensure the site collection certiﬁcation requirements (PII/SBU, sions, Audit Log) are maintained.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "db2134728b32f6c6ef6f7626511d60e4",
+    "text": "Integrated Enterprise Portal - Web Services",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "a577c091f56935ba14e8b9ecbea52cf4",
+    "text": "Delegated Business Sponsors are not required to be, but typically are, executive or senior-level federal employees. Delegated Business Sponsors shall: • Ensure their site collections are operated according to applicable security standards and Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "16b3044fe17256d3eefcd1058b974037",
+    "text": "oint best-practices. • Ensure their Site Collection Administrators (SCAs) are properly desig- nated and trained (including FISMA specialized security training). • Ensure their site collections user permissions models are focused on granting permissions via groups and not directly to individuals, direct permissions should be used when the use of groups is not feasible or practical. • Grant access to the system with associated rights and privileges, adhering to the principles of least privilege (giving individuals the least possible privileges necessary for performance of their duties). • Re-evaluate access privileges periodically and revoke access in a manner upon personnel transfer or termination. • Establish and maintain SP PIAs for any site collection(s) storing, or intended to store, Personally Identiﬁable Information (PII) or Sensitive But Unclassiﬁed (SBU) data. • Support applicable IRS policies regarding personnel managing, tering, or accessing the system. • Assist in the investigation of various site collection use questions and incidents as necessary (site use, permissions, content recovery, etc.). • Ensure security parameters are deﬁned according to business need unless system security controls have been established by higher-level authorities such as the Federal Government, the Department of Treasury, IRS policy, or Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "cf2b08d658f9763a825454a8bc749460",
+    "text": "oint Services. • In the case of outsourced systems and services, ensure the appropriate and applicable security requirements and controls are integrated into procurement (or other contract or service provisioning) vehicle. • Ensure the site collection certiﬁcation requirements (PII/SBU, Permis- sions, Audit Log) are maintained.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "f46382e58f969b2dfefe2f4132efd400",
+    "text": "Delegated Business Sponsors are not required to be, but typically are, executive or senior-level federal employees.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 18
+    }
+  },
+  {
+    "element_id": "74f0a0550473b50a2e662bf810f30e5e",
+    "text": "page 15",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "9b62aa6c1650761e62498cf074d58aee",
+    "text": "munications with Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "804afdbc68465bc863da3978b2b7044a",
+    "text": "oint Services. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "0b7cb6e1ae455174b6ba9c907564bfee",
+    "text": ") Serves as their organizations primary Point-Of-Contact (POC) with Services and perform a variety of activities including: • Approving requests made by their organization for new Site Site Collection Deletions, or for additional Site Collection Quota tions. • Approving requests made on behalf of Site Collection Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "6fd73fc814f032f563fb165a6f81ac48",
+    "text": "oint infrastructure changes or custom deployments. • Facilitating communications with Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "e09479f62e9c3e9e183724d9abd02cb3",
+    "text": "oint Services for their tion’s Site Managers. • Facilitating their organization’s compliance with Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "45c4258902405a196a57288e52ce3c4e",
+    "text": "oint and security training requirements. • Generally assisting Site Managers (and users) within their organization unit Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "d7a143eba0e0458ad2e92692ff21ccf4",
+    "text": "oint support issues and facilitating with Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "e71bbc7b691c92f60258117c7c05a305",
+    "text": "oint Services when necessary. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "782ddaf0ccf6fff0611e6a8bc211cde5",
+    "text": ") Supports the resolution of incident management tickets submitted via KISAM/OS Ge",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "ea4ebd67db2a392d48bc5bfdc4646f02",
+    "text": "ervices from the Business Unit, additional information is discussed in the Site Management Guide on SP Central. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "710db73e50fd1d7fc9912e81b5644ed7",
+    "text": ") Site Collections are a unit within Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "099086190f7dcbe9f9df5d91f1dde292",
+    "text": "oint that comprise one or more a hierarchy and provides a logical and secure boundary to functionality and content. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "3154bbde0acb8d02484a9552fed34c3e",
+    "text": ") Site Collections are a fundamental Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "df5f59635a83f6b2e6a15853b16572d6",
+    "text": "oint element; they hold all the that share a similar theme or purpose. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "a5c7188884e6fe6ff21ce8237c5bc0c2",
+    "text": ") Responsible for all aspects of the Site Collection and manages core (e.g. metadata, navigation, permissions, templates, branding) across all sites. • Two Site Collection Administrators (SCAs) are required to be upon Site Collection request/creation. • Each site collection is expected to maintain a minimum of two Site Collection Administrators. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "07e713490ac9e5c9b28cd21a70806964",
+    "text": ") Provides resolution and support for any technical issues with sub-sites, for example; permissions management, sub-site deployment/deletion, restore items from the Site Collection’s Recycle Bin, edit search keywords, and manage search scopes. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "38f0ba3a103dceb5926b8daccff5b0e0",
+    "text": ") Support the resolution of support/trouble tickets submitted via KISAM/OS Services. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "099f03995cb12a4f7e57aa9201ce2ecf",
+    "text": ") If necessary, Site Collection Administrators (SCA) are responsible for ting a SP PIA and/or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "bcab056212c48c2a69fc99246ddd97d0",
+    "text": "Compliance Package. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "ee8c3da924008895bb36af98da7597d7",
+    "text": ") Responsible to deploy any sub-sites and assign the corresponding Site Owners with permissions to manage the sites. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "73342b8ecaaa0c6c8b3004aaf0e9034b",
+    "text": ") Responsibilities of the SCA include:",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "50e8e420e24f6e723110ce28a097a2bc",
+    "text": "Serves as their organizations primary Point-Of-Contact (POC) with SharePoint Services and perform a variety of activities including:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "1301c76ec420254fb15ba9904ffb14fd",
+    "text": "Approving requests made by their organization for new Site Collections, Site Collection Deletions, or for additional Site Collection Quota alloca-",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "69fb6765c46c0f5cb063b16b2e03e485",
+    "text": "Site Collection Deletions, or for additional Site Collection Quota alloca- tions. Approving requests made on behalf of Site Collection Administrators for Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "b2cb028b743d0c9463ab0c05920a5f0c",
+    "text": "oint infrastructure changes or custom deployments. Facilitating communications with Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "d4561f1ee0c308bcf41a829e9e64bb62",
+    "text": "oint Services for their organiza- tion’s Site Managers. Facilitating their organization’s compliance with Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "9f2972bb8c8580f72102e1937be3e828",
+    "text": "oint certiﬁcation and security training requirements. Generally assisting Site Managers (and users) within their business/ organization unit Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "62eafdd782b6b4fb1e85aeb2ba9125df",
+    "text": "oint support issues and facilitating engagement with Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "2b3d31d14d189574897e90f0ae0e5c2e",
+    "text": "oint Services when necessary.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "f8add76e2d912decc3c242252b4a6edb",
+    "text": "Responsible for all aspects of the Site Collection and manages core elements (e.g. metadata, navigation, permissions, templates, branding) across all sub-",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 19
+    }
+  },
+  {
+    "element_id": "6e6bb74d8120f8032f61d8e41a33f6f0",
+    "text": "Integrated Enterprise Portal - Web • Ensuring only authorized PII/SBU is stored on site collections • Managing Site Collection permissions including provisioning, or removing user access • Providing ﬁrst-level technical support for all end-user of the site tion • Completing site collection certiﬁcations including PII/SBU, and Auditing (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "dd969ab74981a34a9acd23e7a79c7234",
+    "text": ") All Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "46ce57726d06e4fe6705c0c86df13573",
+    "text": "oint users performing the role of Site Collection Administrator are expected to review Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "b5d9e914c714f1ab653bdfac7bd837eb",
+    "text": "oint Services prepared documentation and ing reference materials distributed via SP Central including, but not limited the following: • Site Management Guide • Self-Services Standard Operating Procedures (SOP) (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "2217f35c8c87b431e418cafcb5ac247e",
+    "text": ") Site Collection Administrators are expected to take IRS-speciﬁc Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "101b67f2510b69c6a6b517187f51f169",
+    "text": "oint training via Integrated Talent Management (ITM). This training will be performed on periodic intervals with a frequency to be determined by Point Services. Self-certiﬁcation will be used to record compliance with requirements. ITM courses include: •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "fe23e5743f01fa468367bd1dd3556889",
+    "text": ": Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "f7ee61cc7ff90a1a183597ade3578749",
+    "text": "oint in the IRS •",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "fe23e5743f01fa468367bd1dd3556889",
+    "text": ": Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "544e09c24620c0dad277424c9670e9cf",
+    "text": "oint Site Management (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "f3ff80239f53c2763275e5e0140eb64e",
+    "text": ") Business Units may require additional training for their personnel the role of Site Collection Administrator as they deem necessary. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "750d354c4cf99be8f5033423d07475c3",
+    "text": ") Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "323e80ef3461125015cac30755c1cfd7",
+    "text": "oint provides three types of users may have access to one or more collections or sites and can take actions depending on their speciﬁc access level. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "e15b13052ebd44c1d6d4743df4411c98",
+    "text": ") Manager of a speciﬁc site or sub-site with responsibilities like the Site tion Administrator, but with a more limited scope of responsibility and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "11c016a515fe64d593964f843ec9ad80",
+    "text": ") Administrative duties and functions may fall under other roles established the local policies, procedures, and governance for the Business Unit. In situations, local policies will supersede. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "1658a0de6f85198a4ea6b121c43bd78a",
+    "text": ") Ensure that a current SP PIA is in place for their site, if needed, and that content on their site is Section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "6947ce14bd216a6bcd9dd2e4756a0672",
+    "text": "compliant. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "399ea61eea1c3cec0111eb633ea4450a",
+    "text": ") Manage the site permissions including provisioning, changing or removing access. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "38f0ba3a103dceb5926b8daccff5b0e0",
+    "text": ") Support the resolution of support/trouble tickets submitted via KISAM/OS Services. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "ddfc68183603cb187c69dde3dc1641e9",
+    "text": ") Provide support and management for the site including any sub-sites; include but are not limited to; permissions management, content ensuring that only approved sites are used for PII/SBU, identiﬁcation and reporting of any out of ordinary or suspicious behaviors. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "dd969ab74981a34a9acd23e7a79c7234",
+    "text": ") All Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "51de1feae7b5fb7dd9aeec233ac038d2",
+    "text": "oint users performing the role of Site Owners are expected to mandatory training including IRS speciﬁc SP training via ITM and review Internal Revenue Manual Cat. No.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "6da43b944e494e885e69af021f93c6d9",
+    "text": "J",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "db2134728b32f6c6ef6f7626511d60e4",
+    "text": "Integrated Enterprise Portal - Web Services",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "2e01fcd3fc59a2b57708d814d6e043ef",
+    "text": "Business Units may require additional training for their personnel performing the role of Site Collection Administrator as they deem necessary.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "093e51695ceabcb8522127efeecd1c67",
+    "text": "SharePoint provides three types of users may have access to one or more site collections or sites and can take actions depending on their speciﬁc access",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "98ebcd1e504a67b16ef5c70cb658e141",
+    "text": "Manager of a speciﬁc site or sub-site with responsibilities like the Site Collec- tion Administrator, but with a more limited scope of responsibility and access.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "5bb55a13fac48818ea976d2619a5c895",
+    "text": "All SharePoint users performing the role of Site Owners are expected to obtain mandatory training including IRS speciﬁc SP training via ITM and review",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 20
+    }
+  },
+  {
+    "element_id": "9bc5e080883889bc8b1134731817aab1",
+    "text": "SharePoint Services prepared documentation and supporting reference materials distributed via SP Central including, but not limited to, the",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "eb5290607ed27afafa3bf127f4ff7bce",
+    "text": "IRS SharePoint includes other roles that are ancillary or deﬁned to support IRS speciﬁc activities.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "c9ce1cdea3142bcfd11e57df8b11e09c",
+    "text": "Content Owners refer to users that perform various functions with a Site or sub-site. This includes, but is not limited to, the following types of activities:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "a5d58c9d7926ea897d57b7e62cf92e09",
+    "text": "Add, delete, or modify content within Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "be43db9f95cf367e7cf45caf7901adf0",
+    "text": "oint components Parts, Pages, Lists, etc.) without intervention from other users Approve permission changes or access requests for their sites (or sites) Provide best practice utilization guidance to site users Monitor sites to ensure they are used in an acceptable, manner and content is appropriate Ensure SBU/PII data is handled according to IRS privacy policies Ensure content meets section",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "670950f6432658142423f04ba0dc8d47",
+    "text": "accessibility requirements Address, report, or resolve usage concerns or violations Support the resolution of support/trouble tickets submitted via KISAM/OS Ge",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "3f819ab4e971dd18ce4c377ae5a1c1e5",
+    "text": "ervices",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 21
+    }
+  },
+  {
+    "element_id": "db2134728b32f6c6ef6f7626511d60e4",
+    "text": "Integrated Enterprise Portal - Web Services",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "7d57c1a21157dd406c758004fc3cafab",
+    "text": "These roles support SharePoint governance and the implementation of best-",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "f7fbb89f5de65d80590f32692a854565",
+    "text": "These roles provide various levels of support to Site Managers and may have direct or indirect involvement with the management of Site Collections and",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "c57d55315cd68f68068e09c1eeddf92c",
+    "text": "The SPGB provides policy oversight to SharePoint Services and prioritizes the activities subject to the discretion and/or approval of the IESC and/or ETID.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "4b643cfe3b0f5769470a328510569e4a",
+    "text": "The SP CCB Chairman, with guidance from the SP CCB members, determines if each requested change can and should be implemented.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "a02e21fe4ac3a4bdd72e35d687841d63",
+    "text": "The SPUG is a community of practice that conducts open calls with any inter- ested SharePoint users to facilitate communications, best practices, and",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 22
+    }
+  },
+  {
+    "element_id": "ae074bf1a2372373e87e72ce24ac4c37",
+    "text": "page 19",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "800134eaadf15f90f4bec59aabc57e53",
+    "text": "The Technical POCs may be different resources than the Business Unit Point Representatives or they may overlap (in whole or part).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "c7330ac5d7f8389116f78144a0c4ec4d",
+    "text": "These Technical POCs help address end-user technical questions and may provide support and insight to SharePoint best-practices.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "479f201e69367655120744e7cb86b80b",
+    "text": "The Reviewers may be different resources than the Business Unit SharePoint Representatives or they may overlap (in whole or part).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "32620ec066abf7bb1d672b0d95461d43",
+    "text": "SharePoint Security responsibilities and activities are decentralized and performed hierarchically by various IRS organizations and SharePoint",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "b9d7d3e1ef3ab7ba72835be4ed2e5946",
+    "text": "Identifying information site account types to support organizational missions/business functions Providing guidance to site managers for group and role membership Requiring approval by the Business Unit (Delegated Business Sponsors or Business Unit Representatives) for requests to create sites for which they are responsible Establishing a process for reissuing shared/group account credentials when individuals are removed from the group",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "e96459b752eafaa10a490a985cab8396",
+    "text": "The SharePoint Program/Project Management Plan (PMP) is a resource information about this program and is available on SharePoint Central.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "3e04055e5f500ea83d7208c01aee288f",
+    "text": "Ensure implementation of security controls for protecting sensitive SBU, PII) IRS data residing in the BU’s Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "730f0a2541b541850dad5a6f226d8adf",
+    "text": "oint sites and tive environments. Ensure all applicable security training requirements are met by employees managing Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "3d6d83ae687a075c520709a6fc499625",
+    "text": "oint.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 23
+    }
+  },
+  {
+    "element_id": "db2134728b32f6c6ef6f7626511d60e4",
+    "text": "Integrated Enterprise Portal - Web Services",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "64809d6d97e3c3aa043941c62269a1a5",
+    "text": "Integrated Enterprise Portal - Web • Following any Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "15a8702f3cfd81f320255eb545c1d058",
+    "text": "oint relevant Access Controls (AC) and ments including: • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "b8a1ffa5c932e8e77c5be8044389fd56",
+    "text": "Section (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "293e0e8df8d5423357f82f009ce81f3c",
+    "text": "sub-sections b, d, e, f), (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "6a5a87c839706270ee45f604184986d6",
+    "text": "), (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "6a5a87c839706270ee45f604184986d6",
+    "text": "), (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "6a5a87c839706270ee45f604184986d6",
+    "text": "), (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "6a5a87c839706270ee45f604184986d6",
+    "text": "), (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "69d2a377fd338f4df92cc32e1f903aaa",
+    "text": ", (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "2d4fe37f870717025e85f0b9d0807408",
+    "text": "), and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "6283b21c505d7d0765b670ac041f078b",
+    "text": ") • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "941a87ac1324a78045264284173c42f0",
+    "text": "Sections (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "749726f6177860bd3192117e9cde4642",
+    "text": ") and (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "6283b21c505d7d0765b670ac041f078b",
+    "text": ") • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "5fea9bb09316061f792706f426b67a5e",
+    "text": "All sections • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "5fea9bb09316061f792706f426b67a5e",
+    "text": "All sections • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "f2b262a1ec45facc5955a63429f3e975",
+    "text": "All sections • Following any Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "e4a9cfdec973e1e3248aaa4056d00c3c",
+    "text": "oint relevant Audit Controls (AU) and ments including: • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "5fea9bb09316061f792706f426b67a5e",
+    "text": "All sections • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "5fea9bb09316061f792706f426b67a5e",
+    "text": "All sections • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "cc397dea68fa7199437e8ca82920a635",
+    "text": "All sections • Assign Site Managers to manage and perform the various security tivities. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "3199b98a14853892cdf71ead32e21355",
+    "text": ") Site Managers (Site Collection Sponsors, Site Collection Administrators, Site Owners) are responsible for performing recommended security and activities for all assigned Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "6e1456d7b90217d88f4cb43854e1421e",
+    "text": "oint sites (Site Collections or This includes, but is not limited to, implementing security controls and en- hancements. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "29fcd5fdb9fc99cb8a695b384a46d953",
+    "text": ") Site Managers shall be assigned by the Business Units. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "750d354c4cf99be8f5033423d07475c3",
+    "text": ") Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "495e188fd593d695707ff925b706e3ee",
+    "text": "oint use is subject to numerous policies and direction established the Federal Government, the Department of Treasury, and the IRS. The with IRS following sections are IRS-speciﬁc and are not intended to absolve users adherence from following higher-level governance, direction, mandates, (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "165c18021f600cb9c658ce394392b358",
+    "text": ") Proper operation of the Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "4ad89549a6c6deda786c13b23ba98f5d",
+    "text": "oint environment requires speciﬁc numerous policies and processes, and artifacts to guide the actions of Point program staff, Business Units, and end users. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "750d354c4cf99be8f5033423d07475c3",
+    "text": ") Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "9880dfc08d5dae936f7ed5369b34f45d",
+    "text": "oint Services interfaces with process owners to ensure IRS policies complied with in the IRS Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "b81e8b849d5d1ad1bb01ea38d7bd859c",
+    "text": "oint environment. The process owners • Privacy, Governmental Liaison and Disclosure (PGLD) – Determines PII/SBU data policies all Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "d5c53c8c66bf328fae7efd34ff1b1da5",
+    "text": "oint site owners and users must and identiﬁes the records management conﬁguration and policies must be supported by Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "118455b3a8a91c0cf17771fab410246c",
+    "text": "oint to support in-place and records management. • Information Resources Accessibility Program (IRAP) – Determines accessibility requirements which apply to the IRS Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "9c48d0fa9e6dfcf529f414a8eb23d4fa",
+    "text": "oint • Cybe",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "14fe3c869bfbeb4195811daa78bb3337",
+    "text": "ecurity – Establishes baseline security controls and tions for servers and guidance for all servers and network comprising the IRS Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "9a66c084ad8c66f82045e49492a6f268",
+    "text": "oint platform.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "a5e30ba71a5934e9c77ab34488e4620f",
+    "text": "Following any SharePoint relevant Access Controls (AC) and enhance- ments including:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "5d8a745a005ab426764bed1649532124",
+    "text": "Following any SharePoint relevant Audit Controls (AU) and enhance- ments including:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "eb74bde4668f6c6c8aed1ff2d863d369",
+    "text": "Assign Site Managers to manage and perform the various security ac- tivities.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "1715a33965b72bf70206b5cda54736f5",
+    "text": "SharePoint Services interfaces with process owners to ensure IRS policies are complied with in the IRS SharePoint environment. The process owners include:",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "32bdcf6e44b0611faf5d1b765a10f554",
+    "text": "Privacy, Governmental Liaison and Disclosure (PGLD) – Determines PII/SBU data policies all Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "39e4543afc1b60c3eec4a9676b3dc047",
+    "text": "oint site owners and users must follow and identiﬁes the records management conﬁguration and policies that must be supported by Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "7e86022a119aae133df37e7ab06121a3",
+    "text": "oint to support in-place and centralized records management. Information Resources Accessibility Program (IRAP) – Determines the accessibility requirements which apply to the IRS Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "dbddcccf4810d2d2e9dfd69536b728eb",
+    "text": "oint platform. Cybe",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "49b702cfbc076da72169985c554cfd5e",
+    "text": "ecurity – Establishes baseline security controls and conﬁgura- tions for servers and guidance for all servers and network components comprising the IRS Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "9a66c084ad8c66f82045e49492a6f268",
+    "text": "oint platform.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 24
+    }
+  },
+  {
+    "element_id": "51a6e3bef20cfc59bcf5b368ec15e51b",
+    "text": "• Enterprise Services/Enterprise Architecture – Develop the technical chitecture and direction, including product selection, in coordination Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "804afdbc68465bc863da3978b2b7044a",
+    "text": "oint Services. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "c8c8d5acb080df8f878394eb742ebfc7",
+    "text": ") The storage of PII/SBU in Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "02fa4d03ee463029a24adc972767aa8f",
+    "text": "oint is authorized provided approval from PGLD has been obtained (prior to storing PII/SBU data) in the form of a current SP PIA. • Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "a94b71eaa66aaa6c81bd29221248df54",
+    "text": "oint users are required to ensure that sensitive information is protected from unauthorized disclosure and access. This includes taxpayer information as well as other non-tax information, records and processes. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "750d354c4cf99be8f5033423d07475c3",
+    "text": ") Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "7b5c4a62e25b5a0990afbed1f5af129d",
+    "text": "oint Services supports the creation and submission of Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "4242a727e7fe573835f510ec69656147",
+    "text": "oint speciﬁc Privacy Impact Assessments (SP PIA) to Privacy, Governmental Liaison and Disclosure (PGLD) per IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "cb7d16d2259e7006f45af80ae06b3cfc",
+    "text": ", Privacy and Civil Impact Assessment (PCLIA). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "750d354c4cf99be8f5033423d07475c3",
+    "text": ") Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "487c43ccafff43a827874ddb11c26637",
+    "text": "oint Services is not responsible for the monitoring of SP PIA status will rely on PGLD to notify Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "175ce0ef09578dc7b84fcbb0f764b4a3",
+    "text": "oint Services if a site is not in (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "2547c61647f2f96338e414674d73e293",
+    "text": ") The PII/SBU compliance status of a site collection must be reviewed and certiﬁed periodically by the Site Collection Administrators, per the IRS Site Management Guide in accordance with PGLD requirements. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "b87e2e9924af8bda492a45443986cbb0",
+    "text": ") Failure of the Business Unit and Site Collection Administrators to certify by deadline could lead to the site being disabled or removed at the discretion Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "d37d48689d642d7fc96115f6eae40f7a",
+    "text": "oint Services and/or PGLD. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "0993933cf15d2eb9181223b57259aabe",
+    "text": ") The storage of PII/SBU data is not permitted within Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "2be15ec7a612d829518129b821e7ecd0",
+    "text": "oint or Test environments. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "b5f82b1eace38fff76f72c85c26b356c",
+    "text": ") Permissions should be assigned via Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "3bba13b759c64e1ad8521993ea26f2e0",
+    "text": "oint Groups. Direct should be used when the use of groups is not feasible or practical situations when item level permissions are used as part of an automated Permissions best-practices are discussed within the IRS Site Management Guide. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "fc6ab6f247b1f77ba372e28dc4786cf5",
+    "text": ") Site Collection permissions must be reviewed and certiﬁed periodically by Site Collection Administrators, per the IRS Site Management Guide to guidelines determined by Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "f94984984309727effb1461f722bc346",
+    "text": "oint Services, approved policies, or any applicable IRMs. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "61896050412bc2d24faa95590957d0b9",
+    "text": ") Failure to certify by the deadline could lead to the Site Collection being disabled or removed at the discretion of Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "3dcdc7e98fdd3849208bb4584af6c3ea",
+    "text": "oint Services and/or curity. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "d434c7984b1d73963be58041b3522acc",
+    "text": ") Site Collection Administrators and Owners are discouraged from making changes to the base SP Permissions model including customizations to the Out-of-the-Box (OOB) permission levels. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "ef4d640e5613104192a90f1011a9e2a8",
+    "text": ") All infrastructure changes made to IRS Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "cac6a94bcdfd6d402a263f3d98d9264a",
+    "text": "oint to support permissions management are reviewed and approved by Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "3d04a67b147b7940b6ca85c43f335957",
+    "text": "oint Services.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "6f230200c743c45342e23879e392debe",
+    "text": "SharePoint Services is not responsible for the monitoring of SP PIA status and will rely on PGLD to notify SharePoint Services if a site is not in compliance.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "6cce151fefb4ada1820b925930b31332",
+    "text": "All infrastructure changes made to IRS SharePoint to support permissions management are reviewed and approved by SharePoint Services.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 25
+    }
+  },
+  {
+    "element_id": "db2134728b32f6c6ef6f7626511d60e4",
+    "text": "Integrated Enterprise Portal - Web Services",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "aa8f791aad50c759d301f1d076d1af5a",
+    "text": "Failure to certify by the deadline could lead to the site being disabled removed at the discretion of SharePoint Services and/or CyberSecurity.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "dabce2fd117877038af71a05b1d678e0",
+    "text": "SharePoint Technical architecture is deﬁned and managed by SharePoint Services in consideration of guidance and direction provided by",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 26
+    }
+  },
+  {
+    "element_id": "fe14a5a63e9c393fcc6608599d5da206",
+    "text": "page 23",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "b215d94be8e0a4259f745cd8a9ed506e",
+    "text": "All SharePoint infrastructure, including physical or virtual components, or any interfacing software is managed by SharePoint Services.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "98738bdec474e84debf48d35856e503c",
+    "text": "(12-11-2020) Customization and Conﬁguration of SharePoint",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "390011db13eff65ed87afbbccc510df9",
+    "text": "SharePoint Services has established a set of practices and procedures that must be followed in performing customization activities.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 27
+    }
+  },
+  {
+    "element_id": "db2134728b32f6c6ef6f7626511d60e4",
+    "text": "Integrated Enterprise Portal - Web Services",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "7bca8199815f6a2749e2e502ad5f5958",
+    "text": "• Proposed server-deployed code should be vetted by Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "6a4fb0463fc4929cdac14a3ac8260eca",
+    "text": "oint Services prior to analysis and development. • To submit a proposed concept for consideration SP users will create an entry on the Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "f970e91f223237f3be014ad7dbfe4393",
+    "text": "oint Registry. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "f4c5183e5c0fd5b1c22dac54a68475ca",
+    "text": ") Server-deployed custom code shall be developed consistent with the IRS Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "56155759b4b0ac6f03bc2fb2abd70093",
+    "text": "oint Development Standard available on Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "e3f1a1267846432e183078103f805fa5",
+    "text": "oint Central. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "36e33a1b4c0e01c49f3d3657987e9203",
+    "text": ") All server-deployed custom code developed by business units with the intention of deployment to the IRS Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "fa36a2f2858d8fcd9bf1c754658843a7",
+    "text": "oint environment shall be developed in accordance to IRS Enterprise Life-Cycle (ELC) methodology (and documen- tation requirements). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "750d354c4cf99be8f5033423d07475c3",
+    "text": ") Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "9a1648280e7607d21270f4431857008d",
+    "text": "oint Services must approve all proposals for server-deployed custom code prior to development (via the Shar",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "4ff0ef54e3e82aeb8e343a0cbe3bacb5",
+    "text": "oint Change Control Board (SP CCB)).",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 28
+    }
+  },
+  {
+    "element_id": "57726576f15551942c2b97aa3a29c547",
+    "text": "Server-deployed custom code shall be developed consistent with the IRS SharePoint Development Standard available on SharePoint Central.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-025-020--2020-12-11.pdf",
+      "page_number": 28
+    }
+  }
+]

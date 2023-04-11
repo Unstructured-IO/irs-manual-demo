@@ -14,6 +14,7 @@ PINECONE_INDEX_NAME = os.environ.get("PINECONE_INDEX_NAME")
 
 
 def load_documents(path_to_files):
+    # Uses UnstructuredLoader under the hood
     loader = DirectoryLoader(path=path_to_files, glob="*.json")
     raw_documents = loader.load()
     text_splitter = RecursiveCharacterTextSplitter()

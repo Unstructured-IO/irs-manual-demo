@@ -2,6 +2,7 @@ from langchain.prompts.prompt import PromptTemplate
 from langchain.llms import OpenAI
 from langchain.vectorstores import Pinecone
 from langchain.embeddings.openai import OpenAIEmbeddings
+from langchain.chains.question_answering import load_qa_chain
 import pinecone
 import os
 
@@ -37,17 +38,7 @@ QA_PROMPT = PromptTemplate(template=template, input_variables=["question", "cont
 
 def get_chain(vector):
     llm = OpenAI(temperature=0, openai_api_key=OPENAI_API_KEY)
-
-    from langchain.chains.question_answering import load_qa_chain
-
     chain = load_qa_chain(llm)
-    #
-    # qa_chain = ChatVectorDBChain.from_llm(
-    #     llm,
-    #     vector,
-    #     qa_prompt=QA_PROMPT,
-    #     condense_question_prompt=CONDENSE_QUESTION_PROMPT,
-    # )
     return chain
 
 
@@ -65,8 +56,6 @@ if __name__ == "__main__":
         result = qa_chain.run(
             input_documents=docs, question=question, chat_history=chat_history
         )
-        # result = qa_chain({"question": question, "chat_history": chat_history})
         chat_history.append(result)
         print("AI:")
-        # print(result["answer"])
         print(result)

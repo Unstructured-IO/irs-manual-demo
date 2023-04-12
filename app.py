@@ -1,9 +1,10 @@
 import os
 from typing import Optional, Tuple
 import gradio as gr
-from cli_app import get_chain
 from threading import Lock
 from langchain.vectorstores import Pinecone
+from langchain.llms import OpenAI
+from langchain.chains.question_answering import load_qa_chain
 from langchain.embeddings.openai import OpenAIEmbeddings
 import pinecone
 
@@ -13,27 +14,30 @@ OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 PINECONE_INDEX_NAME = os.environ.get("PINECONE_INDEX_NAME")
 
 
-def grab_vector_connection():
+def get_chain_and_vectorstore():
+    llm = OpenAI(temperature=0, openai_api_key=OPENAI_API_KEY)
+    chain = load_qa_chain(llm)
     embeddings = OpenAIEmbeddings(openai_api_key=OPENAI_API_KEY)
     pinecone.init(api_key=PINECONE_API_KEY, environment=PINECONE_API_ENV)
     vectorstore = Pinecone.from_existing_index(PINECONE_INDEX_NAME, embeddings)
-    qa_chain = get_chain(vectorstore)
-    return qa_chain
+    return chain, vectorstore
 
 
 class ChatWrapper:
     def __init__(self):
         self.lock = Lock()
 
-    def __call__(self, inp: str, history: Optional[Tuple[str, str]], chain):
+    def __call__(
+        self, inp: str, history: Optional[Tuple[str, str]], chain, vectorstore=None
+    ):
         """Execute the chat functionality."""
         self.lock.acquire()
-        if not chain:
-            chain = grab_vector_connection()
+        if not chain or not vectorstore:
+            chain, vectorstore = get_chain_and_vectorstore()
         try:
             history = history or []
-            # Run chain and append input.
-            output = chain({"question": inp, "chat_history": history})["answer"]
+            docs = vectorstore.similarity_search(inp, k=2)
+            output = chain.run(input_documents=docs, question=inp, chat_history=history)
             history.append((inp, output))
         except Exception as e:
             raise e

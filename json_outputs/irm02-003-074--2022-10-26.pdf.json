@@ -1,0 +1,461 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "235120af55cd084236f180e747d95963",
+    "text": "2.3.74.1 Added Program Scope and Objectives with updated mandatory Internal Controls.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "ba5ec51d07a4ac0e951608704431d59a",
+    "text": ")",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "ff9977a596bc778a2cb52e99f8fbfc8c",
+    "text": "Error Message (a) has been updated to reﬂect changes to the acceptable Command Code Deﬁners: Deﬁner ‘",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "388fa342a41974fd10f5189d0d71b8da",
+    "text": "’ has been added to access both IMF and BMF tax processing year",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "0190f4fa4fbf72ac982221d95a9819e6",
+    "text": "tax return) data, and obsolete Deﬁner ‘",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "45a04a97fae3b81b2a3d3afd1aeb0137",
+    "text": "’ has been deleted.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "e3b92e17ce0d3b6e07eb0ded9fc16cb0",
+    "text": "2.3.74-1 Exhibit Description now shows an updated list of acceptable Command Code Deﬁners.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "7e9ff16e9e7f7824e8692fc48d264515",
+    "text": "IRM 2.3.74, dated January 15, 2022, is superseded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "48e6158b66bf6d05155daa49a4999786",
+    "text": "You have received a copy of this IRM chapter because you are on the Distribution for IRM 2.3, IDRS Responses. Each chapter has its own catalog number used for ordering and distributing purposes. adjust the subsequent distribution of this chapter to meet your office’s needs by adjusting your quarterly Order Point Summary Report (IMR02).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "b9108b6b0687c939f43aa0f6af9b24e4",
+    "text": "2.3.74.2 (01-01-2002) Command Code DDPOL Input Format",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "288ba7c1239271ef4ec1eec6775a83f3",
+    "text": "IDRS-like paging when display of multiple returns ﬁlls a page.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d06d3ea02de0633024971133b232ac2b",
+    "text": "b. The paging routine will automatically position the cursor following the Start of Message symbol. When the ENTER key is depressed, the terminal will display the next page or any page designated by a page number onto the format by key Input. c. No entry key is needed to move from one page to another. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "12412932110d2d8be2527d4b3150bd7e",
+    "text": ") The output screen is shown in Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9a5c72b0985ba5ea8d639454a6d3eba1",
+    "text": ") The input screen will be displayed back with one of the following error messages: Code DDPOL a. * * DDPOL REQUIRES A DEFINER",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3cd89d8853f6fb5ed153bd1aff845a78",
+    "text": "—The input DDPOL command code deﬁner is not valid. b. ** INVALID RTN REQUEST—The Routing Transaction is not numeric. c. ** DDPOL FILE UNAVAILABLE—The attempt to access the Duplicate Direct Deposit Database failed. d. ** NO MATCHING RECORD FOUND—There is no information found the requested Routing Transaction Number/Bank Account Number in Duplicate Direct Deposit Database. e. * * ERROR DETECTED IN RETRIEVING DATA, CONTACT PROGRAMMER—An error has occurred when trying to retrieve a on the Duplicate Direct Deposit database. f. ** A PAGING REQUEST WAS ENTERED BEFORE A DDPOL REQUEST—The attempt to retrieve an additional page was performed before an initial DDPOL request was made. g. ** NO ADDITIONAL INFORMATION AVAILABLE FOR THIS ACCOUNT—No additional information exists for requested Routing Transaction Number/Bank Account Number. h. **FILE TYPE CD OF I OR B IS REQUIRED—The input File Type is invalid. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "c688696fe1e9143f1904a1205ef53bdb",
+    "text": ") The error screen is shown in Exhibit",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "3d8b706c280390f9c12c65df95fe6088",
+    "text": "The paging routine will automatically position the cursor following the Start of Message symbol. When the ENTER key is depressed, the terminal will display the next page or any page designated by overlaying a page number onto the format by key Input. No entry key is needed to move from one page to another.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "96434a2c407dba482fb43b684f4713d5",
+    "text": "a. * * DDPOL REQUIRES A DEFINER",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "7175517a370b5cd2e664e3fd29c4ea9d",
+    "text": "or",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9f51ae9114155f77325c8d9518e6932b",
+    "text": "—The input DDPOL command code deﬁner is not valid. b. ** INVALID RTN REQUEST—The Routing Transaction is not numeric. c. ** DDPOL FILE UNAVAILABLE—The attempt to access the Duplicate Direct Deposit Database failed. d. ** NO MATCHING RECORD FOUND—There is no information found the requested Routing Transaction Number/Bank Account Number in Duplicate Direct Deposit Database. e. * * ERROR DETECTED IN RETRIEVING DATA, CONTACT PROGRAMMER—An error has occurred when trying to retrieve a on the Duplicate Direct Deposit database. f. ** A PAGING REQUEST WAS ENTERED BEFORE A DDPOL REQUEST—The attempt to retrieve an additional page was performed before an initial DDPOL request was made. g. ** NO ADDITIONAL INFORMATION AVAILABLE FOR THIS ACCOUNT—No additional information exists for requested Routing Transaction Number/Bank Account Number. h. **FILE TYPE CD OF I OR B IS REQUIRED—The input File Type is invalid.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "e050e2fbf7512bac419b52bc6f2e55f0",
+    "text": "Exhibit 2.3.74-1 (01-03-2023) COMMAND CODE DDPOL Input Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "f9fe5899b5172c6a98a9a2abae271319",
+    "text": "Description: Screen format to input request.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "374b9194a83fcd5f16d0cc22413b7c3f",
+    "text": "LINE POSITION DESCRIPTION 1 01–05 Command Code: DDPOL 1 06 Command Code Deﬁner 1 is Tax processing year 2021 (2020 tax return). 2 is Tax processing year 2022 (2021 tax return). 3 is Tax processing year 2023 (2022 tax return). 1 07 File Type Code I = IMF B = BMF 1 08–16 Routing Transaction Number 1 17–33 Bank Account Number",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "18617134201e81768e90bfb88014f3c2",
+    "text": "12345678901234567890123456789012345678901234567890123456789012345678901234567890 |",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d866ae2af84fecdf4ce1699b50d725d2",
+    "text": "Routing Transaction Number",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "a4783e73a66eeba767acfc16d93dd656",
+    "text": "Account Number",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "27911c49f1476d2f61c475216cc5fbe0",
+    "text": "Exhibit 2.3.74-2 (01-01-2004) COMMAND CODE DDPOL Response Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "cfa5922e7f89b1247e92f45a32ee25bd",
+    "text": "Description: Screen layout for requested Routing Transaction Number/Bank Account Number",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d4fca3626efc19b2e45d7dc0c8b4b4c0",
+    "text": "Note: This format is the initial response screen. If more Records exist enter paging command for additional screen.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "dba1a7c2357e10c39a0baaaed814c447",
+    "text": "51-59 61-69123456789012345678901234567890123456789012345678901234567890123456789012345678901 {DDPOL23456 SSN2 R8 nnnnnnnnn9 nnnnnnnnn13 nnnnnnnnn14 nnnnnnnnn15 nnnnnnnnn16 nnnnnnnnn17 nnnnnnnnn18 nnnnnnnnn19 nnnnnnnnn20 nnnnnnnnn21 nnnnnnnnn*DUPLICATE DIRECT DEPOSIT FILE*TAXDLN PERIODnnnnnnnnnnnnnn = YYYYMMnnnnnnnnnnnnnn  YYYYMMnnnnnnnnnnnnnn = YYYYMMnnnnnnnnnnnnnn - YYYYMMnnnnnnnnonnnnnn - YYYYMMnnnnnnnnnnnnnn = YYYYMMnnnnnnnnnnnnnn - YYYYMMnonnnnonnnnnnn - YYYYMMnnnnnnnnnnnnnn = YYYYMMnnnnnnnnnnnnnn  YYYYMMnnnnnnnnnnnnnn - YYYYMMnnnnnnonnnnnnn - YYYYMMPAGE nnn OF nnn[SE=1= s Nic =Tk N« B= Bta B Y= Y= = |CYCLE REFUNDADDED AMOUNTYYYYCC + $nn,nnn,nnn,nnn,nnn.YYYYCC $nn,nnn,nnn,nnn,nnn.YYYYCC $nn,nnn,nnn,nnn,nnn.YYYYCC $nn,nnn,nnn,nnn,nnn.YYYYCC $nn,nnn,nnn,nnn,nnn.YYYYCC $nn,nnn,nnn,nnn,nnn.YYYYCC $nn,nnn,nnn,nnn,nnn.YYYYCC $nn,nnn,nnn,nnn,nnn.YYYYCC $nn,nnn,nnn,nnn,nnn.YYYYCC $nn,nnn,nnn,nnn,nnn.YYYYCC $nn,nnn,nnn,nnn,nnn.YYYYCC $nn,nnn,nnn,nnn,nnn.YYYYCC $nn,nnn,nnn,nnn,nnn.YYYYCC $nn,nnn,nnn,nnn,nnn.>DDPPG nnnYEAR CCYY RTN nnnnnnnnn BANK ACCOUNT NUMBER nnnnnnnnnnnnnnnnn TOT RETURNS nnnn123456789012345678901234567890123456789012345678901234567890123456789012345678901-911-19 21-29 31-39 J 41-49 J 51-59 61-6971-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "5b93cd6f3229cdc35a3de961d6bd4715",
+    "text": "1234567890123456789012345678901234567890123456789012345678901234567890123456789011-19 21-29 31-39 1 41-49 j 51-59 61-69 l 71-80",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "e32c79b4527b5eb6ef3bf4596f63a7d9",
+    "text": "COMMAND CODE DDPOL Response Screen LINE POSITION DESCRIPTION 1 01–05 Command Code DDPOL 1 23–53 Screen literal 3 01–04 Year literal 3 06–09 Tax year of return 3 11–13 RTN literal 3 15–23 Routing Transaction Number (RTN). (This ﬁeld recaptures previously entered) 3 25–43 Bank Account Number literal 3 45–61 Bank Account Number (BAN). (This ﬁeld recaptures the BAN ously entered). 3 63–75 Total returns literal 3 77–80 Total Returns for this RTN/BAN 5 01–80 Literals 6 01–80 Literals 8–21 03–11 SSN for IMF accounts EIN for BMF accounts 8–21 14–27 DLN 8–21 30–35 Tax Period 8–21 39 Filing Status For IMF: 0 = None 1 = Single 2 = Married ﬁling jointly 3 = Married ﬁling separately 4 = Head of household 5 = Qualifying widow(er) with dependent child For BMF: N = None 8–21 42–47 Cycle Added 8–21 50–71 Refund Amount 8–21 74–78 Zip Code",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "f03a9b7a4f4645af19309e6319c45532",
+    "text": "Routing Transaction Number (RTN). (This ﬁeld recaptures the previously entered)",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "9690faf71a5a4cb5030dc97a355eb46e",
+    "text": "Bank Account Number literal",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "f63fe093510ae9698b3760789b95b840",
+    "text": "Bank Account Number (BAN). (This ﬁeld recaptures the BAN ously entered).",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7948019bab9245ed8d0fd5cfc17bdcaf",
+    "text": "Exhibit 2.3.74-2 (Cont. 2) (01-01-2004) COMMAND CODE DDPOL Response",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 10
+    }
+  },
+  {
+    "element_id": "0c96df3d0edc78f3c243084e320b6d6f",
+    "text": "Exhibit 2.3.74-3 (01-01-2002) COMMAND CODE DDPOL Error Screen",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "18ee650b4fc9ab591ecaa296de33e401",
+    "text": "Description: Screen layout for error messages.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "11609c70a9bcd77b265e9fdf85f408d7",
+    "text": "LINE POSITION DESCRIPTION 1 01–05 Command Code DDPOL 1 06 Command Code Deﬁner 1 07 File Type Code 1 08–16 Routing Transaction Number 2 17–33 Bank Account Number",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "d3477171d6f80a02b6415538fdd58214",
+    "text": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 11
+    }
+  },
+  {
+    "element_id": "95c9c158a7efb009929149cf404ded60",
+    "text": "123456789012345678901234567890123456789012345678901234567890123456789012345678901-9 I 11-19 21-29 31-39 J- 41-49 I 51-59 61-69",
+    "type": "UncategorizedText",
+    "metadata": {
+      "filename": "../zips/irm02-003-074--2022-10-26.pdf",
+      "page_number": 11
+    }
+  }
+]

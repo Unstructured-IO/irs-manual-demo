@@ -1,0 +1,992 @@
+[
+  {
+    "element_id": "57c80547a4fb7190d2719c112b3ccd74",
+    "text": "Department of the Treasury Internal Revenue Service",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "8381edbfddf1ea8bfe9c17200f451b96",
+    "text": "IRM 2.125.1 dated September 19, 2018 is superseded.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "15ec0394e1ccdc7f5b1117734fc6c47b",
+    "text": "The Change Management Policy is applicable to all Information Technology (IT) organizations, and other stakeholders having responsibility for change, management, oversight, and successful day-to-day operations of the IRS IT enterprise hardware, software, and services.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "element_id": "a9360e0212a4d173581c91da68494d02",
+    "text": "Table of Contents",
+    "type": "Title",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "64b16ca41e360170770df3c27c79b179",
+    "text": ") Purpose. This document describes the formal Information Technology (IT) policy for implementing the requirements of the Change Management and process. It provides the purpose, scope, authority, and mandates for alizing this process. The objective of Change Management is to ensure standardized methods and procedures are used for efficient and prompt handling of all changes to control the IT infrastructure to minimize the of any related incidents upon the service. All changes must be recorded managed in a controlled way. The scope of Change Management covers changes to all conﬁguration items (CIs) across the whole service lifecycle. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5c2f815fe660a1297fdc614701c59813",
+    "text": ") Audience. The Change Management policy is applicable to all IT tions, contractors, and other stakeholders having responsibility for change, management, oversight, and successful day-to-day operations of the IRS enterprise hardware, software, and services. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "56e0e9bf3eee79fcf623e0a8b099baeb",
+    "text": ") Policy Owner. Demand Management & Project Governance (DMPG) within Enterprise Operations (EOps) - Information Technology (IT). (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d4c813f13c376647a64bae5928e10611",
+    "text": ") Program Owner. Governance & Resource Management Branch (GRMB), within DMPG - EOps - IT. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3fca944416d13b7624f81b1c39041fc7",
+    "text": ") Primary Stakeholders. IT organizations having responsibility for an internal or local Change Management process and/or managing and trolling their IT system and/or system components are stakeholders in the Change Management process. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "fbfa7b26d13861e571c986ac5d3a0ed0",
+    "text": ") Contact Information. To recommend changes or to make any this IRM section, email the IT C",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "0435f341f02b8337c9dfa9e962570fb9",
+    "text": "PMO: it.chm.pmo@irs.gov (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "965c84d21d9adb9432b3193f0d8e45c2",
+    "text": ") This IRM establishes the IT Change Management process tailored from industry best practices and standards to support the system and requirements of the IRS. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "c2d0dc0d46d85479d125132bde7b4f6d",
+    "text": ") This IRM enables the IT Change Management process to meet certain industry, federal, and regulatory requirements. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "9152f9d080cb665f1cb7554ed5e6acef",
+    "text": ") IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f4d2f1c30f30c1005625acfbfbf65e05",
+    "text": "Policy Statements for Information Technology Activities (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "61985bf0f109fa24b969eea2b60dac66",
+    "text": ") Office of Management and Budget (OMB) Circular A-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "58734001bb04b3799d5a49432e5dd7a1",
+    "text": ", “Managing tion as a Strategic Resource” (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "973eec18533bcc22e8502509bd4b2f1f",
+    "text": ") Federal Information Security Modernization Act (FISMA) of",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "4d1c4376b7eef214f6189ddaacdf88f6",
+    "text": "(Public",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "d03502c43d74a30b936740a9517dc4ea",
+    "text": ",",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3dde180d1d9420842290cc8a8934f314",
+    "text": "USC",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "453543dc0567f05ebf653bee31782e25",
+    "text": ") (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6dba50921659c4eb20eeba5f1b4e1ad6",
+    "text": ") The Director, Demand Management & Project Governance, is the Process Owner accountable for the IT Change Management process and providing resources for maintenance and support. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "5febc2e8cd95f54cc5cb527edbf205fc",
+    "text": ") The Chief, Governance & Resource Management, is the Process sponsible for the IT Change Management Program Management Office PMO) under the Change & Conﬁguration Management (CCMS) Section. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "67a137f974d6634f86aad58ed23c9f09",
+    "text": ") The IT C",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "f9d904c132ff6e7cf737b156dd8e0e81",
+    "text": "PMO is responsible for: a. Developing and maintaining the IT Change Management policy and process for Infrastructure Change Management. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "3973e022e93220f9212c18d0d0c543ae",
+    "text": "-",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "6726c0a6ddbc7e77d189e9318f57a047",
+    "text": ") Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "60bf6f82f2c6454c69ee7f1f2a92471d",
+    "text": "Developing and maintaining the IT Change Management policy and process for Infrastructure Change Management.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "element_id": "2991fc3e8dfdb29918b873573f1d83fd",
+    "text": "Training and coaching Process Practitioners assigned to perform their roles deﬁned in the IT Change Management process. Communicating and socializing the IT Change Management process throughout the process community and other key stakeholders. Improving the IT Change Management process through process and erational metrics, process assessments and audits, and process and evaluations.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "358f0e30bcf3284a3a2073aad6563bb8",
+    "text": "and evaluations. The IT C",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "022f0ff8536d9e8487f0b6523ff4a646",
+    "text": "PMO shall manage and evaluate the process based on the following guiding principles: a. Process Management. The Change Management process will have a single Process Owner and a separate Process Manager, responsible for implementation and ensuring adherence to the process. The process will be reviewed regularly to ensure that it continues to support the business requirements of the enterprise. Process metrics will be focused on providing relevant information as opposed to merely presenting raw b. People. Roles and responsibilities for the process must be clearly deﬁned and appropriately staffed with people having the required skills and training. The mission, goals, scope and importance of the process must be clearly and regularly communicated by upper management to the staff and business customers of IT. All IT staff (direct and indirect users of the process) shall be trained at the appropriate level to enable them to support the process. It is imperative that people working in, sup- porting or interacting with the process in any manner understand what they are supposed to do. Without that understanding, Change Manage- ment will not be successful. c. Process. Modiﬁcations to the Change Management process must be approved by the Process Owner. The design of the process must include appropriate interfaces with other processes to facilitate data sharing, es- calation and workﬂow. The process must be capable of providing data to support real-time requirements as well as historical/trending data for overall process improvement initiatives. The process must be fully docu- mented, published and accessible to the various stakeholders of the process. The process will be reviewed on a periodic basis to ensure it continues to support organizational goals and objectives (continuous im- provement). The process must include Inputs, Outputs, Controls, Activities, Tasks, Roles and Responsibilities, Tool and Data requirements along with documented process ﬂows. The process will be kept straight forward, rational, and easy to understand. The process must meet tional and business requirements. d. Technology and Tools All tools selected must conform to the enterprise architectural standards and direction. Existing in-house tools and ogy will be used wherever possible, new tools will only be entertained if they satisfy a business need that cannot be met by current in-house tools. The selection of supporting tools must be process driven and based on the requirements of the business. Selected tools must provide ease of deployment, customization and use. Automated workﬂow, notiﬁ- cation and escalation will be deployed wherever possible to minimize delays, ensure consistency, reduce manual intervention and ensure ap- propriate parties are made aware of issues requiring their attention. Technology and tools should be used to augment the process capabili- ties, not become an end themselves.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "element_id": "9cc6d4564f728a8eabaf1ba27a6b75d7",
+    "text": "Controls provide direction over the operation of processes and deﬁne con- straints or boundaries within which the process must operate.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "1178997100c143f0eeaaf0e5fd37716c",
+    "text": "Policies and criteria for the inclusion of a component and its attributes in the conﬁguration management system.. Applicable to any change that might affect the IT systems, infrastructure, and services in the IT environment. This should also include changes to all architectures, applications, software, tools and documentation, as well as changes to all conﬁguration items across the whole service lifecycle. The frequency and distribution for regularly produced management reports.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "aa44d5a933f9561deb8c12ef87269650",
+    "text": ") Metrics are used for the quantitative and periodic assessment of a They should be associated with targets that are set based on speciﬁc objectives. Metrics provide information related to the goals and objectives process and are used to take corrective action when desired results are being achieved and can be used to drive continual improvement of effectiveness and efficiency. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "98fc18cc3ee4e09a23ec01cf0aa429b5",
+    "text": ") Management will regularly set targets for process performance, gather able data related to different functions of the Change Management and review that data to make informed decisions and take appropriate tive action, if necessary. All measurements will have a deﬁned data map to the organizational strategic goals, and be documented in a Measurement Plan. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "5e20f9ae31f6a9755574bacc1096ca11",
+    "text": ") Enterprise and local Change Management processes, including Change agement tool owners, must produce metrics and measurement reports to measure the effectiveness and efficiency of the Change Management (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "ca2246bd6ee0e72a3c85d849dc00427c",
+    "text": ") Process Owner. The C",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3f29905001493f3accf3299198d76b47",
+    "text": "Process Owner is the single point of contact for process at the enterprise level and is accountable for the overall quality of process, ensuring that the process is performed as documented and is meeting its objectives. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d13aa3b3664a478fb5877470924e514c",
+    "text": ") Process Manager. The C",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "29a5cb56b9c5ffc73cefb8762eb97459",
+    "text": "Process Manager supports the C",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "3203e9b66e3846c253747fc10ceb95db",
+    "text": "Process Owner and is responsible for the operational management of the process. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "01f361774d9b232caceb9c04528be59b",
+    "text": ") Process Practitioner. The C",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "4e019cf8c8ed6ef234d45338fd4ce608",
+    "text": "Process Practitioner are those assigned a in the Change Management process that carry out its core activities.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "d34ded3436049a20a6e5368b258b1d7e",
+    "text": "process and are used to take corrective action when desired results are not being achieved and can be used to drive continual improvement of process effectiveness and efficiency. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "2aed74495bf02baca8d3ca49d0f1d858",
+    "text": ") Management will regularly set targets for process performance, gather quantiﬁ- able data related to different functions of the Change Management process, and review that data to make informed decisions and take appropriate correc- tive action, if necessary. All measurements will have a deﬁned data dictionary, map to the organizational strategic goals, and be documented in a Process Measurement Plan.",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "5bb1b9ae378965f51e9016bd6a647459",
+    "text": "Management will regularly set targets for process performance, gather able data related to different functions of the Change Management process, and review that data to make informed decisions and take appropriate correc- tive action, if necessary. All measurements will have a deﬁned data dictionary, map to the organizational strategic goals, and be documented in a Process Measurement Plan.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "196ea58cb490581ee548f0d4498d9354",
+    "text": "Process Manager. The ChM Process Manager supports the ChM Process Owner and is responsible for the operational management of the process.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "8508b6cdb03b904ac43c310338f7c701",
+    "text": "Practitioner. The ChM Process Practitioner are those assigned a role the Change Management process that carry out its core activities.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "element_id": "32ebb1abcc1c601ceb9c4e3c4faba0ca",
+    "text": "(",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "a974b230cceca53fffd267dbcaf2bf6a",
+    "text": ") Policy. Outlines a set of plans or courses of action that are intended to inﬂuence and determine decisions or actions of a process. Policies provide element of governance over the process that provides alignment to vision, mission, and goals. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "5a4c8f0712cb4974cbcf2156daed415d",
+    "text": ") Process. A set of linked activities that transform speciﬁed inputs into outputs, aimed at accomplishing an agreed-upon goal in a measurable manner. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f449c36788bedc2191ca1db5e9a9b30d",
+    "text": ") Objective. Process objectives describe material outcomes that are produced achieved by the process. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "16ed43efc7bf909a50b8d852adbd70b1",
+    "text": ") Control. Represents the policies and guiding principles on how the process operate and deﬁne the constraints or boundaries within which the process must operate. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "f7a78cdc7bcbac4a3c28e5b42c210427",
+    "text": ") Metric. Deﬁnes quantitative and qualitative measures to track the of a process. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "6dac55341be725c83cb26df70e3ffb13",
+    "text": ") Role. Assigned to perform speciﬁc tasks within the process and its ties are conﬁned to the speciﬁc process. Roles do not imply any functional standing within the hierarchy of an organization. For example, the Process Manager role does not imply the role is associated with or fulﬁlled by with a functional management responsibilities within the organization. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "9f9809d246eba16e8cf143a921d8187e",
+    "text": ") Conﬁguration Item. A collection and combination of hardware, software, and documentation that is used to deliver a product or service. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "3d123bb13a8937a00a04e6f431343ada",
+    "text": ") Request for Change. A formal proposal submitted by a stakeholder in the nization to alter a conﬁguration item. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "ee70fdd6ab6bc421634878b2ee847b3b",
+    "text": ") This table lists commonly used acronyms and their deﬁnitions. Acronym Deﬁnition CCMS Change & Conﬁguration Management C",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "d04ceee9f9ec6477e5261ef1bedbb9a5",
+    "text": "Change Management C",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "56c4b8dcb3cfaf4030f8534d793ca1a5",
+    "text": "PMO Change Management Program Management Office CI Conﬁguration Item DMPG Demand Management & Project Governance GRMB Governance Resource & Management Branch IT Information Technology R",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "1a1f429b7b48facd68685df7ae33f47a",
+    "text": "Request for Change",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "2ac62f9ea18c94c313ad8985f7fe4014",
+    "text": "(5) Process. A set of linked activities that transform speciﬁed inputs into speciﬁed outputs, aimed at accomplishing an agreed-upon goal in a measurable",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "dbc84b5ffaaa9eb1ae4a092ce9dac5cb",
+    "text": "Role. Assigned to perform speciﬁc tasks within the process and its responsibili- ties are conﬁned to the speciﬁc process. Roles do not imply any functional standing within the hierarchy of an organization. For example, the Process Manager role does not imply the role is associated with or fulﬁlled by someone with a functional management responsibilities within the organization.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "283a2f1692c68539e67ae57978d636bf",
+    "text": "This table lists commonly used acronyms and their deﬁnitions.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "55f9224a5173adfe060cdabb02f4361b",
+    "text": "Acronym Deﬁnition CCMS Change & Conﬁguration Management ChM Change Management ChM PMO Change Management Program Management Office CI Conﬁguration Item DMPG Demand Management & Project Governance GRMB Governance Resource & Management Branch IT Information Technology RfC Request for Change",
+    "type": "FigureCaption",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "element_id": "c611981fab983bc648368eb81240f5a5",
+    "text": "Policy",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "ef51e648dfc814b76990088c13114222",
+    "text": "page (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "f0be9969329d8b81b015548d2934fcfe",
+    "text": ") The following list the primary sources of guidance associated with the Change Management process. • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "99bc2b9e52b4ffaed4143b065aa46aa6",
+    "text": "Change Management Process • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "2c8c3b0714a1818a8e01cd93b7d8952b",
+    "text": "Conﬁguration Management Policy • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "723c93eac41dc9f7838ef12fb784695a",
+    "text": "Conﬁguration Management Process • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "fb2db8b8b6f7cf1c809965f6ed023b5a",
+    "text": "Uniﬁed Work Request (UWR) Process • IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d501015395e817fab2a873b0e15d287f",
+    "text": "Information Technology (IT) Security, Policy and Guidance (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "7480834a1d2a7c1e6d83a6d78ac85cdb",
+    "text": ") The purpose of this Policy is to establish formal requirements to manage changes to IT systems, infrastructure, and services, ensure that a consistent and systematic approach is used for implementing changes, and control the lifecycle of all changes, enabling beneﬁcial changes to be made with disruption to IT services. This includes establishing an IT-wide Change Man- agement Program and to provide responsibilities, compliance requirements, and overall principles for the Change Management process to support tion technology management across the IT organization. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "e2bfdbefe1264f8045c16944c6945aa2",
+    "text": ") This Policy is applicable to any change that might affect the IT systems, infra- structure, and services in the IT environment. This should also include to all architectures, applications, software, tools, and documentation, as well changes to all conﬁguration items across the whole service lifecycle. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a21a774da7c1acf42e829b37527c6e39",
+    "text": ") All Changes to Conﬁguration Items (CIs) will be registered. To maintain accurate information and status of CIs, any proposed change to CIs any IRS system, e.g., Production, Development, Test, Disaster Recovery, etc., will be recorded as a Request for Change (R",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "ab114784128bc0876554b8b746822a42",
+    "text": ") or Change Request (CR) in the approved Change Management system. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "76dbaf0b1333a094ee2f46dc4fd1477f",
+    "text": ") All Changes must be approved prior to implementation. All changes to supporting any IRS system, e.g., Production, Development, Test, Disaster Recovery, etc., must be approved prior to their implementation. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "89e6b2b4943571c40b5a1f0c137a8f91",
+    "text": ") All Changes must be deployed in an approved window. All changes shall be scheduled for deployment in an approved window, and can only be deployed outside that window if there is an accompanying Priority",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "552d80bb468dcc2129d2028baa1b9e39",
+    "text": "or Priority",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b65a551159279dbb043d02fb924c3654",
+    "text": "Incident Ticket that justiﬁes the exception. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "22710d7f74d3ff062c9b1127cd8ebdec",
+    "text": ") Risk, Technical, Security, and Business Impact Assessment. All changes will be assessed for risk and categorized based on risk. All R",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d2cd9a118bb8b9283c529a82ff6fa9af",
+    "text": "s must include an assessment of the risk and business impact of the change, as well as cable technical and security assessments of the planned work. Changes impacting the forecast business results, documented in a work request, business case, or equivalent justiﬁcation will be presented to the appropriate Executive Steering Committee (ESC) or Governance Board (if low risk and or low cost) for acceptance of the impact prior to approval of the R",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "dbb8102b53a47576e14b46095e979e94",
+    "text": "This ensures a comprehensive review of proposed changes before they are autho- rized and approved for release into production. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "be078ecd298d1076d13b9c7bc60902a3",
+    "text": ") Review of Unsuccessful Changes and Incidents Caused by Change. When changes are implemented, the success or failure of the implementation must be recorded on the R",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "98ee7b407b955a454b3de4aacb66e9f5",
+    "text": "Changes considered not successful include changes not implemented as planned; changes backed out, all or in part; Internal Revenue Manual",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "4b984b3ea8cbabf522d323732da1e0d5",
+    "text": "IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "84d46f6092c7057dc3f70b5be33c1840",
+    "text": "Change Management Process IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a08ec9d64947c34eba9405f79bf9d215",
+    "text": "Conﬁguration Management Policy IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "1863d6590e0771d3ce9efb531019ccca",
+    "text": "Conﬁguration Management Process IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "bf74d182e5ddc70ef11f99f9ca47e923",
+    "text": "Uniﬁed Work Request (UWR) Process IRM",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "f647813a80f94fa6fa34a1605bdf80d0",
+    "text": "Information Technology (IT) Security, Policy and",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "f9c52abd13159f2b0dc2f214f74b4f7f",
+    "text": "to all architectures, applications, software, tools, and documentation, as well as changes to all conﬁguration items across the whole service lifecycle. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "65bcd5f827fec08a315f35a0940f70f6",
+    "text": ") All Changes to Conﬁguration Items (CIs) will be registered. To maintain accurate information and status of CIs, any proposed change to CIs supporting any IRS system, e.g., Production, Development, Test, Disaster Recovery, etc., will be recorded as a Request for Change (R",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "ab114784128bc0876554b8b746822a42",
+    "text": ") or Change Request (CR) in the approved Change Management system. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b286df2e738705cc52193b8a68f863dd",
+    "text": ") All Changes must be approved prior to implementation. All changes to CIs supporting any IRS system, e.g., Production, Development, Test, Disaster Recovery, etc., must be approved prior to their implementation. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "89e6b2b4943571c40b5a1f0c137a8f91",
+    "text": ") All Changes must be deployed in an approved window. All changes shall be scheduled for deployment in an approved window, and can only be deployed outside that window if there is an accompanying Priority",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "552d80bb468dcc2129d2028baa1b9e39",
+    "text": "or Priority",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "b65a551159279dbb043d02fb924c3654",
+    "text": "Incident Ticket that justiﬁes the exception. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "22710d7f74d3ff062c9b1127cd8ebdec",
+    "text": ") Risk, Technical, Security, and Business Impact Assessment. All changes will be assessed for risk and categorized based on risk. All R",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "0e90a67c98db809df680e9bbd99c1519",
+    "text": "s must include an assessment of the risk and business impact of the change, as well as appli- cable technical and security assessments of the planned work. Changes impacting the forecast business results, documented in a work request, business case, or equivalent justiﬁcation will be presented to the appropriate IT Executive Steering Committee (ESC) or Governance Board (if low risk and or low cost) for acceptance of the impact prior to approval of the R",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "dbb8102b53a47576e14b46095e979e94",
+    "text": "This ensures a comprehensive review of proposed changes before they are autho- rized and approved for release into production. (",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "be078ecd298d1076d13b9c7bc60902a3",
+    "text": ") Review of Unsuccessful Changes and Incidents Caused by Change. When changes are implemented, the success or failure of the implementation must be recorded on the R",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "a4fc8ebe9926916cc030804fd6a14e38",
+    "text": "Changes considered not successful include changes not implemented as planned; changes backed out, all or in part;",
+    "type": "ListItem",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 9
+    }
+  },
+  {
+    "element_id": "d4b0c75f9acb005070eb1571dab332ae",
+    "text": "changes not implemented per schedule; and changes causing incidents. These unsuccessful changes will be reviewed by Change Management staff to determine the cause of the failure and plan remediation actions for the future.",
+    "type": "NarrativeText",
+    "metadata": {
+      "filename": "../zips/irm02-125-001--2022-10-31.pdf",
+      "page_number": 10
+    }
+  }
+]

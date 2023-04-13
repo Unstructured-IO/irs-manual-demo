@@ -62,3 +62,5 @@ python cli_app.py
 
 ![Chat](./gifs/chat.gif)
 
+### Chat with our hosted instance [here](https://huggingface.co/spaces/unstructuredio/irs-manuals)
+

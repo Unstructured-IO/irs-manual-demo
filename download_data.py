@@ -19,7 +19,7 @@ def get_zip_urls(base="https://www.irs.gov/downloads/irm", start_page=1, max_pag
 
 
 def download_and_unzip(urls, unzip_dir):
-    for zip_url in urls[:10]:
+    for zip_url in urls:
         filename = zip_url.split("/")[-1]
         urllib.request.urlretrieve(zip_url, filename)
         with zipfile.ZipFile(filename, "r") as zip_ref:
